@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>News | CineD – Completo</title>
+<link href="https://www.cined.com/news/"/>
+<id>https://www.cined.com/news/</id>
+<updated>2026-10-20T14:59:31+00:00</updated>
+<entry><title>ARRI ALEXA 35 and ALEXA 265 SUP 6.2.0 Released – Full Focusbug Cine RT Integration, Shared Focus Marks, Depth of Field Ramping</title><link href="https://www.cined.com/arri-alexa-35-and-alexa-265-sup-6-2-0-released-full-focusbug-cine-rt-integration-shared-focus-marks-depth-of-field-ramping/"/><id>https://www.cined.com/arri-alexa-35-and-alexa-265-sup-6-2-0-released-full-focusbug-cine-rt-integration-shared-focus-marks-depth-of-field-ramping/</id><published>2026-10-20T14:59:31+00:00</published><updated>2026-10-20T14:59:31+00:00</updated><summary>ARRI has released Software Update Package 6.2.0 for the ALEXA 35, ALEXA 35 Xtreme, ALEXA 35 Live and ALEXA 265. The update connects the Focusbug Cine RT rangefinder directly to the camera’s SERIAL port, shares focus marks between camera and Hi-5 hand unit, and adds depth of field</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/ARRI-Firmware-Update-featured-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;ARRI has released Software Update Package 6.2.0 for the ALEXA 35, ALEXA 35 Xtreme, ALEXA 35 Live and ALEXA 265. The update connects the Focusbug Cine RT rangefinder directly to the camera&amp;#8217;s SERIAL port, shares focus marks between camera and Hi-5 hand unit, and adds depth of field ramping for live productions.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SUP 6.2.0 mainly helps focus pullers, along with the multicam crews working with the &lt;a href="https://www.cined.com/arri-alexa-35-live-multicam-system-introduced-cinematic-quality-for-the-live-entertainment-sector/" target="_blank" rel="noopener"&gt;ALEXA 35 Live&lt;/a&gt;. It also covers the 65mm &lt;a href="https://www.cined.com/arri-alexa-265-announced-a-small-and-lightweight-65mm-camera/" target="_blank" rel="noopener"&gt;ALEXA 265&lt;/a&gt;, which runs the same software platform.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Focusbug Cine RT without an extra box&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We have previously covered the &lt;a href="https://www.cined.com/focusbug-cine-rt-ultrasonic-rangefinder-tracking-system-focus-pullers-best-friend/" target="_blank" rel="noopener"&gt;Focusbug Cine RT ultrasonic rangefinder&lt;/a&gt;, which reads the distance to tagged subjects. Until now, using it with an ALEXA 35 and Hi-5 required an ARRI RIA-1 radio interface adapter or an LCUBE CUB-1. With SUP 6.2.0, the camera and Hi-5 talk to the Cine RT system bi-directionally through the camera&amp;#8217;s SERIAL port. According to ARRI, all Cine RT functions covered by the Focusbug License for Hi-5 and Hi-5 SX are now available without either adapter.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT-900x506.jpg" alt="" class="wp-image-444460" srcset="https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/FocusBug-Cine-RT.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Focusbug Cine RT can now be connected to an ALEXA 35 and Hi-5 directly, without an adapter. Image credit: Focusbug&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Shared focus marks&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Focus marks can now be set on the camera with a programmable user button or on a connected Hi-5. Marks made on either side are synchronized automatically. They appear in the EVF and in the SDI status overlays, and the overlay can also display live distance readings from a rangefinder such as the Cine RT. ARRI notes that a new mark may appear with a delay of about one second.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Depth of field ramping for live productions&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For live work, the camera can now compensate exposure automatically while the iris is adjusted. Operators can shift the depth of field between foreground and background during a broadcast while image brightness stays constant. Because this changes EI dynamically within a clip, ARRI warns that some post-production tools may ignore or misread the dynamic EI metadata, so the exposure may not be reproduced as intended. The release notes also list flicker or stepping when depth of field ramping is used with mirrored ProRes recording.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Smaller changes&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Multicam SDR and HDR looks now carry an &amp;#8220;SDR&amp;#8221; or &amp;#8220;HDR&amp;#8221; prefix, so they are easier to tell apart on control panels with short character displays. A new SDI Play Mode setting lets users play back HFR clips either at project rate for slow-motion review or at the recorded frame rate.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SUP 6.2.0 is available to download now. ARRI recommends the update for all users but advises against installing it during active production. The update takes up to 20 minutes and requires a factory reset first, and the release notes list a number of known issues worth reading beforehand. For more information, please visit the &lt;a href="https://www.arri.com/en/technical-service/firmware/overview-of-all-current-software-update-packages/alexa-35-sup-6-2-0" target="_blank" rel="noopener"&gt;ARRI website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Will shared focus marks and direct Cine RT support change how your focus puller works with the ALEXA 35? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>Blackmagic Design Raises Prices on 36 Products – ATEM, 2110 IP Converters, and Cloud Store Hit by Memory Costs</title><link href="https://www.cined.com/blackmagic-design-raises-prices-on-36-products-atem-2110-ip-converters-and-cloud-store-hit-by-memory-costs/"/><id>https://www.cined.com/blackmagic-design-raises-prices-on-36-products-atem-2110-ip-converters-and-cloud-store-hit-by-memory-costs/</id><published>2026-10-20T11:36:43+00:00</published><updated>2026-10-20T11:36:43+00:00</updated><summary>Blackmagic Design has raised prices on 36 products, and the company names rising memory costs as the reason. The list covers ATEM switchers, SMPTE 2110 IP converters, DeckLink cards, HyperDeck recorders, and Cloud Store network storage, with increases from $20 to almost $7,000 pe</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Blackmagic Design has raised prices on 36 products, and the company names rising memory costs as the reason. The list covers ATEM switchers, SMPTE 2110 IP converters, DeckLink cards, HyperDeck recorders, and Cloud Store network storage, with increases from $20 to almost $7,000 per product. Let&amp;#8217;s take a closer look at the most recent Blackmagic price increase.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to a company statement issued today, the new prices are effective immediately from Blackmagic Design resellers worldwide – though at the time of writing, we were still able to find the old (lower) prices at many retailers, including our partners B&amp;amp;H and CVP, so if you act fast (links below the article, you might still receive the goods at the old prices). &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;All figures about the increases mentioned below are in US dollars and exclude local duties and taxes. The price changes apply to new orders only: Blackmagic says that all current customer backorders (orders that customers have already placed but have not yet received) will be fulfilled at the original order price. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The largest single increase is on the ATEM 4 M/E Constellation IP Plus, which goes from $12,995 to $19,960 (+$6,965, or 54%). In percentage terms, the Blackmagic 2110 IP SDI to HDMI 12G sees the steepest change, from $515 to $925 (+80%). No cinema cameras are on the list.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-900x506.jpg" alt="" class="wp-image-444416" srcset="https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Now over 50% more expensive: The Blackmagic Design ATEM 4 M/E Constellation IP Plus. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We have previously reported on an &lt;a href="https://www.cined.com/memory-crunch-hits-blackmagic-design-ursa-cine-cloud-store-media-modules-and-atem-all-get-pricier/" target="_blank" rel="noopener"&gt;earlier round of Blackmagic price increases&lt;/a&gt; that affected URSA Cine, Cloud Store, Media Modules, and ATEM products,, and on the &lt;a href="https://www.cined.com/global-memory-shortage-2026-what-filmmakers-need-to-know-about-rising-nand-dram-and-ssd-prices/" target="_blank" rel="noopener"&gt;global memory shortage&lt;/a&gt; behind price increases across the camera industry. Fujifilm has raised camera prices in the &lt;a href="https://www.cined.com/fujifilm-raises-u-s-camera-prices-again-effective-august-30th/" target="_blank" rel="noopener"&gt;US&lt;/a&gt;, in Europe, and in &lt;a href="https://www.cined.com/fujifilm-raises-camera-prices-in-japan-by-up-to-15-gfx100-ii-x100vi-and-x-e5-affected/" target="_blank" rel="noopener"&gt;Japan&lt;/a&gt; for the same reason, and Sony &lt;a href="https://www.cined.com/sony-suspends-nearly-all-memory-card-sales-as-global-flash-shortage-hits-filmmakers/" target="_blank" rel="noopener"&gt;suspended orders for nearly all of its memory cards&lt;/a&gt; earlier this year. The movement has not been in one direction only at Blackmagic, though: in September, the company &lt;a href="https://www.cined.com/blackmagic-cuts-full-frame-6k-camera-prices-cinema-camera-6k-now-1755-pyxis-6k-from-2245-and-more/" target="_blank" rel="noopener"&gt;cut the prices of its full-frame 6K cameras&lt;/a&gt;, the Cinema Camera 6K and the PYXIS 6K.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Why Blackmagic is raising prices&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In its statement, Blackmagic explains that the cost of memory (specifically the DRAM, flash, and SSD storage that &amp;#8220;goes into almost everything we make&amp;#8221;) has risen several times over during the past year. The company attributes this to memory manufacturers shifting their production to supply AI data centers. According to Blackmagic&amp;#8217;s suppliers, memory consumption is now 60% higher than at the peak of the COVID shortages, and demand is a further 30% above what the suppliers can deliver. Blackmagic calculates that, in total, demand for memory is now about double what it was at the COVID peak.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The company also says why the increases come now. For some years, Blackmagic held prices down because it was building products from parts it had already bought. That stock is now being replaced with parts bought at current prices, and on the products that use a lot of memory, the company says the increase is more than it can absorb. Blackmagic names the new SMPTE 2110 products specifically, because they use much more memory. SMPTE ST 2110 is the standard for sending uncompressed video, audio, and data as separate streams over IP networks in broadcast facilities.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Blackmagic states that it is adjusting prices &amp;#8220;only by the minimum we need to&amp;#8221;, and that it is &amp;#8220;still not happy about this&amp;#8221;. The company says it will continue to search the open market for memory and other parts at better prices, pass any savings on through special deals, and return to lowering prices when parts prices come back down, which it expects to happen.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;ATEM switchers take the largest increases&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The ATEM line has eight products on the list, and it has the largest dollar increases of the announcement. The ATEM 4 M/E Constellation IP Plus rises from $12,995 to $19,960, and the ATEM 4 M/E Constellation IP from $7,995 to $10,845 (+$2,850). The ATEM 1 M/E Constellation 4K goes from $1,895 to $2,840 (+$945), and the ATEM 2 M/E Constellation 4K from $4,415 to $5,025 (+$610). More information on the Constellation models is available on &lt;a href="https://www.blackmagicdesign.com/products/atemconstellation" target="_blank" rel="noopener"&gt;Blackmagic&amp;#8217;s product page&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On the smaller switchers, the ATEM Mini Extreme ISO G2 rises from $1,995 to $3,090 (+$1,095, or 55%), which makes it one of the largest percentage increases in the list. The ATEM Mini Pro, one of the most common switchers in small studios and streaming setups, goes from $310 to $395 (+$85). The ATEM Television Studio 4K8 moves from $4,995 to $5,855 (+$860), and the ATEM Television Studio HD8 ISO from $2,995 to $3,235 (+$240).&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;SMPTE 2110 and 100G IP products&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The IP products are the largest group, with 11 products from the Blackmagic 2110 IP family plus several 100G and other IP models. Among the full-size converters, the 2110 IP Converter 8x12G SFP rises from $2,665 to $3,575 (+$910), the 2110 IP Converter 4x12G PWR from $2,075 to $2,360 (+$285), and the 2110 IP Converter 3x3G from $595 to $920 (+$325). The 2110 IP Presentation Converter goes from $885 to $1,170 (+$285).&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-900x506.jpg" alt="" class="wp-image-444420" srcset="https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;80% more expensive: The Blackmagic Design 2110 IP SDI to HDMI 12G. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The steepest percentage increases are on the 2110 IP converters with 12G-SDI. The 2110 IP SDI to HDMI 12G rises from $515 to $925 (+80%), the 2110 IP UpDownCross 12G from $565 to $955 (+69%), and the 2110 IP SDI to HDMI 12G-10 from $995 to $1,550 (+56%). The Mini converters change less: the 2110 IP Mini BiDirect 12G goes from $380 to $530, the 2110 IP Mini BiDirect 12G SFP from $385 to $475, and the 2110 IP Mini IP to HDMI from $305 to $375. The 2110 IP Mini IP to HDMI SFP has the smallest increase of the whole list, from $305 to $325 (+$20).&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Three 100G products are also affected. The Blackmagic UpDownCross 100G rises from $2,435 to $3,600 (+$1,165), the Blackmagic StudioBridge 100G from $2,495 to $2,930 (+$435), and the DeckLink IP 100G from $1,495 to $1,795 (+$300). The other DeckLink IP cards change as follows: DeckLink IP HD from $345 to $450, DeckLink IP HD Optical from $370 to $580, and DeckLink IP/SDI HD from $395 to $510. The Blackmagic Studio Converter goes from $975 to $1,185, and the Blackmagic Media Player 10G from $975 to $1,115.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Cloud storage and HyperDeck recorders&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For post-production teams, the storage products are the most relevant part of the list. The Blackmagic Cloud Store Max 48TB rises from $21,995 to $24,245 (+$2,250), and the Cloud Store Max 24TB from $13,995 to $15,495 (+$1,500). The Cloud Store Mini 8TB goes from $4,495 to $4,895 (+$400). In percentage terms, these increases are lower than on many of the IP products, at about 9 to 11%. The Blackmagic Cloud Pod rises from $400 to $545, and the Blackmagic Cloud Dock 2 from $575 to $700.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Three HyperDeck recorders are on the list. The HyperDeck ISO Recorder 100G goes from $4,995 to $6,035 (+$1,040), the HyperDeck Studio 4K Pro from $1,655 to $1,885 (+$230), and the HyperDeck Studio HD Pro from $1,020 to $1,090 (+$70). The last product is the Blackmagic Videohub Mini 4&amp;#215;2 12G router, which moves from $610 to $690.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The new prices are effective immediately at Blackmagic Design resellers worldwide. All prices are in US dollars and exclude local duties and taxes, so the final prices in each region will differ. Orders already placed with a reseller keep their original price. Separately, Blackmagic has also started a limited-time &lt;a href="https://www.blackmagicdesign.com/event/davinci-resolve-special" target="_blank" rel="noopener"&gt;DaVinci Resolve Studio sale&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;For many smaller studios, live streaming setups, and broadcast facilities that are moving to IP, these increases change the cost of planned upgrades. Do the new prices affect your plans for ATEM switchers, 2110 IP infrastructure, or Cloud Store storage? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>Blackmagic Design Cuts DaVinci Resolve Studio 21 by 20% – Panels and Editor Keyboards Also Discounted</title><link href="https://www.cined.com/blackmagic-design-cuts-davinci-resolve-studio-21-by-20-panels-and-editor-keyboards-also-discounted/"/><id>https://www.cined.com/blackmagic-design-cuts-davinci-resolve-studio-21-by-20-panels-and-editor-keyboards-also-discounted/</id><published>2026-10-20T09:19:53+00:00</published><updated>2026-10-20T09:19:53+00:00</updated><summary>Blackmagic Design has started a limited-time sale that takes 20% off DaVinci Resolve Studio 21. The company ties the offer to the AI tools in the paid version and to new Apple and NVIDIA processors. Six DaVinci Resolve control panels and editing keyboards are also part of the dea</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/855559732_1882813202885494_5519907763114793209_n.png-300x158.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Blackmagic Design has started a limited-time sale that takes 20% off DaVinci Resolve Studio 21. The company ties the offer to the AI tools in the paid version and to new Apple and NVIDIA processors. Six DaVinci Resolve control panels and editing keyboards are also part of the deal, so let&amp;#8217;s look at what the prices are and how long they last.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to Blackmagic Design, DaVinci Resolve Studio 21 drops from $295 to $239 on the product cards of its sale page and on the DaVinci Resolve product page. The announcement text on the same sale page gives the price as US$236, which is the exact 20% figure; the buy buttons show $239. The DaVinci Resolve Micro Color Panel, Mini Panel, Advanced Panel, Speed Editor, Replay Editor and Editor Keyboard all get the same 20% reduction. The offer is available now from Blackmagic Design resellers worldwide and runs until Friday, November 20, 2026. The discounted keyboards and panels are available only while stocks last.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;DaVinci Resolve 21 has been a major topic on CineD this year. We covered the &lt;a href="https://www.cined.com/davinci-resolve-21-announced-new-photo-page-eight-new-ai-tools-tethered-camera-controls-and-more/" target="_blank" rel="noopener"&gt;announcement of DaVinci Resolve 21&lt;/a&gt; with its new Photo page and eight new AI tools, went &lt;a href="https://www.cined.com/davinci-resolve-21-hands-on-at-nab-2026-photo-page-intellisearch-and-cinefocus-in-action/" target="_blank" rel="noopener"&gt;hands-on with IntelliSearch and CineFocus at NAB 2026&lt;/a&gt;, and reported on the &lt;a href="https://www.cined.com/davinci-resolve-21-final-release-now-available-new-photo-page-expanded-ai-toolset-krokodove-in-fusion-and-wide-raw-support/" target="_blank" rel="noopener"&gt;final release&lt;/a&gt; as well as the &lt;a href="https://www.cined.com/davinci-resolve-21-0-2-released-keyframe-fixes-retime-curve-improvements-and-better-fusion-vertical-transitions/" target="_blank" rel="noopener"&gt;21.0.2 update&lt;/a&gt;. The sale arrives on the same day that Blackmagic raised prices on 36 hardware products, following an &lt;a href="https://www.cined.com/memory-crunch-hits-blackmagic-design-ursa-cine-cloud-store-media-modules-and-atem-all-get-pricier/" target="_blank" rel="noopener"&gt;earlier round of price increases&lt;/a&gt; that the company also linked to memory costs.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-900x506.jpg" alt="" class="wp-image-444438" srcset="https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;DaVinci Resolve 21, Edit page. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What the Studio version adds&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Blackmagic positions the sale around AI. In its words, the offer lets users &amp;#8220;take full advantage of the massive AI performance gains on the new Apple M6 and NVIDIA RTX Spark processors&amp;#8221;, and DaVinci Resolve Studio &amp;#8220;includes powerful AI tools that are only available in DaVinci Resolve Studio&amp;#8221;. These performance gains are the company&amp;#8217;s claim; the sale page gives no figures to support them.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On the &lt;a href="https://www.blackmagicdesign.com/products/davinciresolve/studio" target="_blank" rel="noopener"&gt;DaVinci Resolve Studio page&lt;/a&gt;, Blackmagic lists the DaVinci Neural Engine features of the paid version. These include facial recognition, SuperScale, Speed Warp retiming, Magic Mask for object isolation and tracking, Smart Reframe, object removal, scene cut detection and UltraNR noise reduction. For audio, the list covers AI voice isolation, the music remixer and the dialogue separator. The sale page also names stereoscopic tools, additional Resolve FX filters and Fairlight FX audio plugins, and advanced HDR grading as Studio features. The promotional graphic at the top of the sale page highlights AI SuperScale and RelightFX.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The free version of DaVinci Resolve 21 remains available. For many editors and colorists, the decision to pay comes down to whether they need specific Studio-only tools, such as UltraNR, SuperScale or the HDR grading toolset, for their delivery requirements.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="492" src="https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-900x492.jpg" alt="" class="wp-image-444442" srcset="https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-900x492.jpg 900w, https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-300x164.jpg 300w, https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-768x420.jpg 768w, https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-420x230.jpg 420w, https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor.jpg 1000w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Blackmagic Design DaVinci Resolve Speed Editor. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Panel and keyboard prices&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The hardware side of the sale covers six DaVinci Resolve control panels and editing keyboards. All prices are in US dollars, as shown on the Blackmagic sale page:&lt;/p&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;DaVinci Resolve Speed Editor: $435, now $349&lt;/li&gt;
+
+
+
+&lt;li&gt;DaVinci Resolve Editor Keyboard: $669, now $535&lt;/li&gt;
+
+
+
+&lt;li&gt;DaVinci Resolve Replay Editor: $559, now $445&lt;/li&gt;
+
+
+
+&lt;li&gt;DaVinci Resolve Micro Color Panel: $559, now $449&lt;/li&gt;
+
+
+
+&lt;li&gt;DaVinci Resolve Mini Panel: $2,319, now $1,855&lt;/li&gt;
+
+
+
+&lt;li&gt;DaVinci Resolve Advanced Panel: $34,665, now $27,735&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Replay Editor and the Micro Color Panel share the same regular price of $559, but their sale prices differ by $4. In dollar terms, the largest saving is on the Advanced Panel, at $6,930. For most users, the Speed Editor and the Micro Color Panel are the most relevant entry points to hands-on editing and grading control.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Prices, regions and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Blackmagic states that its MSRP figures include import duties but exclude sales tax and shipping, so the final price will vary by country. The company does not publish euro or pound prices for the sale on its US page, and local reseller prices can differ from the US MSRP. Anyone who plans to buy should check the price at their preferred reseller before ordering.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;At the time of writing, only our European retail partner CVP seems to have updated their pricing to the reflect the deals, B&amp;amp;H not yet. But check back on this page and refresh to see the new prices displayed in the buy boxes below soon. Please consider buying gear through our affiliate links on CineD, which really helps us keeping the site running! This comes at no extra cost to you. Thank you!&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The full offer is on the &lt;a href="https://www.blackmagicdesign.com/event/davinci-resolve-special" target="_blank" rel="noopener"&gt;DaVinci Resolve Special page&lt;/a&gt;, and the software details are on the &lt;a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener"&gt;DaVinci Resolve product page&lt;/a&gt;. The sale runs until Friday, November 20, 2026.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Will this sale make you move from the free version of DaVinci Resolve to Studio, or add a Speed Editor or Micro Color Panel to your setup? Let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>Camp Snap CS-8 and Aura6 Compared – Super 8-Inspired Digital Video Cameras, Screen-Free Design</title><link href="https://www.cined.com/camp-snap-cs-8-and-aura6-compared-super-8-inspired-digital-video-cameras-screen-free-design/"/><id>https://www.cined.com/camp-snap-cs-8-and-aura6-compared-super-8-inspired-digital-video-cameras-screen-free-design/</id><published>2026-10-20T07:44:15+00:00</published><updated>2026-10-20T07:44:15+00:00</updated><summary>Digital cameras that imitate the look and handling of 8mm film have moved from novelty to a visible product category. The Camp Snap CS-8 is already on sale and, according to its maker, selling in large numbers, while the Aura6 has just launched on Kickstarter with a stricter take</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-5-300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Digital cameras that imitate the look and handling of 8mm film have moved from novelty to a visible product category. The Camp Snap CS-8 is already on sale and, according to its maker, selling in large numbers, while the Aura6 has just launched on Kickstarter with a stricter take on the same idea. Both cameras remove the playback screen and give up most settings in exchange for a baked-in film look. We compare the two and look at what they offer filmmakers who want that texture in their work.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The &lt;a href="https://www.campsnapphoto.com/products/cs8" target="_blank" rel="noopener"&gt;Camp Snap CS-8&lt;/a&gt; is a pistol-grip camcorder with a 1/2.7in sensor that Camp Snap describes as a &amp;#8220;2.7K video sensor&amp;#8221;, a fixed 3.29mm f/2.0 lens (25.7mm equivalent in full-frame terms), manual focus, an 8x digital zoom, and no playback screen. It records MP4 files to a full-size SD card, offers five in-camera looks (four at 30fps and an &amp;#8220;Analog&amp;#8221; mode at 18fps), and shoots in 16:9, 9:16, 1:1, or 4:3. The &lt;a href="https://aura6film.com/" target="_blank" rel="noopener"&gt;Aura6&lt;/a&gt;, from a team based in Lisbon, Portugal, records short clips at 18fps, places them in chronological order on a &amp;#8220;roll&amp;#8221;, and compiles each roll into a finished film when the user presses a &amp;#8220;New Roll&amp;#8221; button. It also has no playback screen. The CS-8 sells for $199, and the Aura6 is crowdfunding until November 12. Let&amp;#8217;s take a closer look.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-900x506.jpeg" alt="" class="wp-image-444327" srcset="https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Camp Snap CS-8 new colors. Credit: Camp Snap&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Is the market for 8mm-style cameras growing?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The available evidence points to growth in a specific consumer segment, but most of it comes from the companies themselves or from crowdfunding, not from independent sales data. The strongest figure is Camp Snap&amp;#8217;s own: the company has told the press that the CS-8 generated around $20 million in sales over 11 months. Camp Snap has not published a unit count, and we could not find the figure in a primary company statement. The company has since raised the CS-8&amp;#8217;s price from a $149 launch offer to $199, and in just added three new colors (&amp;#8220;Espresso&amp;#8221;, &amp;#8220;Champagne&amp;#8221; and &amp;#8220;Rose&amp;#8221;) alongside the original black. B&amp;amp;H lists the CS-8 as in stock and labels it a &amp;#8220;Top Seller&amp;#8221;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Crowdfunding numbers show a similar direction on a smaller scale. At the time of writing, three days into its campaign, the Aura6 had collected $20K from around 100 backers against a $10K goal. Outside of video, the &lt;a href="https://rewindpix.com/?srsltid=AU7gw4WLRtZye2BUZpd7MapCE7f5qOltiqqjzznrn1jAgB3--MYfyj_e" target="_blank" rel="noreferrer noopener"&gt;Rewindpix&lt;/a&gt;, a screen-free digital still camera with a &amp;#8220;Film Mode&amp;#8221; of 36-shot rolls, passed its Kickstarter goal by more than $870,000 in April. Camp Snap itself started with a screen-free still camera for children at summer camp, according to the company&amp;#8217;s founders, and the CS-8 is its move into video.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Comparing apples to oranges, the demand for the real (film) format is also visible. Kodak&amp;#8217;s own &lt;a href="https://www.kodak.com/en/motion/product/super-8/super-8-camera/" target="_blank" rel="noreferrer noopener"&gt;Super 8 camera&lt;/a&gt; exists as a premium product at $5.5K, and Kodak&amp;#8217;s film business &lt;a href="https://www.cined.com/kodak-posts-a-fourth-straight-quarter-of-growth-and-film-is-doing-the-heavy-lifting/" target="_blank" rel="noreferrer noopener"&gt;has grown over the last year&lt;/a&gt;. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;So based on everything we can see, the category of Super8-style digital cameras seems to be really growing &amp;#8211; both &amp;#8220;real&amp;#8221; film cameras as well as digital cameras that mimic the look and feel of both the cameras and the footage.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-900x506.jpeg" alt="" class="wp-image-444331" srcset="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Camp Snap CS-8. Credit: Camp Snap&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Camp Snap CS-8: a camcorder without a playback screen&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The &lt;a href="https://www.campsnapphoto.com/products/cs8?srsltid=AU7gw4VsxEcwaoxtqTcs1kGK6IpFENNwQudjfVAgKC34QlXobYGLFw2e" target="_blank" rel="noreferrer noopener"&gt;CS-8 &lt;/a&gt;copies the layout of a 1970s Super 8 camera: a pistol grip with a trigger, a top handle, and two analog needle meters that show battery charge and card space. Each pull of the trigger records a new clip as a separate MP4 file. There is an electronic viewfinder for framing, but no way to watch or delete footage in the camera. Camp Snap says there are &amp;#8220;no menus, no settings, no app&amp;#8221;. The looks are selected with a dial and are recorded into the file, so they cannot be removed later.&lt;/p&gt;
+
+
+&lt;!-- wp:embed/video --&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="CS8 Version 2.0.0 Free firmware update" width="500" height="281" src="https://www.youtube-nocookie.com/embed/hXRghre6Ym4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;!-- /wp:embed/video --&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Camp Snap describes the five modes as follows. STD is a neutral look at 30fps. VTG 1 gives &amp;#8220;soft, faded colors&amp;#8221; at 30fps, and VTG 2 gives &amp;#8220;warm, nostalgic tones&amp;#8221; at 30fps. B&amp;amp;W is monochrome at 30fps. ANA (Analog) is described as &amp;#8220;textured and imperfect, like true 8mm film&amp;#8221; and is the only mode that records at 18fps. A &lt;a href="https://www.campsnapphoto.com/blogs/updates/cs8-filter-update?srsltid=AU7gw4Wv8ZM5HTNBxrGwldoc5oeWIONl62LhzNNDTSTAj8ave2vTbS_j" target="_blank" rel="noreferrer noopener"&gt;firmware update&lt;/a&gt; to version 2.0.0, published just a few days ago, changes the look of the Vintage 2, B&amp;amp;W, and Analog modes, with what Camp Snap calls &amp;#8220;softer edges, enhanced vintage artifacts, &amp;amp; even more film-like character&amp;#8221;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The camera ships with a 4GB SD card (yep, they still exist &amp;#8230;?), which Camp Snap says holds around 30 minutes of footage, and accepts cards up to 128GB. The battery is internal and charges via USB-C. Camp Snap does not publish its capacity or a runtime figure. B&amp;amp;H lists the weight as 513g (1.13lb), and Camp Snap lists the dimensions as 22.2 x 21.0 x 7.0cm (8.75 x 8.25 x 2.75in). The camera has a built-in microphone, a 1/4&amp;#8243;-20 tripod thread, and a cold shoe. Camp Snap states that all orders placed after November 7 include a microphone jack and the cold shoe, so we wonder why anyone might order earlier. Camp Snap does not list the recording resolution as a specification.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-4-3 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="KICKSTARTER FINAL VIDEO" src="https://player.vimeo.com/video/1234803632?dnt=1&amp;amp;app_id=122963" width="500" height="375" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin"&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Aura6: short clips and finished rolls&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Aura6 builds its concept around limits. Footage is recorded at 18fps, and each roll holds up to three minutes, which the campaign page compares to &amp;#8220;classic Super 8 film&amp;#8221;. The camera was first presented with a fixed limit of six seconds per clip. According to the updated Kickstarter page, the six-second limit is now optional, so users can choose between short fixed-length clips and longer takes within the three-minute roll. Aura6&amp;#8217;s own website still describes the six-second limit. Every clip goes into the current roll in the order it was shot. When the user presses &amp;#8220;New Roll&amp;#8221;, the camera compiles the clips into one film, which is then transferred by cable to a phone or computer. The company&amp;#8217;s website describes the result as &amp;#8220;one chronological digital film&amp;#8221; and the concept as &amp;#8220;Not a feed. Not a library. A story told in moments.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-900x506.jpeg" alt="" class="wp-image-444335" srcset="https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Aura6&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The camera has a record button, an electronic viewfinder, a built-in lens, and a detachable microphone. It has no playback screen, no settings menu, and no recording modes. According to the campaign coverage, the footage is in a 4:3 aspect ratio. Aura6 has not yet published the sensor size, resolution, codec, storage, battery, weight or dimensions, and the footage on its website is labeled as &amp;#8220;Prototype&amp;#8221;. The company also does not explain how the film look is produced. It only says that the camera &amp;#8220;captures short clips with the grain, colours and imperfections of old film&amp;#8221;.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-900x506.jpeg" alt="" class="wp-image-444339" srcset="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Camp Snap&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Where the two cameras differ&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Both cameras remove the screen and treat the film look as part of the capture, not as a step in post. The difference is in how much control each one keeps. The CS-8 lets the user decide clip length, choose between five looks, select four aspect ratios, and record at 30fps for most modes. It produces a folder of separate clips that can go into any editor. The Aura6 fixes the frame rate at 18fps and the aspect ratio at 4:3, and it delivers a finished, ordered film by default.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The &lt;a href="https://www.campsnapphoto.com/products/cs8?srsltid=AU7gw4VsxEcwaoxtqTcs1kGK6IpFENNwQudjfVAgKC34QlXobYGLFw2e" target="_blank" rel="noreferrer noopener"&gt;CS-8 is a shipping product&lt;/a&gt; with published specifications and a retail price. The Aura6 is a &lt;a href="https://www.kickstarter.com/projects/1122232469/aura6-the-super-8-inspired-digital-video-camera?ref=eyg85i" target="_blank" rel="noreferrer noopener"&gt;crowdfunded prototype&lt;/a&gt; with a short list of confirmed details, and its feature set may change before it ships.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-900x506.jpeg" alt="" class="wp-image-444343" srcset="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Camp Snap&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What do they offer the creative filmmaker?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Many of us filmmakers might treat those cameras as toys, while others who just want fun and ease of use might see those products as tools they&amp;#8217;re willing to explore. The main use of these cameras is as kind of a &amp;#8220;texture source&amp;#8221;. Music videos, short documentaries, travel pieces and title sequences often cut in material with a home-movie character, and a $199 camera that produces that character directly is a low-cost way to get it (with no or less need to post process the clips). The CS-8&amp;#8217;s 18fps Analog mode and the Aura6&amp;#8217;s fixed 18fps rate both reproduce the cadence of Super 8. The screen-free design also changes how people behave in front of the camera, which matters in documentary or behind-the-scenes work where a phone or cinema camera can make subjects self-conscious.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The trade-off is control. The looks are baked into the file; there is no log or flat profile, and the 1/2.7in sensor and small fixed lens limit detail, low-light performance, and depth of field.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The CS-8 suits the filmmaker who wants a home-movie source for short inserts and accepts the image quality that comes with it. The Aura6 suits the creator who sees the limits themselves as the point: no screen to check, no menus to adjust, and no edit to make.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Yet of course, if you want this look &amp;#8220;professionally&amp;#8221;, you might as well go straight to a pro camera and use post production to achieve similar effects with more control, or simply shoot on real Super8 film to have the &lt;em&gt;real&lt;/em&gt; effect. That would leave both the CS-8 and Aura6 to be fun toys to create in your spare time, not really to be used for professional productions.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Current limitations&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Camp Snap does not publish the CS-8&amp;#8217;s recording resolution, bitrate, battery capacity or runtime. The microphone jack and cold shoe apply to orders placed after November 7, so earlier units may differ. Camp Snap&amp;#8217;s product page shows the CS-8 as available to pre-order in the new colors, with shipping at the end of October.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For the Aura6, the main specifications are not yet published; the footage shown is from a prototype, and the method used to create the film look is not described. Retail pricing and delivery dates have not been announced.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Camp Snap CS-8 is available now for &lt;a href="https://www.bhphotovideo.com/c/product/1955421-REG/camp_snap_cs_8_digital_video_camera.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$199&lt;/a&gt; in black, with Espresso, Champagne, and Rose versions available to pre-order from Camp Snap. Optional accessories include a microphone and a carrying case at $19.99 each. For more information, please visit the &lt;a href="https://www.campsnapphoto.com/products/cs8" target="_blank" rel="noopener"&gt;Camp Snap website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Aura6 &lt;a href="https://www.kickstarter.com/projects/1122232469/aura6-the-super-8-inspired-digital-video-camera" target="_blank" rel="noopener"&gt;Kickstarter campaign&lt;/a&gt; runs until November 12, 2026. Pledge levels are listed on the campaign page, and Aura6 has not announced a retail price or delivery date. For more information, please visit the &lt;a href="https://aura6film.com/" target="_blank" rel="noopener"&gt;Aura6 website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Please note: backing a crowdfunding campaign is not the same as buying a product. CineD has no affiliation with the campaign, and we cannot guarantee that the product will ship or that it will match the specifications described. Please do your own research before backing any crowdfunding project.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would a screen-free camera with a small sensor and baked-in Super 8 look have a place in your projects, or do you prefer to create that texture in post? &lt;/strong&gt;L&lt;strong&gt;et us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>Netflix Lays Off About 1,000 Employees – 6% of Staff, Product and Tech Teams Hit, Months After Losing Warner Bros.</title><link href="https://www.cined.com/netflix-lays-off-about-1000-employees-6-of-staff-product-and-tech-teams-hit-months-after-losing-warner-bros/"/><id>https://www.cined.com/netflix-lays-off-about-1000-employees-6-of-staff-product-and-tech-teams-hit-months-after-losing-warner-bros/</id><published>2026-10-19T14:13:42+00:00</published><updated>2026-10-19T14:13:42+00:00</updated><summary>Netflix is cutting around 1,000 jobs, roughly 6% of its global workforce, in its largest round of layoffs since 2022. The cuts fall mostly on product, technology, legal and human resources teams, and come only months after the streamer lost the fight for Warner Bros. to Paramount</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/netflix-layoffs-featured-16x9-1-300x169.png" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Netflix is cutting around 1,000 jobs, roughly 6% of its global workforce, in its largest round of layoffs since 2022. The cuts fall mostly on product, technology, legal and human resources teams, and come only months after the streamer lost the fight for Warner Bros. to Paramount. So what does a leaner Netflix mean for the people who make its films and series?&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to an internal memo first reported by The Wall Street Journal and later obtained by &lt;a href="https://www.cnbc.com/2026/10/14/netflix-layoffs.html" target="_blank" rel="noopener"&gt;CNBC&lt;/a&gt; and Axios, co-CEOs Ted Sarandos and Greg Peters told employees this week that about 1,000 positions will go. Netflix had approximately 16,000 full-time employees at the end of 2025, according to its annual filing. The company stresses that the move is not a reaction to weak numbers: in the memo, the co-CEOs write that &amp;#8220;our business is strong and growing, and we remain on track to deliver our full-year forecast.&amp;#8221; Netflix reports its quarterly earnings on October 20, only days after the announcement.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Why Netflix is cutting now&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The memo frames the layoffs as a question of focus. &amp;#8220;Our mission, to entertain the world, is ambitious, and delivering on it requires us to be disciplined about where we prioritize our people and resources,&amp;#8221; Sarandos and Peters write. According to Axios, the memo adds that meeting the company&amp;#8217;s growth targets &amp;#8220;means making focused choices across the business so we can keep delivering for our members, partners, employees, and investors.&amp;#8221; The company says it will &amp;#8220;continue to invest aggressively in high-impact areas&amp;#8221; of the service.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Growth is the underlying issue. At Bloomberg&amp;#8217;s Screentime conference, Sarandos said Netflix is &amp;#8220;not growing as fast as I want.&amp;#8221; The main pressure is competition for viewers&amp;#8217; time. TechCrunch reports that YouTube overtook Netflix in average daily viewing in 2025, while TikTok, Instagram, and other social apps compete for the same attention. We have previously reported on how &lt;a href="https://www.cined.com/youtube-is-now-the-worlds-largest-media-company-and-soon-the-home-of-the-oscars/" target="_blank" rel="noopener"&gt;YouTube became the world&amp;#8217;s largest media company&lt;/a&gt;, and Netflix&amp;#8217;s own product decisions now reflect that shift.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Netflix is not short of money. It generated 45.2 billion USD in revenue in 2025, and its advertising revenue has risen to more than 1.5 billion USD, according to TechCrunch. Axios describes Netflix as still the most profitable streaming business among its competitors. Investors are less convinced: Netflix stock has lost roughly 40% of its value over the past year, and about 22% since the start of 2026, &lt;a href="https://247wallst.com/investing/2026/10/16/netflix-floundered-by-20-this-year-one-analyst-says-its-streaming-monopoly-will-net-88-gains-within-a-year/" target="_blank" rel="noopener"&gt;according to 24/7 Wall St.&lt;/a&gt; Axios also notes that the company remains highly dependent on subscriptions, because games, live events and advertising have not yet matched that income.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What happened with Warner Bros.&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The layoffs follow the most ambitious move in the company&amp;#8217;s history. As we reported in December 2025, &lt;a href="https://www.cined.com/netflix-acquires-warner-bros-discovery-for-83-billion-streaming-giants-business-model-poses-existential-threat-to-theatrical-exhibition/" target="_blank" rel="noopener"&gt;Netflix agreed to acquire Warner Bros. Discovery&amp;#8217;s studio and streaming business&lt;/a&gt; for 82.7 billion USD. Paramount answered with a &lt;a href="https://www.cined.com/paramount-launches-hostile-108-billion-bid-for-warner-bros-discovery-complete-acquisition-challenges-netflix-streaming-deal/" target="_blank" rel="noopener"&gt;hostile bid for the whole company&lt;/a&gt;, and after a long bidding contest, Paramount outbid Netflix in February. Earlier this month, the &lt;a href="https://www.cined.com/paramount-and-warner-bros-merger-closes-as-skydance-layoffs-signaled-30-theatrical-releases-a-year-promised/" target="_blank" rel="noopener"&gt;Paramount and Warner Bros. merger closed&lt;/a&gt;, and the combined company now operates as &lt;a href="https://www.skydance.com/" target="_blank" rel="noreferrer noopener"&gt;Skydance&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;None of the reports link the layoffs directly to the failed acquisition, and Netflix does not mention Warner Bros. in its memo. The timing still matters. Had the deal gone through, Netflix would now be integrating Warner Bros. Pictures, HBO, and a large studio operation. Instead, it is reducing its own headcount while Skydance prepares its own job cuts after its merger. Both of the companies that competed for Warner Bros. are now cutting staff in the same quarter.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="600" src="https://www.cined.com/content/uploads/2026/10/freestocks-11SgH7U6TmI-unsplash-900x600.jpg" alt="" class="wp-image-443954" srcset="https://www.cined.com/content/uploads/2026/10/freestocks-11SgH7U6TmI-unsplash-900x600.jpg 900w, https://www.cined.com/content/uploads/2026/10/freestocks-11SgH7U6TmI-unsplash-300x200.jpg 300w, https://www.cined.com/content/uploads/2026/10/freestocks-11SgH7U6TmI-unsplash-768x512.jpg 768w, https://www.cined.com/content/uploads/2026/10/freestocks-11SgH7U6TmI-unsplash-1536x1024.jpg 1536w, https://www.cined.com/content/uploads/2026/10/freestocks-11SgH7U6TmI-unsplash-345x230.jpg 345w, https://www.cined.com/content/uploads/2026/10/freestocks-11SgH7U6TmI-unsplash.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Image credit: Photo by &lt;a href="https://unsplash.com/@freestocks?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" target="_blank" rel="noreferrer noopener"&gt;freestocks&lt;/a&gt; on &lt;a href="https://unsplash.com/photos/person-holding-remote-pointing-at-tv-11SgH7U6TmI?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" target="_blank" rel="noreferrer noopener"&gt;Unsplash&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Who is affected, and who is not&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to Axios, TechCrunch, and CNBC&amp;#8217;s memo report, the cuts fall mostly on product, technology, legal, and human resources. These are corporate and engineering roles, not production departments. The reports do not mention any cuts in Netflix&amp;#8217;s creative or content divisions, and Netflix has not announced any change to its production plans.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This distinction is important for freelance crews and production companies. Netflix commissions most of its work through outside producers, so its own headcount says little about how many shows and films it orders. Its regional production commitments remain on record: in February 2025, Sarandos announced 1 billion USD for Mexican film and television production over four years, and in June 2025 Netflix committed more than 1 billion EUR to Spanish productions through 2028. According to the International Business Times report syndicated on Yahoo Finance, nothing indicates that the layoffs affect these commitments.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;That said, we should not read too much into the absence of production cuts. A company that cuts product and technology staff is changing what it builds around its content, and product priorities eventually shape what content gets ordered. TechCrunch lists the areas Netflix is betting on: AI-supported features, games, video podcasts, a short-form vertical video feed and a redesigned mobile app. Netflix has also expanded into live events and sports. A vertical video feed and video podcasts both need content made in different formats and at different budgets than a scripted drama.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;A different Netflix than in 2022&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The last comparable cut came in 2022, when Netflix let go of about 450 people after a rare drop in subscribers. That was a reaction to a crisis. This round is different: the company reports growing revenue and expects to meet its full-year forecast, yet it is still cutting 6% of its staff.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For the production industry, this is part of a larger pattern. We have reported on &lt;a href="https://www.cined.com/hollywood-pumps-brakes/" target="_blank" rel="noopener"&gt;film and TV production in Hollywood falling by 40% in two years&lt;/a&gt;, and on how &lt;a href="https://www.cined.com/welcome-to-lollywood-why-film-production-is-leaving-los-angeles-for-london/" target="_blank" rel="noopener"&gt;production work is moving from Los Angeles to London&lt;/a&gt;. With Paramount and Warner Bros. now one company, the number of major buyers for film and series projects has already dropped by one. A Netflix that is profitable but growing more slowly, and that puts more money into short-form and live formats, is likely to be a more selective buyer of traditional scripted work. How selective will become clearer with the earnings report on October 20 and the content plans that follow.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you work on Netflix productions, and have you noticed a change in how the streamer commissions projects this year? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>SWIT MINO-A Pocket Gold Mount Batteries Introduced – 140Wh and 210Wh Models, 200W Constant Load, 65W USB-C PD</title><link href="https://www.cined.com/swit-mino-a-pocket-gold-mount-batteries-introduced-140wh-and-210wh-models-200w-constant-load-65w-usb-c-pd/"/><id>https://www.cined.com/swit-mino-a-pocket-gold-mount-batteries-introduced-140wh-and-210wh-models-200w-constant-load-65w-usb-c-pd/</id><published>2026-10-19T12:59:44+00:00</published><updated>2026-10-19T12:59:44+00:00</updated><summary>SWIT has introduced the MINO-A series, a Gold Mount version of its MINO pocket batteries. The two models, MINO-A140 and MINO-A210, put the compact format of the MINO-S V-mount batteries on the mount that many broadcast and cinema cameras use. Here are the details. We have previou</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SWIT-Mino-batteries-feature-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;SWIT has introduced the MINO-A series, a Gold Mount version of its MINO pocket batteries. The two models, MINO-A140 and MINO-A210, put the compact format of the MINO-S V-mount batteries on the mount that many broadcast and cinema cameras use. Here are the details.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We have previously reported on the &lt;a href="https://www.cined.com/swit-mino-s70-and-mino-s210-introduced-tiny-70wh-and-210wh-v-mount-batteries/" target="_blank" rel="noreferrer noopener"&gt;SWIT MINO-S70 and MINO-S210&lt;/a&gt;, the V-mount pocket batteries that the MINO-A series is based on. The MINO-S line is available in 70Wh, 140Wh, and 210Wh versions. SWIT also makes larger V-mount batteries such as the &lt;a href="https://www.cined.com/swit-omni-v-mount-battery-introduced-high-load-output-led-info-display-and-more/" target="_blank" rel="noreferrer noopener"&gt;OMNI series&lt;/a&gt;. The company positions the MINO-A batteries for compact cinema rigs, broadcast cameras, field monitors, wireless video systems and creator setups that use Gold Mount power.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The MINO-A140 has a capacity of 140Wh and supports more than 150W / 12A of constant load. The MINO-A210 has 210Wh and supports more than 200W / 16A. Both batteries have a 14.4V output, a D-tap port rated at 120W, a USB-C PD port with 65W output and 48W input, and a USB-A port with 5V / 2A (10W) output. According to SWIT, both models start at temperatures down to -20°C (-4°F), survive drops from 1.2m (3.9ft), and work with Anton Bauer chargers.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1-900x506.jpg" alt="SWIT MINO-A series from the front next to each other." class="wp-image-444372" srcset="https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/SWIT-MINO-batter-A-140-and-A210-front-view-1.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;MINO-A series &amp;#8211; Image credit: SWIT&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Two sizes on one footprint&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The two models have the same 105 x 79.6mm (4.13 x 3.13 in) footprint and differ only in depth. The MINO-A140 measures 105 x 79.6 x 63.5mm (4.13 x 3.13 x 2.50 in) and weighs 747g (26.3oz). It holds 9.7Ah at 14.4V. The MINO-A210 measures 105 x 79.6 x 81.8mm (4.13 x 3.13 x 3.22 in) and weighs 1,056g (2.33lb), with 14.6Ah at 14.4V.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The 18.3mm (0.72 in) difference in depth gives the MINO-A210 50% more capacity. On a rig where the battery plate sits close to a shoulder pad, a top handle, or other accessories, the shorter MINO-A140 can be the easier fit. The MINO-A210 adds 309g (10.9oz) for the extra runtime.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/MINO-A140-4-900x506.jpg" alt="SWIT MINO-A140 from the top" class="wp-image-444356" srcset="https://www.cined.com/content/uploads/2026/10/MINO-A140-4-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/MINO-A140-4-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/MINO-A140-4-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/MINO-A140-4-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/MINO-A140-4-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/MINO-A140-4-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/MINO-A140-4-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/MINO-A140-4-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/MINO-A140-4.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;MINO-A140 top &amp;#8211; Image credit: SWIT&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Constant load for camera and accessories&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to SWIT, the MINO-A140 supports more than 150W / 12A constant load, while the MINO-A210 increases that to more than 200W / 16A. For rigs powering a camera together with accessories such as a wireless transmitter, monitor, or lens motor, the higher rating of the MINO-A210 gives more power headroom.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/MINO-A210-6-900x506.jpg" alt="SWIT MINO-A210 front and back." class="wp-image-444359" srcset="https://www.cined.com/content/uploads/2026/10/MINO-A210-6-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/MINO-A210-6-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/MINO-A210-6-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/MINO-A210-6-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/MINO-A210-6-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/MINO-A210-6-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/MINO-A210-6-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/MINO-A210-6-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/MINO-A210-6.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;MINO-A210 front and back &amp;#8211; Image credit: SWIT&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;D-tap, USB-C and USB-A outputs&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The D-tap port is rated at 120W (10A) output. SWIT also confirms that it can be used as a charging input. The USB-C port supports Power Delivery at up to 65W output for compatible laptops, tablets, and USB-C-powered accessories, and it accepts 48W input to charge the battery. The USB-A port gives 5V / 2A (10W) for phones and small devices on set. A four-level LED shows the remaining charge and also indicates when the USB-C and USB-A outputs are active.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/MINO-A210-3-900x506.jpg" alt="SWIT MINO-A210 top and back.
+" class="wp-image-444362" srcset="https://www.cined.com/content/uploads/2026/10/MINO-A210-3-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/MINO-A210-3-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/MINO-A210-3-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/MINO-A210-3-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/MINO-A210-3-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/MINO-A210-3-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/MINO-A210-3-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/MINO-A210-3-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/MINO-A210-3.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;MINO-A210 top and back. Image credit: SWIT&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Charging options&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SWIT lists charging at 50W / 3A for the MINO-A140 and 100W / 6A for the MINO-A210, which the company calls ultra-fast charging on the larger model. Both batteries are compatible with Anton Bauer chargers. The 48W USB-C input also lets the batteries be charged from a USB-C power source when a battery charger is not available.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Current limitations&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Both batteries are above 100Wh. Under the common airline rules for lithium-ion batteries, spare batteries between 100Wh and 160Wh, such as the MINO-A140, need airline approval for carry-on, and batteries above 160Wh, such as the MINO-A210, cannot be carried as ordinary passenger baggage and must instead be handled under cargo rules. For travel with only carry-on power, crews will need a battery at or below 100Wh, and the MINO-A series does not include one. The V-mount MINO-S series has a 70Wh model, but SWIT has not announced a 70Wh MINO-A.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SWIT lists the MINO-A140 at €249 and the MINO-A210 at €299. US dollar and British pound prices have not been announced. For more information, please visit the SWIT website for the &lt;a href="https://www.swit.cc/index.php?c=article&amp;amp;id=4450" target="_blank" rel="noreferrer noopener"&gt;MINO-A140&lt;/a&gt; and the &lt;a href="https://www.swit.cc/index.php?c=article&amp;amp;id=4451" target="_blank" rel="noreferrer noopener"&gt;MINO-A210&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you use Gold Mount batteries on your compact rigs, or did you change to V-mount? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>LENSGO TCQI 8 Pocket Teleprompter for DJI Osmo Pocket 3/4 Introduced – 8-Inch Screen, Magnetic Setup, Bluetooth Remote</title><link href="https://www.cined.com/lensgo-tcqi-8-pocket-teleprompter-for-dji-osmo-pocket-3-4-introduced-8-inch-screen-magnetic-setup-bluetooth-remote/"/><id>https://www.cined.com/lensgo-tcqi-8-pocket-teleprompter-for-dji-osmo-pocket-3-4-introduced-8-inch-screen-magnetic-setup-bluetooth-remote/</id><published>2026-10-19T09:50:11+00:00</published><updated>2026-10-19T09:50:11+00:00</updated><summary>LENSGO has introduced the TCQI 8 Pocket, a compact teleprompter made for the DJI Osmo Pocket 3 and Osmo Pocket 4. It pairs an 8-inch reading area with a magnetic mounting system, a handheld grip, and a Bluetooth remote. Gimbal cameras of this size rarely get dedicated prompting g</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_featured-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;LENSGO has introduced the TCQI 8 Pocket, a compact teleprompter made for the DJI Osmo Pocket 3 and Osmo Pocket 4. It pairs an 8-inch reading area with a magnetic mounting system, a handheld grip, and a Bluetooth remote. Gimbal cameras of this size rarely get dedicated prompting gear, so let&amp;#8217;s take a look at what the kit includes.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The TCQI 8 Pocket puts an 8-inch (20.3cm) HD screen in front of the camera, so the presenter can read a script while looking into the lens. According to LENSGO, a magnetic design speeds up setup, and the unit works both handheld with the included grip and on a tripod. The script runs in the company&amp;#8217;s free TCQI app on iOS and Android devices, which controls scrolling speed, font size, and playback, and a Bluetooth remote is in the box for control during a take. LENSGO also includes accessories for smartphone and laptop webcam setups, so the teleprompter is not limited to the Osmo Pocket.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We reviewed the &lt;a href="https://www.cined.com/dji-osmo-pocket-3-review-is-it-any-good-for-professional-documentary-work/" target="_blank" rel="noreferrer noopener"&gt;DJI Osmo Pocket 3&lt;/a&gt; for documentary work, and we covered the launch of the &lt;a href="https://www.cined.com/dji-osmo-pocket-4-announced-4k-240fps-activetrack-7-0-and-built-in-107gb-storage/" target="_blank" rel="noreferrer noopener"&gt;DJI Osmo Pocket 4&lt;/a&gt; earlier this year. The Pocket 4P also went through our lab, where it &lt;a href="https://www.cined.com/dji-osmo-pocket-4-pro-beats-the-arri-alexa-35-in-our-lab-while-the-insta360-luna-ultra-fails-focus-check-ep127/" target="_blank" rel="noreferrer noopener"&gt;beat the ARRI ALEXA 35&lt;/a&gt; in one of our tests (you can read the full &lt;a href="https://www.cined.com/dji-osmo-pocket-4p-lab-test-rolling-shutter-dynamic-range-and-exposure-latitude/" target="_blank" rel="noreferrer noopener"&gt;Lab Test of the Osmo Pocket 4P&lt;/a&gt; for details). With image quality at that level, more creators use these small cameras for talking-head content, interviews, and vlogs, which is the market LENSGO targets with the TCQI 8 Pocket.&lt;/p&gt;
+
+
+&lt;!-- wp:embed/video --&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="✨ CREATE WITH CONFIDENCE｜LENSGO TCQI8 POCKET​🎬" width="500" height="281" src="https://www.youtube-nocookie.com/embed/Xd364yqj0iw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;!-- /wp:embed/video --&gt;
+
+
+&lt;h2 class="wp-block-heading"&gt;A teleprompter sized for a pocket gimbal&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Most compact teleprompters are designed around smartphones or small mirrorless cameras. The TCQI 8 Pocket is built for the Osmo Pocket form factor instead, and the kit includes a DJI protective cover for the camera. According to the user guide, the housing is made of ABS and polycarbonate. In one of its launch videos, LENSGO describes the reading glass as &amp;#8220;crystal clear&amp;#8221;, and they give a 75% light transmission figure for the glass.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;LENSGO positions the teleprompter for outdoor vlogging, talking-head videos, interviews, travel videos, and presentations. The company describes the unit as compact and lightweight, but it does not list a weight or dimensions in the product text. A specifications graphic on the product page may carry these numbers, but they are not available as text.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01-900x506.jpg" alt="" class="wp-image-444304" srcset="https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_01.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;LENSGO TCQI 8 Pocket Teleprompter for DJI Osmo Pocket 3/4, seen from the operator&amp;#8217;s side. Image credit: LENSGO&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Magnetic setup, grip, and tripod&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The magnetic design is the main setup feature. The kit includes a magnetic ring, and LENSGO says the components attach magnetically to reduce assembly time before recording. The Osmo Pocket slides into the grip, and a magnetic cover snaps over it. For vertical video, the user opens the cover, rotates the Pocket&amp;#8217;s screen, and closes the cover again. The company&amp;#8217;s FAQ advises users to follow the instructions to attach the relevant parts correctly before they record.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For handheld shooting, the included grip holds the camera and teleprompter as one unit. For static setups, the kit includes a mini tripod, and LENSGO says the teleprompter also works &amp;#8220;with a compatible mounting setup&amp;#8221; on other tripods. The product page does not state the thread size of the mounting point.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For handheld shooting, I am a little worried it might be extremely top-heavy to hold the Pocket / prompter / smartphone combo, because you can&amp;#8217;t really touch it at the front. But in case we get our hands on a review unit, I will report back if that is really a concern. In general, I think it&amp;#8217;s a very smart concept for an ever-evolving camera ecosystem – the Osmo Pocket line – that gains more traction every day. &lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02-900x506.jpg" alt="" class="wp-image-444308" srcset="https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_02.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;LENSGO TCQI 8 Pocket Teleprompter for DJI Osmo Pocket 3/4 in action during recording. Image credit: LENSGO&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;TCQI app and Bluetooth remote&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Script control runs through the TCQI app. The app sets the scrolling speed and the font size and starts or stops playback. The included Bluetooth remote controls &amp;#8220;supported teleprompter functions&amp;#8221; during recording, so the presenter does not need to touch the smartphone that shows the text. The remote has buttons for start and pause, fast page up and down, left and right, and an LED light. LENSGO says the app supports &amp;#8220;compatible iOS and Android devices&amp;#8221; but does not list minimum operating system versions; the company asks users to check the app listing for device requirements.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Smartphone and webcam use&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Besides the Osmo Pocket parts, the kit includes a laptop clip cover. LENSGO says the TCQI 8 Pocket &amp;#8220;also includes accessories for compatible smartphone and laptop webcam setups&amp;#8221;. With these parts, the same unit can work as a prompter for video calls, livestreams, or recorded presentations on a laptop. The product page does not say which smartphone sizes fit, but from what we can tell looking at the images, it should also accommodate larger phones. &lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03-900x506.jpg" alt="" class="wp-image-444312" srcset="https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/Lensgo_Osmo_Pocket_Teleprompter_03.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;LENSGO TCQI 8 Pocket Teleprompter for DJI Osmo Pocket 3/4, viewed from the moderator&amp;#8217;s angle, It needs a smartphone. &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What is in the box&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The package includes the TCQI 8 Pocket teleprompter, a grip, a DJI protective cover, a laptop clip cover, a magnetic ring, a Bluetooth remote, and a mini tripod. &lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The LENSGO TCQI 8 Pocket is available at B&amp;amp;H for &lt;a href="https://www.bhphotovideo.com/c/product/2003981-REG/lensgo_tcqi_8_pocket_teleprompter.html/BI/7953/KBID/8488/" target="_blank" rel="noreferrer noopener"&gt;$88&lt;/a&gt;, where it is listed as a special order item. Euro and British pound pricing has not been announced yet. For more information, please visit the &lt;a href="https://www.lensgo.net/teleprompter-tcqi-8-pocket/669.html" target="_blank" rel="noreferrer noopener"&gt;LENSGO website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you read from a teleprompter when you shoot talking-head content with a small gimbal camera, or do you prefer to work from notes? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>Light Widow Horizon Monitor Mount Kit Now Available at B&amp;H for $199</title><link href="https://www.cined.com/light-widow-horizon-monitor-mount-kit-now-available-at-bh-for-199/"/><id>https://www.cined.com/light-widow-horizon-monitor-mount-kit-now-available-at-bh-for-199/</id><published>2026-10-19T07:50:27+00:00</published><updated>2026-10-19T07:50:27+00:00</updated><summary>Light Widow’s Horizon Monitor Mount Kit is now available at B&amp;H, priced at $199.00. The kit pairs a 16-position articulating arm with a friction-based 3-axis monitor head and an L-Bracket, and it’s built around one idea: move your on-camera monitor through a range of positions ar</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-feature-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Light Widow&amp;#8217;s Horizon Monitor Mount Kit is now available at B&amp;amp;H, priced at $199.00. The kit pairs a 16-position articulating arm with a friction-based 3-axis monitor head and an L-Bracket, and it&amp;#8217;s built around one idea: move your on-camera monitor through a range of positions around the camera while it stays level. It supports displays up to 7 inches and the whole assembly weighs 6.5 oz / 184.3 g.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Monitor mounting is one of those small rigging problems that never fully goes away. Traditional articulating arms, including designs in Wooden Camera’s Ultra Arm range, use ball joints that are released when the arm is repositioned, which can mean re-aiming or re-leveling the monitor after each adjustment. Light Widow takes a different approach by separating positioning from orientation: the arm moves the monitor while maintaining its horizon, and a separate head controls its angle. We&amp;#8217;ve written about the Colorado-based manufacturer before, with products including the &lt;a href="https://www.cined.com/light-widow-fizlock-introduced-sturdy-mounting-solution-for-lens-motors/" target="_blank" rel="noreferrer noopener"&gt;FIZLock lens motor mount&lt;/a&gt; and the &lt;a href="https://www.cined.com/light-widow-frs-light-introduced-filter-reading-matte-box/" target="_blank" rel="noreferrer noopener"&gt;FRS-Light filter-reading matte box&lt;/a&gt;. Light Widow lists the Horizon system as patent pending.&lt;/p&gt;
+
+
+&lt;!-- wp:embed/video --&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="Horizon Monitor Mount" width="500" height="281" src="https://www.youtube-nocookie.com/embed/OohbTYV_FQs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;!-- /wp:embed/video --&gt;
+
+
+&lt;h2 class="wp-block-heading"&gt;How the Horizon Arm works&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The camera end of the Horizon Arm uses a male 3/8&amp;#8243;-16 ARRI-style anti-twist mount. At the monitor end, the arm provides both a female 3/8&amp;#8243;-16 ARRI-style interface and Light Widow&amp;#8217;s proprietary interface for the 3-Axis Monitor Mount.&amp;nbsp;It rotates a full 360° through 16 quick-locking positions, released and re-locked with a thumb lever that Light Widow says is designed for one-handed operation. Once the monitor is set level, the arm maintains that orientation as it moves between positions. Folded, the arm measures 4.3 in / 108 mm. Extended, it reaches a maximum arm length of 7.4 in / 189mm, with up to 6.4 in / 162mm between mounting points.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back-900x506.jpg" alt="Light Widow Horizon back" class="wp-image-438249" srcset="https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/09/Light-Widow-Horizon-back.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Image credit: Light Widow&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;The 3-axis head and L-Bracket&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The 3-Axis Monitor Mount attaches to the arm through Light Widow&amp;#8217;s own multi-point interface and carries the monitor on a 1/4&amp;#8243;-20 anti-twist screw. It offers 360° of pan, 190° of tilt, and 50° of roll. The key detail is that all three axes run on friction rather than clamping knobs, so repositioning doesn&amp;#8217;t require loosening and retightening anything.&amp;nbsp;Light Widow says the resistance on each axis remains consistent until adjusted.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The included L-Bracket is a 90° male-to-female 3/8&amp;#8243;-16 ARRI-style anti-twist adapter, so the Horizon Arm can be mounted at a different angle or position, for example, on top of a camera handle when its front mounting point is already occupied. The L-Bracket can also be used to connect a second Horizon Arm for combined side-to-side and front-to-back positioning.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled-900x506.jpg" alt="Light Widow Horizon components" class="wp-image-438254" srcset="https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/09/Light-Widow-disassembled.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Image credit: Light Widow&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Weights, materials, and what&amp;#8217;s in the box&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Construction is metal, finished in black. The Horizon Arm accounts for 3.6 oz / 102 g, the 3-Axis Monitor Mount 2 oz / 58 g, and the L-Bracket 0.6 oz / 17 g. Light Widow specifies support for monitors up to 7 inches; however, it does not list a maximum payload by weight. The box includes the arm, head, L-Bracket, a 3/8&amp;#8243;-16 screw set, a 1/4&amp;#8243;-20 screw set, and a limited one-year manufacturer warranty. &lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Horizon Monitor Mount Kit is listed at &lt;a href="https://www.bhphotovideo.com/c/product/1955534-REG/light_widow_lw_horizon_kit_horizon_monitor_mount_kit.html/BI/7953/KBID/8488/SID/lex" target="_blank" rel="noreferrer noopener"&gt;$199.00&lt;/a&gt; at B&amp;amp;H, with free two-day shipping. B&amp;amp;H also lists a Horizon Monitor Mount 360° Production Kit for &lt;a href="https://www.bhphotovideo.com/c/product/1993582-REG/light_widow_lw_horizon_360_kit_horizon_monitor_mount_360.html/BI/7953/KBID/8488/SID/lex" target="_blank" rel="noreferrer noopener"&gt;$249&lt;/a&gt;, which adds the company&amp;#8217;s 360° quick-release mount.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;At $199, this sits well above a basic magic arm. Is being able to reposition your monitor without repeatedly re-leveling it worth the difference? Let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>Z CAM E2-F6 Pro Firmware 0.9.10 Released – Internal ProRes RAW, 6K up to 60fps</title><link href="https://www.cined.com/z-cam-e2-f6-pro-firmware-0-9-10-released-internal-prores-raw-6k-up-to-60fps/"/><id>https://www.cined.com/z-cam-e2-f6-pro-firmware-0-9-10-released-internal-prores-raw-6k-up-to-60fps/</id><published>2026-10-16T19:45:10+00:00</published><updated>2026-10-16T19:45:10+00:00</updated><summary>Z CAM has released firmware 0.9.10 for the E2-F6 Pro, and it adds internal Apple ProRes RAW recording. According to Z CAM, the full-frame cinema camera can now record ProRes RAW in-camera at up to 6K 60fps. Until now, a RAW workflow on Z CAM’s E2 bodies meant an external recorder</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro--300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Z CAM has released firmware 0.9.10 for the E2-F6 Pro, and it adds internal Apple ProRes RAW recording. According to Z CAM, the full-frame cinema camera can now record ProRes RAW in-camera at up to 6K 60fps. Until now, a RAW workflow on Z CAM&amp;#8217;s E2 bodies meant an external recorder, so this update changes what the E2-F6 Pro can do on its own.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;With firmware 0.9.10, the &lt;a href="https://www.z-cam.com/products/professional-cameras/e2-f6-pro/" target="_blank" rel="noopener"&gt;Z CAM E2-F6 Pro&lt;/a&gt; records Apple ProRes RAW internally, at resolutions up to 6K and frame rates up to 60fps. Z CAM&amp;#8217;s product page now lists ProRes RAW HQ and ProRes RAW SQ as video encoders, next to ProRes 422 Proxy, 422 LT, 422 and 422 HQ. Z CAM describes the benefits as greater flexibility in post-production and a more streamlined professional workflow. The update is free to download from Z CAM&amp;#8217;s &lt;a href="https://www.z-cam.com/resources/" target="_blank" rel="noopener"&gt;resources page&lt;/a&gt;, and Z CAM has not mentioned a separate license for the RAW feature.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We first looked at the camera &lt;a href="https://www.cined.com/z-cam-e2-f6-pro-full-frame-camera-first-look/"&gt;here&lt;/a&gt; when it came out in September 2022. ProRes RAW itself is not new to the E2 family. Earlier E2 models gained 12-bit ProRes RAW over HDMI through Atomos recorders, which we &lt;a href="https://www.cined.com/atomos-announces-12-bit-apple-prores-raw-for-support-z-cam-e2-camera/" target="_blank" rel="noopener"&gt;reported on at the time&lt;/a&gt;. On the E2-F6 Pro, Z CAM&amp;#8217;s product page states that RAW over HDMI external recording is not yet supported, so internal recording is now the camera&amp;#8217;s only RAW path.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2-900x506.jpeg" alt="" class="wp-image-443969" srcset="https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro-2.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Z CAM E2-F6 Pro. Credit: B&amp;amp;H&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;The E2-F6 Pro at a glance&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The E2-F6 Pro uses a full-frame CMOS sensor that measures 37.09 x 24.75mm / 1.46 x 0.97in, with 26 megapixels effective. Z CAM claims up to 15 stops of dynamic range and specifies dual native ISO at 400 and 2500. The camera has a Canon EF mount as standard, with optional M, MFT, PL, and LPL mounts. It records to CFast 2.0 or Z CAM&amp;#8217;s ZBlade media, which Exascend makes for Z CAM in 1TB, 2TB, and 4TB capacities at $299, $499, and $1,099.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Outputs include 12G-SDI and HDMI, and the camera supports genlock. A V-Mount battery plate powers the body, and a 1000-nit, 1920 x 1080 touchscreen monitor attaches to it. The camera weighs 1.39kg / 3.06lb with the EF mount, and 1.68kg / 3.70lb with the monitor.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Updating the camera&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Z CAM updates the E2-F6 Pro through the camera&amp;#8217;s built-in web client. According to Z CAM&amp;#8217;s support center, users connect the camera over Ethernet, set the ETH Mode to Direct, and start the upgrade under Settings &amp;gt; Maintenance &amp;gt; Others &amp;gt; Upgrade. Z CAM recommends a stable power supply during the process.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Firmware 0.9.10 for the E2-F6 Pro is available now as a free download from Z CAM. The Z CAM E2-F6 Pro with Canon EF mount and touchscreen monitor costs &lt;a href="https://www.bhphotovideo.com/c/product/1726542-REG/z_cam_e1911_e2_f6_pro_cinema_camera.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$4,299 at B&amp;amp;H&lt;/a&gt;. For more information, please visit the &lt;a href="https://www.z-cam.com/products/professional-cameras/e2-f6-pro/" target="_blank" rel="noopener"&gt;Z CAM website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Does internal ProRes RAW make the E2-F6 Pro a more interesting option for your work, or do you prefer to stay with ProRes 422 HQ? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>CINELUX REDUXA A1 Kickstarter Dates and Pricing Announced – 0.71x Focal Reducer for ALEXA Classic, XT and SXT</title><link href="https://www.cined.com/cinelux-reduxa-a1-kickstarter-dates-and-pricing-announced-0-71x-focal-reducer-for-alexa-classic-xt-and-sxt/"/><id>https://www.cined.com/cinelux-reduxa-a1-kickstarter-dates-and-pricing-announced-0-71x-focal-reducer-for-alexa-classic-xt-and-sxt/</id><published>2026-10-16T13:03:10+00:00</published><updated>2026-10-16T13:03:10+00:00</updated><summary>Back in July, CINELUX teased the REDUXA A1, a focal reducer that lets older ARRI ALEXA cameras shoot with full-frame lenses. Now the British company has put dates and prices on it. VIP access opens on October 20, the Kickstarter campaign follows on November 10, and the regular ca</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-3-300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Back in July, CINELUX teased the REDUXA A1, a focal reducer that lets older ARRI ALEXA cameras shoot with full-frame lenses. Now the British company has put dates and prices on it. VIP access opens on October 20, the Kickstarter campaign follows on November 10, and the regular campaign price is $1,995. Here is what has changed since the teaser.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The REDUXA A1 is a 0.71x focal reducer that maps the image circle of full-frame EF and PL lenses onto the Super 35 sensor of the ALEXA Classic, XT and SXT. According to CINELUX, this gives roughly one extra stop of light. The unit is under 2cm deep, comes with a positive-lock EF mount as standard, and accepts a PL mount that fits directly over it. Rear-element clearance is 9.5mm on EF and 17.5mm on PL. Electronic contacts are built in, so compatible EF lenses keep communication with the camera, and their aperture can be set from the ALEXA. If you missed our first report, you can read &lt;a href="https://www.cined.com/cinelux-reduxa-a1-focal-reducer-for-arri-alexa-classic-xt-sxt-teased/" target="_blank" rel="noopener"&gt;our July article on the REDUXA A1 teaser&lt;/a&gt;. At that point, CINELUX described the product as an early prototype, with no price or availability.&lt;/p&gt;
+
+
+&lt;!-- wp:embed/video --&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="The Alexa Classic Focal Reducer, Every Detail Explained (Full Features, Kickstarter Campaign)" width="500" height="281" src="https://www.youtube-nocookie.com/embed/_-GtYo6l6f8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;!-- /wp:embed/video --&gt;
+
+
+&lt;h2 class="wp-block-heading"&gt;Focal Shift and lens calibration&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The most unusual feature is what CINELUX calls Focal Shift. It physically moves the optic inside the focal reducer, letting users adjust sharpness and coverage for each lens they mount. The adjustments can be saved as presets and recalled later. CINELUX also says that Focal Shift can bring a lens closer than its normal minimum focus distance, for example, making a lens that typically focuses at one meter focus &amp;#8220;far closer, without diopters or lens changes.&amp;#8221; The company gives no figures for this, so the real gain will depend on the lens.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-900x506.jpeg" alt="" class="wp-image-443912" srcset="https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-2.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: CINELUX&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A companion app for iPhone, Android and the web gives access to the calibration presets and to aperture control. That is notable on these cameras, as CINELUX puts it itself: &amp;#8220;Alexa Classic was never designed for electronic EF lenses.&amp;#8221; The page does not define which EF lenses count as &amp;#8220;compatible,&amp;#8221; so owners of specific lenses should confirm support with CINELUX before they pledge.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5-900x506.jpeg" alt="" class="wp-image-443920" srcset="https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-5.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;CINELUX REDUXA&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Which ALEXA cameras are supported?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The product page highlights the ALEXA Classic, XT and SXT. Its FAQ gives a wider list: ALEXA Classic, Plus, M, XT and SXT. CINELUX says that the only thing to check when mounting a lens is rear-element protrusion, given the 9.5mm (EF) and 17.5mm (PL) clearance figures.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For lenses with deep rear elements, CINELUX offers a sister product, the PURA A1. It has no optic and no Focal Shift, but it keeps the electronics, so EF communication and aperture control stay available. Clearance is 9.5mm on EF and 32.5mm on PL. Full-frame lenses also fit on the PURA A1, but they are cropped to Super 35.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-900x506.jpeg" alt="" class="wp-image-443908" srcset="https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/CINELUX-REDUXA-A1.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: CINELUX&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Pricing and Kickstarter timeline&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;CINELUX lists three price tiers. The figures below are shown in dollars on the product page, but the company says that the Kickstarter campaign will be priced in GBP and that final amounts may vary slightly with exchange rates. Shipping and import fees are not included.&lt;/p&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;VIP (50 units only): REDUXA A1 at $1,795, PURA A1 at $895, PL mount add-on +$325&lt;/li&gt;
+
+
+
+&lt;li&gt;Kickstarter: REDUXA A1 at $1,995, PURA A1 at $995, PL mount add-on +$350&lt;/li&gt;
+
+
+
+&lt;li&gt;Retail after the campaign: REDUXA A1 at $2,795, PURA A1 at $1,395, PL mount add-on +$400&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The product is currently in final prototype testing, which CINELUX says covers optical performance, coverage, calibration accuracy, and mechanical tolerances. VIP access opens on October 20, the Kickstarter campaign runs from November 10 to December 10, and manufacturing is set to start immediately after the campaign closes. CINELUX has not announced a shipping date. As with all crowdfunded hardware, backers pledge money for a product that is not yet in production, and delivery dates and final specifications can change.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;CINELUX previously made the NEXA-MAG for RED DSMC1 and DSMC2 cameras and is also working on the REDUXA R2 focal reducer for RED DSMC2. More information is available on the &lt;a href="https://www.cinelux.co.uk/reduxa-a1" target="_blank" rel="noopener"&gt;CINELUX REDUXA A1 product page&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would a full-frame focal reducer bring your ALEXA Classic, XT, or SXT back into regular use? Let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>TAMRON 16-50mm f/2.8 A Announced – Constant f/2.8 APS-C Zoom, 305g, VXD Autofocus</title><link href="https://www.cined.com/tamron-16-50mm-f-2-8-a-announced-constant-f-2-8-aps-c-zoom-305g-vxd-autofocus/"/><id>https://www.cined.com/tamron-16-50mm-f-2-8-a-announced-constant-f-2-8-aps-c-zoom-305g-vxd-autofocus/</id><published>2026-10-16T09:01:08+00:00</published><updated>2026-10-16T09:01:08+00:00</updated><summary>TAMRON has announced the 16-50mm f/2.8 A (Model B091), a compact standard zoom for APS-C mirrorless cameras. It covers a 24-75mm equivalent range at a constant f/2.8, weighs 305g / 10.8oz and comes to Sony E, Canon RF, Nikon Z and FUJIFILM X mounts. The new lens uses 14 elements </summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;TAMRON has announced the 16-50mm f/2.8 A (Model B091), a compact standard zoom for APS-C mirrorless cameras. It covers a 24-75mm equivalent range at a constant f/2.8, weighs 305g / 10.8oz and comes to Sony E, Canon RF, Nikon Z and FUJIFILM X mounts.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The new lens uses 14 elements in 10 groups, including one LD (Low Dispersion) element, two GM (Glass Molded Aspherical) elements and two hybrid aspherical elements. Focus is driven by TAMRON&amp;#8217;s VXD linear motor, and the filter thread is 55mm. According to TAMRON&amp;#8217;s UK and Benelux distributor, it is the smallest f/2.8 standard zoom in the company&amp;#8217;s line-up. It sits next to the heavier &lt;a href="https://www.cined.com/tamron-17-70mm-f-2-8-di-iii-a-vc-rxd-for-nikon-z-and-canon-rf-mount-announced/" target="_blank" rel="noopener"&gt;TAMRON 17-70mm f/2.8 Di III-A VC RXD&lt;/a&gt;, which has optical stabilization. TAMRON positions the 16-50mm for shooters who prefer size and mobility over VC. The launch also follows Sony&amp;#8217;s proposal to make TAMRON a wholly owned subsidiary, which we looked at in our &lt;a href="https://www.cined.com/sony-proposes-to-acquire-lens-maker-tamron-what-a-takeover-could-mean-for-the-lens-market/" target="_blank" rel="noopener"&gt;analysis of the Sony bid&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6-900x506.jpeg" alt="" class="wp-image-443893" srcset="https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-6.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: TAMRON&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Optics and close focus&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The full-frame equivalent range is 24-75mm on Sony E, Nikon Z and FUJIFILM X, and 25.6-80mm on Canon RF because of Canon&amp;#8217;s 1.6x crop factor. The diagonal angle of view runs from 84°04&amp;#8242; to 32°11&amp;#8242; (80°24&amp;#8242; to 30°16&amp;#8242; on Canon RF). The aperture range is f/2.8 to f/16, and the seven-blade circular diaphragm stays almost perfectly circular up to two stops down from maximum aperture, according to TAMRON.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Minimum object distance is 0.15m / 6in at 16mm and 0.29m / 11.5in at 50mm. Maximum magnification is 1:4.5 at the wide end and 1:4.8 at the long end. The barrel has moisture-resistant construction with seals, and the front element carries a fluorine coating that repels water and oil.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1-900x506.jpeg" alt="" class="wp-image-443889" srcset="https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-1.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: TAMRON&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Size, weight and video use&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Sony E version is 79.6mm / 3.2in long with a maximum diameter of 64.4mm / 2.5in. The FUJIFILM X version is 79.9mm / 3.2in long, the Canon RF version is 77.6mm / 3.1in and the Nikon Z version is 81.6mm / 3.3in. All versions weigh 305g / 10.8oz, except the Nikon Z lens at 315g / 11.2oz.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For video, TAMRON points to the 16mm wide end for self-recording, the quiet VXD motor, and a balance that suits handheld and gimbal work. The Sony E and Nikon Z versions support the &lt;a href="https://www.tamron.com/global/consumer/support/download/lensutility/" target="_blank" rel="noreferrer noopener"&gt;TAMRON Lens Utility software&lt;/a&gt;, which lets users assign functions to the lens and update its firmware.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The TAMRON 16-50mm f/2.8 A costs $529 / €469.99 / £399.99 for Sony E-mount and FUJIFILM X mount, and $549 / €499.99 / £419.99 for Canon RF and Nikon Z mount (EUR and GBP are recommended retail prices). The Sony E and Canon RF versions ship on October 29, 2026, the Nikon Z version on November 19, 2026, and the FUJIFILM X version on December 17, 2026. A flower-shaped hood and front and rear caps are included. For more information, please visit the &lt;a href="https://www.tamron.com/global/consumer/lenses/b091/" target="_blank" rel="noopener"&gt;TAMRON website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would a 305g constant f/2.8 zoom replace the kit lens on your APS-C camera, or do you need the stabilization of the 17-70mm? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>Poll: What Is Your Preferred Camera Form Factor?</title><link href="https://www.cined.com/poll-what-is-your-preferred-camera-form-factor/"/><id>https://www.cined.com/poll-what-is-your-preferred-camera-form-factor/</id><published>2026-10-15T13:01:13+00:00</published><updated>2026-10-15T13:01:13+00:00</updated><summary>Modern cameras are coming in all different shapes and sizes, and in today’s poll we wanted to check which shape might be the best for you to use. Yes, we are fully aware that a certain camera shape might be great for professional work and less comfortable for leisure use, yet if </summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/poll-form-factor-v1-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Modern cameras are coming in all different shapes and sizes, and in today’s poll we wanted to check which shape might be the best for you to use. Yes, we are fully aware that a certain camera shape might be great for professional work and less comfortable for leisure use, yet if you could choose a shape for a single device, what would it be?&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Current camera offerings from different manufacturers are settling on a few solid shapes. The “traditional” Sony FX9 and the like are one. The compact Canon EOS C50 (among others) is another. Then, the “cube shape, box-style” à la Kinefinity VISTA must be mentioned, and the shape of the traditional mirrorless camera should not be ignored. Last but not least, Osmo Pocket 3/4/4P might be the latest if you want to hold a camera vertically, although the style of holding itself is not new at all.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Each shape has an advantage. One is better for shoulder mounting, another is great for taking photos (and maybe videos too?). Another is best for rigging, and there are those that are perfect for moving freely.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;No one shape that fits all&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;So while we might be comparing apples to oranges, the conclusion could be that &lt;strong&gt;no&lt;/strong&gt; “one shape fits all,” yet if you were the one to design the “ultimate camera,” the one that would work best for you in most situations, what form factor would you go for? A “cube style”, Osmo Pocket shape, or something more traditional? And would the shape of your favorite camera hold well for taking videos and photos? &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For me personally, holding a camera vertically (Osmo Pocket style) might get the maximum points. When working in such a way, it always feels so much more natural, especially for running &amp;amp; gunning.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed aligncenter is-type-rich is-provider-crowdsignal wp-block-embed-crowdsignal"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+
+&lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="has-text-align-center wp-block-paragraph"&gt;&lt;em&gt;The polls use JavaScript. If you cannot see the polls above, please disable “Enhanced/Strict Tracking Protection” in your browser settings.&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;I’ll be thankful if you take a minute to vote and, more importantly, leave a comment, as this topic of camera shape and design seems to be less attractive for manufacturers to deal with, although it should attract so much more design attention.&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>Sony ECM-W5 Wireless Microphone System Announced – 32-Bit Float via MI Shoe, 64GB Backup Recording, Timecode</title><link href="https://www.cined.com/sony-ecm-w5-wireless-microphone-system-announced-32-bit-float-via-mi-shoe-64gb-backup-recording-timecode/"/><id>https://www.cined.com/sony-ecm-w5-wireless-microphone-system-announced-32-bit-float-via-mi-shoe-64gb-backup-recording-timecode/</id><published>2026-10-15T11:40:07+00:00</published><updated>2026-10-15T11:40:07+00:00</updated><summary>Sony has introduced the ECM-W5, a two-transmitter, one-receiver wireless microphone system that sends 32-bit float audio digitally into compatible Sony cameras through the Multi Interface (MI) Shoe. Each transmitter records an internal backup to up to 64GB of storage, the system </summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-2-300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Sony has introduced the ECM-W5, a two-transmitter, one-receiver wireless microphone system that sends 32-bit float audio digitally into compatible Sony cameras through the Multi Interface (MI) Shoe. Each transmitter records an internal backup to up to 64GB of storage, the system supports timecode and up to four channels, and the kit costs $399.99.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Sony&amp;#8217;s previous wireless systems, the ECM-W3 and ECM-W3S, also mount on the MI Shoe, and the company compares the new system directly with the ECM-W3. We have covered Sony&amp;#8217;s compact audio accessories before, from the &lt;a href="https://www.cined.com/sony-ecm-w2bt-wireless-microphone-and-ecm-lv1-compact-stereo-lavalier-microphone-announced/" target="_blank" rel="noopener"&gt;ECM-W2BT wireless microphone and ECM-LV1 lavalier&lt;/a&gt; to the recent &lt;a href="https://www.cined.com/sony-ecm-ax10-spatial-audio-microphone-for-smartphones-announced-four-capsules-ambisonics-and-binaural-eclipsa-audio-export/" target="_blank" rel="noreferrer noopener"&gt;ECM-AX10&lt;/a&gt; spatial audio microphone for smartphones. The ECM-W5 moves Sony&amp;#8217;s camera-mounted wireless line closer to the feature set of third-party systems such as the &lt;a href="https://www.cined.com/hollyland-lark-max-2-officially-launched-32-bit-float-on-board-tc-four-tx-support/" target="_blank" rel="noopener"&gt;Hollyland LARK MAX 2&lt;/a&gt;, with 32-bit float, onboard recording and timecode in one kit. Let&amp;#8217;s take a closer look.&lt;/p&gt;
+
+
+&lt;!-- wp:embed/video --&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="Introducing Wireless Microphone ECM-W5 | Sony | Accessory" width="500" height="281" src="https://www.youtube-nocookie.com/embed/N2i7_nYyTT0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;!-- /wp:embed/video --&gt;
+
+
+&lt;h2 class="wp-block-heading"&gt;32-bit float into the camera file&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The main feature of the ECM-W5 is its digital connection to the camera. According to Sony, the receiver sends 32-bit float audio through the MI Shoe to a compatible camera, which records it in the same file as the video. No external recorder is necessary, and there is no separate audio file to sync in post.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The system also supports 96kHz High-Resolution Audio recording with a compatible camera. Sony notes that 32-bit float reduces the need to adjust gain during a take and helps prevent clipping in the recording. The company also states that clipping at the microphone input stage cannot be corrected later by changing the volume in editing.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Sony&amp;#8217;s list of compatible cameras can be found here: &lt;a href="https://www.sony.net/dics/ecmw5/" target="_blank" rel="noopener"&gt;ECM-W5 compatibility page&lt;/a&gt;. For now, this page is showing that the full list of compatible cameras is coming soon. &lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4-900x506.jpeg" alt="" class="wp-image-443767" srcset="https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-4.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Sony &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Backup recording on the transmitters&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Each ECM-W5T transmitter has up to 64GB of built-in storage for backup recording. Sony lists a capacity of up to 90 hours at 32-bit float/48kHz, or up to 60 hours at 24-bit/96kHz. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The backup keeps a copy of the source audio on the transmitter if the wireless link drops or the camera recording has a problem. For interviews and documentary work where a take cannot be repeated, this gives a second recording that does not depend on the radio connection.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Range, stability and latency&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Sony quotes a line-of-sight range of up to 500m / 1,640ft, measured with the transmitter visible from the receiver. Obstacles, reflective surfaces and radio conditions reduce this distance. The company says the ECM-W5 is designed to reduce dropouts in congested RF environments, and claims transmission that is approximately three times more stable than the ECM-W3, based on Sony&amp;#8217;s internal measurement conditions.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Low-latency transmission is also part of the specification. Sony positions this for real-time applications such as live streaming, but does not give a latency figure in the press material.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6-900x506.jpeg" alt="" class="wp-image-443775" srcset="https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-6.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Sony &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Four channels and timecode&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The kit includes two transmitters and one receiver. The transmitters and the receiver are also sold separately, and Sony says the supplied transmitters can be combined with additional ECM-W5T units. This allows up to four channels of in-camera recording, for panels, multi-person interviews and events. Four-channel recording therefore needs two extra transmitters on top of the kit.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The system supports timecode. According to Sony, this simplifies synchronization across multiple cameras and audio recordings and reduces manual alignment in post-production. The press material does not describe how timecode is set or jammed between units.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5-900x506.jpeg" alt="" class="wp-image-443771" srcset="https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-5.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Sony &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Inputs, power and connectivity&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Each transmitter has a 3.5mm input for lavalier and external microphones, including Sony&amp;#8217;s separately sold ECM-L1 lavalier. Images of the receiver show a display, a control dial, AUDIO IN and MIC OUT jacks, and a headphone output.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On compatible cameras, the receiver gets power through the MI Shoe and supports linked power control with the camera. A supplied USB Type-C adapter connects the receiver to smartphones and computers that support USB Audio Class 2.0. The transmitters can also connect directly to a device via Bluetooth for wireless recording, with interoperability that varies by device.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Sony lists up to 11 hours of operating time for the transmitters. The system ships in a charging case, and Sony describes the design as dust- and moisture-resistant, while stating that it is not guaranteed to be fully dust- and moisture-proof.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-900x506.jpeg" alt="" class="wp-image-443779" srcset="https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-W5.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Sony &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Monitoring with Sony headphones&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The ECM-W5 works with compatible Sony wireless headphones for monitoring without a cable. Sony does not name the models in the press material and refers to a &lt;a href="https://www.sony.net/di/TWS/" target="_blank" rel="noopener"&gt;list of compatible headphones&lt;/a&gt; on its website.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Sony ECM-W5 kit with two transmitters and one receiver costs $399.99 in the US and CA$569.99 in Canada. The ECM-W5R receiver costs $189.99 / CA$269.99, and a single ECM-W5T transmitter costs $119.99 / CA$169.99. Pre-orders are open now, and Sony expects all three products to ship in November 2026. For more information, please visit the &lt;a href="https://electronics.sony.com/imaging/imaging-accessories/all-accessories/p/ecmw5" target="_blank" rel="noopener"&gt;Sony website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you record 32-bit float straight into your camera file, or do you still prefer a dedicated recorder for your interviews? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>NiSi ATHENA Drop-In PL Adapters and True Color VND/PL Released – Rear Filter Slot for PL Lenses, 1-5 Stop VND With Independent Polarizer</title><link href="https://www.cined.com/nisi-athena-drop-in-pl-adapters-and-true-color-vnd-pl-released-rear-filter-slot-for-pl-lenses-1-5-stop-vnd-with-independent-polarizer/"/><id>https://www.cined.com/nisi-athena-drop-in-pl-adapters-and-true-color-vnd-pl-released-rear-filter-slot-for-pl-lenses-1-5-stop-vnd-with-independent-polarizer/</id><published>2026-10-15T07:44:57+00:00</published><updated>2026-10-15T07:44:57+00:00</updated><summary>NiSi has added a rear drop-in filter slot to its ATHENA PL adapters for Sony E, Canon RF, and Nikon Z cameras, so one set of filters can work across every PL lens on the camera. Alongside them, the company’s new True Color VND/PL combines a 1-5 stop variable ND and a polarizer in</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;NiSi has added a rear drop-in filter slot to its ATHENA PL adapters for Sony E, Canon RF, and Nikon Z cameras, so one set of filters can work across every PL lens on the camera. Alongside them, the company&amp;#8217;s new True Color VND/PL combines a 1-5 stop variable ND and a polarizer in a single screw-in filter with separate controls for each.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We have previously looked at NiSi&amp;#8217;s cinema lineup, including the &lt;a href="https://www.cined.com/nisi-athena-tuned-full-frame-cinema-prime-lenses-first-look/" target="_blank" rel="noopener"&gt;ATHENA full-frame cinema primes&lt;/a&gt; and the later &lt;a href="https://cined.com/nisi-athena-prime-18mm-t2-2-40mm-t1-9-and-135mm-t2-2-unveiled-and-a-look-ahead" target="_blank" rel="noopener"&gt;ATHENA 18mm, 40mm and 135mm additions&lt;/a&gt;. NiSi already sells ATHENA PL adapters without a filter slot. The new drop-in versions move ND and diffusion behind the lens, while the True Color VND/PL targets photo and video shooters who work with screw-in filters on mirrorless lenses. Let&amp;#8217;s take a look at both.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-900x506.jpeg" alt="" class="wp-image-443422" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi ATHENA Drop-In PL Adapter. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;A filter slot between lens and camera&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The ATHENA Drop-In Filter adapters come in three versions: PL-E for Sony E, PL-RF for Canon RF, and PL-Z for Nikon Z. Front and rear mounts are made of 304 stainless steel, and a sealing ring at the camera mount keeps out dust and moisture. According to NiSi, the adapters compensate for the filter in the optical path, so lenses still reach infinity focus with a filter installed. Each adapter ships with a clear drop-in filter, which keeps the optical path the same when no other filter is in use.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Weights differ by mount. NiSi lists the PL-E at 195g / 6.9oz, the PL-RF at 207g / 7.3oz, and the PL-Z at 229g / 8.1oz, all without a filter. The adapters accept PL lenses with a rear protrusion of up to 25.8mm / 1.02in, and NiSi advises checking the rear element depth of lenses from other manufacturers before fitting.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The slot takes NiSi&amp;#8217;s ATHENA drop-in filters: True Color VND, True Color CPL, Black Mist, Allure Streak and FS ND. The True Color VND and CPL drop-ins have a 0.8 MOD gear, so a wireless lens motor (sold separately) can adjust density or polarization remotely.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-900x506.jpeg" alt="" class="wp-image-443430" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi ATHENA Drop-In PL Adapter. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Why a rear filter on a PL lens?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For a PL lens on a mirrorless body, a rear filter means one VND covers every lens in the kit, whatever its front diameter. That matters most for cinema primes and zooms with large or non-threaded fronts, where the usual alternative is a matte box with 4&amp;#215;5.65in or 6.6&amp;#215;6.6in glass. (Not to mention very wide-angle lens options where adding a front filter is nearly impossible). &lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-900x506.jpeg" alt="" class="wp-image-443434" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi ATHENA Drop-In PL Adapter. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Current limitations&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The filter slot sits close to the camera body. NiSi notes that a cage, top plate, or positive-lock mount may restrict filter changes or prevent fitting the adapter with a filter installed, and suggests mounting the adapter first and then inserting the filter. NiSi&amp;#8217;s US store lists the existing ATHENA PL-L adapter for L-Mount without a drop-in version, so L-Mount users are not covered by the new line for now.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-900x506.jpeg" alt="" class="wp-image-443438" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi True Color VND/PL. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;True Color VND/PL with independent controls&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The True Color VND/PL is a screw-in filter for photo and video lenses, offered from 49mm to 95mm. It reduces light by 1-5 stops (0.3-1.5), and the polarizer is adjusted independently of the ND density. According to NiSi, this separation means that changing polarization does not change the exposure setting, unlike combined filters where both adjustments are linked. The company limits the range to 1-5 stops to avoid the X-pattern that cross-polarization causes at higher densities.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;NiSi&amp;#8217;s True Color technology is meant to keep the color neutral across the range, without magenta or warm casts. Both optical elements have a multi-layer nano coating on all four air-to-glass surfaces, which also repels water and oil. The slim aluminum frame is designed to avoid vignetting on full-frame lenses as wide as 15mm, the markings are luminescent for low light, and the filter is compatible with NiSi&amp;#8217;s SWIFT system. An aluminum front cap is included.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;NiSi&amp;#8217;s product page adds two usage notes. The company recommends the filter for focal lengths of 35mm and longer, because polarization is uneven across the frame on wide lenses, even though the frame itself clears 15mm. NiSi also advises against adjusting the polarizer at 4-5 stops, as this can produce overly saturated colors.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-900x506.jpeg" alt="" class="wp-image-443442" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi True Color VND/PL. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The ATHENA Drop-In Filter PL-E, PL-RF and PL-Z adapters each cost $269 including a clear drop-in filter. Filmmaker Kits for PL-E and PL-Z add a True Color VND 1-5 stop and a Black Mist 1/8 drop-in filter plus a filter bag for $399. All are available to pre-order, and NiSi has not given a shipping date yet. For more information, please visit the &lt;a href="https://nisiopticsusa.com/product/nisi-athena-drop-in-filter-pl-e-adapter/" target="_blank" rel="noopener"&gt;NiSi ATHENA PL-E Drop-In adapter page&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The True Color VND/PL is available now. In the US, NiSi lists the 72mm version at $209 and the 82mm version at $249. NiSi&amp;#8217;s European distributor lists recommended prices from €169 for 49mm to €279 for 95mm (including VAT). For more information, please visit the &lt;a href="https://nisiopticsusa.com/product/nisi-82mm-true-color-vnd-pl-pro-nano-1-5-stops-variable-nd-and-polarizer/" target="_blank" rel="noopener"&gt;NiSi True Color VND/PL product page&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would a rear drop-in VND replace the matte box on your PL lenses, or does your cage rule it out? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+<entry><title>Sony ECM-AX10 Spatial Audio Microphone for Smartphones Announced – Four Capsules, Ambisonics and Binaural, Eclipsa Audio Export</title><link href="https://www.cined.com/sony-ecm-ax10-spatial-audio-microphone-for-smartphones-announced-four-capsules-ambisonics-and-binaural-eclipsa-audio-export/"/><id>https://www.cined.com/sony-ecm-ax10-spatial-audio-microphone-for-smartphones-announced-four-capsules-ambisonics-and-binaural-eclipsa-audio-export/</id><published>2026-10-14T13:28:31+00:00</published><updated>2026-10-14T13:28:31+00:00</updated><summary>S Sony has introduced the ECM-AX10, a 24g / 0.85oz USB-C microphone that plugs straight into a smartphone and records spatial audio with four omnidirectional capsules. It captures first-order Ambisonics, binaural or stereo, and Sony’s companion app exports to the Eclipsa Audio fo</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-300x169-1.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;strong&gt;Sony has introduced the ECM-AX10, a 24g / 0.85oz USB-C microphone that plugs straight into a smartphone and records spatial audio with four omnidirectional capsules. It captures first-order Ambisonics, binaural or stereo, and Sony&amp;#8217;s companion app exports to the Eclipsa Audio format, which Sony highlights for playback on YouTube.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Spatial capture is showing up across compact gear, from 360 cameras such as the &lt;a href="https://www.cined.com/dji-osmo-360-ii-launched-8k60-360-video-replaceable-lenses-and-a-14-5-stop-dynamic-range-claim/" target="_blank" rel="noopener"&gt;DJI Osmo 360 II&lt;/a&gt; to phone-based workflows. Most phone microphones, including wireless clip-on systems, still record mono or stereo. The ECM-AX10 is Sony&amp;#8217;s attempt to bring Ambisonics recording, more familiar from VR and sound design work, to a device that lives on a phone&amp;#8217;s USB-C port. According to Sony, the microphone received Eclipsa Audio certification on September 15, 2026. Let&amp;#8217;s take a closer look.&lt;/p&gt;
+
+
+&lt;!-- wp:embed/video --&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="Sony Spatial Audio Microphone for Smartphones ECM-AX10 | Product Video | Sony Official" width="500" height="281" src="https://www.youtube-nocookie.com/embed/gdAt-vUiZUc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;!-- /wp:embed/video --&gt;
+
+
+&lt;h2 class="wp-block-heading"&gt;Three ways to record&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The ECM-AX10 has two main settings. In SPATIAL mode, it records either four-channel Ambisonics (first-order AmbiX B-format) or binaural audio optimized for headphone listening. In STEREO mode, it records conventional left and right channels facing forward.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ambisonics is the most flexible of the three, because the recording can be decoded later. Sony&amp;#8217;s Spatial Audio Video Tool app for iOS and Android converts an Ambisonics recording into Eclipsa Audio, binaural, stereo or a four-channel Ambisonics WAV file on export. The app also handles shooting, playback and simple edits. Sony notes that other camera apps can only record binaural in SPATIAL mode, so Ambisonics capture requires its own app. Support for 4K video in the app is planned from December 2026.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2-900x506.jpeg" alt="" class="wp-image-443457" srcset="https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-2.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Sony ECM-AX10. Credit: B&amp;amp;H&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Audio specifications&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Inside a spherical module are four back-electret condenser capsules. Sony lists a frequency response of 20Hz to 20kHz, a sensitivity of -20dBFS (0.1Pa, 1kHz) and a maximum input level above 120dB SPL. The sample rate is 48kHz. Bit depth is 16-bit or 24-bit integer, or 32-bit float, and the smartphone selects the format, preferring the higher bit depth where available.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A switchable attenuator offers 0, 10 or 20dB, and there are low-cut and noise-cut filters. Noise-cut is not available in Ambisonics mode. A stereo headphone socket allows monitoring, and the microphone draws its power from the phone over USB-C (5V, 100mA in SPATIAL mode without headphones). B&amp;amp;H&amp;#8217;s listing adds auto gain control, real-time peak indicators, a SELFIE switch for shooting with the front camera, and a built-in accelerometer that detects the microphone&amp;#8217;s orientation and adjusts the audio to match.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5-900x506.jpeg" alt="" class="wp-image-443463" srcset="https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Sony-ECM-AX10-5.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Sony ECM-AX10. Credit: B&amp;amp;H&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Mounting and compatibility&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The microphone measures 35.1 x 116.1 x 21.2mm / 1.38 x 4.57 x 0.83in and works with the phone in portrait or landscape orientation, with the Sony logo facing the back of the phone. Spacer sheets fill gaps between the microphone and the phone, and a cold shoe holder allows mounting the microphone on a tripod or rig, connected by the included 30cm / 11.8in USB-C cable. A detachable fur windscreen is also in the box.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Sony lists compatibility with USB-C smartphones running iOS 18 or later or Android 14 or later, and refers buyers to its list of tested devices, since functions depend on the handset. The operating temperature range is 0°C to 40°C / 32°F to 104°F.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Sony ECM-AX10 costs &lt;a href="https://www.bhphotovideo.com/c/product/2004037-REG/sony_ecm_ax10_spatial_audio_electret.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$249.99&lt;/a&gt; in the US and is available to pre-order, with B&amp;amp;H listing an estimated ship date of October 19, 2026. For more information, please visit the &lt;a href="https://www.sony-mea.com/en/microphones/products/ecm-ax10/feature1" target="_blank" rel="noopener"&gt;Sony website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you record Ambisonics on a phone for your next documentary or location sound job, or does spatial audio stay with dedicated recorders in your workflow? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;</content></entry>
+</feed>
