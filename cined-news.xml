@@ -3,7 +3,117 @@
 <title>News | CineD – Completo</title>
 <link href="https://www.cined.com/news/"/>
 <id>https://www.cined.com/news/</id>
-<updated>2026-10-21T10:34:27+00:00</updated>
+<updated>2026-10-21T14:17:12+00:00</updated>
+<entry><title>cinemaOS, CUTROOM, and invideo Compared – Mac Studio App, Free Open-Source Editor, Cloud AI Agent</title><link href="https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/"/><id>https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/</id><published>2026-10-21T14:17:12+00:00</published><updated>2026-10-21T14:17:12+00:00</updated><summary>A growing number of video editors are now built around AI and open-source components, some of them by small teams or a single developer. Three current examples take very different routes: cinemaOS is a Mac subscription app with an on-device assistant, CUTROOM is a free open-sourc</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;A growing number of video editors are now built around AI and open-source components, some of them by small teams or a single developer. Three current examples take very different routes: cinemaOS is a Mac subscription app with an on-device assistant, CUTROOM is a free open-source editor that runs locally, and invideo puts an AI editing agent and dozens of generative models in the browser. We look at each platform and then compare them.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The three products target overlapping users but differ in where the software runs, how AI is used, and how users pay. &lt;a href="https://mntm-studios.com/cinemaos?ref=peerlist&amp;amp;utm_source=peerlist" target="_blank" rel="noreferrer noopener"&gt;cinemaOS from Momentum Studios&lt;/a&gt; is a Mac-native application for Apple Silicon that combines editing, color, sound, design, and delivery for $9.99 per month. &lt;a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fcutroom-studio.expo.app%2F%3Futm_id%3D97758_v0_s00_e0_tv4_a1demoo4u125x7%26fbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgFicmlkETBHeVFvcThYc0Uwd1VVSVQ4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHivSQ3hXkjHbJC-6B8Km9sctJOaiOoVNL73SUu0sWiIUdvcLD7E7Hg6klp96_aem_TFQ_TCmR5zB_vbf_e_gA3Q&amp;amp;h=AUAn3u7jGZPabq-_tEXGTCG7Y17JnytohPckQu2UwYQ4j1k6IKl2ZGuEnWjm-ObE_qcXQm79k7cvIQpEusQGXHz23DHxNhWjedrldijFzQ72cEMCss8a6sf3uQgWSjcrIi8rTECn8dvWgg5zDPRVYvM1139XF5g8UAT4gw&amp;amp;__tn__=-UK-R&amp;amp;c[0]=AUBkoUkT5zjvWHH4d0eBDolMFRAWNcg_Vb41tadm__15xAKiH0sSuYR-qxTSWyiZNtWeLhoj6TY0evqUmnLt5mb-q-_8vfkx2T7SP5DIFajFDRWaVQZzu5W-8knqmu-cK2HnNQUhuvfbeZwje4gzics_opQhtBTCKjJgq_M2MoC2qTbmDz2XGHkfnQi638f9fs0_N3SvflgKQ-e4j0GhyKWH8kZXABuFBwA" target="_blank" rel="noreferrer noopener"&gt;CUTROOM&lt;/a&gt; is a free desktop editor under the MIT license, currently in a 1.2 public beta for Windows and Mac, with optional local or bring-your-own-key AI. &lt;a href="https://invideo.io/" target="_blank" rel="noreferrer noopener"&gt;invideo&lt;/a&gt; is a web-based &amp;#8220;agentic video editor&amp;#8221; with mobile apps, sold in credit-based plans that start at $10 per seat per month on annual billing.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We have previously reported on &lt;a href="https://www.cined.com/artcraft-releases-free-open-source-adobe-alternatives-filmcraft-for-premiere-pro-effectcraft-for-after-effects-written-in-rust-with-ai/" target="_blank" rel="noreferrer noopener"&gt;ArtCraft&amp;#8217;s&lt;/a&gt; free, open-source Adobe alternatives, which developer Brandon Thomas says he wrote with the help of an AI coding model, and on Adobe&amp;#8217;s settlement with the US Department of Justice over its subscription practices. The established editors are adding AI as well, as we covered with DaVinci Resolve 21.1 and the new color tools and Firefly models in Premiere.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="538" src="https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png" alt="" class="wp-image-444572" srcset="https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png 900w, https://www.cined.com/content/uploads/2026/10/cinemaOS-300x179.png 300w, https://www.cined.com/content/uploads/2026/10/cinemaOS-767x459.png 767w, https://www.cined.com/content/uploads/2026/10/cinemaOS-1536x919.png 1536w, https://www.cined.com/content/uploads/2026/10/cinemaOS-2048x1225.png 2048w, https://www.cined.com/content/uploads/2026/10/cinemaOS-385x230.png 385w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Image credit: Momentum cinemaOS / Momentum Studios&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;cinemaOS: one Mac app for every room&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;cinemaOS is made by Momentum Studios BV, founded by Julien Hayet-Kerknawi, and is currently at version 0.2 (build 9). The application divides work into &amp;#8220;rooms&amp;#8221; that share one live project. The Sequencer is a multitrack timeline for picture and sound that imports XML or EDL, exports FCPXML or EDL, and supports cutting from a transcript. The Finisher covers color grading with scopes and Shot Match, a 16:9-to-9:16 reframe function that tracks the main subject, plus subtitles, translation, and delivery. Atelier handles posters, photos and brand kits, and a Sound mode called Spatial Theatrics shows the mix as a 3D theater in which tracks become objects, with DX, MX, FX, and AMB buses and scene loudness measured against a target.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg" alt="" class="wp-image-444585" srcset="https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/CUTROOM-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/CUTROOM-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/CUTROOM-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/CUTROOM-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/CUTROOM-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/CUTROOM-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/CUTROOM-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/CUTROOM.jpeg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Image credit: CUTROOM&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The built-in assistant, J.A.R.E.D., takes plain-language requests via Command-J. According to Momentum Studios, transcription, translation, and looks run on the Mac, need no credits, and subtitles can be translated with Wi-Fi off. The company does not name the AI models, and it does not publish supported codecs, RAW formats, or a minimum macOS version.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;CUTROOM: free, open source and local&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;CUTROOM is published on &lt;a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FVanoPeradze%2Fcutroom%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgFicmlkETBHeVFvcThYc0Uwd1VVSVQ4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhg2EWh4n3ufZMr22TcL9_ijqEgesyKLdO5C3sY59565G3QCg8tJgfZXg11L_aem_E-jVsLR_bJ0C9MFNc7uxuw&amp;amp;h=AUALW2DTXPzqdaT3V9XkEcEm-3yLrG-FYOu0ETExO1wRfB23jK-sD9OkWFex5yMAWIEyEQyRAVeRW4Vi5iMgz4yl3LHBCil6RGPzhdxcU7F-ZwuGZN9Kg1XniDNowbs5C4D391An74QOH7qBV4LwSb-80g0gmf7z3H349w&amp;amp;__tn__=-UK-R&amp;amp;c[0]=AUA85TlZQGARp9B83-mZxStk1U_HwB598VYimBv_Pi010SjyuoIPKz6qa92zPMMiN5E-FWaVSS44uU1XuFOpt6Tbtx4iixSUtG5iFmySagpdqnOKHwNpXLofYQLiPvsOYpApm4hYxTIWC9nUsY_464lNDxLsda2uC1KiYKRC1D5TSP39JcqMw-Y_LSuTn8DLKYbR5S7oc8oCmUT8cqPCDmL85ZLdZuONZNY" target="_blank" rel="noreferrer noopener"&gt;GitHub&lt;/a&gt; under the account of Vano Peradze, and the website names no company. It is a desktop editor in a 1.2 public beta for Windows and for macOS 15 or later on Apple Silicon or Intel. Linux users can run it from source, without a packaged download. Setup installs Python 3.12 and media dependencies, and the Mac version uses FFmpeg 7 through Homebrew. The project states that the Mac build is not a signed app.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;CUTROOM offers six workspaces: Media, Edit, Layout, Audio, Captions, and Output. Editing covers independent tracks, cuts, trims, and track locks; Layout adds crop and picture-in-picture for camera and screen recordings, and the audio mixer has live meters, mute, and solo. Captions can be imported as SRT or VTT. Export is MP4 in landscape or vertical, up to 4K and 60fps, without a watermark. AI is optional: manual editing needs no models or account, local transcription and drafts use downloadable models and Ollama, and users can connect their own API key for a cloud provider, which then charges them directly. The project itself notes that AI drafts &amp;#8220;may miss context or have weak endings.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg" alt="" class="wp-image-444580" srcset="https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2.jpeg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Image credit: Invideo&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;invideo: an AI agent in the browser&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://invideo.io/" target="_blank" rel="noreferrer noopener"&gt;invideo&lt;/a&gt; calls its product &amp;#8220;the agentic video editor for serious creatives.&amp;#8221; The workflow is to upload footage, describe the edit to the Agent Two assistant, review the cut, and export. According to the company, the agent watches and logs every clip, and users can take over the multitrack timeline at any frame. Custom agents carry roles such as scriptwriter, editor, cinematographer, sound designer, and colorist, and invideo lists multiplayer editing, storyboarding, and the option to connect outside agents such as Claude Cowork, ChatGPT Codex, Grok, and Gemini.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The other major part of invideo is generative media. The site lists video models including Google Veo 3.1, Sora 2, Kling, Wan, Pixverse, Hailuo and Seedance, image models such as Nano Banana Pro, Ideogram, Seedream and Flux Kontext, and audio from ElevenLabs and MiniMax. Generations use monthly credits that do not roll over, and invideo states that it can change credit costs without notice. Plans include 4K export of the user&amp;#8217;s own footage, storage from 200GB to 2,000GB, and premium stock footage. invideo runs in the browser, with iOS and Android apps.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Where the work runs&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The clearest difference between the three is the location of media and processing. cinemaOS keeps projects, media, and versions on the user&amp;#8217;s disk and runs its assistant on the Mac. CUTROOM also edits, previews, and exports locally, and it sends audio or transcripts to a cloud provider only when the user connects one and gives consent. invideo is a cloud service: footage is uploaded, and the agent and generative models run on invideo&amp;#8217;s side. For productions with confidentiality requirements, that difference may matter more than the feature lists.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;AI as assistant or as editor&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The role of AI also differs. In cinemaOS, J.A.R.E.D. carries out looks, transcription, and translation on request inside a conventional editing application. CUTROOM treats AI as an option for transcripts and first drafts, with the timeline remaining manual. invideo puts the agent at the center of the workflow and adds generation of new shots, images, voices and music, which the other two do not offer.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Platforms, formats and maturity&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;cinemaOS is Mac only until a Windows version arrives in November 2027, according to the company. CUTROOM supports Windows and Mac now, while invideo works in any browser and on phones. On interchange, only cinemaOS lists XML, EDL, and FCPXML, which gives a path to and from other editors; CUTROOM documents MP4 output and SRT or VTT captions, and invideo does not list project interchange formats on its main pages. Both cinemaOS (version 0.2) and CUTROOM (public beta) are early releases, and CUTROOM&amp;#8217;s own page lists acceptance testing that is still pending.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;A threat to Premiere Pro, Final Cut Pro and DaVinci Resolve?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On the evidence of their own documentation, none of the three is a direct replacement for the established editors in professional film and television work today. Premiere Pro, Final Cut Pro and DaVinci Resolve support camera RAW formats, broad codec lists, plugin systems and round trips to audio and VFX departments, and Resolve and Premiere add multi-user collaboration. cinemaOS publishes no codec or RAW support list and is at version 0.2, CUTROOM exports MP4 only and is in beta, and invideo is built around uploading footage to a cloud service. For a feature film or a broadcast series with a post house, an online edit and a deliverables list, those gaps are significant.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The pressure is stronger in two other areas. The first is price. Momentum Studios builds its whole pitch on the gap between $9.99 per month and $104.99 per month for Adobe Creative Cloud Pro on the US month-to-month plan, and CUTROOM costs nothing. That argument is mainly aimed at Adobe, because DaVinci Resolve already has a free version and Final Cut Pro is available as a one-time purchase or as part of Apple Creator Studio, which costs $12.99 per month. The second area is short-form and social content, where speed counts for more than finishing depth. Vertical reframing, automatic captions, transcript-based cutting, and AI first drafts are central features in all three newcomers, and invideo adds generative shots, voices, and music on top. Creators and small marketing teams who never needed a conform or an EDL are the most likely users to switch.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The established platforms are not standing still. DaVinci Resolve 21.1 added AI assistant integration via MCP, Premiere now includes Firefly with Kling 3.0 models, and Apple has added generated captions, edit detection, and Auto Mask to Final Cut Pro. That narrows the feature gap from the other side. What the new tools show is how quickly a small team, or a single developer, can now ship an editor with a full timeline, color, sound, and AI features. ArtCraft&amp;#8217;s FilmCraft and Cutroom are open source, so other developers can build on them. For the established vendors, the more immediate effect may be pressure on subscription pricing and on how they charge for AI, rather than a loss of their professional users.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;cinemaOS is available now for macOS on Apple silicon at $9.99 per month excluding VAT after a 60-day free trial without a card, or $8.99 per seat per month for teams of 2 to 50 seats. CUTROOM is free and open source under the MIT license and is available as a download for Windows and Mac, with cloud AI charges paid to the user&amp;#8217;s chosen provider. invideo&amp;#8217;s Starter, Plus and Max plans cost $10, $30 and $75 per seat per month on annual billing, or $20, $60 and $150 on monthly billing, with 400, 2,000 and 5,000 credits per seat per month. For more information, please visit the &lt;a href="https://mntm-studios.com/cinemaos" target="_blank" rel="noreferrer noopener"&gt;cinemaOS&lt;/a&gt;, &lt;a href="https://cutroom-studio.expo.app/?utm_id=97758_v0_s00_e0_tv4_a1demoo4u125x7&amp;amp;fbclid=IwY2xjawVFi7pleHRuA2FlbQIxMABwZG9mAWJyaWQRMEd5UW9xOFhzRTB3VVVJVDhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeK9JDeFeSMdskL7oHwqb2xy0k5qI6hU0vvdJS7SxaIhR29wsPsTseDqSWn3o_aem_TFQ_TCmR5zB_vbf_e_gA3Q#main" target="_blank" rel="noreferrer noopener"&gt;CUTROOM&lt;/a&gt;, and &lt;a href="https://invideo.io/" target="_blank" rel="noreferrer noopener"&gt;invideo&lt;/a&gt; websites.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you trust one of these new editors with a real project, or do you stay with Premiere Pro, DaVinci Resolve or Final Cut Pro? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
 <entry><title>SmallRig Shoulder Rig Kit (Pro) vs. Classic – VCT-14 Baseplate, ARRI Rosette Arms, $419.99</title><link href="https://www.cined.com/smallrig-shoulder-rig-kit-pro-vs-classic-vct-14-baseplate-arri-rosette-arms-419-99/"/><id>https://www.cined.com/smallrig-shoulder-rig-kit-pro-vs-classic-vct-14-baseplate-arri-rosette-arms-419-99/</id><published>2026-10-21T10:34:27+00:00</published><updated>2026-10-21T10:34:27+00:00</updated><summary>SmallRig sells two shoulder rigs with almost the same name: the Shoulder Rig Kit (Pro) 4274B and the Shoulder Rig Kit (Classic Version) 4480B. One costs $419.99, the other $169.99, and they are built on different ideas. Here is what the extra $250 gets you, and what the Pro kit l</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SmallRig-Shoulder-Rig-Kit-300x169.jpeg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;SmallRig sells two shoulder rigs with almost the same name: the Shoulder Rig Kit (Pro) 4274B and the Shoulder Rig Kit (Classic Version) 4480B. One costs $419.99, the other $169.99, and they are built on different ideas. Here is what the extra $250 gets you, and what the Pro kit leaves out of the box.&lt;/strong&gt;&lt;/p&gt;
 
@@ -1121,94 +1231,4 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you record 32-bit float straight into your camera file, or do you still prefer a dedicated recorder for your interviews? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>NiSi ATHENA Drop-In PL Adapters and True Color VND/PL Released – Rear Filter Slot for PL Lenses, 1-5 Stop VND With Independent Polarizer</title><link href="https://www.cined.com/nisi-athena-drop-in-pl-adapters-and-true-color-vnd-pl-released-rear-filter-slot-for-pl-lenses-1-5-stop-vnd-with-independent-polarizer/"/><id>https://www.cined.com/nisi-athena-drop-in-pl-adapters-and-true-color-vnd-pl-released-rear-filter-slot-for-pl-lenses-1-5-stop-vnd-with-independent-polarizer/</id><published>2026-10-15T07:44:57+00:00</published><updated>2026-10-15T07:44:57+00:00</updated><summary>NiSi has added a rear drop-in filter slot to its ATHENA PL adapters for Sony E, Canon RF, and Nikon Z cameras, so one set of filters can work across every PL lens on the camera. Alongside them, the company’s new True Color VND/PL combines a 1-5 stop variable ND and a polarizer in</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-300x169.jpeg" alt=""&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;NiSi has added a rear drop-in filter slot to its ATHENA PL adapters for Sony E, Canon RF, and Nikon Z cameras, so one set of filters can work across every PL lens on the camera. Alongside them, the company&amp;#8217;s new True Color VND/PL combines a 1-5 stop variable ND and a polarizer in a single screw-in filter with separate controls for each.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;We have previously looked at NiSi&amp;#8217;s cinema lineup, including the &lt;a href="https://www.cined.com/nisi-athena-tuned-full-frame-cinema-prime-lenses-first-look/" target="_blank" rel="noopener"&gt;ATHENA full-frame cinema primes&lt;/a&gt; and the later &lt;a href="https://cined.com/nisi-athena-prime-18mm-t2-2-40mm-t1-9-and-135mm-t2-2-unveiled-and-a-look-ahead" target="_blank" rel="noopener"&gt;ATHENA 18mm, 40mm and 135mm additions&lt;/a&gt;. NiSi already sells ATHENA PL adapters without a filter slot. The new drop-in versions move ND and diffusion behind the lens, while the True Color VND/PL targets photo and video shooters who work with screw-in filters on mirrorless lenses. Let&amp;#8217;s take a look at both.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-900x506.jpeg" alt="" class="wp-image-443422" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-2.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi ATHENA Drop-In PL Adapter. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;A filter slot between lens and camera&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The ATHENA Drop-In Filter adapters come in three versions: PL-E for Sony E, PL-RF for Canon RF, and PL-Z for Nikon Z. Front and rear mounts are made of 304 stainless steel, and a sealing ring at the camera mount keeps out dust and moisture. According to NiSi, the adapters compensate for the filter in the optical path, so lenses still reach infinity focus with a filter installed. Each adapter ships with a clear drop-in filter, which keeps the optical path the same when no other filter is in use.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Weights differ by mount. NiSi lists the PL-E at 195g / 6.9oz, the PL-RF at 207g / 7.3oz, and the PL-Z at 229g / 8.1oz, all without a filter. The adapters accept PL lenses with a rear protrusion of up to 25.8mm / 1.02in, and NiSi advises checking the rear element depth of lenses from other manufacturers before fitting.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The slot takes NiSi&amp;#8217;s ATHENA drop-in filters: True Color VND, True Color CPL, Black Mist, Allure Streak and FS ND. The True Color VND and CPL drop-ins have a 0.8 MOD gear, so a wireless lens motor (sold separately) can adjust density or polarization remotely.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-900x506.jpeg" alt="" class="wp-image-443430" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-3.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi ATHENA Drop-In PL Adapter. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Why a rear filter on a PL lens?&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For a PL lens on a mirrorless body, a rear filter means one VND covers every lens in the kit, whatever its front diameter. That matters most for cinema primes and zooms with large or non-threaded fronts, where the usual alternative is a matte box with 4&amp;#215;5.65in or 6.6&amp;#215;6.6in glass. (Not to mention very wide-angle lens options where adding a front filter is nearly impossible). &lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-900x506.jpeg" alt="" class="wp-image-443434" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-ATHENA-Drop-In-PL-Adapter-4.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi ATHENA Drop-In PL Adapter. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Current limitations&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The filter slot sits close to the camera body. NiSi notes that a cage, top plate, or positive-lock mount may restrict filter changes or prevent fitting the adapter with a filter installed, and suggests mounting the adapter first and then inserting the filter. NiSi&amp;#8217;s US store lists the existing ATHENA PL-L adapter for L-Mount without a drop-in version, so L-Mount users are not covered by the new line for now.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-900x506.jpeg" alt="" class="wp-image-443438" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi True Color VND/PL. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;True Color VND/PL with independent controls&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The True Color VND/PL is a screw-in filter for photo and video lenses, offered from 49mm to 95mm. It reduces light by 1-5 stops (0.3-1.5), and the polarizer is adjusted independently of the ND density. According to NiSi, this separation means that changing polarization does not change the exposure setting, unlike combined filters where both adjustments are linked. The company limits the range to 1-5 stops to avoid the X-pattern that cross-polarization causes at higher densities.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;NiSi&amp;#8217;s True Color technology is meant to keep the color neutral across the range, without magenta or warm casts. Both optical elements have a multi-layer nano coating on all four air-to-glass surfaces, which also repels water and oil. The slim aluminum frame is designed to avoid vignetting on full-frame lenses as wide as 15mm, the markings are luminescent for low light, and the filter is compatible with NiSi&amp;#8217;s SWIFT system. An aluminum front cap is included.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;NiSi&amp;#8217;s product page adds two usage notes. The company recommends the filter for focal lengths of 35mm and longer, because polarization is uneven across the frame on wide lenses, even though the frame itself clears 15mm. NiSi also advises against adjusting the polarizer at 4-5 stops, as this can produce overly saturated colors.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-900x506.jpeg" alt="" class="wp-image-443442" srcset="https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/NiSi-True-Color-VNDPL.-2.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;NiSi True Color VND/PL. Credit: NiSi&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The ATHENA Drop-In Filter PL-E, PL-RF and PL-Z adapters each cost $269 including a clear drop-in filter. Filmmaker Kits for PL-E and PL-Z add a True Color VND 1-5 stop and a Black Mist 1/8 drop-in filter plus a filter bag for $399. All are available to pre-order, and NiSi has not given a shipping date yet. For more information, please visit the &lt;a href="https://nisiopticsusa.com/product/nisi-athena-drop-in-filter-pl-e-adapter/" target="_blank" rel="noopener"&gt;NiSi ATHENA PL-E Drop-In adapter page&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The True Color VND/PL is available now. In the US, NiSi lists the 72mm version at $209 and the 82mm version at $249. NiSi&amp;#8217;s European distributor lists recommended prices from €169 for 49mm to €279 for 95mm (including VAT). For more information, please visit the &lt;a href="https://nisiopticsusa.com/product/nisi-82mm-true-color-vnd-pl-pro-nano-1-5-stops-variable-nd-and-polarizer/" target="_blank" rel="noopener"&gt;NiSi True Color VND/PL product page&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would a rear drop-in VND replace the matte box on your PL lenses, or does your cage rule it out? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
 </feed>
