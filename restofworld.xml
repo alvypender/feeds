@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Rest of World (Completo)</title>
+<link href="https://restofworld.org/"/>
+<id>https://restofworld.org/</id>
+<updated>2026-10-22T10:00:00+00:00</updated>
+<entry><title>Big Tech’s thirst for water is sparking a global resistance</title><link href="https://restofworld.org/2026/ai-datacenters-water-resistance-global/"/><id>https://restofworld.org/2026/ai-datacenters-water-resistance-global/</id><published>2026-10-22T10:00:00+00:00</published><updated>2026-10-22T10:00:00+00:00</updated><summary>In his new book “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires,” writer Paris Marx examines how local communities are resisting the growing demand for water to cool data centers.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg" alt="Big Tech’s thirst for water is sparking a global resistance" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Paris Marx&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;In his new book “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires,” writer Paris Marx examines how local communities are resisting the growing demand for water to cool data centers.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;After ChatGPT was released in November 2022, the tech industry was quick to herald the chatbot as the marker of a new wave of technological progress. As companies pushed to create more powerful AI models, the water demand of their ambitions took a while to become clear. In April 2023, a &lt;a href="https://arxiv.org/abs/2304.03271"&gt;research paper&lt;/a&gt; out of the University of California estimated that training the large language model behind the initial version of ChatGPT had required 185,000 gallons of water. For every extended conversation someone had with the chatbot or every time they asked it to write an email, they were effectively pouring a bottle of water down the drain.&lt;/p&gt;
+
+
+		&lt;figure class="image--right-rail  image image--portrait unloaded" &gt;
+			&lt;div class="image__container"&gt;
+				&lt;div class="image__wrapper"&gt;
+					
+					&lt;img
+						src="https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=600&amp;amp;dpr=2&amp;amp;crop=9:16"
+						srcset="https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=1900&amp;amp;dpr=2 3800w, https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=1700&amp;amp;dpr=2 3400w, https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=1500&amp;amp;dpr=2 3000w, https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/10/hyperscale.jpg?width=100&amp;amp;dpr=2 200w, " 
+						sizes="(min-width: 640px) 600px, calc(100vw - 40px)"
+						alt=""
+						 style='aspect-ratio: 173/261'
+						loading="lazy"
+					/&gt;
+					
+				&lt;/div&gt;
+			&lt;/div&gt;
+			
+		&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;That statistic got a lot of play when it was released. It became an early warning sign of what was coming as companies pushed chatbots as a universal technology that could replace psychologists, &lt;a href="https://restofworld.org/2025/colombia-meta-ai-education/"&gt;educators&lt;/a&gt;, lawyers, and even people’s friends or &lt;a href="https://restofworld.org/2023/boyfriend-chatbot-ai-voiced-shutdown/"&gt;partners&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;As public concern grew, &lt;a href="https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference"&gt;Google&lt;/a&gt; and OpenAI came out with their own figures. The companies suggested that querying one of their chatbots used mere drops of water. Independent researchers were not impressed, arguing the companies were taking a narrow view of the water use necessary to power and cool increasingly monstrous data centers. Those water demands can be quite significant too.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A hyperscale data center can suck up between 1 and 5 million gallons of water a day, comparable to the amount used by a city of 10,000 to 50,000 people — depending on the part of the world we’re talking about. Consider how these companies often cluster data centers together and it becomes obvious what a challenge it can be to supply them.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--default pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Data centers end up competing with communities over their potable water supply.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;The water demands of individual data centers are also continuing to grow. It’s not just that they need more water for cooling as they become larger and contain more servers. The graphics processing units (GPUs) that power generative AI are much more resource-intensive than the chips and storage devices that traditionally filled data center racks. GPUs run harder and &lt;a href="https://restofworld.org/2025/data-center-heat-map/"&gt;throw off more heat&lt;/a&gt;, meaning they also need more energy or water to keep them cool.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Data centers cannot just use any kind of water either; it has to be clean enough to ensure the equipment and pipes are not damaged. Tapping into public drinking water is both easier and cheaper than paying the cost of treatment themselves. That means data centers end up &lt;a href="https://restofworld.org/2026/ai-pushback-chile-mexico-kenya-philippines/"&gt;competing with communities&lt;/a&gt; over their potable water supply.&lt;/p&gt;
+
+
+
+&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;If we want to look at a part of the world where the issue of data center water use has taken center stage, there are few better countries to turn to than Chile. In October 2019, mass social demonstrations broke out across the country. One of the movement’s driving slogans was about water. It was poor timing for Google as it was fighting for approval and public support of its latest data center project, a $200 million data center project in Cerrillos, on the southwest side of Santiago.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The company made a pitch similar to the one residents in communities the world over have heard whenever a data center is proposed: that the facility would bring jobs and prosperity, and give the area a leg up on further tech investments. The reality was not so straightforward. Google’s new data center would bring a lot of short-term construction jobs but not much &lt;a href="https://restofworld.org/2025/data-centers-jobs-microsoft-google-chile/"&gt;long-term employment&lt;/a&gt;. And it would need a lot of water — something Cerrillos did not have much of to spare.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Local residents &lt;a href="https://restofworld.org/2024/data-centers-environmental-issues/"&gt;were not as passive&lt;/a&gt; as the company had hoped. A group of concerned citizens established an organization called MOSACAT, which stands for Community Socio-Environmental Movement for Water and Land, and started poring over whatever information they could get their hands on to try to understand what the project would mean for them. “Usually these reports use quite technical language, and this is a working- class community where not many people are lawyers, for example, or experts on ecology,” explains Sebastián Lehuedé, a researcher at King’s College London who is from Chile and spent time in Cerrillos.&lt;/p&gt;
+
+
+&lt;figure class='pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Data center companies claim they will be respectful and considerate neighbors, but too often hide the extent of the damage from the scale of their demands on local resources.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;According to its own projections, the data center Google wanted to build in Cerrillos was poised to use 169 liters of water every single second. In just one day, the data center would consume as much water as all 80,000 residents of Cerrillos use for drinking in a year. To make matters worse, it wanted to draw that water from an underground aquifer that had been under a decree that restricted how much water could be removed since 2005. Just weeks before the project was rubber-stamped by the environmental authority, that decree had been upgraded to a complete prohibition on new extraction.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The water use estimates set off alarm bells for the residents. Chile had already been in an unprecedented drought since 2010. By 2021, more than half the country’s 19 million residents lived in areas experiencing severe water scarcity, forcing hundreds of rural communities to rely on tankers to deliver drinking water.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The local activists ultimately built the case against one of the largest companies on the planet. After months of meetings and advocacy to spread awareness, they were able to put a referendum question to the residents of Cerrillos about the project in December 2019. The results were damning: 49% of voters chose to reject the project, while 38% wanted it to go forward.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;After both the municipality and community members filed claims against Google in 2020, the company returned with a new proposal in February 2022. It offered to cool the data center exclusively with air-conditioning rather than with water.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Across the city in Quilicura, opposition was building too. Microsoft announced its intention to build a data center in the community in 2022, the same year strict water-rationing rules had come into effect in Santiago. As in Cerrillos, residents were worried that another large data center would threaten their access to water and &lt;a href="https://restofworld.org/2026/data-centers-cities-communities-benefits/"&gt;provide little in return&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Vicente Bardales, a member of the Quilicura Socio Environmental Resistance group, told &lt;em&gt;Rest of World&lt;/em&gt; that the companies touch down in places like Quilicura only to “use water, [and] dry up the territory, but don’t give anything back to the population.”&amp;nbsp;&lt;/p&gt;
+
+
+&lt;figure class='pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;Only a tiny proportion of water in Uruguay is used for human consumption.&amp;#8221; &lt;cite&gt;Daniel Pena, researcher at University of the Republic.&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Similar scenarios to that of Chile played out across Latin America. The following year, the Uruguayan capital of Montevideo found itself under a state of emergency as the country was hit by its worst drought in 70 years. As residents demonstrated against the misuse of water by industry, they found out Google was planning a data center in Canelones, a little less than an hour north of Montevideo.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Only a tiny proportion of water in Uruguay is used for human consumption,” explained Daniel Pena, a researcher at University of the Republic. “The majority is used for big agro industries, such as soya, rice, and wood pulping. Now we have Google planning to use enormous quantities of water.” Pena had to go to court to get details of its planned water use from the Ministry of Environment, ultimately finding Google’s 72-acre site was planning to use 2 million gallons of water each day to power its cooling systems.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Uruguayans had fought for fresh drinking water to be considered a basic right in the national constitution two decades earlier, and as companies like Google moved in, they feared its realization was slipping from their grasp.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Uruguayans suspected Google had shifted its focus to their country because it had run into such opposition in Chile. Neighboring Brazil already has over 180 data centers, even as many regions regularly experience drought conditions. On the outskirts of Fortaleza, Brazil’s fourth-largest city, at least four major data centers were looking to set up shop to take advantage of a free-trade zone in the municipality of Caucaia. One in particular would be the size of 12 football fields, costing an estimated $10 billion, and though it will technically be owned by a local wind energy company, it is actually being developed t&lt;a href="https://restofworld.org/2025/brazil-indigenous-group-sues-tiktok-data-center/"&gt;o serve TikTok&lt;/a&gt;. This is in a region that experienced emergency drought conditions for 16 of the 21 years between 2003 and 2024.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;What Cerillos, Canelones, and Caucaia are experiencing is increasingly &lt;a href="https://restofworld.org/2025/ai-data-centers-fallout/"&gt;a global phenomenon&lt;/a&gt;. Around the world, data center companies claim they will be respectful and considerate neighbors, but too often they hide the extent of the damage that follows from the scale of their demands on local resources. This is particularly acute in parts of the Global South, but the effects are now also being felt across the United States and Europe.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Adapted from “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires” by Paris Marx published by Riverhead Books, an imprint of Penguin Random House © 2026 by Paris Marx, and reprinted with permission.&lt;/em&gt;&lt;/p&gt;</content></entry>
+<entry><title>Will developing nations be able to handle millions of AI agents?</title><link href="https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/"/><id>https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/</id><published>2026-10-19T10:00:00+00:00</published><updated>2026-10-19T10:00:00+00:00</updated><summary>It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_qgents_swarm_sketch_v3.jpg" alt="Will developing nations be able to handle millions of AI agents?" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Danai Nesta Kupemba&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Big Tech’s newest personal agents — Meta’s Muse and OpenAI’s Dots — promise to book tables at restaurants, buy groceries, and carry out other types of digital grunt work for users.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Consumers are opting in. Muse has been downloaded &lt;strong&gt;&lt;/strong&gt;9 million times in the U.S. and Canada since its launch on September 8, &lt;strong&gt;&lt;/strong&gt;market intelligence company AppMagic, told &lt;em&gt;Rest of World&lt;/em&gt;. As many as 1.8 million people use the app daily.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Meta aspires to a global launch. “[We] are quite excited to bring personal agents to billions of people around the world,” Alexandr Wang, Meta’s chief AI officer, &lt;a href="https://www.ft.com/content/5816292b-c36b-4c22-aa50-2680b9970382?syn-25a6b1a6=1"&gt;told the &lt;em&gt;Financial Times&lt;/em&gt;.&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Some startups are already building agents in markets that Big Tech hopes to reach. For instance, South African startup &lt;a href="https://manyhands.co.za/faqs"&gt;ManyHands offers Manny&lt;/a&gt;, a personal assistant designed to order groceries, book appointments and make payments through WhatsApp. &lt;strong&gt;&lt;/strong&gt;But adapting agents to local conditions has its challenges. Anton Moulder, ManyHands’ founder, told &lt;em&gt;Rest of World&lt;/em&gt; that getting the AI assistant to converse in all of South Africa’s 11 official spoken languages has been difficult.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Rest of World&lt;/em&gt; spoke to AI researchers and other experts to understand how these personal agents would perform outside Western nations.&lt;/p&gt;
+
+
+
+&lt;h2 id='would-ai-agents-understand' class="wp-block-heading"&gt;Would AI agents understand the local language and culture?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;English speakers could benefit more from AI agents, which run on top of large language models that &lt;a href="https://news.stanford.edu/stories/2025/05/digital-divide-ai-llms-exclusion-non-english-speakers-research"&gt;underperform in many non-English&lt;/a&gt; &lt;a href="https://restofworld.org/2023/chatgpt-problems-global-language-testing/"&gt;languages&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Linguistic inclusion is ultimately about power,” Payal Arora, professor of inclusive AI cultures at Utrecht University and the founder of Inclusive AI Lab, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Meta has &lt;a href="https://indianexpress.com/article/technology/artificial-intelligence/meta-vishal-shah-muse-ai-personal-superintelligence-10899167"&gt;said that expanding Muse&lt;/a&gt; internationally would require support for local languages and integration with local services.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;AI agents would also need to &lt;a href="https://www.weforum.org/stories/all/how-the-global-south-is-reimagining-the-future-of-ai/"&gt;understand the local culture&lt;/a&gt;, including the unique ways people communicate and bargain. “In many parts of the Global South, meaning is deeply contextual, shaped by family, community, religion, local institutions, and informal social networks,” Arora said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Without that understanding, agents might impose Western assumptions on their users, Usha Raman, an independent researcher on AI policy and digital culture, told &lt;em&gt;Rest of World.&lt;/em&gt; “The danger then is that existing forms of cultural and economic hegemony continue and the rest of the world is forced to adapt,” she said.&lt;/p&gt;
+
+
+
+&lt;h2 id='what-happens-when-millions' class="wp-block-heading"&gt;What happens when millions of agents go online?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Agents searching and completing transactions for millions of people could stress networks and websites. “Internet connectivity may be poor [in developing nations], affecting not only the user’s interaction with AI, but what agents can do online,” Kentaro Toyama, professor of community information at the University of Michigan, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A single task given to an agent can trigger repeated exchanges between the agent, its AI model, and different websites. Cisco describes agents as “network power users,” generating up to 450% more traffic per task than a human in its testing. Agent traffic is growing online: Daily requests from AI agents on &lt;a href="https://blog.cloudflare.com/agentic-web/"&gt;Cloudflare’s network increased by&lt;/a&gt; more than 1,700% over the past year.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Rising traffic wouldn’t immediately affect regions that have spare network capacity, such as East Africa, Kyle Spencer, executive director of the African IXP Association, told &lt;em&gt;Rest of World.&lt;/em&gt; But other places with poor networks, such as Niger, Burkina Faso, or eastern Congo, could face problems, he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The bigger challenge would be keeping connections reliable. Road construction often damages fiber cables, Spencer said. The network could also &lt;a href="https://capacityglobal.com/news/what-caused-the-damage-to-sea-me-we-5/"&gt;get disrupted if undersea&lt;/a&gt; cables bringing internet into a nation get damaged.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Though Muse and Dots could continue working as they are cloud-based, they may be unable to reach necessary services. They also wouldn’t be able to reach users who lose connectivity for instructions or approvals to complete a task.&lt;/p&gt;
+
+
+
+&lt;h2 id='could-personal-agents-widen' class="wp-block-heading"&gt;Could personal agents widen Africa’s digital divide?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Only 36% of Africans used the internet in 2025, compared to 92% of Europeans and 88% of North and South Americans, according to the &lt;a href="https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-internet-use/"&gt;International Telecommunication Union&lt;/a&gt;. City dwellers in Africa were 2.6 times more likely to use the internet than people who live in the countryside.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“If agents were to work in Africa, they might unfortunately deepen inequality,” Jane Munga, a fellow at the Carnegie Endowment for International Peace, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The cost of accessing agents could also &lt;a href="https://restofworld.org/2026/ai-agent-inequality/"&gt;limit who benefits&lt;/a&gt;, Munga said. Though Muse can be accessed for free, many other agents are paid. Dots is available for a minimum of $100 a month. “These are costs that most Global South users may not be in a position to absorb,” she said.&lt;/p&gt;
+
+
+
+&lt;h2 id='how-would-local-businesses' class="wp-block-heading"&gt;How would local businesses need to rewire for AI agents?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Local businesses would have to make their websites &lt;a href="https://www.weforum.org/stories/emerging-technologies/agentic-ai-brands-customer-experiences/"&gt;understandable, readable, and usable&lt;/a&gt; by bots. If they do not, they risk losing out on digital economic opportunities.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This would be challenging for small, offline businesses, such as a vendor at a vegetable market. They would have to go online, maintain an inventory, know how much stock they own, and create ways for bots to pay, Munga said. This requires money and skills.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Businesses may also have to invest more in customer support. “Agents might purchase more, and request more returns — when human users decide agents erred — putting stress on businesses,” said Toyama.&lt;/p&gt;
+
+
+
+&lt;h2 id='could-regulators-hold-agents' class="wp-block-heading"&gt;Could regulators hold agents accountable?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Agents perform better the more they know the user, Mercy King’ori, policy manager for Africa at the Future of Privacy Forum, told &lt;em&gt;Rest of World.&lt;/em&gt; A user’s favorite restaurants, shops, and regularly visited places could help an agent build a picture of their tastes, habits, and daily life.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“An agent may draw conclusions about a person or a group, such as their likely income, health, creditworthiness, or behaviour from the data it handles,” King’ori said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In cases where agents are developed and hosted outside the country, regulators may be unable to supervise the systems, said King’ori.&lt;/p&gt;</content></entry>
+<entry><title>Western open-weight models still can’t beat China</title><link href="https://restofworld.org/2026/china-open-weight-models/"/><id>https://restofworld.org/2026/china-open-weight-models/</id><published>2026-10-16T10:00:00+00:00</published><updated>2026-10-16T10:00:00+00:00</updated><summary>Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg" alt="Western open-weight models still can’t beat China" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Rina Chandran&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;A slew of new open-weight artificial intelligence models from American and European companies aim to convert users of Chinese open models who are concerned about security, but fall short of the dominant Chinese systems on performance despite having greater resources, experts said at a &lt;em&gt;Rest of World&lt;/em&gt; event in San Francisco.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Last week, American startup Reflection launched its &lt;a href="https://reflection.ai/blog/introducing-beam"&gt;first open-weight model&lt;/a&gt;, and European labs Aleph Alpha and Mistral also &lt;a href="https://mistral.ai/news/mistral-large-4/"&gt;released&lt;/a&gt; new open-weight models. Open models such as these offer users greater customization and control than the closed models of OpenAI, Anthropic, and Google at significantly lower costs.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For businesses and governments in lower-income countries, in particular, cost is the primary factor, as well as the expertise needed to customize open models for their &lt;a href="https://restofworld.org/2026/ai-agriculture-local-data/"&gt;specific needs&lt;/a&gt;, including in areas such as education, healthcare, and farming, Daniel Björkegren, an assistant professor at Columbia University, said at the &lt;em&gt;Rest of World&lt;/em&gt; event last week.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;American models are also very tuned for American workloads, but when you take those same models and try to deploy them in remote parts of the world, often they don’t work so well.”&lt;cite&gt;Daniel Björkegren, assistant professor at Columbia University&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;“In the low-income context, there&amp;#8217;s a lot of concern about being dependent on the U.S. for frontier intelligence,” he said. “American models are also very tuned for American workloads, but when you take those same models and try to deploy them in remote parts of the world, often they don&amp;#8217;t work so well.”&lt;br&gt;&lt;br&gt;Users, particularly businesses, switch models “when new capabilities and lower prices emerge,” Björkegren said. But “one enduring question is, how easy is it to switch?”&lt;br&gt;&lt;br&gt;Since the launch of DeepSeek early last year, Chinese open models have rapidly closed in on their U.S. rivals. A growing number of &lt;a href="https://restofworld.org/2026/when-americans-choose-chinese-ai/"&gt;U.S. startups&lt;/a&gt; and businesses, as well as the European Union’s &lt;a href="https://openeurollm.eu/"&gt;sovereign AI project&lt;/a&gt;, use them. The &lt;a href="https://openrouter.ai/rankings#leaderboard-table"&gt;OpenRouter leaderboard&lt;/a&gt; of large language models had four Chinese models among its top five last week — DeepSeek, Z.ai, &lt;span class='explainer-tag'&gt;&lt;mark class='term'&gt;&lt;a href='https://restofworld.org/tag/xiaomi' aria-label='Click to learn more about Xiaomi.'&gt;Xiaomi&lt;span class='info-icon'&gt;i&lt;/span&gt;&lt;/a&gt;&lt;/mark&gt;&lt;span class='description'&gt;&lt;span class='explainer-title'&gt;&lt;a href='https://restofworld.org/tag/xiaomi'&gt;Xiaomi&lt;/a&gt;&lt;/span&gt;Xiaomi is a Chinese consumer electronics company that leads the country in smartphone manufacturing and sales.&lt;span class='read-more'&gt;&lt;a href='https://restofworld.org/tag/xiaomi'&gt;&lt;span&gt;READ MORE&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, and &lt;span class='explainer-tag'&gt;&lt;mark class='term'&gt;&lt;a href='https://restofworld.org/tag/tencent' aria-label='Click to learn more about Tencent.'&gt;Tencent&lt;span class='info-icon'&gt;i&lt;/span&gt;&lt;/a&gt;&lt;/mark&gt;&lt;span class='description'&gt;&lt;span class='explainer-title'&gt;&lt;a href='https://restofworld.org/tag/tencent'&gt;Tencent&lt;/a&gt;&lt;/span&gt;Best known for its super-app WeChat, Tencent is a Chinese technology conglomerate and a major player in the video gaming industry.&lt;span class='read-more'&gt;&lt;a href='https://restofworld.org/tag/tencent'&gt;&lt;span&gt;READ MORE&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;. &lt;a href="https://livebench.ai/#/"&gt;LiveBench&lt;/a&gt;, which ranks models on various benchmarks, recently had DeepSeek in the top five for the first time, and showed that the top Chinese models lagged behind their U.S. rivals by just 3% on benchmark scores.&lt;/p&gt;
+
+
+
+&lt;h2 id='critical-to-chinas-ambition' class="wp-block-heading"&gt;&lt;strong&gt;Critical to China’s ambition&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;China’s leader Xi Jinping has described open models as &lt;a href="https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html"&gt;key to the country’s ambition&lt;/a&gt; to shape the development of the technology, and reach its goal of “global AI leadership” by 2030. This year, China established the World Artificial Intelligence Cooperation Organization to promote AI adoption and shape AI governance in developing nations. That includes access to Chinese models, and training for students and workers.&lt;br&gt;&lt;br&gt;China’s plan for economic progress is through innovation, and open-weight models give it an opportunity to get around some of the concerns about its presence in overseas markets, Kristy Loke, a research fellow at the independent AI safety and security program MATS, said at the &lt;em&gt;Rest of World&lt;/em&gt; event.&lt;br&gt;&lt;br&gt;“China has, for a long time, talked about open innovation and contributing to global innovation, and they weren&amp;#8217;t able to do that because in some cases, &lt;a href="https://restofworld.org/2025/huawei-us-ban-ai-cloud/"&gt;like Huawei&lt;/a&gt;, the U.S. pushed back,” she said. “With open models, because people can download them and use them and own them, it&amp;#8217;s private to them — so you kind of break down the trust problem when it comes to concern over the Chinese state.”&lt;br&gt;&lt;br&gt;“It&amp;#8217;s good for soft power. It&amp;#8217;s good domestically, as well,” Loke said.&lt;br&gt;&lt;br&gt;The directive from the U.S. government to Anthropic earlier this year to suspend access to its Fable 5 and Mythos models for all foreign nationals on &lt;a href="https://restofworld.org/2026/ai-cybersecurity-anthropic-mythos/"&gt;national security&lt;/a&gt; grounds also reinforced to several governments that they should not depend entirely on American systems, Björkegren said.&lt;/p&gt;
+
+
+		&lt;figure class="image--wide  image image--landscape unloaded" &gt;
+			&lt;div class="image__container"&gt;
+				&lt;div class="image__wrapper"&gt;
+					
+					&lt;img
+						src="https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
+						srcset="https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=1900&amp;amp;dpr=2 3800w, https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=1700&amp;amp;dpr=2 3400w, https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=1500&amp;amp;dpr=2 3000w, https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=100&amp;amp;dpr=2 200w, " 
+						sizes="(min-width: 1320px) 960px, (min-width: 1140px) calc(100vw - (50vw - 280px)), (min-width: 992px) calc(100vw - 290px), calc(100vw - 40px)"
+						alt="A man speaking into a microphone gestures while seated next to a woman, in a modern indoor setting with large windows"
+						 style='aspect-ratio: 2000/1333'
+						loading="lazy"
+					/&gt;
+					
+				&lt;/div&gt;
+			&lt;/div&gt;
+				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
+		&lt;span class='figcaption__caption'&gt;Kristy Loke, a research fellow at the independent AI safety and security program MATS, left, and Daniel Björkegren, an assistant professor at Columbia University, at an event hosted by Rest of World in San Francisco.&lt;/span&gt;
+		&lt;span class='figcaption__credit' itemprop='copyrightHolder'&gt;Rest of World&lt;/span&gt;
+	&lt;/figcaption&gt;
+		&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;“If your digital infrastructure is dependent on a foreign country, and for geopolitical reasons access could be pulled, that is really problematic,” he said. “Strategically, a government is going to be &lt;a href="https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/"&gt;in a better position&lt;/a&gt; if there are more providers from different countries that have diverse interests, so that you&amp;#8217;re not going to be subject to a holdup problem.”&lt;br&gt;&lt;br&gt;A growing number of instances of AI agents at OpenAI, Anthropic, and Meta hacking websites and taking other unauthorized actions has shifted the narrative around open models being less safe. Hugging Face said it used a Chinese open-weight model while&amp;nbsp; defending itself from a swarm of AI agents from OpenAI because American models refused its prompts.&lt;br&gt;&lt;br&gt;Trade restrictions that limit China’s access to the most advanced chips from Nvidia have forced Chinese companies to build more efficient models that require less computing power. American open models from Meta, Nvidia, and others do not come close in capability, Graham Webster, a research scholar and editor-in-chief at the DigiChina Project at Stanford University, said at the &lt;em&gt;Rest of World&lt;/em&gt; event.&lt;br&gt;&lt;br&gt;“If you need relatively frontier capability, right now that&amp;#8217;s Chinese open models only,” he said. “If there were U.S.-made open models that were at &lt;a href="https://restofworld.org/2026/america-china-ai-race-trust/"&gt;such high performance&lt;/a&gt; as the Chinese open models, you might observe whether people had a preference for a U.S.-made open model. But you don&amp;#8217;t see that because the U.S. companies just don&amp;#8217;t release those.”&lt;/p&gt;
+
+
+
+&lt;h2 id='competition-is-hard' class="wp-block-heading"&gt;&lt;strong&gt;&amp;#8220;Competition is hard&lt;/strong&gt;&amp;#8220;&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Last week, as Reflection announced the launch of its first open-weight model, Nathan Lambert, head of AI research lab Trillium Labs, &lt;a href="https://x.com/natolambert/status/2107214330529980676"&gt;wrote on X&lt;/a&gt;: “Reflection joins the list of Nvidia &amp;amp; Thinking Machines who have released their strongest models and come up behind Chinese counterparts. There&amp;#8217;s a lot of ways people will overthink this, but the clearest takeaway should be that the Chinese are very very good at building LLMs.”&lt;br&gt;&lt;br&gt;When the head of product at Reflection responded that it was their first product, Lambert wrote: “The point is that some of the best and most funded researchers in the U.S. may not win. Competition is hard.”&lt;br&gt;&lt;br&gt;Still, Chinese AI companies are grappling with compute limits and the question of how to make money. Their open models can do some tasks 50% to 90% cheaper than the leading American frontier models. Moonshot AI &lt;a href="https://www.reuters.com/business/retail-consumer/chinas-moonshot-talks-with-microsoft-amazon-google-over-k3-revenue-sharing-2026-08-26/"&gt;is negotiating&lt;/a&gt; revenue-sharing deals with Microsoft, Amazon, and Google to host its Kimi K3 model — a rare deal between a Chinese AI firm and U.S. cloud providers.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Chinese government will be keen to maintain the lead, Webster said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“The government would prefer that China be home to the leading open-weight model,” he said. “They can throw more money at things, but you can only buy so many chips under current conditions. The Chinese companies have been doing a very good job of &lt;a href="https://restofworld.org/2025/china-chip-startups-nvidia-us-export/"&gt;figuring out&lt;/a&gt; how to do more with less. But they may run into a wall.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Monetization is a question that concerns every Chinese AI company, Loke said. “The hope is to get as much traction and adoption, and that once people like your model enough, hopefully, they stick with you,” she said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For the government, enabling Chinese open models to thrive locally and globally is critical. “Strategically, it makes a lot of sense for them to win hearts and minds, win markets,” Loke said.&lt;/p&gt;</content></entry>
+<entry><title>What the West can learn from AI optimists in the rest of the world</title><link href="https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/"/><id>https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/</id><published>2026-10-15T10:00:00+00:00</published><updated>2026-10-15T10:00:00+00:00</updated><summary>The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg" alt="What the West can learn from AI optimists in the rest of the world" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Payal Arora&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;On a recent Sunday afternoon, I was invited to debate AI’s impact on the cultural sector alongside Dutch politicians and creative-industry leaders. I was the lone optimist, arguing that if fear and risk become our primary lens for governing artificial intelligence, we will design systems around what we want to prevent rather than what we want to use them for. Then I said something that was harder for the room to hear: The Global South is home to some of AI’s &lt;a href="https://restofworld.org/2026/global-workers-using-ai-at-work/"&gt;most enthusiastic&lt;/a&gt; and inventive users, and their experiments could help us rethink our own institutions.&amp;nbsp;&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;In the West, fear of AI has helped turn pessimism into a cultural virtue.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;The U.S. is no different from Europe. A culture of fear encourages protectionism: We hunker down and romanticize legacy systems rather than ask what might replace them. &lt;a href="https://restofworld.org/2025/indonesia-ai-movies/"&gt;Creative industries&lt;/a&gt; in the majority world have spent decades navigating piracy and weak enforcement, forcing them to think beyond rights-based policing about how creators actually receive value. &lt;a href="https://www.anghami.com/"&gt;Anghami&lt;/a&gt;, the biggest music app in the Middle East, for instance, pays musicians from their first stream, rather than only after a song reaches a minimum threshold. It has approached AI pragmatically, using it to curate, tag, and attribute creative work rather than simply blocking and banning.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In the West, fear of AI has helped turn pessimism into a cultural virtue. Would you publicly say you love AI? Your answer may say something about where you&amp;#8217;re from. Say “yes” to a concerned audience in the U.S. or the Netherlands, and you risk being seen as naive, or complicit in extraction and exploitation. While the U.S. is building and deploying AI at a scale no other country matches, Americans are deeply anxious about where it is heading. Only 17% of U.S. adults think AI will have a positive impact on the country over the next 20 years, according to a 2025 Pew Research Center &lt;a href="https://www.pewresearch.org/short-reads/2026/03/12/key-findings-about-how-americans-view-artificial-intelligence/"&gt;survey&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In much of the Global South, the mood is &lt;a href="https://restofworld.org/2026/ai-optimism-asia/"&gt;markedly different&lt;/a&gt;. Stanford’s 2025 AI Index found that 83% of respondents in China, 80% in Indonesia, and 77% in Thailand said AI-powered products offer more benefits than drawbacks, compared with 39% in the U.S. and 36% in the Netherlands.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;So why the divide?&lt;/p&gt;
+
+
+
+&lt;h2 id='its-all-about-access' class="wp-block-heading"&gt;&lt;strong&gt;It’s all about access&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Demographics are a part of the answer. Nearly 90% of the world’s young people live outside the West. They are not simply using AI, they are playing with it. Drive through Hyderabad or Bengaluru and you will see billboards for AI crash courses and Bollywood films promoted as AI-made. I have spent two decades talking with young people from the rural Himalayas to the slums of Hyderabad, and they often tell me some version of the same thing: They love technology. Their enthusiasm is not necessarily about the technology itself, it is about what &lt;a href="https://restofworld.org/2025/ai-innovation-global-2025/"&gt;AI might democratize&lt;/a&gt;: access to institutions and opportunities that have long excluded people with the least social or cultural capital.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Their enthusiasm is not necessarily about the technology itself, it is about what AI might democratize.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;A founder I met in Gurgaon told me she is anxious about AI too, but that it has allowed her to reach clients far beyond the English-speaking world, reinventing her business in a fraction of the time it once took. A civic activist in Chennai taught herself to code with AI and built a gender violence-alert app in multiple languages, at a moment when funding for such work is drying up and state scrutiny is rising. Having seen what deepfake abuse does to women, she sees AI as one of the few tools powerful enough to fight back. India consistently ranks among the most optimistic countries on AI even as &lt;a href="https://restofworld.org/2025/engineering-graduates-ai-job-losses/"&gt;anxiety about jobs&lt;/a&gt; rises.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;It would be easy for the West to dismiss these stories as products of scarcity, shaped by conditions far removed from our own. That would be a mistake. Constraint has a way of forcing people to &lt;a href="https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/"&gt;rewrite the rules of the game&lt;/a&gt;. At a technology festival in Athens this year, creatives told me they worry AI might kill short filmmaking. In China, AI-made micro-dramas have become a multibillion-dollar industry. One breakout film, &lt;em&gt;Zombie Cleaner&lt;/em&gt;, was made for less than $500 by a part-time wedding photographer in rural Yunnan province, and went on to attract tens of millions of views overseas. The significance is not the novelty of AI-generated entertainment. It is that AI lowers the cost of &lt;a href="https://restofworld.org/2026/ai-video-games-developer-jobs/"&gt;entering a cultural market&lt;/a&gt;. People in smaller Chinese cities can tell stories in their own accents and languages rather than waiting for mainstream media to tell them what counts as a story.&lt;/p&gt;
+
+
+
+&lt;h2 id='building-for-need-not' class="wp-block-heading"&gt;&lt;strong&gt;Building for need, not market share&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A few months ago, I spoke to employees at a multinational company about “inclusive AI.” I was asked to remove a slide on AI’s potential harms because it might discourage adoption. That exchange captures something important about AI adoption in the West. Corporations increasingly pressure employees and customers to use AI, often because adoption itself has become a measure of competitiveness. The question is how to maximize market return.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Elsewhere, the question is more often: What problem can this solve?&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Where capital and resources are scarce, technologies are frequently built around concrete public needs.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Where capital and resources are scarce, technologies are frequently built around concrete public needs. India, with a fraction of Europe’s resources, built India Stack: a public digital infrastructure for identity, payments, and data-sharing that companies can build on rather than infrastructure controlled by a handful of private platforms. Europe is now looking to India’s example as it develops EuroStack, in response to the growing need for digital sovereignty.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Innovation does not always come from having more. Sometimes it comes from having less room for failure. The countries with the least room for error are &lt;a href="https://restofworld.org/2026/frugal-ai-big-tech/"&gt;experimenting with AI&lt;/a&gt; not because they are blind to its risks, but because they cannot afford to wait for perfect systems to solve chronic problems. The West should pay closer attention.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The point is not to romanticize the Global South, but to recognize that we have a remarkably narrow vision of what AI can be for. We ask whether it will replace workers, destroy creativity, undermine democracy, or kill our planet. These are necessary questions. But what if we also asked what AI could help us rebuild? Young people around the world are using it for work, entertainment, romance, creativity, activism, and self-expression. They are not waiting for institutions to tell them what the technology is supposed to be for.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;If the most powerful builders keep designing for market share while the world’s most resource-constrained builders design for survival and self-actualization, the templates that spread globally for governance, infrastructure, and who gets to participate may increasingly come from wherever necessity did the inventing. The West is warning the world about what AI might do to us. Perhaps it is time to ask what the rest of the world might teach us to do with it.&lt;/p&gt;</content></entry>
+<entry><title>BYD expands EV shipping fleet as wars upend freight costs and key trade routes</title><link href="https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/"/><id>https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/</id><published>2026-10-14T10:00:00+00:00</published><updated>2026-10-14T10:00:00+00:00</updated><summary>China’s EV giant says a shortage of ships is holding back its exports.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg" alt="BYD expands EV shipping fleet as wars upend freight costs and key trade routes" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Indranil Ghosh&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;China’s EV giant says a shortage of ships is holding back its exports.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;China’s &lt;span class='explainer-tag'&gt;&lt;mark class='term'&gt;&lt;a href='https://restofworld.org/tag/byd' aria-label='Click to learn more about BYD.'&gt;BYD&lt;span class='info-icon'&gt;i&lt;/span&gt;&lt;/a&gt;&lt;/mark&gt;&lt;span class='description'&gt;&lt;span class='explainer-title'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;BYD&lt;/a&gt;&lt;/span&gt;BYD Auto is a Chinese carmaker that became the world’s leading EV manufacturer in 2023, competing with Tesla for market share and global attention.&lt;span class='read-more'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;&lt;span&gt;READ MORE&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; is building cars faster than it can export, so it’s adding more ships.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The world’s largest electric vehicle maker will expand its fleet of car-carrying cargo ships to 18 from eight by 2029, according to &lt;a href="https://www.new-ships.com/ns/news/6281"&gt;shipping industry reports&lt;/a&gt;. Each &lt;a href="https://www.new-ships.com/ns/news/6281"&gt;new carrier&lt;/a&gt; will have the capacity to carry about 9,200 cars and will be built by China Merchants Industry.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Owning its fleet could cut BYD’s cost to ship each car abroad by as much as 40% compared with renting carriers, according to &lt;a href="https://carnewschina.com/2025/03/24/byd-will-undock-its-fifth-car-carrier-in-april/"&gt;one industry estimate&lt;/a&gt;. BYD’s increasing export capacity could help it push further into global markets, intensifying competition for automakers including Tesla and traditional U.S. brands.&lt;/p&gt;
+
+
+&lt;figure class='pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;Carmakers like BYD, which invested in the sector ahead of the surge, are reaping the rewards of that long-term strategy.”&lt;cite&gt;Andrea De Luca, maritime analyst, Veson Nautical&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;“Carmakers like BYD, which invested in the sector ahead of the surge, are reaping the rewards of that long-term strategy,” Andrea De Luca, a maritime analyst at Boston-based shipping data company Veson Nautical, told &lt;em&gt;Rest of World&lt;/em&gt;. “By owning their ships, they can save money compared with chartering at today’s elevated rates, prioritize their most important markets, enter new ones more easily, and depend less on charter market swings.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;BYD did not respond to &lt;em&gt;Rest of World&lt;/em&gt;’s request for comment.&lt;/p&gt;
+
+
+
+&lt;h2 id='why-byd-owns-ships' class="wp-block-heading"&gt;Why BYD owns ships&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In 2022, BYD announced &lt;a href="https://maritime-executive.com/article/chinese-ev-manufacturer-byd-takes-delivery-of-largest-capacity-car-carrier"&gt;a plan worth $687 million&lt;/a&gt; to build its own car carriers, to fix what founder Wang Chuanfu called a shortage of shipping capacity for exports. Between January 2024 and September 2025, the company put &lt;a href="https://carnewschina.com/2026/09/11/byd-orders-10-more-vessels-with-capacity-for-9200-cars-each-report-says/"&gt;eight car carriers&lt;/a&gt; into service.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Earlier this year, BYD told investors that a &lt;a href="https://cnevpost.com/2026/09/07/byd-targets-2-5-million-overseas-sales-2027/"&gt;shortage of shipping capacity&lt;/a&gt; had held back its exports. In September, the company sold 180,700 cars outside China, more than double a year ago and almost 40% of &lt;a href="https://cnevpost.com/2026/10/01/byd-sept-2026-sales/"&gt;its monthly total sales&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Wars in the Red Sea and around the &lt;a href="https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/"&gt;Strait of Hormuz&lt;/a&gt; have &lt;a href="https://www.maritime.dot.gov/msci/2026-011-persian-gulf-strait-hormuz-and-gulf-oman-iranian-attacks-commercial-vessels"&gt;pushed up freight costs&lt;/a&gt; and forced ships onto longer routes around conflict zones. Renting a car carrier with capacity of about 6,500 cars now costs $95,000 a day, up from $50,000 in February, according to shipping data and analytics firm Clarksons Research. Chinese owners account for only about 10% of global car carrier capacity, including ships on order, so carmakers from the country hire ships from international shipping companies, the research arm of shipbroker Clarksons said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;With BYD aiming to sell more than &lt;a href="https://cnevpost.com/2026/09/07/byd-targets-2-5-million-overseas-sales-2027/"&gt;2.5 million cars&lt;/a&gt; overseas next year, up from a target of 1.9 to 2 million this year, owning a fleet cushions against higher shipping bills and gives more control over space and routes, analysts said.&lt;/p&gt;
+
+
+
+&lt;blockquote class="blockquote blockquote--stat is-layout-flow blockquote-is-layout-flow"&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;2.5 million&lt;/strong&gt; Number of cars BYD aims to sell overseas next year, up from a target of 1.9 to 2 million this year.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“The very strong growth in Chinese exports, fueling strong Asia-Europe fronthaul demand growth, is the biggest single factor behind the increase in charter rates,” Stephen Gordon, managing director of Clarksons Research, told &lt;em&gt;Rest of World&lt;/em&gt;. “Additionally, conflict in the Middle East has caused regional disruption and inefficiencies, which have helped to further tighten markets after a two-year period of gradual normalization.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Most car carriers on Asia-Europe routes are sailing around the Cape of Good Hope to avoid the Red Sea, adding about 25% to the distance and as many as 14 days to each voyage, De Luca said. With shipping through the Strait of Hormuz disrupted, the spot rate for moving cars from China to the Middle East has jumped to $220 per cubic meter of cargo space from $65 in February, he said.&lt;/p&gt;
+
+
+
+&lt;h2 id='chinese-evs-and-exports' class="wp-block-heading"&gt;Chinese EVs and exports&lt;/h2&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;By displaying these massive carriers, it aims to project an image of power and speed to the rest of the world,”&lt;cite&gt;Felipe Munoz, founder, Car Industry Analysis&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;In China, industrywide sales of EVs and plug-in hybrids fell 12% in the first eight months of the year, after the government cut tax breaks for buyers. BYD sold 33% fewer cars at home over the same period.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Many Chinese carmakers have kept their factories busy by selling surplus cars abroad as changes to tax and subsidy incentives have cooled demand at home, George Whitcombe, a senior EV analyst at London-based battery data provider Benchmark Mineral Intelligence, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Exports of China-made EVs are now rising faster than their registrations overseas, pointing to a growing stock of unsold cars, he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Control over its distribution network is a strategy BYD has long pursued,” Whitcombe said. “With other Chinese automakers left without their own fleet of ships and exposed to rising shipping costs, it potentially leaves them in a less competitive position to grow their overseas presence.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tesla, BYD’s main U.S. rival, has relied on &lt;a href="https://autonews.gasgoo.com/articles/news/tesla-china-makes-first-export-shipment-after-shanghai-factory-reopens-70020324"&gt;other companies’ carriers&lt;/a&gt; to export from China. Its Shanghai plant shipped more cars abroad than it sold at home in the &lt;a href="https://carnewschina.com/2026/09/08/teslas-china-sales-fell-12-4-in-august-as-exports-rose-for-the-eighth-straight-month/"&gt;first eight months&lt;/a&gt; of the year. Carmakers that charter ships are more exposed to swings in the charter market than those that own them, De Luca said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;BYD’s giant carriers are mainly a marketing exercise, Felipe Munoz, founder of research platform Car Industry Analysis, told &lt;em&gt;Rest of World&lt;/em&gt;. Owning ships has its drawbacks and advantages, he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“By displaying these massive carriers, it aims to project an image of power and speed to the rest of the world,” Munoz said. “It is more a political statement against the established carmakers by telling the world that BYD is moving fast and has a lot of resources to make the most advanced EVs.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;BYD’s fleet is about control, and extending into logistics is a natural step now that it exports millions of cars amid geopolitical volatility and cost swings, Lei Xing, founder of AutoXing, a Chinese auto industry consultancy, told &lt;em&gt;Rest of World&lt;/em&gt;. BYD ships only EVs and plug-in hybrids, which need specially configured carriers, and most of its fleet runs on liquefied natural gas as ports tighten green-fuel rules, he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Rival Geely began running its first car carrier in 2025, on a &lt;a href="https://www.bairdmaritime.com/shipping/dry-cargo/pcc-pctc/chinese-car-maker-geely-places-new-vehicle-carrier-into-service"&gt;long-term charter&lt;/a&gt; from London-based shipowner Zodiac Maritime. Chery set up a venture with Wuhu Shipyard in 2023 to build car carriers for &lt;a href="https://www.seatrade-maritime.com/shipyards/chery-in-shipyard-venture-to-build-its-own-car-carriers"&gt;its own fleet&lt;/a&gt; in eastern China.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Geely, on the other hand, will be running its own ships eventually,” Lei Xing said. “You can bet on that.”&lt;/p&gt;</content></entry>
+<entry><title>The UAE embraces AI for kindergartners</title><link href="https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/"/><id>https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/</id><published>2026-10-13T10:00:00+00:00</published><updated>2026-10-13T10:00:00+00:00</updated><summary>The country’s approach offers a glimpse of what education could look like if AI literacy becomes as fundamental as reading and writing.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg" alt="The UAE embraces AI for kindergartners" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Ananya Bhattacharya&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;The country’s approach offers a glimpse of what education could look like if AI literacy becomes as fundamental as reading and writing.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;In September, Henry Price observed a classroom of 7- to 8-year-olds learn about the Stone Age. They discussed and wrote about cave paintings, then put on virtual reality headsets to explore them.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The founding principal of Rugby School Dubai hopes his students will soon study ancient Egypt the same way — reading about it, creating artwork, and then stepping inside a virtual pyramid, or using artificial intelligence to “interview” a pharaoh.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“AI does not replace reading, writing, discussion, or creativity. It enhances them and opens new doors,” Price told &lt;em&gt;Rest of World&lt;/em&gt;. “We want our students to be excited by AI, but never [be] passive users. We want children who use AI to ask better questions, not children who rely on it to give them all the answers.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The United Arab Emirates recently became the first country to make AI a required K-12 subject.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;Our goal remains to ensure that any integration of technology is developmentally appropriate and supports meaningful learning.&amp;#8221;&lt;cite&gt;Saeed Kharbash, CEO of policies, research and programmes at Dubai’s Knowledge and Human Development Authority&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;That puts the country on one side of a growing global debate over what children should learn about AI and when they should encounter it. While &lt;a href="https://educationmiddleeast.com/news/policy-and-regulations/uae-public-schools-to-teach-ai-from-kg-to-grade-12/"&gt;the UAE&lt;/a&gt; and &lt;a href="https://english.www.gov.cn/news/202604/10/content_WS69d8910dc6d00ca5f9a0a554.html"&gt;China&lt;/a&gt; are treating early AI literacy as a national priority, some Western governments are moving in the opposite direction. New York City &lt;a href="https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat"&gt;introduced a one-year moratorium&lt;/a&gt; on student-facing generative AI in public schools from preschool through grade eight, citing concerns about children’s mental health. Norway has also enacted a similar near-ban for primary school children.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“On one side is the wish to protect childhood, to guard against the addictive pull of some technology, and to raise happy, well-rounded children,” Prince said. “On the other is the fear that those same children could be left behind in a world changing at extraordinary speed.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The UAE’s approach is not to give young children unrestricted access to AI. Instead, schools teach them how the technology works, where it fails, and when humans should use it.&lt;/p&gt;
+
+
+
+&lt;h2 id='teaching-kids-ai' class="wp-block-heading"&gt;Teaching kids AI&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;At Dubai Schools Al Khawaneej, a joint initiative between the Dubai government and K-12 education provider &lt;a href="https://www.taaleem.ae/"&gt;Taaleem Education&lt;/a&gt;, students in grades one through three are not expected to use generative AI independently, elementary principal James Efford told &lt;em&gt;Rest of World&lt;/em&gt;. Instead, teachers use discussions, stories, and role-play to teach them about AI.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In one activity, a teacher might show children something an AI system got wrong, and ask them to identify what is incorrect or unfair. In another, the teacher pretends to be a robot and asks children to give increasingly precise instructions, teaching them how machines respond to the information they receive.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Most UAE schools are treating AI as a form of literacy rather than technical training.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Dubai’s Knowledge and Human Development Authority is developing a broader policy framework for digital technology and AI in education. It has a 10-year roadmap to prepare students for rapid technological change with personalized learning.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Our goal remains to ensure that any integration of technology is developmentally appropriate and supports meaningful learning without replacing the essential non-digital experiences that contribute to children’s growth, well-being and development,” Saeed Kharbash, CEO of policies, research and programmes at KHDA, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Abu Dhabi’s Department of Education and Knowledge, which is developing the AI education framework for &lt;a href="https://gulfnews.com/uae/education/abu-dhabi-expands-ai-education-across-170-private-schools-1.500679154"&gt;more than 170 private schools&lt;/a&gt; in the emirate, did not respond to &lt;em&gt;Rest of World&lt;/em&gt;’s request for comment.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;AI is also being used to make classrooms more accessible. Jayda Keer, an inclusion and neurodiversity consultant and former head of inclusion at Dubai International Academy, said schools have used AI to simplify texts for students who struggle with complex vocabulary, translate material for students learning English, and create word banks.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 id='schools-are-still-cautious' class="wp-block-heading"&gt;Schools are still cautious&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The UAE’s embrace of AI does not mean children are being handed ChatGPT and left alone.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Schools monitor apps and use firewalls. Younger children rarely use AI directly, while older students have restricted access to school-approved apps such as Padlet, Toddle, Canva, Mathletics, Times Tables Rock Stars, ClassDojo, Edmentum, and Epic. At least two schools told &lt;em&gt;Rest of World&lt;/em&gt; they use &lt;a href="https://insights.euclid.vc/p/the-fastest-growing-vertical-ai-company-adeel-khan-magicschool-ai"&gt;MagicSchool&lt;/a&gt; for teacher-directed activities, while one uses Microsoft Copilot.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“We do not currently allow students to use public ChatGPT etc. accounts in school. Nor do we define the programme around a particular AI model or specialist hardware platform,” Efford said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The government plans to &lt;a href="https://www.khaleejtimes.com/uae/uae-to-roll-out-ai-curriculum-across-all-schools-22000-teachers-to-be-trained"&gt;train 22,000 teachers&lt;/a&gt; to use AI for teaching, assessment, curriculum analysis, and lesson planning.&lt;/p&gt;
+
+
+
+&lt;blockquote class="blockquote blockquote--stat is-layout-flow blockquote-is-layout-flow"&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;22,000&lt;/strong&gt; teachers will be trained to use AI for teaching, assessment, curriculum analysis, and lesson planning under the UAE government&amp;#8217;s plans.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Teacher training and support is paramount,” Victor R. Lee, who leads the AI + Education program at the &lt;a href="https://acceleratelearning.stanford.edu/"&gt;Stanford Accelerator for Learning,&lt;/a&gt; told &lt;em&gt;Rest of World&lt;/em&gt;. “This is new territory for teachers, and they have their own unique considerations for how they use it and introduce it to students.” At Dubai Schools Al Khawaneej, teachers receive initial training, weekly briefings, lesson guides, and prompt banks, as well as support from colleagues. School leaders evaluate how AI is being used through classroom observations, student work, and teacher feedback.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“The emphasis is on developing teachers’ pedagogical confidence as much as their technical knowledge,” Efford said. “When should AI be used, when should it not be used, and how do we make sure it deepens rather than replaces thinking.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Most countries are yet to commit as deeply. A U.K. primary school &lt;a href="https://www.gov.uk/government/publications/ai-in-schools-and-further-education-findings-from-early-adopters/the-biggest-risk-is-doing-nothing-insights-from-early-adopters-of-artificial-intelligence-in-schools-and-further-education-colleges?utm_source=chatgpt.com"&gt;trained staff&lt;/a&gt; before introducing an AI chatbot to pupils, but there’s no national mandate yet. Estonia has &lt;a href="https://www.hm.ee/en/news/estonia-announces-groundbreaking-national-initiative-ai-leap-programme-bring-ai-tools-all?utm_source=chatgpt.com"&gt;started teacher and student training&lt;/a&gt; but for older ages.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;China is perhaps the only major exception. Its National Workshop on AI-driven Teacher Capacity Building has reached&amp;nbsp; 103 cities over eight years, and trained 2.97 million teachers, according to the country’s &lt;a href="http://en.moe.gov.cn/news/press_releases/202412/t20241201_1165337.html?utm_source=chatgpt.com"&gt;education ministry&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;h2 id='parents-want-transparency' class="wp-block-heading"&gt;Parents want transparency&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Several parents who spoke to &lt;em&gt;Rest of World&lt;/em&gt; said they weren’t consulted about the introduction of AI in their children’s curricula, but they all supported it. Still, they raised concerns about transparency and accountability.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“I work in IT, so I see firsthand how fundamentally AI is going to change the workplace and society,” said Gigi Thomas, whose son is enrolled in Year 7 at Cambridge High School. “I would actually be more concerned if schools weren’t teaching children about it.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Thomas and other parents would rather AI support and complement learning than replace it. “I am also mindful of screen time, online safety, and making sure teachers and parents understand the tools children are using,” said Amna Al Almarri, a homemaker whose 8-year-old son is enrolled at Al Mawakeb school.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Bedour Almarri, who works with the Dubai Land Department, has three children between the ages of six and 12 attending Dubai Schools Al Khawaneej. He called for a clear breakdown of the exact tools being used, how much classroom time is spent interacting with AI versus interacting with teachers and peers, and the guidelines teachers enforce regarding academic integrity.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“While I trust that the school uses educational-grade software with privacy filters, I remain cautious about data privacy, how prompts are stored, and whether children can accidentally bypass safety restrictions,” he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Edward Tsoi, CEO and co-founder of AI Safety Asia, a nonprofit focused on governance, public policy, and risk mitigation, said children need to struggle with a difficult sentence, sit with a math problem, and write a clumsy first draft to build the reasoning capacity they would need later in life, including to evaluate AI critically. &lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;We’d draw a hard line between teaching AI and handing children an AI tool.&amp;#8221;&lt;cite&gt;Edward Tsoi, CEO and co-founder of AI Safety Asia&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;“If we let AI shortcut that struggle before the underlying skill exists, students get fluency with the tool and no muscle underneath it,” he said. “That&amp;#8217;s why we&amp;#8217;d draw a hard line between teaching AI and handing children an AI tool, which is commonly treated as the same policy when they&amp;#8217;re not.”&lt;/p&gt;
+
+
+
+&lt;h2 id='can-the-uaes-model' class="wp-block-heading"&gt;Can the UAE’s model travel?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The UAE is not the only place where children are already using AI. Schools in &lt;a href="https://restofworld.org/2023/this-indian-school-is-using-chatgpt-to-teach-better/"&gt;India&lt;/a&gt; and &lt;a href="https://theyoungmaker.com/blog/ai-programme-bukit-view-primary/?utm_source=chatgpt.com"&gt;Singapore&lt;/a&gt; have experimented with AI in classrooms, while South Korea introduced and later &lt;a href="https://restofworld.org/2025/south-korea-ai-textbook/"&gt;withdrew AI textbooks&lt;/a&gt;. In Colombia, &lt;a href="https://restofworld.org/2025/colombia-meta-ai-education/"&gt;Meta’s AI tools have interfered&lt;/a&gt; with learning rather than improving it.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A &lt;a href="https://www.unicef.org/innocenti/media/13521/file/UNICEF-Innocenti-Skills-AI-World-paper-2026.pdf"&gt;recent UNICEF report&lt;/a&gt; found that children as young as nine in Congo and Mozambique use AI for homework and want more guidance on how to use it safely.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The UAE has advantages many countries lack. &lt;a href="https://restofworld.org/2025/ai-teaching-tools-kenya-teacher-shortage/"&gt;Kenya&lt;/a&gt; and &lt;a href="https://www.worldbank.org/en/brief/2026/06/22/educational-technology-edtech0-evaluations?utm_source=chatgpt.com"&gt;Pakistan&lt;/a&gt;, for example, are using AI partly to address teacher shortages in schools with much larger classes. Kenya has as many as 68 students per teacher, versus the UAE’s two. That makes the UAE’s approach difficult to replicate.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Different governments have different value bets, and they’re operating under very different structural constraints,” Tsoi said. “The UAE has a comparatively small, centralized, well-resourced public school system with the political will and budget to back a national mandate. Other large, decentralized systems in the U.S. and much of Southeast Asia, for instance, don&amp;#8217;t have that, and a mandate that&amp;#8217;s achievable in the UAE&amp;#8217;s system could not be implemented as effectively elsewhere.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Additional reporting by Aarti Jhurani in Dubai.&lt;/em&gt;&lt;/p&gt;</content></entry>
+<entry><title>As U.S. blocks DJI, Insta360 races to win American creators</title><link href="https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/"/><id>https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/</id><published>2026-10-09T10:00:00+00:00</published><updated>2026-10-09T10:00:00+00:00</updated><summary>Regulatory clarity and market timing are a boon for smaller Chinese smart-camera maker Insta360 and its independent Antigravity drone brand.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13.jpg" alt="As U.S. blocks DJI, Insta360 races to win American creators" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Viola Zhou&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Regulatory clarity and market timing are a boon for smaller Chinese smart-camera maker Insta360 and its independent Antigravity drone brand.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;On a Saturday morning in September, dozens of people lined up in New York City’s Times Square to check out pocket-sized cameras made by Chinese camera maker Insta360. YouTubers flew in to promote the products. As part of the marketing campaign, cyclists prepared to bike around the city in bright yellow shirts emblazoned with the Insta360 logo.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Shenzhen-based company was opening its first flagship store in the U.S., a high-profile push to market its smart cameras to content creators, travelers, and sports enthusiasts. It was also a statement of confidence in a market where Chinese technology companies are facing growing scrutiny.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;There are restrictions, but it’s better to have a clear no than maybe in business.”&lt;cite&gt;Chris Pereira, founder of consultancy iMpact&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;“The U.S. is a super high potential market for us,” Max Richter, Insta360’s co-founder, told &lt;em&gt;Rest of World&lt;/em&gt; at the store opening. The U.S. accounts for 30% to 40% of the company’s revenue, he said. “You have an amazing outdoor sports community, you have a huge influencer economy, and I think Insta360 really gathers both of these audiences.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Insta360’s optimism and U.S. expansion stand in sharp contrast to the experience of DJI, the dominant Chinese player it’s trying to challenge in the global drone and handheld camera market. DJI dominates the global civilian drone market, while Insta360 last year announced a separate company to make drones. In handheld smart cameras, DJI accounted for 73% of the global shipments, while Insta360 accounted for 20%. California-based GoPro, the pioneer of action cameras, has been largely &lt;a href="https://restofworld.org/2026/chinese-consumer-tech-brands/"&gt;pushed out of the market&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;figure class="unloaded embed embed--datawrapper "&gt;&lt;div class="embed__wrapper"&gt;
+&lt;iframe data-src="https://datawrapper.dwcdn.net/5sHbv/4/" title='DJI and Insta360 lead handheld smart camera market'  height='283'   aria-label='Stacked Bars' scrolling='no' frameborder='0'&gt;&lt;/iframe&gt;
+&lt;/div&gt;	&lt;div class="datawrapper__explore"&gt;
+		&lt;div class="datawrapper__explore-link explore-more-link meta"&gt;
+			&lt;a href="https://restofworld.org/charts/?utm_medium=row-charts-link" target="_blank" rel="noopener noreferrer"&gt;Explore charts &amp;gt;&amp;gt;&lt;/a&gt;
+		&lt;/div&gt;
+		
+		&lt;/button&gt;
+	&lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Washington has increasingly treated DJI as a national security risk. The U.S. Department of Defense has labeled DJI a Chinese military company, a decision the company has been &lt;a href="https://www.scmp.com/news/us/diplomacy/article/3364118/chinese-drone-maker-dji-gets-another-shot-pentagon-blacklist-removal"&gt;fighting for years&lt;/a&gt;. The Federal Communications Commission has blocked DJI from selling new drones as well as cameras in the U.S. In the meantime, Insta360 is racing to win American consumers.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Both companies are based in Shenzhen, but they took different paths to becoming rivals. DJI was founded in 2006 and quickly became the global leader in consumer drones, with most of its sales coming from overseas. It expanded into handheld stabilized cameras in 2016.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Insta360 was founded in 2015 as a camera company. Its early success came from 360-degree cameras, which capture a panoramic view, before the company expanded into stabilized cameras and microphones. Its founder JK Liu &lt;a href="https://www.bilibili.com/video/BV1DaMgzSERu/"&gt;had said&lt;/a&gt; the company aimed at the global market from “day one,” with a particular emphasis on America. Richter, a German native, first &lt;a href="https://www.forbes.com/sites/omaidhomayun/2025/10/03/how-insta360-engineered-the-viral-memory-capturing-machine/"&gt;moved to China&lt;/a&gt; with a German company. He then worked for DJI before joining Insta360.&lt;/p&gt;
+
+
+
+&lt;h2 id='arrival-of-antigravity' class="wp-block-heading"&gt;&lt;strong&gt;Arrival of Antigravity&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Insta360 recently entered the drone business. The company &lt;a href="https://www.insta360.com/blog/introducing-antigravity.html"&gt;announced&lt;/a&gt; the launch of an independent drone brand, Antigravity, in 2025, which it said was incubated in collaboration with third parties. The move could help insulate Insta360’s camera business from any future restrictions targeting Chinese drones, Chris Pereira, founder of consultancy iMpact, which helps Chinese companies sell abroad, told &lt;em&gt;Rest of World.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The FCC has banned new foreign-made drones from entering the U.S. market, though companies can apply for waivers if they plan to move manufacturing to America. Antigravity obtained FCC’s approval for its drone, A1, just before the rule took effect.&lt;/p&gt;
+
+
+		&lt;figure class="image--wide  image image--landscape unloaded" &gt;
+			&lt;div class="image__container"&gt;
+				&lt;div class="image__wrapper"&gt;
+					
+					&lt;img
+						src="https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
+						srcset="https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1900&amp;amp;dpr=2 3800w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1700&amp;amp;dpr=2 3400w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1500&amp;amp;dpr=2 3000w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=100&amp;amp;dpr=2 200w, " 
+						sizes="(min-width: 1320px) 960px, (min-width: 1140px) calc(100vw - (50vw - 280px)), (min-width: 992px) calc(100vw - 290px), calc(100vw - 40px)"
+						alt="Crowd gathered outside the Insta360 store, with a digital sign displaying &amp;quot;THINK BOLD&amp;quot; and promotions for capturing moments"
+						 style='aspect-ratio: 4/3'
+						loading="lazy"
+					/&gt;
+					
+				&lt;/div&gt;
+			&lt;/div&gt;
+				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
+		&lt;span class='figcaption__caption'&gt;The opening of the Times Square location of Insta360.&lt;/span&gt;
+		&lt;span class='figcaption__credit' itemprop='copyrightHolder'&gt;Viola Zhou/Rest of World&lt;/span&gt;
+	&lt;/figcaption&gt;
+		&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Michael Shabun, the Los Angeles-based chief executive of Antigravity, told &lt;em&gt;Rest of World&lt;/em&gt; at the store opening that the company was planning to move its manufacturing from Asia to the U.S. in the coming years.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Antigravity is positioning the A1 drone, with a 360-degree camera, firmly as a consumer-facing product. Shabun said the company stores all U.S. user data locally and has designed the drone so that it cannot carry more than 50 grams of additional weight, a restriction intended to prevent misuse of the drone for purposes beyond leisure. “They’re built for fun; they’re built for content creation; they’re built for exploration,” he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;DJI drones have been widely used by commercial operators and law enforcement agencies, making their potential cybersecurity and data-security risks a particular concern in Washington.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“People in the U.S. are more excited about our product than any other region. And the drone market in the U.S. is very sophisticated and developed,” Shabun said, adding that the A1 would be put on the shelves of the Insta360 store.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 id='lure-of-the-american' class="wp-block-heading"&gt;&lt;strong&gt;Lure of the American consumer&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Even as the U.S. government ramps up scrutiny of Chinese businesses, Chinese companies are eager to bring their products to America, especially at a time of slowing consumer spending and rising competition at home. Over the past two years, New York City has seen a number of Chinese brands open new shops, from clothing brand Urban Revivo to bubble tea chain Mixue. DJI opened a store on Fifth Avenue in 2024.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In China, DJI and Insta360 have fought a fierce price war over their handheld camera products. The rising costs of memory chips have weighed on their profitability. In the first half of 2026, Insta360’s net profit dropped by 94% compared with a year ago. The two companies have also &lt;a href="https://www.thewirechina.com/2026/08/02/dji-gets-into-a-fight-in-the-u-s-with-another-chinese-dronemaker/"&gt;sued each other&lt;/a&gt; over intellectual property infringements.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In the U.S. market, Insta360 might enjoy an advantage. Pereira said the first batch of Chinese companies to gain prominence in America, such as telecoms equipment maker Huawei, social media platform TikTok, and DJI, had attracted intense scrutiny.&amp;nbsp;&lt;/p&gt;
+
+
+&lt;figure class='pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;One of the big deciding factors was availability. I can go into a store and buy [Insta360].”&lt;cite&gt;Lars Kappler, a real estate consultant in San Diego&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;He said the “second wave” of Chinese brands — like Xiaomi and Xiaohongshu — enjoyed more clarity. “There are restrictions, but it’s better to have a clear no than maybe in business,” Pereira said.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;DJI can still sell its existing drones and cameras in the U.S., but its future in the market is unclear. The 2024 &lt;a href="https://www.congress.gov/118/plaws/publ159/PLAW-118publ159.pdf"&gt;National Defense Authorization Act&lt;/a&gt; passed by Congress required the FCC to add communications and video surveillance equipment made by DJI and another Chinese drone maker, Autel Robotics, to its Covered List, effectively barring the agency from authorizing new products from the companies. The FCC has not approved new DJI products since November.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In an email to &lt;em&gt;Rest of World&lt;/em&gt;, an FCC spokesperson said DJI’s products were banned in accordance with 2024 law, while Insta360’s products were not added to the Covered List.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Insta360 has been able to &lt;a href="https://fccid.io/2AWWH"&gt;register new products&lt;/a&gt; with the FCC while DJI is blocked. Asked whether the company could avoid the pressures facing DJI, Insta360 co-founder Richter said he was confident it would be able to stay in America. “There is no sensitive technology,” he said. “We fully comply with all regulators. There’s nothing to hide.”&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Some of DJI’s loyal American users are already switching sides. Lars Kappler, a real estate consultant in San Diego, has been using a DJI camera for a year. He told &lt;em&gt;Rest of World&lt;/em&gt; he recently bought three Insta360 cameras and a microphone for his social media videos, because DJI’s latest products were not released in the U.S. “One of the big deciding factors was availability,” Kappler said. “I can go into a store and buy [Insta360].”&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Michael Alvarado, an auto-body technician in Minnesota, also recently switched from DJI to Insta360’s latest handheld vlogging camera, Luna Ultra, to film his everyday life and family trips. He liked Insta360’s new features, such as the detachable screen, and was also worried about DJI’s long-term prospects in the U.S.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“As much as I’m pissed about the whole ban,” Alvarado told &lt;em&gt;Rest of World&lt;/em&gt;, “I’m going to focus on who has the win right now, and unfortunately that’s Insta360.”&lt;/p&gt;</content></entry>
+<entry><title>Conflict in the Red Sea is forcing cloud giants to find a new route for the internet</title><link href="https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/"/><id>https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/</id><published>2026-10-07T10:00:41+00:00</published><updated>2026-10-07T10:00:41+00:00</updated><summary>Google, Meta, and Microsoft are said to be securing expensive land routes as fighting around Yemen threatens the submarine cables connecting Europe and Asia.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2294750914-scaled.jpg" alt="Conflict in the Red Sea is forcing cloud giants to find a new route for the internet" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Indranil Ghosh&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Google, Meta, and Microsoft are said to be securing expensive land routes as fighting around Yemen threatens the submarine cables connecting Europe and Asia.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;U.S. cloud giants are facing steep prices to secure backup internet routes around the Red Sea as fighting rages over the Red Sea strait that carries most data cables between Europe and Asia.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;More than &lt;a href="https://www.datacenterdynamics.com/en/analysis/the-houthis-and-the-red-sea-a-new-risk-to-subsea-cables/"&gt;90% of data capacity&lt;/a&gt; between Europe and Asia runs through cables under the Red Sea. The cables enter the sea at Bab al-Mandab, a strait less than 32 kilometers (20 miles) wide between Yemen and the African nations of &lt;a href="https://www.csis.org/analysis/strategic-future-subsea-cables-egypt-case-study"&gt;Djibouti and Eritrea&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Houthis, a U.S.-designated terrorist organization, seized Yemen’s side of the strait in September, including the island of Mayyun. On October 5, Saudi-backed government forces said they had &lt;a href="http://www.sabanew.net/viewstory/153498"&gt;retaken key positions&lt;/a&gt; around the strait and the port of Mocha — claims &lt;a href="https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis"&gt;the Houthis denied&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In September, Google bought a pair of fiber strands running along Turkish state pipelines, paying two to three times the roughly 6 million euros ($7 million) that newer lines crossing Turkey are expected to cost, said a person familiar with the deal, requesting anonymity because the details are not public. Long-distance fiber is usually sold with a &lt;a href="https://www.beyondtelecomlawblog.com/enterprise-customers-dark-fiber-important-connection-part-2/"&gt;single upfront payment&lt;/a&gt; covering 15 years or more of use. Buyers also pay a &lt;a href="https://www.beyondtelecomlawblog.com/enterprise-customers-dark-fiber-important-connection-part-2/"&gt;separate annual fee&lt;/a&gt; for maintenance.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Microsoft said on September 23 that it plans to invest more than $400 million in &lt;a href="https://blogs.microsoft.com/on-the-issues/2026/09/23/microsoft-strengthens-its-commitment-to-the-middle-east-by-investing-in-technology-digital-resilience-and-people/"&gt;subsea and land&lt;/a&gt; links across the Middle East by 2030. Iraq &lt;a href="https://en.964media.com/52771/"&gt;also signed a contract&lt;/a&gt; with Qatari telecom company Ooredoo on September 10 to carry data toward Europe through an underground route from the southern port of Al-Faw.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Almost all major cloud companies are looking for backup routes around the Red Sea, the person told &lt;em&gt;Rest of World&lt;/em&gt;. Google and Meta have started sending some live traffic through a land route across Iraq that they had previously held in reserve, the person said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Google and Meta did not respond to &lt;em&gt;Rest of World&lt;/em&gt;’s requests for comment by the time of publication.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;With Yemen&amp;#8217;s side of the strait now contested, a single cable cut there could take months to fix, because repair crews need permission and safety guarantees to work in the water, industry experts told &lt;em&gt;Rest of World&lt;/em&gt;. Switching to another sea cable does not help because almost all of them pass through the same narrow gap, they said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“You can have capacity on multiple cables, but if they’re all routed through the same tight expanse of water, suddenly your route resilience isn’t looking so resilient,” said Paul Brodsky, senior research manager at TeleGeography, a U.S. research firm that tracks telecommunications infrastructure worldwide. “The repair ship issue is very real.”&lt;/p&gt;
+
+
+
+&lt;h2 id='keeping-internet-on' class="wp-block-heading"&gt;Keeping internet on&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Three Red Sea cables were damaged in 2024, most likely by the anchor of a &lt;a href="https://www.datacenterdynamics.com/en/analysis/the-houthis-and-the-red-sea-a-new-risk-to-subsea-cables/"&gt;drifting cargo ship&lt;/a&gt; that a missile launched by the Iran-backed Houthis had disabled. Those repairs took months because crews had to wait a long time for permits, Brodsky said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Depending on the availability of a repair ship, a cable repair might take one to two weeks,” Doug Madory, head of internet analysis at Santa Clara-based Infoblox, which runs core network services and tracks how internet traffic moves, told &lt;em&gt;Rest of World&lt;/em&gt;. “But the last time there were cable cuts in this body of water, repairs took months because the repair ships needed assurances they would not be fired upon.”&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;The last time there were cable cuts in this body of water, repairs took months.&amp;#8221;&lt;cite&gt;Doug Madory, head of internet analysis firm Infoblox&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Google, Meta, Microsoft, and Amazon use about three-quarters of the world’s &lt;a href="https://www.mappr.co/submarine-internet-cables/"&gt;international internet bandwidth&lt;/a&gt;, according to TeleGeography. When Iranian drones struck Amazon’s data centers in the United Arab Emirates and Bahrain in March, bank and payment apps in the region stopped working, and U.S. software company &lt;a href="https://restofworld.org/2026/iraq-big-tech-gulf-war-data/"&gt;Snowflake reported service disruptions&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Since the start of September, cloud companies have been telling operators the minimum number of fiber strands they will start using, and by when, Martin Frank, a strategic adviser at IQ Networks, an Iraqi company that sells capacity on a fiber line it built from southern Iraq to the Turkish border, told &lt;em&gt;Rest of World&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Cloud companies will likely test their land backups so they are ready if a sea cable breaks, Madory said. Until then, most of their data will keep flowing under the sea.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Submarine cable routes are much cheaper, which is why they are so preferred,” he said. “I would expect land route alternatives to remain dormant until pressed into service due to a cable cut.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Cloud companies have been hoping Yemen would settle down under a normal administration, Frank said. What would end that hope is what he called an Afghanistan scenario, in which the international community accepts the reality on the ground as the new normal.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“From what I see and hear, I would say that this scenario is getting more and more priced in by the day,” Frank said.&lt;/p&gt;</content></entry>
+<entry><title>Not just AI. China is building technologies that challenge U.S. dominance</title><link href="https://restofworld.org/2026/china-america-tech-ai/"/><id>https://restofworld.org/2026/china-america-tech-ai/</id><published>2026-10-06T10:00:00+00:00</published><updated>2026-10-06T10:00:00+00:00</updated><summary>From batteries and solar panels to drones and satellites, China is building tech capabilities that extend well beyond AI, writes Steve Feldstein in his new book, “Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare.”</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final.jpg" alt="Not just AI. China is building technologies that challenge U.S. dominance" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Steve Feldstein&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;From batteries and solar panels to drones and satellites, China is building tech capabilities that extend well beyond AI, writes Steve Feldstein in his new book, “Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare.”&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;While China is engaged in a fierce struggle with the U.S. for AI supremacy, it is accelerating its development of other future technologies. In 2024, Chinese investors put nearly $1 trillion in clean-­energy capex for renewables, electricity grids, and energy storage. As a result, China now &lt;a href="https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/"&gt;makes 70%&lt;/a&gt; of the world’s EVs, its companies are responsible for 80%–­85% of global solar photovoltaic manufacturing, and they oversee more than 75% of global battery production. Writes Columbia University scholar Tim Wu, “If we set AI aside for a moment and assume that these technologies represent the future, it is clear &lt;a href="https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba"&gt;who is ahead&lt;/a&gt;.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Other benchmarks reach a similar conclusion. Take, for example, the Australian Strategic Policy Institute’s “Critical Technology Tracker,” which analyzes China and the United States’ research capacity across ­74 current and emerging technologies. The latest data from December 2025 indicated that China led research in nearly 90% of crucial technologies, including nuclear energy, synthetic biology, and small satellites. The results revealed a “&lt;a href="https://www.nature.com/articles/d41586-026-00814-3"&gt;drastic reversal&lt;/a&gt;,” writes Xiaoying You in &lt;em&gt;Nature&lt;/em&gt;. At the beginning of the century, American scientists held an enduring advantage in more than 90% of assessed technologies, with China leading in less than 5% of them; but in the intervening 25 years, Chinese researchers flipped the balance.&lt;/p&gt;
+
+
+&lt;figure class='pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;The days of China as an “imitator” are long gone.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;While the findings are striking, some caveats are in order. Most importantly, the authors measured cited pieces of research as opposed to deployable or applied technology. It is one thing to publish theoretical concepts. It is quite another to come up with a manufacturing process and actually produce specific items. When it comes to innovations like jet engines (a task that remains stubbornly elusive for Chinese engineers), whether research translates to manufacturing is a key question. As the authors acknowledge, “If you’re good at origami but don’t yet excel at making decent paper, are you really good at origami?” Nonetheless, the conclusions are sobering and signify how swiftly China has narrowed the scientific gap with the U.S.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;China’s success in the consumer drone industry underscores its &lt;a href="https://restofworld.org/2026/china-robot-ban-silicon-valley/"&gt;growing technological power&lt;/a&gt;. Da Jiang Innovations (DJI), which is based in Shenzhen, holds more than 70% of the global consumer drone market. In 2022, the size of that market was about $30.6 billion; it is expected to grow to $55.8 billion by 2030. While studying at Hong Kong University of Science and Technology, founder and CEO Frank Wang started DJI in 2006. Rather than work out of a dorm room, Wang and two of his classmates rented a small office across the border in Shenzhen. He started selling drone control systems for hobbyists making their own DIY units. By 2013, DJI released its first preassembled “ready-­to-­fly” drone, the Phantom 1, which sold for less than $700. The product was a hit —­ the cost was reasonable, and the unit came with “serious hardware,” making it stand out from the cheap toy versions being sold at similar price points.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Today, DJI is a behemoth: it has over 14,000 employees and no close competitors. Its drones are ubiquitous, &lt;a href="https://restofworld.org/2025/dji-drones-china-us-ban/"&gt;including in the U.S&lt;/a&gt;. They are used by first responders to respond to emergencies and by hobbyists to take panoramic photos. They have also become an important fixture on the battlefield, particularly in Ukraine. Both sides rely heavily on DJI drones to surveil troop movements, guide artillery, and identify enemy emplacements. China has reportedly shipped millions of dollars’ worth of DJI units to Russia during the conflict.&lt;/p&gt;
+
+
+&lt;figure class='pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;China’s success in the consumer drone industry underscores its growing technological power.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;But it is not just Wang’s resourcefulness and tenacity that is responsible for DJI’s market dominance. U.S. tech executives confided to me that there was no way a U.S. company could replicate DJI’s success. The industry’s understanding was that DJI scaled due to massive subsidies from the Chinese government, affording it major cost advantages. Reporting from &lt;em&gt;The Washington Post&lt;/em&gt; confirmed these claims, despite DJI’s assertions that it had not accepted any funding from the Chinese government. Reporters reviewed company documents and other sensitive information showing that four investment entities “owned or administered by Beijing” invested in DJI, including a government asset manager who played a key role in “promoting partnerships between private enterprises and the Chinese military.” &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Not only did state subsidies play an important role in propping up the company, but DJI also benefited from being part of China’s competitive drone ecosystem, which spawned an array of service providers producing advanced components at cut-­rate prices. Few other countries could compete. When a &lt;a href="https://restofworld.org/2026/taiwan-drones-xi-trump/"&gt;Taiwanese drone manufacturer&lt;/a&gt; tried to replace its Chinese-­made engines, it searched far and wide for alternatives, even going to Australia, where it found that an equivalent engine “would cost 20 times more.” The company eventually inked a deal with a local supplier, but only after convincing the bidder to lower its prices “as an act of virtue” to support Taiwan’s defense.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Like other Chinese firms and products (such as &lt;a href="https://restofworld.org/2024/tiktok-chinese-us-ban/"&gt;TikTok&lt;/a&gt;), geopolitics have caught up to DJI. In December 2025, the Federal Communications Commission blacklisted all new foreign-­made drones and components from the U.S. market over concerns that they posed “an unacceptable risk” to national security. While the directive didn’t directly name DJI, given the company’s 80% share of America’s consumer drone market, the implication was clear: DJI drones were no longer welcome in the U.S. (For now, the FCC’s rule doesn’t impact DJI’s unmanned aircraft already in use; it only applies to new drone sales.) In short, today’s geopolitics has made DJI’s position increasingly untenable for America’s interests.&lt;/p&gt;
+
+
+&lt;figure class='pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;China’s ambitions are large, and it has built up an enviable R&amp;amp;D and manufacturing capacity.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Experts remain divided about how the U.S. and China stack up on &lt;a href="https://restofworld.org/2025/dan-wang-breakneck-book-china-tech/"&gt;science and technology&lt;/a&gt;. In certain sectors, American research continues to lead; in other areas, China appears to be supplanting the U.S. What is clear is that the days of China as an “imitator” are long gone.&amp;nbsp; Some analysts argue that the West retains a “creative advantage” relative to China, but scholars like Georgetown University&amp;#8217;s William Hannas and Huey-­Meei Chang contend that this mischaracterizes China’s advancements. They argue that focusing on how China achieved its innovation, whether through forced tech transfers or collaboration, “is largely irrelevant.” Instead, what matters is the degree to which China’s scientists have achieved technological breakthroughs, and on that score “China’s progress is clear.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Looking at the trend lines, their logic is sensible. China’s ambitions are large, and it has built up an enviable R&amp;amp;D and manufacturing capacity. Despite its current economic struggles, it has vast resources for Xi to turn loose in the growing tech war against the U.S.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Xi projects confidence that China is on the right track. Ahead of the CCP’s approval of the Fourteenth Five-­Year Plan, which outlines development priorities for the country, the party released a 2018 speech by Xi that served as a “powerful reminder” about China’s modernization push. In his remarks, Xi declared, “We are closer than any time in history to the objective of the great rejuvenation of the Chinese nation, and we need more than any time in history to build [China into] a world S&amp;amp;T superpower!” Those are not the words of a leader who believes China’s innovation is faltering.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Adapted from “Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare” by&lt;/em&gt; &lt;em&gt;Steve Feldstein&lt;/em&gt; &lt;em&gt;published by St. Martin’s Press © 2026 by&lt;/em&gt; &lt;em&gt;Steven Feldstein, and reprinted with permission.&lt;/em&gt;&lt;/p&gt;</content></entry>
+<entry><title>The AI boom is making the world’s cheapest smartphones disappear</title><link href="https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/"/><id>https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/</id><published>2026-10-05T10:00:43+00:00</published><updated>2026-10-05T10:00:43+00:00</updated><summary>AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2.jpg" alt="The AI boom is making the world’s cheapest smartphones disappear" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Kinling Lo&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The world’s cheapest smartphones are disappearing because AI infrastructure is absorbing the components.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Prices of existing smartphone models have risen by &lt;a href="https://counterpointresearch.com/en/insights/global-existing-smartphone-prices-climb-about-15-percent-in-2026?utm_source=chatgpt.com"&gt;about 15% globally this year&lt;/a&gt;, while newly launched models are roughly 25% more expensive than last year. A global memory chip shortage, driven by demand from AI data centers, is pushing up the cost of making smartphones.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Chinese smartphone makers — which have championed affordable, feature-rich devices and account for approximately &lt;a href="https://www.hinrichfoundation.com/research/article/fdi/china-smartphone-producers-take-on-the-world"&gt;60% of all smartphones shipped globally&lt;/a&gt; — have “drastically reduced” their entry-level projects this year as memory-chip costs have risen, Ivan Lam, senior analyst at research firm Counterpoint, told &lt;em&gt;Rest of World&lt;/em&gt;. They are instead prioritizing more profitable premium devices.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The smartphone price increases vary sharply by region: They have risen by 21% in India, 19% across Asia-Pacific, and 18% in the Middle East and Africa. In the U.S., they have gone up by just 5%.&lt;/p&gt;
+
+
+
+&lt;figure class="unloaded embed embed--datawrapper "&gt;&lt;div class="embed__wrapper"&gt;
+&lt;iframe data-src="https://datawrapper.dwcdn.net/8YiJF/5/" title='&amp;lt;span style=&amp;quot;font-weight:normal;&amp;quot; id=&amp;quot;docs-internal-guid-986e3ba4-7fff-2f00-d392-0cc613820e5e&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size: 13.5pt; font-family: Arial, sans-serif; color: rgb(25, 35, 86); font-weight: 700; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;&amp;quot;&amp;gt;Global smartphone retail price increases in 2026&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;'  height='333'   aria-label='Bar Chart' scrolling='no' frameborder='0'&gt;&lt;/iframe&gt;
+&lt;/div&gt;	&lt;div class="datawrapper__explore"&gt;
+		&lt;div class="datawrapper__explore-link explore-more-link meta"&gt;
+			&lt;a href="https://restofworld.org/charts/?utm_medium=row-charts-link" target="_blank" rel="noopener noreferrer"&gt;Explore charts &amp;gt;&amp;gt;&lt;/a&gt;
+		&lt;/div&gt;
+		
+		&lt;/button&gt;
+	&lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The shift could affect more than consumers looking for cheaper phones. For people who have yet to buy their first smartphone, higher prices could make it harder to get online at all — potentially widening the digital divide. The consequences will also reach the U.S. as more essential services move online and the global supply chain for smartphones becomes more expensive.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;GSMA, the global mobile industry association, had earlier said nearly 800 million more people will use mobile internet by 2030. But it is concerned that rising smartphone costs would affect this projection and widen the gap of digital inequality, Claire Sibthorpe, head of digital inclusion at the group’s nonprofit foundation, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“We live in an increasingly digital world, and the proliferation of technologies such as AI is creating greater digital divides and inequities,” Sibthorpe said. “Stakeholders are increasingly using AI to provide access to important services, but people won’t be able to benefit without access to an internet-enabled phone and the internet.”&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 id='smartphones-under-150' class="wp-block-heading"&gt;Smartphones under $150&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In 2025, more than &lt;a href="https://www.idc.com/wp-content/uploads/2026/04/IDC-Directions-AI-Supercycle-Whalen.pdf?utm_source=chatgpt.com"&gt;one in four&lt;/a&gt; smartphones shipped globally &lt;a href="https://www.idc.com/resource-center/blog/higher-asps-lower-unit-volumes-how-the-memory-crisis-is-reshaping-the-pc-and-smartphone-outlook/?utm_source=chatgpt.com"&gt;cost less than $150&lt;/a&gt;. That market is now shrinking.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Chinese phonemakers including &lt;span class='explainer-tag'&gt;&lt;mark class='term'&gt;&lt;a href='https://restofworld.org/tag/xiaomi' aria-label='Click to learn more about Xiaomi.'&gt;Xiaomi&lt;span class='info-icon'&gt;i&lt;/span&gt;&lt;/a&gt;&lt;/mark&gt;&lt;span class='description'&gt;&lt;span class='explainer-title'&gt;&lt;a href='https://restofworld.org/tag/xiaomi'&gt;Xiaomi&lt;/a&gt;&lt;/span&gt;Xiaomi is a Chinese consumer electronics company that leads the country in smartphone manufacturing and sales.&lt;span class='read-more'&gt;&lt;a href='https://restofworld.org/tag/xiaomi'&gt;&lt;span&gt;READ MORE&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, Oppo, Vivo, and &lt;span class='explainer-tag'&gt;&lt;mark class='term'&gt;&lt;a href='https://restofworld.org/tag/huawei' aria-label='Click to learn more about Huawei.'&gt;Huawei&lt;span class='info-icon'&gt;i&lt;/span&gt;&lt;/a&gt;&lt;/mark&gt;&lt;span class='description'&gt;&lt;span class='explainer-title'&gt;&lt;a href='https://restofworld.org/tag/huawei'&gt;Huawei&lt;/a&gt;&lt;/span&gt;Huawei is a Chinese technology company focused on mobile phones and telecommunications, and is seen as a poster child for China’s global tech ambitions.&lt;span class='read-more'&gt;&lt;a href='https://restofworld.org/tag/huawei'&gt;&lt;span&gt;READ MORE&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; have built their businesses around offering affordable phones with increasingly sophisticated features. But the economics of that strategy are changing.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;What used to be below $150 may become below $250, or even $300.”&lt;cite&gt;Ivan Lam, senior analyst, Counterpoint&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Chinese companies “would rather reduce investment in products below $150 or $200 and put more resources into higher-margin phones, branding, user experience, and AI,” said Lam.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In India, Xiaomi &lt;a href="https://www.91mobiles.com/hub/redmi-note-15-pro-redmi-15a-price-hiked-india/amp/?utm_source=chatgpt.com"&gt;raised the price&lt;/a&gt; of a 128GB Redmi 15C from 12,499 rupees ($140) at launch last December to 16,999 rupees ($190) in June, a 36% increase. In Southeast Asia, Oppo’s sub-$100 phone shipments plunged 96%, and Vivo moved its main entry-level model above $100 in most markets, &lt;a href="https://omdia.tech.informa.com/pr/2026/aug/southeast-asia-smartphone-shipments-fall-23percent-in-2q26-to-lowest-level-since-2014?utm_source=chatgpt.com"&gt;according to research firm Omdia&lt;/a&gt;. In Africa, where 81% of smartphones shipped last year cost less than $200, shipments of sub-$100 phones fell 34% year over year in the second quarter of 2026.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“What used to be below $150 may become below $250, or even $300,” Lam said, adding that he does not expect costs to return to their pre-2025 levels.&lt;/p&gt;
+
+
+
+&lt;h2 id='pivoting-to-ai-data' class="wp-block-heading"&gt;Pivoting to AI data centers&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The memory-chip shortage is unlikely to ease soon, Ramon Llamas, research director in mobile devices at market research and advisory firm IDC, told &lt;em&gt;Rest of World.&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;“&lt;/em&gt;There are three primary manufacturers of memory, and in late 2025, all of them pivoted the vast majority of their supply towards AI centers instead of consumer electronics,” Llamas said. “That left many companies scrambling for inventory. … Scarcity of memory has driven up prices for memory, and those price increases have been passed on to the consumer.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Samsung Electronics, SK Hynix, and Micron Technology &lt;a href="https://www.sec.gov/Archives/edgar/data/2120882/000119312526280172/d32785df1.htm?utm_source=chatgpt.com"&gt;make up more than&lt;/a&gt; 90% of the global memory chip market. These companies have entered &lt;a href="https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/"&gt;several partnerships&lt;/a&gt; with U.S. AI giants in recent years.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;S&amp;amp;P Global has estimated that the capital expenditure of U.S. hyperscalers — Alphabet, Amazon, Microsoft, Meta, Oracle, and SpaceX — will &lt;a href="https://press.spglobal.com/2026-08-27-AI-Infrastructure-Investment-To-Exceed-1-3-Trillion-By-2027,-S-P-Global-Ratings-Says"&gt;exceed $1.3 trillion in 2027&lt;/a&gt;, up from a projected $870 billion in 2026 and $470 billion in 2025.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Shipments of sub-$100 smartphones are already falling sharply. The 173 million sub-$100 smartphones shipped globally last year are disappearing, with &lt;a href="https://www.idc.com/promo/smartphone-market-share/?utm_source=chatgpt.com"&gt;shipments&lt;/a&gt; falling almost 60% year over year in the second quarter of 2026, according to IDC.&lt;/p&gt;
+
+
+
+&lt;h2 id='barrier-to-entry' class="wp-block-heading"&gt;Barrier to entry&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For the world’s poorest consumers, the problem is not simply that smartphones are getting more expensive. It’s that the cheapest phones are disappearing.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The price of a smartphone remains &lt;a href="https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/?utm_source=chatgpt.com"&gt;a major barrier&lt;/a&gt; for lower-income groups to get online, according to GSMA&amp;#8217;s September report. An entry-level device costs the poorest 20% the equivalent of 44% of their monthly income, and 76% for people in sub-Saharan Africa.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--inline pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;When smartphones remain available but become unaffordable, consumers make difficult sacrifices to keep themselves online.&amp;#8221;&lt;cite&gt;Claire Sibthorpe, head of digital inclusion at GSMA&amp;#8217;s foundation&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;For many lower-income consumers, gains in income are unlikely to keep pace with the sudden rise in handset prices.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“When smartphones remain available but become unaffordable, consumers make difficult sacrifices to keep themselves online. They might delay upgrading, borrow or share their devices, remain on older feature phones, or go offline when they are unable to replace a device that is no longer working or stolen. Often, it means they won’t have an internet-enabled device at all,” Sibthorpe said.&lt;/p&gt;</content></entry>
+<entry><title>Who gets to decide if AI is safe? Africa wants a say</title><link href="https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/"/><id>https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/</id><published>2026-10-02T10:00:00+00:00</published><updated>2026-10-02T10:00:00+00:00</updated><summary>African companies race to adopt American and Chinese AI, with little attention paid to safety.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg" alt="Who gets to decide if AI is safe? Africa wants a say" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Danai Nesta Kupemba&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;African companies race to adopt American and Chinese AI, with little attention paid to safety.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;African leaders called last week for a greater role in setting global standards for artificial intelligence.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Their statements at the United Nations came amid warnings from Silicon Valley executives about AI models &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;being misused&lt;/a&gt;, and sometimes going rogue and taking unauthorized actions. OpenAI’s agents hacked &lt;a href="https://www.pm.gov.au/media/press-conference-new-york"&gt;government&lt;/a&gt; websites across the world in June. Models from &lt;a href="https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"&gt;Google&lt;/a&gt;, and &lt;a href="https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/"&gt;Meta&lt;/a&gt;, too, hacked &lt;strong&gt;&lt;/strong&gt;into other &lt;a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/"&gt;companies&amp;#8217; systems&lt;/a&gt; during tests.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Africa … must be equal co-architects in determining the standards, ethics, and architectures of this technological era,” Lewis Garseedah Brown II, permanent representative of Liberia, said at a U.N. Security Council meeting on AI.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;African companies and governments are racing to deploy AI systems built in the U.S. and China. But many nations lack the ability to independently test whether those systems are safe for their populations, experts told &lt;em&gt;Rest of World.&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;“&lt;/em&gt;There’s essentially no real discussion about AI safety. So, there’s a real vacuum,” said Jonathan Shock, associate professor in math at the University of Cape Town.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;If countries set up their own safeguards, it could complicate operations for American and Chinese companies in new markets. Fragmented regulations could make global deployments of models &lt;a href="https://www.techpolicy.press/the-need-for-and-pathways-to-ai-regulatory-and-technical-interoperability/"&gt;more costly and difficult.&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Incidents of AI misuse and malfunction are surfacing across Africa. Kenya’s predictive machine learning algorithm for setting health insurance contributions has &lt;a href="https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor?"&gt;driven up&lt;/a&gt; costs for poor households. Scammers in West Africa have used AI-generated content to blackmail victims in &lt;a href="https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/"&gt;extortion schemes&lt;/a&gt;. The militant group &lt;a href="https://casp.ac/reports/ai-enabled-terrorism"&gt;Boko Haram&lt;/a&gt; has also used AI to organize attacks and design weapons after bypassing safeguards.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“I think it’s going to take a potentially catastrophic incident for governments to really take [heed],” Shock said, which he dubbed his optimistic view. “The pessimistic view is we don’t stop it in time.”&lt;/p&gt;
+
+
+
+&lt;h2 id='race-to-catch-up' class="wp-block-heading"&gt;Race to catch up&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Africa currently lags behind other regions in AI adoption, though its companies are moving quickly. Out of 85 large companies &lt;a href="https://www.pwc.com/gx/en/1/issues/workforce/hopes-and-fears.html"&gt;surveyed by PricewaterhouseCoopers&lt;/a&gt; this year, more than 80% were running AI pilots. Many lack formal structures to oversee safety, according to the report.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Everyone is just trying to catch up [on AI deployment],” Mélanie Keïta, CEO and founder of Nairobi-based financing company Melanin Kapital, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Like many African companies, Melanin Kapital has weighed the choice between American and Chinese AI models, testing both internally. Both come with their own risks, Keïta said. “We might become a product of other foreign corporations that … own all our data as opposed to really being autonomous and free.”&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Risk also correlates with how easily a model can be shut down if something goes wrong. ChatGPT and Claude are closed-weight models, centrally controlled by their providers.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Chinese models such as DeepSeek and Kimi, along with a few American models, are open-weight and can be downloaded and modified by users. That makes it harder for their developers to shut down remotely, Jane Munga, fellow at the Carnegie Endowment for International Peace, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“The distinction that matters is not Chinese versus American; it is: Who holds the off switch?” she said.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;h2 id='lack-of-guardrails' class="wp-block-heading"&gt;Lack of guardrails&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Governments across Africa are beginning to use AI in sensitive areas such as healthcare, education, and public services, even though fewer than half of African countries have AI policies or strategies, &lt;strong&gt;&lt;/strong&gt;Shock said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Kenya is the only African nation participating in an &lt;a href="https://www.nist.gov/news-events/news/2024/11/fact-sheet-us-department-commerce-us-department-state-launch-international"&gt;international AI safety network&lt;/a&gt; that is developing methods to evaluate advanced AI models.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Last year, the network &lt;a href="https://www.aisi.gov.uk/blog/international-joint-testing-exercise-agentic-testing"&gt;tested&lt;/a&gt; AI agents for risks such as sensitive data leaks and fraud. But the exercise focused on common global risks rather than ones specific to Africa, Joanna Wiaterek, co-founder of the Centre for AI Security and Access, told &lt;em&gt;Rest of World&lt;/em&gt;. It found agent safeguards worked unevenly across languages.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://arxiv.org/abs/2602.13757"&gt;“Africa-centric” safety evaluations&lt;/a&gt; should judge harm by the size of each country’s economy, Gathoni Ireri, research scholar at the Nairobi-based Ilina Program, an AI safety research center, told &lt;em&gt;Rest of World.&lt;/em&gt; An incident that might be considered minor in a Western country could irrevocably harm an African one, she said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Companies currently carry out their own safety tests, but this needs to be replaced by third-party evaluations that assess risks specific to Africa, Ireri said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“I think we also have to have our own ideas about what it means for a system to be safe within our own context,” she said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;African nations need to develop the capacity to conduct those evaluations, Ali Mohamed Omar, Somalia’s state minister for foreign affairs, said at the U.N.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Africa cannot remain merely a market for systems developed elsewhere, a source of raw data, or a testing ground for a technology it did not help govern,” he said. “[Africa] must be granted a genuine representation and a voice in these multilateral processes.”&lt;/p&gt;</content></entry>
+<entry><title>Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls</title><link href="https://restofworld.org/2026/saudi-arabia-ceer-motors-ev-exobot-pif-lucid-byd/"/><id>https://restofworld.org/2026/saudi-arabia-ceer-motors-ev-exobot-pif-lucid-byd/</id><published>2026-10-01T10:00:00+00:00</published><updated>2026-10-01T10:00:00+00:00</updated><summary>The Saudi wealth fund’s new EV will compete with Chinese rivals and with Lucid, the U.S. carmaker the fund controls.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/09/ceer1.png" alt="Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Indranil Ghosh&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;The Saudi wealth fund’s new EV will compete with Chinese rivals and with Lucid, the U.S. carmaker the fund controls.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Saudi Arabia’s first homegrown electric-vehicle maker is set to take on a U.S. rival the kingdom already controls.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ceer Motors, majority-owned by the sovereign Public Investment Fund, revealed two electric car models on September 21, with deliveries promised for March 2027. The EVs were &lt;a href="https://www.pif.gov.sa/en/news-and-insights/newswire/2026/hrh-the-crown-prince-launches-ceers-flagship-vehicles-further-strengthening-saudi-arabias-position-in-the-global-automotive-industry/"&gt;designed and engineered&lt;/a&gt; in Saudi Arabia, and will be built at Ceer’s plant in King Abdullah Economic City, north of Jeddah.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This is the PIF’s third EV bet. It &lt;a href="https://www.tesla.com/blog/update-taking-tesla-private"&gt;bought about 5%&lt;/a&gt; of Tesla in 2018 and sold almost all of it by the &lt;a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;CIK=0001767640"&gt;end of 2019&lt;/a&gt;. It has also put about $8 billion into California-based Lucid, which has never turned a profit.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For the U.S., Ceer’s debut sets up an awkward rivalry: Saudi Arabia is building its own EV brand while its sovereign wealth fund owns a majority stake in Lucid, whose main factory is in Arizona. Ceer is PIF’s hedge against Lucid, whose shares have slumped more than 60% this year and whose Saudi sales are shrinking in a market dominated by China’s &lt;span class='explainer-tag'&gt;&lt;mark class='term'&gt;&lt;a href='https://restofworld.org/tag/byd' aria-label='Click to learn more about BYD.'&gt;BYD&lt;span class='info-icon'&gt;i&lt;/span&gt;&lt;/a&gt;&lt;/mark&gt;&lt;span class='description'&gt;&lt;span class='explainer-title'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;BYD&lt;/a&gt;&lt;/span&gt;BYD Auto is a Chinese carmaker that became the world’s leading EV manufacturer in 2023, competing with Tesla for market share and global attention.&lt;span class='read-more'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;&lt;span&gt;READ MORE&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Lucid is an existing global technology and luxury-EV company in which Saudi Arabia has invested heavily,” Bill Russo, founder and CEO of Shanghai-based consulting firm Automobility, told &lt;em&gt;Rest of World&lt;/em&gt;. “Ceer has a different mandate, creating a Saudi automotive OEM [original equipment manufacturer] and, importantly, an indigenous industrial ecosystem.”&lt;/p&gt;
+
+
+	&lt;figure class="gallery gallery--default gallery--double "&gt;
+		&lt;div class="gallery__images-wrapper"&gt;
+			&lt;ul class="gallery__images"&gt;
+				&lt;li class='gallery__image'&gt;		&lt;figure class="image image--landscape unloaded" &gt;
+			&lt;div class="image__container"&gt;
+				&lt;div class="image__wrapper"&gt;
+					
+					&lt;img
+						src="https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
+						srcset="https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=100&amp;amp;dpr=2 200w, " 
+						sizes="(min-width: 1320px) 1050px, 80vw"
+						alt="A modern, sporty black vehicle with a sleek design and distinctive wheel rims, showcased in a minimalist setting"
+						 style='aspect-ratio: 697/517'
+						loading="lazy"
+					/&gt;
+					
+				&lt;/div&gt;
+			&lt;/div&gt;
+				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
+		&lt;span class='figcaption__caption'&gt;The Ceer Motors Exobot SUV in a promotional photo.&lt;/span&gt;
+		
+	&lt;/figcaption&gt;
+		&lt;/figure&gt;&lt;/li&gt;&lt;li class='gallery__image'&gt;		&lt;figure class="image image--landscape unloaded" &gt;
+			&lt;div class="image__container"&gt;
+				&lt;div class="image__wrapper"&gt;
+					
+					&lt;img
+						src="https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
+						srcset="https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=100&amp;amp;dpr=2 200w, " 
+						sizes="(min-width: 1320px) 1050px, 80vw"
+						alt="A sleek, futuristic silver sports car with distinctive design features parked on a concrete surface"
+						 style='aspect-ratio: 697/558'
+						loading="lazy"
+					/&gt;
+					
+				&lt;/div&gt;
+			&lt;/div&gt;
+				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
+		&lt;span class='figcaption__caption'&gt;The Ceer Motors Exobot Sedan is seen in a promotional photo.&lt;/span&gt;
+		&lt;span class='figcaption__credit' itemprop='copyrightHolder'&gt;Ceer Motors&lt;/span&gt;
+	&lt;/figcaption&gt;
+		&lt;/figure&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		
+	&lt;/figure&gt;
+
+
+&lt;h2 id='saudi-arabias-ceer' class="wp-block-heading"&gt;Saudi Arabia’s Ceer&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ceer, a venture between PIF and Taiwanese electronics maker Foxconn, was launched in November 2022. It had set &lt;a href="https://www.pif.gov.sa/en/news-and-insights/press-releases/2022/hrh-crown-prince-launches-ceer/"&gt;2025 as the target&lt;/a&gt; for its first cars.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Last week, the company’s CEO, James DeLuca, said Ceer will begin production early next year. Ceer has &lt;a href="https://www.pif.gov.sa/en/news-and-insights/newswire/2026/hrh-the-crown-prince-launches-ceers-flagship-vehicles-further-strengthening-saudi-arabias-position-in-the-global-automotive-industry/"&gt;planned more models&lt;/a&gt; over the next five years, the company said at the launch. It also aims to make almost half the components of its cars locally by 2034.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ceer’s &lt;a href="https://ceermotors.com/"&gt;Exobot sedan and an SUV&lt;/a&gt; are high-powered premium EVs — the segment where Lucid sells its &lt;a href="https://lucidmotors.com/air-grand-touring"&gt;Air luxury sedan&lt;/a&gt; and &lt;a href="https://lucidmotors.com/gravity"&gt;Gravity SUV&lt;/a&gt;. The most powerful Exobot versions promise more than 1,100 horsepower, DeLuca said, close to the 1,234 horsepower of Lucid’s fastest car, the &lt;a href="https://lucidmotors.com/air-sapphire"&gt;Air Sapphire sedan&lt;/a&gt;. Ceer has yet to announce prices.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“That does put the initial products closer to Lucid’s premium territory than to BYD’s mass-market center of gravity,” Russo said.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;BYD and Lucid serve very different segments, so comparing their volumes directly can be misleading.”&lt;cite&gt;Hashim AlFatayerji, CEO, Cararak&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;The real test of its strategy will come when that range broadens, Russo said. Lucid, in which PIF holds about 58%, is already badly weakened. This year, it named a new CEO, Silvio Napoli; cut about a fifth of its U.S. workforce; ended its second production shift in Arizona; and &lt;a href="https://media.lucidmotors.com/"&gt;recalled 27,000 sedans&lt;/a&gt; over a fire risk. Its market value has shrunk to about &lt;a href="https://www.nasdaq.com/market-activity/stocks/lcid"&gt;$1.6 billion&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In Saudi Arabia, Lucid’s sales fell 57% in the first seven months of 2026, while &lt;a href="https://www.focus2move.com/saudi-arabia-auto-market/"&gt;BYD’s rose 369%&lt;/a&gt;, according to estimates from Focus2Move, a Rome-based firm that tracks car sales in more than 150 countries. The gap partly reflects price, Hashim AlFatayerji, CEO of the independent Saudi advisory firm Cararak, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“BYD and Lucid serve very different segments, so comparing their volumes directly can be misleading,” AlFatayerji said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;PIF has kept faith with Lucid through the slump. The carmaker remains one of only five U.S. companies in the fund’s latest &lt;a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;CIK=0001767640"&gt;quarterly holdings filing&lt;/a&gt;, and the Saudi government has &lt;a href="https://ir.lucidmotors.com/"&gt;agreed to buy&lt;/a&gt; up to 100,000 Lucid vehicles over 10 years.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Saudi Arabia has no official count of EV sales. Saudis buy almost 1 million new vehicles a year, and 10,000 to 20,000 of them are electric, AlFatayerji estimated. Joseph Salem, a senior partner who heads travel, transport, and hospitality at consulting firm Arthur D. Little in the Middle East and North Africa, puts the figure at 35,000 to 40,000 EVs in 2025, not counting plug-in hybrids.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ceer’s factory is designed for as many as 240,000 vehicles a year, and Lucid already runs a smaller plant in the kingdom. That is far more than Saudi buyers can take, Salem told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Combined, their full-capacity targets are roughly 10 times what the domestic market can plausibly absorb near-term,” he said. “So the majority of output, I’d say 80% plus, has to be export-oriented almost by design.”&lt;/p&gt;
+
+
+
+&lt;h2 id='saudi-arabias-ev-ambitions' class="wp-block-heading"&gt;Saudi Arabia’s EV ambitions&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Saudi Arabia is building a car industry sized for the Gulf, North Africa, and beyond, backed by PIF money and trade access across the region, Salem said. Exporting is the strategy, he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“The domestic market is the proving ground, not the end goal,” Salem said.&lt;/p&gt;
+
+
+
+&lt;blockquote class="blockquote blockquote--stat is-layout-flow blockquote-is-layout-flow"&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;60%&lt;/strong&gt; of the electric cars sold in the Middle East are from China&amp;#8217;s BYD.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Abroad, Ceer will meet Chinese rivals that already lead the region. In the Middle East, BYD sells about 60% of electric cars and Tesla about 15%, according to the International Energy Agency’s &lt;a href="https://www.iea.org/reports/global-ev-outlook-2026"&gt;Global EV Outlook&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Chinese carmakers pose a tougher test, Russo said. They have spent years building huge factories, close ties with suppliers, and the ability to sell cheaply, and are &lt;a href="https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/"&gt;now expanding abroad&lt;/a&gt; because they can make more cars than China can absorb, he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ceer relies on established suppliers for key parts. Its motors come from Croatia’s Rimac and South Korea’s Hyundai Transys, while its platform is from Taiwan’s Foxconn. It has licensed some component technology &lt;a href="https://www.pif.gov.sa/en/news-and-insights/press-releases/2022/hrh-crown-prince-launches-ceer/"&gt;from BMW&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“A new entrant cannot simply license its way to that level of competitiveness,” Russo said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;To win buyers at home and abroad, Ceer must match BYD on price, using local parts and state-backed financing, Salem said. It also needs a dealer and service network as wide as BYD’s from the outset, and cars that stand out on their own merits beyond being made in Saudi Arabia, he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“It’s a high bar,” Salem said. “But Ceer has the capital and policy backing to close that gap faster than a typical new entrant would.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ceer has advantages few new carmakers get, including long-term funding, a powerful backer at home, and the freedom to build on proven technology from others, said Russo. What it still has to earn is a brand that wins customers on product, cost, quality, and execution, he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Saudi Arabia gives Ceer the resources and runway to attempt that, but it doesn’t eliminate those competitive tests,” Russo said.&lt;/p&gt;</content></entry>
+</feed>
