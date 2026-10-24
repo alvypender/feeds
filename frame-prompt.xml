@@ -2,9 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Frame &amp; Prompt — IA Audiovisual</title>
 <subtitle>Artículos a fondo, coberturas combinadas multi-canal, tips, prompts, repositorios y experimentos de IA generativa</subtitle>
-<link href="https://alvypender.github.io/feeds/frame-prompt.xml" rel="self"/>
-<link href="https://alvypender.github.io/feeds/"/>
+<link href="https://alvypender.github.io/feeds/frame-prompt.xml" rel="self" type="application/atom+xml"/>
+<link href="https://alvypender.github.io/feeds/frame-prompt.html" rel="alternate" type="text/html"/>
 <id>https://alvypender.github.io/feeds/frame-prompt.xml</id>
+<icon>https://alvypender.github.io/feeds/frame-prompt-icon.png</icon>
+<logo>https://alvypender.github.io/feeds/frame-prompt-icon.png</logo>
 <updated>2026-10-23T21:12:23.045210-05:00</updated>
 <entry><title>Claude Duet, GPT-5.6 Soul y el caos de ciberseguridad: las 24 noticias que sacuden la IA esta semana [Matt Wolfe (mreflow)]</title><link href="https://www.youtube.com/watch?v=TVRCcMlvR10&amp;ref=ia-periodico-art-TVRCcMlvR10-v2"/><id>https://alvypender.github.io/feeds/frame-prompt.xml#art-TVRCcMlvR10-v2</id><published>2026-10-23T21:12:23.045210-05:00</published><updated>2026-10-23T21:12:23.045210-05:00</updated><author><name>Matt Wolfe (mreflow)</name></author><summary>Matt Wolfe desglosa el asistente proactivo de Anthropic, las vulnerabilidades de 20 años explotadas con IA, los nuevos modelos de OpenAI, Ideogram Vector 1.0, ElevenLabs Chimera y el bloqueo de agentes IA por grandes sitios web.</summary><content type="html">&lt;div style="font-family: Georgia, serif; line-height: 1.65; color: #1a1a1a;"&gt;
 &lt;p style="font-size: 0.82em; text-transform: uppercase; letter-spacing: 0.06em; color: #0056b3; margin-bottom: 0.3em;"&gt;&lt;strong&gt;🎯 ARTÍCULO A FONDO · Resumen Semanal de Noticias IA&lt;/strong&gt;&lt;/p&gt;
