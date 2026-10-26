@@ -3,7 +3,96 @@
 <title>Rest of World (Completo)</title>
 <link href="https://restofworld.org/"/>
 <id>https://restofworld.org/</id>
-<updated>2026-10-22T10:00:00+00:00</updated>
+<updated>2026-10-26T10:00:22+00:00</updated>
+<entry><title>AI models cost more when you don’t use English</title><link href="https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/"/><id>https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/</id><published>2026-10-26T10:00:22+00:00</published><updated>2026-10-26T10:00:22+00:00</updated><summary>Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png" alt="AI models cost more when you don’t use English" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Ananya Bhattacharya&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;People who use less widely spoken languages could end up paying more to use artificial intelligence than those who speak English or other dominant languages.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A &lt;a href="https://clear-languages.org/blog/the-tokenizer-tax"&gt;new study&lt;/a&gt; published last month by the Coalition for Language Equity in AI Research found AI models require far more tokens for some languages than others. Tokens are the units of text or data that the models process. The researchers have called this a hidden “tokenizer tax,” which can make AI more expensive in languages with smaller online presence. A tokenizer is a tool that breaks down raw text, images, or audio into tokens.&lt;/p&gt;
+
+
+		&lt;figure class="image--inline  image image--landscape unloaded" &gt;
+			&lt;div class="image__container"&gt;
+				&lt;div class="image__wrapper"&gt;
+					
+					&lt;img
+						src="https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
+						srcset="https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=1900&amp;amp;dpr=2 3800w, https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=1700&amp;amp;dpr=2 3400w, https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=1500&amp;amp;dpr=2 3000w, https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/10/Tokenization-CLEAR.jpg?width=100&amp;amp;dpr=2 200w, " 
+						sizes="(min-width: 640px) 600px, calc(100vw - 40px)"
+						alt="Text displaying a message in English and Malayalam about the benefits of AI for all people, regardless of their language"
+						 style='aspect-ratio: 1852/907'
+						loading="lazy"
+					/&gt;
+					
+				&lt;/div&gt;
+			&lt;/div&gt;
+				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
+		&lt;span class='figcaption__caption'&gt;Tokenization example. A graphic representation of the tokenization of the sentence “People should benefit from AI, regardless of the language they speak.”in English and Malayalam using The OpenAI tokenizer API (https://platform.openai.com/tokenizer) . The English sentence gets split into recognizable words, while the Malayalam sentence gets multiple fragments per word without respect for multi-byte characters.&lt;/span&gt;
+		&lt;span class='figcaption__credit' itemprop='copyrightHolder'&gt;&lt;a href='https://clear-languages.org/blog/the-tokenizer-tax' target='_blank' rel='noopener noreferrer'&gt;CLEAR&lt;/a&gt;&lt;/span&gt;
+	&lt;/figcaption&gt;
+		&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Even within the 20 most popular languages on the internet, there is a gap in token usage, the research found. The most expensive of the languages used between 1.5 and 5 times more tokens than the cheapest. This gap widened when researchers expanded the set to 200 languages, with the token cost gap in one AI model growing by 17 times.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“A startup in [Bengaluru] may pay a surcharge on every prompt and completion while its competitor in Austin does not,” the study said. “The tokenizer tax also has implications beyond cost. Higher token counts translate into higher latency and reduced effective context capacity. These penalties hit hardest where compute and connectivity are already limited. Tokenizer inequity is a constraint on who can participate in the AI economy.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Non-English languages leave less room for documents or conversation history, and require more work to generate the answer, according to Pratyush Choudhury, co-founder of Activate AI, India’s first venture capital fund dedicated exclusively to AI. Activate backs multilingual voice AI startups like ElevenLabs, Sarvam, and Wispr Flow.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Think about a tutor: Retaining the student’s earlier mistakes and explanations is part of delivering a good lesson. If that history consumes the context window much faster in one language, the disadvantage reaches into the quality of the service,” he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;One way to improve language processing is to improve the underlying data.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Open data efforts matter here, like RESPIN, a collaborative initiative with [the Indian Institute of Science] funded by the Gates Foundation, where we collected text from native speakers of 38 dialects along with read speech,” Raoul Nanavati, co-founder and CEO of Mumbai-based AI voice infrastructure startup &lt;a href="http://navana.ai"&gt;Navana.ai&lt;/a&gt;, told &lt;em&gt;Rest of World&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;figure class="unloaded embed embed--datawrapper "&gt;&lt;div class="embed__wrapper"&gt;
+&lt;iframe data-src="https://datawrapper.dwcdn.net/Ni5OQ/4/" title='AI models need far more tokens for some languages than others'  height='833'   aria-label='Table' scrolling='no' frameborder='0'&gt;&lt;/iframe&gt;
+&lt;/div&gt;	&lt;div class="datawrapper__explore"&gt;
+		&lt;div class="datawrapper__explore-link explore-more-link meta"&gt;
+			&lt;a href="https://restofworld.org/charts/?utm_medium=row-charts-link" target="_blank" rel="noopener noreferrer"&gt;Explore charts &amp;gt;&amp;gt;&lt;/a&gt;
+		&lt;/div&gt;
+		
+		&lt;/button&gt;
+	&lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;However, the study by the Coalition for Language Equity in AI Research found the rarity of a language isn’t the only determinant of how many tokens it uses. The script plays a big role.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Asturian, which has relatively few speakers and no &lt;a href="https://commoncrawl.org/"&gt;Common Crawl data&lt;/a&gt;, “benefits from the Latin-script advantage, as well as the representation from other related Romance languages like Italian,” while languages written in scripts the tokenizer rarely saw — Burmese, Tibetan, Tifinagh, Khmer, Lao, and Ol Chiki — were at the greatest disadvantage consistently across nearly all models in the analysis.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Many tokenizers today remain disproportionately optimized for English and other high-resource languages, and the underlying issue is the lack of high-quality digital data, said Dheemanth Reddy, CEO of Maya Research, which is d&lt;a href="https://www.google.com/goto?url=CAES3gEB6zswFei40SJEVokAmGWOBr6InMY-fQ4E__44TkIeK77OWXTyvPEGY_xrsGHw4H7rgmlLJQp4ZYuHoPozWlnKQFV7LsVIbzMv_8KNwg-tKxFtefNOWeSDkRd4As1kpUYh5BxIwMmdib-RV-HMuM4PN4ymABXFNUEGYH5aaBzWtHo4teIVD5mRVMo34tlXslabPK3BX3pNfMx0Q2TtvsJYZCL89IFlIa2wGZ9PNtwz0hJN0dpq-_j5fW9PJ64Z3RN1NUdWVf7lAZwSjhpN_1z6NXbtlwSNcI3TMGzPf1Y"&gt;eveloping conversational AI models designed to speak and respond like native speakers for the next 5 billion internet users&lt;/a&gt;. But better training data alone doesn’t fix the tokenizer, he warned.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Token prices are falling very quickly, so the direct cost impact should become less severe over time, and better multilingual and synthetic data should improve model quality. But actually fixing the tokenization gap will still require labs to deliberately design future tokenizers to handle these languages and scripts better,” Reddy said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Choudhury said language efficiency should be a product requirement, alongside accuracy, speed, and reliability.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Perfect equality may be unrealistic. Large, persistent disparities should still require an explanation and an improvement plan,” he said. “I would ask every major lab to publish a language-by-language scorecard showing what it costs to complete comparable tasks successfully, and commit to measurable improvements for its worst-served languages.”&lt;/p&gt;</content></entry>
 <entry><title>Big Tech’s thirst for water is sparking a global resistance</title><link href="https://restofworld.org/2026/ai-datacenters-water-resistance-global/"/><id>https://restofworld.org/2026/ai-datacenters-water-resistance-global/</id><published>2026-10-22T10:00:00+00:00</published><updated>2026-10-22T10:00:00+00:00</updated><summary>In his new book “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires,” writer Paris Marx examines how local communities are resisting the growing demand for water to cool data centers.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg" alt="Big Tech’s thirst for water is sparking a global resistance" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Paris Marx&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;In his new book “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires,” writer Paris Marx examines how local communities are resisting the growing demand for water to cool data centers.&lt;/em&gt;&lt;/p&gt;
@@ -1118,171 +1207,4 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;“Africa cannot remain merely a market for systems developed elsewhere, a source of raw data, or a testing ground for a technology it did not help govern,” he said. “[Africa] must be granted a genuine representation and a voice in these multilateral processes.”&lt;/p&gt;</content></entry>
-<entry><title>Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls</title><link href="https://restofworld.org/2026/saudi-arabia-ceer-motors-ev-exobot-pif-lucid-byd/"/><id>https://restofworld.org/2026/saudi-arabia-ceer-motors-ev-exobot-pif-lucid-byd/</id><published>2026-10-01T10:00:00+00:00</published><updated>2026-10-01T10:00:00+00:00</updated><summary>The Saudi wealth fund’s new EV will compete with Chinese rivals and with Lucid, the U.S. carmaker the fund controls.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/09/ceer1.png" alt="Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Indranil Ghosh&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;The Saudi wealth fund’s new EV will compete with Chinese rivals and with Lucid, the U.S. carmaker the fund controls.&lt;/em&gt;&lt;/p&gt;
-&lt;p class="wp-block-paragraph"&gt;Saudi Arabia’s first homegrown electric-vehicle maker is set to take on a U.S. rival the kingdom already controls.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Ceer Motors, majority-owned by the sovereign Public Investment Fund, revealed two electric car models on September 21, with deliveries promised for March 2027. The EVs were &lt;a href="https://www.pif.gov.sa/en/news-and-insights/newswire/2026/hrh-the-crown-prince-launches-ceers-flagship-vehicles-further-strengthening-saudi-arabias-position-in-the-global-automotive-industry/"&gt;designed and engineered&lt;/a&gt; in Saudi Arabia, and will be built at Ceer’s plant in King Abdullah Economic City, north of Jeddah.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This is the PIF’s third EV bet. It &lt;a href="https://www.tesla.com/blog/update-taking-tesla-private"&gt;bought about 5%&lt;/a&gt; of Tesla in 2018 and sold almost all of it by the &lt;a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;CIK=0001767640"&gt;end of 2019&lt;/a&gt;. It has also put about $8 billion into California-based Lucid, which has never turned a profit.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For the U.S., Ceer’s debut sets up an awkward rivalry: Saudi Arabia is building its own EV brand while its sovereign wealth fund owns a majority stake in Lucid, whose main factory is in Arizona. Ceer is PIF’s hedge against Lucid, whose shares have slumped more than 60% this year and whose Saudi sales are shrinking in a market dominated by China’s &lt;span class='explainer-tag'&gt;&lt;mark class='term'&gt;&lt;a href='https://restofworld.org/tag/byd' aria-label='Click to learn more about BYD.'&gt;BYD&lt;span class='info-icon'&gt;i&lt;/span&gt;&lt;/a&gt;&lt;/mark&gt;&lt;span class='description'&gt;&lt;span class='explainer-title'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;BYD&lt;/a&gt;&lt;/span&gt;BYD Auto is a Chinese carmaker that became the world’s leading EV manufacturer in 2023, competing with Tesla for market share and global attention.&lt;span class='read-more'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;&lt;span&gt;READ MORE&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Lucid is an existing global technology and luxury-EV company in which Saudi Arabia has invested heavily,” Bill Russo, founder and CEO of Shanghai-based consulting firm Automobility, told &lt;em&gt;Rest of World&lt;/em&gt;. “Ceer has a different mandate, creating a Saudi automotive OEM [original equipment manufacturer] and, importantly, an indigenous industrial ecosystem.”&lt;/p&gt;
-
-
-	&lt;figure class="gallery gallery--default gallery--double "&gt;
-		&lt;div class="gallery__images-wrapper"&gt;
-			&lt;ul class="gallery__images"&gt;
-				&lt;li class='gallery__image'&gt;		&lt;figure class="image image--landscape unloaded" &gt;
-			&lt;div class="image__container"&gt;
-				&lt;div class="image__wrapper"&gt;
-					
-					&lt;img
-						src="https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
-						srcset="https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/09/ceer2.png?width=100&amp;amp;dpr=2 200w, " 
-						sizes="(min-width: 1320px) 1050px, 80vw"
-						alt="A modern, sporty black vehicle with a sleek design and distinctive wheel rims, showcased in a minimalist setting"
-						 style='aspect-ratio: 697/517'
-						loading="lazy"
-					/&gt;
-					
-				&lt;/div&gt;
-			&lt;/div&gt;
-				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
-		&lt;span class='figcaption__caption'&gt;The Ceer Motors Exobot SUV in a promotional photo.&lt;/span&gt;
-		
-	&lt;/figcaption&gt;
-		&lt;/figure&gt;&lt;/li&gt;&lt;li class='gallery__image'&gt;		&lt;figure class="image image--landscape unloaded" &gt;
-			&lt;div class="image__container"&gt;
-				&lt;div class="image__wrapper"&gt;
-					
-					&lt;img
-						src="https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
-						srcset="https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/09/ceer3.png?width=100&amp;amp;dpr=2 200w, " 
-						sizes="(min-width: 1320px) 1050px, 80vw"
-						alt="A sleek, futuristic silver sports car with distinctive design features parked on a concrete surface"
-						 style='aspect-ratio: 697/558'
-						loading="lazy"
-					/&gt;
-					
-				&lt;/div&gt;
-			&lt;/div&gt;
-				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
-		&lt;span class='figcaption__caption'&gt;The Ceer Motors Exobot Sedan is seen in a promotional photo.&lt;/span&gt;
-		&lt;span class='figcaption__credit' itemprop='copyrightHolder'&gt;Ceer Motors&lt;/span&gt;
-	&lt;/figcaption&gt;
-		&lt;/figure&gt;&lt;/li&gt;
-			&lt;/ul&gt;
-		&lt;/div&gt;
-		
-	&lt;/figure&gt;
-
-
-&lt;h2 id='saudi-arabias-ceer' class="wp-block-heading"&gt;Saudi Arabia’s Ceer&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Ceer, a venture between PIF and Taiwanese electronics maker Foxconn, was launched in November 2022. It had set &lt;a href="https://www.pif.gov.sa/en/news-and-insights/press-releases/2022/hrh-crown-prince-launches-ceer/"&gt;2025 as the target&lt;/a&gt; for its first cars.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Last week, the company’s CEO, James DeLuca, said Ceer will begin production early next year. Ceer has &lt;a href="https://www.pif.gov.sa/en/news-and-insights/newswire/2026/hrh-the-crown-prince-launches-ceers-flagship-vehicles-further-strengthening-saudi-arabias-position-in-the-global-automotive-industry/"&gt;planned more models&lt;/a&gt; over the next five years, the company said at the launch. It also aims to make almost half the components of its cars locally by 2034.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Ceer’s &lt;a href="https://ceermotors.com/"&gt;Exobot sedan and an SUV&lt;/a&gt; are high-powered premium EVs — the segment where Lucid sells its &lt;a href="https://lucidmotors.com/air-grand-touring"&gt;Air luxury sedan&lt;/a&gt; and &lt;a href="https://lucidmotors.com/gravity"&gt;Gravity SUV&lt;/a&gt;. The most powerful Exobot versions promise more than 1,100 horsepower, DeLuca said, close to the 1,234 horsepower of Lucid’s fastest car, the &lt;a href="https://lucidmotors.com/air-sapphire"&gt;Air Sapphire sedan&lt;/a&gt;. Ceer has yet to announce prices.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“That does put the initial products closer to Lucid’s premium territory than to BYD’s mass-market center of gravity,” Russo said.&lt;/p&gt;
-
-
-&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;BYD and Lucid serve very different segments, so comparing their volumes directly can be misleading.”&lt;cite&gt;Hashim AlFatayerji, CEO, Cararak&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;The real test of its strategy will come when that range broadens, Russo said. Lucid, in which PIF holds about 58%, is already badly weakened. This year, it named a new CEO, Silvio Napoli; cut about a fifth of its U.S. workforce; ended its second production shift in Arizona; and &lt;a href="https://media.lucidmotors.com/"&gt;recalled 27,000 sedans&lt;/a&gt; over a fire risk. Its market value has shrunk to about &lt;a href="https://www.nasdaq.com/market-activity/stocks/lcid"&gt;$1.6 billion&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In Saudi Arabia, Lucid’s sales fell 57% in the first seven months of 2026, while &lt;a href="https://www.focus2move.com/saudi-arabia-auto-market/"&gt;BYD’s rose 369%&lt;/a&gt;, according to estimates from Focus2Move, a Rome-based firm that tracks car sales in more than 150 countries. The gap partly reflects price, Hashim AlFatayerji, CEO of the independent Saudi advisory firm Cararak, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“BYD and Lucid serve very different segments, so comparing their volumes directly can be misleading,” AlFatayerji said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;PIF has kept faith with Lucid through the slump. The carmaker remains one of only five U.S. companies in the fund’s latest &lt;a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;amp;CIK=0001767640"&gt;quarterly holdings filing&lt;/a&gt;, and the Saudi government has &lt;a href="https://ir.lucidmotors.com/"&gt;agreed to buy&lt;/a&gt; up to 100,000 Lucid vehicles over 10 years.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Saudi Arabia has no official count of EV sales. Saudis buy almost 1 million new vehicles a year, and 10,000 to 20,000 of them are electric, AlFatayerji estimated. Joseph Salem, a senior partner who heads travel, transport, and hospitality at consulting firm Arthur D. Little in the Middle East and North Africa, puts the figure at 35,000 to 40,000 EVs in 2025, not counting plug-in hybrids.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Ceer’s factory is designed for as many as 240,000 vehicles a year, and Lucid already runs a smaller plant in the kingdom. That is far more than Saudi buyers can take, Salem told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Combined, their full-capacity targets are roughly 10 times what the domestic market can plausibly absorb near-term,” he said. “So the majority of output, I’d say 80% plus, has to be export-oriented almost by design.”&lt;/p&gt;
-
-
-
-&lt;h2 id='saudi-arabias-ev-ambitions' class="wp-block-heading"&gt;Saudi Arabia’s EV ambitions&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Saudi Arabia is building a car industry sized for the Gulf, North Africa, and beyond, backed by PIF money and trade access across the region, Salem said. Exporting is the strategy, he said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“The domestic market is the proving ground, not the end goal,” Salem said.&lt;/p&gt;
-
-
-
-&lt;blockquote class="blockquote blockquote--stat is-layout-flow blockquote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;60%&lt;/strong&gt; of the electric cars sold in the Middle East are from China&amp;#8217;s BYD.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Abroad, Ceer will meet Chinese rivals that already lead the region. In the Middle East, BYD sells about 60% of electric cars and Tesla about 15%, according to the International Energy Agency’s &lt;a href="https://www.iea.org/reports/global-ev-outlook-2026"&gt;Global EV Outlook&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Chinese carmakers pose a tougher test, Russo said. They have spent years building huge factories, close ties with suppliers, and the ability to sell cheaply, and are &lt;a href="https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/"&gt;now expanding abroad&lt;/a&gt; because they can make more cars than China can absorb, he said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Ceer relies on established suppliers for key parts. Its motors come from Croatia’s Rimac and South Korea’s Hyundai Transys, while its platform is from Taiwan’s Foxconn. It has licensed some component technology &lt;a href="https://www.pif.gov.sa/en/news-and-insights/press-releases/2022/hrh-crown-prince-launches-ceer/"&gt;from BMW&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“A new entrant cannot simply license its way to that level of competitiveness,” Russo said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;To win buyers at home and abroad, Ceer must match BYD on price, using local parts and state-backed financing, Salem said. It also needs a dealer and service network as wide as BYD’s from the outset, and cars that stand out on their own merits beyond being made in Saudi Arabia, he said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“It’s a high bar,” Salem said. “But Ceer has the capital and policy backing to close that gap faster than a typical new entrant would.”&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Ceer has advantages few new carmakers get, including long-term funding, a powerful backer at home, and the freedom to build on proven technology from others, said Russo. What it still has to earn is a brand that wins customers on product, cost, quality, and execution, he said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Saudi Arabia gives Ceer the resources and runway to attempt that, but it doesn’t eliminate those competitive tests,” Russo said.&lt;/p&gt;</content></entry>
 </feed>
