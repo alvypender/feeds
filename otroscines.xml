@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>Otros Cines – Completo</title>
 <link href="https://www.otroscines.com/"/>
 <id>https://www.otroscines.com/</id>
 <updated>2026-11-06T12:00:00+00:00</updated>
-<entry><title>Crítica de “Un amor posible” (“Possible Love”), película de Lee Chang-dong (Netflix)</title><link href="https://www.otroscines.com/post/critica-de-un-amor-posible-possible-love-pelicula-de-lee-chang-dong-netflix"/><id>https://www.otroscines.com/post/critica-de-un-amor-posible-possible-love-pelicula-de-lee-chang-dong-netflix</id><published>2026-11-06T12:00:00+00:00</published><updated>2026-11-06T12:00:00+00:00</updated><summary>Por Violeta Kovacsics Crítica de “Un amor posible” (“Possible Love”), película de Lee Chang-dong (Netflix) -Con apenas 6 largometrajes previos y solo tres en los últimos 16 años, el brillante director de Green Fish (1997), Peppermint Candy (1999), Oasis (2002), Secret Sunshine (2</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Violeta Kovacsics&lt;/strong&gt;&lt;/p&gt;
+<entry>
+  <title>Crítica de “Un amor posible” (“Possible Love”), película de Lee Chang-dong (Netflix)</title>
+  <link href="https://www.otroscines.com/post/critica-de-un-amor-posible-possible-love-pelicula-de-lee-chang-dong-netflix"/>
+  <id>https://www.otroscines.com/post/critica-de-un-amor-posible-possible-love-pelicula-de-lee-chang-dong-netflix</id>
+  <published>2026-11-06T12:00:00+00:00</published>
+  <updated>2026-11-06T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/possible-love-lee-chang-dong-1200.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/possible-love-lee-chang-dong-1200.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/possible-love-lee-chang-dong-1200.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/possible-love-lee-chang-dong-1200.jpg</webfeeds:featuredImage>
+  <summary>Por Violeta Kovacsics Crítica de “Un amor posible” (“Possible Love”), película de Lee Chang-dong (Netflix) -Con apenas 6 largometrajes previos y solo tres en los últimos 16 años, el brillante director de Green Fish (1997), Peppermint Candy (1999), Oasis (2002), Secret Sunshine (2</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Violeta Kovacsics&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Crítica de “Un amor posible” (“Possible Love”), película de Lee Chang-dong (Netflix)&lt;/h1&gt;
@@ -53,8 +64,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Crítica de “Wildwood: El bosque salvaje”, película de Laika dirigida por Travis Knight</title><link href="https://www.otroscines.com/post/critica-de-wildwood-el-bosque-salvaje-pelicula-de-laika-dirigida-por-travis-knight"/><id>https://www.otroscines.com/post/critica-de-wildwood-el-bosque-salvaje-pelicula-de-laika-dirigida-por-travis-knight</id><published>2026-10-29T12:00:00+00:00</published><updated>2026-10-29T12:00:00+00:00</updated><summary>Por Diego Batlle Crítica de “Wildwood: El bosque salvaje”, película de Laika dirigida por Travis Knight La factoría detrás de notables films como Coraline y la puerta secreta (2009), de Henry Selick; ParaNorman (2012), de Chris Butler y Sam Fell; Los Boxtrolls (2014), de Graham A</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Crítica de “Wildwood: El bosque salvaje”, película de Laika dirigida por Travis Knight</title>
+  <link href="https://www.otroscines.com/post/critica-de-wildwood-el-bosque-salvaje-pelicula-de-laika-dirigida-por-travis-knight"/>
+  <id>https://www.otroscines.com/post/critica-de-wildwood-el-bosque-salvaje-pelicula-de-laika-dirigida-por-travis-knight</id>
+  <published>2026-10-29T12:00:00+00:00</published>
+  <updated>2026-10-29T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/wildwood-1200.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/wildwood-1200.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/wildwood-1200.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/wildwood-1200.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle Crítica de “Wildwood: El bosque salvaje”, película de Laika dirigida por Travis Knight La factoría detrás de notables films como Coraline y la puerta secreta (2009), de Henry Selick; ParaNorman (2012), de Chris Butler y Sam Fell; Los Boxtrolls (2014), de Graham A</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Crítica de “Wildwood: El bosque salvaje”, película de Laika dirigida por Travis Knight&lt;/h1&gt;
@@ -102,8 +125,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Crítica de “Tierra de mi padre” (“Fatherland”), película con Sandra Hüller y Hanns Zischler, y entrevista al director Pawel Pawlikowski</title><link href="https://www.otroscines.com/post/critica-de-tierra-de-mi-padre-fatherland-pelicula-con-sandra-huller-y-hanns-zischler-y-entrevista-al-director-pawel-pawlikowski"/><id>https://www.otroscines.com/post/critica-de-tierra-de-mi-padre-fatherland-pelicula-con-sandra-huller-y-hanns-zischler-y-entrevista-al-director-pawel-pawlikowski</id><published>2026-10-28T12:00:00+00:00</published><updated>2026-10-28T12:00:00+00:00</updated><summary>Por Diego Batlle Crítica de “Tierra de mi padre” (“Fatherland”), película con Sandra Hüller y Hanns Zischler, y entrevista al director Pawel Pawlikowski -El realizador de Ida (2013), ganadora del Oscar; y Cold War (2018), nominada a tres premios de la Academia de Hollywood, viaja</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Crítica de “Tierra de mi padre” (“Fatherland”), película con Sandra Hüller y Hanns Zischler, y entrevista al director Pawel Pawlikowski</title>
+  <link href="https://www.otroscines.com/post/critica-de-tierra-de-mi-padre-fatherland-pelicula-con-sandra-huller-y-hanns-zischler-y-entrevista-al-director-pawel-pawlikowski"/>
+  <id>https://www.otroscines.com/post/critica-de-tierra-de-mi-padre-fatherland-pelicula-con-sandra-huller-y-hanns-zischler-y-entrevista-al-director-pawel-pawlikowski</id>
+  <published>2026-10-28T12:00:00+00:00</published>
+  <updated>2026-10-28T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/fatherland-pawlikowski-1200.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/fatherland-pawlikowski-1200.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/fatherland-pawlikowski-1200.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/fatherland-pawlikowski-1200.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle Crítica de “Tierra de mi padre” (“Fatherland”), película con Sandra Hüller y Hanns Zischler, y entrevista al director Pawel Pawlikowski -El realizador de Ida (2013), ganadora del Oscar; y Cold War (2018), nominada a tres premios de la Academia de Hollywood, viaja</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Crítica de “Tierra de mi padre” (“Fatherland”), película con Sandra Hüller y Hanns Zischler, y entrevista al director Pawel Pawlikowski&lt;/h1&gt;
@@ -154,8 +189,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Crítica de “Estación zombie” (“Train to Busan”), película del coreano Yeon Sang-ho (reestreno)</title><link href="https://www.otroscines.com/post/critica-de-estacion-zombie-train-to-busan-pelicula-del-coreano-yeon-sang-ho-reestreno"/><id>https://www.otroscines.com/post/critica-de-estacion-zombie-train-to-busan-pelicula-del-coreano-yeon-sang-ho-reestreno</id><published>2026-10-28T12:00:00+00:00</published><updated>2026-10-28T12:00:00+00:00</updated><summary>Por Diego Batlle Crítica de “Estación zombie” (“Train to Busan”), película del coreano Yeon Sang-ho (reestreno) -Descomunal éxito comercial en Corea del Sur y con unos 100 millones de dólares recaudados en todo el mundo, este debut en el cine de ficción de Yeon Sang-ho (realizado</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Crítica de “Estación zombie” (“Train to Busan”), película del coreano Yeon Sang-ho (reestreno)</title>
+  <link href="https://www.otroscines.com/post/critica-de-estacion-zombie-train-to-busan-pelicula-del-coreano-yeon-sang-ho-reestreno"/>
+  <id>https://www.otroscines.com/post/critica-de-estacion-zombie-train-to-busan-pelicula-del-coreano-yeon-sang-ho-reestreno</id>
+  <published>2026-10-28T12:00:00+00:00</published>
+  <updated>2026-10-28T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/invasion-zombie-critica-655.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/invasion-zombie-critica-655.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/invasion-zombie-critica-655.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/invasion-zombie-critica-655.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle Crítica de “Estación zombie” (“Train to Busan”), película del coreano Yeon Sang-ho (reestreno) -Descomunal éxito comercial en Corea del Sur y con unos 100 millones de dólares recaudados en todo el mundo, este debut en el cine de ficción de Yeon Sang-ho (realizado</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Crítica de “Estación zombie” (“Train to Busan”), película del coreano Yeon Sang-ho (reestreno)&lt;/h1&gt;
@@ -204,8 +251,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Ola de reestrenos de películas de terror en los cines argentinos por Halloween</title><link href="https://www.otroscines.com/post/ola-de-reestrenos-de-peliculas-de-terror-en-los-cines-argentinos-por-halloween"/><id>https://www.otroscines.com/post/ola-de-reestrenos-de-peliculas-de-terror-en-los-cines-argentinos-por-halloween</id><published>2026-10-27T12:00:00+00:00</published><updated>2026-10-27T12:00:00+00:00</updated><summary>Ola de reestrenos de películas de terror en los cines argentinos por Halloween Este jueves 29 llegan (vuelven) desde Carrie (1976) hasta Poltergeist (1982), pasando por La bruja, Estación zombie y Mamá . Publicada el 27/10/2026 Sissy Spacek en Carrie. Además de lanzamientos de no</summary><content type="html">&lt;div class="blog-item-body"&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Ola de reestrenos de películas de terror en los cines argentinos por Halloween</title>
+  <link href="https://www.otroscines.com/post/ola-de-reestrenos-de-peliculas-de-terror-en-los-cines-argentinos-por-halloween"/>
+  <id>https://www.otroscines.com/post/ola-de-reestrenos-de-peliculas-de-terror-en-los-cines-argentinos-por-halloween</id>
+  <published>2026-10-27T12:00:00+00:00</published>
+  <updated>2026-10-27T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/carrie-1976.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/carrie-1976.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/carrie-1976.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/carrie-1976.jpg</webfeeds:featuredImage>
+  <summary>Ola de reestrenos de películas de terror en los cines argentinos por Halloween Este jueves 29 llegan (vuelven) desde Carrie (1976) hasta Poltergeist (1982), pasando por La bruja, Estación zombie y Mamá . Publicada el 27/10/2026 Sissy Spacek en Carrie. Además de lanzamientos de no</summary>
+  <content type="html">&lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Ola de reestrenos de películas de terror en los cines argentinos por Halloween&lt;/h1&gt;
 								&lt;blockquote&gt;
@@ -244,8 +303,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Estrenos de MUBI en Noviembre: Películas de Eleanor Coppola, Quentin Dupieux, Manuela Martelli, Lila Avilés, Patricio Guzmán y una serie de Nathan Fielder y Benny Safdie</title><link href="https://www.otroscines.com/post/estrenos-de-mubi-en-noviembre-peliculas-de-eleanor-coppola-quentin-dupieux-manuela-martelli-lila-aviles-patricio-guzman-y-una-serie-de-nathan-fielder-y-benny-safdie"/><id>https://www.otroscines.com/post/estrenos-de-mubi-en-noviembre-peliculas-de-eleanor-coppola-quentin-dupieux-manuela-martelli-lila-aviles-patricio-guzman-y-una-serie-de-nathan-fielder-y-benny-safdie</id><published>2026-10-26T12:00:00+00:00</published><updated>2026-10-26T12:00:00+00:00</updated><summary>Estrenos de MUBI en Noviembre: Películas de Eleanor Coppola, Quentin Dupieux, Manuela Martelli, Lila Avilés, Patricio Guzmán y una serie de Nathan Fielder y Benny Safdie Making Marie Antoinette , documental de Eleanor Coppola sobre el rodaje en 2005 de María Antonieta , el film d</summary><content type="html">&lt;div class="blog-item-body"&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Estrenos de MUBI en Noviembre: Películas de Eleanor Coppola, Quentin Dupieux, Manuela Martelli, Lila Avilés, Patricio Guzmán y una serie de Nathan Fielder y Benny Safdie</title>
+  <link href="https://www.otroscines.com/post/estrenos-de-mubi-en-noviembre-peliculas-de-eleanor-coppola-quentin-dupieux-manuela-martelli-lila-aviles-patricio-guzman-y-una-serie-de-nathan-fielder-y-benny-safdie"/>
+  <id>https://www.otroscines.com/post/estrenos-de-mubi-en-noviembre-peliculas-de-eleanor-coppola-quentin-dupieux-manuela-martelli-lila-aviles-patricio-guzman-y-una-serie-de-nathan-fielder-y-benny-safdie</id>
+  <published>2026-10-26T12:00:00+00:00</published>
+  <updated>2026-10-26T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/making-marie-antoinette-1.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/making-marie-antoinette-1.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/making-marie-antoinette-1.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/making-marie-antoinette-1.jpg</webfeeds:featuredImage>
+  <summary>Estrenos de MUBI en Noviembre: Películas de Eleanor Coppola, Quentin Dupieux, Manuela Martelli, Lila Avilés, Patricio Guzmán y una serie de Nathan Fielder y Benny Safdie Making Marie Antoinette , documental de Eleanor Coppola sobre el rodaje en 2005 de María Antonieta , el film d</summary>
+  <content type="html">&lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Estrenos de MUBI en Noviembre: Películas de Eleanor Coppola, Quentin Dupieux, Manuela Martelli, Lila Avilés, Patricio Guzmán y una serie de Nathan Fielder y Benny Safdie&lt;/h1&gt;
 								&lt;blockquote&gt;
@@ -282,8 +353,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Festival de Mar del Plata 2026: Críticas de 10 películas imperdibles</title><link href="https://www.otroscines.com/post/festival-de-mar-del-plata-2026-criticas-de-10-peliculas-imperdibles"/><id>https://www.otroscines.com/post/festival-de-mar-del-plata-2026-criticas-de-10-peliculas-imperdibles</id><published>2026-10-26T12:00:00+00:00</published><updated>2026-10-26T12:00:00+00:00</updated><summary>Por Diego Batlle y Violeta Kovacsics Festival de Mar del Plata 2026: Críticas de 10 películas imperdibles Reseñas de varios de los films más destacados de la 41ª edición (5 al 15 de noviembre). Publicada el 26/10/2026 Rehearsals for a Revolution Dirección: Pegah Ahangarani Repúbl</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle y Violeta Kovacsics&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Festival de Mar del Plata 2026: Críticas de 10 películas imperdibles</title>
+  <link href="https://www.otroscines.com/post/festival-de-mar-del-plata-2026-criticas-de-10-peliculas-imperdibles"/>
+  <id>https://www.otroscines.com/post/festival-de-mar-del-plata-2026-criticas-de-10-peliculas-imperdibles</id>
+  <published>2026-10-26T12:00:00+00:00</published>
+  <updated>2026-10-26T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/mar-del-plata-2026-recomendaciones.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/mar-del-plata-2026-recomendaciones.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/mar-del-plata-2026-recomendaciones.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/mar-del-plata-2026-recomendaciones.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle y Violeta Kovacsics Festival de Mar del Plata 2026: Críticas de 10 películas imperdibles Reseñas de varios de los films más destacados de la 41ª edición (5 al 15 de noviembre). Publicada el 26/10/2026 Rehearsals for a Revolution Dirección: Pegah Ahangarani Repúbl</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle y Violeta Kovacsics&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Festival de Mar del Plata 2026: Críticas de 10 películas imperdibles&lt;/h1&gt;
@@ -323,8 +406,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>“¿Querés ser mi hijo”, con Wanda Nara, debutó en el quinto puesto con 14.000 entradas en cuatro días</title><link href="https://www.otroscines.com/post/queres-ser-mi-hijo-con-wanda-nara-debuto-en-el-quinto-puesto-con-14-000-entradas-en-cuatro-dias"/><id>https://www.otroscines.com/post/queres-ser-mi-hijo-con-wanda-nara-debuto-en-el-quinto-puesto-con-14-000-entradas-en-cuatro-dias</id><published>2026-10-26T12:00:00+00:00</published><updated>2026-10-26T12:00:00+00:00</updated><summary>“¿Querés ser mi hijo”, con Wanda Nara, debutó en el quinto puesto con 14.000 entradas en cuatro días -La película de Hernán Guerschuny había arrancado tercera entre jueves y viernes, pero cerró su primer fin de semana en la quinta ubicación detrás de BTS World Tour 'Arirang' in B</summary><content type="html">&lt;div class="blog-item-body"&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>“¿Querés ser mi hijo”, con Wanda Nara, debutó en el quinto puesto con 14.000 entradas en cuatro días</title>
+  <link href="https://www.otroscines.com/post/queres-ser-mi-hijo-con-wanda-nara-debuto-en-el-quinto-puesto-con-14-000-entradas-en-cuatro-dias"/>
+  <id>https://www.otroscines.com/post/queres-ser-mi-hijo-con-wanda-nara-debuto-en-el-quinto-puesto-con-14-000-entradas-en-cuatro-dias</id>
+  <published>2026-10-26T12:00:00+00:00</published>
+  <updated>2026-10-26T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/queres-ser-mi-hijo-critica-1200.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/queres-ser-mi-hijo-critica-1200.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/queres-ser-mi-hijo-critica-1200.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/queres-ser-mi-hijo-critica-1200.jpg</webfeeds:featuredImage>
+  <summary>“¿Querés ser mi hijo”, con Wanda Nara, debutó en el quinto puesto con 14.000 entradas en cuatro días -La película de Hernán Guerschuny había arrancado tercera entre jueves y viernes, pero cerró su primer fin de semana en la quinta ubicación detrás de BTS World Tour 'Arirang' in B</summary>
+  <content type="html">&lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;“¿Querés ser mi hijo”, con Wanda Nara, debutó en el quinto puesto con 14.000 entradas en cuatro días&lt;/h1&gt;
 								&lt;blockquote&gt;
@@ -362,8 +457,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Netflix anunció un documental sobre Charly García el día de su cumpleaños 75</title><link href="https://www.otroscines.com/post/netflix-anuncio-un-documental-sobre-charly-garcia-el-dia-de-su-cumpleanos-75"/><id>https://www.otroscines.com/post/netflix-anuncio-un-documental-sobre-charly-garcia-el-dia-de-su-cumpleanos-75</id><published>2026-10-23T12:00:00+00:00</published><updated>2026-10-23T12:00:00+00:00</updated><summary>Netflix anunció un documental sobre Charly García el día de su cumpleaños 75 El rockumental -en el que el propio Charly contará su historia- será producido por Vanessa Ragone (Haddock Films) y dirigido por Alejandro Hartmann. Publicada el 23/10/2026 Fotos: Nora Lezano (Gentileza </summary><content type="html">&lt;div class="blog-item-body"&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Netflix anunció un documental sobre Charly García el día de su cumpleaños 75</title>
+  <link href="https://www.otroscines.com/post/netflix-anuncio-un-documental-sobre-charly-garcia-el-dia-de-su-cumpleanos-75"/>
+  <id>https://www.otroscines.com/post/netflix-anuncio-un-documental-sobre-charly-garcia-el-dia-de-su-cumpleanos-75</id>
+  <published>2026-10-23T12:00:00+00:00</published>
+  <updated>2026-10-23T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/charly-netflix-1.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/charly-netflix-1.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/charly-netflix-1.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/charly-netflix-1.jpg</webfeeds:featuredImage>
+  <summary>Netflix anunció un documental sobre Charly García el día de su cumpleaños 75 El rockumental -en el que el propio Charly contará su historia- será producido por Vanessa Ragone (Haddock Films) y dirigido por Alejandro Hartmann. Publicada el 23/10/2026 Fotos: Nora Lezano (Gentileza </summary>
+  <content type="html">&lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Netflix anunció un documental sobre Charly García el día de su cumpleaños 75&lt;/h1&gt;
 								&lt;blockquote&gt;
@@ -402,8 +509,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>“¿Querés ser mi hijo”, la película con Wanda Nara, arrancó tercera en los cines argentinos</title><link href="https://www.otroscines.com/post/queres-ser-mi-hijo-la-pelicula-con-wanda-nara-arranco-tercera-en-los-cines-argentinos"/><id>https://www.otroscines.com/post/queres-ser-mi-hijo-la-pelicula-con-wanda-nara-arranco-tercera-en-los-cines-argentinos</id><published>2026-10-23T12:00:00+00:00</published><updated>2026-10-23T12:00:00+00:00</updated><summary>“¿Querés ser mi hijo”, la película con Wanda Nara, arrancó tercera en los cines argentinos El film de Hernán Guerschuny debutó detrás de Clayface y Madre siniestra . Publicada el 23/10/2026 Parece que ¿Querés ser mi hijo? ( aquí nuestra crítica ) ha generado más polémica mediátic</summary><content type="html">&lt;div class="blog-item-body"&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>“¿Querés ser mi hijo”, la película con Wanda Nara, arrancó tercera en los cines argentinos</title>
+  <link href="https://www.otroscines.com/post/queres-ser-mi-hijo-la-pelicula-con-wanda-nara-arranco-tercera-en-los-cines-argentinos"/>
+  <id>https://www.otroscines.com/post/queres-ser-mi-hijo-la-pelicula-con-wanda-nara-arranco-tercera-en-los-cines-argentinos</id>
+  <published>2026-10-23T12:00:00+00:00</published>
+  <updated>2026-10-23T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/queres-ser-mi-hijo-taquilla.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/queres-ser-mi-hijo-taquilla.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/queres-ser-mi-hijo-taquilla.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/queres-ser-mi-hijo-taquilla.jpg</webfeeds:featuredImage>
+  <summary>“¿Querés ser mi hijo”, la película con Wanda Nara, arrancó tercera en los cines argentinos El film de Hernán Guerschuny debutó detrás de Clayface y Madre siniestra . Publicada el 23/10/2026 Parece que ¿Querés ser mi hijo? ( aquí nuestra crítica ) ha generado más polémica mediátic</summary>
+  <content type="html">&lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;“¿Querés ser mi hijo”, la película con Wanda Nara, arrancó tercera en los cines argentinos&lt;/h1&gt;
 								&lt;blockquote&gt;
@@ -441,8 +560,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Archivo “El Ojo: Un programa de cine”: Entrevistas a Albertina Carri y Fernando Martín Peña</title><link href="https://www.otroscines.com/post/archivo-el-ojo-un-programa-de-cine-entrevistas-a-albertina-carri-y-fernando-martin-pena"/><id>https://www.otroscines.com/post/archivo-el-ojo-un-programa-de-cine-entrevistas-a-albertina-carri-y-fernando-martin-pena</id><published>2026-10-22T12:00:00+00:00</published><updated>2026-10-22T12:00:00+00:00</updated><summary>Archivo “El Ojo: Un programa de cine”: Entrevistas a Albertina Carri y Fernando Martín Peña En esta entrega número 13 recuperamos una charla con Albertina Carri (por el estreno de Géminis ), que se emitió el 2/6/2005 (Programa 50); y otra con Fernando Martín Peña (por su primera </summary><content type="html">&lt;div class="blog-item-body"&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Archivo “El Ojo: Un programa de cine”: Entrevistas a Albertina Carri y Fernando Martín Peña</title>
+  <link href="https://www.otroscines.com/post/archivo-el-ojo-un-programa-de-cine-entrevistas-a-albertina-carri-y-fernando-martin-pena"/>
+  <id>https://www.otroscines.com/post/archivo-el-ojo-un-programa-de-cine-entrevistas-a-albertina-carri-y-fernando-martin-pena</id>
+  <published>2026-10-22T12:00:00+00:00</published>
+  <updated>2026-10-22T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/carri-pen-a-sitio.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/carri-pen-a-sitio.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/carri-pen-a-sitio.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/carri-pen-a-sitio.jpg</webfeeds:featuredImage>
+  <summary>Archivo “El Ojo: Un programa de cine”: Entrevistas a Albertina Carri y Fernando Martín Peña En esta entrega número 13 recuperamos una charla con Albertina Carri (por el estreno de Géminis ), que se emitió el 2/6/2005 (Programa 50); y otra con Fernando Martín Peña (por su primera </summary>
+  <content type="html">&lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Archivo “El Ojo: Un programa de cine”: Entrevistas a Albertina Carri y Fernando Martín Peña&lt;/h1&gt;
 								&lt;blockquote&gt;
@@ -480,8 +611,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>FICValdivia 2026: Top 10 a modo de balance</title><link href="https://www.otroscines.com/post/ficvaldivia-2026-top-10-a-modo-de-balance"/><id>https://www.otroscines.com/post/ficvaldivia-2026-top-10-a-modo-de-balance</id><published>2026-10-18T12:00:00+00:00</published><updated>2026-10-18T12:00:00+00:00</updated><summary>Por Diego Batlle, desde Valdivia FICValdivia 2026: Top 10 a modo de balance Nowhere to Lay My Eyes , del surcoreano Hong Sangsoo; y What Can't Be Mentioned , del estadounidense Dan Sallitt, figuran entre las preferidas de nuestro enviado. Publicada el 18/10/2026 Imagen de Nowhere</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle, desde Valdivia&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>FICValdivia 2026: Top 10 a modo de balance</title>
+  <link href="https://www.otroscines.com/post/ficvaldivia-2026-top-10-a-modo-de-balance"/>
+  <id>https://www.otroscines.com/post/ficvaldivia-2026-top-10-a-modo-de-balance</id>
+  <published>2026-10-18T12:00:00+00:00</published>
+  <updated>2026-10-18T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/nowhere-to-lay-my-eyes-otra.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/nowhere-to-lay-my-eyes-otra.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/nowhere-to-lay-my-eyes-otra.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/nowhere-to-lay-my-eyes-otra.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle, desde Valdivia FICValdivia 2026: Top 10 a modo de balance Nowhere to Lay My Eyes , del surcoreano Hong Sangsoo; y What Can't Be Mentioned , del estadounidense Dan Sallitt, figuran entre las preferidas de nuestro enviado. Publicada el 18/10/2026 Imagen de Nowhere</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle, desde Valdivia&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;FICValdivia 2026: Top 10 a modo de balance&lt;/h1&gt;
@@ -520,8 +663,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>FICValdivia 2026: El cine argentino arrasó con los principales premios</title><link href="https://www.otroscines.com/post/ficvaldivia-2026-el-cine-argentino-arraso-con-los-principales-premios"/><id>https://www.otroscines.com/post/ficvaldivia-2026-el-cine-argentino-arraso-con-los-principales-premios</id><published>2026-10-18T12:00:00+00:00</published><updated>2026-10-18T12:00:00+00:00</updated><summary>Por Diego Batlle, desde Valdivia FICValdivia 2026: El cine argentino arrasó con los principales premios Para hacer una película solo hace falta un arma , de Santiago Sein, ganó la Competencia Internacional; La ilusión de un verano sin fin , de Alessandra Sanguinetti, se quedó con</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle, desde Valdivia&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>FICValdivia 2026: El cine argentino arrasó con los principales premios</title>
+  <link href="https://www.otroscines.com/post/ficvaldivia-2026-el-cine-argentino-arraso-con-los-principales-premios"/>
+  <id>https://www.otroscines.com/post/ficvaldivia-2026-el-cine-argentino-arraso-con-los-principales-premios</id>
+  <published>2026-10-18T12:00:00+00:00</published>
+  <updated>2026-10-18T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/ficvaldivia-sein-premio-1200.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/ficvaldivia-sein-premio-1200.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/ficvaldivia-sein-premio-1200.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/ficvaldivia-sein-premio-1200.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle, desde Valdivia FICValdivia 2026: El cine argentino arrasó con los principales premios Para hacer una película solo hace falta un arma , de Santiago Sein, ganó la Competencia Internacional; La ilusión de un verano sin fin , de Alessandra Sanguinetti, se quedó con</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle, desde Valdivia&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;FICValdivia 2026: El cine argentino arrasó con los principales premios&lt;/h1&gt;
@@ -560,8 +715,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>FICValdivia 2026: Todas nuestras críticas</title><link href="https://www.otroscines.com/post/ficvaldivia-2026-todas-nuestras-criticas"/><id>https://www.otroscines.com/post/ficvaldivia-2026-todas-nuestras-criticas</id><published>2026-10-17T12:00:00+00:00</published><updated>2026-10-17T12:00:00+00:00</updated><summary>Por Diego Batlle y Violeta Kovacsics FICValdivia 2026: Todas nuestras críticas -En este espacio iremos actualizando a diario la cobertura de la 33ª edición de la prestigiosa muestra chilena, que se desarrolla entre el lunes 12 y el domingo 18 de octubre. -Hay 33 reseñas publicada</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle y Violeta Kovacsics&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>FICValdivia 2026: Todas nuestras críticas</title>
+  <link href="https://www.otroscines.com/post/ficvaldivia-2026-todas-nuestras-criticas"/>
+  <id>https://www.otroscines.com/post/ficvaldivia-2026-todas-nuestras-criticas</id>
+  <published>2026-10-17T12:00:00+00:00</published>
+  <updated>2026-10-17T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/ficvaldivia-2026-guia.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/ficvaldivia-2026-guia.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/ficvaldivia-2026-guia.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/ficvaldivia-2026-guia.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle y Violeta Kovacsics FICValdivia 2026: Todas nuestras críticas -En este espacio iremos actualizando a diario la cobertura de la 33ª edición de la prestigiosa muestra chilena, que se desarrolla entre el lunes 12 y el domingo 18 de octubre. -Hay 33 reseñas publicada</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle y Violeta Kovacsics&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;FICValdivia 2026: Todas nuestras críticas&lt;/h1&gt;
@@ -599,8 +766,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Cine chileno en FICValdivia 2026 (III): Crítica de “Lo que nos une”, de Nicolás Guzmán (Competencia Internacional)</title><link href="https://www.otroscines.com/post/cine-chileno-en-ficvaldivia-2026-iii-critica-de-lo-que-nos-une-de-nicolas-guzman-competencia-internacional"/><id>https://www.otroscines.com/post/cine-chileno-en-ficvaldivia-2026-iii-critica-de-lo-que-nos-une-de-nicolas-guzman-competencia-internacional</id><published>2026-10-17T12:00:00+00:00</published><updated>2026-10-17T12:00:00+00:00</updated><summary>Por Diego Batlle, desde Valdivia Cine chileno en FICValdivia 2026 (III): Crítica de “Lo que nos une”, de Nicolás Guzmán (Competencia Internacional) El realizador de Si escuchas atentamente (2016), Víctima potencial (2018) y Me gustaría que vivieras mi juventud de nuevo (2022) apu</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle, desde Valdivia&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Cine chileno en FICValdivia 2026 (III): Crítica de “Lo que nos une”, de Nicolás Guzmán (Competencia Internacional)</title>
+  <link href="https://www.otroscines.com/post/cine-chileno-en-ficvaldivia-2026-iii-critica-de-lo-que-nos-une-de-nicolas-guzman-competencia-internacional"/>
+  <id>https://www.otroscines.com/post/cine-chileno-en-ficvaldivia-2026-iii-critica-de-lo-que-nos-une-de-nicolas-guzman-competencia-internacional</id>
+  <published>2026-10-17T12:00:00+00:00</published>
+  <updated>2026-10-17T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/lo-que-nos-une.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/lo-que-nos-une.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/lo-que-nos-une.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/lo-que-nos-une.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle, desde Valdivia Cine chileno en FICValdivia 2026 (III): Crítica de “Lo que nos une”, de Nicolás Guzmán (Competencia Internacional) El realizador de Si escuchas atentamente (2016), Víctima potencial (2018) y Me gustaría que vivieras mi juventud de nuevo (2022) apu</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle, desde Valdivia&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Cine chileno en FICValdivia 2026 (III): Crítica de “Lo que nos une”, de Nicolás Guzmán (Competencia Internacional)&lt;/h1&gt;
@@ -638,8 +817,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Festival de Sitges 2026: Reseñas de “Drag”, “Salitre” y “Rogue Trooper”</title><link href="https://www.otroscines.com/post/festival-de-sitges-2026-resenas-de-drag-salitre-y-rogue-trooper"/><id>https://www.otroscines.com/post/festival-de-sitges-2026-resenas-de-drag-salitre-y-rogue-trooper</id><published>2026-10-17T12:00:00+00:00</published><updated>2026-10-17T12:00:00+00:00</updated><summary>Por Violeta Kovacsics, desde Sitges Festival de Sitges 2026: Reseñas de “Drag”, “Salitre” y “Rogue Trooper” Ultima entrega desde la muestra catalana especializada en cine fantástico y de terror. Publicada el 17/10/2026 Imagen de Drag. En el marco de la cobertura de Sitges 2026 ya</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Violeta Kovacsics, desde Sitges&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Festival de Sitges 2026: Reseñas de “Drag”, “Salitre” y “Rogue Trooper”</title>
+  <link href="https://www.otroscines.com/post/festival-de-sitges-2026-resenas-de-drag-salitre-y-rogue-trooper"/>
+  <id>https://www.otroscines.com/post/festival-de-sitges-2026-resenas-de-drag-salitre-y-rogue-trooper</id>
+  <published>2026-10-17T12:00:00+00:00</published>
+  <updated>2026-10-17T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/drag-sitges.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/drag-sitges.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/drag-sitges.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/drag-sitges.jpg</webfeeds:featuredImage>
+  <summary>Por Violeta Kovacsics, desde Sitges Festival de Sitges 2026: Reseñas de “Drag”, “Salitre” y “Rogue Trooper” Ultima entrega desde la muestra catalana especializada en cine fantástico y de terror. Publicada el 17/10/2026 Imagen de Drag. En el marco de la cobertura de Sitges 2026 ya</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Violeta Kovacsics, desde Sitges&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Festival de Sitges 2026: Reseñas de “Drag”, “Salitre” y “Rogue Trooper”&lt;/h1&gt;
@@ -678,8 +869,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Generación I.Sat (el libro y la memoria)</title><link href="https://www.otroscines.com/post/generacion-i-sat-el-libro-y-la-memoria"/><id>https://www.otroscines.com/post/generacion-i-sat-el-libro-y-la-memoria</id><published>2026-09-29T12:00:00+00:00</published><updated>2026-09-29T12:00:00+00:00</updated><summary>Por Diego Batlle Generación I.Sat (el libro y la memoria) La edición del notable ensayo de Marcelo Vera por parte de Ediciones Godot permite recuperar y revalorizar a una señal que fue clave en la formación cinéfila (y no solo cinéfila) de un par de generaciones. Publicada el 29/</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Generación I.Sat (el libro y la memoria)</title>
+  <link href="https://www.otroscines.com/post/generacion-i-sat-el-libro-y-la-memoria"/>
+  <id>https://www.otroscines.com/post/generacion-i-sat-el-libro-y-la-memoria</id>
+  <published>2026-09-29T12:00:00+00:00</published>
+  <updated>2026-09-29T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/isat-newsletter.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/isat-newsletter.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/isat-newsletter.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/isat-newsletter.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle Generación I.Sat (el libro y la memoria) La edición del notable ensayo de Marcelo Vera por parte de Ediciones Godot permite recuperar y revalorizar a una señal que fue clave en la formación cinéfila (y no solo cinéfila) de un par de generaciones. Publicada el 29/</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Generación I.Sat (el libro y la memoria)&lt;/h1&gt;
@@ -717,8 +920,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>El presupuesto 2027 del INCAA y su encrucijada legislativa</title><link href="https://www.otroscines.com/post/el-presupuesto-2027-del-incaa-y-su-encrucijada-legislativa"/><id>https://www.otroscines.com/post/el-presupuesto-2027-del-incaa-y-su-encrucijada-legislativa</id><published>2026-09-21T12:00:00+00:00</published><updated>2026-09-21T12:00:00+00:00</updated><summary>Por Julio Raffo El presupuesto 2027 del INCAA y su encrucijada legislativa El inminente debate parlamentario para la aprobación del Presupuesto Nacional para 2027 incluye el destino de los fondos del Instituto, que además estarán aún más en riesgo a partir del 1º de enero de 2028</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Julio Raffo&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>El presupuesto 2027 del INCAA y su encrucijada legislativa</title>
+  <link href="https://www.otroscines.com/post/el-presupuesto-2027-del-incaa-y-su-encrucijada-legislativa"/>
+  <id>https://www.otroscines.com/post/el-presupuesto-2027-del-incaa-y-su-encrucijada-legislativa</id>
+  <published>2026-09-21T12:00:00+00:00</published>
+  <updated>2026-09-21T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/columna-raffo-1-2026.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/columna-raffo-1-2026.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/columna-raffo-1-2026.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/columna-raffo-1-2026.jpg</webfeeds:featuredImage>
+  <summary>Por Julio Raffo El presupuesto 2027 del INCAA y su encrucijada legislativa El inminente debate parlamentario para la aprobación del Presupuesto Nacional para 2027 incluye el destino de los fondos del Instituto, que además estarán aún más en riesgo a partir del 1º de enero de 2028</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Julio Raffo&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;El presupuesto 2027 del INCAA y su encrucijada legislativa&lt;/h1&gt;
@@ -757,8 +972,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Crítica de “La bruja” (“The Witch”), película de Robert Eggers con Anya Taylor-Joy: Yo tengo fe</title><link href="https://www.otroscines.com/post/critica-de-la-bruja-the-witch-pelicula-de-robert-eggers-con-anya-taylor-joy-yo-tengo-fe"/><id>https://www.otroscines.com/post/critica-de-la-bruja-the-witch-pelicula-de-robert-eggers-con-anya-taylor-joy-yo-tengo-fe</id><published>2016-03-31T12:00:00+00:00</published><updated>2016-03-31T12:00:00+00:00</updated><summary>Por Diego Batlle Crítica de “La bruja” (“The Witch”), película de Robert Eggers con Anya Taylor-Joy: Yo tengo fe -Desde su estreno allá por enero de 2015 en el Festival de Sundance (donde ganó el premio a Mejor Director) esta ópera prima de Eggers se convirtió en uno de los títul</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Crítica de “La bruja” (“The Witch”), película de Robert Eggers con Anya Taylor-Joy: Yo tengo fe</title>
+  <link href="https://www.otroscines.com/post/critica-de-la-bruja-the-witch-pelicula-de-robert-eggers-con-anya-taylor-joy-yo-tengo-fe"/>
+  <id>https://www.otroscines.com/post/critica-de-la-bruja-the-witch-pelicula-de-robert-eggers-con-anya-taylor-joy-yo-tengo-fe</id>
+  <published>2016-03-31T12:00:00+00:00</published>
+  <updated>2016-03-31T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/la-bruja-critica-655.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/la-bruja-critica-655.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/la-bruja-critica-655.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/la-bruja-critica-655.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle Crítica de “La bruja” (“The Witch”), película de Robert Eggers con Anya Taylor-Joy: Yo tengo fe -Desde su estreno allá por enero de 2015 en el Festival de Sundance (donde ganó el premio a Mejor Director) esta ópera prima de Eggers se convirtió en uno de los títul</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Crítica de “La bruja” (“The Witch”), película de Robert Eggers con Anya Taylor-Joy: Yo tengo fe&lt;/h1&gt;
@@ -807,8 +1034,20 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
-<entry><title>Crítica de “Mamá”, película de Andrés Muschietti con Jessica Chastain: Por la puerta grande</title><link href="https://www.otroscines.com/post/critica-de-mama-pelicula-de-andres-muschietti-con-jessica-chastain-por-la-puerta-grande"/><id>https://www.otroscines.com/post/critica-de-mama-pelicula-de-andres-muschietti-con-jessica-chastain-por-la-puerta-grande</id><published>2013-03-07T12:00:00+00:00</published><updated>2013-03-07T12:00:00+00:00</updated><summary>Por Diego Batlle Crítica de “Mamá”, película de Andrés Muschietti con Jessica Chastain: Por la puerta grande -No fue fácil el camino del argentino Andrés Muschietti hasta concretar -ya muy cerca de los 40 años- su ópera prima. Conocido aquí en 1999 por su cortometraje Nostalgia e</summary><content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
+<entry>
+  <title>Crítica de “Mamá”, película de Andrés Muschietti con Jessica Chastain: Por la puerta grande</title>
+  <link href="https://www.otroscines.com/post/critica-de-mama-pelicula-de-andres-muschietti-con-jessica-chastain-por-la-puerta-grande"/>
+  <id>https://www.otroscines.com/post/critica-de-mama-pelicula-de-andres-muschietti-con-jessica-chastain-por-la-puerta-grande</id>
+  <published>2013-03-07T12:00:00+00:00</published>
+  <updated>2013-03-07T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/mama-muschietti-critica-nueva.jpg"/>
+  <media:content url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/mama-muschietti-critica-nueva.jpg" medium="image"/>
+  <media:thumbnail url="https://www.otroscines.com/media/cache/imagen_principal/images/fotos/mama-muschietti-critica-nueva.jpg"/>
+  <webfeeds:featuredImage>https://www.otroscines.com/media/cache/imagen_principal/images/fotos/mama-muschietti-critica-nueva.jpg</webfeeds:featuredImage>
+  <summary>Por Diego Batlle Crítica de “Mamá”, película de Andrés Muschietti con Jessica Chastain: Por la puerta grande -No fue fácil el camino del argentino Andrés Muschietti hasta concretar -ya muy cerca de los 40 años- su ópera prima. Conocido aquí en 1999 por su cortometraje Nostalgia e</summary>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Por Diego Batlle&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="blog-item-body"&gt;
 
 								&lt;h1 class="mt-0"&gt;Crítica de “Mamá”, película de Andrés Muschietti con Jessica Chastain: Por la puerta grande&lt;/h1&gt;
@@ -858,5 +1097,6 @@
 
 						&lt;/div&gt;
 						&lt;!-- End Post --&gt;
-												&lt;div class="mb-80 mb-xs-40"&gt;</content></entry>
+												&lt;div class="mb-80 mb-xs-40"&gt;</content>
+</entry>
 </feed>

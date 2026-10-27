@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>Filmsteria! – Completo</title>
 <link href="https://filmsteria.com/"/>
 <id>https://filmsteria.com/</id>
 <updated>2026-10-23T16:07:09+00:00</updated>
-<entry><title>La Bola Negra: las heridas que heredamos</title><link href="https://www.filmsteria.com/la-bola-negra-las-heridas-que-heredamos/"/><id>https://www.filmsteria.com/la-bola-negra-las-heridas-que-heredamos/</id><published>2026-10-23T16:07:09+00:00</published><updated>2026-10-23T16:07:09+00:00</updated><summary>Hay una frase que dice que quien sabe hacer comedia sabe hacerlo todo. Y creo que La Bola Negra es una prueba bastante contundente de ello.</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+<entry>
+  <title>La Bola Negra: las heridas que heredamos</title>
+  <link href="https://www.filmsteria.com/la-bola-negra-las-heridas-que-heredamos/"/>
+  <id>https://www.filmsteria.com/la-bola-negra-las-heridas-que-heredamos/</id>
+  <published>2026-10-23T16:07:09+00:00</published>
+  <updated>2026-10-23T16:07:09+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg</webfeeds:featuredImage>
+  <summary>Hay una frase que dice que quien sabe hacer comedia sabe hacerlo todo. Y creo que La Bola Negra es una prueba bastante contundente de ello.</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/la-bola-negra-las-heridas-que-heredamos/la_bola_negra_critica_filmsteria/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg" alt="La_bola_negra_crítica_filmsteria" title="La_bola_negra_crítica_filmsteria" /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
@@ -64,8 +75,20 @@
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
-<entry><title>Verity: cuando el giro importa más que la historia</title><link href="https://www.filmsteria.com/verity-cuando-el-giro-importa-mas-que-la-historia/"/><id>https://www.filmsteria.com/verity-cuando-el-giro-importa-mas-que-la-historia/</id><published>2026-10-02T04:41:47+00:00</published><updated>2026-10-02T04:41:47+00:00</updated><summary>Verity conserva lo que menos me convencía del libro: la necesidad de subirle constantemente al drama hasta llegar a lo absurdo.</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>Verity: cuando el giro importa más que la historia</title>
+  <link href="https://www.filmsteria.com/verity-cuando-el-giro-importa-mas-que-la-historia/"/>
+  <id>https://www.filmsteria.com/verity-cuando-el-giro-importa-mas-que-la-historia/</id>
+  <published>2026-10-02T04:41:47+00:00</published>
+  <updated>2026-10-02T04:41:47+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg</webfeeds:featuredImage>
+  <summary>Verity conserva lo que menos me convencía del libro: la necesidad de subirle constantemente al drama hasta llegar a lo absurdo.</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/verity-cuando-el-giro-importa-mas-que-la-historia/verity_critica_filmsteria/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg" alt="" title="verity_crítica_filmsteria" /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
@@ -190,8 +213,20 @@
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
-<entry><title>Digger: Iñárritu siendo Iñárritu, incluso en el fin del mundo</title><link href="https://www.filmsteria.com/digger-inarritu-siendo-inarritu-incluso-en-el-fin-del-mundo/"/><id>https://www.filmsteria.com/digger-inarritu-siendo-inarritu-incluso-en-el-fin-del-mundo/</id><published>2026-09-29T17:40:45+00:00</published><updated>2026-09-29T17:40:45+00:00</updated><summary>Al final, Iñárritu sigue siendo Iñárritu. Sólo que esta vez llegó ahí haciendo una película completamente desquiciada. Esa película se llama Digger.</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>Digger: Iñárritu siendo Iñárritu, incluso en el fin del mundo</title>
+  <link href="https://www.filmsteria.com/digger-inarritu-siendo-inarritu-incluso-en-el-fin-del-mundo/"/>
+  <id>https://www.filmsteria.com/digger-inarritu-siendo-inarritu-incluso-en-el-fin-del-mundo/</id>
+  <published>2026-09-29T17:40:45+00:00</published>
+  <updated>2026-09-29T17:40:45+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg</webfeeds:featuredImage>
+  <summary>Al final, Iñárritu sigue siendo Iñárritu. Sólo que esta vez llegó ahí haciendo una película completamente desquiciada. Esa película se llama Digger.</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/digger-inarritu-siendo-inarritu-incluso-en-el-fin-del-mundo/digger-critica_filmsteria/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg" alt="digger-crítica_filmsteria" title="digger-crítica_filmsteria" /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
@@ -316,8 +351,20 @@
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
-<entry><title>La Bachata del Biónico: una singular historia de amor</title><link href="https://www.filmsteria.com/la-bachata-del-bionico-una-singular-historia-de-amor/"/><id>https://www.filmsteria.com/la-bachata-del-bionico-una-singular-historia-de-amor/</id><published>2026-09-06T12:50:36+00:00</published><updated>2026-09-06T12:50:36+00:00</updated><summary>La Bachata del biónico es una comedia stoner singular. Una película que nos invita a abrazar el caos en una experiencia que no es para cualquier espectador.</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>La Bachata del Biónico: una singular historia de amor</title>
+  <link href="https://www.filmsteria.com/la-bachata-del-bionico-una-singular-historia-de-amor/"/>
+  <id>https://www.filmsteria.com/la-bachata-del-bionico-una-singular-historia-de-amor/</id>
+  <published>2026-09-06T12:50:36+00:00</published>
+  <updated>2026-09-06T12:50:36+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg</webfeeds:featuredImage>
+  <summary>La Bachata del biónico es una comedia stoner singular. Una película que nos invita a abrazar el caos en una experiencia que no es para cualquier espectador.</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/la-bachata-del-bionico-una-singular-historia-de-amor/labachataposter/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg" alt="" title="labachataposter" /&gt;&lt;/a&gt;
 &lt;figcaption class="wp-caption-text"&gt;la_bachata_del_biónico&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -445,8 +492,20 @@
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
-<entry><title>Los Amantes de Despiden con la Mirada: una charla con su director, Rigoberto Perezcano</title><link href="https://www.filmsteria.com/los-amantes-de-despiden-con-la-mirada-una-charla-con-su-director-rigoberto-perezcano/"/><id>https://www.filmsteria.com/los-amantes-de-despiden-con-la-mirada-una-charla-con-su-director-rigoberto-perezcano/</id><published>2026-09-05T18:45:16+00:00</published><updated>2026-09-05T18:45:16+00:00</updated><summary>Luego de ganar varios premios con sus cintas anteriores (Norteado, Carmín Tropical), Rigoberto Perezcano regresa con: Los Amantes se Despiden con la Mirada.</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>Los Amantes de Despiden con la Mirada: una charla con su director, Rigoberto Perezcano</title>
+  <link href="https://www.filmsteria.com/los-amantes-de-despiden-con-la-mirada-una-charla-con-su-director-rigoberto-perezcano/"/>
+  <id>https://www.filmsteria.com/los-amantes-de-despiden-con-la-mirada-una-charla-con-su-director-rigoberto-perezcano/</id>
+  <published>2026-09-05T18:45:16+00:00</published>
+  <updated>2026-09-05T18:45:16+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg</webfeeds:featuredImage>
+  <summary>Luego de ganar varios premios con sus cintas anteriores (Norteado, Carmín Tropical), Rigoberto Perezcano regresa con: Los Amantes se Despiden con la Mirada.</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/los-amantes-de-despiden-con-la-mirada-una-charla-con-su-director-rigoberto-perezcano/rigoberto_perezcano/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg" alt="rigoberto_perezcano" title="rigoberto_perezcano" /&gt;&lt;/a&gt;
 &lt;figcaption class="wp-caption-text"&gt;Foto original: Héctor Guerrero
 Arte: Filmsteria&lt;/figcaption&gt;
@@ -631,8 +690,20 @@ Arte: Filmsteria&lt;/p&gt;
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
-<entry><title>Nadie nos va a Extrañar: el cambio es la constante</title><link href="https://www.filmsteria.com/nadie-nos-va-a-extranar-el-cambio-es-la-constante/"/><id>https://www.filmsteria.com/nadie-nos-va-a-extranar-el-cambio-es-la-constante/</id><published>2026-08-10T15:31:51+00:00</published><updated>2026-08-10T15:31:51+00:00</updated><summary>Nadie nos va a Extrañar regresa con nuevos personajes, mucha música, mejor narrativa y por supuesto, toneladas de nostalgia noventera.</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>Nadie nos va a Extrañar: el cambio es la constante</title>
+  <link href="https://www.filmsteria.com/nadie-nos-va-a-extranar-el-cambio-es-la-constante/"/>
+  <id>https://www.filmsteria.com/nadie-nos-va-a-extranar-el-cambio-es-la-constante/</id>
+  <published>2026-08-10T15:31:51+00:00</published>
+  <updated>2026-08-10T15:31:51+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg</webfeeds:featuredImage>
+  <summary>Nadie nos va a Extrañar regresa con nuevos personajes, mucha música, mejor narrativa y por supuesto, toneladas de nostalgia noventera.</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/nadie-nos-va-a-extranar-el-cambio-es-la-constante/nadie-nos-va-a-extranar/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg" alt="nadie-nos-va-a-extranar" title="nadie-nos-va-a-extranar" /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
@@ -705,8 +776,20 @@ Arte: Filmsteria&lt;/p&gt;
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
-<entry><title>The Invite: una divertida e intensa terapia de pareja</title><link href="https://www.filmsteria.com/the-invite-una-divertida-e-intensa-terapia-de-pareja/"/><id>https://www.filmsteria.com/the-invite-una-divertida-e-intensa-terapia-de-pareja/</id><published>2026-08-01T20:13:57+00:00</published><updated>2026-08-01T20:13:57+00:00</updated><summary>The Invite es el gran regreso de Olivia Wilde, que sale de las llamas para vulnerarse al explicar su propia experiencia marital</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>The Invite: una divertida e intensa terapia de pareja</title>
+  <link href="https://www.filmsteria.com/the-invite-una-divertida-e-intensa-terapia-de-pareja/"/>
+  <id>https://www.filmsteria.com/the-invite-una-divertida-e-intensa-terapia-de-pareja/</id>
+  <published>2026-08-01T20:13:57+00:00</published>
+  <updated>2026-08-01T20:13:57+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg</webfeeds:featuredImage>
+  <summary>The Invite es el gran regreso de Olivia Wilde, que sale de las llamas para vulnerarse al explicar su propia experiencia marital</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/the-invite-una-divertida-e-intensa-terapia-de-pareja/the_invite_filmsteria/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg" alt="the_invite_Filmsteria" title="the_invite_Filmsteria" /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
@@ -833,8 +916,20 @@ Arte: Filmsteria&lt;/p&gt;
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
-<entry><title>¿Qué hace especial a Spider-Man: Brand New Day?</title><link href="https://www.filmsteria.com/que-hace-especial-a-spider-man-brand-new-day/"/><id>https://www.filmsteria.com/que-hace-especial-a-spider-man-brand-new-day/</id><published>2026-08-01T16:12:55+00:00</published><updated>2026-08-01T16:12:55+00:00</updated><summary>Spider-Man: Brand New Day no es solo una secuela más en la cartelera; es el reflejo especular de toda una generación, una catársis generacional.</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>¿Qué hace especial a Spider-Man: Brand New Day?</title>
+  <link href="https://www.filmsteria.com/que-hace-especial-a-spider-man-brand-new-day/"/>
+  <id>https://www.filmsteria.com/que-hace-especial-a-spider-man-brand-new-day/</id>
+  <published>2026-08-01T16:12:55+00:00</published>
+  <updated>2026-08-01T16:12:55+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg</webfeeds:featuredImage>
+  <summary>Spider-Man: Brand New Day no es solo una secuela más en la cartelera; es el reflejo especular de toda una generación, una catársis generacional.</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/que-hace-especial-a-spider-man-brand-new-day/spidey-zendaya/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg" alt="brand-new-day-spider-man-filmsteria" title="spidey-zendaya" /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
@@ -991,8 +1086,20 @@ Arte: Filmsteria&lt;/p&gt;
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
-<entry><title>Spider-Man: Brand New Day… nunca fue sobre el villano</title><link href="https://www.filmsteria.com/spider-man-brand-new-day-nunca-fue-sobre-el-villano/"/><id>https://www.filmsteria.com/spider-man-brand-new-day-nunca-fue-sobre-el-villano/</id><published>2026-07-30T18:45:52+00:00</published><updated>2026-07-30T18:45:52+00:00</updated><summary>Spider-Man: Brand New Day pasa gran parte del tiempo intentando convencernos de que el villano importa... cuando sabemos que la historia siempre fue otra.</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>Spider-Man: Brand New Day… nunca fue sobre el villano</title>
+  <link href="https://www.filmsteria.com/spider-man-brand-new-day-nunca-fue-sobre-el-villano/"/>
+  <id>https://www.filmsteria.com/spider-man-brand-new-day-nunca-fue-sobre-el-villano/</id>
+  <published>2026-07-30T18:45:52+00:00</published>
+  <updated>2026-07-30T18:45:52+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg</webfeeds:featuredImage>
+  <summary>Spider-Man: Brand New Day pasa gran parte del tiempo intentando convencernos de que el villano importa... cuando sabemos que la historia siempre fue otra.</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/fan-event-de-spider-man-un-nuevo-dia-lugar-horario-y-requisitos-para-asistir/images-13/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg" alt="Spider_Man_fan_event" title="Spider_Man_brand_new_day" /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
@@ -1125,8 +1232,20 @@ Arte: Filmsteria&lt;/p&gt;
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
-<entry><title>Fan Event de Spider-Man: Un Nuevo Día – Lugar, horario y requisitos para asistir</title><link href="https://www.filmsteria.com/fan-event-de-spider-man-un-nuevo-dia-lugar-horario-y-requisitos-para-asistir/"/><id>https://www.filmsteria.com/fan-event-de-spider-man-un-nuevo-dia-lugar-horario-y-requisitos-para-asistir/</id><published>2026-07-14T00:48:20+00:00</published><updated>2026-07-14T00:48:20+00:00</updated><summary>Tom Holland, Zendaya y el resto del cast vendrá a México. Aquí te decimos dónde será y toda la información del Fan Event de Spider-Man: Un Nuevo Día.</summary><content type="html">&lt;figure class="entry-thumbnail"&gt;
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>Fan Event de Spider-Man: Un Nuevo Día – Lugar, horario y requisitos para asistir</title>
+  <link href="https://www.filmsteria.com/fan-event-de-spider-man-un-nuevo-dia-lugar-horario-y-requisitos-para-asistir/"/>
+  <id>https://www.filmsteria.com/fan-event-de-spider-man-un-nuevo-dia-lugar-horario-y-requisitos-para-asistir/</id>
+  <published>2026-07-14T00:48:20+00:00</published>
+  <updated>2026-07-14T00:48:20+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg" medium="image"/>
+  <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg"/>
+  <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg</webfeeds:featuredImage>
+  <summary>Tom Holland, Zendaya y el resto del cast vendrá a México. Aquí te decimos dónde será y toda la información del Fan Event de Spider-Man: Un Nuevo Día.</summary>
+  <content type="html">&lt;figure class="entry-thumbnail"&gt;
 &lt;a href="https://www.filmsteria.com/fan-event-de-spider-man-un-nuevo-dia-lugar-horario-y-requisitos-para-asistir/images-13/"&gt;&lt;img src="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg" alt="Spider_Man_fan_event" title="Spider_Man_brand_new_day" /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
@@ -1288,5 +1407,6 @@ Arte: Filmsteria&lt;/p&gt;
         		&lt;/div&gt;
 			&lt;/div&gt;&lt;/div&gt;	&lt;/aside&gt;	&lt;/div&gt;
     &lt;/div&gt;
-&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content></entry>
+&lt;a href="#" class="mh-back-to-top"&gt;&lt;i class="fa fa-chevron-up"&gt;&lt;/i&gt;&lt;/a&gt;</content>
+</entry>
 </feed>

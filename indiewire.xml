@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>IndieWire – Completo</title>
 <link href="https://www.indiewire.com/"/>
 <id>https://www.indiewire.com/</id>
 <updated>2026-10-27T13:00:00+00:00</updated>
-<entry><title>How Two Rival Columnists Created Hollywood’s Gossip Machine — and Taught America to Worship Attention</title><link href="https://www.indiewire.com/features/commentary/hollywood-whispers-excerpt-hedda-hopper-louella-parsons-1235223094/"/><id>https://www.indiewire.com/features/commentary/hollywood-whispers-excerpt-hedda-hopper-louella-parsons-1235223094/</id><published>2026-10-27T13:00:00+00:00</published><updated>2026-10-27T13:00:00+00:00</updated><summary>An excerpt from Eileen Cope's 'Hollywood Whispers: The Untold Story of the Original Gossip Queens, Louella Parsons and Hedda Hopper' charts their rise</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2023/02/Sunset-Boulevard.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+<entry>
+  <title>How Two Rival Columnists Created Hollywood’s Gossip Machine — and Taught America to Worship Attention</title>
+  <link href="https://www.indiewire.com/features/commentary/hollywood-whispers-excerpt-hedda-hopper-louella-parsons-1235223094/"/>
+  <id>https://www.indiewire.com/features/commentary/hollywood-whispers-excerpt-hedda-hopper-louella-parsons-1235223094/</id>
+  <published>2026-10-27T13:00:00+00:00</published>
+  <updated>2026-10-27T13:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2023/02/Sunset-Boulevard.jpg?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2023/02/Sunset-Boulevard.jpg?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2023/02/Sunset-Boulevard.jpg?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2023/02/Sunset-Boulevard.jpg?w=650</webfeeds:featuredImage>
+  <summary>An excerpt from Eileen Cope's 'Hollywood Whispers: The Untold Story of the Original Gossip Queens, Louella Parsons and Hedda Hopper' charts their rise</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2023/02/Sunset-Boulevard.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;In her new book, &amp;#8220;&lt;a  href="https://www.indiewire.com/t/hollywood-whispers/"  id="auto-tag_hollywood-whispers"  data-tag="hollywood-whispers"  &gt;Hollywood Whispers&lt;/a&gt;: The Untold Story of the Original Gossip Queens, &lt;a  href="https://www.indiewire.com/t/louella-parsons/"  id="auto-tag_louella-parsons"  data-tag="louella-parsons"  &gt;Louella Parsons&lt;/a&gt; and &lt;a  href="https://www.indiewire.com/t/hedda-hopper/"  id="auto-tag_hedda-hopper"  data-tag="hedda-hopper"  &gt;Hedda Hopper&lt;/a&gt;,&amp;#8221; &lt;a  href="https://www.indiewire.com/t/eileen-cope/"  id="auto-tag_eileen-cope"  data-tag="eileen-cope"  &gt;Eileen Cope&lt;/a&gt; delves into a rivalry that dramatically shaped the entertainment industry and culture at large throughout the mid-20th century. After the birth of the star system in Hollywood, Parsons and Hopper rose to prominence as gossip columnists who could make and break careers, and choose to keep or expose celebrities&amp;#8217; secrets. With a combined readership of 75 million at their peak, Hopper and Parsons wielded extraordinary influence &amp;#x2014; and instilled paralyzing fear. As columnist Liz Smith has written, &amp;#8220;The studios created both of them. And they thought they could control both of them. But they became Frankenstein monsters escaped from the labs.&amp;#x201D; In the excerpt below, Cope summarizes their stark differences &amp;#x2014; and even more striking similarities.&lt;/em&gt;
 
 &lt;div class="_adUnit_bmiei_1" data-component="ad-unit" data-ad-empty="false" data-disable-styles&gt;&lt;div class="_inner_bmiei_1" data-alias="ad-unit__inner"&gt;	&lt;div class="admz " id="adm-inline-article-ad-1"&gt;
@@ -258,8 +269,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>Watch ‘My Undesirable Friends’ Director Julia Loktev Recall the Week Russia Invaded Ukraine</title><link href="https://www.indiewire.com/news/events/my-undesirable-friends-director-julia-loktev-art-of-the-doc-1235223867/"/><id>https://www.indiewire.com/news/events/my-undesirable-friends-director-julia-loktev-art-of-the-doc-1235223867/</id><published>2026-10-27T00:30:00+00:00</published><updated>2026-10-27T00:30:00+00:00</updated><summary>Watch 'My Undesirable Friends' director Julia Loktev's appearance at IndieWire's Art of the Doc.</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2597.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>Watch ‘My Undesirable Friends’ Director Julia Loktev Recall the Week Russia Invaded Ukraine</title>
+  <link href="https://www.indiewire.com/news/events/my-undesirable-friends-director-julia-loktev-art-of-the-doc-1235223867/"/>
+  <id>https://www.indiewire.com/news/events/my-undesirable-friends-director-julia-loktev-art-of-the-doc-1235223867/</id>
+  <published>2026-10-27T00:30:00+00:00</published>
+  <updated>2026-10-27T00:30:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2597.jpg?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2597.jpg?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2597.jpg?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2597.jpg?w=650</webfeeds:featuredImage>
+  <summary>Watch 'My Undesirable Friends' director Julia Loktev's appearance at IndieWire's Art of the Doc.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2597.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;Great documentaries never turn out quite the way you plan them. You might start out thinking that you&amp;#8217;re making one &lt;a  href="https://www.indiewire.com/t/film/"  id="auto-tag_film"  data-tag="film"  &gt;film&lt;/a&gt;, but a documentarian has to be willing to accept when changes in the lives of their subjects changes the nature of their project.&lt;/p&gt;
 
 
@@ -357,8 +380,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>‘Wildwood’ Sparked a Much-Needed Comeback for Laika at the Box Office</title><link href="https://www.indiewire.com/news/box-office/wildwood-box-office-laika-analysis-1235223778/"/><id>https://www.indiewire.com/news/box-office/wildwood-box-office-laika-analysis-1235223778/</id><published>2026-10-26T22:09:59+00:00</published><updated>2026-10-26T22:09:59+00:00</updated><summary>'Wildwood,' Laika's latest stop-motion animated epic, made $12.2 million domestic at the box office, on par with some of its past hits.</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>‘Wildwood’ Sparked a Much-Needed Comeback for Laika at the Box Office</title>
+  <link href="https://www.indiewire.com/news/box-office/wildwood-box-office-laika-analysis-1235223778/"/>
+  <id>https://www.indiewire.com/news/box-office/wildwood-box-office-laika-analysis-1235223778/</id>
+  <published>2026-10-26T22:09:59+00:00</published>
+  <updated>2026-10-26T22:09:59+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650</webfeeds:featuredImage>
+  <summary>'Wildwood,' Laika's latest stop-motion animated epic, made $12.2 million domestic at the box office, on par with some of its past hits.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;The release of &lt;a  href="https://www.indiewire.com/t/laika/"  id="auto-tag_laika"  data-tag="laika"  &gt;Laika&lt;/a&gt;&amp;#8216;s &amp;#8220;&lt;a  href="https://www.indiewire.com/t/wildwood/"  id="auto-tag_wildwood"  data-tag="wildwood"  &gt;Wildwood&lt;/a&gt;&amp;#8221; at the &lt;a  href="https://www.indiewire.com/t/box-office/"  id="auto-tag_box-office"  data-tag="box-office"  &gt;box office&lt;/a&gt; this weekend was &lt;a  href="https://www.indiewire.com/news/breaking-news/laika-wildwood-marketing-more-than-stop-motion-craft-1235193875/"  data-type="link"  data-id="https://www.indiewire.com/news/breaking-news/laika-wildwood-marketing-more-than-stop-motion-craft-1235193875/"  &gt;about more than just the dollars and cents or the success or failure of a single film&lt;/a&gt;; in some ways it was about the future of a fan-favorite &lt;a  href="https://www.indiewire.com/t/film/"  id="auto-tag_film"  data-tag="film"  &gt;film&lt;/a&gt; studio. &lt;/p&gt;
 
 
@@ -490,8 +525,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>James Gunn and Peter Safran’s DC Experiment: What’s Working, What Isn’t, and What’s Next</title><link href="https://www.indiewire.com/features/commentary/james-gunn-dc-studios-report-card-1235223600/"/><id>https://www.indiewire.com/features/commentary/james-gunn-dc-studios-report-card-1235223600/</id><published>2026-10-26T22:00:00+00:00</published><updated>2026-10-26T22:00:00+00:00</updated><summary>After 'Superman,' 'Supergirl,' 'Lanterns,' and 'Clayface,' how is the James Gunn/Peter Safran DC Studios experiment going?</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-26-at-1.55.11-PM.png?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>James Gunn and Peter Safran’s DC Experiment: What’s Working, What Isn’t, and What’s Next</title>
+  <link href="https://www.indiewire.com/features/commentary/james-gunn-dc-studios-report-card-1235223600/"/>
+  <id>https://www.indiewire.com/features/commentary/james-gunn-dc-studios-report-card-1235223600/</id>
+  <published>2026-10-26T22:00:00+00:00</published>
+  <updated>2026-10-26T22:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-26-at-1.55.11-PM.png?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-26-at-1.55.11-PM.png?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-26-at-1.55.11-PM.png?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-26-at-1.55.11-PM.png?w=650</webfeeds:featuredImage>
+  <summary>After 'Superman,' 'Supergirl,' 'Lanterns,' and 'Clayface,' how is the James Gunn/Peter Safran DC Studios experiment going?</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-26-at-1.55.11-PM.png?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a  href="https://www.indiewire.com/features/general/james-gunn-dc-studios-ceos-1234776002/"  &gt;Four years ago this week&lt;/a&gt;, &lt;a  href="https://www.indiewire.com/t/james-gunn/"  id="auto-tag_james-gunn"  data-tag="james-gunn"  &gt;James Gunn&lt;/a&gt; and Peter Safran were handed one of Hollywood&amp;#8217;s most coveted, and impossible, jobs. When they were named co-CEOs of Warner Bros.&amp;#8217; &lt;a  href="https://www.indiewire.com/t/dc-studios/"  id="auto-tag_dc-studios"  data-tag="dc-studios"  &gt;DC Studios&lt;/a&gt; label, they received complete oversight of comic book characters like Superman, Wonder Woman, Batman* (more on that later), Green Lantern, the Flash, and countless others. With a seemingly blank canvas to make as many movies and shows as their hearts desired, the implied mandate was clear: get DC Comics out of second place. &lt;/p&gt;
 
 
@@ -761,8 +808,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>Laika and Fathom Take Legal Action to Stop ‘Wildwood’ Screenings at L.A.’s Bruin Theatre</title><link href="https://www.indiewire.com/news/breaking-news/laika-fathom-wildwood-bruin-theatre-legal-action-1235223772/"/><id>https://www.indiewire.com/news/breaking-news/laika-fathom-wildwood-bruin-theatre-legal-action-1235223772/</id><published>2026-10-26T20:39:33+00:00</published><updated>2026-10-26T20:39:33+00:00</updated><summary>Laika and Fathom tell IndieWire they're seeking to halt 'Wildwood' screenings at L.A.’s Bruin Theatre, citing concerns about operator Rui Pereira.</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-12.23.47-PM.png?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>Laika and Fathom Take Legal Action to Stop ‘Wildwood’ Screenings at L.A.’s Bruin Theatre</title>
+  <link href="https://www.indiewire.com/news/breaking-news/laika-fathom-wildwood-bruin-theatre-legal-action-1235223772/"/>
+  <id>https://www.indiewire.com/news/breaking-news/laika-fathom-wildwood-bruin-theatre-legal-action-1235223772/</id>
+  <published>2026-10-26T20:39:33+00:00</published>
+  <updated>2026-10-26T20:39:33+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-12.23.47-PM.png?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-12.23.47-PM.png?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-12.23.47-PM.png?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-12.23.47-PM.png?w=650</webfeeds:featuredImage>
+  <summary>Laika and Fathom tell IndieWire they're seeking to halt 'Wildwood' screenings at L.A.’s Bruin Theatre, citing concerns about operator Rui Pereira.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-12.23.47-PM.png?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;L.A.&amp;#8217;s historic Bruin Theatre met its&lt;a  href="https://www.indiewire.com/features/general/jason-reitman-bruin-theatre-revival-ended-in-legal-battle-1235210704/"  &gt; ambitious fall reopening target&lt;/a&gt; on Friday, October 23, but its return is already facing a challenge from the companies behind its first attraction. Laika and &lt;a  href="https://www.indiewire.com/t/fathom-entertainment/"  id="auto-tag_fathom-entertainment"  data-tag="fathom-entertainment"  &gt;Fathom Entertainment&lt;/a&gt; say they have taken legal action to stop the Bruin from showing &amp;#8220;&lt;a  href="https://www.indiewire.com/t/wildwood/"  id="auto-tag_wildwood"  data-tag="wildwood"  &gt;Wildwood&lt;/a&gt;.&amp;#8221;&lt;/p&gt;
 
 
@@ -924,8 +983,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>‘Elastic Hearts’ Filmmakers Claim Their Movie Was Denied a Texas Tax Incentive Over Abortion Storyline</title><link href="https://www.indiewire.com/news/breaking-news/elastic-hearts-film-denied-texas-tax-credit-abortion-cole-sprouse-1235223514/"/><id>https://www.indiewire.com/news/breaking-news/elastic-hearts-film-denied-texas-tax-credit-abortion-cole-sprouse-1235223514/</id><published>2026-10-26T20:00:00+00:00</published><updated>2026-10-26T20:00:00+00:00</updated><summary>Indie film 'Elastic Hearts' was denied a tax credit after filming in Texas over what the filmmakers claim were political reasons tied to abortion.</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/Darby-Lee-Stack-EH_stills_anneschwartz_141.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>‘Elastic Hearts’ Filmmakers Claim Their Movie Was Denied a Texas Tax Incentive Over Abortion Storyline</title>
+  <link href="https://www.indiewire.com/news/breaking-news/elastic-hearts-film-denied-texas-tax-credit-abortion-cole-sprouse-1235223514/"/>
+  <id>https://www.indiewire.com/news/breaking-news/elastic-hearts-film-denied-texas-tax-credit-abortion-cole-sprouse-1235223514/</id>
+  <published>2026-10-26T20:00:00+00:00</published>
+  <updated>2026-10-26T20:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/10/Darby-Lee-Stack-EH_stills_anneschwartz_141.jpg?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/10/Darby-Lee-Stack-EH_stills_anneschwartz_141.jpg?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/10/Darby-Lee-Stack-EH_stills_anneschwartz_141.jpg?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/10/Darby-Lee-Stack-EH_stills_anneschwartz_141.jpg?w=650</webfeeds:featuredImage>
+  <summary>Indie film 'Elastic Hearts' was denied a tax credit after filming in Texas over what the filmmakers claim were political reasons tied to abortion.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/Darby-Lee-Stack-EH_stills_anneschwartz_141.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;Filmmaker Milad Avaz hoped his movie might ruffle some feathers and start a conversation, but he never expected it would create controversy as he was making it.&lt;/p&gt;
 
 
@@ -1177,8 +1248,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>Why Emmy Wins and Hollywood Recognition Don’t Guarantee Jobs for BIPOC Artists: ‘The Needle Has Not F***ing Moved’</title><link href="https://www.indiewire.com/features/interviews/hollywood-diversity-problem-isnt-just-about-who-gets-hired-1235223562/"/><id>https://www.indiewire.com/features/interviews/hollywood-diversity-problem-isnt-just-about-who-gets-hired-1235223562/</id><published>2026-10-26T19:33:00+00:00</published><updated>2026-10-26T19:33:00+00:00</updated><summary>IndieWire talks to BIPOC talent below- and above-the-line to address the opportunity gaps in Hollywood.</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1242926713.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>Why Emmy Wins and Hollywood Recognition Don’t Guarantee Jobs for BIPOC Artists: ‘The Needle Has Not F***ing Moved’</title>
+  <link href="https://www.indiewire.com/features/interviews/hollywood-diversity-problem-isnt-just-about-who-gets-hired-1235223562/"/>
+  <id>https://www.indiewire.com/features/interviews/hollywood-diversity-problem-isnt-just-about-who-gets-hired-1235223562/</id>
+  <published>2026-10-26T19:33:00+00:00</published>
+  <updated>2026-10-26T19:33:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1242926713.jpg?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1242926713.jpg?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1242926713.jpg?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1242926713.jpg?w=650</webfeeds:featuredImage>
+  <summary>IndieWire talks to BIPOC talent below- and above-the-line to address the opportunity gaps in Hollywood.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1242926713.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;Get the agent, book the studio job, win the award, and so on, collecting infinity stones like Thanos until you can buy that dream house in that quaint part of Studio City. For many working filmmakers, especially women and people of color, the realities of making it in Hollywood are even more nuanced. Recognition can get you into the room, but it does not necessarily get your movie made.&lt;/p&gt;
 
 
@@ -1520,8 +1603,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>From ‘The Devils’ to ‘Obsession,’ How ‘Femcel’ Horror Handles Horny Women</title><link href="https://www.indiewire.com/features/commentary/femcel-horror-movies-the-devils-obsession-camp-miasma-1235223176/"/><id>https://www.indiewire.com/features/commentary/femcel-horror-movies-the-devils-obsession-camp-miasma-1235223176/</id><published>2026-10-26T18:30:00+00:00</published><updated>2026-10-26T18:30:00+00:00</updated><summary>Horror has always been fearfully fascinated with female desire. Now, offscreen, women are questioning whether real romance is worth wanting at all.</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.17.25-AM.png?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>From ‘The Devils’ to ‘Obsession,’ How ‘Femcel’ Horror Handles Horny Women</title>
+  <link href="https://www.indiewire.com/features/commentary/femcel-horror-movies-the-devils-obsession-camp-miasma-1235223176/"/>
+  <id>https://www.indiewire.com/features/commentary/femcel-horror-movies-the-devils-obsession-camp-miasma-1235223176/</id>
+  <published>2026-10-26T18:30:00+00:00</published>
+  <updated>2026-10-26T18:30:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.17.25-AM.png?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.17.25-AM.png?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.17.25-AM.png?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.17.25-AM.png?w=650</webfeeds:featuredImage>
+  <summary>Horror has always been fearfully fascinated with female desire. Now, offscreen, women are questioning whether real romance is worth wanting at all.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.17.25-AM.png?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;Has &lt;a  href="https://www.indiewire.com/criticism/movies/someones-daughter-movie-review-francois-arnaud-1235206592/"  &gt;sexual violence&lt;/a&gt; always been a spectator sport? It certainly has an audience. Last week, prediction market Polymarket&lt;a  href="https://apnews.com/article/af9de35db9b30e6da381ebb1c67d27b1"  rel="nofollow"  target="_blank"  &gt; removed a contract&lt;/a&gt; that allowed users to bet on whether any of the seven men accused of sexually assaulting a Cornell University student in an alleged gang rape would face felony sex-crime charges.&lt;/p&gt;
 
 
@@ -1923,8 +2018,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>Walter Koenig, Actor Who Played Chekov on ‘Star Trek,’ Dies at 90</title><link href="https://www.indiewire.com/news/obituary/walter-koenig-chekov-star-trek-dead-1235223759/"/><id>https://www.indiewire.com/news/obituary/walter-koenig-chekov-star-trek-dead-1235223759/</id><published>2026-10-26T17:09:41+00:00</published><updated>2026-10-26T17:09:41+00:00</updated><summary>Walter Koenig, who played Anton Chekov on ‘Star Trek,' dies at 90.</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-598724540.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>Walter Koenig, Actor Who Played Chekov on ‘Star Trek,’ Dies at 90</title>
+  <link href="https://www.indiewire.com/news/obituary/walter-koenig-chekov-star-trek-dead-1235223759/"/>
+  <id>https://www.indiewire.com/news/obituary/walter-koenig-chekov-star-trek-dead-1235223759/</id>
+  <published>2026-10-26T17:09:41+00:00</published>
+  <updated>2026-10-26T17:09:41+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-598724540.jpg?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-598724540.jpg?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-598724540.jpg?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-598724540.jpg?w=650</webfeeds:featuredImage>
+  <summary>Walter Koenig, who played Anton Chekov on ‘Star Trek,' dies at 90.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-598724540.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a  href="https://www.indiewire.com/t/walter-koenig/"  id="auto-tag_walter-koenig"  data-tag="walter-koenig"  &gt;Walter Koenig&lt;/a&gt;, who played Pavel Andreievich Chekov, a key member of the U.S.S. Enterprise on the original &amp;#8220;&lt;a  href="https://www.indiewire.com/t/star-trek/"  id="auto-tag_star-trek"  data-tag="star-trek"  &gt;Star Trek&lt;/a&gt;&amp;#8221; series and across the first seven films, has died. He was 90.&lt;/p&gt;
 
 
@@ -1994,8 +2101,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>How ‘The Only Living Pickpocket in New York’ Used Vintage ‘Godfather’ Lenses to Capture NYC on Location</title><link href="https://www.indiewire.com/features/craft/how-only-living-pickpocket-in-new-york-used-cinematography-1235223725/"/><id>https://www.indiewire.com/features/craft/how-only-living-pickpocket-in-new-york-used-cinematography-1235223725/</id><published>2026-10-26T15:38:44+00:00</published><updated>2026-10-26T15:38:44+00:00</updated><summary>DP Sam Levy tells IndieWire about designing a throwback look for "The Only Living Pickpocket in New York" with the help of some vintage lenses.</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/MCDONLI_SP016.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>How ‘The Only Living Pickpocket in New York’ Used Vintage ‘Godfather’ Lenses to Capture NYC on Location</title>
+  <link href="https://www.indiewire.com/features/craft/how-only-living-pickpocket-in-new-york-used-cinematography-1235223725/"/>
+  <id>https://www.indiewire.com/features/craft/how-only-living-pickpocket-in-new-york-used-cinematography-1235223725/</id>
+  <published>2026-10-26T15:38:44+00:00</published>
+  <updated>2026-10-26T15:38:44+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/10/MCDONLI_SP016.jpg?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/10/MCDONLI_SP016.jpg?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/10/MCDONLI_SP016.jpg?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/10/MCDONLI_SP016.jpg?w=650</webfeeds:featuredImage>
+  <summary>DP Sam Levy tells IndieWire about designing a throwback look for "The Only Living Pickpocket in New York" with the help of some vintage lenses.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/MCDONLI_SP016.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a  data-id="1234754013"  data-type="post"  href="https://www.indiewire.com/features/general/john-turturro-wants-to-write-a-book-about-christopher-walken-1234754013/"  &gt;John Turturro&lt;/a&gt; and cinematographer Sam Levy hadn&amp;#x2019;t worked together before, both signing onto Noah Segan&amp;#x2019;s &amp;#x201C;&lt;a  data-id="1235176157"  data-type="post"  href="https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/"  &gt;The Only Living Pickpocket in New York,&lt;/a&gt;&amp;#x201D; but they did have something in common. Levy came up as a camera assistant under the great &lt;a  data-id="1235036930"  data-type="post"  href="https://www.indiewire.com/features/interviews/harris-savides-best-cinematographer-zodiac-1235036930/"  &gt;Harris Savides&lt;/a&gt;, who also shot Turturro in &amp;#x201C;Margot at the Wedding.&amp;#x201D; They&amp;#x2019;d both gotten close to Savides and had all kinds of stories that gave the actor and DP a nice shared language to work on this throwback crime thriller about a thief named Harry (Turturro) who steals from the wrong vape goon (Will Price) and has one last, desperate chance to make good.
 
 &lt;div class="_adUnit_bmiei_1" data-component="ad-unit" data-ad-empty="false" data-disable-styles&gt;&lt;div class="_inner_bmiei_1" data-alias="ad-unit__inner"&gt;	&lt;div class="admz " id="adm-inline-article-ad-1"&gt;
@@ -2167,8 +2286,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>‘Queen at Sea’ Review: Juliette Binoche Guides Director Lance Hammer Back to Screens with a Searing Film About Dementia and Consent</title><link href="https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/"/><id>https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/</id><published>2026-10-26T12:02:00+00:00</published><updated>2026-10-26T12:02:00+00:00</updated><summary>Lance Hammer's first film in nearly two decades, 'Queen at Sea,' stars Juliette Binoche as the daughter of a dementia-addled woman. Review.</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/02/202616031_5_ORG-1.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>‘Queen at Sea’ Review: Juliette Binoche Guides Director Lance Hammer Back to Screens with a Searing Film About Dementia and Consent</title>
+  <link href="https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/"/>
+  <id>https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/</id>
+  <published>2026-10-26T12:02:00+00:00</published>
+  <updated>2026-10-26T12:02:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/02/202616031_5_ORG-1.jpg?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/02/202616031_5_ORG-1.jpg?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/02/202616031_5_ORG-1.jpg?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/02/202616031_5_ORG-1.jpg?w=650</webfeeds:featuredImage>
+  <summary>Lance Hammer's first film in nearly two decades, 'Queen at Sea,' stars Juliette Binoche as the daughter of a dementia-addled woman. Review.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/02/202616031_5_ORG-1.jpg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;div class="wp-block-image"&gt;
 &lt;figure class="alignleft size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" width="300" height="302" src="https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png" alt="" class="wp-image-1235004407" style="width:152px;height:auto" srcset="https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png 300w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=150,151 150w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=298,300 298w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=99,100 99w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=200,200 200w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=186,187 186w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=248,250 248w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=244,246 244w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=94,95 94w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=40,40 40w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=238,240 238w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=50,50 50w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=37,37 37w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=224,225 224w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=28,28 28w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=167,168 167w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=33,33 33w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=199,200 199w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=25,25 25w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=149,150 149w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=110,111 110w, https://www.indiewire.com/wp-content/uploads/2024/05/image_3a6ad4.png?resize=285,287 285w" sizes="auto, (max-width: 300px) 100vw, 300px" /&gt;&lt;/figure&gt;
 &lt;/div&gt;
@@ -2361,8 +2492,20 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
-<entry><title>‘Clayface’ Tops the Box Office with $24 Million. What Does It Signal About DC Studios’ Latest Reboot?</title><link href="https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/"/><id>https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/</id><published>2026-10-25T16:36:38+00:00</published><updated>2026-10-25T16:36:38+00:00</updated><summary>'Clayface' tops the box office with a decent $24 Million. What do its results signal for James Gunn and Peter Safran's DC revival?</summary><content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/rev-1-CLAY-02881_High_Res_JPEG-copy.jpeg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
+<entry>
+  <title>‘Clayface’ Tops the Box Office with $24 Million. What Does It Signal About DC Studios’ Latest Reboot?</title>
+  <link href="https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/"/>
+  <id>https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/</id>
+  <published>2026-10-25T16:36:38+00:00</published>
+  <updated>2026-10-25T16:36:38+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.indiewire.com/wp-content/uploads/2026/10/rev-1-CLAY-02881_High_Res_JPEG-copy.jpeg?w=650"/>
+  <media:content url="https://www.indiewire.com/wp-content/uploads/2026/10/rev-1-CLAY-02881_High_Res_JPEG-copy.jpeg?w=650" medium="image"/>
+  <media:thumbnail url="https://www.indiewire.com/wp-content/uploads/2026/10/rev-1-CLAY-02881_High_Res_JPEG-copy.jpeg?w=650"/>
+  <webfeeds:featuredImage>https://www.indiewire.com/wp-content/uploads/2026/10/rev-1-CLAY-02881_High_Res_JPEG-copy.jpeg?w=650</webfeeds:featuredImage>
+  <summary>'Clayface' tops the box office with a decent $24 Million. What do its results signal for James Gunn and Peter Safran's DC revival?</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.indiewire.com/wp-content/uploads/2026/10/rev-1-CLAY-02881_High_Res_JPEG-copy.jpeg?w=650" style="max-width:100%;height:auto;"&gt;&lt;/p&gt;
 &lt;p&gt;&amp;#8220;&lt;a  href="https://www.indiewire.com/t/clayface/"  id="auto-tag_clayface"  data-tag="clayface"  &gt;Clayface&lt;/a&gt;,&amp;#8221; a body-horror &lt;a  href="https://www.indiewire.com/t/film/"  id="auto-tag_film"  data-tag="film"  &gt;film&lt;/a&gt; based on a little-known comic book, opened to $24 million, a middling result for DC Studios, which is in year two of its mixed-bag theatrical revival.&lt;/p&gt;
 
 
@@ -2452,5 +2595,6 @@
 
 
 
-&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content></entry>
+&lt;/div&gt;&lt;/div&gt;&lt;div class="_articleFooter_rw0un_1 _articleFooter_11kq4_1"</content>
+</entry>
 </feed>
