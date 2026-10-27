@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>Panorama Audiovisual – Completo</title>
 <link href="https://www.panoramaaudiovisual.com/"/>
 <id>https://www.panoramaaudiovisual.com/</id>
 <updated>2026-10-27T11:20:58+00:00</updated>
-<entry><title>Dentro de La Séptima: preparación contrarreloj para una televisión diferente</title><link href="https://www.panoramaaudiovisual.com/2026/10/27/dentro-septima-preparacion-contrarreloj-television-necesaria/"/><id>https://www.panoramaaudiovisual.com/2026/10/27/dentro-septima-preparacion-contrarreloj-television-necesaria/</id><published>2026-10-27T11:20:58+00:00</published><updated>2026-10-27T11:20:58+00:00</updated><summary>Dentro de La Séptima: preparación contrarreloj para una televisión diferente De izq. a der.: Rafael Martínez de Vega, José Miguel Contreras y Noor Ben Yessef José Miguel Contreras (CEO), Noor Ben Yessef (periodista y presentadora) y Rafael Martínez de Vega (director comercial) ab</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Presentacion-la-septima.webp" alt=""&gt;&lt;/p&gt;
+<entry>
+  <title>Dentro de La Séptima: preparación contrarreloj para una televisión diferente</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/27/dentro-septima-preparacion-contrarreloj-television-necesaria/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/27/dentro-septima-preparacion-contrarreloj-television-necesaria/</id>
+  <published>2026-10-27T11:20:58+00:00</published>
+  <updated>2026-10-27T11:20:58+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Presentacion-la-septima.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Presentacion-la-septima.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Presentacion-la-septima.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Presentacion-la-septima.webp</webfeeds:featuredImage>
+  <summary>Dentro de La Séptima: preparación contrarreloj para una televisión diferente De izq. a der.: Rafael Martínez de Vega, José Miguel Contreras y Noor Ben Yessef José Miguel Contreras (CEO), Noor Ben Yessef (periodista y presentadora) y Rafael Martínez de Vega (director comercial) ab</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Presentacion-la-septima.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -44,8 +55,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/la-septima/" rel="tag"&gt;La Séptima&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/ross-video/" rel="tag"&gt;Ross Video&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/sony/" rel="tag"&gt;Sony&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/toboggan/" rel="tag"&gt;Toboggan&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>Genie Shorts: los microdramas en vertical llegan a los entornos FAST con Amagi</title><link href="https://www.panoramaaudiovisual.com/2026/10/27/kt-studio-genie-amagi-genie-shorts-fast/"/><id>https://www.panoramaaudiovisual.com/2026/10/27/kt-studio-genie-amagi-genie-shorts-fast/</id><published>2026-10-27T10:57:36+00:00</published><updated>2026-10-27T10:57:36+00:00</updated><summary>Genie Shorts: los microdramas en vertical llegan a los entornos FAST con Amagi KT Studio Genie, filial de contenidos de KT Corporation, apuesta por los nuevos formatos y hábitos de consumo con el lanzamiento de Genie Shorts, un canal FAST gestionado con la plataforma de Amagi que</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Microdramas-vertical-Genie-Shorts-FAST.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>Genie Shorts: los microdramas en vertical llegan a los entornos FAST con Amagi</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/27/kt-studio-genie-amagi-genie-shorts-fast/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/27/kt-studio-genie-amagi-genie-shorts-fast/</id>
+  <published>2026-10-27T10:57:36+00:00</published>
+  <updated>2026-10-27T10:57:36+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Microdramas-vertical-Genie-Shorts-FAST.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Microdramas-vertical-Genie-Shorts-FAST.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Microdramas-vertical-Genie-Shorts-FAST.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Microdramas-vertical-Genie-Shorts-FAST.webp</webfeeds:featuredImage>
+  <summary>Genie Shorts: los microdramas en vertical llegan a los entornos FAST con Amagi KT Studio Genie, filial de contenidos de KT Corporation, apuesta por los nuevos formatos y hábitos de consumo con el lanzamiento de Genie Shorts, un canal FAST gestionado con la plataforma de Amagi que</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Microdramas-vertical-Genie-Shorts-FAST.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -66,8 +89,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/amagi/" rel="tag"&gt;Amagi&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>SES y Canal+ renuevan su acuerdo a largo plazo por más de 230 millones de euros</title><link href="https://www.panoramaaudiovisual.com/2026/10/27/ses-canal-plus-renuevan-acuerdo-satelital/"/><id>https://www.panoramaaudiovisual.com/2026/10/27/ses-canal-plus-renuevan-acuerdo-satelital/</id><published>2026-10-27T10:28:09+00:00</published><updated>2026-10-27T10:28:09+00:00</updated><summary>SES y Canal+ renuevan su acuerdo a largo plazo por más de 230 millones de euros SES y Canal+ firman nuevos acuerdos estratégicos a largo plazo para la capacidad satelital en tres zonas geográficas (Europa, África y Caribe), lo que refuerza la asociación de largo recorrido entre a</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Sede-CanalPlus.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>SES y Canal+ renuevan su acuerdo a largo plazo por más de 230 millones de euros</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/27/ses-canal-plus-renuevan-acuerdo-satelital/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/27/ses-canal-plus-renuevan-acuerdo-satelital/</id>
+  <published>2026-10-27T10:28:09+00:00</published>
+  <updated>2026-10-27T10:28:09+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Sede-CanalPlus.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Sede-CanalPlus.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Sede-CanalPlus.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Sede-CanalPlus.webp</webfeeds:featuredImage>
+  <summary>SES y Canal+ renuevan su acuerdo a largo plazo por más de 230 millones de euros SES y Canal+ firman nuevos acuerdos estratégicos a largo plazo para la capacidad satelital en tres zonas geográficas (Europa, África y Caribe), lo que refuerza la asociación de largo recorrido entre a</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Sede-CanalPlus.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -93,8 +128,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/canal/" rel="tag"&gt;Canal+&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/ses/" rel="tag"&gt;SES&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>AgileTV lleva su plataforma de televisión en la nube a Finlandia con el servicio Play+</title><link href="https://www.panoramaaudiovisual.com/2026/10/27/agiletv-lleva-plataforma-television-nube-finlandia-servicio-play/"/><id>https://www.panoramaaudiovisual.com/2026/10/27/agiletv-lleva-plataforma-television-nube-finlandia-servicio-play/</id><published>2026-10-27T09:42:10+00:00</published><updated>2026-10-27T09:42:10+00:00</updated><summary>AgileTV lleva su plataforma de televisión en la nube a Finlandia con el servicio Play+ AgileTV refuerza su presencia en el mercado europeo con el lanzamiento de Play+, su nuevo servicio de televisión en Finlandia, desarrollado en colaboración con Ålands Telekommunikation Ab (Ålco</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/AgileTv-Play.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>AgileTV lleva su plataforma de televisión en la nube a Finlandia con el servicio Play+</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/27/agiletv-lleva-plataforma-television-nube-finlandia-servicio-play/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/27/agiletv-lleva-plataforma-television-nube-finlandia-servicio-play/</id>
+  <published>2026-10-27T09:42:10+00:00</published>
+  <updated>2026-10-27T09:42:10+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/AgileTv-Play.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/AgileTv-Play.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/AgileTv-Play.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/AgileTv-Play.webp</webfeeds:featuredImage>
+  <summary>AgileTV lleva su plataforma de televisión en la nube a Finlandia con el servicio Play+ AgileTV refuerza su presencia en el mercado europeo con el lanzamiento de Play+, su nuevo servicio de televisión en Finlandia, desarrollado en colaboración con Ålands Telekommunikation Ab (Ålco</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/AgileTv-Play.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -115,8 +162,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/agile/" rel="tag"&gt;Agile&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/alcom/" rel="tag"&gt;Ålcom&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>RTVA contará con Juande Mellado al frente por tercer mandato consecutivo</title><link href="https://www.panoramaaudiovisual.com/2026/10/27/juande-mellado-rtva-director-general-reeleccion-tercer-mandato/"/><id>https://www.panoramaaudiovisual.com/2026/10/27/juande-mellado-rtva-director-general-reeleccion-tercer-mandato/</id><published>2026-10-27T09:31:15+00:00</published><updated>2026-10-27T09:31:15+00:00</updated><summary>RTVA contará con Juande Mellado al frente por tercer mandato consecutivo El Parlamento de Andalucía decide volver a depositar su confianza en Juande Mellado como director general de RTVA sin ningún voto en contra, lo que ratifica la dirección escogida por el ente mediático públic</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/RTVA-Juande-Mellado.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>RTVA contará con Juande Mellado al frente por tercer mandato consecutivo</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/27/juande-mellado-rtva-director-general-reeleccion-tercer-mandato/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/27/juande-mellado-rtva-director-general-reeleccion-tercer-mandato/</id>
+  <published>2026-10-27T09:31:15+00:00</published>
+  <updated>2026-10-27T09:31:15+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/RTVA-Juande-Mellado.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/RTVA-Juande-Mellado.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/RTVA-Juande-Mellado.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/RTVA-Juande-Mellado.webp</webfeeds:featuredImage>
+  <summary>RTVA contará con Juande Mellado al frente por tercer mandato consecutivo El Parlamento de Andalucía decide volver a depositar su confianza en Juande Mellado como director general de RTVA sin ningún voto en contra, lo que ratifica la dirección escogida por el ente mediático públic</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/RTVA-Juande-Mellado.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -137,8 +196,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/canal-sur/" rel="tag"&gt;Canal Sur&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/rtva/" rel="tag"&gt;RTVA&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>Cuando lo sobrenatural cobra vida: el reto de los efectos visuales de ‘The Carpenter’s Son’</title><link href="https://www.panoramaaudiovisual.com/2026/10/27/the-carpenters-son-efectos-visuales-the-mill-vfx/"/><id>https://www.panoramaaudiovisual.com/2026/10/27/the-carpenters-son-efectos-visuales-the-mill-vfx/</id><published>2026-10-27T09:17:27+00:00</published><updated>2026-10-27T09:17:27+00:00</updated><summary>Cuando lo sobrenatural cobra vida: el reto de los efectos visuales de ‘The Carpenter’s Son’ En esta tribuna, Ryan Bardoul, CG/3D Supervisor, y Barthélémy Beaux, 2D Supervisor, de The Mill: A TransPerfect Creative Studio , desgranan los VFX de ‘The Carpenter’s Son’, largometraje d</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/The-Carpenter-s-Son-efectos-visuales-The-Mill-VFX.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>Cuando lo sobrenatural cobra vida: el reto de los efectos visuales de ‘The Carpenter’s Son’</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/27/the-carpenters-son-efectos-visuales-the-mill-vfx/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/27/the-carpenters-son-efectos-visuales-the-mill-vfx/</id>
+  <published>2026-10-27T09:17:27+00:00</published>
+  <updated>2026-10-27T09:17:27+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/The-Carpenter-s-Son-efectos-visuales-The-Mill-VFX.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/The-Carpenter-s-Son-efectos-visuales-The-Mill-VFX.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/The-Carpenter-s-Son-efectos-visuales-The-Mill-VFX.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/The-Carpenter-s-Son-efectos-visuales-The-Mill-VFX.webp</webfeeds:featuredImage>
+  <summary>Cuando lo sobrenatural cobra vida: el reto de los efectos visuales de ‘The Carpenter’s Son’ En esta tribuna, Ryan Bardoul, CG/3D Supervisor, y Barthélémy Beaux, 2D Supervisor, de The Mill: A TransPerfect Creative Studio , desgranan los VFX de ‘The Carpenter’s Son’, largometraje d</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/The-Carpenter-s-Son-efectos-visuales-The-Mill-VFX.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -216,8 +287,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/adobe/" rel="tag"&gt;Adobe&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/autodesk/" rel="tag"&gt;Autodesk&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/sitges/" rel="tag"&gt;Sitges&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/the-foundry/" rel="tag"&gt;The Foundry&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/the-mill/" rel="tag"&gt;The Mill&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/transperfect-media/" rel="tag"&gt;TransPerfect Media&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>La soberanía del dato centra la propuesta de preservación digital de Fujifilm, Ebantic y Oxigen</title><link href="https://www.panoramaaudiovisual.com/2026/10/27/pro-archive-preservacion-digital-fujifilm-ebantic-oxigen/"/><id>https://www.panoramaaudiovisual.com/2026/10/27/pro-archive-preservacion-digital-fujifilm-ebantic-oxigen/</id><published>2026-10-27T09:08:54+00:00</published><updated>2026-10-27T09:08:54+00:00</updated><summary>La soberanía del dato centra la propuesta de preservación digital de Fujifilm, Ebantic y Oxigen La iniciativa de Fujifilm , Ebantic y Oxigen combina en ProArchive tecnologías de preservación, gestión especializada de contenidos y la plataforma de centros de datos de Oxigen para p</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/ProArchive.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>La soberanía del dato centra la propuesta de preservación digital de Fujifilm, Ebantic y Oxigen</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/27/pro-archive-preservacion-digital-fujifilm-ebantic-oxigen/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/27/pro-archive-preservacion-digital-fujifilm-ebantic-oxigen/</id>
+  <published>2026-10-27T09:08:54+00:00</published>
+  <updated>2026-10-27T09:08:54+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/ProArchive.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/ProArchive.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/ProArchive.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/ProArchive.webp</webfeeds:featuredImage>
+  <summary>La soberanía del dato centra la propuesta de preservación digital de Fujifilm, Ebantic y Oxigen La iniciativa de Fujifilm , Ebantic y Oxigen combina en ProArchive tecnologías de preservación, gestión especializada de contenidos y la plataforma de centros de datos de Oxigen para p</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/ProArchive.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -237,8 +320,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/ebantic/" rel="tag"&gt;Ebantic&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/fuji/" rel="tag"&gt;Fuji&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/oxigen/" rel="tag"&gt;Oxigen&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>Arranca el rodaje de ‘Buen camino’, adaptación de la película italiana más taquillera de la historia</title><link href="https://www.panoramaaudiovisual.com/2026/10/27/buen-camino-pelicula-rodaje-sony-pictures-pelicula-taquillera-italia/"/><id>https://www.panoramaaudiovisual.com/2026/10/27/buen-camino-pelicula-rodaje-sony-pictures-pelicula-taquillera-italia/</id><published>2026-10-27T09:02:30+00:00</published><updated>2026-10-27T09:02:30+00:00</updated><summary>Arranca el rodaje de ‘Buen camino’, adaptación de la película italiana más taquillera de la historia Susan Béjar dirige ‘Buen camino’, un largometraje impulsado por Sony Pictures International Productions España con AF México que inicia su rodaje en Galicia, Madrid y Gran Canaria</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Buen-Camino-Rodaje.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>Arranca el rodaje de ‘Buen camino’, adaptación de la película italiana más taquillera de la historia</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/27/buen-camino-pelicula-rodaje-sony-pictures-pelicula-taquillera-italia/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/27/buen-camino-pelicula-rodaje-sony-pictures-pelicula-taquillera-italia/</id>
+  <published>2026-10-27T09:02:30+00:00</published>
+  <updated>2026-10-27T09:02:30+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Buen-Camino-Rodaje.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Buen-Camino-Rodaje.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Buen-Camino-Rodaje.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Buen-Camino-Rodaje.webp</webfeeds:featuredImage>
+  <summary>Arranca el rodaje de ‘Buen camino’, adaptación de la película italiana más taquillera de la historia Susan Béjar dirige ‘Buen camino’, un largometraje impulsado por Sony Pictures International Productions España con AF México que inicia su rodaje en Galicia, Madrid y Gran Canaria</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Buen-Camino-Rodaje.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -259,8 +354,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/af-films/" rel="tag"&gt;AF Films&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/emedia-canary/" rel="tag"&gt;Emedia Canary&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/match-point/" rel="tag"&gt;Match Point&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/movistar/" rel="tag"&gt;Movistar&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/sony-pictures/" rel="tag"&gt;Sony Pictures&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/zircozine/" rel="tag"&gt;Zircozine&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>AdFlow Orchestrator (Amagi) brinda nuevas opciones para la monetización en los entornos digitales de NDTV</title><link href="https://www.panoramaaudiovisual.com/2026/10/26/ndtv-amagi-adflow-orchestrator-publicidad-fast/"/><id>https://www.panoramaaudiovisual.com/2026/10/26/ndtv-amagi-adflow-orchestrator-publicidad-fast/</id><published>2026-10-26T11:12:55+00:00</published><updated>2026-10-26T11:12:55+00:00</updated><summary>AdFlow Orchestrator (Amagi) brinda nuevas opciones para la monetización en los entornos digitales de NDTV NDTV despliega la solución AdFlow Orchestrator de Amagi para reestructurar sus pausas publicitarias en segmentos más cortos y adaptados a los contextos FAST y CTV, un enfoque</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Adflow-Orchestrator-NDTV.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>AdFlow Orchestrator (Amagi) brinda nuevas opciones para la monetización en los entornos digitales de NDTV</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/26/ndtv-amagi-adflow-orchestrator-publicidad-fast/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/26/ndtv-amagi-adflow-orchestrator-publicidad-fast/</id>
+  <published>2026-10-26T11:12:55+00:00</published>
+  <updated>2026-10-26T11:12:55+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Adflow-Orchestrator-NDTV.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Adflow-Orchestrator-NDTV.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Adflow-Orchestrator-NDTV.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Adflow-Orchestrator-NDTV.webp</webfeeds:featuredImage>
+  <summary>AdFlow Orchestrator (Amagi) brinda nuevas opciones para la monetización en los entornos digitales de NDTV NDTV despliega la solución AdFlow Orchestrator de Amagi para reestructurar sus pausas publicitarias en segmentos más cortos y adaptados a los contextos FAST y CTV, un enfoque</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Amagi-Adflow-Orchestrator-NDTV.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -281,8 +388,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/amagi/" rel="tag"&gt;Amagi&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/ndtv/" rel="tag"&gt;NDTV&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>El slasher y las cámaras ocultas conviven en “Killer Rental”, largometraje filmado con Blackmagic</title><link href="https://www.panoramaaudiovisual.com/2026/10/26/killer-rental-camaras-blackmagic-design-slasher-camaras-ocultas/"/><id>https://www.panoramaaudiovisual.com/2026/10/26/killer-rental-camaras-blackmagic-design-slasher-camaras-ocultas/</id><published>2026-10-26T10:04:32+00:00</published><updated>2026-10-26T10:04:32+00:00</updated><summary>El slasher y las cámaras ocultas conviven en “Killer Rental”, largometraje filmado con Blackmagic Tres unidades URSA Mini Pro 12K y varias Pocket Cinema Camera 4K, Pocket Cinema Camera 6K y Pocket Cinema Camera 6K Pro de Blackmagic Design dan forma a ‘Killer Rental’, largometraje</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Blackmagic-Killer-Rental-Rodaje.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>El slasher y las cámaras ocultas conviven en “Killer Rental”, largometraje filmado con Blackmagic</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/26/killer-rental-camaras-blackmagic-design-slasher-camaras-ocultas/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/26/killer-rental-camaras-blackmagic-design-slasher-camaras-ocultas/</id>
+  <published>2026-10-26T10:04:32+00:00</published>
+  <updated>2026-10-26T10:04:32+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Blackmagic-Killer-Rental-Rodaje.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Blackmagic-Killer-Rental-Rodaje.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Blackmagic-Killer-Rental-Rodaje.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Blackmagic-Killer-Rental-Rodaje.webp</webfeeds:featuredImage>
+  <summary>El slasher y las cámaras ocultas conviven en “Killer Rental”, largometraje filmado con Blackmagic Tres unidades URSA Mini Pro 12K y varias Pocket Cinema Camera 4K, Pocket Cinema Camera 6K y Pocket Cinema Camera 6K Pro de Blackmagic Design dan forma a ‘Killer Rental’, largometraje</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Blackmagic-Killer-Rental-Rodaje.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -307,8 +426,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/blackmagic/" rel="tag"&gt;Blackmagic&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>Los gráficos de wTVision se adaptan a las experiencias de deportes inmersivos de Apple Vision Pro</title><link href="https://www.panoramaaudiovisual.com/2026/10/26/wtvision-graficos-apple-vision-pro-deportes/"/><id>https://www.panoramaaudiovisual.com/2026/10/26/wtvision-graficos-apple-vision-pro-deportes/</id><published>2026-10-26T09:51:54+00:00</published><updated>2026-10-26T09:51:54+00:00</updated><summary>Los gráficos de wTVision se adaptan a las experiencias de deportes inmersivos de Apple Vision Pro Varias retransmisiones deportivas dirigidas a la plataforma de realidad extendida Apple Vision Pro, que sigue dando pasos especialmente en el mercado estadounidense, contaron con un </summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/wTvision-Apple-Vision-Pro-Foto-Apple.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>Los gráficos de wTVision se adaptan a las experiencias de deportes inmersivos de Apple Vision Pro</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/26/wtvision-graficos-apple-vision-pro-deportes/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/26/wtvision-graficos-apple-vision-pro-deportes/</id>
+  <published>2026-10-26T09:51:54+00:00</published>
+  <updated>2026-10-26T09:51:54+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/wTvision-Apple-Vision-Pro-Foto-Apple.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/wTvision-Apple-Vision-Pro-Foto-Apple.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/wTvision-Apple-Vision-Pro-Foto-Apple.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/wTvision-Apple-Vision-Pro-Foto-Apple.webp</webfeeds:featuredImage>
+  <summary>Los gráficos de wTVision se adaptan a las experiencias de deportes inmersivos de Apple Vision Pro Varias retransmisiones deportivas dirigidas a la plataforma de realidad extendida Apple Vision Pro, que sigue dando pasos especialmente en el mercado estadounidense, contaron con un </summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/wTvision-Apple-Vision-Pro-Foto-Apple.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -328,8 +459,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/apple/" rel="tag"&gt;Apple&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/wtvision/" rel="tag"&gt;wTVision&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>Elástica Films se estrena en Netflix con la adaptación de ‘La Regenta’</title><link href="https://www.panoramaaudiovisual.com/2026/10/26/la-regenta-netflix-elastica-films-ester-exposito/"/><id>https://www.panoramaaudiovisual.com/2026/10/26/la-regenta-netflix-elastica-films-ester-exposito/</id><published>2026-10-26T09:41:01+00:00</published><updated>2026-10-26T09:41:01+00:00</updated><summary>Elástica Films se estrena en Netflix con la adaptación de ‘La Regenta’ Comienza el rodaje de ‘La Regenta’, un largometraje producido por Elástica Films para Netflix que adapta el clásico homónimo de la literatura española de Leopoldo Alas “Clarín” bajo un “punto de vista femenino</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Netflix-Elastica-La-Regenta-Rodaje.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>Elástica Films se estrena en Netflix con la adaptación de ‘La Regenta’</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/26/la-regenta-netflix-elastica-films-ester-exposito/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/26/la-regenta-netflix-elastica-films-ester-exposito/</id>
+  <published>2026-10-26T09:41:01+00:00</published>
+  <updated>2026-10-26T09:41:01+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Netflix-Elastica-La-Regenta-Rodaje.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Netflix-Elastica-La-Regenta-Rodaje.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Netflix-Elastica-La-Regenta-Rodaje.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Netflix-Elastica-La-Regenta-Rodaje.webp</webfeeds:featuredImage>
+  <summary>Elástica Films se estrena en Netflix con la adaptación de ‘La Regenta’ Comienza el rodaje de ‘La Regenta’, un largometraje producido por Elástica Films para Netflix que adapta el clásico homónimo de la literatura española de Leopoldo Alas “Clarín” bajo un “punto de vista femenino</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Netflix-Elastica-La-Regenta-Rodaje.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -349,8 +492,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/elastica-films/" rel="tag"&gt;Elástica films&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/netflix/" rel="tag"&gt;Netflix&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>IBC arranca el programa “Accelerator Media Innovation” 2027 con la apertura de inscripciones</title><link href="https://www.panoramaaudiovisual.com/2026/10/26/ibc-accelerator-media-innovation-2027-arranca-inscripciones/"/><id>https://www.panoramaaudiovisual.com/2026/10/26/ibc-accelerator-media-innovation-2027-arranca-inscripciones/</id><published>2026-10-26T09:33:56+00:00</published><updated>2026-10-26T09:33:56+00:00</updated><summary>IBC arranca el programa “Accelerator Media Innovation” 2027 con la apertura de inscripciones La iniciativa Accelerator Media Innovation de IBC abre la convocatoria de su edición 2027, promoviendo la presentación de proyectos de innovación ambiciosos que puedan traducirse en avanc</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/IBC-2026-Accelerator-Zone.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>IBC arranca el programa “Accelerator Media Innovation” 2027 con la apertura de inscripciones</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/26/ibc-accelerator-media-innovation-2027-arranca-inscripciones/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/26/ibc-accelerator-media-innovation-2027-arranca-inscripciones/</id>
+  <published>2026-10-26T09:33:56+00:00</published>
+  <updated>2026-10-26T09:33:56+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/IBC-2026-Accelerator-Zone.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/IBC-2026-Accelerator-Zone.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/IBC-2026-Accelerator-Zone.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/IBC-2026-Accelerator-Zone.webp</webfeeds:featuredImage>
+  <summary>IBC arranca el programa “Accelerator Media Innovation” 2027 con la apertura de inscripciones La iniciativa Accelerator Media Innovation de IBC abre la convocatoria de su edición 2027, promoviendo la presentación de proyectos de innovación ambiciosos que puedan traducirse en avanc</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/IBC-2026-Accelerator-Zone.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -372,8 +527,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/ibc2027/" rel="tag"&gt;IBC2027&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>Mediaset España defiende la aplicación estricta del artículo 24 de la EMFA en la medición de audiencias</title><link href="https://www.panoramaaudiovisual.com/2026/10/26/mediaset-espana-defiende-aplicacion-estricta-articulo-24-emfa-medicion-audiencias/"/><id>https://www.panoramaaudiovisual.com/2026/10/26/mediaset-espana-defiende-aplicacion-estricta-articulo-24-emfa-medicion-audiencias/</id><published>2026-10-26T09:16:51+00:00</published><updated>2026-10-26T09:16:51+00:00</updated><summary>Mediaset España defiende la aplicación estricta del artículo 24 de la EMFA en la medición de audiencias Mediaset España participa a través de su presidente, Mario Rodríguez, en el evento ‘Medición de audiencias en el ecosistema digital: transparencia, comparabilidad y pluralismo </summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Mesa-redonda-audiencias-CNMC.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>Mediaset España defiende la aplicación estricta del artículo 24 de la EMFA en la medición de audiencias</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/26/mediaset-espana-defiende-aplicacion-estricta-articulo-24-emfa-medicion-audiencias/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/26/mediaset-espana-defiende-aplicacion-estricta-articulo-24-emfa-medicion-audiencias/</id>
+  <published>2026-10-26T09:16:51+00:00</published>
+  <updated>2026-10-26T09:16:51+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Mesa-redonda-audiencias-CNMC.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Mesa-redonda-audiencias-CNMC.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Mesa-redonda-audiencias-CNMC.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Mesa-redonda-audiencias-CNMC.webp</webfeeds:featuredImage>
+  <summary>Mediaset España defiende la aplicación estricta del artículo 24 de la EMFA en la medición de audiencias Mediaset España participa a través de su presidente, Mario Rodríguez, en el evento ‘Medición de audiencias en el ecosistema digital: transparencia, comparabilidad y pluralismo </summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Mesa-redonda-audiencias-CNMC.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -396,8 +563,20 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/cnmc/" rel="tag"&gt;CNMC&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/mediaset-espana/" rel="tag"&gt;Mediaset España&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
-<entry><title>La promoción de ‘La Voz Kids’ de Atresmedia conquista el oro en los MUSE Creative Awards</title><link href="https://www.panoramaaudiovisual.com/2026/10/26/promocion-voz-kids-atresmedia-conquista-muse-creative-award/"/><id>https://www.panoramaaudiovisual.com/2026/10/26/promocion-voz-kids-atresmedia-conquista-muse-creative-award/</id><published>2026-10-26T08:46:17+00:00</published><updated>2026-10-26T08:46:17+00:00</updated><summary>La promoción de ‘La Voz Kids’ de Atresmedia conquista el oro en los MUSE Creative Awards La International Awards Associate , organizadora de los MUSE Awards, reconoce la creatividad y la innovación concediendo el oro en la categoría ‘Video – Entertainment’ a la campaña de ‘La Voz</summary><content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Promo-La-Voz-Kids-2025.webp" alt=""&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>La promoción de ‘La Voz Kids’ de Atresmedia conquista el oro en los MUSE Creative Awards</title>
+  <link href="https://www.panoramaaudiovisual.com/2026/10/26/promocion-voz-kids-atresmedia-conquista-muse-creative-award/"/>
+  <id>https://www.panoramaaudiovisual.com/2026/10/26/promocion-voz-kids-atresmedia-conquista-muse-creative-award/</id>
+  <published>2026-10-26T08:46:17+00:00</published>
+  <updated>2026-10-26T08:46:17+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Promo-La-Voz-Kids-2025.webp"/>
+  <media:content url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Promo-La-Voz-Kids-2025.webp" medium="image"/>
+  <media:thumbnail url="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Promo-La-Voz-Kids-2025.webp"/>
+  <webfeeds:featuredImage>https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Promo-La-Voz-Kids-2025.webp</webfeeds:featuredImage>
+  <summary>La promoción de ‘La Voz Kids’ de Atresmedia conquista el oro en los MUSE Creative Awards La International Awards Associate , organizadora de los MUSE Awards, reconoce la creatividad y la innovación concediendo el oro en la categoría ‘Video – Entertainment’ a la campaña de ‘La Voz</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.panoramaaudiovisual.com/wp-content/uploads/2026/10/Promo-La-Voz-Kids-2025.webp" alt=""&gt;&lt;/p&gt;
 &lt;section class="row-main separator-10"&gt;&lt;/section&gt;
         &lt;section class="row-main separator-10"&gt;
 &lt;/section&gt;
@@ -418,5 +597,6 @@
 &lt;div&gt;&lt;strong&gt;Otros art&amp;iacute;culos sobre &lt;a href="https://www.panoramaaudiovisual.com/tag/atresmedia/" rel="tag"&gt;Atresmedia&lt;/a&gt;, &lt;a href="https://www.panoramaaudiovisual.com/tag/iaa/" rel="tag"&gt;IAA&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;section class="row-main separator-10"&gt;
-</content></entry>
+</content>
+</entry>
 </feed>

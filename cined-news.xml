@@ -1,10 +1,285 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>News | CineD – Completo</title>
 <link href="https://www.cined.com/news/"/>
 <id>https://www.cined.com/news/</id>
-<updated>2026-10-27T11:59:50+00:00</updated>
-<entry><title>Thypoch Simera-C 100mm T1.9 Announced – Telephoto Prime Completes Seven-Lens Cine Set</title><link href="https://www.cined.com/thypoch-simera-c-100mm-t1-9-announced-telephoto-prime-completes-seven-lens-cine-set/"/><id>https://www.cined.com/thypoch-simera-c-100mm-t1-9-announced-telephoto-prime-completes-seven-lens-cine-set/</id><published>2026-10-27T11:59:50+00:00</published><updated>2026-10-27T11:59:50+00:00</updated><summary>Thypoch has added a 100mm T1.9 to its compact Simera-C cine prime series, the seventh and final focal length in the full-frame set. The new lens takes the line beyond 75mm for the first time and targets close-ups, reaction shots , and narrative details. It keeps the familiar Sime</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Thypoch-Simera-C-100mm-300x169-1.jpeg" alt=""&gt;&lt;/p&gt;
+<updated>2026-10-27T14:36:07+00:00</updated>
+<entry>
+  <title>Apple MacBook Pro M6 and iMac M6 Announced – 2nm Chip, ProRes RAW Media Engine, Up to 32GB Memory</title>
+  <link href="https://www.cined.com/apple-macbook-pro-m6-and-imac-m6-announced-2nm-chip-prores-raw-media-engine-up-to-32gb-memory/"/>
+  <id>https://www.cined.com/apple-macbook-pro-m6-and-imac-m6-announced-2nm-chip-prores-raw-media-engine-up-to-32gb-memory/</id>
+  <published>2026-10-27T14:36:07+00:00</published>
+  <updated>2026-10-27T14:36:07+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027.jpg</webfeeds:featuredImage>
+  <summary>Apple has brought its 2nm M6 chip to the 14-inch MacBook Pro and the 24-inch iMac. Both machines get two more CPU and GPU cores than before, Neural Accelerators in every GPU core, Wi-Fi 7 and a Media Engine with hardware ProRes and ProRes RAW support. For editors, the more import</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Apple has brought its 2nm M6 chip to the 14-inch MacBook Pro and the 24-inch iMac. Both machines get two more CPU and GPU cores than before, Neural Accelerators in every GPU core, Wi-Fi 7 and a Media Engine with hardware ProRes and ProRes RAW support. For editors, the more important details sit further down the spec sheet: memory stops at 32GB, and the ports stay at Thunderbolt 4.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The &lt;a href="https://www.apple.com/macbook-pro/" target="_blank" rel="noreferrer noopener"&gt;14-inch MacBook Pro with M6&lt;/a&gt; starts at $1,999 and the &lt;a href="https://www.apple.com/imac/" target="_blank" rel="noreferrer noopener"&gt;iMac with M6&lt;/a&gt; at $1,499. Pre-orders open tomorrow, October 28, and deliveries start on Friday, November 6. Both use the M6 chip that debuted in the Mac mini in August, which we covered in &lt;a href="https://www.cined.com/apple-refreshes-mac-studio-and-mac-mini-m5-ultra-goes-quad-die-m6-debuts-as-first-2nm-chip/" target="_blank" rel="noreferrer noopener"&gt;our Mac Studio and Mac mini launch article&lt;/a&gt;. In its full version, the M6 has a 12-core CPU (2 super cores, 4 performance cores and 6 efficiency cores), a 12-core GPU with a Neural Accelerator in each core, third-generation ray tracing, a Dual 16-core Neural Engine and up to 170GB/s of memory bandwidth. Unified memory starts at 16GB and goes up to 32GB. The Media Engine has one video decode engine, one video encode engine, one ProRes encode and decode engine and AV1 decode, with hardware acceleration for H.264, HEVC, ProRes and ProRes RAW. The entry-level iMac uses a 10-core CPU and 10-core GPU version of the chip.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-900x506.jpg" alt="" class="wp-image-445113" srcset="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-2048x1152.jpg 2048w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-chip-261027-1600x900.jpg 1600w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Apple just released the new MacBook Pro 14-inch and iMac with its new M6 chip. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;The M6 chip and video work&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Apple&amp;#8217;s performance claims for the MacBook Pro compare it with the 14-inch M5 model: up to 30 percent faster graphics, up to 25 percent faster AI workloads such as LLM prompt processing, and a Neural Engine that is up to 1.9x faster. The application examples in the press release are Blender ray tracing (up to 1.3x faster than M5), Affinity image processing (up to 1.2x) and Xcode builds (up to 1.3x). For the iMac, Apple compares against the M4 generation and quotes up to 2x faster graphics and up to 5x faster on-device AI prompt processing in LM Studio. Apple also claims the M6 has the world&amp;#8217;s fastest CPU core. None of the figures Apple published for these two machines involves a video editing or grading application, so for filmmakers the Media Engine and memory configuration say more than the percentages.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Media Engine layout is the same as in the M5 Pro: one encoder, one decoder and one ProRes engine. The M5 Max doubles the encode and ProRes blocks. In practice, the M6 machines get hardware decoding for the formats most cameras record (H.264, HEVC, ProRes and ProRes RAW), but parallel exports, for example deliverables and proxies at the same time, share a single encoder. Formats outside that list, such as BRAW, R3D or ARRIRAW, rely on the CPU and GPU instead.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-900x506.jpg" alt="" class="wp-image-445117" srcset="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-2048x1152.jpg 2048w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-Adobe-After-Effects-261027-1600x900.jpg 1600w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;After Effects on the new MacBook Pro 14-inch. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Memory is the more obvious ceiling. Both machines top out at 32GB, and on the MacBook Pro the 16GB base configuration runs at 153GB/s; the full 170GB/s needs 24GB or 32GB. For 4K timelines in Final Cut Pro, Premiere Pro or DaVinci Resolve, 32GB is workable. Heavy noise reduction, Fusion compositions or 8K material are where the 14-inch MacBook Pro with M5 Pro (up to 64GB at 307GB/s) or M5 Max becomes the more realistic option. We covered those models in &lt;a href="https://www.cined.com/apple-macbook-pro-with-m5-pro-and-m5-max-announced-alongside-new-studio-display-and-studio-display-xdr/" target="_blank" rel="noreferrer noopener"&gt;our MacBook Pro M5 Pro and M5 Max launch article&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;MacBook Pro M6: XDR display, Thunderbolt 4&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The 14.2-inch Liquid Retina XDR display carries over: 3024 x 1964 pixels at 254ppi, up to 1,000 nits sustained full-screen, 1,600 nits peak for HDR content, a 1,000,000:1 contrast ratio, P3 wide color and ProMotion up to 120Hz. For editors, the fixed refresh rates of 47.95, 48, 50, 59.94 and 60Hz match playback to the project frame rate, and the reference modes include HDR Video (P3-ST 2084). A nano-texture version of the display is optional.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-900x506.jpg" alt="" class="wp-image-445121" srcset="https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-2048x1152.jpg 2048w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-connectivity-261027-1600x900.jpg 1600w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Apple MacBook M6 14-inch, port situation. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On the ports side, the M6 model has three Thunderbolt 4 ports at up to 40Gb/s, plus HDMI, an SDXC card slot, MagSafe 3 and a headphone jack. The M5 Pro and M5 Max models have three Thunderbolt 5 ports at up to 120Gb/s instead. The M6 drives up to two external displays at 6K/60Hz or 4K/165Hz, or one display at 8K/60Hz, 5K/120Hz or 4K/240Hz. Wi-Fi 7 and Bluetooth 6 are new.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Apple rates the 72.4Wh battery at up to 24 hours of video streaming and up to 16 hours of wireless web use, and says performance is the same on battery and on mains power. The laptop ships with a 70W USB-C adapter; with a 96W or higher adapter, it charges to 50 percent in 30 minutes. It measures 31.26 x 22.12 x 1.55cm / 12.31 x 8.71 x 0.61in and weighs 1.55kg / 3.4lb. Storage options are 1TB, 2TB or 4TB, and the colors are space black and silver.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;iMac M6: two models, two different port layouts&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The iMac comes in two versions, and the differences matter more for media work than the two extra cores suggest. The 10-core model has two Thunderbolt/USB 4 ports, supports one external display (up to 6K/60Hz), takes up to 24GB of memory and up to 1TB of storage, and has 2.5Gb Ethernet only as an option. The 12-core model has four Thunderbolt 4 ports, 2.5Gb Ethernet as standard, up to 32GB of memory, up to 2TB of storage, support for two external 6K displays (or one 8K/60Hz display) and an optional nano-texture glass. Both start with 16GB of memory and a 256GB SSD, which Apple says is up to 2x faster than in the M4 iMac. With 256GB, media has to live on external storage from day one.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-900x506.jpg" alt="" class="wp-image-445125" srcset="https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-2048x1152.jpg 2048w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-hero-261027-1600x900.jpg 1600w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The iMac comes in whopping 7 color options. Still no return of the 27 inch version in sight, though. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The 24-inch (23.5-inch viewable) 4.5K Retina display has a resolution of 4480 x 2520 pixels at 218ppi, 500 nits of brightness and P3 wide color with support for 1 billion colors. It has no XDR or HDR mode and no ProMotion, so the iMac is an SDR editing screen. The iMac also has a 12MP Center Stage camera, a six-speaker system with Spatial Audio and Dolby Atmos support, and a three-mic array. It comes in blue, green, pink, yellow, purple, orange and silver, measures 54.7 x 46.1cm / 21.5 x 18.1in and weighs 4.42kg / 9.7lb (10-core) or 4.44kg / 9.8lb (12-core).&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="600" src="https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-lifestyle-261027-900x600.jpg" alt="" class="wp-image-445129" srcset="https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-lifestyle-261027-900x600.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-lifestyle-261027-300x200.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-lifestyle-261027-768x512.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-lifestyle-261027-1536x1024.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-lifestyle-261027-345x230.jpg 345w, https://www.cined.com/content/uploads/2026/10/Apple-iMac-with-M6-lifestyle-261027.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The new iMac M6 in use. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Both ship with macOS 27&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Both computers ship with macOS 27 Golden Gate, which includes Siri AI and new Apple Intelligence features. For edit systems, the more relevant point is software support. In &lt;a href="https://www.cined.com/macos-27-golden-gate-for-video-editors-is-it-safe-to-update-yet/" target="_blank" rel="noreferrer noopener"&gt;our macOS 27 article for video editors&lt;/a&gt;, Adobe and Apple had confirmed support, while Blackmagic Design and Avid had not listed macOS 27 as qualified. New Macs generally cannot run a macOS version older than the one they ship with, so anyone buying one of these machines for client work should check their NLE, plugins and I/O drivers first.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Where they fit&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The 14-inch MacBook Pro with M6 is the entry point to Apple&amp;#8217;s pro laptop line. It suits editors and shooters who cut 4K H.264, HEVC or ProRes, offload cards on location with the SDXC slot, and want an XDR display for HDR review away from the suite. Projects that need more than 32GB of memory, fast Thunderbolt 5 RAIDs or three external displays point to the M5 Pro version.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The iMac is an all-in-one for SDR work: proxy editing, assistant editor stations, social and YouTube production, and offices that need a clean setup. For that work, the 12-core model is the better fit, as it adds the two extra Thunderbolt ports, the second external display and Ethernet as standard.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The 14-inch MacBook Pro with M6 starts at $1,999 ($1,899 for education) with 16GB of memory and a 1TB SSD. In Germany, Apple lists it from €2,299 including VAT. The iMac with M6 starts at $1,499 for the 10-core model and $1,699 for the 12-core model ($1,449 and $1,599 for education), and at €1,799 and €1,999 including VAT in Germany. Pre-orders open on October 28 in 35 countries and regions, and deliveries and in-store availability start on November 6. B&amp;amp;H and CVP do not list the new models yet. More details are in Apple&amp;#8217;s announcements for the &lt;a href="https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/" target="_blank" rel="noreferrer noopener"&gt;MacBook Pro&lt;/a&gt; and the &lt;a href="https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/" target="_blank" rel="noreferrer noopener"&gt;iMac&lt;/a&gt;, and on the &lt;a href="https://www.apple.com/macbook-pro/specs/" target="_blank" rel="noreferrer noopener"&gt;MacBook Pro&lt;/a&gt; and &lt;a href="https://www.apple.com/imac/specs/" target="_blank" rel="noreferrer noopener"&gt;iMac&lt;/a&gt; tech specs pages.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would an M6 MacBook Pro or iMac cover your editing work, or do 32GB and Thunderbolt 4 push you to the M5 Pro? Don&amp;#8217;t hesitate to let us know in the comments below&lt;/strong&gt;!&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Apple Creator Studio Update Announced – MotionVFX in Final Cut Pro, Generate Fill, Cinematic Mode Encoding</title>
+  <link href="https://www.cined.com/apple-creator-studio-update-announced-motionvfx-in-final-cut-pro-generate-fill-cinematic-mode-encoding/"/>
+  <id>https://www.cined.com/apple-creator-studio-update-announced-motionvfx-in-final-cut-pro-generate-fill-cinematic-mode-encoding/</id>
+  <published>2026-10-27T14:13:42+00:00</published>
+  <updated>2026-10-27T14:13:42+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg</webfeeds:featuredImage>
+  <summary>Apple has announced what it calls its most exciting update to Apple Creator Studio since the subscription bundle launched in January. Final Cut Pro for Mac now ships with MotionVFX effects and plugins built in, the Content Hub adds stock video, and images move between Final Cut P</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Apple has announced what it calls its most exciting update to Apple Creator Studio since the subscription bundle launched in January. Final Cut Pro for Mac now ships with MotionVFX effects and plugins built in, the Content Hub adds stock video, and images move between Final Cut Pro and Pixelmator Pro without reimporting. Let&amp;#8217;s take a look at what changes for editors, motion designers and anyone handling sound in post.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The update arrives on the App Store in November as a free update for existing subscribers. In Final Cut Pro for Mac, MotionVFX templates, titles, transitions and graphics sit directly inside the app, together with tools for rotoscoping, tracking and color grading. The Content Hub, Apple&amp;#8217;s library of curated stock assets, now includes video and is available inside Final Cut Pro. Editors can send any still image from the timeline to Pixelmator Pro and have the edited version update in the project automatically, and Pixelmator Pro adds Generate Fill for prompt-based image edits. &lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="600" src="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-disconnect-connected-clips-261027-900x600.jpg" alt="" class="wp-image-445080" srcset="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-disconnect-connected-clips-261027-900x600.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-disconnect-connected-clips-261027-300x200.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-disconnect-connected-clips-261027-768x512.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-disconnect-connected-clips-261027-1536x1024.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-disconnect-connected-clips-261027-345x230.jpg 345w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-disconnect-connected-clips-261027.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Disconnecting clips from the primary storyline to place them anywhere on the timeline, in the latest Final Cut Pro update. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Final Cut Pro also gets more keyframe easing options, clips that can be disconnected from the primary storyline, and 23 new transcription languages. Motion adds MotionVFX plugins for color grading, 3D camera tracking and one-click selection, plus a new Displacement filter. Compressor can now encode Cinematic mode video from the iPhone 18 Pro and the iPhone Duo. Logic Pro gets a redesigned Browser, a Stem Splitter that separates drums, and an intelligent assistant in beta. A subscription costs $12.99 / €12.99 per month or $129 / €129 per year.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We covered the &lt;a href="https://www.cined.com/apple-creator-studio-announced-final-cut-pro-logic-pro-pixelmator-pro-more-subscription-bundle-with-ai-editing-and-generative-tools/" target="_blank" rel="noreferrer noopener"&gt;launch of Apple Creator Studio&lt;/a&gt; in January, when Apple first bundled Final Cut Pro, Motion, Compressor, Logic Pro, MainStage and Pixelmator Pro into one subscription. In March, Apple &lt;a href="https://www.cined.com/apple-acquires-motionvfx-what-this-could-mean-for-final-cut-pro-creator-studio-and-competing-nles/" target="_blank" rel="noreferrer noopener"&gt;acquired MotionVFX&lt;/a&gt;, the Polish developer best known for its Final Cut Pro plugins and templates, and this update is the first time that content appears inside Apple&amp;#8217;s own apps. It also follows &lt;a href="https://www.cined.com/apple-final-cut-camera-2-4-and-final-cut-pro-12-4-released-iphone-18-pro-aperture-control-clean-sdi-out-cinematic-refocus-in-post/" target="_blank" rel="noreferrer noopener"&gt;Final Cut Camera 2.4 and Final Cut Pro 12.4&lt;/a&gt; in September, which added aperture control for the iPhone 18 Pro and Cinematic mode refocusing in post.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="600" src="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-additional-language-support-261027-900x600.jpg" alt="" class="wp-image-445084" srcset="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-additional-language-support-261027-900x600.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-additional-language-support-261027-300x200.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-additional-language-support-261027-768x512.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-additional-language-support-261027-1536x1024.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-additional-language-support-261027-345x230.jpg 345w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-additional-language-support-261027.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;23 new transcription languages in the latest update of Final Cut Pro. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;MotionVFX content inside Final Cut Pro&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to Apple, Final Cut Pro for Mac now gives editors access to &amp;#8220;thousands of elements&amp;#8221; from MotionVFX. These include themed templates, graphics, titles and transitions, as well as tools for rotoscoping, tracking and color grading. Until now, MotionVFX products were separate purchases from the developer&amp;#8217;s own store. Apple does not list which individual MotionVFX plugins are included, and the press release does not say whether the one-time-purchase version of Final Cut Pro also receives this content.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="600" src="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-Content-Hub-261027-900x600.jpg" alt="" class="wp-image-445090" srcset="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-Content-Hub-261027-900x600.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-Content-Hub-261027-300x200.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-Content-Hub-261027-768x512.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-Content-Hub-261027-1536x1024.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-Content-Hub-261027-345x230.jpg 345w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-Content-Hub-261027.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Editors can tap into the Content Hub directly within Final Cut Pro and access a library of Apple-curated stock video, photos, and backgrounds to fill gaps, add polish, or spark new ideas without leaving their workflow. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Content Hub is now available inside Final Cut Pro as well. It holds Apple-curated stock video, photos and backgrounds that editors can drop into a timeline to fill gaps or build quick mockups. Apple does not give the size of the video library or the license terms in the press release, so anyone planning to use these clips in client work should check the usage conditions first.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Final Cut Pro also adds generative image creation from text descriptions inside a project, with quick edits and style adjustments. Apple does not name the model behind it.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Workflow changes in the timeline&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Apart from the new content, three changes concern day-to-day editing. Keyframe easing gets more options for finer control over animation curves. Connected clips can now be disconnected from the primary storyline and placed anywhere on the timeline, which addresses one of the long-standing habits that editors coming from track-based NLEs have had to adapt to in Final Cut Pro. Transcription adds 23 new languages, which extends caption creation and transcript-based search to more productions outside the English-speaking market.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="600" src="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-keyframe-easing-261027-900x600.jpg" alt="" class="wp-image-445076" srcset="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-keyframe-easing-261027-900x600.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-keyframe-easing-261027-300x200.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-keyframe-easing-261027-768x512.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-keyframe-easing-261027-1536x1024.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-keyframe-easing-261027-345x230.jpg 345w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-keyframe-easing-261027.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Final Cut Pro introduces more keyframe easing options for finer animation control. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Pixelmator Pro round trip and Generate Fill&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The round trip between Final Cut Pro and Pixelmator Pro works for any image in the timeline. An editor opens the still in Pixelmator Pro, makes the changes, and the saved version replaces the original in the project with no reimport. Motion gets the same round trip, and Freeform follows in December.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="600" src="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027-900x600.jpg" alt="" class="wp-image-445072" srcset="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027-900x600.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027-300x200.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027-768x512.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027-1536x1024.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027-345x230.jpg 345w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-with-Pixelmator-Pro-261027.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Final Cut Pro users can now open any image from their timeline directly in Pixelmator Pro to take advantage of advanced editing tools. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Generate Fill is Pixelmator Pro&amp;#8217;s new prompt-based editing tool. Users circle an area of the image and describe the change they want, or make a more precise selection with the existing Free Selection, Quick Selection and Magnetic Selection tools. According to Apple, Generate Fill matches the lighting, perspective and texture of the surrounding image, and the built-in Super Resolution feature upscales the generated content so it stays sharp at larger sizes. The result can be merged into an existing layer or placed on a new layer with a mask for further refinement. For editors, the obvious uses are cleaning up stills, extending backgrounds for title cards, or adapting a photo to a different aspect ratio.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Motion and Compressor&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Motion receives its own set of built-in MotionVFX plugins, which Apple describes as tools for cinematic color grading, 3D camera tracking and one-click selection for visual effects. It also adds text-to-image generation and editing, the Pixelmator Pro round trip, the new keyframe easing options, a new Displacement filter and an interactive demo project for new users.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="643" src="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027-900x643.jpg" alt="" class="wp-image-445095" srcset="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027-900x643.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027-300x214.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027-768x548.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027-1536x1097.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027-322x230.jpg 322w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Pixelmator-Pro-Generate-Fill-261027.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Generate Fill, known from Adobe Photoshop already as &amp;#8220;Generative Fill&amp;#8221;, comes as a new tool for editing images based on a user’s description to Pixelmator Pro.&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Compressor now encodes Cinematic mode video recorded on the iPhone 18 Pro and the &lt;a href="https://www.cined.com/apple-iphone-18-pro-and-18-pro-max-announced-variable-aperture-main-camera-new-sensor-pro-controls-plus-the-foldable-iphone-duo/" target="_blank" rel="noreferrer noopener"&gt;iPhone Duo&lt;/a&gt;. Together with the Cinematic mode editing that arrived in Final Cut Pro 12.4, this completes the path from capture to delivery for that footage inside Apple&amp;#8217;s apps. Note that Cinematic mode editing in Final Cut Pro 12.4 requires macOS 27 Golden Gate, according to Apple&amp;#8217;s release notes.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Logic Pro for sound in post&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Logic Pro is primarily a music app, but several of the new features are relevant for editors who handle their own sound. The Stem Splitter can now isolate, replace or rebalance drum parts without the original multitracks, which helps when a licensed track needs a quieter rhythm section under dialogue. The redesigned Browser on Mac gathers loops, instruments and effect patches in one place. A feature Apple calls music understanding, an on-device audio analysis tool, classifies and tags added sounds automatically, so users can search their own collection or drag in a loop to find matching audio. Apple also includes a Splice library in the new Browser.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="600" src="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-900x600.jpg" alt="" class="wp-image-445099" srcset="https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-900x600.jpg 900w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-300x200.jpg 300w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-768x512.jpg 768w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-1536x1024.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-345x230.jpg 345w, https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Logic-Pro-for-Mac-261027.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Logic Pro for Mac and iPad gets an all-new design featuring Liquid Glass, with translucent surfaces and deeper contrast that highlight waveforms and tracks. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Logic Pro for Mac also gets a new intelligent assistant in beta, built on a combination of Apple&amp;#8217;s own models and OpenAI. According to Apple, it can help with production workflows, start a new song, set up a vocal track from a single prompt, or refine an active project. On the iPhone side, Voice Memo Studio Sound reduces room ambience and background noise in recordings made on supported iPhone models, with the option to continue in Logic Pro. Logic Pro also gets a new interface design with Apple&amp;#8217;s Liquid Glass look, and a Producer Pack from salsa producer Sergio George.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Keynote, Pages, Numbers and Freeform&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The productivity apps receive an intelligent assistant in beta, also built on Apple models and OpenAI, that works with the content of the open document. Model Context Protocol (MCP) support lets external AI agents read content, make edits and run automated actions in Keynote, Pages and Numbers. Keynote adds the Keynote Interchange Format (.keyx), an open JSON-based file format. Stock video from the Content Hub and new templates and themes come to all three apps. Freeform adds text styles and board background colors.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Requirements and limitations&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Several of the new features have restrictions that matter for a global audience. Both intelligent assistants are available in US English only. The Logic Pro assistant requires macOS 27 Golden Gate on a Mac that supports Apple Intelligence, and MCP support in Keynote, Pages and Numbers also requires macOS 27. We looked at how the major NLEs and plugin makers handle &lt;a href="https://www.cined.com/macos-27-golden-gate-for-video-editors-is-it-safe-to-update-yet/" target="_blank" rel="noreferrer noopener"&gt;macOS 27 Golden Gate&lt;/a&gt; earlier this month.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Creator Studio version of Final Cut Pro for Mac requires macOS 26.6 or later and runs on Intel and Apple silicon Macs, although Apple notes that some features require Apple silicon. Final Cut Pro for iPad requires iPadOS 26.6 or later and an iPad with an A16, A17 Pro or M1 chip or later. Logic Pro for Mac requires macOS 26.1 and Apple silicon. Motion and Compressor require macOS 15.6 or later. For Apple Immersive Video processing in Compressor, Apple specifies 32GB of RAM as the minimum and recommends 64GB with storage read speeds of 2,000MB/s or faster.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The update will be available on the App Store in November, free for existing subscribers. New subscribers pay $12.99 / €12.99 per month or $129 / €129 per year (euro prices from Apple Germany, including VAT), with a one-month free trial. Buyers of a new Mac or a qualifying iPad can get three months free. University students and educators pay $2.99 / €2.99 per month or $29.99 / €29 per year. Up to six family members can share the subscription through Family Sharing, and it is a universal purchase across Mac, iPad and iPhone. More details are on the &lt;a href="https://www.apple.com/apple-creator-studio/" target="_blank" rel="noreferrer noopener"&gt;Apple Creator Studio page&lt;/a&gt; and in &lt;a href="https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/" target="_blank" rel="noreferrer noopener"&gt;Apple&amp;#8217;s press release&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The one-time-purchase versions remain available on the Mac App Store: &lt;a href="https://apps.apple.com/us/app/final-cut-pro/id424389933" target="_blank" rel="noopener"&gt;Final Cut Pro&lt;/a&gt; at $299.99, &lt;a href="https://apps.apple.com/us/app/logic-pro/id634148309" target="_blank" rel="noopener"&gt;Logic Pro&lt;/a&gt; at $199.99, &lt;a href="https://apps.apple.com/us/app/pixelmator-pro/id1289583905" target="_blank" rel="noopener"&gt;Pixelmator Pro&lt;/a&gt;, &lt;a href="https://apps.apple.com/us/app/motion/id434290957" target="_blank" rel="noopener"&gt;Motion&lt;/a&gt; and &lt;a href="https://apps.apple.com/us/app/compressor/id424390742" target="_blank" rel="noopener"&gt;Compressor&lt;/a&gt; at $49.99 each, and &lt;a href="https://apps.apple.com/us/app/mainstage/id634159523" target="_blank" rel="noopener"&gt;MainStage&lt;/a&gt; at $29.99. The free versions of &lt;a href="https://apps.apple.com/us/app/keynote-design-presentations/id361285480" target="_blank" rel="noopener"&gt;Keynote&lt;/a&gt;, &lt;a href="https://apps.apple.com/us/app/pages-create-documents/id361309726" target="_blank" rel="noopener"&gt;Pages&lt;/a&gt;, &lt;a href="https://apps.apple.com/us/app/numbers-make-spreadsheets/id361304891" target="_blank" rel="noopener"&gt;Numbers&lt;/a&gt; and &lt;a href="https://apps.apple.com/us/app/freeform/id6443742539" target="_blank" rel="noopener"&gt;Freeform&lt;/a&gt; also continue.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Does built-in MotionVFX content change the value of the subscription for you, or will you stay with the one-time purchase of Final Cut Pro? Don&amp;#8217;t hesitate to let us know in the comments below&lt;/strong&gt;!&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Thypoch Simera-C 100mm T1.9 Announced – Telephoto Prime Completes Seven-Lens Cine Set</title>
+  <link href="https://www.cined.com/thypoch-simera-c-100mm-t1-9-announced-telephoto-prime-completes-seven-lens-cine-set/"/>
+  <id>https://www.cined.com/thypoch-simera-c-100mm-t1-9-announced-telephoto-prime-completes-seven-lens-cine-set/</id>
+  <published>2026-10-27T11:59:50+00:00</published>
+  <updated>2026-10-27T11:59:50+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/Thypoch-Simera-C-100mm-300x169-1.jpeg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/Thypoch-Simera-C-100mm-300x169-1.jpeg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/Thypoch-Simera-C-100mm-300x169-1.jpeg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/Thypoch-Simera-C-100mm-300x169-1.jpeg</webfeeds:featuredImage>
+  <summary>Thypoch has added a 100mm T1.9 to its compact Simera-C cine prime series, the seventh and final focal length in the full-frame set. The new lens takes the line beyond 75mm for the first time and targets close-ups, reaction shots , and narrative details. It keeps the familiar Sime</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Thypoch-Simera-C-100mm-300x169-1.jpeg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Thypoch has added a 100mm T1.9 to its compact Simera-C cine prime series, the seventh and final focal length in the full-frame set. The new lens takes the line beyond 75mm for the first time and targets close-ups, reaction shots&lt;/strong&gt;,&lt;strong&gt; and narrative details. It keeps the familiar Simera-C formula of a 16-blade iris, 210° focus throw and native Sony E or Leica M mounts, at a price that stays well below traditional cinema glass.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -69,8 +344,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Is the 100mm the focal length that makes the Simera-C set complete for you, or would you rather see a longer lens or a zoom? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>SmallRig Cage and L-Shaped Plate for Sigma FP2 Introduced – Wooden Grip, HawkLock NATO Rail, Arca-Swiss Base</title><link href="https://www.cined.com/smallrig-cage-and-l-shaped-plate-for-sigma-fp2-introduced-wooden-grip-hawklock-nato-rail-arca-swiss-base/"/><id>https://www.cined.com/smallrig-cage-and-l-shaped-plate-for-sigma-fp2-introduced-wooden-grip-hawklock-nato-rail-arca-swiss-base/</id><published>2026-10-27T09:23:44+00:00</published><updated>2026-10-27T09:23:44+00:00</updated><summary>Although the Sigma FP2 hasn’t started shipping yet, SmallRig has its first accessories ready: a full cage with a built-in wooden grip and a lighter L-shaped mount plate. Both match the look of SmallRig’s original Sigma FP cage and are now available for pre-order. The new Sigma FP</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SmallRig-L-plate-for-Sigma-FP2-2-300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Is the 100mm the focal length that makes the Simera-C set complete for you, or would you rather see a longer lens or a zoom? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>SmallRig Cage and L-Shaped Plate for Sigma FP2 Introduced – Wooden Grip, HawkLock NATO Rail, Arca-Swiss Base</title>
+  <link href="https://www.cined.com/smallrig-cage-and-l-shaped-plate-for-sigma-fp2-introduced-wooden-grip-hawklock-nato-rail-arca-swiss-base/"/>
+  <id>https://www.cined.com/smallrig-cage-and-l-shaped-plate-for-sigma-fp2-introduced-wooden-grip-hawklock-nato-rail-arca-swiss-base/</id>
+  <published>2026-10-27T09:23:44+00:00</published>
+  <updated>2026-10-27T09:23:44+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/SmallRig-L-plate-for-Sigma-FP2-2.jpeg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/SmallRig-L-plate-for-Sigma-FP2-2.jpeg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/SmallRig-L-plate-for-Sigma-FP2-2.jpeg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/SmallRig-L-plate-for-Sigma-FP2-2.jpeg</webfeeds:featuredImage>
+  <summary>Although the Sigma FP2 hasn’t started shipping yet, SmallRig has its first accessories ready: a full cage with a built-in wooden grip and a lighter L-shaped mount plate. Both match the look of SmallRig’s original Sigma FP cage and are now available for pre-order. The new Sigma FP</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SmallRig-L-plate-for-Sigma-FP2-2.jpeg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SmallRig-L-plate-for-Sigma-FP2-2-300x169.jpeg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Although the Sigma FP2 hasn&amp;#8217;t started shipping yet,&lt;/strong&gt; &lt;strong&gt;SmallRig has its first accessories ready: a full cage with a built-in wooden grip and a lighter L-shaped mount plate. Both match the look of SmallRig&amp;#8217;s original Sigma FP cage and are now available for pre-order.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -127,8 +415,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Are you planning to rig up the Sigma FP2, and would you go for the full cage or the lighter L-plate? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>Sigma 50mm F1.4 CL DG Contemporary Announced – 375g All-Metal Prime, New RDD Autofocus, Intentional Softness</title><link href="https://www.cined.com/sigma-50mm-f1-4-cl-dg-contemporary-announced-375g-all-metal-prime-new-rdd-autofocus-intentional-softness/"/><id>https://www.cined.com/sigma-50mm-f1-4-cl-dg-contemporary-announced-375g-all-metal-prime-new-rdd-autofocus-intentional-softness/</id><published>2026-10-26T15:11:54+00:00</published><updated>2026-10-26T15:11:54+00:00</updated><summary>Sigma has announced the 50mm F1.4 CL DG | Contemporary, a compact full-frame prime that deliberately does not chase maximum sharpness. Its aberrations are tuned by simulation for a gentle softness in the focal plane, and a newly developed ring-shaped autofocus motor keeps the all</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SIGMA_Marketing_Contemporary_50mm_F1-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Are you planning to rig up the Sigma FP2, and would you go for the full cage or the lighter L-plate? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Sigma 50mm F1.4 CL DG Contemporary Announced – 375g All-Metal Prime, New RDD Autofocus, Intentional Softness</title>
+  <link href="https://www.cined.com/sigma-50mm-f1-4-cl-dg-contemporary-announced-375g-all-metal-prime-new-rdd-autofocus-intentional-softness/"/>
+  <id>https://www.cined.com/sigma-50mm-f1-4-cl-dg-contemporary-announced-375g-all-metal-prime-new-rdd-autofocus-intentional-softness/</id>
+  <published>2026-10-26T15:11:54+00:00</published>
+  <updated>2026-10-26T15:11:54+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/SIGMA_Marketing_Contemporary_50mm_F1.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/SIGMA_Marketing_Contemporary_50mm_F1.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/SIGMA_Marketing_Contemporary_50mm_F1.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/SIGMA_Marketing_Contemporary_50mm_F1.jpg</webfeeds:featuredImage>
+  <summary>Sigma has announced the 50mm F1.4 CL DG | Contemporary, a compact full-frame prime that deliberately does not chase maximum sharpness. Its aberrations are tuned by simulation for a gentle softness in the focal plane, and a newly developed ring-shaped autofocus motor keeps the all</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SIGMA_Marketing_Contemporary_50mm_F1.jpg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SIGMA_Marketing_Contemporary_50mm_F1-300x169.jpg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Sigma has announced the 50mm F1.4 CL DG | Contemporary, a compact full-frame prime that deliberately does not chase maximum sharpness. Its aberrations are tuned by simulation for a gentle softness in the focal plane, and a newly developed ring-shaped autofocus motor keeps the all-metal barrel short. It also starts a new &amp;#8220;CL&amp;#8221; lineage inside Sigma&amp;#8217;s I series. But is a lens built for character also a good match for video?&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -221,8 +522,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you pick a 50mm that is designed to be soft wide open over a clinically sharp one, and would you use it for video? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>GoPro Close-Up Filters for MISSION 1 Announced – PolarPro Diopters from +0.5 to +2</title><link href="https://www.cined.com/gopro-close-up-filters-for-mission-1-announced-polarpro-diopters-from-0-5-to-2/"/><id>https://www.cined.com/gopro-close-up-filters-for-mission-1-announced-polarpro-diopters-from-0-5-to-2/</id><published>2026-10-26T11:52:10+00:00</published><updated>2026-10-26T11:52:10+00:00</updated><summary>GoPro has released two close-up filter options for the MISSION 1 and MISSION 1 PRO, made by PolarPro. The diopters slide over the camera’s fixed lens and give a closer focus range with a shallower depth of field. A single +0.5 filter costs $49.99, and a set of three strengths cos</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/1-GCM-Hero-md-lg-xl-1-300x160.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you pick a 50mm that is designed to be soft wide open over a clinically sharp one, and would you use it for video? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>GoPro Close-Up Filters for MISSION 1 Announced – PolarPro Diopters from +0.5 to +2</title>
+  <link href="https://www.cined.com/gopro-close-up-filters-for-mission-1-announced-polarpro-diopters-from-0-5-to-2/"/>
+  <id>https://www.cined.com/gopro-close-up-filters-for-mission-1-announced-polarpro-diopters-from-0-5-to-2/</id>
+  <published>2026-10-26T11:52:10+00:00</published>
+  <updated>2026-10-26T11:52:10+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/1-GCM-Hero-md-lg-xl-1.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/1-GCM-Hero-md-lg-xl-1.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/1-GCM-Hero-md-lg-xl-1.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/1-GCM-Hero-md-lg-xl-1.jpg</webfeeds:featuredImage>
+  <summary>GoPro has released two close-up filter options for the MISSION 1 and MISSION 1 PRO, made by PolarPro. The diopters slide over the camera’s fixed lens and give a closer focus range with a shallower depth of field. A single +0.5 filter costs $49.99, and a set of three strengths cos</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/1-GCM-Hero-md-lg-xl-1.jpg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/1-GCM-Hero-md-lg-xl-1-300x160.jpg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;GoPro has released two close-up filter options for the MISSION 1 and MISSION 1 PRO, made by PolarPro. The diopters slide over the camera&amp;#8217;s fixed lens and give a closer focus range with a shallower depth of field. A single +0.5 filter costs $49.99, and a set of three strengths costs $99.99. But what do these filters change on a camera with a fixed 14mm lens?&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -283,8 +597,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you use a diopter on a MISSION 1 for vlogs and detail shots, or is the fixed focus range too limiting for you? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>Riedel RefCam Referee Camera Enters the Deutsches Museum – 14 g Head-Mounted Unit From the World Cup Final</title><link href="https://www.cined.com/riedel-refcam-referee-camera-enters-the-deutsches-museum-14-g-head-mounted-unit-from-the-world-cup-final/"/><id>https://www.cined.com/riedel-refcam-referee-camera-enters-the-deutsches-museum-14-g-head-mounted-unit-from-the-world-cup-final/</id><published>2026-10-26T08:45:35+00:00</published><updated>2026-10-26T08:45:35+00:00</updated><summary>The Riedel RefCam is a 14 g head-mounted camera that clips into a football referee’s communication headset and sends a stabilized, wide-angle view of the match to the broadcast. It is the camera behind FIFA’s Referee View at the 2026 World Cup, and the unit worn at the final is n</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Bundesliga_referee_Daniel_Schlager_RefCam1-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you use a diopter on a MISSION 1 for vlogs and detail shots, or is the fixed focus range too limiting for you? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Riedel RefCam Referee Camera Enters the Deutsches Museum – 14 g Head-Mounted Unit From the World Cup Final</title>
+  <link href="https://www.cined.com/riedel-refcam-referee-camera-enters-the-deutsches-museum-14-g-head-mounted-unit-from-the-world-cup-final/"/>
+  <id>https://www.cined.com/riedel-refcam-referee-camera-enters-the-deutsches-museum-14-g-head-mounted-unit-from-the-world-cup-final/</id>
+  <published>2026-10-26T08:45:35+00:00</published>
+  <updated>2026-10-26T08:45:35+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/Bundesliga_referee_Daniel_Schlager_RefCam1.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/Bundesliga_referee_Daniel_Schlager_RefCam1.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/Bundesliga_referee_Daniel_Schlager_RefCam1.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/Bundesliga_referee_Daniel_Schlager_RefCam1.jpg</webfeeds:featuredImage>
+  <summary>The Riedel RefCam is a 14 g head-mounted camera that clips into a football referee’s communication headset and sends a stabilized, wide-angle view of the match to the broadcast. It is the camera behind FIFA’s Referee View at the 2026 World Cup, and the unit worn at the final is n</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Bundesliga_referee_Daniel_Schlager_RefCam1.jpg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Bundesliga_referee_Daniel_Schlager_RefCam1-300x169.jpg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;The Riedel RefCam is a 14 g head-mounted camera that clips into a football referee&amp;#8217;s communication headset and sends a stabilized, wide-angle view of the match to the broadcast. It is the camera behind FIFA&amp;#8217;s Referee View at the 2026 World Cup, and the unit worn at the final is now a museum piece. Riedel Communications has handed it over to the Deutsches Museum in Munich, where it sits a few steps away from a 7 kg camera from 1839. There is some irony in the timing: a camera with a Riedel badge enters the museum only months after Thomas Riedel bought ARRI, one of the most iconic camera companies in the world.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -401,8 +728,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Featured image credit: Bundesliga referee Daniel Schlager wearing a Riedel RefCam. Image credit: Riedel Communications.&lt;/em&gt;&lt;/p&gt;</content></entry>
-<entry><title>Sigma FP2 Announced – 6K Open Gate, ProRes RAW, 24.5MP Partially Stacked Sensor</title><link href="https://www.cined.com/sigma-fp2-announced-6k-open-gate-prores-raw-24-5mp-partially-stacked-sensor/"/><id>https://www.cined.com/sigma-fp2-announced-6k-open-gate-prores-raw-24-5mp-partially-stacked-sensor/</id><published>2026-10-23T08:16:16+00:00</published><updated>2026-10-23T08:16:16+00:00</updated><summary>Seven years after the original fp, Sigma has introduced its successor. The Sigma FP2 keeps the brick-shaped, modular concept, but almost everything inside has changed: a new partially stacked full-frame sensor, 6K open gate recording, ProRes RAW instead of CinemaDNG, and a tiltin</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/sigma-fp2-featured-alt-16x9-1-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Featured image credit: Bundesliga referee Daniel Schlager wearing a Riedel RefCam. Image credit: Riedel Communications.&lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Sigma FP2 Announced – 6K Open Gate, ProRes RAW, 24.5MP Partially Stacked Sensor</title>
+  <link href="https://www.cined.com/sigma-fp2-announced-6k-open-gate-prores-raw-24-5mp-partially-stacked-sensor/"/>
+  <id>https://www.cined.com/sigma-fp2-announced-6k-open-gate-prores-raw-24-5mp-partially-stacked-sensor/</id>
+  <published>2026-10-23T08:16:16+00:00</published>
+  <updated>2026-10-23T08:16:16+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/sigma-fp2-featured-alt-16x9-1.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/sigma-fp2-featured-alt-16x9-1.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/sigma-fp2-featured-alt-16x9-1.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/sigma-fp2-featured-alt-16x9-1.jpg</webfeeds:featuredImage>
+  <summary>Seven years after the original fp, Sigma has introduced its successor. The Sigma FP2 keeps the brick-shaped, modular concept, but almost everything inside has changed: a new partially stacked full-frame sensor, 6K open gate recording, ProRes RAW instead of CinemaDNG, and a tiltin</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/sigma-fp2-featured-alt-16x9-1.jpg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/sigma-fp2-featured-alt-16x9-1-300x169.jpg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Seven years after the original fp, Sigma has introduced its successor. The Sigma FP2 keeps the brick-shaped, modular concept, but almost everything inside has changed: a new partially stacked full-frame sensor, 6K open gate recording, ProRes RAW instead of CinemaDNG, and a tilting screen. Sigma again calls it the world&amp;#8217;s smallest full-frame camera body. Here is what filmmakers need to know.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -583,8 +923,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Is the FP2 the compact full-frame cinema camera that fp owners were waiting for, or do you miss CinemaDNG? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>Schneider-Kreuznach Nano Clear Filter Announced – Improved Color Neutrality, Broadband Anti-Reflection Coating</title><link href="https://www.cined.com/schneider-kreuznach-nano-clear-filter-announced-improved-color-neutrality-broadband-anti-reflection-coating/"/><id>https://www.cined.com/schneider-kreuznach-nano-clear-filter-announced-improved-color-neutrality-broadband-anti-reflection-coating/</id><published>2026-10-23T07:28:18+00:00</published><updated>2026-10-23T07:28:18+00:00</updated><summary>Schneider-Kreuznach has introduced Nano Clear, the next generation of its Clear protection filter for cinema lenses. A protection filter has one task beyond protecting the lens: to have as little effect on the image as possible. With a new broadband anti-reflection nano coating, </summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/NanoClear-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Is the FP2 the compact full-frame cinema camera that fp owners were waiting for, or do you miss CinemaDNG? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Schneider-Kreuznach Nano Clear Filter Announced – Improved Color Neutrality, Broadband Anti-Reflection Coating</title>
+  <link href="https://www.cined.com/schneider-kreuznach-nano-clear-filter-announced-improved-color-neutrality-broadband-anti-reflection-coating/"/>
+  <id>https://www.cined.com/schneider-kreuznach-nano-clear-filter-announced-improved-color-neutrality-broadband-anti-reflection-coating/</id>
+  <published>2026-10-23T07:28:18+00:00</published>
+  <updated>2026-10-23T07:28:18+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/NanoClear.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/NanoClear.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/NanoClear.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/NanoClear.jpg</webfeeds:featuredImage>
+  <summary>Schneider-Kreuznach has introduced Nano Clear, the next generation of its Clear protection filter for cinema lenses. A protection filter has one task beyond protecting the lens: to have as little effect on the image as possible. With a new broadband anti-reflection nano coating, </summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/NanoClear.jpg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/NanoClear-300x169.jpg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Schneider-Kreuznach has introduced Nano Clear, the next generation of its Clear protection filter for cinema lenses. A protection filter has one task beyond protecting the lens: to have as little effect on the image as possible. With a new broadband anti-reflection nano coating, Schneider-Kreuznach says Nano Clear reduces reflections and brings the filter’s color point very close to D65. The price is expected to remain the same as the Clear filter it replaces. The company announced Nano Clear on October 16, 2026, and showed it for the first time at &lt;a href="https://www.cined.com/cineverse-roma-comes-to-cinecitta-studios-expo-floor-hands-on-tech-room-aic-imago-panels/" target="_blank" rel="noreferrer noopener"&gt;CineVerse Roma at Cinecittà Studios&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -663,8 +1016,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you keep a clear filter on your lenses all the time, or only when the conditions are rough? Let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>Your Shot – Free Super Slow Motion Tennis Event in Vienna with Pixboom Spark Tomorrow, No Registration</title><link href="https://www.cined.com/your-shot-free-super-slow-motion-tennis-event-in-vienna-with-pixboom-spark-tomorrow-no-registration/"/><id>https://www.cined.com/your-shot-free-super-slow-motion-tennis-event-in-vienna-with-pixboom-spark-tomorrow-no-registration/</id><published>2026-10-22T12:30:36+00:00</published><updated>2026-10-22T12:30:36+00:00</updated><summary>Tomorrow, Friday October 23, anyone in Vienna, Austria, can step onto a tennis court, hit a ball, and walk away with a cinematic super slow motion clip of themselves, captured by a camera robot at up to 1,000 frames per second. It is free, there is no registration, and you just s</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-300x169.png" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you keep a clear filter on your lenses all the time, or only when the conditions are rough? Let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Your Shot – Free Super Slow Motion Tennis Event in Vienna with Pixboom Spark Tomorrow, No Registration</title>
+  <link href="https://www.cined.com/your-shot-free-super-slow-motion-tennis-event-in-vienna-with-pixboom-spark-tomorrow-no-registration/"/>
+  <id>https://www.cined.com/your-shot-free-super-slow-motion-tennis-event-in-vienna-with-pixboom-spark-tomorrow-no-registration/</id>
+  <published>2026-10-22T12:30:36+00:00</published>
+  <updated>2026-10-22T12:30:36+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9.png"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9.png" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9.png"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9.png</webfeeds:featuredImage>
+  <summary>Tomorrow, Friday October 23, anyone in Vienna, Austria, can step onto a tennis court, hit a ball, and walk away with a cinematic super slow motion clip of themselves, captured by a camera robot at up to 1,000 frames per second. It is free, there is no registration, and you just s</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9.png" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-300x169.png" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Tomorrow, Friday October 23, anyone in Vienna, Austria, can step onto a tennis court, hit a ball, and walk away with a cinematic super slow motion clip of themselves, captured by a camera robot at up to 1,000 frames per second. It is free, there is no registration, and you just stop by.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -721,8 +1087,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Disclaimer: This event is part of a paid collaboration between Pixboom and CineD &amp;amp; MZed. We are creating a free high-speed filmmaking course, and the tennis event will be one part of the final course. The free course will be made available during 2027.&lt;/em&gt;&lt;/p&gt;</content></entry>
-<entry><title>Cooke S4 FF/i Announced – Full-Frame T2.0 Primes, 385mm Average Close Focus, 87mm Front Diameter</title><link href="https://www.cined.com/cooke-s4-ff-i-announced-full-frame-t2-0-primes-385mm-average-close-focus-87mm-front-diameter/"/><id>https://www.cined.com/cooke-s4-ff-i-announced-full-frame-t2-0-primes-385mm-average-close-focus-87mm-front-diameter/</id><published>2026-10-22T07:36:20+00:00</published><updated>2026-10-22T07:36:20+00:00</updated><summary>Cooke Optics has introduced the S4 FF/i, a full-frame evolution of its S4/i Super 35 primes. The set has six T2.0 lenses from 18mm to 100mm, a common 87mm front diameter and close focus that averages just over 15 inches. With the original S4/i out of production since the start of</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/cooke-S4FF-group.jpg-300x169.webp" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Disclaimer: This event is part of a paid collaboration between Pixboom and CineD &amp;amp; MZed. We are creating a free high-speed filmmaking course, and the tennis event will be one part of the final course. The free course will be made available during 2027.&lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Cooke S4 FF/i Announced – Full-Frame T2.0 Primes, 385mm Average Close Focus, 87mm Front Diameter</title>
+  <link href="https://www.cined.com/cooke-s4-ff-i-announced-full-frame-t2-0-primes-385mm-average-close-focus-87mm-front-diameter/"/>
+  <id>https://www.cined.com/cooke-s4-ff-i-announced-full-frame-t2-0-primes-385mm-average-close-focus-87mm-front-diameter/</id>
+  <published>2026-10-22T07:36:20+00:00</published>
+  <updated>2026-10-22T07:36:20+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/cooke-S4FF-group.jpg.webp"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/cooke-S4FF-group.jpg.webp" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/cooke-S4FF-group.jpg.webp"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/cooke-S4FF-group.jpg.webp</webfeeds:featuredImage>
+  <summary>Cooke Optics has introduced the S4 FF/i, a full-frame evolution of its S4/i Super 35 primes. The set has six T2.0 lenses from 18mm to 100mm, a common 87mm front diameter and close focus that averages just over 15 inches. With the original S4/i out of production since the start of</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/cooke-S4FF-group.jpg.webp" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/cooke-S4FF-group.jpg-300x169.webp" alt=""&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Cooke Optics has introduced the S4 FF/i, a full-frame evolution of its S4/i Super 35 primes. The set has six T2.0 lenses from 18mm to 100mm, a common 87mm front diameter and close focus that averages just over 15 inches. With the original S4/i out of production since the start of 2025, the new series puts the S4 name back into Cooke&amp;#8217;s PL and LPL lineup.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -839,8 +1218,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Did you shoot with the original S4/i, and would a lighter full-frame version bring you back to the set? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>cinemaOS, CUTROOM, and invideo Compared – Mac Studio App, Free Open-Source Editor, Cloud AI Agent</title><link href="https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/"/><id>https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/</id><published>2026-10-21T14:17:12+00:00</published><updated>2026-10-21T14:17:12+00:00</updated><summary>A growing number of video editors are now built around AI and open-source components, some of them by small teams or a single developer. Three current examples take very different routes: cinemaOS is a Mac subscription app with an on-device assistant, CUTROOM is a free open-sourc</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Did you shoot with the original S4/i, and would a lighter full-frame version bring you back to the set? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>cinemaOS, CUTROOM, and invideo Compared – Mac Studio App, Free Open-Source Editor, Cloud AI Agent</title>
+  <link href="https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/"/>
+  <id>https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/</id>
+  <published>2026-10-21T14:17:12+00:00</published>
+  <updated>2026-10-21T14:17:12+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7.jpeg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7.jpeg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7.jpeg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7.jpeg</webfeeds:featuredImage>
+  <summary>A growing number of video editors are now built around AI and open-source components, some of them by small teams or a single developer. Three current examples take very different routes: cinemaOS is a Mac subscription app with an on-device assistant, CUTROOM is a free open-sourc</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7.jpeg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-300x169.jpeg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;A growing number of video editors are now built around AI and open-source components, some of them by small teams or a single developer. Three current examples take very different routes: cinemaOS is a Mac subscription app with an on-device assistant, CUTROOM is a free open-source editor that runs locally, and invideo puts an AI editing agent and dozens of generative models in the browser. We look at each platform and then compare them.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -949,8 +1341,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you trust one of these new editors with a real project, or do you stay with Premiere Pro, DaVinci Resolve or Final Cut Pro? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>SmallRig Shoulder Rig Kit (Pro) vs. Classic – VCT-14 Baseplate, ARRI Rosette Arms, $419.99</title><link href="https://www.cined.com/smallrig-shoulder-rig-kit-pro-vs-classic-vct-14-baseplate-arri-rosette-arms-419-99/"/><id>https://www.cined.com/smallrig-shoulder-rig-kit-pro-vs-classic-vct-14-baseplate-arri-rosette-arms-419-99/</id><published>2026-10-21T10:34:27+00:00</published><updated>2026-10-21T10:34:27+00:00</updated><summary>SmallRig sells two shoulder rigs with almost the same name: the Shoulder Rig Kit (Pro) 4274B and the Shoulder Rig Kit (Classic Version) 4480B. One costs $419.99, the other $169.99, and they are built on different ideas. Here is what the extra $250 gets you, and what the Pro kit l</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SmallRig-Shoulder-Rig-Kit-300x169.jpeg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you trust one of these new editors with a real project, or do you stay with Premiere Pro, DaVinci Resolve or Final Cut Pro? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>SmallRig Shoulder Rig Kit (Pro) vs. Classic – VCT-14 Baseplate, ARRI Rosette Arms, $419.99</title>
+  <link href="https://www.cined.com/smallrig-shoulder-rig-kit-pro-vs-classic-vct-14-baseplate-arri-rosette-arms-419-99/"/>
+  <id>https://www.cined.com/smallrig-shoulder-rig-kit-pro-vs-classic-vct-14-baseplate-arri-rosette-arms-419-99/</id>
+  <published>2026-10-21T10:34:27+00:00</published>
+  <updated>2026-10-21T10:34:27+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/SmallRig-Shoulder-Rig-Kit.jpeg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/SmallRig-Shoulder-Rig-Kit.jpeg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/SmallRig-Shoulder-Rig-Kit.jpeg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/SmallRig-Shoulder-Rig-Kit.jpeg</webfeeds:featuredImage>
+  <summary>SmallRig sells two shoulder rigs with almost the same name: the Shoulder Rig Kit (Pro) 4274B and the Shoulder Rig Kit (Classic Version) 4480B. One costs $419.99, the other $169.99, and they are built on different ideas. Here is what the extra $250 gets you, and what the Pro kit l</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SmallRig-Shoulder-Rig-Kit.jpeg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SmallRig-Shoulder-Rig-Kit-300x169.jpeg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;SmallRig sells two shoulder rigs with almost the same name: the Shoulder Rig Kit (Pro) 4274B and the Shoulder Rig Kit (Classic Version) 4480B. One costs $419.99, the other $169.99, and they are built on different ideas. Here is what the extra $250 gets you, and what the Pro kit leaves out of the box.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -1041,8 +1446,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you prefer a VCT-14 shoulder plate or a rod-based rig for your shoulder work? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>ARRI ALEXA 35 and ALEXA 265 SUP 6.2.0 Released – Full Focusbug Cine RT Integration, Shared Focus Marks, Depth of Field Ramping</title><link href="https://www.cined.com/arri-alexa-35-and-alexa-265-sup-6-2-0-released-full-focusbug-cine-rt-integration-shared-focus-marks-depth-of-field-ramping/"/><id>https://www.cined.com/arri-alexa-35-and-alexa-265-sup-6-2-0-released-full-focusbug-cine-rt-integration-shared-focus-marks-depth-of-field-ramping/</id><published>2026-10-20T14:59:31+00:00</published><updated>2026-10-20T14:59:31+00:00</updated><summary>ARRI has released Software Update Package 6.2.0 for the ALEXA 35, ALEXA 35 Xtreme, ALEXA 35 Live and ALEXA 265. The update connects the Focusbug Cine RT rangefinder directly to the camera’s SERIAL port, shares focus marks between camera and Hi-5 hand unit, and adds depth of field</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/ARRI-Firmware-Update-featured-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you prefer a VCT-14 shoulder plate or a rod-based rig for your shoulder work? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>ARRI ALEXA 35 and ALEXA 265 SUP 6.2.0 Released – Full Focusbug Cine RT Integration, Shared Focus Marks, Depth of Field Ramping</title>
+  <link href="https://www.cined.com/arri-alexa-35-and-alexa-265-sup-6-2-0-released-full-focusbug-cine-rt-integration-shared-focus-marks-depth-of-field-ramping/"/>
+  <id>https://www.cined.com/arri-alexa-35-and-alexa-265-sup-6-2-0-released-full-focusbug-cine-rt-integration-shared-focus-marks-depth-of-field-ramping/</id>
+  <published>2026-10-20T14:59:31+00:00</published>
+  <updated>2026-10-20T14:59:31+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/ARRI-Firmware-Update-featured.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/ARRI-Firmware-Update-featured.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/ARRI-Firmware-Update-featured.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/ARRI-Firmware-Update-featured.jpg</webfeeds:featuredImage>
+  <summary>ARRI has released Software Update Package 6.2.0 for the ALEXA 35, ALEXA 35 Xtreme, ALEXA 35 Live and ALEXA 265. The update connects the Focusbug Cine RT rangefinder directly to the camera’s SERIAL port, shares focus marks between camera and Hi-5 hand unit, and adds depth of field</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/ARRI-Firmware-Update-featured.jpg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/ARRI-Firmware-Update-featured-300x169.jpg" alt=""&gt;&lt;/p&gt;
 &lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;ARRI has released Software Update Package 6.2.0 for the ALEXA 35, ALEXA 35 Xtreme, ALEXA 35 Live and ALEXA 265. The update connects the Focusbug Cine RT rangefinder directly to the camera&amp;#8217;s SERIAL port, shares focus marks between camera and Hi-5 hand unit, and adds depth of field ramping for live productions.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -1095,8 +1513,21 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Will shared focus marks and direct Cine RT support change how your focus puller works with the ALEXA 35? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>Blackmagic Design Raises Prices on 36 Products – ATEM, 2110 IP Converters, and Cloud Store Hit by Memory Costs</title><link href="https://www.cined.com/blackmagic-design-raises-prices-on-36-products-atem-2110-ip-converters-and-cloud-store-hit-by-memory-costs/"/><id>https://www.cined.com/blackmagic-design-raises-prices-on-36-products-atem-2110-ip-converters-and-cloud-store-hit-by-memory-costs/</id><published>2026-10-20T11:36:43+00:00</published><updated>2026-10-20T11:36:43+00:00</updated><summary>Blackmagic Design has raised prices on 36 products, and the company names rising memory costs as the reason. The list covers ATEM switchers, SMPTE 2110 IP converters, DeckLink cards, HyperDeck recorders, and Cloud Store network storage, with increases from $20 to almost $7,000 pe</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase-300x169.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Will shared focus marks and direct Cine RT support change how your focus puller works with the ALEXA 35? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Blackmagic Design Raises Prices on 36 Products – ATEM, 2110 IP Converters, and Cloud Store Hit by Memory Costs</title>
+  <link href="https://www.cined.com/blackmagic-design-raises-prices-on-36-products-atem-2110-ip-converters-and-cloud-store-hit-by-memory-costs/"/>
+  <id>https://www.cined.com/blackmagic-design-raises-prices-on-36-products-atem-2110-ip-converters-and-cloud-store-hit-by-memory-costs/</id>
+  <published>2026-10-20T11:36:43+00:00</published>
+  <updated>2026-10-20T11:36:43+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg</webfeeds:featuredImage>
+  <summary>Blackmagic Design has raised prices on 36 products, and the company names rising memory costs as the reason. The list covers ATEM switchers, SMPTE 2110 IP converters, DeckLink cards, HyperDeck recorders, and Cloud Store network storage, with increases from $20 to almost $7,000 pe</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase-300x169.jpg" alt=""&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Blackmagic Design has raised prices on 36 products, and the company names rising memory costs as the reason. The list covers ATEM switchers, SMPTE 2110 IP converters, DeckLink cards, HyperDeck recorders, and Cloud Store network storage, with increases from $20 to almost $7,000 per product. Let&amp;#8217;s take a closer look at the most recent Blackmagic price increase.&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -1189,247 +1620,6 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;For many smaller studios, live streaming setups, and broadcast facilities that are moving to IP, these increases change the cost of planned upgrades. Do the new prices affect your plans for ATEM switchers, 2110 IP infrastructure, or Cloud Store storage? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>Blackmagic Design Cuts DaVinci Resolve Studio 21 by 20% – Panels and Editor Keyboards Also Discounted</title><link href="https://www.cined.com/blackmagic-design-cuts-davinci-resolve-studio-21-by-20-panels-and-editor-keyboards-also-discounted/"/><id>https://www.cined.com/blackmagic-design-cuts-davinci-resolve-studio-21-by-20-panels-and-editor-keyboards-also-discounted/</id><published>2026-10-20T09:19:53+00:00</published><updated>2026-10-20T09:19:53+00:00</updated><summary>Blackmagic Design has started a limited-time sale that takes 20% off DaVinci Resolve Studio 21. The company ties the offer to the AI tools in the paid version and to new Apple and NVIDIA processors. Six DaVinci Resolve control panels and editing keyboards are also part of the dea</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/855559732_1882813202885494_5519907763114793209_n.png-300x158.jpeg" alt=""&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Blackmagic Design has started a limited-time sale that takes 20% off DaVinci Resolve Studio 21. The company ties the offer to the AI tools in the paid version and to new Apple and NVIDIA processors. Six DaVinci Resolve control panels and editing keyboards are also part of the deal, so let&amp;#8217;s look at what the prices are and how long they last.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;According to Blackmagic Design, DaVinci Resolve Studio 21 drops from $295 to $239 on the product cards of its sale page and on the DaVinci Resolve product page. The announcement text on the same sale page gives the price as US$236, which is the exact 20% figure; the buy buttons show $239. The DaVinci Resolve Micro Color Panel, Mini Panel, Advanced Panel, Speed Editor, Replay Editor and Editor Keyboard all get the same 20% reduction. The offer is available now from Blackmagic Design resellers worldwide and runs until Friday, November 20, 2026. The discounted keyboards and panels are available only while stocks last.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;DaVinci Resolve 21 has been a major topic on CineD this year. We covered the &lt;a href="https://www.cined.com/davinci-resolve-21-announced-new-photo-page-eight-new-ai-tools-tethered-camera-controls-and-more/" target="_blank" rel="noopener"&gt;announcement of DaVinci Resolve 21&lt;/a&gt; with its new Photo page and eight new AI tools, went &lt;a href="https://www.cined.com/davinci-resolve-21-hands-on-at-nab-2026-photo-page-intellisearch-and-cinefocus-in-action/" target="_blank" rel="noopener"&gt;hands-on with IntelliSearch and CineFocus at NAB 2026&lt;/a&gt;, and reported on the &lt;a href="https://www.cined.com/davinci-resolve-21-final-release-now-available-new-photo-page-expanded-ai-toolset-krokodove-in-fusion-and-wide-raw-support/" target="_blank" rel="noopener"&gt;final release&lt;/a&gt; as well as the &lt;a href="https://www.cined.com/davinci-resolve-21-0-2-released-keyframe-fixes-retime-curve-improvements-and-better-fusion-vertical-transitions/" target="_blank" rel="noopener"&gt;21.0.2 update&lt;/a&gt;. The sale arrives on the same day that Blackmagic raised prices on 36 hardware products, following an &lt;a href="https://www.cined.com/memory-crunch-hits-blackmagic-design-ursa-cine-cloud-store-media-modules-and-atem-all-get-pricier/" target="_blank" rel="noopener"&gt;earlier round of price increases&lt;/a&gt; that the company also linked to memory costs.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-900x506.jpg" alt="" class="wp-image-444438" srcset="https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/DaVinci-Resolve-21-EDIT.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;DaVinci Resolve 21, Edit page. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What the Studio version adds&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Blackmagic positions the sale around AI. In its words, the offer lets users &amp;#8220;take full advantage of the massive AI performance gains on the new Apple M6 and NVIDIA RTX Spark processors&amp;#8221;, and DaVinci Resolve Studio &amp;#8220;includes powerful AI tools that are only available in DaVinci Resolve Studio&amp;#8221;. These performance gains are the company&amp;#8217;s claim; the sale page gives no figures to support them.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On the &lt;a href="https://www.blackmagicdesign.com/products/davinciresolve/studio" target="_blank" rel="noopener"&gt;DaVinci Resolve Studio page&lt;/a&gt;, Blackmagic lists the DaVinci Neural Engine features of the paid version. These include facial recognition, SuperScale, Speed Warp retiming, Magic Mask for object isolation and tracking, Smart Reframe, object removal, scene cut detection and UltraNR noise reduction. For audio, the list covers AI voice isolation, the music remixer and the dialogue separator. The sale page also names stereoscopic tools, additional Resolve FX filters and Fairlight FX audio plugins, and advanced HDR grading as Studio features. The promotional graphic at the top of the sale page highlights AI SuperScale and RelightFX.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The free version of DaVinci Resolve 21 remains available. For many editors and colorists, the decision to pay comes down to whether they need specific Studio-only tools, such as UltraNR, SuperScale or the HDR grading toolset, for their delivery requirements.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="492" src="https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-900x492.jpg" alt="" class="wp-image-444442" srcset="https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-900x492.jpg 900w, https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-300x164.jpg 300w, https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-768x420.jpg 768w, https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor-420x230.jpg 420w, https://www.cined.com/content/uploads/2026/10/1-davinci-resolve-speed-editor.jpg 1000w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Blackmagic Design DaVinci Resolve Speed Editor. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Panel and keyboard prices&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The hardware side of the sale covers six DaVinci Resolve control panels and editing keyboards. All prices are in US dollars, as shown on the Blackmagic sale page:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;DaVinci Resolve Speed Editor: $435, now $349&lt;/li&gt;
-
-
-
-&lt;li&gt;DaVinci Resolve Editor Keyboard: $669, now $535&lt;/li&gt;
-
-
-
-&lt;li&gt;DaVinci Resolve Replay Editor: $559, now $445&lt;/li&gt;
-
-
-
-&lt;li&gt;DaVinci Resolve Micro Color Panel: $559, now $449&lt;/li&gt;
-
-
-
-&lt;li&gt;DaVinci Resolve Mini Panel: $2,319, now $1,855&lt;/li&gt;
-
-
-
-&lt;li&gt;DaVinci Resolve Advanced Panel: $34,665, now $27,735&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Replay Editor and the Micro Color Panel share the same regular price of $559, but their sale prices differ by $4. In dollar terms, the largest saving is on the Advanced Panel, at $6,930. For most users, the Speed Editor and the Micro Color Panel are the most relevant entry points to hands-on editing and grading control.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Prices, regions and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Blackmagic states that its MSRP figures include import duties but exclude sales tax and shipping, so the final price will vary by country. The company does not publish euro or pound prices for the sale on its US page, and local reseller prices can differ from the US MSRP. Anyone who plans to buy should check the price at their preferred reseller before ordering.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;At the time of writing, only our European retail partner CVP seems to have updated their pricing to the reflect the deals, B&amp;amp;H not yet. But check back on this page and refresh to see the new prices displayed in the buy boxes below soon. Please consider buying gear through our affiliate links on CineD, which really helps us keeping the site running! This comes at no extra cost to you. Thank you!&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The full offer is on the &lt;a href="https://www.blackmagicdesign.com/event/davinci-resolve-special" target="_blank" rel="noopener"&gt;DaVinci Resolve Special page&lt;/a&gt;, and the software details are on the &lt;a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener"&gt;DaVinci Resolve product page&lt;/a&gt;. The sale runs until Friday, November 20, 2026.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Will this sale make you move from the free version of DaVinci Resolve to Studio, or add a Speed Editor or Micro Color Panel to your setup? Let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
-<entry><title>Camp Snap CS-8 and Aura6 Compared – Super 8-Inspired Digital Video Cameras, Screen-Free Design</title><link href="https://www.cined.com/camp-snap-cs-8-and-aura6-compared-super-8-inspired-digital-video-cameras-screen-free-design/"/><id>https://www.cined.com/camp-snap-cs-8-and-aura6-compared-super-8-inspired-digital-video-cameras-screen-free-design/</id><published>2026-10-20T07:44:15+00:00</published><updated>2026-10-20T07:44:15+00:00</updated><summary>Digital cameras that imitate the look and handling of 8mm film have moved from novelty to a visible product category. The Camp Snap CS-8 is already on sale and, according to its maker, selling in large numbers, while the Aura6 has just launched on Kickstarter with a stricter take</summary><content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-5-300x169.jpeg" alt=""&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Digital cameras that imitate the look and handling of 8mm film have moved from novelty to a visible product category. The Camp Snap CS-8 is already on sale and, according to its maker, selling in large numbers, while the Aura6 has just launched on Kickstarter with a stricter take on the same idea. Both cameras remove the playback screen and give up most settings in exchange for a baked-in film look. We compare the two and look at what they offer filmmakers who want that texture in their work.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The &lt;a href="https://www.campsnapphoto.com/products/cs8" target="_blank" rel="noopener"&gt;Camp Snap CS-8&lt;/a&gt; is a pistol-grip camcorder with a 1/2.7in sensor that Camp Snap describes as a &amp;#8220;2.7K video sensor&amp;#8221;, a fixed 3.29mm f/2.0 lens (25.7mm equivalent in full-frame terms), manual focus, an 8x digital zoom, and no playback screen. It records MP4 files to a full-size SD card, offers five in-camera looks (four at 30fps and an &amp;#8220;Analog&amp;#8221; mode at 18fps), and shoots in 16:9, 9:16, 1:1, or 4:3. The &lt;a href="https://aura6film.com/" target="_blank" rel="noopener"&gt;Aura6&lt;/a&gt;, from a team based in Lisbon, Portugal, records short clips at 18fps, places them in chronological order on a &amp;#8220;roll&amp;#8221;, and compiles each roll into a finished film when the user presses a &amp;#8220;New Roll&amp;#8221; button. It also has no playback screen. The CS-8 sells for $199, and the Aura6 is crowdfunding until November 12. Let&amp;#8217;s take a closer look.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-900x506.jpeg" alt="" class="wp-image-444327" srcset="https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-6.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Camp Snap CS-8 new colors. Credit: Camp Snap&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Is the market for 8mm-style cameras growing?&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The available evidence points to growth in a specific consumer segment, but most of it comes from the companies themselves or from crowdfunding, not from independent sales data. The strongest figure is Camp Snap&amp;#8217;s own: the company has told the press that the CS-8 generated around $20 million in sales over 11 months. Camp Snap has not published a unit count, and we could not find the figure in a primary company statement. The company has since raised the CS-8&amp;#8217;s price from a $149 launch offer to $199, and in just added three new colors (&amp;#8220;Espresso&amp;#8221;, &amp;#8220;Champagne&amp;#8221; and &amp;#8220;Rose&amp;#8221;) alongside the original black. B&amp;amp;H lists the CS-8 as in stock and labels it a &amp;#8220;Top Seller&amp;#8221;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Crowdfunding numbers show a similar direction on a smaller scale. At the time of writing, three days into its campaign, the Aura6 had collected $20K from around 100 backers against a $10K goal. Outside of video, the &lt;a href="https://rewindpix.com/?srsltid=AU7gw4WLRtZye2BUZpd7MapCE7f5qOltiqqjzznrn1jAgB3--MYfyj_e" target="_blank" rel="noreferrer noopener"&gt;Rewindpix&lt;/a&gt;, a screen-free digital still camera with a &amp;#8220;Film Mode&amp;#8221; of 36-shot rolls, passed its Kickstarter goal by more than $870,000 in April. Camp Snap itself started with a screen-free still camera for children at summer camp, according to the company&amp;#8217;s founders, and the CS-8 is its move into video.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Comparing apples to oranges, the demand for the real (film) format is also visible. Kodak&amp;#8217;s own &lt;a href="https://www.kodak.com/en/motion/product/super-8/super-8-camera/" target="_blank" rel="noreferrer noopener"&gt;Super 8 camera&lt;/a&gt; exists as a premium product at $5.5K, and Kodak&amp;#8217;s film business &lt;a href="https://www.cined.com/kodak-posts-a-fourth-straight-quarter-of-growth-and-film-is-doing-the-heavy-lifting/" target="_blank" rel="noreferrer noopener"&gt;has grown over the last year&lt;/a&gt;. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;So based on everything we can see, the category of Super8-style digital cameras seems to be really growing &amp;#8211; both &amp;#8220;real&amp;#8221; film cameras as well as digital cameras that mimic the look and feel of both the cameras and the footage.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-900x506.jpeg" alt="" class="wp-image-444331" srcset="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Camp Snap CS-8. Credit: Camp Snap&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Camp Snap CS-8: a camcorder without a playback screen&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The &lt;a href="https://www.campsnapphoto.com/products/cs8?srsltid=AU7gw4VsxEcwaoxtqTcs1kGK6IpFENNwQudjfVAgKC34QlXobYGLFw2e" target="_blank" rel="noreferrer noopener"&gt;CS-8 &lt;/a&gt;copies the layout of a 1970s Super 8 camera: a pistol grip with a trigger, a top handle, and two analog needle meters that show battery charge and card space. Each pull of the trigger records a new clip as a separate MP4 file. There is an electronic viewfinder for framing, but no way to watch or delete footage in the camera. Camp Snap says there are &amp;#8220;no menus, no settings, no app&amp;#8221;. The looks are selected with a dial and are recorded into the file, so they cannot be removed later.&lt;/p&gt;
-
-
-&lt;!-- wp:embed/video --&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-&lt;iframe title="CS8 Version 2.0.0 Free firmware update" width="500" height="281" src="https://www.youtube-nocookie.com/embed/hXRghre6Ym4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/figure&gt;
-&lt;!-- /wp:embed/video --&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Camp Snap describes the five modes as follows. STD is a neutral look at 30fps. VTG 1 gives &amp;#8220;soft, faded colors&amp;#8221; at 30fps, and VTG 2 gives &amp;#8220;warm, nostalgic tones&amp;#8221; at 30fps. B&amp;amp;W is monochrome at 30fps. ANA (Analog) is described as &amp;#8220;textured and imperfect, like true 8mm film&amp;#8221; and is the only mode that records at 18fps. A &lt;a href="https://www.campsnapphoto.com/blogs/updates/cs8-filter-update?srsltid=AU7gw4Wv8ZM5HTNBxrGwldoc5oeWIONl62LhzNNDTSTAj8ave2vTbS_j" target="_blank" rel="noreferrer noopener"&gt;firmware update&lt;/a&gt; to version 2.0.0, published just a few days ago, changes the look of the Vintage 2, B&amp;amp;W, and Analog modes, with what Camp Snap calls &amp;#8220;softer edges, enhanced vintage artifacts, &amp;amp; even more film-like character&amp;#8221;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The camera ships with a 4GB SD card (yep, they still exist &amp;#8230;?), which Camp Snap says holds around 30 minutes of footage, and accepts cards up to 128GB. The battery is internal and charges via USB-C. Camp Snap does not publish its capacity or a runtime figure. B&amp;amp;H lists the weight as 513g (1.13lb), and Camp Snap lists the dimensions as 22.2 x 21.0 x 7.0cm (8.75 x 8.25 x 2.75in). The camera has a built-in microphone, a 1/4&amp;#8243;-20 tripod thread, and a cold shoe. Camp Snap states that all orders placed after November 7 include a microphone jack and the cold shoe, so we wonder why anyone might order earlier. Camp Snap does not list the recording resolution as a specification.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-4-3 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-&lt;iframe title="KICKSTARTER FINAL VIDEO" src="https://player.vimeo.com/video/1234803632?dnt=1&amp;amp;app_id=122963" width="500" height="375" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin"&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Aura6: short clips and finished rolls&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Aura6 builds its concept around limits. Footage is recorded at 18fps, and each roll holds up to three minutes, which the campaign page compares to &amp;#8220;classic Super 8 film&amp;#8221;. The camera was first presented with a fixed limit of six seconds per clip. According to the updated Kickstarter page, the six-second limit is now optional, so users can choose between short fixed-length clips and longer takes within the three-minute roll. Aura6&amp;#8217;s own website still describes the six-second limit. Every clip goes into the current roll in the order it was shot. When the user presses &amp;#8220;New Roll&amp;#8221;, the camera compiles the clips into one film, which is then transferred by cable to a phone or computer. The company&amp;#8217;s website describes the result as &amp;#8220;one chronological digital film&amp;#8221; and the concept as &amp;#8220;Not a feed. Not a library. A story told in moments.&amp;#8221;&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-900x506.jpeg" alt="" class="wp-image-444335" srcset="https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Untitled-September-28-2026-at-11.39.09-12.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Aura6&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The camera has a record button, an electronic viewfinder, a built-in lens, and a detachable microphone. It has no playback screen, no settings menu, and no recording modes. According to the campaign coverage, the footage is in a 4:3 aspect ratio. Aura6 has not yet published the sensor size, resolution, codec, storage, battery, weight or dimensions, and the footage on its website is labeled as &amp;#8220;Prototype&amp;#8221;. The company also does not explain how the film look is produced. It only says that the camera &amp;#8220;captures short clips with the grain, colours and imperfections of old film&amp;#8221;.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-900x506.jpeg" alt="" class="wp-image-444339" srcset="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-7.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Camp Snap&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Where the two cameras differ&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Both cameras remove the screen and treat the film look as part of the capture, not as a step in post. The difference is in how much control each one keeps. The CS-8 lets the user decide clip length, choose between five looks, select four aspect ratios, and record at 30fps for most modes. It produces a folder of separate clips that can go into any editor. The Aura6 fixes the frame rate at 18fps and the aspect ratio at 4:3, and it delivers a finished, ordered film by default.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The &lt;a href="https://www.campsnapphoto.com/products/cs8?srsltid=AU7gw4VsxEcwaoxtqTcs1kGK6IpFENNwQudjfVAgKC34QlXobYGLFw2e" target="_blank" rel="noreferrer noopener"&gt;CS-8 is a shipping product&lt;/a&gt; with published specifications and a retail price. The Aura6 is a &lt;a href="https://www.kickstarter.com/projects/1122232469/aura6-the-super-8-inspired-digital-video-camera?ref=eyg85i" target="_blank" rel="noreferrer noopener"&gt;crowdfunded prototype&lt;/a&gt; with a short list of confirmed details, and its feature set may change before it ships.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-900x506.jpeg" alt="" class="wp-image-444343" srcset="https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-3.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: Camp Snap&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What do they offer the creative filmmaker?&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Many of us filmmakers might treat those cameras as toys, while others who just want fun and ease of use might see those products as tools they&amp;#8217;re willing to explore. The main use of these cameras is as kind of a &amp;#8220;texture source&amp;#8221;. Music videos, short documentaries, travel pieces and title sequences often cut in material with a home-movie character, and a $199 camera that produces that character directly is a low-cost way to get it (with no or less need to post process the clips). The CS-8&amp;#8217;s 18fps Analog mode and the Aura6&amp;#8217;s fixed 18fps rate both reproduce the cadence of Super 8. The screen-free design also changes how people behave in front of the camera, which matters in documentary or behind-the-scenes work where a phone or cinema camera can make subjects self-conscious.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The trade-off is control. The looks are baked into the file; there is no log or flat profile, and the 1/2.7in sensor and small fixed lens limit detail, low-light performance, and depth of field.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The CS-8 suits the filmmaker who wants a home-movie source for short inserts and accepts the image quality that comes with it. The Aura6 suits the creator who sees the limits themselves as the point: no screen to check, no menus to adjust, and no edit to make.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Yet of course, if you want this look &amp;#8220;professionally&amp;#8221;, you might as well go straight to a pro camera and use post production to achieve similar effects with more control, or simply shoot on real Super8 film to have the &lt;em&gt;real&lt;/em&gt; effect. That would leave both the CS-8 and Aura6 to be fun toys to create in your spare time, not really to be used for professional productions.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Current limitations&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Camp Snap does not publish the CS-8&amp;#8217;s recording resolution, bitrate, battery capacity or runtime. The microphone jack and cold shoe apply to orders placed after November 7, so earlier units may differ. Camp Snap&amp;#8217;s product page shows the CS-8 as available to pre-order in the new colors, with shipping at the end of October.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For the Aura6, the main specifications are not yet published; the footage shown is from a prototype, and the method used to create the film look is not described. Retail pricing and delivery dates have not been announced.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Camp Snap CS-8 is available now for &lt;a href="https://www.bhphotovideo.com/c/product/1955421-REG/camp_snap_cs_8_digital_video_camera.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$199&lt;/a&gt; in black, with Espresso, Champagne, and Rose versions available to pre-order from Camp Snap. Optional accessories include a microphone and a carrying case at $19.99 each. For more information, please visit the &lt;a href="https://www.campsnapphoto.com/products/cs8" target="_blank" rel="noopener"&gt;Camp Snap website&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Aura6 &lt;a href="https://www.kickstarter.com/projects/1122232469/aura6-the-super-8-inspired-digital-video-camera" target="_blank" rel="noopener"&gt;Kickstarter campaign&lt;/a&gt; runs until November 12, 2026. Pledge levels are listed on the campaign page, and Aura6 has not announced a retail price or delivery date. For more information, please visit the &lt;a href="https://aura6film.com/" target="_blank" rel="noopener"&gt;Aura6 website&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Please note: backing a crowdfunding campaign is not the same as buying a product. CineD has no affiliation with the campaign, and we cannot guarantee that the product will ship or that it will match the specifications described. Please do your own research before backing any crowdfunding project.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would a screen-free camera with a small sensor and baked-in Super 8 look have a place in your projects, or do you prefer to create that texture in post? &lt;/strong&gt;L&lt;strong&gt;et us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content></entry>
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;For many smaller studios, live streaming setups, and broadcast facilities that are moving to IP, these increases change the cost of planned upgrades. Do the new prices affect your plans for ATEM switchers, 2110 IP infrastructure, or Cloud Store storage? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
 </feed>

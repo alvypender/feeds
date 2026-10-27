@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>RedShark News – Completo</title>
 <link href="https://www.redsharknews.com/"/>
 <id>https://www.redsharknews.com/</id>
 <updated>2026-10-27T08:04:39+00:00</updated>
-<entry><title>DaVinci Resolve 21.1.2: new features and fixes</title><link href="https://www.redsharknews.com/davinci-resolve-21-1-2-whats-new"/><id>https://www.redsharknews.com/davinci-resolve-21-1-2-whats-new</id><published>2026-10-27T08:04:39+00:00</published><updated>2026-10-27T08:04:39+00:00</updated><summary>2 minute read DaVinci Resolve 21.1.2: new features and fixes 3:07 Blackmagic has improved timeline edit point selection and made OGraf playback up to 4x faster in DaVinci Resolve 21.1.2. Studio also speeds up IntelliSearch on Apple M6. Blackmagic has released DaVinci Resolve 21.1</summary><content type="html">&lt;img style="
+<entry>
+  <title>DaVinci Resolve 21.1.2: new features and fixes</title>
+  <link href="https://www.redsharknews.com/davinci-resolve-21-1-2-whats-new"/>
+  <id>https://www.redsharknews.com/davinci-resolve-21-1-2-whats-new</id>
+  <published>2026-10-27T08:04:39+00:00</published>
+  <updated>2026-10-27T08:04:39+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/davinci%20resolve%2021.1.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/davinci%20resolve%2021.1.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/davinci%20resolve%2021.1.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/davinci%20resolve%2021.1.jpg</webfeeds:featuredImage>
+  <summary>2 minute read DaVinci Resolve 21.1.2: new features and fixes 3:07 Blackmagic has improved timeline edit point selection and made OGraf playback up to 4x faster in DaVinci Resolve 21.1.2. Studio also speeds up IntelliSearch on Apple M6. Blackmagic has released DaVinci Resolve 21.1</summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #F25151;
@@ -143,8 +154,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>instax mini Evo 2: price, specs, release date</title><link href="https://www.redsharknews.com/fujifilm-instax-mini-evo-2-price-specs-release-date"/><id>https://www.redsharknews.com/fujifilm-instax-mini-evo-2-price-specs-release-date</id><published>2026-10-27T07:07:41+00:00</published><updated>2026-10-27T07:07:41+00:00</updated><summary>2 minute read instax mini Evo 2: price, specs, release date 3:29 The instax mini Evo 2 adds a 4.5-inch touchscreen, a larger sensor, and a wider 21mm lens. It arrives in late November at $289. With its instax line allowing Fujifilm to make money hand over fist at the moment, the </summary><content type="html">&lt;img style="
+&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>instax mini Evo 2: price, specs, release date</title>
+  <link href="https://www.redsharknews.com/fujifilm-instax-mini-evo-2-price-specs-release-date"/>
+  <id>https://www.redsharknews.com/fujifilm-instax-mini-evo-2-price-specs-release-date</id>
+  <published>2026-10-27T07:07:41+00:00</published>
+  <updated>2026-10-27T07:07:41+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/instax%20mini%20Evo%202.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/instax%20mini%20Evo%202.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/instax%20mini%20Evo%202.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/instax%20mini%20Evo%202.jpg</webfeeds:featuredImage>
+  <summary>2 minute read instax mini Evo 2: price, specs, release date 3:29 The instax mini Evo 2 adds a 4.5-inch touchscreen, a larger sensor, and a wider 21mm lens. It arrives in late November at $289. With its instax line allowing Fujifilm to make money hand over fist at the moment, the </summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #CF0005;
@@ -231,8 +254,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>Apple iPad mini A20 Pro: specs, price, release</title><link href="https://www.redsharknews.com/apple-ipad-mini-a20-pro-oled-specs-price"/><id>https://www.redsharknews.com/apple-ipad-mini-a20-pro-oled-specs-price</id><published>2026-10-26T16:28:46+00:00</published><updated>2026-10-26T16:28:46+00:00</updated><summary>2 minute read Apple iPad mini A20 Pro: specs, price, release 3:41 Apple has announced the OLED iPad mini with an A20 Pro chip and IP67 rating. It starts at $699 and arrives November 6. Earlier today, the first signs arrived that Apple would announce its new touchscreen MacBooks a</summary><content type="html">&lt;img style="
+&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Apple iPad mini A20 Pro: specs, price, release</title>
+  <link href="https://www.redsharknews.com/apple-ipad-mini-a20-pro-oled-specs-price"/>
+  <id>https://www.redsharknews.com/apple-ipad-mini-a20-pro-oled-specs-price</id>
+  <published>2026-10-26T16:28:46+00:00</published>
+  <updated>2026-10-26T16:28:46+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/Apple-iPad-mini-hero-261026.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/Apple-iPad-mini-hero-261026.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/Apple-iPad-mini-hero-261026.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/Apple-iPad-mini-hero-261026.jpg</webfeeds:featuredImage>
+  <summary>2 minute read Apple iPad mini A20 Pro: specs, price, release 3:41 Apple has announced the OLED iPad mini with an A20 Pro chip and IP67 rating. It starts at $699 and arrives November 6. Earlier today, the first signs arrived that Apple would announce its new touchscreen MacBooks a</summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #009DB1;
@@ -317,8 +352,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>iPhone Duo screen cracks: what iFixit found</title><link href="https://www.redsharknews.com/iphone-duo-screen-cracks-ifixit-teardown"/><id>https://www.redsharknews.com/iphone-duo-screen-cracks-ifixit-teardown</id><published>2026-10-26T09:05:54+00:00</published><updated>2026-10-26T09:05:54+00:00</updated><summary>2 minute read iPhone Duo screen cracks: what iFixit found 3:09 iFixit's teardown suggests the iPhone Duo's hinge center support bar may be behind its cracked inner screens. Apple is reportedly replacing affected phones. iFixit has torn down the iPhone Duo and given it a provision</summary><content type="html">&lt;img style="
+&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>iPhone Duo screen cracks: what iFixit found</title>
+  <link href="https://www.redsharknews.com/iphone-duo-screen-cracks-ifixit-teardown"/>
+  <id>https://www.redsharknews.com/iphone-duo-screen-cracks-ifixit-teardown</id>
+  <published>2026-10-26T09:05:54+00:00</published>
+  <updated>2026-10-26T09:05:54+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/iphone%20duo%20crack.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/iphone%20duo%20crack.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/iphone%20duo%20crack.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/iphone%20duo%20crack.jpg</webfeeds:featuredImage>
+  <summary>2 minute read iPhone Duo screen cracks: what iFixit found 3:09 iFixit's teardown suggests the iPhone Duo's hinge center support bar may be behind its cracked inner screens. Apple is reportedly replacing affected phones. iFixit has torn down the iPhone Duo and given it a provision</summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #009DB1;
@@ -405,8 +452,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>CIPA August 2026: camera and lens shipments</title><link href="https://www.redsharknews.com/cipa-camera-shipments-august-2026"/><id>https://www.redsharknews.com/cipa-camera-shipments-august-2026</id><published>2026-10-26T06:59:46+00:00</published><updated>2026-10-26T06:59:46+00:00</updated><summary>2 minute read CIPA August 2026: camera and lens shipments 3:10 CIPA data shows camera makers shipped 3.2% fewer cameras from January to August, but shipped value rose 3.7% as prices rise. Full-frame fell almost 20% while compacts grew 15%. Japanese camera industry trade body CIPA</summary><content type="html">&lt;img style="
+&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>CIPA August 2026: camera and lens shipments</title>
+  <link href="https://www.redsharknews.com/cipa-camera-shipments-august-2026"/>
+  <id>https://www.redsharknews.com/cipa-camera-shipments-august-2026</id>
+  <published>2026-10-26T06:59:46+00:00</published>
+  <updated>2026-10-26T06:59:46+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/camera%20shot%20window.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/camera%20shot%20window.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/camera%20shot%20window.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/camera%20shot%20window.jpg</webfeeds:featuredImage>
+  <summary>2 minute read CIPA August 2026: camera and lens shipments 3:10 CIPA data shows camera makers shipped 3.2% fewer cameras from January to August, but shipped value rose 3.7% as prices rise. Full-frame fell almost 20% while compacts grew 15%. Japanese camera industry trade body CIPA</summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #CF0005;
@@ -488,8 +547,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>Adobe BWT Alpine F1 partnership: AI fan experience</title><link href="https://www.redsharknews.com/adobe-bwt-alpine-f1-ai-fan-experience-partnership"/><id>https://www.redsharknews.com/adobe-bwt-alpine-f1-ai-fan-experience-partnership</id><published>2026-10-25T06:00:00+00:00</published><updated>2026-10-25T06:00:00+00:00</updated><summary>2 minute read Adobe BWT Alpine F1 partnership: AI fan experience 2:34 Adobe will become BWT Alpine Formula One Team's Official AI Fan Experience Partner next season in a deal that covers content creation, fan data, AI search visibility, and design tools. We’ve already written abo</summary><content type="html">&lt;img style="
+&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Adobe BWT Alpine F1 partnership: AI fan experience</title>
+  <link href="https://www.redsharknews.com/adobe-bwt-alpine-f1-ai-fan-experience-partnership"/>
+  <id>https://www.redsharknews.com/adobe-bwt-alpine-f1-ai-fan-experience-partnership</id>
+  <published>2026-10-25T06:00:00+00:00</published>
+  <updated>2026-10-25T06:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/adobe%20f1.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/adobe%20f1.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/adobe%20f1.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/adobe%20f1.jpg</webfeeds:featuredImage>
+  <summary>2 minute read Adobe BWT Alpine F1 partnership: AI fan experience 2:34 Adobe will become BWT Alpine Formula One Team's Official AI Fan Experience Partner next season in a deal that covers content creation, fan data, AI search visibility, and design tools. We’ve already written abo</summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #F25151;
@@ -569,8 +640,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>GoPro Mission 1 close-up filters: price, specs</title><link href="https://www.redsharknews.com/gopro-mission-1-close-up-filters-polarpro"/><id>https://www.redsharknews.com/gopro-mission-1-close-up-filters-polarpro</id><published>2026-10-24T06:00:00+00:00</published><updated>2026-10-24T06:00:00+00:00</updated><summary>1 minute read GoPro Mission 1 close-up filters: price, specs 2:32 GoPro and PolarPro's Mission 1 diopters cost $49.99 for one or $99.99 for a set. The +2 cuts minimum focus to 30 cm (11.8 in). GoPro has officially announced three new close-focus diopters, made by PolarPro from op</summary><content type="html">&lt;img style="
+&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>GoPro Mission 1 close-up filters: price, specs</title>
+  <link href="https://www.redsharknews.com/gopro-mission-1-close-up-filters-polarpro"/>
+  <id>https://www.redsharknews.com/gopro-mission-1-close-up-filters-polarpro</id>
+  <published>2026-10-24T06:00:00+00:00</published>
+  <updated>2026-10-24T06:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/gopro%20misison%201%20diopter.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/gopro%20misison%201%20diopter.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/gopro%20misison%201%20diopter.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/gopro%20misison%201%20diopter.jpg</webfeeds:featuredImage>
+  <summary>1 minute read GoPro Mission 1 close-up filters: price, specs 2:32 GoPro and PolarPro's Mission 1 diopters cost $49.99 for one or $99.99 for a set. The +2 cuts minimum focus to 30 cm (11.8 in). GoPro has officially announced three new close-focus diopters, made by PolarPro from op</summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #CF0005;
@@ -651,8 +734,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>Sigma FP2: price, specs, and release date</title><link href="https://www.redsharknews.com/sigma-fp2-camera-price-specs-release"/><id>https://www.redsharknews.com/sigma-fp2-camera-price-specs-release</id><published>2026-10-23T09:17:30+00:00</published><updated>2026-10-23T09:17:30+00:00</updated><summary>3 minute read Sigma FP2: price, specs, and release date 4:49 The Sigma FP2 costs $2199 body-only and arrives November 11. It has a 24.5-megapixel sensor, records 6K OpenGate, but the internal EVF rumors were wide of the mark. Sigma’s much-anticipated FP2 L-Mount full-frame camera</summary><content type="html">&lt;img style="
+&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Sigma FP2: price, specs, and release date</title>
+  <link href="https://www.redsharknews.com/sigma-fp2-camera-price-specs-release"/>
+  <id>https://www.redsharknews.com/sigma-fp2-camera-price-specs-release</id>
+  <published>2026-10-23T09:17:30+00:00</published>
+  <updated>2026-10-23T09:17:30+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/sigma%20fp2.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/sigma%20fp2.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/sigma%20fp2.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/sigma%20fp2.jpg</webfeeds:featuredImage>
+  <summary>3 minute read Sigma FP2: price, specs, and release date 4:49 The Sigma FP2 costs $2199 body-only and arrives November 11. It has a 24.5-megapixel sensor, records 6K OpenGate, but the internal EVF rumors were wide of the mark. Sigma’s much-anticipated FP2 L-Mount full-frame camera</summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #FF9900;
@@ -737,8 +832,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>OPPO Find X10 Pro Max: specs, price, and cameras</title><link href="https://www.redsharknews.com/oppo-find-x10-pro-max-camera-video-specs-price"/><id>https://www.redsharknews.com/oppo-find-x10-pro-max-camera-video-specs-price</id><published>2026-10-23T05:31:29+00:00</published><updated>2026-10-23T05:31:29+00:00</updated><summary>3 minute read OPPO Find X10 Pro Max: specs, price, and cameras 5:31 The new OPPO Find X10 raises the bar for smartphone photography to an impressive level with up to three 200 MP rear-facing cameras, 17 stops, Open Gate, and a screen with 3600 nits peak brightness. Another week, </summary><content type="html">&lt;img style="
+&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>OPPO Find X10 Pro Max: specs, price, and cameras</title>
+  <link href="https://www.redsharknews.com/oppo-find-x10-pro-max-camera-video-specs-price"/>
+  <id>https://www.redsharknews.com/oppo-find-x10-pro-max-camera-video-specs-price</id>
+  <published>2026-10-23T05:31:29+00:00</published>
+  <updated>2026-10-23T05:31:29+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/Find%20X10%20series%20cameras.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/Find%20X10%20series%20cameras.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/Find%20X10%20series%20cameras.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/Find%20X10%20series%20cameras.jpg</webfeeds:featuredImage>
+  <summary>3 minute read OPPO Find X10 Pro Max: specs, price, and cameras 5:31 The new OPPO Find X10 raises the bar for smartphone photography to an impressive level with up to three 200 MP rear-facing cameras, 17 stops, Open Gate, and a screen with 3600 nits peak brightness. Another week, </summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #CF0005;
@@ -831,8 +938,20 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>Insta360 Mic: price, specs, and availability</title><link href="https://www.redsharknews.com/insta360-mic-wireless-microphone-price-specs"/><id>https://www.redsharknews.com/insta360-mic-wireless-microphone-price-specs</id><published>2026-10-22T13:00:03+00:00</published><updated>2026-10-22T13:00:03+00:00</updated><summary>2 minute read Insta360 Mic: price, specs, and availability 5:02 The new Insta360 Mic sits between the Mic Pro and Mic Air. Expandable storage allows optional 32-bit float internal recording, it features the Mic Pro's customizable E-Ink display, and prices start at $79.99. Insta36</summary><content type="html">&lt;img style="
+&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Insta360 Mic: price, specs, and availability</title>
+  <link href="https://www.redsharknews.com/insta360-mic-wireless-microphone-price-specs"/>
+  <id>https://www.redsharknews.com/insta360-mic-wireless-microphone-price-specs</id>
+  <published>2026-10-22T13:00:03+00:00</published>
+  <updated>2026-10-22T13:00:03+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/insta360%20mic%202.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/insta360%20mic%202.jpg" medium="image"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/insta360%20mic%202.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/insta360%20mic%202.jpg</webfeeds:featuredImage>
+  <summary>2 minute read Insta360 Mic: price, specs, and availability 5:02 The new Insta360 Mic sits between the Mic Pro and Mic Air. Expandable storage allows optional 32-bit float internal recording, it features the Mic Pro's customizable E-Ink display, and prices start at $79.99. Insta36</summary>
+  <content type="html">&lt;img style="
 
  
 	border-bottom: 16px solid #9B26AF;
@@ -1156,5 +1275,6 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content></entry>
+&lt;/div&gt;</content>
+</entry>
 </feed>
