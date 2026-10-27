@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>Rest of World (Completo)</title>
 <link href="https://restofworld.org/"/>
 <id>https://restofworld.org/</id>
 <updated>2026-10-26T10:00:22+00:00</updated>
-<entry><title>AI models cost more when you don’t use English</title><link href="https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/"/><id>https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/</id><published>2026-10-26T10:00:22+00:00</published><updated>2026-10-26T10:00:22+00:00</updated><summary>Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png" alt="AI models cost more when you don’t use English" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+<entry>
+  <title>AI models cost more when you don’t use English</title>
+  <link href="https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/"/>
+  <id>https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/</id>
+  <published>2026-10-26T10:00:22+00:00</published>
+  <updated>2026-10-26T10:00:22+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png</webfeeds:featuredImage>
+  <summary>Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png" alt="AI models cost more when you don’t use English" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Ananya Bhattacharya&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;People who use less widely spoken languages could end up paying more to use artificial intelligence than those who speak English or other dominant languages.&lt;/p&gt;
@@ -92,8 +103,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;“Perfect equality may be unrealistic. Large, persistent disparities should still require an explanation and an improvement plan,” he said. “I would ask every major lab to publish a language-by-language scorecard showing what it costs to complete comparable tasks successfully, and commit to measurable improvements for its worst-served languages.”&lt;/p&gt;</content></entry>
-<entry><title>Big Tech’s thirst for water is sparking a global resistance</title><link href="https://restofworld.org/2026/ai-datacenters-water-resistance-global/"/><id>https://restofworld.org/2026/ai-datacenters-water-resistance-global/</id><published>2026-10-22T10:00:00+00:00</published><updated>2026-10-22T10:00:00+00:00</updated><summary>In his new book “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires,” writer Paris Marx examines how local communities are resisting the growing demand for water to cool data centers.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg" alt="Big Tech’s thirst for water is sparking a global resistance" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;“Perfect equality may be unrealistic. Large, persistent disparities should still require an explanation and an improvement plan,” he said. “I would ask every major lab to publish a language-by-language scorecard showing what it costs to complete comparable tasks successfully, and commit to measurable improvements for its worst-served languages.”&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Big Tech’s thirst for water is sparking a global resistance</title>
+  <link href="https://restofworld.org/2026/ai-datacenters-water-resistance-global/"/>
+  <id>https://restofworld.org/2026/ai-datacenters-water-resistance-global/</id>
+  <published>2026-10-22T10:00:00+00:00</published>
+  <updated>2026-10-22T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg</webfeeds:featuredImage>
+  <summary>In his new book “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires,” writer Paris Marx examines how local communities are resisting the growing demand for water to cool data centers.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg" alt="Big Tech’s thirst for water is sparking a global resistance" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Paris Marx&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;In his new book “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires,” writer Paris Marx examines how local communities are resisting the growing demand for water to cool data centers.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;After ChatGPT was released in November 2022, the tech industry was quick to herald the chatbot as the marker of a new wave of technological progress. As companies pushed to create more powerful AI models, the water demand of their ambitions took a while to become clear. In April 2023, a &lt;a href="https://arxiv.org/abs/2304.03271"&gt;research paper&lt;/a&gt; out of the University of California estimated that training the large language model behind the initial version of ChatGPT had required 185,000 gallons of water. For every extended conversation someone had with the chatbot or every time they asked it to write an email, they were effectively pouring a bottle of water down the drain.&lt;/p&gt;
@@ -208,8 +231,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Adapted from “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires” by Paris Marx published by Riverhead Books, an imprint of Penguin Random House © 2026 by Paris Marx, and reprinted with permission.&lt;/em&gt;&lt;/p&gt;</content></entry>
-<entry><title>Will developing nations be able to handle millions of AI agents?</title><link href="https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/"/><id>https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/</id><published>2026-10-19T10:00:00+00:00</published><updated>2026-10-19T10:00:00+00:00</updated><summary>It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_qgents_swarm_sketch_v3.jpg" alt="Will developing nations be able to handle millions of AI agents?" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Adapted from “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires” by Paris Marx published by Riverhead Books, an imprint of Penguin Random House © 2026 by Paris Marx, and reprinted with permission.&lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Will developing nations be able to handle millions of AI agents?</title>
+  <link href="https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/"/>
+  <id>https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/</id>
+  <published>2026-10-19T10:00:00+00:00</published>
+  <updated>2026-10-19T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/illo_qgents_swarm_sketch_v3.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/illo_qgents_swarm_sketch_v3.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/illo_qgents_swarm_sketch_v3.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/illo_qgents_swarm_sketch_v3.jpg</webfeeds:featuredImage>
+  <summary>It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_qgents_swarm_sketch_v3.jpg" alt="Will developing nations be able to handle millions of AI agents?" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Danai Nesta Kupemba&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;Big Tech’s newest personal agents — Meta’s Muse and OpenAI’s Dots — promise to book tables at restaurants, buy groceries, and carry out other types of digital grunt work for users.&lt;/p&gt;
@@ -324,8 +359,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;In cases where agents are developed and hosted outside the country, regulators may be unable to supervise the systems, said King’ori.&lt;/p&gt;</content></entry>
-<entry><title>Western open-weight models still can’t beat China</title><link href="https://restofworld.org/2026/china-open-weight-models/"/><id>https://restofworld.org/2026/china-open-weight-models/</id><published>2026-10-16T10:00:00+00:00</published><updated>2026-10-16T10:00:00+00:00</updated><summary>Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg" alt="Western open-weight models still can’t beat China" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;In cases where agents are developed and hosted outside the country, regulators may be unable to supervise the systems, said King’ori.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Western open-weight models still can’t beat China</title>
+  <link href="https://restofworld.org/2026/china-open-weight-models/"/>
+  <id>https://restofworld.org/2026/china-open-weight-models/</id>
+  <published>2026-10-16T10:00:00+00:00</published>
+  <updated>2026-10-16T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg</webfeeds:featuredImage>
+  <summary>Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg" alt="Western open-weight models still can’t beat China" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Rina Chandran&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;A slew of new open-weight artificial intelligence models from American and European companies aim to convert users of Chinese open models who are concerned about security, but fall short of the dominant Chinese systems on performance despite having greater resources, experts said at a &lt;em&gt;Rest of World&lt;/em&gt; event in San Francisco.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
@@ -399,8 +446,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;For the government, enabling Chinese open models to thrive locally and globally is critical. “Strategically, it makes a lot of sense for them to win hearts and minds, win markets,” Loke said.&lt;/p&gt;</content></entry>
-<entry><title>What the West can learn from AI optimists in the rest of the world</title><link href="https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/"/><id>https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/</id><published>2026-10-15T10:00:00+00:00</published><updated>2026-10-15T10:00:00+00:00</updated><summary>The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg" alt="What the West can learn from AI optimists in the rest of the world" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;For the government, enabling Chinese open models to thrive locally and globally is critical. “Strategically, it makes a lot of sense for them to win hearts and minds, win markets,” Loke said.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>What the West can learn from AI optimists in the rest of the world</title>
+  <link href="https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/"/>
+  <id>https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/</id>
+  <published>2026-10-15T10:00:00+00:00</published>
+  <updated>2026-10-15T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg</webfeeds:featuredImage>
+  <summary>The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg" alt="What the West can learn from AI optimists in the rest of the world" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Payal Arora&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;On a recent Sunday afternoon, I was invited to debate AI’s impact on the cultural sector alongside Dutch politicians and creative-industry leaders. I was the lone optimist, arguing that if fear and risk become our primary lens for governing artificial intelligence, we will design systems around what we want to prevent rather than what we want to use them for. Then I said something that was harder for the room to hear: The Global South is home to some of AI’s &lt;a href="https://restofworld.org/2026/global-workers-using-ai-at-work/"&gt;most enthusiastic&lt;/a&gt; and inventive users, and their experiments could help us rethink our own institutions.&amp;nbsp;&lt;/p&gt;
@@ -469,8 +528,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;If the most powerful builders keep designing for market share while the world’s most resource-constrained builders design for survival and self-actualization, the templates that spread globally for governance, infrastructure, and who gets to participate may increasingly come from wherever necessity did the inventing. The West is warning the world about what AI might do to us. Perhaps it is time to ask what the rest of the world might teach us to do with it.&lt;/p&gt;</content></entry>
-<entry><title>BYD expands EV shipping fleet as wars upend freight costs and key trade routes</title><link href="https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/"/><id>https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/</id><published>2026-10-14T10:00:00+00:00</published><updated>2026-10-14T10:00:00+00:00</updated><summary>China’s EV giant says a shortage of ships is holding back its exports.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg" alt="BYD expands EV shipping fleet as wars upend freight costs and key trade routes" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;If the most powerful builders keep designing for market share while the world’s most resource-constrained builders design for survival and self-actualization, the templates that spread globally for governance, infrastructure, and who gets to participate may increasingly come from wherever necessity did the inventing. The West is warning the world about what AI might do to us. Perhaps it is time to ask what the rest of the world might teach us to do with it.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>BYD expands EV shipping fleet as wars upend freight costs and key trade routes</title>
+  <link href="https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/"/>
+  <id>https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/</id>
+  <published>2026-10-14T10:00:00+00:00</published>
+  <updated>2026-10-14T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg</webfeeds:featuredImage>
+  <summary>China’s EV giant says a shortage of ships is holding back its exports.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg" alt="BYD expands EV shipping fleet as wars upend freight costs and key trade routes" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Indranil Ghosh&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;China’s EV giant says a shortage of ships is holding back its exports.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;China’s &lt;span class='explainer-tag'&gt;&lt;mark class='term'&gt;&lt;a href='https://restofworld.org/tag/byd' aria-label='Click to learn more about BYD.'&gt;BYD&lt;span class='info-icon'&gt;i&lt;/span&gt;&lt;/a&gt;&lt;/mark&gt;&lt;span class='description'&gt;&lt;span class='explainer-title'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;BYD&lt;/a&gt;&lt;/span&gt;BYD Auto is a Chinese carmaker that became the world’s leading EV manufacturer in 2023, competing with Tesla for market share and global attention.&lt;span class='read-more'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;&lt;span&gt;READ MORE&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; is building cars faster than it can export, so it’s adding more ships.&lt;/p&gt;
@@ -571,8 +642,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;“Geely, on the other hand, will be running its own ships eventually,” Lei Xing said. “You can bet on that.”&lt;/p&gt;</content></entry>
-<entry><title>The UAE embraces AI for kindergartners</title><link href="https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/"/><id>https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/</id><published>2026-10-13T10:00:00+00:00</published><updated>2026-10-13T10:00:00+00:00</updated><summary>The country’s approach offers a glimpse of what education could look like if AI literacy becomes as fundamental as reading and writing.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg" alt="The UAE embraces AI for kindergartners" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;“Geely, on the other hand, will be running its own ships eventually,” Lei Xing said. “You can bet on that.”&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>The UAE embraces AI for kindergartners</title>
+  <link href="https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/"/>
+  <id>https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/</id>
+  <published>2026-10-13T10:00:00+00:00</published>
+  <updated>2026-10-13T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg</webfeeds:featuredImage>
+  <summary>The country’s approach offers a glimpse of what education could look like if AI literacy becomes as fundamental as reading and writing.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg" alt="The UAE embraces AI for kindergartners" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Ananya Bhattacharya&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;The country’s approach offers a glimpse of what education could look like if AI literacy becomes as fundamental as reading and writing.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;In September, Henry Price observed a classroom of 7- to 8-year-olds learn about the Stone Age. They discussed and wrote about cave paintings, then put on virtual reality headsets to explore them.&lt;/p&gt;
@@ -733,8 +816,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Additional reporting by Aarti Jhurani in Dubai.&lt;/em&gt;&lt;/p&gt;</content></entry>
-<entry><title>As U.S. blocks DJI, Insta360 races to win American creators</title><link href="https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/"/><id>https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/</id><published>2026-10-09T10:00:00+00:00</published><updated>2026-10-09T10:00:00+00:00</updated><summary>Regulatory clarity and market timing are a boon for smaller Chinese smart-camera maker Insta360 and its independent Antigravity drone brand.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13.jpg" alt="As U.S. blocks DJI, Insta360 races to win American creators" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Additional reporting by Aarti Jhurani in Dubai.&lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>As U.S. blocks DJI, Insta360 races to win American creators</title>
+  <link href="https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/"/>
+  <id>https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/</id>
+  <published>2026-10-09T10:00:00+00:00</published>
+  <updated>2026-10-09T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13.jpg</webfeeds:featuredImage>
+  <summary>Regulatory clarity and market timing are a boon for smaller Chinese smart-camera maker Insta360 and its independent Antigravity drone brand.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13.jpg" alt="As U.S. blocks DJI, Insta360 races to win American creators" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Viola Zhou&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Regulatory clarity and market timing are a boon for smaller Chinese smart-camera maker Insta360 and its independent Antigravity drone brand.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;On a Saturday morning in September, dozens of people lined up in New York City’s Times Square to check out pocket-sized cameras made by Chinese camera maker Insta360. YouTubers flew in to promote the products. As part of the marketing campaign, cyclists prepared to bike around the city in bright yellow shirts emblazoned with the Insta360 logo.&lt;/p&gt;
@@ -870,8 +965,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;“As much as I’m pissed about the whole ban,” Alvarado told &lt;em&gt;Rest of World&lt;/em&gt;, “I’m going to focus on who has the win right now, and unfortunately that’s Insta360.”&lt;/p&gt;</content></entry>
-<entry><title>Conflict in the Red Sea is forcing cloud giants to find a new route for the internet</title><link href="https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/"/><id>https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/</id><published>2026-10-07T10:00:41+00:00</published><updated>2026-10-07T10:00:41+00:00</updated><summary>Google, Meta, and Microsoft are said to be securing expensive land routes as fighting around Yemen threatens the submarine cables connecting Europe and Asia.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2294750914-scaled.jpg" alt="Conflict in the Red Sea is forcing cloud giants to find a new route for the internet" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;“As much as I’m pissed about the whole ban,” Alvarado told &lt;em&gt;Rest of World&lt;/em&gt;, “I’m going to focus on who has the win right now, and unfortunately that’s Insta360.”&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Conflict in the Red Sea is forcing cloud giants to find a new route for the internet</title>
+  <link href="https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/"/>
+  <id>https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/</id>
+  <published>2026-10-07T10:00:41+00:00</published>
+  <updated>2026-10-07T10:00:41+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2294750914-scaled.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2294750914-scaled.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2294750914-scaled.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2294750914-scaled.jpg</webfeeds:featuredImage>
+  <summary>Google, Meta, and Microsoft are said to be securing expensive land routes as fighting around Yemen threatens the submarine cables connecting Europe and Asia.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2294750914-scaled.jpg" alt="Conflict in the Red Sea is forcing cloud giants to find a new route for the internet" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Indranil Ghosh&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Google, Meta, and Microsoft are said to be securing expensive land routes as fighting around Yemen threatens the submarine cables connecting Europe and Asia.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;U.S. cloud giants are facing steep prices to secure backup internet routes around the Red Sea as fighting rages over the Red Sea strait that carries most data cables between Europe and Asia.&lt;/p&gt;
@@ -944,8 +1051,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;“From what I see and hear, I would say that this scenario is getting more and more priced in by the day,” Frank said.&lt;/p&gt;</content></entry>
-<entry><title>Not just AI. China is building technologies that challenge U.S. dominance</title><link href="https://restofworld.org/2026/china-america-tech-ai/"/><id>https://restofworld.org/2026/china-america-tech-ai/</id><published>2026-10-06T10:00:00+00:00</published><updated>2026-10-06T10:00:00+00:00</updated><summary>From batteries and solar panels to drones and satellites, China is building tech capabilities that extend well beyond AI, writes Steve Feldstein in his new book, “Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare.”</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final.jpg" alt="Not just AI. China is building technologies that challenge U.S. dominance" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;“From what I see and hear, I would say that this scenario is getting more and more priced in by the day,” Frank said.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Not just AI. China is building technologies that challenge U.S. dominance</title>
+  <link href="https://restofworld.org/2026/china-america-tech-ai/"/>
+  <id>https://restofworld.org/2026/china-america-tech-ai/</id>
+  <published>2026-10-06T10:00:00+00:00</published>
+  <updated>2026-10-06T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final.jpg</webfeeds:featuredImage>
+  <summary>From batteries and solar panels to drones and satellites, China is building tech capabilities that extend well beyond AI, writes Steve Feldstein in his new book, “Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare.”</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final.jpg" alt="Not just AI. China is building technologies that challenge U.S. dominance" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Steve Feldstein&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;From batteries and solar panels to drones and satellites, China is building tech capabilities that extend well beyond AI, writes Steve Feldstein in his new book, “Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare.”&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;While China is engaged in a fierce struggle with the U.S. for AI supremacy, it is accelerating its development of other future technologies. In 2024, Chinese investors put nearly $1 trillion in clean-­energy capex for renewables, electricity grids, and energy storage. As a result, China now &lt;a href="https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/"&gt;makes 70%&lt;/a&gt; of the world’s EVs, its companies are responsible for 80%–­85% of global solar photovoltaic manufacturing, and they oversee more than 75% of global battery production. Writes Columbia University scholar Tim Wu, “If we set AI aside for a moment and assume that these technologies represent the future, it is clear &lt;a href="https://www.ft.com/content/12581344-6e37-45a0-a9d5-e3d6a9f8d9ba"&gt;who is ahead&lt;/a&gt;.”&lt;/p&gt;
@@ -998,8 +1117,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Adapted from “Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare” by&lt;/em&gt; &lt;em&gt;Steve Feldstein&lt;/em&gt; &lt;em&gt;published by St. Martin’s Press © 2026 by&lt;/em&gt; &lt;em&gt;Steven Feldstein, and reprinted with permission.&lt;/em&gt;&lt;/p&gt;</content></entry>
-<entry><title>The AI boom is making the world’s cheapest smartphones disappear</title><link href="https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/"/><id>https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/</id><published>2026-10-05T10:00:43+00:00</published><updated>2026-10-05T10:00:43+00:00</updated><summary>AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2.jpg" alt="The AI boom is making the world’s cheapest smartphones disappear" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Adapted from “Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare” by&lt;/em&gt; &lt;em&gt;Steve Feldstein&lt;/em&gt; &lt;em&gt;published by St. Martin’s Press © 2026 by&lt;/em&gt; &lt;em&gt;Steven Feldstein, and reprinted with permission.&lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>The AI boom is making the world’s cheapest smartphones disappear</title>
+  <link href="https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/"/>
+  <id>https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/</id>
+  <published>2026-10-05T10:00:43+00:00</published>
+  <updated>2026-10-05T10:00:43+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2.jpg</webfeeds:featuredImage>
+  <summary>AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2.jpg" alt="The AI boom is making the world’s cheapest smartphones disappear" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Kinling Lo&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;The world’s cheapest smartphones are disappearing because AI infrastructure is absorbing the components.&lt;/p&gt;
@@ -1110,8 +1241,20 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;“When smartphones remain available but become unaffordable, consumers make difficult sacrifices to keep themselves online. They might delay upgrading, borrow or share their devices, remain on older feature phones, or go offline when they are unable to replace a device that is no longer working or stolen. Often, it means they won’t have an internet-enabled device at all,” Sibthorpe said.&lt;/p&gt;</content></entry>
-<entry><title>Who gets to decide if AI is safe? Africa wants a say</title><link href="https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/"/><id>https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/</id><published>2026-10-02T10:00:00+00:00</published><updated>2026-10-02T10:00:00+00:00</updated><summary>African companies race to adopt American and Chinese AI, with little attention paid to safety.</summary><content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg" alt="Who gets to decide if AI is safe? Africa wants a say" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p class="wp-block-paragraph"&gt;“When smartphones remain available but become unaffordable, consumers make difficult sacrifices to keep themselves online. They might delay upgrading, borrow or share their devices, remain on older feature phones, or go offline when they are unable to replace a device that is no longer working or stolen. Often, it means they won’t have an internet-enabled device at all,” Sibthorpe said.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Who gets to decide if AI is safe? Africa wants a say</title>
+  <link href="https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/"/>
+  <id>https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/</id>
+  <published>2026-10-02T10:00:00+00:00</published>
+  <updated>2026-10-02T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg</webfeeds:featuredImage>
+  <summary>African companies race to adopt American and Chinese AI, with little attention paid to safety.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg" alt="Who gets to decide if AI is safe? Africa wants a say" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Danai Nesta Kupemba&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;African companies race to adopt American and Chinese AI, with little attention paid to safety.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;African leaders called last week for a greater role in setting global standards for artificial intelligence.&amp;nbsp;&lt;/p&gt;
@@ -1206,5 +1349,6 @@
 
 
 
-&lt;p class="wp-block-paragraph"&gt;“Africa cannot remain merely a market for systems developed elsewhere, a source of raw data, or a testing ground for a technology it did not help govern,” he said. “[Africa] must be granted a genuine representation and a voice in these multilateral processes.”&lt;/p&gt;</content></entry>
+&lt;p class="wp-block-paragraph"&gt;“Africa cannot remain merely a market for systems developed elsewhere, a source of raw data, or a testing ground for a technology it did not help govern,” he said. “[Africa] must be granted a genuine representation and a voice in these multilateral processes.”&lt;/p&gt;</content>
+</entry>
 </feed>

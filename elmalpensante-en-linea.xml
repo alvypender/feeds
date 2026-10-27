@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>El Malpensante – Exclusivo en línea</title>
 <link href="https://elmalpensante.com/exclusivo-en-linea"/>
 <id>https://elmalpensante.com/exclusivo-en-linea</id>
 <updated>2026-10-24T16:25:00-05:00</updated>
-<entry><title>Los genes que heredamos</title><link href="https://elmalpensante.com/articulo/los-genes-que-heredamos"/><id>https://elmalpensante.com/articulo/los-genes-que-heredamos</id><published>2026-10-24T16:25:00-05:00</published><updated>2026-10-24T16:25:00-05:00</updated><summary>A causa de la demencia frontotemporal, la artista argentina Eugenia Streb ha perdido el habla y solo escribe y dibuja en los márgenes del papel. Un retrato de una enfermedad extraña para la ciencia, producida por una mutación del gen GRN, y de la búsqueda de certezas de una familia que resiste en medio de una perenne incertidumbre.</summary><content type="html">
+<entry>
+  <title>Los genes que heredamos</title>
+  <link href="https://elmalpensante.com/articulo/los-genes-que-heredamos"/>
+  <id>https://elmalpensante.com/articulo/los-genes-que-heredamos</id>
+  <published>2026-10-24T16:25:00-05:00</published>
+  <updated>2026-10-24T16:25:00-05:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://elmalpensante.com/sites/default/files/inline-images/_MG_6692.JPG"/>
+  <media:content url="https://elmalpensante.com/sites/default/files/inline-images/_MG_6692.JPG" medium="image"/>
+  <media:thumbnail url="https://elmalpensante.com/sites/default/files/inline-images/_MG_6692.JPG"/>
+  <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/inline-images/_MG_6692.JPG</webfeeds:featuredImage>
+  <summary>A causa de la demencia frontotemporal, la artista argentina Eugenia Streb ha perdido el habla y solo escribe y dibuja en los márgenes del papel. Un retrato de una enfermedad extraña para la ciencia, producida por una mutación del gen GRN, y de la búsqueda de certezas de una familia que resiste en medio de una perenne incertidumbre.</summary>
+  <content type="html">
     &lt;div class="col-12 col-sm-10 offset-sm-1 col-lg-6 offset-lg-3 " id="nodeBody"&gt;
 
       
@@ -12,8 +23,16 @@
       
 
     &lt;/div&gt;
-  </content></entry>
-<entry><title>DOS DÍAS TREPIDANTES (¡Y MUSICALES!) CON THOMAS MANN</title><link href="https://elmalpensante.com/articulo/dos-dias-trepidantes-y-musicales-con-thomas-mann"/><id>https://elmalpensante.com/articulo/dos-dias-trepidantes-y-musicales-con-thomas-mann</id><published>2026-10-05T14:54:00-05:00</published><updated>2026-10-05T14:54:00-05:00</updated><summary>Club de lectura en el Gimnasio Moderno.</summary><content type="html">
+  </content>
+</entry>
+<entry>
+  <title>DOS DÍAS TREPIDANTES (¡Y MUSICALES!) CON THOMAS MANN</title>
+  <link href="https://elmalpensante.com/articulo/dos-dias-trepidantes-y-musicales-con-thomas-mann"/>
+  <id>https://elmalpensante.com/articulo/dos-dias-trepidantes-y-musicales-con-thomas-mann</id>
+  <published>2026-10-05T14:54:00-05:00</published>
+  <updated>2026-10-05T14:54:00-05:00</updated>
+  <summary>Club de lectura en el Gimnasio Moderno.</summary>
+  <content type="html">
     &lt;div class="col-12 col-sm-10 offset-sm-1 col-lg-6 offset-lg-3 " id="nodeBody"&gt;
 
       
@@ -21,8 +40,16 @@
       
 
     &lt;/div&gt;
-  </content></entry>
-<entry><title>Un despliegue de acupuntura urbana</title><link href="https://elmalpensante.com/articulo/un-despliegue-de-acupuntura-urbana"/><id>https://elmalpensante.com/articulo/un-despliegue-de-acupuntura-urbana</id><published>2026-09-09T15:17:00-05:00</published><updated>2026-09-09T15:17:00-05:00</updated><summary>Un edificio que fue reciclado para modificar, como en una suerte de efecto mariposa, el entorno urbano bogotano, es la propuesta del arquitecto Alejandro Rodríguez, cuya intervención del hotel 79bogotá recibió recientemente el Premio FIABCI 2026 y una nominación a la Bienal de Arquitectura. En esta entrevista, el arquitecto explica cómo logró convertir esta idea en un hecho y de qué manera funciona lo que él denomina "acupuntura urbana".</summary><content type="html">
+  </content>
+</entry>
+<entry>
+  <title>Un despliegue de acupuntura urbana</title>
+  <link href="https://elmalpensante.com/articulo/un-despliegue-de-acupuntura-urbana"/>
+  <id>https://elmalpensante.com/articulo/un-despliegue-de-acupuntura-urbana</id>
+  <published>2026-09-09T15:17:00-05:00</published>
+  <updated>2026-09-09T15:17:00-05:00</updated>
+  <summary>Un edificio que fue reciclado para modificar, como en una suerte de efecto mariposa, el entorno urbano bogotano, es la propuesta del arquitecto Alejandro Rodríguez, cuya intervención del hotel 79bogotá recibió recientemente el Premio FIABCI 2026 y una nominación a la Bienal de Arquitectura. En esta entrevista, el arquitecto explica cómo logró convertir esta idea en un hecho y de qué manera funciona lo que él denomina "acupuntura urbana".</summary>
+  <content type="html">
     &lt;div class="col-12 col-sm-10 offset-sm-1 col-lg-6 offset-lg-3 " id="nodeBody"&gt;
 
       
@@ -30,8 +57,20 @@
       
 
     &lt;/div&gt;
-  </content></entry>
-<entry><title>El Santuario</title><link href="https://elmalpensante.com/articulo/el-santuario"/><id>https://elmalpensante.com/articulo/el-santuario</id><published>2026-08-16T10:20:00-05:00</published><updated>2026-08-16T10:20:00-05:00</updated><summary>Un relato sobre lo que un terremoto puede ocasionar en un lugar como Latinoamérica, horadado por las injusticias más descorazonadoras.</summary><content type="html">
+  </content>
+</entry>
+<entry>
+  <title>El Santuario</title>
+  <link href="https://elmalpensante.com/articulo/el-santuario"/>
+  <id>https://elmalpensante.com/articulo/el-santuario</id>
+  <published>2026-08-16T10:20:00-05:00</published>
+  <updated>2026-08-16T10:20:00-05:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://elmalpensante.com/sites/default/files/inline-images/kathmerged1800-1_0.jpg"/>
+  <media:content url="https://elmalpensante.com/sites/default/files/inline-images/kathmerged1800-1_0.jpg" medium="image"/>
+  <media:thumbnail url="https://elmalpensante.com/sites/default/files/inline-images/kathmerged1800-1_0.jpg"/>
+  <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/inline-images/kathmerged1800-1_0.jpg</webfeeds:featuredImage>
+  <summary>Un relato sobre lo que un terremoto puede ocasionar en un lugar como Latinoamérica, horadado por las injusticias más descorazonadoras.</summary>
+  <content type="html">
     &lt;div class="col-12 col-sm-10 offset-sm-1 col-lg-6 offset-lg-3 " id="nodeBody"&gt;
 
       
@@ -39,8 +78,20 @@
       
 
     &lt;/div&gt;
-  </content></entry>
-<entry><title>La República Árabe Saharaui Democrática, un país de polvo</title><link href="https://elmalpensante.com/articulo/la-republica-arabe-saharaui-democratica-un-pais-de-polvo"/><id>https://elmalpensante.com/articulo/la-republica-arabe-saharaui-democratica-un-pais-de-polvo</id><published>2026-08-09T19:55:00-05:00</published><updated>2026-08-09T19:55:00-05:00</updated><summary>La República Árabe Saharaui Democrática (RASD) vive en una grieta. Esta nación, marcada por el desplazamiento forzado, la violencia y la condición de refugio, lleva más de cincuenta años luchando contra el olvido. Aquí una radiografía de las vidas de sus integrantes y de la pugna por una tierra donde apuntalar su cultura.</summary><content type="html">
+  </content>
+</entry>
+<entry>
+  <title>La República Árabe Saharaui Democrática, un país de polvo</title>
+  <link href="https://elmalpensante.com/articulo/la-republica-arabe-saharaui-democratica-un-pais-de-polvo"/>
+  <id>https://elmalpensante.com/articulo/la-republica-arabe-saharaui-democratica-un-pais-de-polvo</id>
+  <published>2026-08-09T19:55:00-05:00</published>
+  <updated>2026-08-09T19:55:00-05:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://elmalpensante.com/sites/default/files/inline-images/c04d9577-388b-4b11-bbe9-30c65a859fb2.jpg"/>
+  <media:content url="https://elmalpensante.com/sites/default/files/inline-images/c04d9577-388b-4b11-bbe9-30c65a859fb2.jpg" medium="image"/>
+  <media:thumbnail url="https://elmalpensante.com/sites/default/files/inline-images/c04d9577-388b-4b11-bbe9-30c65a859fb2.jpg"/>
+  <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/inline-images/c04d9577-388b-4b11-bbe9-30c65a859fb2.jpg</webfeeds:featuredImage>
+  <summary>La República Árabe Saharaui Democrática (RASD) vive en una grieta. Esta nación, marcada por el desplazamiento forzado, la violencia y la condición de refugio, lleva más de cincuenta años luchando contra el olvido. Aquí una radiografía de las vidas de sus integrantes y de la pugna por una tierra donde apuntalar su cultura.</summary>
+  <content type="html">
     &lt;div class="col-12 col-sm-10 offset-sm-1 col-lg-6 offset-lg-3 " id="nodeBody"&gt;
 
       
@@ -48,8 +99,16 @@
       
 
     &lt;/div&gt;
-  </content></entry>
-<entry><title>Negación e innovación</title><link href="https://elmalpensante.com/articulo/negacion-e-innovacion"/><id>https://elmalpensante.com/articulo/negacion-e-innovacion</id><published>2026-07-05T07:00:00-05:00</published><updated>2026-07-05T07:00:00-05:00</updated><summary>¿Qué tan conservadora puede llegar a ser la poesía colombiana que experimenta con el lenguaje o con nuevos formatos editoriales, y qué tan innovadores pueden ser quienes, paradójicamente, se niegan a innovar? Aquí una respuesta que parte de un poema del bogotano Luis Camilo Dorado sobre el cansancio de tener que ser original siempre.</summary><content type="html">
+  </content>
+</entry>
+<entry>
+  <title>Negación e innovación</title>
+  <link href="https://elmalpensante.com/articulo/negacion-e-innovacion"/>
+  <id>https://elmalpensante.com/articulo/negacion-e-innovacion</id>
+  <published>2026-07-05T07:00:00-05:00</published>
+  <updated>2026-07-05T07:00:00-05:00</updated>
+  <summary>¿Qué tan conservadora puede llegar a ser la poesía colombiana que experimenta con el lenguaje o con nuevos formatos editoriales, y qué tan innovadores pueden ser quienes, paradójicamente, se niegan a innovar? Aquí una respuesta que parte de un poema del bogotano Luis Camilo Dorado sobre el cansancio de tener que ser original siempre.</summary>
+  <content type="html">
     &lt;div class="col-12 col-sm-10 offset-sm-1 col-lg-6 offset-lg-3 " id="nodeBody"&gt;
 
       
@@ -57,8 +116,20 @@
       
 
     &lt;/div&gt;
-  </content></entry>
-<entry><title>No hables de Dios con nadie</title><link href="https://elmalpensante.com/articulo/no-hables-de-dios-con-nadie"/><id>https://elmalpensante.com/articulo/no-hables-de-dios-con-nadie</id><published>2026-06-07T20:07:00-05:00</published><updated>2026-06-07T20:07:00-05:00</updated><summary>​El que es para muchos el poeta vivo más importante de Colombia cumplirá pronto 78 años; tiene una prótesis, un respirador portátil, tres novelas inéditas y una colección de estilógrafos que guarda en una caja tallada con figuras precolombinas. Escribe para no volver a leerse. Quiere ser invisible, aunque este meticuloso texto, que indaga en el Darío más íntimo, es la prueba de que aún no lo consigue.</summary><content type="html">
+  </content>
+</entry>
+<entry>
+  <title>No hables de Dios con nadie</title>
+  <link href="https://elmalpensante.com/articulo/no-hables-de-dios-con-nadie"/>
+  <id>https://elmalpensante.com/articulo/no-hables-de-dios-con-nadie</id>
+  <published>2026-06-07T20:07:00-05:00</published>
+  <updated>2026-06-07T20:07:00-05:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://elmalpensante.com/sites/default/files/inline-images/WhatsApp%20Image%202026-04-30%20at%205.22.32%20AM.jpeg"/>
+  <media:content url="https://elmalpensante.com/sites/default/files/inline-images/WhatsApp%20Image%202026-04-30%20at%205.22.32%20AM.jpeg" medium="image"/>
+  <media:thumbnail url="https://elmalpensante.com/sites/default/files/inline-images/WhatsApp%20Image%202026-04-30%20at%205.22.32%20AM.jpeg"/>
+  <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/inline-images/WhatsApp%20Image%202026-04-30%20at%205.22.32%20AM.jpeg</webfeeds:featuredImage>
+  <summary>​El que es para muchos el poeta vivo más importante de Colombia cumplirá pronto 78 años; tiene una prótesis, un respirador portátil, tres novelas inéditas y una colección de estilógrafos que guarda en una caja tallada con figuras precolombinas. Escribe para no volver a leerse. Quiere ser invisible, aunque este meticuloso texto, que indaga en el Darío más íntimo, es la prueba de que aún no lo consigue.</summary>
+  <content type="html">
     &lt;div class="col-12 col-sm-10 offset-sm-1 col-lg-6 offset-lg-3 " id="nodeBody"&gt;
 
       
@@ -66,8 +137,16 @@
       
 
     &lt;/div&gt;
-  </content></entry>
-<entry><title>Espectros de la dictadura</title><link href="https://elmalpensante.com/articulo/espectros-de-la-dictadura"/><id>https://elmalpensante.com/articulo/espectros-de-la-dictadura</id><published>2026-03-15T07:08:00-05:00</published><updated>2026-03-15T07:08:00-05:00</updated><summary>Una reseña de El agente secreto (Kleber Mendonça Filho, 2025).</summary><content type="html">
+  </content>
+</entry>
+<entry>
+  <title>Espectros de la dictadura</title>
+  <link href="https://elmalpensante.com/articulo/espectros-de-la-dictadura"/>
+  <id>https://elmalpensante.com/articulo/espectros-de-la-dictadura</id>
+  <published>2026-03-15T07:08:00-05:00</published>
+  <updated>2026-03-15T07:08:00-05:00</updated>
+  <summary>Una reseña de El agente secreto (Kleber Mendonça Filho, 2025).</summary>
+  <content type="html">
     &lt;div class="col-12 col-sm-10 offset-sm-1 col-lg-6 offset-lg-3 " id="nodeBody"&gt;
 
       
@@ -75,5 +154,6 @@
       
 
     &lt;/div&gt;
-  </content></entry>
+  </content>
+</entry>
 </feed>
