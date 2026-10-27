@@ -3,7 +3,235 @@
 <title>RedShark News – Completo</title>
 <link href="https://www.redsharknews.com/"/>
 <id>https://www.redsharknews.com/</id>
-<updated>2026-10-26T16:28:46+00:00</updated>
+<updated>2026-10-27T08:04:39+00:00</updated>
+<entry><title>DaVinci Resolve 21.1.2: new features and fixes</title><link href="https://www.redsharknews.com/davinci-resolve-21-1-2-whats-new"/><id>https://www.redsharknews.com/davinci-resolve-21-1-2-whats-new</id><published>2026-10-27T08:04:39+00:00</published><updated>2026-10-27T08:04:39+00:00</updated><summary>2 minute read DaVinci Resolve 21.1.2: new features and fixes 3:07 Blackmagic has improved timeline edit point selection and made OGraf playback up to 4x faster in DaVinci Resolve 21.1.2. Studio also speeds up IntelliSearch on Apple M6. Blackmagic has released DaVinci Resolve 21.1</summary><content type="html">&lt;img style="
+
+ 
+	border-bottom: 16px solid #F25151;
+ 
+         
+" src="https://www.redsharknews.com/hubfs/davinci%20resolve%2021.1.jpg" alt="DaVinci Resolve 21.1.2: improved timeline edit point selection and OGraf playback up to 4x faster."&gt;
+
+&lt;div class="read-minute"&gt;
+
+
+
+
+
+2 minute read
+
+&lt;/div&gt;
+&lt;div class="blog-section"&gt;
+&lt;div class="blog-post-wrapper cell-wrapper"&gt;
+&lt;div class="blog-section"&gt;
+&lt;div class="blog-post-wrapper cell-wrapper"&gt;
+&lt;div class="section post-body"&gt;
+&lt;div class="post-body--main-content"&gt;
+
+&lt;div style="margin-top: 12px;"&gt;
+&lt;div id="hs_cos_wrapper_narration" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"&gt;&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/TrackPlayAnalytics-DDKdhRbk.css"&gt;
+&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/Tooltip-BfwIxqAN.css"&gt;
+&lt;div data-hs-island="true" id="island-e46db1n76d2cdR0"&gt;&lt;div&gt;&lt;div class="hs-audio-player _hs-audio-player_1nxo7_1" role="group" tabindex="0" aria-label="Play blog post audio: DaVinci Resolve 21.1.2: new features and fixes" data-status="initial" data-testid="audio-player" style="display:flex;align-items:center;height:60px;--primary:#cf000f;--secondary:#ffffff;--tertiary:#fc626d;--primary-alt:#d72020;--tertiary-translucent:#fc626d50"&gt;&lt;div class="_play-pause-skip_1nxo7_117 hs-audio-player__controls"&gt;&lt;div class="_control-button_1nxo7_36 _play-pause-button_1nxo7_122 hs-audio-player__play-pause-button" role="button" tabindex="-1" aria-label="Play" data-testid="play-pause-button"&gt;&lt;span class="_loading-spinner_1nxo7_147 hs-audio-player__loading-spinner" aria-label="Loading" aria-busy="true"&gt;&lt;span class="hs-audio-player__loading-icon"&gt;&lt;svg width="40" height="40" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"&gt;&lt;path d="M0 20C0 31.0457 8.95431 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.95431 0 0 8.9543 0 20ZM36.4 20C36.4 29.0575 29.0575 36.4 20 36.4C10.9425 36.4 3.6 29.0575 3.6 20C3.6 10.9425 10.9425 3.6 20 3.6C29.0575 3.6 36.4 10.9425 36.4 20Z" fill="url(#paint0_angular_1434_396)"&gt;&lt;/path&gt;&lt;circle cx="20" cy="20" r="18" fill="none" stroke="#00a4bd" stroke-width="3"&gt;&lt;/circle&gt;&lt;defs&gt;&lt;radialgradient id="paint0_angular_1434_396" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse" gradienttransform="translate(20 20) rotate(90) scale(20)"&gt;&lt;stop stop-color="#00A4BD"&gt;&lt;/stop&gt;&lt;stop offset="0.489583" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;stop offset="1" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;/radialgradient&gt;&lt;/defs&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="_initial-title_1nxo7_40 hs-audio-player__title" style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis"&gt;DaVinci Resolve 21.1.2: new features and fixes&lt;/div&gt;&lt;div class="_ai-generated-icon_1nxo7_47 hs-audio-player__ai-icon" role="img" aria-label="AI-generated audio" tabindex="0"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" viewbox="0 -6 32 34"&gt;&lt;path d="M17.01.6l2.75 5.03c1.18 2.16 2.96 3.94 5.12 5.12l5.03 2.75c.8.44.8 1.58 0 2.01l-5.02 2.75c-2.16 1.18-3.94 2.96-5.12 5.12l-2.75 5.02c-.44.8-1.58.8-2.01 0l-2.75-5.03c-1.18-2.16-2.96-3.94-5.12-5.12L2.11 15.5c-.8-.44-.8-1.58 0-2.01l5.03-2.75c2.16-1.18 3.94-2.96 5.12-5.12L14.99.6c.44-.8 1.58-.8 2.01 0z"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div class="_duration_1nxo7_62 hs-audio-player__duration"&gt;3:07&lt;/div&gt;&lt;/div&gt;&lt;audio preload="none" src="https://www.redsharknews.com/hubfs/AI-Generated%20Media/Post%20Narration%20Audio/223407938066-TTS-1790922892484.mp3"&gt;&lt;/audio&gt;&lt;/div&gt;&lt;/div&gt;
+    
+      
+  
+  &lt;link rel="modulepreload" crossorigin href="https://static.hsappstatic.net/cms-js-static/ex/js/react/v18/react-combined.mjs"&gt;
+  
+      &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"&gt;&lt;p style="font-weight: bold;"&gt;Blackmagic has improved timeline edit point selection and made OGraf playback up to 4x faster in DaVinci Resolve 21.1.2. Studio also speeds up IntelliSearch on Apple M6.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Blackmagic has released DaVinci Resolve 21.1.2 and Fusion Studio 21.1.2, following the &lt;a href="/davinci-resolve-21.1-new-features-release" rel="noopener" target="_blank"&gt;&lt;span&gt;major 21.1 release&lt;/span&gt;&lt;/a&gt; in September and &lt;a href="/davinci-resolve-21-1-1-whats-new" rel="noopener" target="_blank"&gt;21.1.1&lt;/a&gt; earlier this month.&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;DaVinci Resolve 21.1.2 adds improved timeline edit point selection, as well as up to 4x faster OGraf playback, additional template controls, and support for OGraf and Lottie graphics on Linux. The OGraf changes are also in Fusion Studio 21.1.2, which adds custom clip input and output labels for OpenFX.&lt;/p&gt;
+&lt;p&gt;DaVinci Resolve Studio 21.1.2 adds IntelliSearch analysis that Blackmagic says is up to 14x faster on Apple M6 computers running macOS 27.IntelliSearch analysis, multicam SmartSwitch, and other AI tools run faster on Intel graphics platforms, while &lt;span style="font-size: 16px; background-color: transparent;"&gt;Magic Mask caches use less disk space, and there are multiple scripting API improvements. The software is&lt;/span&gt;&amp;nbsp;&lt;a href="/davinci-resolve-studio-21-sale-20-percent-off" rel="noopener" target="_blank"&gt;currently 20% off until November 20&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As usual, all updates are free and available from the &lt;a href="https://www.blackmagicdesign.com/support/" rel="noopener" target="_blank"&gt;&lt;span&gt;Blackmagic support page&lt;/span&gt;&lt;/a&gt;. Here are&amp;nbsp;the full changelogs&amp;nbsp;of new or updated features.&lt;/p&gt;
+&lt;h3&gt;What's new in DaVinci Resolve 21.1.2&lt;/h3&gt;
+&lt;p&gt;The following features have been added or updated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Select nearest edit point type prioritizes selected edit points.&lt;/li&gt;
+&lt;li&gt;Lasso selecting edit points can now enter dynamic trim automatically.&lt;/li&gt;
+&lt;li&gt;Selecting edit points for gaps now activates trim editor.&lt;/li&gt;
+&lt;li&gt;Timeline view option to display current clip indicator.&lt;/li&gt;
+&lt;li&gt;Option to show loudness meters in the edit mixer.&lt;/li&gt;
+&lt;li&gt;Project settings option to disable DNG lens correction.&lt;/li&gt;
+&lt;li&gt;OGraf clips now use action durations to place stop actions.&lt;/li&gt;
+&lt;li&gt;Up to 4x faster OGraf playback in edit and Fusion pages.&lt;/li&gt;
+&lt;li&gt;Support for OGraf select and multi-select template controls.&lt;/li&gt;
+&lt;li&gt;OGraf responsive templates now adapt to timeline aspect ratio.&lt;/li&gt;
+&lt;li&gt;Support for OGraf and Lottie graphics on Linux.&lt;/li&gt;
+&lt;li&gt;Improved HDR global wheel trackball sensitivity on color panels.&lt;/li&gt;
+&lt;li&gt;Fast Noise option to follow the FX tracker.&lt;/li&gt;
+&lt;li&gt;Addressed double squeezed anamorphic video output in Fusion.&lt;/li&gt;
+&lt;li&gt;Addressed issue with Follower animation using expressions.&lt;/li&gt;
+&lt;li&gt;Addressed overlay issues with SDI and remote monitoring.&lt;/li&gt;
+&lt;li&gt;Addressed issue with searches in a smart bin.&lt;/li&gt;
+&lt;li&gt;Addressed empty folder in user directory when loading DRP files.&lt;/li&gt;
+&lt;li&gt;Addressed issue with selecting multiple titles and subtitles.&lt;/li&gt;
+&lt;li&gt;Addressed timeline in-out range issues in collaboration projects.&lt;/li&gt;
+&lt;li&gt;Addressed Quick Export not using selected trim pass grade.&lt;/li&gt;
+&lt;li&gt;Addressed issue with geometry thumbnails in the media pool.&lt;/li&gt;
+&lt;li&gt;Addressed Recent 5 Mins mode inserting full clips.&lt;/li&gt;
+&lt;li&gt;Addressed loudness meter not resetting after Cut page scrubbing.&lt;/li&gt;
+&lt;li&gt;General performance and stability improvements.&lt;span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;In addition to the above, Resolve Studio 21.1.2 adds the following:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Up to 14x faster IntelliSearch analysis on M6 with macOS 27.&lt;/li&gt;
+&lt;li&gt;Improved AI tool performance on Intel platforms.&lt;/li&gt;
+&lt;li&gt;Improved disk space usage for Magic Mask caches.&lt;/li&gt;
+&lt;li&gt;Multiple scripting API improvements.&lt;/li&gt;
+&lt;li&gt;Addressed issue with Film Look Creator gate weave controls.&lt;/li&gt;
+&lt;li&gt;Addressed HDR Vivid metadata issues in imported CPL timelines.&lt;/li&gt;
+&lt;li&gt;Addressed Speech Generator disk usage and speed on macOS 27.&lt;/li&gt;
+&lt;li&gt;Addressed issues with Music Remixer on macOS 27.&lt;/li&gt;
+&lt;li&gt;Addressed render failures for in-out ranges with Magic Mask clips.&lt;/li&gt;
+&lt;li&gt;General performance and stability improvements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What's new in Fusion Studio 21.1.2&lt;/h3&gt;
+&lt;p&gt;The following features have been added or updated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Addressed issue with channel names in Displace 3D.&lt;/li&gt;
+&lt;li&gt;Addressed issue with running some Lua scripts.&lt;/li&gt;
+&lt;li&gt;Addressed memory issue with some Perspective Positioner settings.&lt;/li&gt;
+&lt;li&gt;Addressed issue with Mapped Duplicate 3D time mapping inputs.&lt;/li&gt;
+&lt;li&gt;Addressed issue with selecting multiple titles clearing text.&lt;/li&gt;
+&lt;li&gt;Addressed issue with dropdown controls not always creating undo events.&lt;/li&gt;
+&lt;li&gt;Addressed issue with Follower animation using expressions.&lt;/li&gt;
+&lt;li&gt;Addressed issue with very small erode dilate levels.&lt;/li&gt;
+&lt;li&gt;Addressed issue with Film Look Creator gate weave controls.&lt;/li&gt;
+&lt;li&gt;Addressed issue with some scripts on ARM64 systems.&lt;/li&gt;
+&lt;li&gt;Addressed issue with slow reading of large EXR headers.&lt;/li&gt;
+&lt;li&gt;Addressed issue with OGraf custom text field sizes.&lt;/li&gt;
+&lt;li&gt;Support OGraf dropdown choice parameters.&lt;/li&gt;
+&lt;li&gt;Support OGraf rendering on Linux.&lt;/li&gt;
+&lt;li&gt;Improved OGraf inspector action controls.&lt;/li&gt;
+&lt;li&gt;General performance and stability improvements.&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;
+&lt;p id="hubspot-topic_data"&gt;Tags:
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/post-vfx"&gt;Post &amp;amp; VFX&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/davinci-resolve"&gt;DaVinci Resolve&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/davinci-resolve-studio"&gt;DaVinci Resolve Studio&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/fusion-studio"&gt;Fusion Studio&lt;/a&gt;
+&lt;/p&gt;
+&lt;div class="blog-social-group" style="display: flex;"&gt;
+&lt;a data-flip-widget="shareflip" href="https://flipboard.com"&gt;
+&lt;img style="width: 20px!important; margin: 10px 4px 0 0;" src="https://cdn.flipboard.com/badges/flipboard_srsw.png"&gt;
+&lt;/a&gt;
+
+&lt;span id="hs_cos_wrapper_blog_social_sharing" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_social_sharing" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_social_sharing"&gt;
+&lt;div class="hs-blog-social-share"&gt;
+&lt;ul class="hs-blog-social-share-list"&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-twitter"&gt;
+
+&lt;a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-url="https://www.redsharknews.com/davinci-resolve-21-1-2-whats-new" data-size="medium" data-text="DaVinci Resolve 21.1.2: new features and fixes"&gt;Tweet&lt;/a&gt;
+&lt;/li&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-linkedin"&gt;
+
+
+&lt;/li&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
+
+&lt;div class="fb-share-button" data-href="https://www.redsharknews.com/davinci-resolve-21-1-2-whats-new" data-layout="button_count"&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content></entry>
+<entry><title>instax mini Evo 2: price, specs, release date</title><link href="https://www.redsharknews.com/fujifilm-instax-mini-evo-2-price-specs-release-date"/><id>https://www.redsharknews.com/fujifilm-instax-mini-evo-2-price-specs-release-date</id><published>2026-10-27T07:07:41+00:00</published><updated>2026-10-27T07:07:41+00:00</updated><summary>2 minute read instax mini Evo 2: price, specs, release date 3:29 The instax mini Evo 2 adds a 4.5-inch touchscreen, a larger sensor, and a wider 21mm lens. It arrives in late November at $289. With its instax line allowing Fujifilm to make money hand over fist at the moment, the </summary><content type="html">&lt;img style="
+
+ 
+	border-bottom: 16px solid #CF0005;
+ 
+         
+" src="https://www.redsharknews.com/hubfs/instax%20mini%20Evo%202.jpg" alt="The new instax mini Evo 2 gets a 4.5-inch touchscreen, a larger sensor, and a 21mm lens"&gt;
+
+&lt;div class="read-minute"&gt;
+
+
+
+
+
+2 minute read
+
+&lt;/div&gt;
+&lt;div class="blog-section"&gt;
+&lt;div class="blog-post-wrapper cell-wrapper"&gt;
+&lt;div class="blog-section"&gt;
+&lt;div class="blog-post-wrapper cell-wrapper"&gt;
+&lt;div class="section post-body"&gt;
+&lt;div class="post-body--main-content"&gt;
+
+&lt;div style="margin-top: 12px;"&gt;
+&lt;div id="hs_cos_wrapper_narration" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"&gt;&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/TrackPlayAnalytics-DDKdhRbk.css"&gt;
+&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/Tooltip-BfwIxqAN.css"&gt;
+&lt;div data-hs-island="true" id="island-e46db1n76d2cdR0"&gt;&lt;div&gt;&lt;div class="hs-audio-player _hs-audio-player_1nxo7_1" role="group" tabindex="0" aria-label="Play blog post audio: instax mini Evo 2: price, specs, release date" data-status="initial" data-testid="audio-player" style="display:flex;align-items:center;height:60px;--primary:#cf000f;--secondary:#ffffff;--tertiary:#fc626d;--primary-alt:#d72020;--tertiary-translucent:#fc626d50"&gt;&lt;div class="_play-pause-skip_1nxo7_117 hs-audio-player__controls"&gt;&lt;div class="_control-button_1nxo7_36 _play-pause-button_1nxo7_122 hs-audio-player__play-pause-button" role="button" tabindex="-1" aria-label="Play" data-testid="play-pause-button"&gt;&lt;span class="_loading-spinner_1nxo7_147 hs-audio-player__loading-spinner" aria-label="Loading" aria-busy="true"&gt;&lt;span class="hs-audio-player__loading-icon"&gt;&lt;svg width="40" height="40" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"&gt;&lt;path d="M0 20C0 31.0457 8.95431 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.95431 0 0 8.9543 0 20ZM36.4 20C36.4 29.0575 29.0575 36.4 20 36.4C10.9425 36.4 3.6 29.0575 3.6 20C3.6 10.9425 10.9425 3.6 20 3.6C29.0575 3.6 36.4 10.9425 36.4 20Z" fill="url(#paint0_angular_1434_396)"&gt;&lt;/path&gt;&lt;circle cx="20" cy="20" r="18" fill="none" stroke="#00a4bd" stroke-width="3"&gt;&lt;/circle&gt;&lt;defs&gt;&lt;radialgradient id="paint0_angular_1434_396" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse" gradienttransform="translate(20 20) rotate(90) scale(20)"&gt;&lt;stop stop-color="#00A4BD"&gt;&lt;/stop&gt;&lt;stop offset="0.489583" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;stop offset="1" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;/radialgradient&gt;&lt;/defs&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="_initial-title_1nxo7_40 hs-audio-player__title" style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis"&gt;instax mini Evo 2: price, specs, release date&lt;/div&gt;&lt;div class="_ai-generated-icon_1nxo7_47 hs-audio-player__ai-icon" role="img" aria-label="AI-generated audio" tabindex="0"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" viewbox="0 -6 32 34"&gt;&lt;path d="M17.01.6l2.75 5.03c1.18 2.16 2.96 3.94 5.12 5.12l5.03 2.75c.8.44.8 1.58 0 2.01l-5.02 2.75c-2.16 1.18-3.94 2.96-5.12 5.12l-2.75 5.02c-.44.8-1.58.8-2.01 0l-2.75-5.03c-1.18-2.16-2.96-3.94-5.12-5.12L2.11 15.5c-.8-.44-.8-1.58 0-2.01l5.03-2.75c2.16-1.18 3.94-2.96 5.12-5.12L14.99.6c.44-.8 1.58-.8 2.01 0z"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div class="_duration_1nxo7_62 hs-audio-player__duration"&gt;3:29&lt;/div&gt;&lt;/div&gt;&lt;audio preload="none" src="https://www.redsharknews.com/hubfs/AI-Generated%20Media/Post%20Narration%20Audio/225587010402-TTS-1793084697966.mp3"&gt;&lt;/audio&gt;&lt;/div&gt;&lt;/div&gt;
+    
+      
+  
+  &lt;link rel="modulepreload" crossorigin href="https://static.hsappstatic.net/cms-js-static/ex/js/react/v18/react-combined.mjs"&gt;
+  
+      &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;The instax mini Evo 2 adds a 4.5-inch touchscreen, a larger sensor, and a wider 21mm lens. It arrives in late November at $289.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;With its instax line allowing Fujifilm to make money hand over fist at the moment, the company has announced the instax mini Evo 2 hybrid instant camera, along with an updated instax mini Evo smartphone app.&lt;/p&gt;
+&lt;div class="hs-embed-wrapper" data-service="youtube" data-responsive="true" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0px; max-width: 600px; min-width: 256px; display: block; margin: auto;"&gt;&lt;div class="hs-embed-content-wrapper"&gt;&lt;div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.64%; margin: 0px;"&gt;&lt;iframe width="256" height="145" src="https://www.youtube.com/embed/HsaZpA0EYBA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="instax mini Evo 2™ Promotional Video/FUJIFILM" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none;"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;There are some decent upgrades to the now $289 camera with the built-in printer that has been such an Insta crowd pleaser since the original was first released in 2021. The extra $90 over the original’s $199 launch price will perhaps temper some of the enthusiasm (that is a hefty 45% price rise), but you can argue that the new features are strong enough that they justify it.&lt;/p&gt;
+&lt;h2&gt;Larger screen and Immersive Movie&lt;/h2&gt;
+&lt;p&gt;The mini Evo 2 has a larger 1/2.77-inch sensor, and its lens is now a 21mm equivalent f/2.0, against 28mm on the original. The extra hardware adds bulk, at 330 g (11.6 oz) against 285 g (10.1 oz), and 87.5 x 125.3 x 43.7 mm (3.4 x 4.9 x 1.7 in) against 87 x 122.9 x 36 mm (3.4 x 4.8 x 1.4 in).&lt;/p&gt;
+&lt;p&gt;That, though, allows it to accommodate a new 4.5-inch LCD 1.23 million dot touchscreen. This is a significant upgrade on the 3.0-inch 460,000 dot screen of the original, and allows the company to offer a new feature called Expanded View. This provides a wider field of view than the 46 x 62 mm shooting area, with an on-screen framing guide also included to help in composition.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20back.jpg?width=1280&amp;amp;height=720&amp;amp;name=instax%20mini%20Evo%202%20back.jpg" width="1280" height="720" loading="lazy" alt="instax mini Evo 2 back" style="height: auto; max-width: 100%; width: 1280px;" srcset="https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20back.jpg?width=640&amp;amp;height=360&amp;amp;name=instax%20mini%20Evo%202%20back.jpg 640w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20back.jpg?width=1280&amp;amp;height=720&amp;amp;name=instax%20mini%20Evo%202%20back.jpg 1280w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20back.jpg?width=1920&amp;amp;height=1080&amp;amp;name=instax%20mini%20Evo%202%20back.jpg 1920w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20back.jpg?width=2560&amp;amp;height=1440&amp;amp;name=instax%20mini%20Evo%202%20back.jpg 2560w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20back.jpg?width=3200&amp;amp;height=1800&amp;amp;name=instax%20mini%20Evo%202%20back.jpg 3200w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20back.jpg?width=3840&amp;amp;height=2160&amp;amp;name=instax%20mini%20Evo%202%20back.jpg 3840w" sizes="(max-width: 1280px) 100vw, 1280px"&gt;The Evo 2 prints in about 14 seconds (a faster print than the original’s roughly 16 secs), and gets about 90 prints per charge, down from 100. The camera holds about 45 shots in internal memory. Still resolution is 2144 x 2860 (6.1 MP), or 3100 x 4128 (12.8 MP) with microSD and Expanded View off.&lt;/p&gt;
+&lt;p&gt;There is also a new instax Immersive Movie feature that follows on from the tech developed for the &lt;a href="https://www.redsharknews.com/fujifilm-instax-mini-evo-cinema-global-release-pricing"&gt;instax mini Evo Cinema&lt;/a&gt;. The Evo Cinema provides 15 seconds per clip, while the mini Evo 2 records four seconds of 560 x 992 MP4 video at 24 fps leading up to each photo. This requires a microSD card. The camera can’t record movies to internal memory.&lt;/p&gt;
+&lt;h2&gt;If it ain't broke...&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20front.jpg?width=1280&amp;amp;height=720&amp;amp;name=instax%20mini%20Evo%202%20front.jpg" width="1280" height="720" loading="lazy" alt="instax mini Evo 2 front" style="height: auto; max-width: 100%; width: 1280px;" srcset="https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20front.jpg?width=640&amp;amp;height=360&amp;amp;name=instax%20mini%20Evo%202%20front.jpg 640w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20front.jpg?width=1280&amp;amp;height=720&amp;amp;name=instax%20mini%20Evo%202%20front.jpg 1280w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20front.jpg?width=1920&amp;amp;height=1080&amp;amp;name=instax%20mini%20Evo%202%20front.jpg 1920w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20front.jpg?width=2560&amp;amp;height=1440&amp;amp;name=instax%20mini%20Evo%202%20front.jpg 2560w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20front.jpg?width=3200&amp;amp;height=1800&amp;amp;name=instax%20mini%20Evo%202%20front.jpg 3200w, https://www.redsharknews.com/hs-fs/hubfs/instax%20mini%20Evo%202%20front.jpg?width=3840&amp;amp;height=2160&amp;amp;name=instax%20mini%20Evo%202%20front.jpg 3840w" sizes="(max-width: 1280px) 100vw, 1280px"&gt;Elsewhere, many of the features are carried over from the original in a "if it ain’t broke, don’t fix it"&amp;nbsp;manner. The mini Evo 2 offers 10x lens effects and 10x film effects, for what the company rather cutely calculates as 100 ways to customize content, plus what it calls analog-inspired controls. It also has adjustable exposure, white balance, and flash, a macro mode, and a built-in selfie mirror.&lt;/p&gt;
+&lt;p&gt;Print resolution is 600 dpi, with a choice of instax-Rich Mode or instax-Natural Mode. There is a microSD slot and USB Type-C charging.&lt;/p&gt;
+&lt;p&gt;Smartphone printing and remote shooting use the free instax mini Evo app, and the camera prints 2" x 3" instax mini instant photos, with film sold separately.&lt;/p&gt;
+&lt;h2&gt;Pricing and availability&lt;/h2&gt;
+&lt;p&gt;The &lt;a href="https://www.instax.com/mini_evo_2/en/"&gt;instax Evo 2&lt;/a&gt; is expected at the end of November 2026 with a suggested retail price of $289.&lt;/p&gt;&lt;/span&gt;
+&lt;p id="hubspot-topic_data"&gt;Tags:
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/cameras"&gt;Cameras&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/fujifilm"&gt;Fujifilm&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/instax"&gt;instax&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/instax-mini-evo-2"&gt;instax mini Evo 2&lt;/a&gt;
+&lt;/p&gt;
+&lt;div class="blog-social-group" style="display: flex;"&gt;
+&lt;a data-flip-widget="shareflip" href="https://flipboard.com"&gt;
+&lt;img style="width: 20px!important; margin: 10px 4px 0 0;" src="https://cdn.flipboard.com/badges/flipboard_srsw.png"&gt;
+&lt;/a&gt;
+
+&lt;span id="hs_cos_wrapper_blog_social_sharing" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_social_sharing" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_social_sharing"&gt;
+&lt;div class="hs-blog-social-share"&gt;
+&lt;ul class="hs-blog-social-share-list"&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-twitter"&gt;
+
+&lt;a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-url="https://www.redsharknews.com/fujifilm-instax-mini-evo-2-price-specs-release-date" data-size="medium" data-text="instax mini Evo 2: price, specs, release date"&gt;Tweet&lt;/a&gt;
+&lt;/li&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-linkedin"&gt;
+
+
+&lt;/li&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
+
+&lt;div class="fb-share-button" data-href="https://www.redsharknews.com/fujifilm-instax-mini-evo-2-price-specs-release-date" data-layout="button_count"&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content></entry>
 <entry><title>Apple iPad mini A20 Pro: specs, price, release</title><link href="https://www.redsharknews.com/apple-ipad-mini-a20-pro-oled-specs-price"/><id>https://www.redsharknews.com/apple-ipad-mini-a20-pro-oled-specs-price</id><published>2026-10-26T16:28:46+00:00</published><updated>2026-10-26T16:28:46+00:00</updated><summary>2 minute read Apple iPad mini A20 Pro: specs, price, release 3:41 Apple has announced the OLED iPad mini with an A20 Pro chip and IP67 rating. It starts at $699 and arrives November 6. Earlier today, the first signs arrived that Apple would announce its new touchscreen MacBooks a</summary><content type="html">&lt;img style="
 
  
@@ -918,170 +1146,6 @@
 &lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
 
 &lt;div class="fb-share-button" data-href="https://www.redsharknews.com/insta360-mic-wireless-microphone-price-specs" data-layout="button_count"&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>Leica Q3 43 Formula 1 Edition: price and specs</title><link href="https://www.redsharknews.com/leica-q3-43-formula-1-edition-camera"/><id>https://www.redsharknews.com/leica-q3-43-formula-1-edition-camera</id><published>2026-10-22T08:11:05+00:00</published><updated>2026-10-22T08:11:05+00:00</updated><summary>2 minute read Leica Q3 43 Formula 1 Edition: price and specs 3:31 Leica's special edition F1 camera adds carbon fiber, a Microvelour body, and a wireless charging grip to the Q3 43, not to mention $2000. The Formula One circus heads to North America this weekend, with the US Gran</summary><content type="html">&lt;img style="
-
- 
-	border-bottom: 16px solid #CF0005;
- 
-         
-" src="https://www.redsharknews.com/hubfs/Leica_Q3_43_F1_Camera.jpg" alt="The Leica Q3 43 Formula 1 Edition in all its co-branded glory"&gt;
-
-&lt;div class="read-minute"&gt;
-
-
-
-
-
-2 minute read
-
-&lt;/div&gt;
-&lt;div class="blog-section"&gt;
-&lt;div class="blog-post-wrapper cell-wrapper"&gt;
-&lt;div class="blog-section"&gt;
-&lt;div class="blog-post-wrapper cell-wrapper"&gt;
-&lt;div class="section post-body"&gt;
-&lt;div class="post-body--main-content"&gt;
-
-&lt;div style="margin-top: 12px;"&gt;
-&lt;div id="hs_cos_wrapper_narration" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"&gt;&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/TrackPlayAnalytics-DDKdhRbk.css"&gt;
-&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/Tooltip-BfwIxqAN.css"&gt;
-&lt;div data-hs-island="true" id="island-e46db1n76d2cdR0"&gt;&lt;div&gt;&lt;div class="hs-audio-player _hs-audio-player_1nxo7_1" role="group" tabindex="0" aria-label="Play blog post audio: Leica Q3 43 Formula 1 Edition: price and specs" data-status="initial" data-testid="audio-player" style="display:flex;align-items:center;height:60px;--primary:#cf000f;--secondary:#ffffff;--tertiary:#fc626d;--primary-alt:#d72020;--tertiary-translucent:#fc626d50"&gt;&lt;div class="_play-pause-skip_1nxo7_117 hs-audio-player__controls"&gt;&lt;div class="_control-button_1nxo7_36 _play-pause-button_1nxo7_122 hs-audio-player__play-pause-button" role="button" tabindex="-1" aria-label="Play" data-testid="play-pause-button"&gt;&lt;span class="_loading-spinner_1nxo7_147 hs-audio-player__loading-spinner" aria-label="Loading" aria-busy="true"&gt;&lt;span class="hs-audio-player__loading-icon"&gt;&lt;svg width="40" height="40" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"&gt;&lt;path d="M0 20C0 31.0457 8.95431 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.95431 0 0 8.9543 0 20ZM36.4 20C36.4 29.0575 29.0575 36.4 20 36.4C10.9425 36.4 3.6 29.0575 3.6 20C3.6 10.9425 10.9425 3.6 20 3.6C29.0575 3.6 36.4 10.9425 36.4 20Z" fill="url(#paint0_angular_1434_396)"&gt;&lt;/path&gt;&lt;circle cx="20" cy="20" r="18" fill="none" stroke="#00a4bd" stroke-width="3"&gt;&lt;/circle&gt;&lt;defs&gt;&lt;radialgradient id="paint0_angular_1434_396" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse" gradienttransform="translate(20 20) rotate(90) scale(20)"&gt;&lt;stop stop-color="#00A4BD"&gt;&lt;/stop&gt;&lt;stop offset="0.489583" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;stop offset="1" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;/radialgradient&gt;&lt;/defs&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="_initial-title_1nxo7_40 hs-audio-player__title" style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis"&gt;Leica Q3 43 Formula 1 Edition: price and specs&lt;/div&gt;&lt;div class="_ai-generated-icon_1nxo7_47 hs-audio-player__ai-icon" role="img" aria-label="AI-generated audio" tabindex="0"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" viewbox="0 -6 32 34"&gt;&lt;path d="M17.01.6l2.75 5.03c1.18 2.16 2.96 3.94 5.12 5.12l5.03 2.75c.8.44.8 1.58 0 2.01l-5.02 2.75c-2.16 1.18-3.94 2.96-5.12 5.12l-2.75 5.02c-.44.8-1.58.8-2.01 0l-2.75-5.03c-1.18-2.16-2.96-3.94-5.12-5.12L2.11 15.5c-.8-.44-.8-1.58 0-2.01l5.03-2.75c2.16-1.18 3.94-2.96 5.12-5.12L14.99.6c.44-.8 1.58-.8 2.01 0z"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div class="_duration_1nxo7_62 hs-audio-player__duration"&gt;3:31&lt;/div&gt;&lt;/div&gt;&lt;audio preload="none" src="https://www.redsharknews.com/hubfs/AI-Generated%20Media/Post%20Narration%20Audio/225130542625-TTS-1792656344654.mp3"&gt;&lt;/audio&gt;&lt;/div&gt;&lt;/div&gt;
-    
-      
-  
-  &lt;link rel="modulepreload" crossorigin href="https://static.hsappstatic.net/cms-js-static/ex/js/react/v18/react-combined.mjs"&gt;
-  
-      &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Leica's special edition F1 camera adds carbon fiber, a Microvelour body, and a wireless charging grip to the Q3 43, not to mention $2000.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;The Formula One circus heads to North America this weekend, with the US Grand Prix at the fabulous Circuit of the Americas in Austin, Texas, kicking off the last six races of the year. And it has a new Leica camera edition in tow.&lt;/p&gt;
-&lt;p&gt;F1 has been owned by Liberty Media for several years now, and where the Americas-based races were once almost exercises in box-ticking, the combination of US ownership and the popularity juggernaut of &lt;em&gt;Drive to Survive&lt;/em&gt; has seen them rise significantly in importance. Never mind that 20-year-old prodigy Kimi Antonelli can win the Drivers’ Championship five races early, and become its youngest champion ever, if he wins on Sunday and other results go his way, F1 in North America is now about serious marketing razzamatazz.&lt;/p&gt;
-&lt;h2&gt;Now with added carbon fiber&lt;/h2&gt;
-&lt;p&gt;Which brings us to the Leica Q3 43 Formula 1 Edition camera, a special edition of the Leica Q3 43, sold as a camera and accessories set. It has handcrafted carbon fiber parts, black Microvelour covering, official F1 branding, and naturally costs a small fortune.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Detail.jpg?width=1920&amp;amp;height=1280&amp;amp;name=Leica_Q3_43_F1_Detail.jpg" width="1920" height="1280" loading="lazy" alt="Leica_Q3_43_F1_Detail" style="height: auto; max-width: 100%; width: 1920px;" srcset="https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Detail.jpg?width=960&amp;amp;height=640&amp;amp;name=Leica_Q3_43_F1_Detail.jpg 960w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Detail.jpg?width=1920&amp;amp;height=1280&amp;amp;name=Leica_Q3_43_F1_Detail.jpg 1920w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Detail.jpg?width=2880&amp;amp;height=1920&amp;amp;name=Leica_Q3_43_F1_Detail.jpg 2880w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Detail.jpg?width=3840&amp;amp;height=2560&amp;amp;name=Leica_Q3_43_F1_Detail.jpg 3840w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Detail.jpg?width=4800&amp;amp;height=3200&amp;amp;name=Leica_Q3_43_F1_Detail.jpg 4800w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Detail.jpg?width=5760&amp;amp;height=3840&amp;amp;name=Leica_Q3_43_F1_Detail.jpg 5760w" sizes="(max-width: 1920px) 100vw, 1920px"&gt;The carbon fiber parts, specially manufactured in Germany, are fitted to the hand grip, thumb rest, and soft-release button. The soft-release button and the right-hand function button in the thumb rest are finished in Formula 1 red. The top plate is engraved with the F1 logo, the lens cap matches, and the rope strap bears both brands’ logos.&lt;/p&gt;
-&lt;p&gt;Thankfully, the godawful specially designed Formula1 font family that F1 uses in its broadcasts hasn’t made it anywhere near it.&lt;/p&gt;
-&lt;p&gt;The wireless charging hand grip is carbon fiber instead of the classic leatherette covering. It has an Arca-Swiss mount, can be removed at any time, and accepts a wrist strap. The camera starts charging when placed on the Drop XL Wireless Charger pad.&lt;/p&gt;
-&lt;h2&gt;Leica Q3 43 base&lt;/h2&gt;
-&lt;p&gt;&lt;img src="https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Image_01.jpg?width=1920&amp;amp;height=1080&amp;amp;name=Leica_Q3_43_F1_Image_01.jpg" width="1920" height="1080" loading="lazy" alt="Leica_Q3_43_F1_Image_01" style="height: auto; max-width: 100%; width: 1920px;" srcset="https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Image_01.jpg?width=960&amp;amp;height=540&amp;amp;name=Leica_Q3_43_F1_Image_01.jpg 960w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Image_01.jpg?width=1920&amp;amp;height=1080&amp;amp;name=Leica_Q3_43_F1_Image_01.jpg 1920w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Image_01.jpg?width=2880&amp;amp;height=1620&amp;amp;name=Leica_Q3_43_F1_Image_01.jpg 2880w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Image_01.jpg?width=3840&amp;amp;height=2160&amp;amp;name=Leica_Q3_43_F1_Image_01.jpg 3840w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Image_01.jpg?width=4800&amp;amp;height=2700&amp;amp;name=Leica_Q3_43_F1_Image_01.jpg 4800w, https://www.redsharknews.com/hs-fs/hubfs/Leica_Q3_43_F1_Image_01.jpg?width=5760&amp;amp;height=3240&amp;amp;name=Leica_Q3_43_F1_Image_01.jpg 5760w" sizes="(max-width: 1920px) 100vw, 1920px"&gt;Elsewhere, it is a bog-standard Leica Q3 43, if any camera of this pedigree can really be referred to as ‘bog-standard’. That gives you a 60 MP CMOS full-frame sensor, with a choice of 60, 36, or 18 MP in JPEG or DNG, any of which always use the entire sensor area. The ISO range is 50 to 100,000. Processing is handled by the Maestro IV processor with L² technology, and video recording goes up to 8K.&lt;/p&gt;
-&lt;p&gt;The lens is the Leica APO-Summicron 43 f/2 ASPH., which has seven aspherical surfaces and a built-in macro mode. The focus range is 60 cm (23.6 in) to infinity, with a macro setting of 26.5 cm (10.4 in) to 60 cm (23.6 in). Autofocus is a hybrid system combining contrast measurement, depth mapping, and phase detection, and the aperture runs from f/2 to f/16 in 1/3 EV increments. Dimensions are 130 x 80.3 x 97.6 mm (5.1 x 3.2 x 3.8 in).&lt;/p&gt;
-&lt;p&gt;One further differentiator, though, is a ‘Formula 1’ Leica Look developed specially for the camera. Leica says this applies greater contrast and saturation to still images, and can be transferred to the camera via the Leica FOTOS app.&lt;/p&gt;
-&lt;h2&gt;Pricing and availability&lt;/h2&gt;
-&lt;p&gt;The &lt;a href="https://leicacamerausa.com/leica-q3-43-formula-1-edition.html" rel="noopener" target="_blank"&gt;Leica Q3 43 Formula 1 Edition &lt;/a&gt;is available now for $9950, an impressive $2000 more than the base Leica Q3 43 currently is, but then this is Formula One.&lt;/p&gt;&lt;/span&gt;
-&lt;p id="hubspot-topic_data"&gt;Tags:
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/cameras"&gt;Cameras&lt;/a&gt;
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/leica"&gt;Leica&lt;/a&gt;
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/formula-one"&gt;Formula One&lt;/a&gt;
-&lt;/p&gt;
-&lt;div class="blog-social-group" style="display: flex;"&gt;
-&lt;a data-flip-widget="shareflip" href="https://flipboard.com"&gt;
-&lt;img style="width: 20px!important; margin: 10px 4px 0 0;" src="https://cdn.flipboard.com/badges/flipboard_srsw.png"&gt;
-&lt;/a&gt;
-
-&lt;span id="hs_cos_wrapper_blog_social_sharing" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_social_sharing" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_social_sharing"&gt;
-&lt;div class="hs-blog-social-share"&gt;
-&lt;ul class="hs-blog-social-share-list"&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-twitter"&gt;
-
-&lt;a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-url="https://www.redsharknews.com/leica-q3-43-formula-1-edition-camera" data-size="medium" data-text="Leica Q3 43 Formula 1 Edition: price and specs"&gt;Tweet&lt;/a&gt;
-&lt;/li&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-linkedin"&gt;
-
-
-&lt;/li&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
-
-&lt;div class="fb-share-button" data-href="https://www.redsharknews.com/leica-q3-43-formula-1-edition-camera" data-layout="button_count"&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content></entry>
-<entry><title>OM System PEN delay: Japan release moves to Nov</title><link href="https://www.redsharknews.com/om-system-pen-delay-japan-november-28"/><id>https://www.redsharknews.com/om-system-pen-delay-japan-november-28</id><published>2026-10-22T06:43:16+00:00</published><updated>2026-10-22T06:43:16+00:00</updated><summary>1 minute read OM System PEN delay: Japan release moves to Nov 2:21 OM System PEN release in Japan moves to November 28 after pre-orders exceeded expectations. Retailers elsewhere are still taking orders. The Sony FX5 looks increasingly likely to meet its latest November 16 releas</summary><content type="html">&lt;img style="
-
- 
-	border-bottom: 16px solid #CF0005;
- 
-         
-" src="https://www.redsharknews.com/hubfs/om%20system%20pen%20in%20hand.jpg" alt="Where you are in the world very much seems to govern when you can get your hands on a new PEN"&gt;
-
-&lt;div class="read-minute"&gt;
-
-
-
-
-
-1 minute read
-
-&lt;/div&gt;
-&lt;div class="blog-section"&gt;
-&lt;div class="blog-post-wrapper cell-wrapper"&gt;
-&lt;div class="blog-section"&gt;
-&lt;div class="blog-post-wrapper cell-wrapper"&gt;
-&lt;div class="section post-body"&gt;
-&lt;div class="post-body--main-content"&gt;
-
-&lt;div style="margin-top: 12px;"&gt;
-&lt;div id="hs_cos_wrapper_narration" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"&gt;&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/TrackPlayAnalytics-DDKdhRbk.css"&gt;
-&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/Tooltip-BfwIxqAN.css"&gt;
-&lt;div data-hs-island="true" id="island-e46db1n76d2cdR0"&gt;&lt;div&gt;&lt;div class="hs-audio-player _hs-audio-player_1nxo7_1" role="group" tabindex="0" aria-label="Play blog post audio: OM System PEN delay: Japan release moves to Nov" data-status="initial" data-testid="audio-player" style="display:flex;align-items:center;height:60px;--primary:#cf000f;--secondary:#ffffff;--tertiary:#fc626d;--primary-alt:#d72020;--tertiary-translucent:#fc626d50"&gt;&lt;div class="_play-pause-skip_1nxo7_117 hs-audio-player__controls"&gt;&lt;div class="_control-button_1nxo7_36 _play-pause-button_1nxo7_122 hs-audio-player__play-pause-button" role="button" tabindex="-1" aria-label="Play" data-testid="play-pause-button"&gt;&lt;span class="_loading-spinner_1nxo7_147 hs-audio-player__loading-spinner" aria-label="Loading" aria-busy="true"&gt;&lt;span class="hs-audio-player__loading-icon"&gt;&lt;svg width="40" height="40" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"&gt;&lt;path d="M0 20C0 31.0457 8.95431 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.95431 0 0 8.9543 0 20ZM36.4 20C36.4 29.0575 29.0575 36.4 20 36.4C10.9425 36.4 3.6 29.0575 3.6 20C3.6 10.9425 10.9425 3.6 20 3.6C29.0575 3.6 36.4 10.9425 36.4 20Z" fill="url(#paint0_angular_1434_396)"&gt;&lt;/path&gt;&lt;circle cx="20" cy="20" r="18" fill="none" stroke="#00a4bd" stroke-width="3"&gt;&lt;/circle&gt;&lt;defs&gt;&lt;radialgradient id="paint0_angular_1434_396" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse" gradienttransform="translate(20 20) rotate(90) scale(20)"&gt;&lt;stop stop-color="#00A4BD"&gt;&lt;/stop&gt;&lt;stop offset="0.489583" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;stop offset="1" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;/radialgradient&gt;&lt;/defs&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="_initial-title_1nxo7_40 hs-audio-player__title" style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis"&gt;OM System PEN delay: Japan release moves to Nov&lt;/div&gt;&lt;div class="_ai-generated-icon_1nxo7_47 hs-audio-player__ai-icon" role="img" aria-label="AI-generated audio" tabindex="0"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" viewbox="0 -6 32 34"&gt;&lt;path d="M17.01.6l2.75 5.03c1.18 2.16 2.96 3.94 5.12 5.12l5.03 2.75c.8.44.8 1.58 0 2.01l-5.02 2.75c-2.16 1.18-3.94 2.96-5.12 5.12l-2.75 5.02c-.44.8-1.58.8-2.01 0l-2.75-5.03c-1.18-2.16-2.96-3.94-5.12-5.12L2.11 15.5c-.8-.44-.8-1.58 0-2.01l5.03-2.75c2.16-1.18 3.94-2.96 5.12-5.12L14.99.6c.44-.8 1.58-.8 2.01 0z"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div class="_duration_1nxo7_62 hs-audio-player__duration"&gt;2:21&lt;/div&gt;&lt;/div&gt;&lt;audio preload="none" src="https://www.redsharknews.com/hubfs/AI-Generated%20Media/Post%20Narration%20Audio/225130380635-TTS-1792651153221.mp3"&gt;&lt;/audio&gt;&lt;/div&gt;&lt;/div&gt;
-    
-      
-  
-  &lt;link rel="modulepreload" crossorigin href="https://static.hsappstatic.net/cms-js-static/ex/js/react/v18/react-combined.mjs"&gt;
-  
-      &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;OM System PEN release in Japan moves to November 28 after pre-orders exceeded expectations. Retailers elsewhere are still taking orders.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;The Sony FX5 looks increasingly likely to meet its latest &lt;a href="/sony-fx5-ship-date-om-system-pen-delay" rel="noopener" target="_blank"&gt;November 16 release date&lt;/a&gt;, nearly three months after it was originally meant to ship. But the supply problems affecting the camera industry continue with the &lt;a href="/om-system-pen-camera-launch" rel="noopener" target="_blank"&gt;OM System PEN &lt;/a&gt;the latest camera to slip down the schedules, at least in its Japanese home market.&lt;/p&gt;
-&lt;p&gt;In a &lt;a href="https://jp.omsystem.com/information/detail/in20261021.pdf" rel="noopener" target="_blank"&gt;machine-translated statement&lt;/a&gt;, OM Digital Solutions says it has postponed the release of the eagerly anticipated mirrorless camera and related accessories from October 30, 2026, to November 28, 2026.&lt;/p&gt;
-&lt;p&gt;The company says pre-orders exceeded expectations, and that only some customers could have received the product on release day, depending on type and color. It now plans to release the camera once it has secured enough stock for all customers who had confirmed pre-orders by September 10, the date of the first delivery delay notice.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.redsharknews.com/hs-fs/hubfs/om%20system%20pen.jpg?width=1920&amp;amp;height=1079&amp;amp;name=om%20system%20pen.jpg" width="1920" height="1079" loading="lazy" alt="OM System PEN mirrorless camera in silver and black, front view with 14-42mm kit lens attached" style="height: auto; max-width: 100%; width: 1920px;" srcset="https://www.redsharknews.com/hs-fs/hubfs/om%20system%20pen.jpg?width=960&amp;amp;height=540&amp;amp;name=om%20system%20pen.jpg 960w, https://www.redsharknews.com/hs-fs/hubfs/om%20system%20pen.jpg?width=1920&amp;amp;height=1079&amp;amp;name=om%20system%20pen.jpg 1920w, https://www.redsharknews.com/hs-fs/hubfs/om%20system%20pen.jpg?width=2880&amp;amp;height=1619&amp;amp;name=om%20system%20pen.jpg 2880w, https://www.redsharknews.com/hs-fs/hubfs/om%20system%20pen.jpg?width=3840&amp;amp;height=2158&amp;amp;name=om%20system%20pen.jpg 3840w, https://www.redsharknews.com/hs-fs/hubfs/om%20system%20pen.jpg?width=4800&amp;amp;height=2698&amp;amp;name=om%20system%20pen.jpg 4800w, https://www.redsharknews.com/hs-fs/hubfs/om%20system%20pen.jpg?width=5760&amp;amp;height=3237&amp;amp;name=om%20system%20pen.jpg 5760w" sizes="(max-width: 1920px) 100vw, 1920px"&gt;The delay covers the PEN body (silver or black), the PEN 14-42mm F3.5-5.6 III lens kit (body plus M.ZUIKO DIGITAL 14-42mm F3.5-5.6 III), the PEN double zoom kit (body plus that lens and the M.ZUIKO DIGITAL ED 40-150mm F4.0-5.6 R), the BLS-7 battery, and the BCS-7 charger. The M.ZUIKO DIGITAL 14-42mm F3.5-5.6 III lens still goes on sale October 30 as planned.&lt;/p&gt;
-&lt;p&gt;As far as we can tell at the moment, this is a problem in Japan only. Retailers around the world are still listing the camera as either in stock or available for pre-order. PetaPixel’s fancy new Pixel Meter review aggregator gives it &lt;a href="https://petapixel.com/pixelmeter/om-system-pen/"&gt;an 86/100 score&lt;/a&gt;, though, so it would not be impossible for demand to put stock&amp;nbsp;under pressure elsewhere as well.&lt;/p&gt;
-&lt;p&gt;In related news, the entry deadline for the “My Journey, Written with PEN: OM SYSTEM PEN Launch Commemoration Campaign” moves from November 19, 2026, to April 19, 2027. The eligible purchase period (September 9 to November 5, 2026) is unchanged, and pre-orders or orders in that window qualify even if delivery comes later.&lt;/p&gt;&lt;/span&gt;
-&lt;p id="hubspot-topic_data"&gt;Tags:
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/cameras"&gt;Cameras&lt;/a&gt;
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/om-system-pen"&gt;OM System PEN&lt;/a&gt;
-&lt;/p&gt;
-&lt;div class="blog-social-group" style="display: flex;"&gt;
-&lt;a data-flip-widget="shareflip" href="https://flipboard.com"&gt;
-&lt;img style="width: 20px!important; margin: 10px 4px 0 0;" src="https://cdn.flipboard.com/badges/flipboard_srsw.png"&gt;
-&lt;/a&gt;
-
-&lt;span id="hs_cos_wrapper_blog_social_sharing" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_social_sharing" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_social_sharing"&gt;
-&lt;div class="hs-blog-social-share"&gt;
-&lt;ul class="hs-blog-social-share-list"&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-twitter"&gt;
-
-&lt;a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-url="https://www.redsharknews.com/om-system-pen-delay-japan-november-28" data-size="medium" data-text="OM System PEN delay: Japan release moves to Nov"&gt;Tweet&lt;/a&gt;
-&lt;/li&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-linkedin"&gt;
-
-
-&lt;/li&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
-
-&lt;div class="fb-share-button" data-href="https://www.redsharknews.com/om-system-pen-delay-japan-november-28" data-layout="button_count"&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
