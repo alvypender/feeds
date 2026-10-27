@@ -3,7 +3,167 @@
 <title>News | CineD – Completo</title>
 <link href="https://www.cined.com/news/"/>
 <id>https://www.cined.com/news/</id>
-<updated>2026-10-27T14:36:07+00:00</updated>
+<updated>2026-10-27T15:58:36+00:00</updated>
+<entry>
+  <title>Hollyland LARK M3 Explained – One Transmitter, Up to Four Receivers, and 4-Track Audio</title>
+  <link href="https://www.cined.com/hollyland-lark-m3-explained-one-transmitter-up-to-four-receivers-and-4-track-audio/"/>
+  <id>https://www.cined.com/hollyland-lark-m3-explained-one-transmitter-up-to-four-receivers-and-4-track-audio/</id>
+  <published>2026-10-27T15:58:36+00:00</published>
+  <updated>2026-10-27T15:58:36+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg" medium="image"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg</webfeeds:featuredImage>
+  <summary>Most budget wireless kits are built around one assumption: one receiver, one camera. The Hollyland LARK M3 breaks that assumption, because a single transmitter can feed up to four receivers at the same time. On a multi-camera interview, that means every camera can record the same</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/M3-kits-feature.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Most budget wireless kits are built around one assumption: one receiver, one camera. The Hollyland LARK M3 breaks that assumption, because a single transmitter can feed up to four receivers at the same time. On a multi-camera interview, that means every camera can record the same clean lav signal instead of scratch audio. Here is how the system divides control between receivers, where the four isolated tracks actually arrive, and where its limits are.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We have previously covered the &lt;a href="https://www.cined.com/hollyland-lark-m2-introduced-a-button-sized-dual-mic-wireless-system/" target="_blank" rel="noreferrer noopener"&gt;LARK M2&lt;/a&gt; and the more discreet &lt;a href="https://www.cined.com/hollyland-lark-m2s-announced-mini-concealed-wireless-microphone-set/" target="_blank" rel="noreferrer noopener"&gt;LARK M2S&lt;/a&gt;, as well as the &lt;a href="https://www.cined.com/hollyland-lark-max-2-officially-launched-32-bit-float-on-board-tc-four-tx-support/" target="_blank" rel="noreferrer noopener"&gt;LARK MAX 2&lt;/a&gt;, which adds onboard recording and timecode. The M3 sits between those approaches. It keeps the 9g (0.32oz) transmitter size of the M2 while adding 32-bit float output and much more flexible multi-transmitter and multi-receiver routing.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The LARK M3 is a 2.4GHz system with a 9g (0.32oz) transmitter, 48kHz audio at 24-bit or 32-bit float, three levels of AI noise cancellation, and a rated range of up to 300m (1,000ft). It scales in both directions: one receiver accepts up to four transmitters, and one transmitter pairs with up to four receivers, in any combination up to 4TX and 4RX. Two receiver types are available: a 5.9g (0.21oz) USB-C receiver for phones, tablets, and computers, and a 20g (0.71oz) camera receiver with 3.5mm TRS output and a USB-C port. &lt;/p&gt;
+
+
+&lt;!-- wp:embed/video --&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="Introducing LARK M3 | All Together Now" width="500" height="281" src="https://www.youtube-nocookie.com/embed/qH3vbgEVQr8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;!-- /wp:embed/video --&gt;
+
+
+&lt;h2 class="wp-block-heading"&gt;One lav, several cameras&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On a typical two-camera interview with a single wireless kit, the receiver goes on the A camera. The B camera records its onboard microphone as a reference, and the editor syncs the angles by waveform and uses the A-camera audio for the whole scene. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The LARK M3 removes that step. A second, third, or fourth receiver pairs to the same transmitter, so each camera records the lav signal directly. The same applies to mixed setups, which Hollyland confirms in its FAQ: camera receivers and USB-C receivers can work together in one system as long as the total is four receivers or fewer. A presenter can feed a cinema camera, a phone recording a vertical version, and a laptop running a live stream from one transmitter. Transmitters and receivers can also be added or removed during a shoot without interrupting audio on the units that stay connected.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Hollyland has followed a similar logic on the video side. The &lt;a href="https://www.cined.com/hollyland-pyro-ultra-wireless-video-transmission-system-4k60-22ms-latency-and-unlimited-receivers/" target="_blank" rel="noreferrer noopener"&gt;Pyro Ultra&lt;/a&gt; wireless video system supports an unlimited number of receivers, and the LARK M3 brings a smaller version of that one-to-many idea to entry-level audio.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Lark-M3-900x506.jpg" alt="Hollyland Lark M3 kit" class="wp-image-445142" srcset="https://www.cined.com/content/uploads/2026/10/Lark-M3-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/Lark-M3-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/Lark-M3-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/Lark-M3-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Lark-M3-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/Lark-M3-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/Lark-M3-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/Lark-M3-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/Lark-M3.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;LARK M3 kit. Image credit: Hollyland&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;How the primary and secondary receivers divide control&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;When more than one receiver is connected, the system assigns roles automatically. According to the manual, the first receiver that connects after the transmitter powers on becomes the primary receiver, and every receiver after it becomes a secondary. The primary receiver controls the transmitters: noise cancellation, mute, the indicator lights, voice tuning presets, and Smart Reverb. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Two settings stay independent on every receiver: output gain and channel mode. Each camera can therefore run its own level and channel configuration without changing the transmitter settings for the rest of the system.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;If the primary receiver goes offline during a take, the system selects one of the remaining receivers as the new primary while audio on the secondary receivers continues.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The roles can be changed. In the app, a secondary receiver can be promoted to primary, or the crew can disconnect all receivers except the one that should take control, and then reconnect the others. &lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/Four-independent-tracks-900x506.jpg" alt="Hollyland LARK M3 Four independent tracks" class="wp-image-445145" srcset="https://www.cined.com/content/uploads/2026/10/Four-independent-tracks-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/Four-independent-tracks-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/Four-independent-tracks-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/Four-independent-tracks-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/Four-independent-tracks-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/Four-independent-tracks-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/Four-independent-tracks-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/Four-independent-tracks-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/Four-independent-tracks.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Four independent tracks. Image credit: Hollyland&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Where the four isolated tracks actually arrive&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The headline feature of four independent tracks needs precise reading, because it depends on the connection. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to Hollyland’s manual and FAQ, the LARK M3 can record up to four isolated tracks, but only through compatible digital connections. The camera receiver&amp;#8217;s 3.5mm TRS output is limited to Mono or Stereo, so four separate tracks require the separately sold &lt;a href="https://www.hollyland.com/lark-m3-hot-shoe-adapter" target="_blank" rel="noreferrer noopener"&gt;LARK M3 Hot Shoe Adapter&lt;/a&gt; or a USB-C connection to a computer with compatible recording software.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On phones, 4-Track mode depends on the app. Hollyland&amp;#8217;s FAQ says compatible third-party recording apps on iOS can support it, while the native camera apps on iOS and Android do not. The same applies to 32-bit float: it requires compatible software, and Android devices are limited to 24-bit.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/compact-kit-900x506.jpg" alt="Hollyland LARK M3 compact kit." class="wp-image-445148" srcset="https://www.cined.com/content/uploads/2026/10/compact-kit-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/compact-kit-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/compact-kit-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/compact-kit-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/compact-kit-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/compact-kit-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/compact-kit-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/compact-kit-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/compact-kit.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Hollyland LARK M3 compact kit. Image credit: Hollyland&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Practical configurations&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The flexible transmitter and receiver arrangement is what makes the M3 different from a conventional two-person wireless kit.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For a two-person interview on two cameras, both cameras can receive the same two microphones directly. For a four-person panel, four transmitters can feed one receiver, with four isolated tracks available through a compatible digital connection. A single presenter can instead feed several receivers at once, allowing the same microphone to reach a camera, phone and computer simultaneously.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The system can therefore be built around either the number of people being recorded or the number of devices that need to receive the audio.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit-900x506.jpg" alt="Hollyland LARK M3 two transmitter four receiver kit." class="wp-image-445154" srcset="https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/two-transmitter-four-receiver-kit.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Two transmitter, four receiver kit. Image credit: Hollyland&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Current limitations&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The LARK M3 transmitters do not have internal recording, and the system does not support timecode. A triple press of the transmitter button starts and stops recording on the connected device, not in the microphone. If the 2.4GHz link drops, no backup copy exists on the transmitter.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Multiple receivers reduce some of that risk because each camera or device holds its own received copy of the audio, but all copies still depend on the same wireless transmission.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Battery life is approximately eight hours per transmitter with noise cancellation off, and 4 to 4.5 hours with it on. The camera receiver runs for approximately nine hours, and receivers can run continuously on USB-C power. Hollyland rates the 300m (1,000ft) range for open environments without interference.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;How it compares within the LARK lineup&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The LARK M3 keeps the compact 9g (0.32oz) transmitter format of the &lt;a href="https://www.bhphotovideo.com/c/product/1809525-REG/hollyland_hl_lark_m2_combo_lark_m2_2_person_wireless.html/BI/7953/KBID/8488/SID/lex" target="_blank" rel="noreferrer noopener"&gt;LARK M2&lt;/a&gt; while adding 32-bit float output, AI noise cancellation, support for up to four transmitters and four receivers, and four-track recording through compatible digital connections.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The &lt;a href="https://www.bhphotovideo.com/c/product/1895907-REG/hollyland_lark_max_2_ultimate_combo_space_gray_lark_max_2_ultimate.html/BI/7953/KBID/8488/SID/lex" target="_blank" rel="noreferrer noopener"&gt;LARK MAX 2&lt;/a&gt; moves further toward professional production. Its transmitters add onboard 32-bit float recording and timecode, giving crews a backup copy and a more complete sync workflow.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The M3 therefore makes the most sense when the priority is a small microphone and flexible routing between several people, cameras, or recording devices. The MAX 2 remains the stronger option when internal backup recording and timecode are more important.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The LARK M3 is available now in four kits. The 2TX&amp;amp;1RX kit is priced at &lt;a href="https://www.bhphotovideo.com/c/product/1997935-REG/hollyland_lark_m3_combo_2tx1rx_lark_m3_combo_with.html/BI/7953/KBID/8488//BI/7953/KBID/8488/SID/lex" target="_blank" rel="noreferrer noopener"&gt;$99&lt;/a&gt;, the 2TX&amp;amp;2RX kit is &lt;a href="https://www.bhphotovideo.com/c/product/1997937-REG/hollyland_lark_m3_combo_2tx2rx_lark_m3_combo_with.html/BI/7953/KBID/8488//BI/7953/KBID/8488/SID/lex" target="_blank" rel="noreferrer noopener"&gt;$119&lt;/a&gt;, the 2TX&amp;amp;4RX kit is &lt;a href="https://www.bhphotovideo.com/c/product/1997939-REG/hollyland_lark_m3_combo_2tx4rx_lark_m3_combo_2tx_4rx.html/BI/7953/KBID/8488//BI/7953/KBID/8488/SID/lex" target="_blank" rel="noreferrer noopener"&gt;$179&lt;/a&gt;, and the 4TX&amp;amp;2RX kit costs &lt;a href="https://www.bhphotovideo.com/c/product/1997941-REG/hollyland_lark_m3_combo_4tx2rx_lark_m3_combo_4tx_2rx.html/BI/7953/KBID/8488//BI/7953/KBID/8488/SID/lex" target="_blank" rel="noreferrer noopener"&gt;$179&lt;/a&gt;. B&amp;amp;H also sells single components: a transmitter at $39, a USB-C receiver at $29, and a camera receiver at $39. The hot shoe adapter is sold separately. For more information, please visit the &lt;a href="https://www.hollyland.com/product/lark-m3" target="_blank" rel="noreferrer noopener"&gt;Hollyland website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would one transmitter feeding several cameras change how you rig your next interview, or is backup recording a requirement before a kit goes on a multi-camera shoot? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Apple MacBook Pro M6 and iMac M6 Announced – 2nm Chip, ProRes RAW Media Engine, Up to 32GB Memory</title>
   <link href="https://www.cined.com/apple-macbook-pro-m6-and-imac-m6-announced-2nm-chip-prores-raw-media-engine-up-to-32gb-memory/"/>
@@ -1514,112 +1674,5 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Will shared focus marks and direct Cine RT support change how your focus puller works with the ALEXA 35? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Blackmagic Design Raises Prices on 36 Products – ATEM, 2110 IP Converters, and Cloud Store Hit by Memory Costs</title>
-  <link href="https://www.cined.com/blackmagic-design-raises-prices-on-36-products-atem-2110-ip-converters-and-cloud-store-hit-by-memory-costs/"/>
-  <id>https://www.cined.com/blackmagic-design-raises-prices-on-36-products-atem-2110-ip-converters-and-cloud-store-hit-by-memory-costs/</id>
-  <published>2026-10-20T11:36:43+00:00</published>
-  <updated>2026-10-20T11:36:43+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg" medium="image"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg</webfeeds:featuredImage>
-  <summary>Blackmagic Design has raised prices on 36 products, and the company names rising memory costs as the reason. The list covers ATEM switchers, SMPTE 2110 IP converters, DeckLink cards, HyperDeck recorders, and Cloud Store network storage, with increases from $20 to almost $7,000 pe</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/Blackmagic-Design-price-increase-300x169.jpg" alt=""&gt;&lt;/p&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Blackmagic Design has raised prices on 36 products, and the company names rising memory costs as the reason. The list covers ATEM switchers, SMPTE 2110 IP converters, DeckLink cards, HyperDeck recorders, and Cloud Store network storage, with increases from $20 to almost $7,000 per product. Let&amp;#8217;s take a closer look at the most recent Blackmagic price increase.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;According to a company statement issued today, the new prices are effective immediately from Blackmagic Design resellers worldwide – though at the time of writing, we were still able to find the old (lower) prices at many retailers, including our partners B&amp;amp;H and CVP, so if you act fast (links below the article, you might still receive the goods at the old prices). &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;All figures about the increases mentioned below are in US dollars and exclude local duties and taxes. The price changes apply to new orders only: Blackmagic says that all current customer backorders (orders that customers have already placed but have not yet received) will be fulfilled at the original order price. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The largest single increase is on the ATEM 4 M/E Constellation IP Plus, which goes from $12,995 to $19,960 (+$6,965, or 54%). In percentage terms, the Blackmagic 2110 IP SDI to HDMI 12G sees the steepest change, from $515 to $925 (+80%). No cinema cameras are on the list.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-900x506.jpg" alt="" class="wp-image-444416" srcset="https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/blackmagic-design-atem-4-m-e-constellation-ip_72812.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Now over 50% more expensive: The Blackmagic Design ATEM 4 M/E Constellation IP Plus. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;We have previously reported on an &lt;a href="https://www.cined.com/memory-crunch-hits-blackmagic-design-ursa-cine-cloud-store-media-modules-and-atem-all-get-pricier/" target="_blank" rel="noopener"&gt;earlier round of Blackmagic price increases&lt;/a&gt; that affected URSA Cine, Cloud Store, Media Modules, and ATEM products,, and on the &lt;a href="https://www.cined.com/global-memory-shortage-2026-what-filmmakers-need-to-know-about-rising-nand-dram-and-ssd-prices/" target="_blank" rel="noopener"&gt;global memory shortage&lt;/a&gt; behind price increases across the camera industry. Fujifilm has raised camera prices in the &lt;a href="https://www.cined.com/fujifilm-raises-u-s-camera-prices-again-effective-august-30th/" target="_blank" rel="noopener"&gt;US&lt;/a&gt;, in Europe, and in &lt;a href="https://www.cined.com/fujifilm-raises-camera-prices-in-japan-by-up-to-15-gfx100-ii-x100vi-and-x-e5-affected/" target="_blank" rel="noopener"&gt;Japan&lt;/a&gt; for the same reason, and Sony &lt;a href="https://www.cined.com/sony-suspends-nearly-all-memory-card-sales-as-global-flash-shortage-hits-filmmakers/" target="_blank" rel="noopener"&gt;suspended orders for nearly all of its memory cards&lt;/a&gt; earlier this year. The movement has not been in one direction only at Blackmagic, though: in September, the company &lt;a href="https://www.cined.com/blackmagic-cuts-full-frame-6k-camera-prices-cinema-camera-6k-now-1755-pyxis-6k-from-2245-and-more/" target="_blank" rel="noopener"&gt;cut the prices of its full-frame 6K cameras&lt;/a&gt;, the Cinema Camera 6K and the PYXIS 6K.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Why Blackmagic is raising prices&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In its statement, Blackmagic explains that the cost of memory (specifically the DRAM, flash, and SSD storage that &amp;#8220;goes into almost everything we make&amp;#8221;) has risen several times over during the past year. The company attributes this to memory manufacturers shifting their production to supply AI data centers. According to Blackmagic&amp;#8217;s suppliers, memory consumption is now 60% higher than at the peak of the COVID shortages, and demand is a further 30% above what the suppliers can deliver. Blackmagic calculates that, in total, demand for memory is now about double what it was at the COVID peak.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The company also says why the increases come now. For some years, Blackmagic held prices down because it was building products from parts it had already bought. That stock is now being replaced with parts bought at current prices, and on the products that use a lot of memory, the company says the increase is more than it can absorb. Blackmagic names the new SMPTE 2110 products specifically, because they use much more memory. SMPTE ST 2110 is the standard for sending uncompressed video, audio, and data as separate streams over IP networks in broadcast facilities.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Blackmagic states that it is adjusting prices &amp;#8220;only by the minimum we need to&amp;#8221;, and that it is &amp;#8220;still not happy about this&amp;#8221;. The company says it will continue to search the open market for memory and other parts at better prices, pass any savings on through special deals, and return to lowering prices when parts prices come back down, which it expects to happen.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;ATEM switchers take the largest increases&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The ATEM line has eight products on the list, and it has the largest dollar increases of the announcement. The ATEM 4 M/E Constellation IP Plus rises from $12,995 to $19,960, and the ATEM 4 M/E Constellation IP from $7,995 to $10,845 (+$2,850). The ATEM 1 M/E Constellation 4K goes from $1,895 to $2,840 (+$945), and the ATEM 2 M/E Constellation 4K from $4,415 to $5,025 (+$610). More information on the Constellation models is available on &lt;a href="https://www.blackmagicdesign.com/products/atemconstellation" target="_blank" rel="noopener"&gt;Blackmagic&amp;#8217;s product page&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On the smaller switchers, the ATEM Mini Extreme ISO G2 rises from $1,995 to $3,090 (+$1,095, or 55%), which makes it one of the largest percentage increases in the list. The ATEM Mini Pro, one of the most common switchers in small studios and streaming setups, goes from $310 to $395 (+$85). The ATEM Television Studio 4K8 moves from $4,995 to $5,855 (+$860), and the ATEM Television Studio HD8 ISO from $2,995 to $3,235 (+$240).&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;SMPTE 2110 and 100G IP products&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The IP products are the largest group, with 11 products from the Blackmagic 2110 IP family plus several 100G and other IP models. Among the full-size converters, the 2110 IP Converter 8x12G SFP rises from $2,665 to $3,575 (+$910), the 2110 IP Converter 4x12G PWR from $2,075 to $2,360 (+$285), and the 2110 IP Converter 3x3G from $595 to $920 (+$325). The 2110 IP Presentation Converter goes from $885 to $1,170 (+$285).&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-900x506.jpg" alt="" class="wp-image-444420" srcset="https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/blackmagic_design_2110_ip_sdi_to_1890596.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;80% more expensive: The Blackmagic Design 2110 IP SDI to HDMI 12G. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The steepest percentage increases are on the 2110 IP converters with 12G-SDI. The 2110 IP SDI to HDMI 12G rises from $515 to $925 (+80%), the 2110 IP UpDownCross 12G from $565 to $955 (+69%), and the 2110 IP SDI to HDMI 12G-10 from $995 to $1,550 (+56%). The Mini converters change less: the 2110 IP Mini BiDirect 12G goes from $380 to $530, the 2110 IP Mini BiDirect 12G SFP from $385 to $475, and the 2110 IP Mini IP to HDMI from $305 to $375. The 2110 IP Mini IP to HDMI SFP has the smallest increase of the whole list, from $305 to $325 (+$20).&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Three 100G products are also affected. The Blackmagic UpDownCross 100G rises from $2,435 to $3,600 (+$1,165), the Blackmagic StudioBridge 100G from $2,495 to $2,930 (+$435), and the DeckLink IP 100G from $1,495 to $1,795 (+$300). The other DeckLink IP cards change as follows: DeckLink IP HD from $345 to $450, DeckLink IP HD Optical from $370 to $580, and DeckLink IP/SDI HD from $395 to $510. The Blackmagic Studio Converter goes from $975 to $1,185, and the Blackmagic Media Player 10G from $975 to $1,115.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Cloud storage and HyperDeck recorders&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For post-production teams, the storage products are the most relevant part of the list. The Blackmagic Cloud Store Max 48TB rises from $21,995 to $24,245 (+$2,250), and the Cloud Store Max 24TB from $13,995 to $15,495 (+$1,500). The Cloud Store Mini 8TB goes from $4,495 to $4,895 (+$400). In percentage terms, these increases are lower than on many of the IP products, at about 9 to 11%. The Blackmagic Cloud Pod rises from $400 to $545, and the Blackmagic Cloud Dock 2 from $575 to $700.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Three HyperDeck recorders are on the list. The HyperDeck ISO Recorder 100G goes from $4,995 to $6,035 (+$1,040), the HyperDeck Studio 4K Pro from $1,655 to $1,885 (+$230), and the HyperDeck Studio HD Pro from $1,020 to $1,090 (+$70). The last product is the Blackmagic Videohub Mini 4&amp;#215;2 12G router, which moves from $610 to $690.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The new prices are effective immediately at Blackmagic Design resellers worldwide. All prices are in US dollars and exclude local duties and taxes, so the final prices in each region will differ. Orders already placed with a reseller keep their original price. Separately, Blackmagic has also started a limited-time &lt;a href="https://www.blackmagicdesign.com/event/davinci-resolve-special" target="_blank" rel="noopener"&gt;DaVinci Resolve Studio sale&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;For many smaller studios, live streaming setups, and broadcast facilities that are moving to IP, these increases change the cost of planned upgrades. Do the new prices affect your plans for ATEM switchers, 2110 IP infrastructure, or Cloud Store storage? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

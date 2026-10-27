@@ -3,7 +3,365 @@
 <title>MIT Technology Review en español (Completo)</title>
 <link href="https://www.technologyreview.es/"/>
 <id>https://www.technologyreview.es/</id>
-<updated>2026-10-27T05:00:00+00:00</updated>
+<updated>2026-10-27T08:10:00+00:00</updated>
+<entry>
+  <title>The Download: la salida a bolsa de Anthropic, redes eléctricas más inteligentes y píldoras de ejercicio</title>
+  <link href="https://www.technologyreview.es/article/the-download-la-salida-a-bolsa-de-anthropic-redes-electricas-mas-inteligentes-y-pildoras-de-ejercicio-1"/>
+  <id>https://www.technologyreview.es/article/the-download-la-salida-a-bolsa-de-anthropic-redes-electricas-mas-inteligentes-y-pildoras-de-ejercicio-1</id>
+  <published>2026-10-27T08:10:00+00:00</published>
+  <updated>2026-10-27T08:10:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg"/>
+  <media:content url="https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg" medium="image"/>
+  <media:thumbnail url="https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg"/>
+  <webfeeds:featuredImage>https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg</webfeeds:featuredImage>
+  <summary>Además: la salida a bolsa de Anthropic podría determinar el futuro del auge de la inversión en IA.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: la salida a bolsa de Anthropic, redes eléctricas más inteligentes y píldoras de ejercicio" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: la salida a bolsa de Anthropic podría determinar el futuro del auge de la inversión en IA.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que te ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;¿Podría ponerse en pie la verdadera Anthropic?&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Tras semanas de frenética especulación, Anthropic ha presentado el folleto de su salida a bolsa. El documento, de 335 páginas (unas 100 de ellas centradas en los riesgos), expone la singular visión de la compañía sobre la tecnología que está desarrollando y cómo cree que cambiará el mundo.&lt;/p&gt;
+
+&lt;p&gt;Pero Anthropic lleva años perfeccionando su capacidad narrativa. Su mensaje público es una clase magistral sobre cómo controlar el relato, mostrándose de formas distintas según a quién se dirija: una organización de seguridad de la IA, una megacorporación guiada por el beneficio y un grupo empeñado en crear tecnología sobrehumana.&lt;/p&gt;
+
+&lt;p&gt;Estos roles conllevan enormes tensiones. ¿Revelará la salida a bolsa la empresa que hay tras la máscara, o ahondará todavía más en la creación de su mito? &lt;a href="https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"&gt;Echa un nuevo vistazo al interior de Anthropic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Will Douglas Heaven&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"&gt;&lt;strong&gt;Este artículo&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;procede de The Algorithm, nuestro boletín semanal sobre IA.&lt;/strong&gt; &lt;a href="https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/"&gt;&lt;strong&gt;Suscríbete&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;para recibirlo en tu bandeja de entrada todos los lunes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;Cómo los transformadores de estado sólido podrían ayudar a alimentar el auge de la IA&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Los transformadores son una parte crucial pero casi invisible de la red eléctrica de Estados Unidos, que permite transportar la electricidad de forma eficiente a través de largas distancias. Sin embargo, son complejos y escasean, y su diseño básico apenas ha cambiado en cerca de un siglo.&lt;/p&gt;
+
+&lt;p&gt;A medida que aumenta la demanda de electricidad derivada de los vehículos eléctricos, los centros de datos y otros factores, investigadores y empresas buscan modernizar estos elementos esenciales de la red. Las versiones de estado sólido podrían ayudar a aliviar los problemas de suministro y reducir las pérdidas de energía.&lt;/p&gt;
+
+&lt;p&gt;La tecnología aún está en desarrollo, pero podría convertirse en una parte crucial de nuestra futura red eléctrica.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"&gt;Descubre cómo los transformadores de estado sólido podrían ayudar a satisfacer la creciente demanda de electricidad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Casey Crownhart&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;¿Hemos llegado ya? Ejercicio en una pastilla&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Todos sabemos que el ejercicio es bueno para la salud. Desarrolla músculo, fortalece los huesos, reduce la presión arterial y mejora el estado de ánimo. Al descifrar cómo beneficia el movimiento al organismo, los investigadores esperan desarrollar fármacos capaces de ofrecer algunas de estas mismas ventajas, sin necesidad de entrenar.&lt;/p&gt;
+
+&lt;p&gt;La idea no es sustituir el ejercicio, sino acercar sus beneficios a personas que padecen fragilidad, discapacidad o enfermedades crónicas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/"&gt;Descubre lo cerca que están los investigadores de desarrollar una píldora de ejercicio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Cassandra Willyard&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Este artículo forma parte de&lt;/em&gt; &lt;a href="https://www.technologyreview.com/supertopic/are-we-there-yet-impossible-issue/"&gt;&lt;em&gt;«¿Hemos llegado ya?»&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&amp;nbsp;del&lt;/em&gt; &lt;a href="https://www.technologyreview.com/magazines/the-impossible-issue/"&gt;&lt;em&gt;nuevo número «Imposible»&lt;/em&gt;&lt;/a&gt; &lt;em&gt;de&lt;/em&gt; MIT Technology Review&lt;em&gt;. La serie hace balance de seis tecnologías que llevan mucho tiempo prometiendo cambiar el mundo y evalúa su avance en un medidor de progreso. Durante los próximos seis días, analizaremos cada una de ellas en The Download.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Lecturas imprescindibles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/inquietantes/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 Anthropic solicita su multimillonaria salida a bolsa&lt;br&gt;&lt;/strong&gt;Su debut bursátil podría determinar el futuro del auge inversor en IA. (&lt;a href="https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ La documentación advierte de riesgos catastróficos asociados a la IA y de enormes costes de computación.&lt;/em&gt; (&lt;a href="https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o"&gt;BBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Y desvela fallos de seguridad y una pausa de un mes en el entrenamiento de modelos.&lt;/em&gt; (&lt;a href="https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ El folleto revela unos ingresos disparados, pero también pérdidas astronómicas.&lt;/em&gt; (&lt;a href="https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"&gt;NYT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Los fundadores de Anthropic mantendrán el control de los derechos de voto tras la OPV.&lt;/em&gt; (&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"&gt;Verge&lt;/a&gt;) &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 La energía solar supera con discreción a la nuclear como fuente energética mundial&lt;/strong&gt;&lt;br&gt;El abaratamiento de los paneles y las baterías está acelerando la transición. (&lt;a href="https://www.bbc.co.uk/future/article/20261023-how-solar-became-bigger-than-nuclear"&gt;BBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ El bum de la energía solar de balcón llega a EE. UU.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3 OpenAI ha anunciado tres nuevos descubrimientos científicos&lt;br&gt;&lt;/strong&gt;Abarcan las matemáticas, la informática y la física. (&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"&gt;Verge&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Ha reclutado a «pastores» expertos para publicar sus avances.&lt;/em&gt; (&lt;a href="https://gizmodo.com/openai-trumpets-3-more-math-and-science-results-along-with-a-new-plan-for-publishing-them-2000830956"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4 Microsoft ofrece bajas incentivadas a una cuarta parte de su plantilla ante el aumento de los costes de la IA&lt;br&gt;&lt;/strong&gt;Alrededor de 60.000 empleados pueden acogerse a este programa de bajas voluntarias. (&lt;a href="https://www.bloomberg.com/news/articles/2026-10-26/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Microsoft prevé destinar 190.000 millones de dólares a la IA este año.&lt;/em&gt; (&lt;a href="https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html"&gt;NYT&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 La industria del plástico sabía desde hace décadas que los microplásticos podían entrar en el organismo&lt;br&gt;&lt;/strong&gt;Documentos corporativos revelan preocupaciones que se remontan a 1974. (&lt;a href="https://www.latimes.com/environment/story/2026-10-26/industry-executives-knew-for-decades-about-microplastics"&gt;LA Times&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Ningún rincón del planeta está libre de la huella humana.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/"&gt;MIT Technology Review&lt;/a&gt;) &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 Una demostración para iluminar la Tierra desde el espacio desata la alarma&lt;br&gt;&lt;/strong&gt;La startup Reflect Orbital utilizó espejos espaciales para la prueba en California. (&lt;a href="https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites"&gt;The Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Esta tecnología podría poner en peligro el cielo nocturno.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7 EE. UU. ha catalogado el helio como material crítico&lt;/strong&gt;&lt;br&gt;La medida responde a su importancia en la fabricación de semiconductores. (&lt;a href="https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c"&gt;AP&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 Cientos de empleados de Boston Dynamics han protestado por su acuerdo con el ICE&lt;/strong&gt;&lt;br&gt;Han pedido que se detengan las ventas de los perros robot. (&lt;a href="https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"&gt;Ars Technica&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9 Por fin se desarrollan tratamientos para la infertilidad asociada a la edad&lt;/strong&gt;&lt;br&gt;Dos startups aspiran a reducir los errores cromosómicos en los óvulos. (&lt;a href="https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last"&gt;Economist&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Así transformó la tecnología la procreación.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 Grok afirma que su Odisea generada por IA «no es históricamente precisa»&lt;br&gt;&lt;/strong&gt;El propio bot admitió que el plan cinematográfico de Elon Musk ha fracasado. (&lt;a href="https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/"&gt;Wired&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;La frase del día&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«Es como si hicieran una promesa y cruzaran los dedos a la espalda».&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&amp;nbsp;—Kate Brennan, responsable de políticas del AI Now Institute, &lt;a href="https://www.nytimes.com/2026/10/26/magazine/ai-companies-law-regulations.html"&gt;afirma en The New York Times&lt;/a&gt; que los compromisos voluntarios en materia de seguridad adoptados recientemente por los directivos de la IA carecen de fuerza y son inaplicables.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff563376416de548b7a3da8e30a6e4bd2f230399b.jpg?alt=media&amp;token=da8d5aeb-226b-4715-859d-3017f6472882" alt="un neandertal sale hacia la izquierda mientras la evolución del simio al ser humano moderno continúa progresivamente hacia la derecha" class="wp-image-1135267"/&gt;&lt;/figure&gt;
+
+&lt;h4 class="wp-block-heading"&gt;El problema de creer que eres en parte neandertal&lt;/h4&gt;
+
+&lt;p&gt;Existe la teoría de que muchos de nosotros llevamos un «neandertal interior». La idea es que el Homo sapiens y su especie hermana se cruzaron en el pasado, dejando a algunas personas de hoy con un rastro de ADN neandertal.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Este ADN es posiblemente el descubrimiento más célebre del siglo XXI en el ámbito de la evolución humana. Pero, en 2024, dos genetistas franceses cuestionaron los cimientos mismos de la teoría.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Propusieron que lo que los científicos interpretan como cruzamiento podría explicarse, en cambio, por la estructura poblacional —la forma en que los genes se concentran en grupos más pequeños y aislados.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/"&gt;Descubre qué significa todo esto para la evolución humana&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Ben Crair&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Todavía podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Un espacio de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;+ Comprueba a qué velocidad giran los planetas con esta &lt;a href="https://www.reddit.com/r/nextfuckinglevel/comments/1w2cz46/the_rotation_of_the_planets_in_our_solar_system/"&gt;vertiginosa animación&lt;/a&gt; que pone cara a cada uno de ellos.&lt;br&gt;+ Un frasco de mercurio, un poco de neón y unas sacudidas producen &lt;a href="https://www.instagram.com/reels/Da0wxinCpE_/"&gt;esta hipnótica luz casera&lt;/a&gt;.&lt;br&gt;+ ¿Qué pueden enseñarnos los primeros restaurantes de Estados Unidos sobre el país? &lt;a href="https://pudding.cool/2026/06/menu-story/"&gt;Esta colección digital&lt;/a&gt; explora las respuestas.&lt;br&gt;+ &lt;em&gt;Rick y Morty&lt;/em&gt; plantearon la pregunta crucial: ¿podría una espada láser abrirse paso realmente hasta el núcleo de la Tierra? &lt;a href="https://www.youtube.com/watch?v=SUsgOxId0Y4"&gt;La ciencia ya tiene una respuesta&lt;/a&gt;.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>The Download: la salida a bolsa de Anthropic, redes eléctricas más inteligentes y píldoras de ejercicio</title>
+  <link href="https://www.technologyreview.es/article/the-download-la-salida-a-bolsa-de-anthropic-redes-electricas-mas-inteligentes-y-pildoras-de-ejercicio"/>
+  <id>https://www.technologyreview.es/article/the-download-la-salida-a-bolsa-de-anthropic-redes-electricas-mas-inteligentes-y-pildoras-de-ejercicio</id>
+  <published>2026-10-27T08:10:00+00:00</published>
+  <updated>2026-10-27T08:10:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg"/>
+  <media:content url="https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg" medium="image"/>
+  <media:thumbnail url="https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg"/>
+  <webfeeds:featuredImage>https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg</webfeeds:featuredImage>
+  <summary>Además: la salida a bolsa de Anthropic podría determinar el futuro del auge de la inversión en IA.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/SUsgOxId0Y4/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: la salida a bolsa de Anthropic, redes eléctricas más inteligentes y píldoras de ejercicio" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: la salida a bolsa de Anthropic podría determinar el futuro del auge de la inversión en IA.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;¿Podría ponerse en pie la verdadera Anthropic?&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Tras semanas de frenética especulación, Anthropic ha presentado el folleto de su salida a bolsa. El documento, de 335 páginas (unas 100 de ellas centradas en los riesgos), expone la singular visión de la compañía sobre la tecnología que está desarrollando y cómo cree que cambiará el mundo.&lt;/p&gt;
+
+&lt;p&gt;Pero Anthropic lleva años perfeccionando su narrativa. Su comunicación pública es una clase magistral de control del relato, presentándose de forma distinta ante cada público: como una organización volcada en la seguridad de la IA, como una megacorporación impulsada por los beneficios y como un grupo obsesionado con crear tecnología sobrehumana.&lt;/p&gt;
+
+&lt;p&gt;Estos papeles conllevan enormes tensiones. ¿Revelará la salida a bolsa a la empresa detrás de la máscara o profundizará aún más en la creación del mito? &lt;a href="https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"&gt;Echa un nuevo vistazo al interior de Anthropic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Will Douglas Heaven&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"&gt;&lt;strong&gt;Este artículo&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;procede de The Algorithm, nuestro boletín semanal sobre IA.&lt;/strong&gt; &lt;a href="https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/"&gt;&lt;strong&gt;Suscríbete&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;para recibirlo en tu bandeja de entrada todos los lunes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;Cómo los transformadores de estado sólido podrían ayudar a alimentar el auge de la IA&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Los transformadores son una parte crucial pero casi invisible de la red eléctrica estadounidense, clave para transportar la electricidad de forma eficiente a largas distancias. Sin embargo, son complejos, escasean y su diseño básico apenas ha cambiado en cerca de un siglo.&lt;/p&gt;
+
+&lt;p&gt;A medida que aumenta la demanda de electricidad impulsada por los vehículos eléctricos, los centros de datos y otros factores, investigadores y empresas buscan modernizar estos elementos clave de la red. Las versiones de estado sólido podrían ayudar a mitigar los problemas de suministro y reducir las pérdidas de energía.&lt;/p&gt;
+
+&lt;p&gt;La tecnología aún está en desarrollo, pero podría convertirse en una pieza crucial de nuestra futura red eléctrica.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/"&gt;Descubre cómo los transformadores de estado sólido podrían ayudar a satisfacer la creciente demanda de electricidad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Casey Crownhart&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;¿Hemos llegado ya? Ejercicio en una pastilla&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Todos sabemos que el ejercicio es bueno para la salud. Desarrolla músculo, fortalece los huesos, reduce la presión arterial y mejora el estado de ánimo. Al descifrar cómo beneficia el movimiento al cuerpo, los investigadores esperan desarrollar medicamentos capaces de ofrecer algunas de estas mismas ventajas, sin necesidad de entrenar.&lt;/p&gt;
+
+&lt;p&gt;La idea no es sustituir el ejercicio, sino hacer llegar sus beneficios a personas que conviven con la fragilidad, la discapacidad o enfermedades crónicas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/"&gt;Descubre lo cerca que están los investigadores de desarrollar una píldora de ejercicio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Cassandra Willyard&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Este artículo forma parte de&lt;/em&gt; &lt;a href="https://www.technologyreview.com/supertopic/are-we-there-yet-impossible-issue/"&gt;&lt;em&gt;«¿Hemos llegado ya?»&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&amp;nbsp;del&lt;/em&gt; &lt;a href="https://www.technologyreview.com/magazines/the-impossible-issue/"&gt;&lt;em&gt;nuevo número «Lo imposible»&lt;/em&gt;&lt;/a&gt; &lt;em&gt;de&lt;/em&gt; MIT Technology Review&lt;em&gt;. La serie hace balance de seis tecnologías que llevan mucho tiempo prometiendo cambiar el mundo y las califica en un medidor de progreso. Durante los próximos seis días, analizaremos cada una de ellas en The Download.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Los imprescindibles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/aterradoras/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 Anthropic solicita su histórica salida a bolsa&lt;br&gt;&lt;/strong&gt;Su debut bursátil podría determinar el futuro del auge inversor en la IA. (&lt;a href="https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ La solicitud advierte de riesgos catastróficos asociados a la IA y de enormes costes de computación.&lt;/em&gt; (&lt;a href="https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o"&gt;BBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Y expone fallos de seguridad y una pausa de un mes en el entrenamiento.&lt;/em&gt; (&lt;a href="https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ El folleto revela unos ingresos disparados, pero también pérdidas astronómicas.&lt;/em&gt; (&lt;a href="https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html"&gt;NYT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Los fundadores de Anthropic mantendrán el control de voto tras la salida a bolsa.&lt;/em&gt; (&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"&gt;Verge&lt;/a&gt;) &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 La energía solar supera sigilosamente a la nuclear como fuente energética mundial&lt;/strong&gt;&lt;br&gt;El abaratamiento de paneles y baterías está acelerando esta transición. (&lt;a href="https://www.bbc.co.uk/future/article/20261023-how-solar-became-bigger-than-nuclear"&gt;BBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ El auge de la energía solar en los balcones llega a EE. UU.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3 OpenAI ha anunciado tres nuevos descubrimientos científicos&lt;br&gt;&lt;/strong&gt;Abarcan las matemáticas, la informática y la física. (&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"&gt;Verge&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Ha recurrido a «pastores» expertos para publicar sus avances.&lt;/em&gt; (&lt;a href="https://gizmodo.com/openai-trumpets-3-more-math-and-science-results-along-with-a-new-plan-for-publishing-them-2000830956"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4 Microsoft ofrece bajas incentivadas a una cuarta parte de su plantilla ante el aumento de los costes de la IA&lt;br&gt;&lt;/strong&gt;Unos 60.000 empleados pueden acogerse al programa de bajas incentivadas. (&lt;a href="https://www.bloomberg.com/news/articles/2026-10-26/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Microsoft prevé destinar 190.000 millones de dólares a la IA este año.&lt;/em&gt; (&lt;a href="https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html"&gt;NYT&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 La industria del plástico sabía desde hace décadas que los microplásticos podían entrar en el organismo&lt;br&gt;&lt;/strong&gt;Documentos internos revelan preocupaciones que se remontan a 1974. (&lt;a href="https://www.latimes.com/environment/story/2026-10-26/industry-executives-knew-for-decades-about-microplastics"&gt;LA Times&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Ningún rincón del planeta está libre de la huella humana.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/"&gt;MIT Technology Review&lt;/a&gt;) &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 Una demostración para iluminar la Tierra desde el espacio ha desatado la alarma&lt;br&gt;&lt;/strong&gt;La startup Reflect Orbital utilizó espejos espaciales para la prueba en California. (&lt;a href="https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites"&gt;Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Esta tecnología podría poner en peligro el cielo nocturno.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7 EE. UU. ha designado el helio como material crítico&lt;/strong&gt;&lt;br&gt;La medida se debe a su importancia para la producción de semiconductores. (&lt;a href="https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c"&gt;AP&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 Cientos de empleados de Boston Dynamics protestan por su acuerdo con el ICE&lt;/strong&gt;&lt;br&gt;Han pedido paralizar las ventas de los perros robot. (&lt;a href="https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"&gt;Ars Technica&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9 Por fin se desarrollan tratamientos para la infertilidad asociada a la edad&lt;/strong&gt;&lt;br&gt;Dos startups buscan reducir los errores cromosómicos en los óvulos. (&lt;a href="https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last"&gt;Economist&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Así transformó la tecnología la reproducción.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 Grok afirma que su Odisea generada por IA «no es históricamente precisa»&lt;br&gt;&lt;/strong&gt;El propio bot admitió que el proyecto cinematográfico de Elon Musk ha fracasado. (&lt;a href="https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/"&gt;Wired&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;La frase del día&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«Es como si hicieran una promesa y cruzaran los dedos a la espalda».&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&amp;nbsp;—Kate Brennan, responsable de políticas en el AI Now Institute, &lt;a href="https://www.nytimes.com/2026/10/26/magazine/ai-companies-law-regulations.html"&gt;afirma en The New York Times&lt;/a&gt; que los compromisos voluntarios en materia de seguridad asumidos recientemente por los directivos de la IA carecen de fuerza y son inaplicables.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff563376416de548b7a3da8e30a6e4bd2f230399b.jpg?alt=media&amp;token=da8d5aeb-226b-4715-859d-3017f6472882" alt="un neandertal sale por la izquierda mientras la evolución del simio al ser humano moderno continúa progresivamente hacia la derecha" class="wp-image-1135267"/&gt;&lt;/figure&gt;
+
+&lt;h4 class="wp-block-heading"&gt;El problema de pensar que eres en parte neandertal&lt;/h4&gt;
+
+&lt;p&gt;Existe la teoría de que muchos de nosotros llevamos un «neandertal interior». La idea es que el Homo sapiens y sus especies emparentadas se cruzaron en su momento, dejando en algunas personas actuales un rastro de ADN neandertal.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Este ADN es, probablemente, el descubrimiento sobre evolución humana más célebre del siglo XXI. Sin embargo, en 2024, dos genetistas franceses pusieron en duda los cimientos mismos de la teoría.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Plantearon que lo que la comunidad científica interpreta como hibridación podría explicarse, en cambio, por la estructura poblacional: la forma en que los genes se concentran en grupos más pequeños y aislados.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/"&gt;Descubre qué implica todo esto para la evolución humana&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Ben Crair&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Un espacio de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;+ Comprueba a qué velocidad giran los planetas con esta &lt;a href="https://www.reddit.com/r/nextfuckinglevel/comments/1w2cz46/the_rotation_of_the_planets_in_our_solar_system/"&gt;vertiginosa animación&lt;/a&gt; que le pone cara a cada uno de ellos.&lt;br&gt;+ Un frasco de mercurio, un poco de neón y una buena sacudida producen &lt;a href="https://www.instagram.com/reels/Da0wxinCpE_/"&gt;esta hipnótica luz casera&lt;/a&gt;.&lt;br&gt;+ ¿Qué pueden enseñarnos sobre Estados Unidos sus primeros restaurantes? &lt;a href="https://pudding.cool/2026/06/menu-story/"&gt;Esta colección digital&lt;/a&gt; explora las respuestas.&lt;br&gt;+ &lt;em&gt;Rick y Morty&lt;/em&gt; planteó una pregunta crucial: ¿podría una espada láser abrirse paso perforando hasta el núcleo de la Tierra? &lt;a href="https://www.youtube.com/watch?v=SUsgOxId0Y4"&gt;La ciencia ya tiene una respuesta&lt;/a&gt;.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Inteligencia industrial: la próxima oportunidad de crecimiento para la industria manufacturera</title>
+  <link href="https://www.technologyreview.es/article/inteligencia-industrial-la-proxima-oportunidad-de-crecimiento-para-la-industria-manufacturera"/>
+  <id>https://www.technologyreview.es/article/inteligencia-industrial-la-proxima-oportunidad-de-crecimiento-para-la-industria-manufacturera</id>
+  <published>2026-10-27T07:19:18+00:00</published>
+  <updated>2026-10-27T07:19:18+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b" medium="image"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b</webfeeds:featuredImage>
+  <summary>La IA física lleva la inteligencia de negocio a los procesos físicos, transformando el conocimiento en decisiones y las decisiones en acción.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b" alt="Inteligencia industrial: la próxima oportunidad de crecimiento para la industria manufacturera" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Michael MacKenzie&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;La IA física lleva la inteligencia de negocio a los procesos físicos, transformando el conocimiento en decisiones y las decisiones en acción.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cada fabricante cuenta con su propia inteligencia industrial. Una parte está documentada y otra reside en el conocimiento de los trabajadores más experimentados.&lt;/p&gt;
+
+&lt;p&gt;Imagina a un operario experimentado que se prepara para reiniciar una línea tras un cambio de formato. Los parámetros de la máquina importan, pero también saber cómo se comporta un material determinado, qué ocurrió durante el turno anterior y cuándo una variación en apariencia insignificante merece una revisión más detenida. Un procedimiento puede describir la secuencia, pero el éxito de la ejecución depende del criterio que otorga la experiencia y del «know-how» acumulado de la organización.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b" alt="" class="wp-image-1147564"/&gt;&lt;/figure&gt;
+
+&lt;p&gt;Esa combinación es la inteligencia industrial: el know-how acumulado de un fabricante, sus prácticas operativas, los datos de producción y la comprensión de su propio negocio.&lt;/p&gt;
+
+&lt;p&gt;La oportunidad ahora consiste en hacer que una mayor parte de esa inteligencia esté disponible allí donde se toman las decisiones y conectarla después con el mundo físico de la fabricación. El objetivo estratégico no es contar con más agentes, sino convertir la inteligencia empresarial existente en un motor de crecimiento rentable.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;El conocimiento individual puede traducirse en una ventaja organizativa&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;El conocimiento especializado tiene un alcance limitado cuando permanece en una sola persona, dentro de un único sistema o en una sola planta. Ahora, los líderes deben determinar cómo ampliar ese alcance sin despojarlo del contexto que hace que dicho conocimiento sea útil.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, un ingeniero que evalúa un cambio en un proceso necesita algo más que un registro de producción. Necesita comprender las circunstancias que hay detrás: la configuración del equipo, los requisitos de calidad y las concesiones que tuvo que hacer un operario. Conectar estos elementos puede ayudar a aplicar la experiencia más allá del lugar en el que se originó.&lt;/p&gt;
+
+&lt;p&gt;Cuando el conocimiento individual se vuelve ampliamente accesible, la innovación puede extenderse al taller de mantenimiento, la oficina de planificación, el equipo de ingeniería y la planta de producción. Más personas pueden contribuir porque más personas pueden trabajar con lo que sabe la organización.&lt;/p&gt;
+
+&lt;p&gt;Pero el acceso al conocimiento es solo una parte de la oportunidad. En última instancia, la fabricación es física y depende de materiales, máquinas y productos.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Cuando la inteligencia participa en la acción&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;La IA física describe sistemas capaces de percibir condiciones, razonar sobre ellas y actuar en el mundo físico. Al conectar máquinas y procesos, los fabricantes obtienen una visión más clara de lo que ocurre en la planta de producción. A partir de esa información, los agentes pueden razonar para identificar patrones, predecir problemas y determinar la mejor línea de actuación. La IA física traslada la inteligencia de negocio al proceso físico, lo que permite a máquinas y sistemas responder a condiciones cambiantes.&lt;/p&gt;
+
+&lt;figure class="wp-block-video"&gt;&lt;video controls src="https://wp.technologyreview.com/wp-content/uploads/2026/10/FINAL-Physical-AI-2026-09-17.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
+
+&lt;p&gt;Imagina una operación de manipulación robótica que se enfrenta a variaciones en las piezas que llegan a su estación. La visión artificial puede ayudar al sistema a evaluar la posición de una pieza. Un modelo basado en el material y la tarea puede ayudar a determinar el movimiento adecuado. A continuación, los controles conectados pueden ejecutar un ajuste dentro de unos límites validados. El valor no reside simplemente en ver la variación, sino en responder adecuadamente.&lt;/p&gt;
+
+&lt;p&gt;El mismo principio se aplica a las operaciones de calidad. Cuando &lt;a href="https://www.microsoft.com/en/customers/story/26367-toyota-industries-corporation-azure"&gt;Toyota Industries&lt;/a&gt; conectó los datos del taller de pintura, antes fragmentados, los equipos de ingeniería y operaciones obtuvieron el contexto necesario para comprender las causas de los defectos. La compañía señala que los ciclos de análisis se redujeron de cinco días a menos de cuatro horas, mientras que su proyecto piloto disminuyó los defectos de pintura relevantes en torno a un 25 %. El gran avance no consistió simplemente en identificar otra señal, sino en ayudar a las personas a comprender por qué se producían los defectos y a reaccionar antes de que el resultado fuera irreversible.&lt;/p&gt;
+
+&lt;p&gt;Este es el tipo de situación en la que la inteligencia industrial se ha vuelto fundamental. Los datos pueden revelar qué está ocurriendo, pero la inteligencia industrial aporta el contexto sobre qué debería suceder, qué restricciones no se pueden vulnerar y cuándo la incertidumbre requiere el criterio humano.&lt;/p&gt;
+
+&lt;p&gt;La simulación ofrece una vía para examinar las acciones propuestas antes de aplicarlas a los equipos. Los fabricantes pueden explorar cómo afectaría un cambio a un proceso en un entorno digital. Esto no elimina la necesidad de una validación física, pero crea un margen para aprender sin tratar la línea de producción como el primer experimento.&lt;/p&gt;
+
+&lt;p&gt;Por tanto, un despliegue responsable comienza con la disciplina operativa. Los líderes deben establecer una autoridad clara sobre qué sistemas pueden modificarse, conexiones fiables con los equipos, límites de seguridad definidos y un registro de decisiones y acciones. Las personas deben ser capaces de reconocer la incertidumbre, intervenir y llevar los equipos a un estado seguro. La confianza se sustenta en estas medidas prácticas, no únicamente en la fiabilidad del propio modelo.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Máquinas más capaces, personas más capaces&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;La industria manufacturera lleva mucho tiempo combinando el ingenio humano con herramientas cada vez más capaces. La IA física amplía esa relación. Los equipos inteligentes pueden asumir las tareas repetitivas o físicamente exigentes más adecuadas, mientras que las operaciones asistidas por agentes pueden ayudar a las personas a gestionar decisiones con un uso intensivo de información y condiciones cambiantes.&lt;/p&gt;
+
+&lt;p&gt;El objetivo no es hacer que las máquinas sean más inteligentes; se trata de ver qué pueden construir las personas cuando el conocimiento puede viajar, la inteligencia puede actuar y la ambición tiene más espacio para hacerse realidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://news.microsoft.com/source/features/digital-transformation/rockwell-automation-pairs-ai-with-decades-of-shop-floor-know-how-so-workers-can-solve-glitches-faster/"&gt;Rockwell Automation&lt;/a&gt; ilustra este punto. En su planta de Singapur, los técnicos utilizan un copiloto de mantenimiento que combina datos de fabricación, manuales de maquinaria y los conocimientos recopilados de los trabajadores más experimentados. Este sistema ha reducido de nueve a tres meses el tiempo que necesitan los nuevos empleados para aprender a solucionar averías en cientos de máquinas. Un ingeniero podría explorar más alternativas de procesos antes de comprometerse con un cambio. Un operario podría ayudar a mejorar la respuesta del sistema en lugar de gestionar una y otra vez la misma excepción.&lt;/p&gt;
+
+&lt;p&gt;Este tipo de progreso requiere invertir en equipamiento, pero también en las personas: formación, tiempo para aprender y desempeñar un papel significativo a la hora de definir cómo funcionan los sistemas. Las máquinas se vuelven más capaces para que las personas también puedan ser más capaces.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;La inteligencia industrial es la respuesta al crecimiento sostenible&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;La inteligencia industrial conecta lo que un fabricante sabe: la experiencia de su equipo, las señales de sus operaciones y las lecciones acumuladas a lo largo del tiempo. La IA física proporciona a esa inteligencia una forma de actuar en el mundo físico, transformando el conocimiento en decisiones y las decisiones en acción.&lt;/p&gt;
+
+&lt;p&gt;El próximo reto para la industria no es simplemente producir más, sino crecer sin añadir complejidad al mismo ritmo. La inteligencia puede ayudar a los fabricantes a convertir la experiencia en una capacidad escalable—mejorando la productividad, acelerando la innovación, ampliando la capacidad y permitiendo a las personas resolver problemas que antes eran difíciles de abordar.&lt;/p&gt;
+
+&lt;p&gt;La próxima frontera de la industria no son las máquinas más inteligentes ni las fábricas más automatizadas; son las empresas capaces de aprender, adaptarse y actuar continuamente. La oportunidad reside en convertir la inteligencia integrada en cada operación en una ventaja acumulativa para el crecimiento.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&lt;a href="https://info.microsoft.com/ww-landing-industrial-intelligence?lcid=en-us"&gt;Mira la serie de vídeos&lt;/a&gt; para descubrir cómo los clientes industriales están aprovechando la inteligencia en toda la cadena de valor, y únete a Microsoft en &lt;a href="https://ignite.microsoft.com/en-US/home"&gt;Microsoft Ignite&lt;/a&gt; para conocer el futuro de la Inteligencia Industrial.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Este contenido ha sido elaborado por Microsoft. No ha sido redactado por el equipo editorial de MIT Technology Review.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Inteligencia industrial: la próxima oportunidad de crecimiento para el sector manufacturero</title>
+  <link href="https://www.technologyreview.es/article/inteligencia-industrial-la-proxima-oportunidad-de-crecimiento-para-el-sector-manufacturero"/>
+  <id>https://www.technologyreview.es/article/inteligencia-industrial-la-proxima-oportunidad-de-crecimiento-para-el-sector-manufacturero</id>
+  <published>2026-10-27T07:19:18+00:00</published>
+  <updated>2026-10-27T07:19:18+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b" medium="image"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b</webfeeds:featuredImage>
+  <summary>La IA física lleva la inteligencia empresarial a los procesos físicos, transformando el conocimiento en decisiones y las decisiones en acción.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b" alt="Inteligencia industrial: la próxima oportunidad de crecimiento para el sector manufacturero" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Michael MacKenzie&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;La IA física lleva la inteligencia empresarial a los procesos físicos, transformando el conocimiento en decisiones y las decisiones en acción.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cada fabricante cuenta con su propia inteligencia industrial. Parte está documentada y parte reside en el conocimiento de los trabajadores más experimentados.&lt;/p&gt;
+
+&lt;p&gt;Imagina a un operario experimentado que se prepara para reiniciar una línea tras un cambio de formato. Los ajustes de la máquina son importantes, pero también lo es saber cómo se comporta un material determinado, qué ocurrió durante el turno anterior y cuándo una variación aparentemente menor merece un análisis más detallado. Un procedimiento puede describir la secuencia, pero el éxito de la ejecución depende del criterio que aporta la experiencia y del know-how acumulado de la organización.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffdc6add819e0b69097ec7d5bb7183ec3e85aa027.jpg?alt=media&amp;token=45be576d-e560-4881-941a-25dd445ba95b" alt="" class="wp-image-1147564"/&gt;&lt;/figure&gt;
+
+&lt;p&gt;Esa combinación es la inteligencia industrial: el know-how acumulado de un fabricante, sus prácticas operativas, los datos de producción y la comprensión de su propio negocio.&lt;/p&gt;
+
+&lt;p&gt;La oportunidad ahora radica en hacer que una mayor parte de esa inteligencia esté disponible allí donde se toman las decisiones, para luego conectarla con el mundo físico de la fabricación. La meta estratégica no consiste en sumar más agentes, sino en convertir la inteligencia empresarial existente en un motor de crecimiento rentable.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;El conocimiento individual puede traducirse en una ventaja organizativa&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;El conocimiento especializado tiene un alcance limitado cuando se queda en una sola persona, dentro de un único sistema o en una sola planta. Ahora, los líderes deben determinar cómo ampliar ese alcance sin despojarlo del contexto que hace útil dicho conocimiento.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, un ingeniero que evalúa un cambio de proceso necesita algo más que un registro de producción. Necesita comprender las circunstancias que hay detrás: la configuración de los equipos, los requisitos de calidad y las concesiones que hizo un operario. Conectar esos elementos puede ayudar a aplicar la experiencia más allá del lugar donde se originó.&lt;/p&gt;
+
+&lt;p&gt;Cuando el conocimiento individual se vuelve ampliamente accesible, la innovación puede extenderse al taller de mantenimiento, a la oficina de planificación, al equipo de ingeniería y a la planta de producción. Más personas pueden contribuir porque más personas pueden trabajar con lo que la organización sabe.&lt;/p&gt;
+
+&lt;p&gt;Pero el acceso al conocimiento es solo una parte de la oportunidad. En última instancia, la fabricación es física y depende de materiales, máquinas y productos.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Cuando la inteligencia participa en la acción&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;La IA física describe sistemas capaces de percibir las condiciones, razonar sobre ellas y actuar en el mundo físico. Al conectar máquinas y procesos, los fabricantes obtienen una visión más clara de lo que ocurre en la planta de producción. A partir de esa información, los agentes pueden razonar para identificar patrones, predecir problemas y determinar el mejor curso de acción. La IA física traslada la inteligencia de negocio al proceso físico, lo que permite a las máquinas y a los sistemas responder a las condiciones cambiantes.&lt;/p&gt;
+
+&lt;figure class="wp-block-video"&gt;&lt;video controls src="https://wp.technologyreview.com/wp-content/uploads/2026/10/FINAL-Physical-AI-2026-09-17.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
+
+&lt;p&gt;Imagina una operación de manipulación robótica que se enfrenta a variaciones en las piezas que llegan a su estación. La visión artificial puede ayudar al sistema a evaluar la posición de una pieza. Un modelo basado en el material y en la tarea puede ayudar a determinar el movimiento adecuado. Después, los controles conectados pueden ejecutar un ajuste dentro de unos límites validados. El valor no radica simplemente en ver la variación; consiste en responder adecuadamente.&lt;/p&gt;
+
+&lt;p&gt;El mismo principio se aplica a las operaciones de calidad. Cuando &lt;a href="https://www.microsoft.com/en/customers/story/26367-toyota-industries-corporation-azure"&gt;Toyota Industries&lt;/a&gt; conectó los datos del taller de pintura, antes fragmentados, los equipos de ingeniería y operaciones obtuvieron el contexto necesario para comprender los factores que causaban los defectos. La empresa informa de que los ciclos de análisis se redujeron de cinco días a menos de cuatro horas, mientras que su proyecto piloto redujo los defectos de pintura relevantes en torno a un 25 %. El gran avance no consistió simplemente en identificar otra señal, sino en ayudar a las personas a entender por qué se producían los defectos y a reaccionar antes de que el resultado fuera definitivo.&lt;/p&gt;
+
+&lt;p&gt;Este es el tipo de situación en la que la inteligencia industrial se ha vuelto fundamental. Los datos pueden revelar lo que está ocurriendo, pero la inteligencia industrial aporta el contexto sobre lo que debería suceder, qué restricciones no se pueden infringir y cuándo la incertidumbre requiere del criterio humano.&lt;/p&gt;
+
+&lt;p&gt;La simulación ofrece una vía para examinar las acciones propuestas antes de aplicarlas a los equipos. Los fabricantes pueden explorar cómo afectaría un cambio a un proceso en un entorno digital. Esto no elimina la necesidad de una validación física, pero genera margen para aprender sin tratar la línea de producción como el primer experimento.&lt;/p&gt;
+
+&lt;p&gt;Por tanto, un despliegue responsable comienza con la disciplina operativa. Los líderes deben establecer una autoridad clara o qué sistemas pueden modificarse, conexiones fiables con los equipos, límites de seguridad definidos y un registro de decisiones y acciones. Las personas deben ser capaces de reconocer la incertidumbre, intervenir y llevar los equipos a un estado seguro. La confianza se asienta en estas disposiciones prácticas, no solo en la confianza en un modelo.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Máquinas más capaces, personas más capaces&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;La industria manufacturera lleva mucho tiempo combinando el ingenio humano con herramientas cada vez más capaces. La IA física amplía esa relación. Los equipos inteligentes pueden asumir tareas repetitivas o físicamente exigentes apropiadas, mientras que las operaciones asistidas por agentes pueden ayudar a las personas a gestionar decisiones con un uso intensivo de información y condiciones cambiantes.&lt;/p&gt;
+
+&lt;p&gt;El objetivo no es hacer que las máquinas sean más inteligentes; se trata de ver qué pueden construir las personas cuando el conocimiento puede viajar, la inteligencia puede actuar y la ambición tiene más espacio para hacerse realidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://news.microsoft.com/source/features/digital-transformation/rockwell-automation-pairs-ai-with-decades-of-shop-floor-know-how-so-workers-can-solve-glitches-faster/"&gt;Rockwell Automation&lt;/a&gt; ilustra este punto. En su planta de Singapur, los técnicos utilizan un copiloto de mantenimiento que combina datos de fabricación, manuales de maquinaria y los conocimientos recabados de los trabajadores más experimentados. Este sistema ha reducido de nueve a tres meses el tiempo necesario para que los nuevos empleados aprendan a solucionar incidencias en cientos de máquinas. Un ingeniero podría explorar más alternativas de proceso antes de comprometerse con un cambio. Un operario podría ayudar a mejorar la respuesta del sistema en lugar de gestionar una y otra vez la misma excepción.&lt;/p&gt;
+
+&lt;p&gt;Este tipo de progreso requiere invertir en equipamiento, pero también en las personas: formación, tiempo para aprender y desempeñar un papel relevante a la hora de definir cómo funcionan los sistemas. Las máquinas se vuelven más capaces para que las personas también puedan serlo.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;La inteligencia industrial es la respuesta al crecimiento sostenible&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;La inteligencia industrial conecta lo que un fabricante sabe: la experiencia de su personal, las señales de sus operaciones y las lecciones acumuladas a lo largo del tiempo. La IA física proporciona a esa inteligencia una vía para actuar en el mundo físico, transformando el conocimiento en decisiones y las decisiones en acción.&lt;/p&gt;
+
+&lt;p&gt;El próximo reto para la industria no consiste simplemente en producir más, sino en crecer sin añadir complejidad al mismo ritmo. La inteligencia puede ayudar a los fabricantes a convertir la experiencia en una capacidad escalable—mejorando la productividad, acelerando la innovación, ampliando la capacidad y permitiendo a las personas resolver problemas que antes resultaban difíciles de abordar.&lt;/p&gt;
+
+&lt;p&gt;La próxima frontera de la industria no son máquinas más inteligentes ni fábricas más automatizadas; son empresas capaces de aprender, adaptarse y actuar continuamente. La oportunidad consiste en transformar la inteligencia integrada en cada operación en una ventaja acumulativa para el crecimiento.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&lt;a href="https://info.microsoft.com/ww-landing-industrial-intelligence?lcid=en-us"&gt;Mira la serie de vídeos&lt;/a&gt; para descubrir cómo los clientes del sector industrial están aprovechando la inteligencia en toda la cadena de valor, y únete a Microsoft en &lt;a href="https://ignite.microsoft.com/en-US/home"&gt;Microsoft Ignite&lt;/a&gt; para conocer el futuro de la inteligencia industrial.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Este contenido ha sido elaborado por Microsoft. No ha sido redactado por el equipo editorial de MIT Technology Review.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Cómo los transformadores de estado sólido podrían ayudar a alimentar el auge de la IA</title>
   <link href="https://www.technologyreview.es/article/como-los-transformadores-de-estado-solido-podrian-ayudar-a-alimentar-el-auge-de-la-ia"/>
@@ -15,7 +373,7 @@
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3</webfeeds:featuredImage>
   <summary>Una nueva tecnología podría ayudar a reducir las pérdidas de energía y reinventar un pilar de la red eléctrica.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3" alt="Cómo los transformadores de estado sólido podrían ayudar a alimentar el auge de la IA" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3" alt="Cómo los transformadores de estado sólido podrían ayudar a alimentar el auge de la IA" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Casey Crownhart&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Una nueva tecnología podría ayudar a reducir las pérdidas de energía y reinventar un pilar de la red eléctrica.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Los transformadores son una parte crucial pero casi invisible de nuestra red eléctrica. Estos dispositivos ayudan a transportar la energía de forma eficiente a largas distancias, pero son complejos y escasean. Y, dado que su diseño básico apenas ha cambiado en cerca de un siglo, no les vendría mal una modernización.&amp;nbsp;&lt;/p&gt;
@@ -99,7 +457,7 @@
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87</webfeeds:featuredImage>
   <summary>La compañía lleva años dominando el arte del relato. ¿Revelará su salida a bolsa a la empresa que hay detrás de la máscara o profundizará aún más en la…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87" alt="¿Podría ponerse en pie la verdadera Anthropic?" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87" alt="¿Podría ponerse en pie la verdadera Anthropic?" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Will Douglas Heaven&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;La compañía lleva años dominando el arte del relato. ¿Revelará su salida a bolsa a la empresa que hay detrás de la máscara o profundizará aún más en la…&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Este artículo se publicó originalmente en The Algorithm, nuestro boletín semanal sobre IA. Para recibir antes que nadie historias como esta en tu bandeja de entrada, &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/"&gt;&lt;em&gt;suscríbete aquí&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -153,7 +511,7 @@
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e</webfeeds:featuredImage>
   <summary>Los legisladores están aprobando proyectos de ley respaldados por la industria para blindarse frente a los peores escenarios, en lugar de abordar los problemas…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e" alt="El foco en las catástrofes de la seguridad de la IA ignora los daños cotidianos" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e" alt="El foco en las catástrofes de la seguridad de la IA ignora los daños cotidianos" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Sam Hiner&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Los legisladores están aprobando proyectos de ley respaldados por la industria para blindarse frente a los peores escenarios, en lugar de abordar los problemas…&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Piensa en lo que se considera un éxito en la política tecnológica. Una empresa de IA promete que su chatbot no &lt;a href="https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html?eafs_enabled=false"&gt;incitará al suicidio&lt;/a&gt;. Una plataforma de redes sociales dificulta que los menores puedan &lt;a href="https://www.nbcnews.com/news/us-news/60-young-people-died-fentanyl-overdoses-lawsuit-snapchat-rcna81629"&gt;comprar fentanilo&lt;/a&gt;. Son protecciones importantes, y deberían haber existido desde el principio. Pero las empresas pueden superar este listón tan bajo mientras siguen creando productos que vuelven a los jóvenes dependientes de amistades simuladas o los dejan atrapados en feeds diseñados para que no dejen de hacer scroll.&lt;/p&gt;
@@ -184,12 +542,13 @@
   <id>https://www.technologyreview.es/article/en-el-mundo-de-la-biotecnologia-no-puedes-verlo-todo</id>
   <published>2026-10-23T05:00:00+00:00</published>
   <updated>2026-10-23T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8b72d9e1d5d14ee454e54feeefe85b3682ad249e.jpg?alt=media&amp;token=497c97b9-5ef9-446b-ab72-29e8ccb6a508"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8b72d9e1d5d14ee454e54feeefe85b3682ad249e.jpg?alt=media&amp;token=497c97b9-5ef9-446b-ab72-29e8ccb6a508" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8b72d9e1d5d14ee454e54feeefe85b3682ad249e.jpg?alt=media&amp;token=497c97b9-5ef9-446b-ab72-29e8ccb6a508"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8b72d9e1d5d14ee454e54feeefe85b3682ad249e.jpg?alt=media&amp;token=497c97b9-5ef9-446b-ab72-29e8ccb6a508</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg"/>
+  <media:content url="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg" medium="image"/>
+  <media:thumbnail url="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg"/>
+  <webfeeds:featuredImage>https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>La inquietante conclusión de un periodista a partir de «You Can See Everything».</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8b72d9e1d5d14ee454e54feeefe85b3682ad249e.jpg?alt=media&amp;token=497c97b9-5ef9-446b-ab72-29e8ccb6a508" alt="En el mundo de la biotecnología, no puedes verlo todo" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8b72d9e1d5d14ee454e54feeefe85b3682ad249e.jpg?alt=media&amp;token=497c97b9-5ef9-446b-ab72-29e8ccb6a508" alt="En el mundo de la biotecnología, no puedes verlo todo" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Jessica Hamzelou&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;La inquietante conclusión de un periodista a partir de «You Can See Everything».&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A principios de esta semana asistí a la proyección de &lt;em&gt;You Can See Everything&lt;/em&gt;, el nuevo y comentado documental sobre la exconsejera delegada de biotecnología caída en desgracia Elizabeth Holmes.&amp;nbsp;&lt;/p&gt;
@@ -249,7 +608,7 @@
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe6597816c08dcef9416e66a88d87ad3f3e7ef166.jpg?alt=media&amp;token=0e5ae043-033a-49f2-bdd8-be08fa4de97d"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe6597816c08dcef9416e66a88d87ad3f3e7ef166.jpg?alt=media&amp;token=0e5ae043-033a-49f2-bdd8-be08fa4de97d</webfeeds:featuredImage>
   <summary>Una guía básica sobre este elemento crucial y, francamente, misterioso de la ciencia climática.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe6597816c08dcef9416e66a88d87ad3f3e7ef166.jpg?alt=media&amp;token=0e5ae043-033a-49f2-bdd8-be08fa4de97d" alt="Tres cosas que debes saber sobre el permafrost" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe6597816c08dcef9416e66a88d87ad3f3e7ef166.jpg?alt=media&amp;token=0e5ae043-033a-49f2-bdd8-be08fa4de97d" alt="Tres cosas que debes saber sobre el permafrost" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Casey Crownhart&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Una guía básica sobre este elemento crucial y, francamente, misterioso de la ciencia climática.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;¿Cuánto sabes sobre el permafrost?&lt;/p&gt;
@@ -307,7 +666,7 @@
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fed3eed6e963129272efbeb4f99a61ab73752f35b.jpg?alt=media&amp;token=401a49cb-a114-4972-81fe-e0bfa76853ac"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fed3eed6e963129272efbeb4f99a61ab73752f35b.jpg?alt=media&amp;token=401a49cb-a114-4972-81fe-e0bfa76853ac</webfeeds:featuredImage>
   <summary>Resulta demasiado fácil perder de vista la ambición cuando estamos ocupados apagando fuegos con los problemas del mundo.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fed3eed6e963129272efbeb4f99a61ab73752f35b.jpg?alt=media&amp;token=401a49cb-a114-4972-81fe-e0bfa76853ac" alt="Podemos hacer cosas imposibles" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fed3eed6e963129272efbeb4f99a61ab73752f35b.jpg?alt=media&amp;token=401a49cb-a114-4972-81fe-e0bfa76853ac" alt="Podemos hacer cosas imposibles" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Corinne Iozzio&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Resulta demasiado fácil perder de vista la ambición cuando estamos ocupados apagando fuegos con los problemas del mundo.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Apuesto a que todo el mundo tiene una respuesta ensayada para la que es, sin duda, una de las peores preguntas de entrevista de trabajo del mundo: «¿Cuál es tu mayor debilidad?». Siempre que me la han hecho, respiro despacio —e incluso pensativo— y suelto mi frase: «Me digo que no a mí mismo con demasiada frecuencia».&amp;nbsp;&lt;/p&gt;
@@ -331,171 +690,5 @@
 &lt;p&gt;Así que sí, esto va por quienes tienen la audacia de intentarlo y se niegan a que nadie —ellos mismos incluidos— les diga que no.&lt;/p&gt;
 
 &lt;p&gt;Espero que disfrutes del viaje.&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Baterías de estado sólido</title>
-  <link href="https://www.technologyreview.es/article/solid-state-batteries"/>
-  <id>https://www.technologyreview.es/article/solid-state-batteries</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F0e4c30747da5b4bd943c5c8be54c54625661caf4.jpg?alt=media&amp;token=04b2af0f-c339-47f3-b0da-a7ad6df16fe5"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F0e4c30747da5b4bd943c5c8be54c54625661caf4.jpg?alt=media&amp;token=04b2af0f-c339-47f3-b0da-a7ad6df16fe5" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F0e4c30747da5b4bd943c5c8be54c54625661caf4.jpg?alt=media&amp;token=04b2af0f-c339-47f3-b0da-a7ad6df16fe5"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F0e4c30747da5b4bd943c5c8be54c54625661caf4.jpg?alt=media&amp;token=04b2af0f-c339-47f3-b0da-a7ad6df16fe5</webfeeds:featuredImage>
-  <summary>Las baterías que sustituyen los electrolitos líquidos por materiales sólidos prometen cargarse más rápido, durar más y (algo crucial) calentarse menos.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F0e4c30747da5b4bd943c5c8be54c54625661caf4.jpg?alt=media&amp;token=04b2af0f-c339-47f3-b0da-a7ad6df16fe5" alt="Baterías de estado sólido" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Alexander C. Kaufman&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Las baterías que sustituyen los electrolitos líquidos por materiales sólidos prometen cargarse más rápido, durar más y (algo crucial) calentarse menos.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;El auge de la batería de iones de litio, que alimenta desde los dispositivos electrónicos personales más pequeños hasta gigantescos sistemas de almacenamiento de energía, ha sido nada menos que revolucionario. Pero, como te diría cualquiera que haya subido a un avión en la última década, almacenar y suministrar energía desplazando iones de litio cargados a través de una sopa de electrolito líquido tiene sus inconvenientes, entre los cuales destaca la preocupante tendencia de estas baterías a incendiarse. Aquí es donde entra en juego la batería de estado sólido, que sustituye el líquido por un material cerámico o un polímero sólido, creando acumuladores que se cargan más rápido, duran más, concentran más energía en menos espacio y (algo crucial) funcionan a menor temperatura. Una nueva generación de empresas se propone comercializar este tipo de baterías y, si sus apuestas salen bien, esta tecnología podría facilitar de forma sustancial el abandono de los combustibles fósiles.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los escollos&lt;/h3&gt;
-
-&lt;p&gt;Las baterías de estado sólido llevan más de una década «a solo unos pocos años de distancia». En los laboratorios, la tecnología funciona. Pero ha habido obstáculos. En los diseños que combinan el electrolito sólido con un ánodo de litio metálico (la parte de la batería que libera electrones en un circuito eléctrico), durante la carga tienden a crecer unos filamentos en forma de aguja llamados dendritas que, con el tiempo, atraviesan el electrolito y cortocircuitan la celda. Se &lt;em&gt;supone&lt;/em&gt; que los electrolitos sólidos deben bloquear físicamente la formación de dendritas, pero muchos de ellos se agrietan a medida que estas ramificaciones arborescentes se abren paso como raíces en unos cimientos de hormigón.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Luego está el problema de la fabricación a gran escala. La producción en masa exige grandes cantidades de láminas sin defectos de un material similar a la cerámica para fabricar los electrolitos, además de salas secas para el ensamblaje, ya que estos electrolitos tienden a reaccionar con el agua. Los posibles fabricantes barajan diversos precios potenciales para las baterías de estado sólido, pero la mayoría prevé que se equiparen a los paquetes de iones de litio en algún momento a mediados de la década de 2030.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los avances&lt;/h3&gt;
-
-&lt;p&gt;A pesar de ser una tecnología incipiente, las baterías de estado sólido ya han protagonizado &lt;a href="https://www.youtube.com/watch?v=j5oyVNjrUPI"&gt;sonados tropiezos&lt;/a&gt;. Sin embargo, una de las empresas de baterías de estado sólido más avanzadas de Estados Unidos afirma estar muy cerca de poder comercializar su producto. QuantumScape, respaldada por Bill Gates, se fundó en Silicon Valley en 2010 y diseñó su batería a partir de un tipo de materiales cerámicos que, según sostiene, es compatible con el litio, lo que evita la formación de dendritas. «Después nos pasamos unos 10 años aprendiendo a procesarlo para cumplir todos los demás requisitos», afirma Tim Holme, cofundador y director de tecnología de QuantumScape. En 2025, la startup anunció un método de fabricación propio a gran escala para producir rápidamente y tratar térmicamente los electrolitos cerámicos que utiliza en sus baterías. «Nadie había hecho esto antes en el campo de la cerámica», asegura Holme. Durante 10.000 años, fabricar cerámica ha supuesto cocer lentamente los materiales de partida en un horno durante varios días. «Nosotros encontramos la forma de reducirlo a unos minutos», apunta.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Muchas otras empresas también están impulsando esta tecnología. Toyota, el mayor fabricante de automóviles del mundo, &lt;a href="https://pressroom.toyota.com/tmc-outlines-eco-car-plans-battery-research-progress/"&gt;lanzó&lt;/a&gt; un programa de investigación sobre baterías de estado sólido allá por 2010. Ahora colabora con la compañía global de energía y petróleo Idemitsu Kosan en una planta piloto, con la promesa de vehículos capaces de recorrer hasta 745 millas tras recargar durante 10 minutos o menos: un salto enorme si sale bien. En China, CATL, el gigante que acapara cerca del 40 % del mercado mundial de baterías, también está apostando con fuerza por las baterías de estado sólido, destinando &lt;a href="https://greyb.com/blog/solid-state-battery-companies/"&gt;casi 2600 millones de dólares&lt;/a&gt; a un programa de investigación solo en 2024. Mercedes, por su parte, equipó una de sus berlinas EQS con baterías de estado sólido el pasado otoño; tras recorrer 750 millas sin parar, el coche &lt;a href="https://electrek.co/2025/09/09/mercedes-eqs-with-solid-state-ev-batteries-drove-750-miles/"&gt;aún disponía de autonomía&lt;/a&gt; restante.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;¿Ganará tracción esta tecnología? Invertir en baterías para vehículos tiene sentido dado el tamaño del mercado potencial. Sin embargo, cualquier pequeño incremento en los costes suele trasladarse a los compradores, por lo que las primeras baterías de estado sólido para vehículos eléctricos serán, inevitablemente, más caras.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Los compradores de almacenamiento para la red, que trabajan para satisfacer la creciente demanda provocada por los centros de datos, también podrían dudar a la hora de adquirir nuevas tecnologías que todavía no han bajado en la curva de costes. Por otra parte, la promesa de un almacenamiento de energía que dure más de las ocho horas habituales del ion-litio podría hacerlos más fáciles de convencer.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Algunas empresas están siguiendo una estrategia empleada por las firmas dedicadas a la fusión: centrarse en mercados a corto plazo con mejores márgenes para contribuir a financiar el desarrollo y abaratar costes. Varias compañías de baterías de estado sólido, como Solid Energies, afincada en California, y Sion Power, con sede en Arizona, se plantean vender baterías a la industria aeronáutica o al ejército. «Son sectores menos sensibles al coste y que, por lo general, también requieren volúmenes más reducidos», señala Evelina Stoikou, analista principal de tecnologías de baterías y cadenas de suministro en la consultora BloombergNEF. «Es una buena manera de validar el concepto y, a partir de ahí, financiar la planta piloto donde fabricarlo para, con el tiempo, escalar la producción».&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Medidor de progreso ............ 7&lt;/h3&gt;
-
-&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-28.svg" alt="" class="wp-image-1147269" style="width:764px;height:auto"/&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;La tecnología funciona, el capital está disponible y la demanda no se queda atrás. Pero, como ocurre con todo en la fabricación, aún quedan incógnitas desconocidas. &lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Naves espaciales de propulsión nuclear</title>
-  <link href="https://www.technologyreview.es/article/nuclear-powered-spaceships"/>
-  <id>https://www.technologyreview.es/article/nuclear-powered-spaceships</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4</webfeeds:featuredImage>
-  <summary>Una nueva era de los vuelos espaciales podría ahorrar tiempo a los astronautas y reducir su exposición a la radiación cósmica en su viaje hacia Marte —y más…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4" alt="Naves espaciales de propulsión nuclear" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Robin George Andrews&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Una nueva era de los vuelos espaciales podría ahorrar tiempo a los astronautas y reducir su exposición a la radiación cósmica en su viaje hacia Marte —y más…&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Justo antes de que la tripulación de Artemis II iniciara su histórico efecto tirachinas alrededor de la Luna el pasado mes de abril, la NASA anunció sus planes para construir el Space Reactor-1 Freedom. El SR-1, la primera nave espacial interplanetaria de la historia propulsada por un reactor nuclear, tiene previsto realizar una misión no tripulada a Marte a finales de 2028 para llegar en 2029. El éxito de la misión marcaría el comienzo de una nueva era de vuelos espaciales más eficientes y potencialmente más rápidos—lo que ahorraría tiempo a los astronautas y reduciría su exposición a la dañina radiación cósmica en sus viajes a Marte y más allá—. «Te despiertas con ese anuncio y se te dibuja una gran sonrisa en la cara», afirma Simon Middleburgh, codirector del Nuclear Futures Institute de la Universidad de Bangor, en Gales.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los escollos&lt;/h3&gt;
-
-&lt;p&gt;Operar un reactor nuclear en el espacio puede parecer una locura, pero no lo es. La Unión Soviética puso en órbita decenas de reactores, a menudo para alimentar satélites espía. Y los expertos aseguran que no hay grandes obstáculos técnicos para hacer realidad la propulsión nuclear espacial. «Creo que es una tecnología muy viable», afirma Philip Metzger, investigador en ingeniería de vuelos espaciales del Florida Space Institute. «Me alegra ver que por fin lo están haciendo».&lt;/p&gt;
-
-&lt;p&gt;Aun así, el desarrollo de la propulsión espacial mediante reactores ha avanzado con lentitud. Estados Unidos ha puesto en marcha —y cancelado— &lt;a href="https://www.nasa.gov/space-technology-mission-directorate/tdm/space-nuclear-propulsion/#history"&gt;varios programas&lt;/a&gt; dedicados a investigarla a lo largo de los últimos 75 años. La víctima más reciente ha sido DRACO, una colaboración entre la NASA y el Departamento de Defensa que &lt;a href="https://arstechnica.com/space/2025/06/some-parts-of-trumps-proposed-budget-for-nasa-are-literally-draconian/"&gt;llegó a su fin&lt;/a&gt; en 2025. El proyecto se &lt;a href="https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/"&gt;canceló&lt;/a&gt; debido a los elevados costes de experimentación, la imposibilidad de competir en precio con la propulsión convencional de cohetes y la dificultad para garantizar que las pruebas en tierra se realizaran de forma segura y eficaz. (Al fin y al cabo, estás generando una reacción nuclear increíblemente potente).&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los avances&lt;/h3&gt;
-
-&lt;p&gt;Tras muchas dudas, ahora parece que los viajes interplanetarios con propulsión nuclear son una apuesta de 2000 millones de dólares que la NASA está dispuesta a asumir. La agencia está desarrollando un enfoque denominado propulsión nuclear eléctrica, que utiliza los neutrones generados en una reacción autosostenida de fisión de átomos de uranio para producir calor y, en última instancia, electricidad. Dicha electricidad se emplea para ionizar un gas, que se expulsa de la nave espacial con la ayuda de campos magnéticos, generando así empuje. Este método «ofrece muy poco empuje, pero es muy eficiente», afirma Sebastian Corbisiero, director técnico nacional de programas de reactores espaciales del Departamento de Energía de Estados Unidos. «Por tanto, se puede utilizar durante un largo periodo de tiempo».&lt;/p&gt;
-
-&lt;p&gt;¿Qué aspecto tendría un cohete así? Una presentación de Steve Sinacore, director del programa SR-1 de la NASA, ofrece algunas pistas. Por ahora, el diseño conceptual hace que la nave parezca una colosal flecha con plumas. La parte trasera albergará el sistema de energía y propulsión, mientras que en la punta se ubicará un reactor nuclear cargado de uranio con una potencia de al menos 20 kilovatios. (Para ponerlo en contexto, una &lt;a href="https://www.energy.gov/ne/articles/infographic-how-much-power-does-nuclear-reactor-produce"&gt;central nuclear típica&lt;/a&gt; en la Tierra es unas 50.000 veces más potente). Las «plumas» del SR-1 son grandes aletas que ayudan a refrigerar el reactor disipando el calor hacia el espacio.&lt;/p&gt;
-
-&lt;p&gt;Al igual que muchos otros componentes espaciales, el reactor tendrá que ponerse a prueba en tierra antes de recibir el visto bueno para el agitado viaje en cohete al espacio. «Superar el lanzamiento de forma segura va a ser todo un reto», afirma Middleburgh. «Sufres sacudidas, traqueteos y zarandeos». Por motivos de seguridad, el reactor se encenderá unos dos días después del lanzamiento, cuando ya se encuentre a una distancia prudencial de la Tierra. El uranio en sí no es excesivamente peligroso, pero no puede decirse lo mismo de los residuos que se generan cuando el reactor está en funcionamiento. Si el SR-1 funciona según lo previsto, su viaje a Marte durará alrededor de un año.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;¿Llegará realmente esta novedosa forma de propulsión espacial al Planeta Rojo para 2029? Es posible. La NASA afirma que el Laboratorio Nacional de Idaho, que está construyendo el reactor del SR-1, progresa adecuadamente y mantiene su previsión de lanzamiento para finales de 2028. «La adquisición de los componentes principales está en marcha y los trabajos de integración del elemento de potencia y propulsión avanzan a paso firme», declaró Sinacore a &lt;em&gt;MIT Technology Review&lt;/em&gt;. Las perspectivas serán aún más favorables si el programa Artemis, cuyo objetivo es empezar a sentar los cimientos de una base en el polo sur lunar para finales de la década, cumple con su propio y audaz calendario.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;«Es un calendario muy ajustado», afirma Lindsey Holmes, vicepresidenta de proyectos avanzados de Analytical Mechanics Associates, una empresa aeroespacial de Virginia. Sospecha que este impulso se debe, en parte, a las propias &lt;a href="https://www.reuters.com/business/energy/china-led-lunar-base-include-nuclear-power-plant-moons-surface-space-official-2025-04-23/"&gt;ambiciones nucleares de China y Rusia en el espacio profundo&lt;/a&gt;. Ambos países han hablado de planes para instalar un reactor en la superficie lunar a mediados de la década de 2030 con el fin de suministrar energía a una base lunar operada conjuntamente. Tanto si triunfa en el espacio como si fracasa, el desarrollo del SR-1 debería ayudar a la NASA a colocar su propio reactor en la Luna; la tecnología implicada en ambos proyectos es a grandes rasgos similar, dado que la superficie lunar, al igual que el propio espacio, es el vacío. Si una nave espacial interplanetaria de propulsión nuclear funciona, un reactor nuclear en la Luna también debería hacerlo.&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-&lt;div style="height:2em" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Indicador de progreso . . . . . . . . . . . . 6&lt;/h3&gt;
-
-&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg" alt="" class="wp-image-1147261" style="width:764px;height:auto"/&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;La mayor parte de la tecnología para el SR-1 ya existe; la clave estará en encajar todas las piezas y comprobar cómo se comporta en el espacio.&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Comunicación entre especies</title>
-  <link href="https://www.technologyreview.es/article/interspecies-communication"/>
-  <id>https://www.technologyreview.es/article/interspecies-communication</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a</webfeeds:featuredImage>
-  <summary>Descifrar cómo se comunican los animales podría revelar la vida interior de otras especies y ofrecer a los humanos una ventana a cómo ven el mundo.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a" alt="Comunicación entre especies" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Cassandra Willyard&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Descifrar cómo se comunican los animales podría revelar la vida interior de otras especies y ofrecer a los humanos una ventana a cómo ven el mundo.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Los seres humanos distan mucho de ser la única especie con el don de la palabra, y nuestros amigos peludos, emplumados y con aletas podrían tener mucho que decirnos. Descifrar cómo se comunican los animales entre sí podría abrir una ventana a la vida interior de otras especies y ayudar a los humanos a comprender que "los animales son criaturas sintientes que piensan, que tienen sus propias esperanzas y sueños", afirma Con Slobodchikoff, fundador de Zoolingua, una empresa que trabaja en la traducción de perros a humanos.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los escollos&lt;/h3&gt;
-
-&lt;p&gt;Desentrañar todo esto es complejo. Para descifrar aullidos, chillidos y chasquidos, los investigadores deben relacionar a los animales que emiten los sonidos con lo que sucede a su alrededor. Los perritos de las praderas, por ejemplo, &lt;a href="https://pubs.aip.org/asa/jasa/article-abstract/119/5/3153/892893/Acoustic-structures-in-the-alarm-calls-of-Gunnison?redirectedFrom=fulltext"&gt;emiten una serie distinta de ladridos&lt;/a&gt; cuando se acerca un coyote que cuando hay un halcón cerca. Es un trabajo minucioso, sobre todo en el caso de especies difíciles de observar, como las ballenas que se sumergen a grandes profundidades o las ratas topo subterráneas.&lt;/p&gt;
-
-&lt;p&gt;Hay otros obstáculos. Muchos animales no solo se comunican mediante sonidos, sino también a través de señales visuales, el tacto, feromonas o una combinación de señales, algunas de las cuales pueden resultarnos difíciles de percibir. Y sin una piedra de Rosetta multiespecie, resulta difícil saber si las traducciones son precisas.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los avances&lt;/h3&gt;
-
-&lt;p&gt;En los últimos 50 años, un creciente arsenal de dispositivos ha facilitado la observación de las sofisticadas formas en que se comunican los animales. Los &lt;a href="https://www.fisheries.noaa.gov/pacific-islands/population-assessments/passive-acoustics-pacific-islands"&gt;hidrófonos&lt;/a&gt; en el fondo del océano pueden captar el canto de las ballenas jorobadas, y diminutos "&lt;a href="https://phys.org/news/2026-03-tiny-backpacks-reveal-strategy.html"&gt;biologgers&lt;/a&gt;" portátiles pueden registrar cada chillido de un murciélago.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;En la última década, los avances en IA han llevado a un nuevo nivel nuestra capacidad para dar sentido a todo esto. Esta tecnología permite detectar diferentes llamadas, distinguir qué sonidos corresponden a cada animal e identificar patrones. Investigadores del Earth Species Project (ESP), una organización sin ánimo de lucro fundada en 2018 para descodificar la comunicación animal, han utilizado recientemente el aprendizaje automático para &lt;a href="https://earthspecies.org/2025/12/15/unlocking-avian-secrets-how-tiny-biologgers-are-revealing-the-hidden-communication-of-carrion-crows/"&gt;detectar las vocalizaciones de las cornejas negras&lt;/a&gt; y determinar qué ave emitió cada llamada.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Sospechan que una IA más avanzada podría traducir el parloteo de los animales. Los modelos de lenguaje de gran tamaño como Claude y ChatGPT destacan a la hora de encontrar relaciones entre palabras, explica Sara Keen, una de las ecólogas del comportamiento del ESP. La organización confía en que su propio NatureLM (entrenado con habla humana, música y sonidos de animales) sea capaz de interpretar las vocalizaciones de diversas especies.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Esa promesa, sin embargo, sigue siendo teórica. Yossi Yovel, neuroecólogo de la Universidad de Tel Aviv, teme que estos modelos pongan demasiado énfasis en las similitudes acústicas y cometan errores, como agrupar sonidos similares que tienen significados distintos.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;¿Y en cuanto a una conversación bidireccional? No está claro cuándo ocurrirá (o si llegará a hacerlo). Aun así, "muchos animales tienen una estructura evolutiva lo bastante similar como para que seamos capaces de entender lo que dicen", afirma Slobodchikoff.&amp;nbsp;&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Medidor de progreso ............ 4&lt;/h3&gt;
-
-&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-16.svg" alt="Medidor de progreso: 4" class="wp-image-1147275" style="width:764px;height:auto"&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Los investigadores han recopilado ingentes cantidades de datos sobre la comunicación animal, pero aún intentan averiguar cómo descifrarlo todo.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Ejercicio en una pastilla</title>
-  <link href="https://www.technologyreview.es/article/exercise-in-a-pill"/>
-  <id>https://www.technologyreview.es/article/exercise-in-a-pill</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61</webfeeds:featuredImage>
-  <summary>Al desentrañar las vías por las que el movimiento beneficia al cuerpo, podríamos desarrollar fármacos que ofrezcan algunos de esos mismos beneficios, sin…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61" alt="Ejercicio en una pastilla" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Cassandra Willyard&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Al desentrañar las vías por las que el movimiento beneficia al cuerpo, podríamos desarrollar fármacos que ofrezcan algunos de esos mismos beneficios, sin…&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Todos sabemos que el ejercicio es bueno para la salud. Desarrolla los músculos, fortalece los huesos, reduce la presión arterial y mejora el estado de ánimo. Al descifrar de qué manera beneficia el movimiento al organismo, los investigadores esperan desarrollar fármacos capaces de ofrecer algunas de esas mismas ventajas, sin necesidad de entrenar. La idea no es sustituir el ejercicio, sino acercar sus beneficios a personas que sufren fragilidad, discapacidad o enfermedades crónicas.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los escollos&lt;/h3&gt;
-
-&lt;p&gt;Hará falta mucha experimentación para desentrañar las innumerables vías por las que el ejercicio favorece la salud. Pero identificar la cascada de hormonas, enzimas y otras moléculas vinculadas a la actividad física es solo el primer paso. Los científicos deben averiguar cómo convertir ese conocimiento en fármacos seguros y eficaces. Es un desafío mayúsculo: &lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293739/"&gt;más del 90 %&lt;/a&gt; de los tratamientos que llegan a los ensayos en humanos fracasan.&lt;/p&gt;
-
-&lt;p&gt;También existen obstáculos regulatorios. La FDA aprueba medicamentos para tratar enfermedades, no para mejorar el bienestar, afirma Thomas Burris, farmacólogo de la Universidad de Florida cuya labor se centra en enfermedades que responden al ejercicio, como la obesidad, la diabetes tipo 2 y la demencia.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los avances&lt;/h3&gt;
-
-&lt;p&gt;Puede que nunca exista una píldora que aporte todos los beneficios del ejercicio físico, pero la investigación podría dar lugar a nuevos medicamentos que imiten algunos aspectos de la actividad física. Los científicos ya han identificado muchas señales importantes relacionadas con el ejercicio e incluso han desarrollado compuestos para regularlas. (Algunos resultados preliminares han sido tan prometedores que las autoridades antidopaje han prohibido los compuestos de forma proactiva).&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Burris y sus colegas se centran en un receptor que siempre está activado, incluso sin hacer ejercicio. Hacer ejercicio parece potenciar ese receptor en las células musculares, lo que a su vez ayuda a reforzar la resistencia a lo largo del tiempo. El laboratorio de Burris lleva años &lt;a href="https://news.ufl.edu/2023/09/exercise-mimicking-drug/"&gt;diseñando un fármaco&lt;/a&gt; que incrementa directamente la actividad de dicho receptor, y los ratones tratados con él corrieron durante más tiempo y llegaron más lejos que los que no lo recibieron. "Se convierten en ratones maratonianos sin tener que hacer ningún tipo de ejercicio", afirma Burris. Incluso hay indicios (también en ratones) de que el compuesto imita algunos de los beneficios cognitivos del ejercicio y podría ayudar a tratar la insuficiencia cardíaca. Burris fundó una empresa llamada Pelagos para hacer avanzar el trabajo hacia un ensayo clínico.&lt;/p&gt;
-
-&lt;p&gt;Otros fármacos que imitan el ejercicio ya han entrado en fase de estudios en humanos. En junio, la empresa biotecnológica Cambrian Bio &lt;a href="https://www.cambrianbio.com/news-and-publications/cambrian-bio-presents-positive-human-translational-data-for-atx-304-the-first-ampk-network-activator-at-the-american-diabetes-associations-86th-scientific-sessions"&gt;informó&lt;/a&gt; de que su fármaco experimental ATX-304 aceleraba el metabolismo y reducía la grasa hepática y abdominal en personas con obesidad y prediabetes&lt;em&gt;. &lt;/em&gt;Activa un interruptor metabólico que ayuda a las células a detectar cuándo caen las reservas de energía y coordina la producción de más combustible; el mismo interruptor que nos ayuda a mantener largas sesiones saltando a la comba o nadando largos. Cambrian espera que ayude a perder peso sin perder masa muscular, una preocupación habitual con los medicamentos GLP-1. &amp;nbsp;&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Indicador de progreso ............ 5&lt;/h3&gt;
-
-&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-20.svg" alt="Indicador de progreso: 5" class="wp-image-1147277" style="width:764px;height:auto"&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Nuestra comprensión de cómo el ejercicio beneficia al cuerpo aún se está perfilando, y el desarrollo de fármacos es propenso al fracaso.&lt;/strong&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

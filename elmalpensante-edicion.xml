@@ -10,12 +10,12 @@
   <id>https://elmalpensante.com/articulo/los-tiempos-del-willys</id>
   <published>2026-10-02T14:00:00-05:00</published>
   <updated>2026-10-02T14:00:00-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://elmalpensante.com/sites/default/files/images/articulos/Willys.png"/>
+  <link rel="enclosure" type="image/png" href="https://elmalpensante.com/sites/default/files/images/articulos/Willys.png"/>
   <media:content url="https://elmalpensante.com/sites/default/files/images/articulos/Willys.png" medium="image"/>
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/Willys.png"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/Willys.png</webfeeds:featuredImage>
   <summary>A veces se envejece con dignidad, y otras simplemente se es víctima de la más feroz obsolescencia. Partiendo de los Willys, esos viejos camperos que se niegan a abandonar el paisaje antioqueño, el director de esta revista recorre automóviles, casas, libros, vestidos y costumbres para desmontar la idea de que todo lo antiguo merece ser conservado.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Willys.png"&gt;&lt;/p&gt;&lt;p&gt;A veces se envejece con dignidad, y otras simplemente se es víctima de la más feroz obsolescencia. Partiendo de los Willys, esos viejos camperos que se niegan a abandonar el paisaje antioqueño, el director de esta revista recorre automóviles, casas, libros, vestidos y costumbres para desmontar la idea de que todo lo antiguo merece ser conservado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Willys.png" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;A veces se envejece con dignidad, y otras simplemente se es víctima de la más feroz obsolescencia. Partiendo de los Willys, esos viejos camperos que se niegan a abandonar el paisaje antioqueño, el director de esta revista recorre automóviles, casas, libros, vestidos y costumbres para desmontar la idea de que todo lo antiguo merece ser conservado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Las mil y una vidas del latín</title>
@@ -23,12 +23,12 @@
   <id>https://elmalpensante.com/articulo/las-mil-y-una-vidas-del-latin</id>
   <published>2026-10-02T13:59:00-05:00</published>
   <updated>2026-10-02T13:59:00-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://elmalpensante.com/sites/default/files/images/articulos/Vidas%20del%20lati%CC%81n.png"/>
+  <link rel="enclosure" type="image/png" href="https://elmalpensante.com/sites/default/files/images/articulos/Vidas%20del%20lati%CC%81n.png"/>
   <media:content url="https://elmalpensante.com/sites/default/files/images/articulos/Vidas%20del%20lati%CC%81n.png" medium="image"/>
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/Vidas%20del%20lati%CC%81n.png"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/Vidas%20del%20lati%CC%81n.png</webfeeds:featuredImage>
   <summary>¿Puede un idioma sin hablantes nativos seguir moldeando cómo pensamos, cómo clasificamos lo viviente y hasta cómo entrenamos a las máquinas que descollan a nuestro alrededor? La historia reciente del latín sugiere que sí y que es una mala idea dejar de enseñar en colegios y universidades la lengua de Virgilio y Cicerón.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Vidas%20del%20lati%CC%81n.png"&gt;&lt;/p&gt;&lt;p&gt;¿Puede un idioma sin hablantes nativos seguir moldeando cómo pensamos, cómo clasificamos lo viviente y hasta cómo entrenamos a las máquinas que descollan a nuestro alrededor? La historia reciente del latín sugiere que sí y que es una mala idea dejar de enseñar en colegios y universidades la lengua de Virgilio y Cicerón.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Vidas%20del%20lati%CC%81n.png" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;¿Puede un idioma sin hablantes nativos seguir moldeando cómo pensamos, cómo clasificamos lo viviente y hasta cómo entrenamos a las máquinas que descollan a nuestro alrededor? La historia reciente del latín sugiere que sí y que es una mala idea dejar de enseñar en colegios y universidades la lengua de Virgilio y Cicerón.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Un testigo secreto de años oscuros</title>
@@ -41,7 +41,7 @@
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/nhh4fotofrentenacionald3i1_0%20%281%29.jpg"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/nhh4fotofrentenacionald3i1_0%20%281%29.jpg</webfeeds:featuredImage>
   <summary>Para entender el período llamado La Violencia se suele acudir a los grandes procesos, las estructuras y las cifras. El escritor liberal Abelardo Forero Benavides propuso hace casi siete décadas, en un manuscrito que hace poco vio la luz, otra puerta de entrada: los almuerzos y las intrigas de un puñado de dirigentes, así como la violencia del sector encabezado por Laureano Gómez. Esta reseña de su libro desentraña las malas ideas y peores prácticas de nuestros dirigentes, así como los estériles intentos de apaciguamiento.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/nhh4fotofrentenacionald3i1_0%20%281%29.jpg"&gt;&lt;/p&gt;&lt;p&gt;Para entender el período llamado La Violencia se suele acudir a los grandes procesos, las estructuras y las cifras. El escritor liberal Abelardo Forero Benavides propuso hace casi siete décadas, en un manuscrito que hace poco vio la luz, otra puerta de entrada: los almuerzos y las intrigas de un puñado de dirigentes, así como la violencia del sector encabezado por Laureano Gómez. Esta reseña de su libro desentraña las malas ideas y peores prácticas de nuestros dirigentes, así como los estériles intentos de apaciguamiento.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/nhh4fotofrentenacionald3i1_0%20%281%29.jpg" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Para entender el período llamado La Violencia se suele acudir a los grandes procesos, las estructuras y las cifras. El escritor liberal Abelardo Forero Benavides propuso hace casi siete décadas, en un manuscrito que hace poco vio la luz, otra puerta de entrada: los almuerzos y las intrigas de un puñado de dirigentes, así como la violencia del sector encabezado por Laureano Gómez. Esta reseña de su libro desentraña las malas ideas y peores prácticas de nuestros dirigentes, así como los estériles intentos de apaciguamiento.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>El saco de dormir</title>
@@ -54,7 +54,7 @@
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/suen%CC%83o%20FINAL.jpg"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/suen%CC%83o%20FINAL.jpg</webfeeds:featuredImage>
   <summary>Desesperado, un hombre insomne visita dos clínicas del sueño. En el camino, mientras trata de entender su caso con libros y películas que exploran su posible trastorno, el diagnóstico empieza a parecerse más a esa mala idea que es inventarse enfermedades para huirles a los demonios internos.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/suen%CC%83o%20FINAL.jpg"&gt;&lt;/p&gt;&lt;p&gt;Desesperado, un hombre insomne visita dos clínicas del sueño. En el camino, mientras trata de entender su caso con libros y películas que exploran su posible trastorno, el diagnóstico empieza a parecerse más a esa mala idea que es inventarse enfermedades para huirles a los demonios internos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/suen%CC%83o%20FINAL.jpg" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Desesperado, un hombre insomne visita dos clínicas del sueño. En el camino, mientras trata de entender su caso con libros y películas que exploran su posible trastorno, el diagnóstico empieza a parecerse más a esa mala idea que es inventarse enfermedades para huirles a los demonios internos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Dar la cara, ese lujo del pasado</title>
@@ -62,12 +62,12 @@
   <id>https://elmalpensante.com/articulo/dar-la-cara-ese-lujo-del-pasado</id>
   <published>2026-10-01T23:42:00-05:00</published>
   <updated>2026-10-01T23:42:00-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://elmalpensante.com/sites/default/files/images/articulos/Compu.png"/>
+  <link rel="enclosure" type="image/png" href="https://elmalpensante.com/sites/default/files/images/articulos/Compu.png"/>
   <media:content url="https://elmalpensante.com/sites/default/files/images/articulos/Compu.png" medium="image"/>
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/Compu.png"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/Compu.png</webfeeds:featuredImage>
   <summary>Una pequeña diatriba en contra de esas oleadas de anonimato producidas por quienes nunca ponen en sus perfiles de redes sociales una foto de sus rostros y en contra de todo lo que eso termina provocando.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Compu.png"&gt;&lt;/p&gt;&lt;p&gt;Una pequeña diatriba en contra de esas oleadas de anonimato producidas por quienes nunca ponen en sus perfiles de redes sociales una foto de sus rostros y en contra de todo lo que eso termina provocando.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Compu.png" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Una pequeña diatriba en contra de esas oleadas de anonimato producidas por quienes nunca ponen en sus perfiles de redes sociales una foto de sus rostros y en contra de todo lo que eso termina provocando.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Contra el animalismo</title>
@@ -75,12 +75,12 @@
   <id>https://elmalpensante.com/articulo/contra-el-animalismo</id>
   <published>2026-10-01T14:02:00-05:00</published>
   <updated>2026-10-01T14:02:00-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://elmalpensante.com/sites/default/files/images/articulos/Para%20Brigitte.png"/>
+  <link rel="enclosure" type="image/png" href="https://elmalpensante.com/sites/default/files/images/articulos/Para%20Brigitte.png"/>
   <media:content url="https://elmalpensante.com/sites/default/files/images/articulos/Para%20Brigitte.png" medium="image"/>
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/Para%20Brigitte.png"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/Para%20Brigitte.png</webfeeds:featuredImage>
   <summary>Durante trece mil años convertimos cerdos silvestres en chicharrón doméstico. Hoy discutimos si montar a caballo es una forma de maltrato. Entre esos dos extremos se juega una tensión que, para la afamada bióloga que firma este ensayo, el animalismo contemporáneo no siempre sabe nombrar.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Para%20Brigitte.png"&gt;&lt;/p&gt;&lt;p&gt;Durante trece mil años convertimos cerdos silvestres en chicharrón doméstico. Hoy discutimos si montar a caballo es una forma de maltrato. Entre esos dos extremos se juega una tensión que, para la afamada bióloga que firma este ensayo, el animalismo contemporáneo no siempre sabe nombrar.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Para%20Brigitte.png" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Durante trece mil años convertimos cerdos silvestres en chicharrón doméstico. Hoy discutimos si montar a caballo es una forma de maltrato. Entre esos dos extremos se juega una tensión que, para la afamada bióloga que firma este ensayo, el animalismo contemporáneo no siempre sabe nombrar.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>No entender</title>
@@ -93,7 +93,7 @@
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/2%20%281%29.jpg"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/2%20%281%29.jpg</webfeeds:featuredImage>
   <summary>Tras décadas de experiencia leyéndolo todo, una de las grandes ensayistas latinoamericanas llega a una conclusión: es ridícula la exigencia de entender a cabalidad, y de buenas a primeras, una obra de arte. Aquí una defensa de la incomprensión y la dificultad como promisorios senderos frente a un libro, una pintura o una película.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/2%20%281%29.jpg"&gt;&lt;/p&gt;&lt;p&gt;Tras décadas de experiencia leyéndolo todo, una de las grandes ensayistas latinoamericanas llega a una conclusión: es ridícula la exigencia de entender a cabalidad, y de buenas a primeras, una obra de arte. Aquí una defensa de la incomprensión y la dificultad como promisorios senderos frente a un libro, una pintura o una película.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/2%20%281%29.jpg" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Tras décadas de experiencia leyéndolo todo, una de las grandes ensayistas latinoamericanas llega a una conclusión: es ridícula la exigencia de entender a cabalidad, y de buenas a primeras, una obra de arte. Aquí una defensa de la incomprensión y la dificultad como promisorios senderos frente a un libro, una pintura o una película.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Hoy comemos carne</title>
@@ -101,12 +101,12 @@
   <id>https://elmalpensante.com/articulo/hoy-comemos-carne</id>
   <published>2026-10-01T13:34:00-05:00</published>
   <updated>2026-10-01T13:34:00-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://elmalpensante.com/sites/default/files/images/articulos/Carne%20-%20Laura%201.png"/>
+  <link rel="enclosure" type="image/png" href="https://elmalpensante.com/sites/default/files/images/articulos/Carne%20-%20Laura%201.png"/>
   <media:content url="https://elmalpensante.com/sites/default/files/images/articulos/Carne%20-%20Laura%201.png" medium="image"/>
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/Carne%20-%20Laura%201.png"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/Carne%20-%20Laura%201.png</webfeeds:featuredImage>
   <summary>Un cuento de Javier Zamudio</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Carne%20-%20Laura%201.png"&gt;&lt;/p&gt;&lt;p&gt;Un cuento de Javier Zamudio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Carne%20-%20Laura%201.png" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Un cuento de Javier Zamudio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>La jaguaridad</title>
@@ -119,7 +119,7 @@
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/Jaguar.jpeg"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/Jaguar.jpeg</webfeeds:featuredImage>
   <summary>Hace un par de años publicamos en esta revista una breve reflexión sobre la jaguaridad, esa manera de interpretar la persistencia del jaguar en las culturas americanas. Un antropólogo vuelve sobre aquella idea desde una aproximación menos complaciente: ¿y si al reducir a un mismo concepto aquello que distintos pueblos indígenas hicieron del jaguar estuviéramos borrando precisamente lo que quisiéramos reconocer?</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Jaguar.jpeg"&gt;&lt;/p&gt;&lt;p&gt;Hace un par de años publicamos en esta revista una breve reflexión sobre la jaguaridad, esa manera de interpretar la persistencia del jaguar en las culturas americanas. Un antropólogo vuelve sobre aquella idea desde una aproximación menos complaciente: ¿y si al reducir a un mismo concepto aquello que distintos pueblos indígenas hicieron del jaguar estuviéramos borrando precisamente lo que quisiéramos reconocer?&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Jaguar.jpeg" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Hace un par de años publicamos en esta revista una breve reflexión sobre la jaguaridad, esa manera de interpretar la persistencia del jaguar en las culturas americanas. Un antropólogo vuelve sobre aquella idea desde una aproximación menos complaciente: ¿y si al reducir a un mismo concepto aquello que distintos pueblos indígenas hicieron del jaguar estuviéramos borrando precisamente lo que quisiéramos reconocer?&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>El pleonasmo imperial</title>
@@ -132,7 +132,7 @@
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/Entrevista%20a%20cAn%CC%83izares%20QL%20a%20Miguel%20Abadi%CC%81a%20Me%CC%81ndez%20denuncia-1915-AGN.jpg"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/Entrevista%20a%20cAn%CC%83izares%20QL%20a%20Miguel%20Abadi%CC%81a%20Me%CC%81ndez%20denuncia-1915-AGN.jpg</webfeeds:featuredImage>
   <summary>El origen de la política moderna suele ubicarse en Europa, aunque en las Indias del siglo xvi ya existía una robusta participación de las masas: miles de personas denunciaban, litigaban, reclamaban y disputaban el poder. Los historiadores Jorge Cañizares Esguerra y Adrian Masters plantean en una reciente investigación que la política plebeya no llegó desde Europa y que dicho continente tampoco tuvo el monopolio de tal invención. Hablamos con Cañizares para ahondar en este giro de la historia colonial.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Entrevista%20a%20cAn%CC%83izares%20QL%20a%20Miguel%20Abadi%CC%81a%20Me%CC%81ndez%20denuncia-1915-AGN.jpg"&gt;&lt;/p&gt;&lt;p&gt;El origen de la política moderna suele ubicarse en Europa, aunque en las Indias del siglo xvi ya existía una robusta participación de las masas: miles de personas denunciaban, litigaban, reclamaban y disputaban el poder. Los historiadores Jorge Cañizares Esguerra y Adrian Masters plantean en una reciente investigación que la política plebeya no llegó desde Europa y que dicho continente tampoco tuvo el monopolio de tal invención. Hablamos con Cañizares para ahondar en este giro de la historia colonial.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Entrevista%20a%20cAn%CC%83izares%20QL%20a%20Miguel%20Abadi%CC%81a%20Me%CC%81ndez%20denuncia-1915-AGN.jpg" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;El origen de la política moderna suele ubicarse en Europa, aunque en las Indias del siglo xvi ya existía una robusta participación de las masas: miles de personas denunciaban, litigaban, reclamaban y disputaban el poder. Los historiadores Jorge Cañizares Esguerra y Adrian Masters plantean en una reciente investigación que la política plebeya no llegó desde Europa y que dicho continente tampoco tuvo el monopolio de tal invención. Hablamos con Cañizares para ahondar en este giro de la historia colonial.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Donde sentimos rabia</title>
@@ -145,7 +145,7 @@
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/Digna%20rabia.jpg"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/Digna%20rabia.jpg</webfeeds:featuredImage>
   <summary>Toda persona iracunda debería saberse controlar cuando le sacan la piedra, pero quizá sea una mala idea desperdiciar el potencial creativo de la rabia. Dioses que devoran a sus hijos, ciudades bombardeadas, performances truculentos y artistas que deciden gritar para conjurar el silencio componen este recorrido por la historia de la furia en el arte.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Digna%20rabia.jpg"&gt;&lt;/p&gt;&lt;p&gt;Toda persona iracunda debería saberse controlar cuando le sacan la piedra, pero quizá sea una mala idea desperdiciar el potencial creativo de la rabia. Dioses que devoran a sus hijos, ciudades bombardeadas, performances truculentos y artistas que deciden gritar para conjurar el silencio componen este recorrido por la historia de la furia en el arte.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Digna%20rabia.jpg" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Toda persona iracunda debería saberse controlar cuando le sacan la piedra, pero quizá sea una mala idea desperdiciar el potencial creativo de la rabia. Dioses que devoran a sus hijos, ciudades bombardeadas, performances truculentos y artistas que deciden gritar para conjurar el silencio componen este recorrido por la historia de la furia en el arte.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Las últimas palabras</title>
@@ -158,7 +158,7 @@
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/Suicidio%20-MARC%20CAELLAS%202%20-%20Cre%CC%81dito%20Elisabeth%20Jimenez.jpeg"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/Suicidio%20-MARC%20CAELLAS%202%20-%20Cre%CC%81dito%20Elisabeth%20Jimenez.jpeg</webfeeds:featuredImage>
   <summary>Ha sido una pésima idea nombrar el suicidio con eufemismos, como un tabú o como un hecho bochornoso. El escritor español Marc Caellas ha tomado por los cuernos este asunto espinoso a través de las notas con las que autores, artistas, cineastas o músicos se han despedido antes de quitarse la vida.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Suicidio%20-MARC%20CAELLAS%202%20-%20Cre%CC%81dito%20Elisabeth%20Jimenez.jpeg"&gt;&lt;/p&gt;&lt;p&gt;Ha sido una pésima idea nombrar el suicidio con eufemismos, como un tabú o como un hecho bochornoso. El escritor español Marc Caellas ha tomado por los cuernos este asunto espinoso a través de las notas con las que autores, artistas, cineastas o músicos se han despedido antes de quitarse la vida.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/Suicidio%20-MARC%20CAELLAS%202%20-%20Cre%CC%81dito%20Elisabeth%20Jimenez.jpeg" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Ha sido una pésima idea nombrar el suicidio con eufemismos, como un tabú o como un hecho bochornoso. El escritor español Marc Caellas ha tomado por los cuernos este asunto espinoso a través de las notas con las que autores, artistas, cineastas o músicos se han despedido antes de quitarse la vida.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>La virtud del error</title>
@@ -171,7 +171,7 @@
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/La%20virtud%20del%20error.jpg"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/La%20virtud%20del%20error.jpg</webfeeds:featuredImage>
   <summary>Ante la proliferación de textos impecables, respuestas instantáneas y asistentes virtuales que se autorregulan día a día para evitar imprecisiones, este ensayo reivindica la torpeza, el desvío y esa pequeña pausa, hija de la intuición y la autenticidad, que permite descubrir gracias a un error lo que nadie estaba buscando.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/La%20virtud%20del%20error.jpg"&gt;&lt;/p&gt;&lt;p&gt;Ante la proliferación de textos impecables, respuestas instantáneas y asistentes virtuales que se autorregulan día a día para evitar imprecisiones, este ensayo reivindica la torpeza, el desvío y esa pequeña pausa, hija de la intuición y la autenticidad, que permite descubrir gracias a un error lo que nadie estaba buscando.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/La%20virtud%20del%20error.jpg" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Ante la proliferación de textos impecables, respuestas instantáneas y asistentes virtuales que se autorregulan día a día para evitar imprecisiones, este ensayo reivindica la torpeza, el desvío y esa pequeña pausa, hija de la intuición y la autenticidad, que permite descubrir gracias a un error lo que nadie estaba buscando.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>El justo y buen Estado</title>
@@ -184,6 +184,6 @@
   <media:thumbnail url="https://elmalpensante.com/sites/default/files/images/articulos/manifestacion%20crisis%203.jpg"/>
   <webfeeds:featuredImage>https://elmalpensante.com/sites/default/files/images/articulos/manifestacion%20crisis%203.jpg</webfeeds:featuredImage>
   <summary>Son días oscuros para quienes siguen creyendo en la socialdemocracia. La crisis de 2008, la pandemia, el cambio climático y la inteligencia artificial han mostrado a lo largo del siglo xxi las costuras de la fe ciega en el mercado, que sigue sin valerse por sí mismo. Un analista político español entierra aquí la mala idea de subestimar el valor del Estado y plantea la necesidad de uno no necesariamente más grande, pero sí que funcione.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/manifestacion%20crisis%203.jpg"&gt;&lt;/p&gt;&lt;p&gt;Son días oscuros para quienes siguen creyendo en la socialdemocracia. La crisis de 2008, la pandemia, el cambio climático y la inteligencia artificial han mostrado a lo largo del siglo xxi las costuras de la fe ciega en el mercado, que sigue sin valerse por sí mismo. Un analista político español entierra aquí la mala idea de subestimar el valor del Estado y plantea la necesidad de uno no necesariamente más grande, pero sí que funcione.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://elmalpensante.com/sites/default/files/images/articulos/manifestacion%20crisis%203.jpg" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;Son días oscuros para quienes siguen creyendo en la socialdemocracia. La crisis de 2008, la pandemia, el cambio climático y la inteligencia artificial han mostrado a lo largo del siglo xxi las costuras de la fe ciega en el mercado, que sigue sin valerse por sí mismo. Un analista político español entierra aquí la mala idea de subestimar el valor del Estado y plantea la necesidad de uno no necesariamente más grande, pero sí que funcione.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Contenido solo para suscriptores.&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
