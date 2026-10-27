@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>Creative Review – Completo</title>
 <link href="https://www.creativereview.co.uk/"/>
 <id>https://www.creativereview.co.uk/</id>
 <updated>2026-10-27T03:49:44+00:00</updated>
-<entry><title>Boomranng Studio creates charming branding for Cocoa &amp; Katli</title><link href="https://www.creativereview.co.uk/boomranng-studio-creates-charming-branding-for-cocoa-katli/"/><id>https://www.creativereview.co.uk/boomranng-studio-creates-charming-branding-for-cocoa-katli/</id><published>2026-10-27T03:49:44+00:00</published><updated>2026-10-27T03:49:44+00:00</updated><summary>Creative Inspiration Boomranng Studio creates charming branding for Cocoa &amp; Katli Offering sugar-free mithai and chocolates, the branding for the Indian sweet brand aims to emulate luxury, despite being health-conscious By Eliza Williams 27/10/2026 3:49 am Indian sweets tend to b</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/COCOAKATLI-chocolate-bars-domino.png?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1429"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Boomranng Studio creates charming branding for Cocoa &amp;#038; Katli&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;Offering sugar-free mithai and chocolates, the branding for the Indian sweet brand aims to emulate luxury, despite being health-conscious&lt;/p&gt;
+<entry>
+  <title>Boomranng Studio creates charming branding for Cocoa &amp; Katli</title>
+  <link href="https://www.creativereview.co.uk/boomranng-studio-creates-charming-branding-for-cocoa-katli/"/>
+  <id>https://www.creativereview.co.uk/boomranng-studio-creates-charming-branding-for-cocoa-katli/</id>
+  <published>2026-10-27T03:49:44+00:00</published>
+  <updated>2026-10-27T03:49:44+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/COCOAKATLI-chocolate-bars-domino.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1429"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/COCOAKATLI-chocolate-bars-domino.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1429" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/COCOAKATLI-chocolate-bars-domino.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1429"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/COCOAKATLI-chocolate-bars-domino.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1429</webfeeds:featuredImage>
+  <summary>Creative Inspiration Boomranng Studio creates charming branding for Cocoa &amp; Katli Offering sugar-free mithai and chocolates, the branding for the Indian sweet brand aims to emulate luxury, despite being health-conscious By Eliza Williams 27/10/2026 3:49 am Indian sweets tend to b</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/COCOAKATLI-chocolate-bars-domino.png?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1429"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Boomranng Studio creates charming branding for Cocoa &amp;#038; Katli&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;Offering sugar-free mithai and chocolates, the branding for the Indian sweet brand aims to emulate luxury, despite being health-conscious&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/landing-page/eliza-williams/" title="Posts by Eliza Williams" class="author url fn" rel="author"&gt;Eliza Williams&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -40,8 +51,20 @@ Identity &amp;amp; Packaging: Makarand Narkar, Sonal Vasave, Komal Sharma&lt;br&
 &lt;div class="post-footer-ad"&gt;
 	&lt;/div&gt;
 			&lt;/footer&gt;
-			&lt;div class="comments"&gt;&lt;/div&gt;</content></entry>
-<entry><title>Why Codea design studio has launched a shoe range</title><link href="https://www.creativereview.co.uk/codea-design-studio-shoe-range-dover-street-market/"/><id>https://www.creativereview.co.uk/codea-design-studio-shoe-range-dover-street-market/</id><published>2026-10-27T03:48:16+00:00</published><updated>2026-10-27T03:48:16+00:00</updated><summary>Creative Insight Why Codea design studio has launched a shoe range Codea co-founder Alex Marti explains how the new shoe line, created in partnership with Aka-research and SeaLlab, is part of an experiment in whether designing and selling products could be the key to creative and</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/010.png?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1500&amp;amp;h=908"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-insight/" rel="tag"&gt;Creative Insight&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;Why Codea design studio has launched a shoe range&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;Codea co-founder Alex Marti explains how the new shoe line, created in partnership with Aka-research and SeaLlab, is part of an experiment in whether designing and selling products could be the key to creative and financial freedom&lt;/p&gt;
+			&lt;div class="comments"&gt;&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Why Codea design studio has launched a shoe range</title>
+  <link href="https://www.creativereview.co.uk/codea-design-studio-shoe-range-dover-street-market/"/>
+  <id>https://www.creativereview.co.uk/codea-design-studio-shoe-range-dover-street-market/</id>
+  <published>2026-10-27T03:48:16+00:00</published>
+  <updated>2026-10-27T03:48:16+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/010.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1500&amp;h=908"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/010.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1500&amp;h=908" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/010.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1500&amp;h=908"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/010.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1500&amp;h=908</webfeeds:featuredImage>
+  <summary>Creative Insight Why Codea design studio has launched a shoe range Codea co-founder Alex Marti explains how the new shoe line, created in partnership with Aka-research and SeaLlab, is part of an experiment in whether designing and selling products could be the key to creative and</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/010.png?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1500&amp;amp;h=908"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-insight/" rel="tag"&gt;Creative Insight&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;Why Codea design studio has launched a shoe range&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;Codea co-founder Alex Marti explains how the new shoe line, created in partnership with Aka-research and SeaLlab, is part of an experiment in whether designing and selling products could be the key to creative and financial freedom&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/author/alex-marti/" title="Posts by Alex Marti" class="author url fn" rel="author"&gt;Alex Marti&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -78,8 +101,20 @@ Identity &amp;amp; Packaging: Makarand Narkar, Sonal Vasave, Komal Sharma&lt;br&
 	&lt;/div&gt;
 			&lt;/footer&gt;
 			&lt;div class="comments"&gt;
-                			&lt;/div&gt;</content></entry>
-<entry><title>Dennis Vanderbroeck on creating live events that move people</title><link href="https://www.creativereview.co.uk/dennis-vanderbroeck-live-event-design-fashion-theatre-music/"/><id>https://www.creativereview.co.uk/dennis-vanderbroeck-live-event-design-fashion-theatre-music/</id><published>2026-10-27T03:37:59+00:00</published><updated>2026-10-27T03:37:59+00:00</updated><summary>Creative Process Dennis Vanderbroeck on creating live events that move people From his theatrical staging of Rosalía’s Lux tour to the pared-back styling of Icelandic composer Ólafur Arnalds’ new show, Vanderbroeck has become the master of the live spectacle By Paul Weedon 27/10/</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosalia-Listening-Performance-Credit-Rosalia.jpeg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1334"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-process/" rel="tag"&gt;Creative Process&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;Dennis Vanderbroeck on creating live events that move people&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;From his theatrical staging of Rosalía’s Lux tour to the pared-back styling of Icelandic composer Ólafur Arnalds’ new show, Vanderbroeck has become the master of the live spectacle&lt;/p&gt;
+                			&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Dennis Vanderbroeck on creating live events that move people</title>
+  <link href="https://www.creativereview.co.uk/dennis-vanderbroeck-live-event-design-fashion-theatre-music/"/>
+  <id>https://www.creativereview.co.uk/dennis-vanderbroeck-live-event-design-fashion-theatre-music/</id>
+  <published>2026-10-27T03:37:59+00:00</published>
+  <updated>2026-10-27T03:37:59+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosalia-Listening-Performance-Credit-Rosalia.jpeg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1334"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosalia-Listening-Performance-Credit-Rosalia.jpeg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1334" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosalia-Listening-Performance-Credit-Rosalia.jpeg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1334"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosalia-Listening-Performance-Credit-Rosalia.jpeg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1334</webfeeds:featuredImage>
+  <summary>Creative Process Dennis Vanderbroeck on creating live events that move people From his theatrical staging of Rosalía’s Lux tour to the pared-back styling of Icelandic composer Ólafur Arnalds’ new show, Vanderbroeck has become the master of the live spectacle By Paul Weedon 27/10/</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosalia-Listening-Performance-Credit-Rosalia.jpeg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1334"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-process/" rel="tag"&gt;Creative Process&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;Dennis Vanderbroeck on creating live events that move people&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;From his theatrical staging of Rosalía’s Lux tour to the pared-back styling of Icelandic composer Ólafur Arnalds’ new show, Vanderbroeck has become the master of the live spectacle&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/author/paul-weedon/" title="Posts by Paul Weedon" class="author url fn" rel="author"&gt;Paul Weedon&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -117,8 +152,20 @@ Identity &amp;amp; Packaging: Makarand Narkar, Sonal Vasave, Komal Sharma&lt;br&
 	&lt;/div&gt;
 			&lt;/footer&gt;
 			&lt;div class="comments"&gt;
-                			&lt;/div&gt;</content></entry>
-<entry><title>Royal Designers for Industry rebrands as it turns 90</title><link href="https://www.creativereview.co.uk/royal-designers-for-industry-rebrands-90-birthday/"/><id>https://www.creativereview.co.uk/royal-designers-for-industry-rebrands-90-birthday/</id><published>2026-10-26T11:56:01+00:00</published><updated>2026-10-26T11:56:01+00:00</updated><summary>Creative Inspiration Royal Designers for Industry rebrands as it turns 90 The Royal Designers for Industry has been given a bold new identity by two of its most prolific members, Margaret Calvert and Ian Cartlidge By Daniel Milroy Maher 26/10/2026 11:56 am Renowned British design</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/RDI_2026_Books_web.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1600&amp;amp;h=1067"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Royal Designers for Industry rebrands as it turns 90&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;The Royal Designers for Industry has been given a bold new identity by two of its most prolific members, Margaret Calvert and Ian Cartlidge&lt;/p&gt;
+                			&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Royal Designers for Industry rebrands as it turns 90</title>
+  <link href="https://www.creativereview.co.uk/royal-designers-for-industry-rebrands-90-birthday/"/>
+  <id>https://www.creativereview.co.uk/royal-designers-for-industry-rebrands-90-birthday/</id>
+  <published>2026-10-26T11:56:01+00:00</published>
+  <updated>2026-10-26T11:56:01+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/RDI_2026_Books_web.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1600&amp;h=1067"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/RDI_2026_Books_web.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1600&amp;h=1067" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/RDI_2026_Books_web.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1600&amp;h=1067"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/RDI_2026_Books_web.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1600&amp;h=1067</webfeeds:featuredImage>
+  <summary>Creative Inspiration Royal Designers for Industry rebrands as it turns 90 The Royal Designers for Industry has been given a bold new identity by two of its most prolific members, Margaret Calvert and Ian Cartlidge By Daniel Milroy Maher 26/10/2026 11:56 am Renowned British design</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/RDI_2026_Books_web.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1600&amp;amp;h=1067"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Royal Designers for Industry rebrands as it turns 90&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;The Royal Designers for Industry has been given a bold new identity by two of its most prolific members, Margaret Calvert and Ian Cartlidge&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/landing-page/daniel-milroy-maher/" title="Posts by Daniel Milroy Maher" class="author url fn" rel="author"&gt;Daniel Milroy Maher&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -152,8 +199,20 @@ Identity &amp;amp; Packaging: Makarand Narkar, Sonal Vasave, Komal Sharma&lt;br&
 &lt;div class="post-footer-ad"&gt;
 	&lt;/div&gt;
 			&lt;/footer&gt;
-			&lt;div class="comments"&gt;&lt;/div&gt;</content></entry>
-<entry><title>Applied Mschf on bringing its creativity to brands</title><link href="https://www.creativereview.co.uk/applied-mschf-creativity-advertising/"/><id>https://www.creativereview.co.uk/applied-mschf-creativity-advertising/</id><published>2026-10-26T03:50:00+00:00</published><updated>2026-10-26T03:50:00+00:00</updated><summary>Creative Leadership Applied Mschf on bringing its creativity to brands Launched to meet growing demand for Mschf’s distinctive approach, the commercial venture is carving out its own place in the industry. CR speaks to CEO Gabriel Whaley about preserving the collective’s independ</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/featApplied_IG_LIFE_5.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1200&amp;amp;h=1201"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-leadership/" rel="tag"&gt;Creative Leadership&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;Applied Mschf on bringing its creativity to brands&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Launched to meet growing demand for Mschf’s distinctive approach, the commercial venture is carving out its own place in the industry. CR speaks to CEO Gabriel Whaley about preserving the collective’s independent spirit and what he’s learned about agency life&lt;/span&gt;&lt;/p&gt;
+			&lt;div class="comments"&gt;&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Applied Mschf on bringing its creativity to brands</title>
+  <link href="https://www.creativereview.co.uk/applied-mschf-creativity-advertising/"/>
+  <id>https://www.creativereview.co.uk/applied-mschf-creativity-advertising/</id>
+  <published>2026-10-26T03:50:00+00:00</published>
+  <updated>2026-10-26T03:50:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/featApplied_IG_LIFE_5.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1200&amp;h=1201"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/featApplied_IG_LIFE_5.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1200&amp;h=1201" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/featApplied_IG_LIFE_5.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1200&amp;h=1201"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/featApplied_IG_LIFE_5.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1200&amp;h=1201</webfeeds:featuredImage>
+  <summary>Creative Leadership Applied Mschf on bringing its creativity to brands Launched to meet growing demand for Mschf’s distinctive approach, the commercial venture is carving out its own place in the industry. CR speaks to CEO Gabriel Whaley about preserving the collective’s independ</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/featApplied_IG_LIFE_5.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1200&amp;amp;h=1201"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-leadership/" rel="tag"&gt;Creative Leadership&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;Applied Mschf on bringing its creativity to brands&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Launched to meet growing demand for Mschf’s distinctive approach, the commercial venture is carving out its own place in the industry. CR speaks to CEO Gabriel Whaley about preserving the collective’s independent spirit and what he’s learned about agency life&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/landing-page/rebecca-fulleylove/" title="Posts by Rebecca Fulleylove" class="author url fn" rel="author"&gt;Rebecca Fulleylove&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -300,8 +359,20 @@ Identity &amp;amp; Packaging: Makarand Narkar, Sonal Vasave, Komal Sharma&lt;br&
 	&lt;/div&gt;
 			&lt;/footer&gt;
 			&lt;div class="comments"&gt;
-                			&lt;/div&gt;</content></entry>
-<entry><title>New Children in Need campaign focuses on vital project workers</title><link href="https://www.creativereview.co.uk/children-in-need-campaign-bbc-creative/"/><id>https://www.creativereview.co.uk/children-in-need-campaign-bbc-creative/</id><published>2026-10-26T03:35:37+00:00</published><updated>2026-10-26T03:35:37+00:00</updated><summary>Creative Inspiration New Children in Need campaign focuses on vital project workers This subtle new film from BBC Creative emphasises the complex work that Children in Need workers perform to help support young people By Eliza Williams 26/10/2026 3:35 am It’s easy to focus on the</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/CiN_BRAND_26_KEY_ART_Press_1920x1080_CLEAN.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1920&amp;amp;h=1080"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;New Children in Need campaign focuses on vital project workers&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;This subtle new film from BBC Creative emphasises the complex work that Children in Need workers perform to help support young people&lt;/p&gt;
+                			&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>New Children in Need campaign focuses on vital project workers</title>
+  <link href="https://www.creativereview.co.uk/children-in-need-campaign-bbc-creative/"/>
+  <id>https://www.creativereview.co.uk/children-in-need-campaign-bbc-creative/</id>
+  <published>2026-10-26T03:35:37+00:00</published>
+  <updated>2026-10-26T03:35:37+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/CiN_BRAND_26_KEY_ART_Press_1920x1080_CLEAN.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1920&amp;h=1080"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/CiN_BRAND_26_KEY_ART_Press_1920x1080_CLEAN.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1920&amp;h=1080" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/CiN_BRAND_26_KEY_ART_Press_1920x1080_CLEAN.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1920&amp;h=1080"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/CiN_BRAND_26_KEY_ART_Press_1920x1080_CLEAN.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1920&amp;h=1080</webfeeds:featuredImage>
+  <summary>Creative Inspiration New Children in Need campaign focuses on vital project workers This subtle new film from BBC Creative emphasises the complex work that Children in Need workers perform to help support young people By Eliza Williams 26/10/2026 3:35 am It’s easy to focus on the</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/CiN_BRAND_26_KEY_ART_Press_1920x1080_CLEAN.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1920&amp;amp;h=1080"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;New Children in Need campaign focuses on vital project workers&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;This subtle new film from BBC Creative emphasises the complex work that Children in Need workers perform to help support young people&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/landing-page/eliza-williams/" title="Posts by Eliza Williams" class="author url fn" rel="author"&gt;Eliza Williams&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -336,8 +407,20 @@ DoP: Michael Dymek &lt;/em&gt;&lt;/p&gt;
 &lt;div class="post-footer-ad"&gt;
 	&lt;/div&gt;
 			&lt;/footer&gt;
-			&lt;div class="comments"&gt;&lt;/div&gt;</content></entry>
-<entry><title>Inside Robin Hunter Blake’s stroboscopic photograpy</title><link href="https://www.creativereview.co.uk/inside-robin-hunter-blakes-stroboscopic-photograpy/"/><id>https://www.creativereview.co.uk/inside-robin-hunter-blakes-stroboscopic-photograpy/</id><published>2026-10-23T02:09:13+00:00</published><updated>2026-10-23T02:09:13+00:00</updated><summary>Creative Process Inside Robin Hunter Blake’s stroboscopic photograpy The photographer and filmmaker explains how his love of historical techniques has fed into his atmospheric artworks By Christina Donoghue 23/10/2026 3:09 am Gen Z is rarely spared criticism from its elders: lazy</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Robin-Hunter-Blake-Spilling-of-the-wine-2026-Courtesy-of-the-Artist.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1333"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-process/" rel="tag"&gt;Creative Process&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;Inside Robin Hunter Blake&amp;#8217;s stroboscopic photograpy&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;The photographer and filmmaker explains how his love of historical techniques has fed into his atmospheric artworks&lt;/p&gt;
+			&lt;div class="comments"&gt;&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Inside Robin Hunter Blake’s stroboscopic photograpy</title>
+  <link href="https://www.creativereview.co.uk/inside-robin-hunter-blakes-stroboscopic-photograpy/"/>
+  <id>https://www.creativereview.co.uk/inside-robin-hunter-blakes-stroboscopic-photograpy/</id>
+  <published>2026-10-23T02:09:13+00:00</published>
+  <updated>2026-10-23T02:09:13+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Robin-Hunter-Blake-Spilling-of-the-wine-2026-Courtesy-of-the-Artist.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1333"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Robin-Hunter-Blake-Spilling-of-the-wine-2026-Courtesy-of-the-Artist.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1333" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Robin-Hunter-Blake-Spilling-of-the-wine-2026-Courtesy-of-the-Artist.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1333"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Robin-Hunter-Blake-Spilling-of-the-wine-2026-Courtesy-of-the-Artist.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1333</webfeeds:featuredImage>
+  <summary>Creative Process Inside Robin Hunter Blake’s stroboscopic photograpy The photographer and filmmaker explains how his love of historical techniques has fed into his atmospheric artworks By Christina Donoghue 23/10/2026 3:09 am Gen Z is rarely spared criticism from its elders: lazy</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Robin-Hunter-Blake-Spilling-of-the-wine-2026-Courtesy-of-the-Artist.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1333"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-process/" rel="tag"&gt;Creative Process&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;Inside Robin Hunter Blake&amp;#8217;s stroboscopic photograpy&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;The photographer and filmmaker explains how his love of historical techniques has fed into his atmospheric artworks&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/author/christina-donoghue/" title="Posts by Christina Donoghue" class="author url fn" rel="author"&gt;Christina Donoghue&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -374,8 +457,20 @@ DoP: Michael Dymek &lt;/em&gt;&lt;/p&gt;
 	&lt;/div&gt;
 			&lt;/footer&gt;
 			&lt;div class="comments"&gt;
-                			&lt;/div&gt;</content></entry>
-<entry><title>Kiln Studio designs identity for new weight-loss product, Reset</title><link href="https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/"/><id>https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/</id><published>2026-10-23T02:05:18+00:00</published><updated>2026-10-23T02:05:18+00:00</updated><summary>Creative Inspiration Kiln Studio designs identity for new weight-loss product, Reset The identity is centred around a playful block-like character named Ester, who is “part guide, part reassuring presence” By Eliza Williams 23/10/2026 3:05 am Reset is a technology-led product tha</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Reset.png?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1084"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Kiln Studio designs identity for new weight-loss product, Reset&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;The identity is centred around a playful block-like character named Ester, who is “part guide, part reassuring presence”&lt;/p&gt;
+                			&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Kiln Studio designs identity for new weight-loss product, Reset</title>
+  <link href="https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/"/>
+  <id>https://www.creativereview.co.uk/kiln-studio-identity-weight-loss-product-reset/</id>
+  <published>2026-10-23T02:05:18+00:00</published>
+  <updated>2026-10-23T02:05:18+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Reset.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1084"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Reset.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1084" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Reset.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1084"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Reset.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1084</webfeeds:featuredImage>
+  <summary>Creative Inspiration Kiln Studio designs identity for new weight-loss product, Reset The identity is centred around a playful block-like character named Ester, who is “part guide, part reassuring presence” By Eliza Williams 23/10/2026 3:05 am Reset is a technology-led product tha</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Reset.png?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1084"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Kiln Studio designs identity for new weight-loss product, Reset&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;The identity is centred around a playful block-like character named Ester, who is “part guide, part reassuring presence”&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/landing-page/eliza-williams/" title="Posts by Eliza Williams" class="author url fn" rel="author"&gt;Eliza Williams&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -413,8 +508,20 @@ DoP: Michael Dymek &lt;/em&gt;&lt;/p&gt;
 &lt;div class="post-footer-ad"&gt;
 	&lt;/div&gt;
 			&lt;/footer&gt;
-			&lt;div class="comments"&gt;&lt;/div&gt;</content></entry>
-<entry><title>Apple Music’s new brand identity is ‘made by sound’</title><link href="https://www.creativereview.co.uk/apple-music-brand-identity-fred-again/"/><id>https://www.creativereview.co.uk/apple-music-brand-identity-fred-again/</id><published>2026-10-22T07:36:16+00:00</published><updated>2026-10-22T07:36:16+00:00</updated><summary>Creative Inspiration Apple Music’s new brand identity is ‘made by sound’ Created by TBWA\Media Arts Lab in partnership with Fred again.., the identity intends to “take the idea of music and distill it into something visually beautiful” By Eliza Williams 22/10/2026 8:36 am The cre</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/%EF%A3%BFmusic_thumbnail_final.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1280&amp;amp;h=700"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Apple Music’s new brand identity is ‘made by sound’&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;Created by TBWA\Media Arts Lab in partnership with Fred again.., the identity intends to “take the idea of music and distill it into something visually beautiful”&lt;/p&gt;
+			&lt;div class="comments"&gt;&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Apple Music’s new brand identity is ‘made by sound’</title>
+  <link href="https://www.creativereview.co.uk/apple-music-brand-identity-fred-again/"/>
+  <id>https://www.creativereview.co.uk/apple-music-brand-identity-fred-again/</id>
+  <published>2026-10-22T07:36:16+00:00</published>
+  <updated>2026-10-22T07:36:16+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/%EF%A3%BFmusic_thumbnail_final.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1280&amp;h=700"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/%EF%A3%BFmusic_thumbnail_final.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1280&amp;h=700" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/%EF%A3%BFmusic_thumbnail_final.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1280&amp;h=700"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/%EF%A3%BFmusic_thumbnail_final.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1280&amp;h=700</webfeeds:featuredImage>
+  <summary>Creative Inspiration Apple Music’s new brand identity is ‘made by sound’ Created by TBWA\Media Arts Lab in partnership with Fred again.., the identity intends to “take the idea of music and distill it into something visually beautiful” By Eliza Williams 22/10/2026 8:36 am The cre</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/%EF%A3%BFmusic_thumbnail_final.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1280&amp;amp;h=700"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Apple Music’s new brand identity is ‘made by sound’&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;Created by TBWA\Media Arts Lab in partnership with Fred again.., the identity intends to “take the idea of music and distill it into something visually beautiful”&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/landing-page/eliza-williams/" title="Posts by Eliza Williams" class="author url fn" rel="author"&gt;Eliza Williams&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -453,8 +560,20 @@ VFX: Time Based Arts&lt;/em&gt;&lt;/p&gt;
 &lt;div class="post-footer-ad"&gt;
 	&lt;/div&gt;
 			&lt;/footer&gt;
-			&lt;div class="comments"&gt;&lt;/div&gt;</content></entry>
-<entry><title>How AI has exposed the cracks in the creative industry</title><link href="https://www.creativereview.co.uk/ai-exposed-cracks-creative-industry-mike-teevee-report/"/><id>https://www.creativereview.co.uk/ai-exposed-cracks-creative-industry-mike-teevee-report/</id><published>2026-10-22T02:47:51+00:00</published><updated>2026-10-22T02:47:51+00:00</updated><summary>Opinion How AI has exposed the cracks in the creative industry A new report by agency MikeTeevee conducted with its in-house agency partners reveals that many of the concerns caused by AI already existed. Now is the time to make changes By Ellen Utrecht 22/10/2026 3:47 am AI has </summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/MTV_Brand-Perspectives_cover.png?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1125"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="" rel="tag"&gt;Opinion&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;How AI has exposed the cracks in the creative industry&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;A new report by agency MikeTeevee conducted with its in-house agency partners reveals that many of the concerns caused by AI already existed. Now is the time to make changes&lt;/p&gt;
+			&lt;div class="comments"&gt;&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>How AI has exposed the cracks in the creative industry</title>
+  <link href="https://www.creativereview.co.uk/ai-exposed-cracks-creative-industry-mike-teevee-report/"/>
+  <id>https://www.creativereview.co.uk/ai-exposed-cracks-creative-industry-mike-teevee-report/</id>
+  <published>2026-10-22T02:47:51+00:00</published>
+  <updated>2026-10-22T02:47:51+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/MTV_Brand-Perspectives_cover.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1125"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/MTV_Brand-Perspectives_cover.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1125" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/MTV_Brand-Perspectives_cover.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1125"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/MTV_Brand-Perspectives_cover.png?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=2000&amp;h=1125</webfeeds:featuredImage>
+  <summary>Opinion How AI has exposed the cracks in the creative industry A new report by agency MikeTeevee conducted with its in-house agency partners reveals that many of the concerns caused by AI already existed. Now is the time to make changes By Ellen Utrecht 22/10/2026 3:47 am AI has </summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/MTV_Brand-Perspectives_cover.png?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=2000&amp;amp;h=1125"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="" rel="tag"&gt;Opinion&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title font-schear"&gt;How AI has exposed the cracks in the creative industry&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;A new report by agency MikeTeevee conducted with its in-house agency partners reveals that many of the concerns caused by AI already existed. Now is the time to make changes&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/author/ellen-utrecht/" title="Posts by Ellen Utrecht" class="author url fn" rel="author"&gt;Ellen Utrecht&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -492,8 +611,20 @@ VFX: Time Based Arts&lt;/em&gt;&lt;/p&gt;
 	&lt;/div&gt;
 			&lt;/footer&gt;
 			&lt;div class="comments"&gt;
-                			&lt;/div&gt;</content></entry>
-<entry><title>Sheba campaign turns cat owners from ignored to adored</title><link href="https://www.creativereview.co.uk/sheba-ignored-adored-social-advertising/"/><id>https://www.creativereview.co.uk/sheba-ignored-adored-social-advertising/</id><published>2026-10-22T02:38:41+00:00</published><updated>2026-10-22T02:38:41+00:00</updated><summary>Creative Inspiration Sheba campaign turns cat owners from ignored to adored Created by AMV BBDO, the social campaign aims to strengthen the bond between indifferent cats and their owners with a feeding challenge that encourages brand loyalty By Rebecca Fulleylove 22/10/2026 3:38 </summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/sheba-cat-ad-featured.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1105&amp;amp;h=1106"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Sheba campaign turns cat owners from ignored to adored&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Created by AMV BBDO, the social campaign aims to strengthen the bond between indifferent cats and their owners with a feeding challenge that encourages brand loyalty &lt;/span&gt;&lt;/p&gt;
+                			&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Sheba campaign turns cat owners from ignored to adored</title>
+  <link href="https://www.creativereview.co.uk/sheba-ignored-adored-social-advertising/"/>
+  <id>https://www.creativereview.co.uk/sheba-ignored-adored-social-advertising/</id>
+  <published>2026-10-22T02:38:41+00:00</published>
+  <updated>2026-10-22T02:38:41+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/sheba-cat-ad-featured.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1105&amp;h=1106"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/sheba-cat-ad-featured.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1105&amp;h=1106" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/sheba-cat-ad-featured.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1105&amp;h=1106"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/sheba-cat-ad-featured.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1105&amp;h=1106</webfeeds:featuredImage>
+  <summary>Creative Inspiration Sheba campaign turns cat owners from ignored to adored Created by AMV BBDO, the social campaign aims to strengthen the bond between indifferent cats and their owners with a feeding challenge that encourages brand loyalty By Rebecca Fulleylove 22/10/2026 3:38 </summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/sheba-cat-ad-featured.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1105&amp;amp;h=1106"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Sheba campaign turns cat owners from ignored to adored&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Created by AMV BBDO, the social campaign aims to strengthen the bond between indifferent cats and their owners with a feeding challenge that encourages brand loyalty &lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/landing-page/rebecca-fulleylove/" title="Posts by Rebecca Fulleylove" class="author url fn" rel="author"&gt;Rebecca Fulleylove&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -528,8 +659,20 @@ VFX: Time Based Arts&lt;/em&gt;&lt;/p&gt;
 &lt;div class="post-footer-ad"&gt;
 	&lt;/div&gt;
 			&lt;/footer&gt;
-			&lt;div class="comments"&gt;&lt;/div&gt;</content></entry>
-<entry><title>Rosemaund brings a Guy Ritchie flavour to English whisky</title><link href="https://www.creativereview.co.uk/rosemaund-english-whisky-branding-guy-ritchie-the-gentlemen/"/><id>https://www.creativereview.co.uk/rosemaund-english-whisky-branding-guy-ritchie-the-gentlemen/</id><published>2026-10-21T02:48:48+00:00</published><updated>2026-10-21T02:48:48+00:00</updated><summary>Creative Inspiration Rosemaund brings a Guy Ritchie flavour to English whisky The Herefordshire distillery’s in-house branding draws on its rural setting, as English Whisky gains protected status By Adam Woodward 21/10/2026 3:48 am A new English single malt whisky brand with a st</summary><content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosemaund-English-Whisky-bottle-label.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1920&amp;amp;h=1080"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Rosemaund brings a Guy Ritchie flavour to English whisky&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;The Herefordshire distillery’s in-house branding draws on its rural setting, as English Whisky gains protected status&lt;/p&gt;
+			&lt;div class="comments"&gt;&lt;/div&gt;</content>
+</entry>
+<entry>
+  <title>Rosemaund brings a Guy Ritchie flavour to English whisky</title>
+  <link href="https://www.creativereview.co.uk/rosemaund-english-whisky-branding-guy-ritchie-the-gentlemen/"/>
+  <id>https://www.creativereview.co.uk/rosemaund-english-whisky-branding-guy-ritchie-the-gentlemen/</id>
+  <published>2026-10-21T02:48:48+00:00</published>
+  <updated>2026-10-21T02:48:48+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosemaund-English-Whisky-bottle-label.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1920&amp;h=1080"/>
+  <media:content url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosemaund-English-Whisky-bottle-label.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1920&amp;h=1080" medium="image"/>
+  <media:thumbnail url="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosemaund-English-Whisky-bottle-label.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1920&amp;h=1080"/>
+  <webfeeds:featuredImage>https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosemaund-English-Whisky-bottle-label.jpg?auto=compress,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;q=60&amp;w=1920&amp;h=1080</webfeeds:featuredImage>
+  <summary>Creative Inspiration Rosemaund brings a Guy Ritchie flavour to English whisky The Herefordshire distillery’s in-house branding draws on its rural setting, as English Whisky gains protected status By Adam Woodward 21/10/2026 3:48 am A new English single malt whisky brand with a st</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://d3e341ktepti6g.cloudfront.net/uploads/2026/10/Rosemaund-English-Whisky-bottle-label.jpg?auto=compress,format&amp;amp;crop=faces,entropy,edges&amp;amp;fit=crop&amp;amp;q=60&amp;amp;w=1920&amp;amp;h=1080"&gt;&lt;/p&gt;&lt;header&gt;&lt;div class="entry-terms"&gt;&lt;a class="term-link-taxonomy-type" href="https://www.creativereview.co.uk/landing-page/creative-inspiration/" rel="tag"&gt;Creative Inspiration&lt;/a&gt;&lt;/div&gt;&lt;h1 class="page-title"&gt;Rosemaund brings a Guy Ritchie flavour to English whisky&lt;/h1&gt;&lt;div class="standfirst"&gt;&lt;p&gt;The Herefordshire distillery’s in-house branding draws on its rural setting, as English Whisky gains protected status&lt;/p&gt;
 &lt;/div&gt;				&lt;div class="article-meta"&gt;
 &lt;span class="byline"&gt;By &lt;span class="author vcard"&gt;&lt;a href="https://www.creativereview.co.uk/author/adam-woodward/" title="Posts by Adam Woodward" class="author url fn" rel="author"&gt;Adam Woodward&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 
@@ -567,5 +710,6 @@ VFX: Time Based Arts&lt;/em&gt;&lt;/p&gt;
 &lt;div class="post-footer-ad"&gt;
 	&lt;/div&gt;
 			&lt;/footer&gt;
-			&lt;div class="comments"&gt;&lt;/div&gt;</content></entry>
+			&lt;div class="comments"&gt;&lt;/div&gt;</content>
+</entry>
 </feed>
