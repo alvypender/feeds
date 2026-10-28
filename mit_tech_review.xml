@@ -3,7 +3,121 @@
 <title>MIT Technology Review en español (Completo)</title>
 <link href="https://www.technologyreview.es/"/>
 <id>https://www.technologyreview.es/</id>
-<updated>2026-10-27T05:00:00+00:00</updated>
+<updated>2026-10-28T08:10:00+00:00</updated>
+<entry>
+  <title>The Download: startups muertas que alimentan la IA y comunicación entre especies</title>
+  <link href="https://www.technologyreview.es/article/the-download-startups-muertas-que-alimentan-la-ia-y-comunicacion-entre-especies"/>
+  <id>https://www.technologyreview.es/article/the-download-startups-muertas-que-alimentan-la-ia-y-comunicacion-entre-especies</id>
+  <published>2026-10-28T08:10:00+00:00</published>
+  <updated>2026-10-28T08:10:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RYk_4DkRLY4/maxresdefault.jpg"/>
+  <media:content url="https://img.youtube.com/vi/RYk_4DkRLY4/maxresdefault.jpg" medium="image"/>
+  <media:thumbnail url="https://img.youtube.com/vi/RYk_4DkRLY4/maxresdefault.jpg"/>
+  <webfeeds:featuredImage>https://img.youtube.com/vi/RYk_4DkRLY4/maxresdefault.jpg</webfeeds:featuredImage>
+  <summary>Además: unos hackers han interrumpido el funcionamiento de la web de la Comisión Federal de Elecciones de EE. UU.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/RYk_4DkRLY4/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: startups muertas que alimentan la IA y comunicación entre especies" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: unos hackers han interrumpido el funcionamiento de la web de la Comisión Federal de Elecciones de EE. UU.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;Los laboratorios de IA están comprando datos de startups extintas para entrenar sus modelos&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Cuando Keelan Miskell comenzó a liquidar su startup de criptomonedas, no pensaba que sus datos tuvieran mucho valor. Pero, desde entonces, ha convertido los archivos digitales de la empresa en decenas de miles de dólares al vender su base de código y los datos de su espacio de trabajo.&lt;/p&gt;
+
+&lt;p&gt;Forma parte de un mercado en auge en el que las empresas que ayudan a liquidar startups venden sus datos a laboratorios de IA. La demanda ha aumentado a medida que los laboratorios de entrenamiento tocan techo con los conjuntos de datos públicos y sintéticos, y los compradores buscan registros del mundo real para entrenar agentes de IA. Sin embargo, estas ventas suscitan dudas legales y éticas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"&gt;Lee el reportaje completo sobre los laboratorios de IA que compran los restos de startups fallidas&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Matthew King&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;¿Hemos llegado ya? Comunicación entre especies&amp;nbsp;&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Los humanos distan mucho de ser la única especie con el don de la palabra, y nuestros amigos peludos, emplumados y con aletas podrían tener mucho que contarnos.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Descifrar cómo se comunican los animales entre sí podría desvelar la vida interior de otras especies —y ofrecer a los humanos una ventana a cómo ven el mundo—. Un creciente arsenal de dispositivos y los avances en IA han facilitado el estudio de sus aullidos, chillidos y chasquidos, pero dar sentido a todo ello sigue siendo complejo.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;a href="https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/"&gt;Descubre lo cerca que estamos de la comunicación entre especies&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Cassandra Willyard&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Este artículo forma parte de&lt;/em&gt; &lt;a href="https://www.technologyreview.com/supertopic/are-we-there-yet-impossible-issue/"&gt;&lt;em&gt;«¿Hemos llegado ya?»&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, nuestra serie que hace balance de seis tecnologías que llevan mucho tiempo prometiendo cambiar el mundo —y evalúa su avance con un medidor de progreso—. Las estamos analizando una por una en The Download, así que no te lo pierdas y&lt;/em&gt; &lt;a href="https://www.technologyreview.com/subscribe"&gt;&lt;em&gt;suscríbete para leer el resto de artículos&lt;/em&gt;&lt;/a&gt; &lt;em&gt;de nuestra&lt;/em&gt; &lt;a href="https://www.technologyreview.com/magazines/the-impossible-issue/"&gt;&lt;em&gt;nueva edición «Lo imposible»&lt;/em&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;MIT Technology Review narrado: qué haría falta para construir una ciudad en la Luna&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Estados Unidos y China compiten por construir bases en la Luna, y la NASA espera establecer una pequeña ciudad lunar para finales de siglo. Pero la Luna es un lugar tremendamente hostil para instalar un campamento.&lt;/p&gt;
+
+&lt;p&gt;Una extensa base lunar debe ser segura para sus habitantes y estar protegida de la caída de asteroides, la incesante radiación cósmica, el afilado polvo lunar y las extremas oscilaciones térmicas. Además, debe ser en cierta medida autosuficiente.&lt;/p&gt;
+
+&lt;p&gt;Para ello se necesitarán robots autónomos, energía nuclear y una forma de aprovechar los recursos de la Luna para mantener la base en funcionamiento. &lt;a href="https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"&gt;Pero el principal obstáculo podría ser una cuestión de voluntad política&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Este es&lt;/strong&gt; &lt;a href="https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"&gt;&lt;strong&gt;nuestro último artículo&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;en convertirse en un pódcast de MIT Technology Review Narrated, que publicamos cada semana en&lt;/strong&gt; &lt;a href="https://open.spotify.com/show/6QefEeY1IKYVn5w6nUV83Y"&gt;&lt;strong&gt;Spotify&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;y&lt;/strong&gt; &lt;a href="https://podcasts.apple.com/gb/podcast/mit-technology-review-narrated/id1523584878"&gt;&lt;strong&gt;Apple Podcasts&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;. Solo tienes que buscar MIT Technology Review Narrated en cualquiera de las dos plataformas y seguirnos para recibir todo nuestro contenido nuevo a medida que se publique.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Lecturas imprescindibles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He rastreado internet para ofrecerte las historias sobre tecnología más divertidas/importantes/inquietantes/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 Unos hackers interrumpen el funcionamiento de la web de la Comisión Federal de Elecciones de EE. UU.&lt;/strong&gt;&lt;br&gt;El sistema de registro de la FEC quedó fuera de servicio una semana antes de las elecciones de medio mandato. (&lt;a href="https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ El ataque oculta los datos de gasto durante las elecciones de medio mandato más caras de la historia.&lt;/em&gt; (&lt;a href="https://gizmodo.com/hackers-target-u-s-federal-election-commission-website-2000831433"&gt;Gizmodo&lt;/a&gt;)&lt;br&gt;+ &lt;em&gt;Las redes sociales luchan por contener las mentiras electorales generadas por IA.&lt;/em&gt; (&lt;a href="https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections"&gt;Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Varios fallos de software en las máquinas de votación de EE. UU. amenazan la seguridad electoral.&lt;/em&gt; (&lt;a href="https://www.axios.com/2026/10/28/election-security-paper-ballots-audits"&gt;Axios&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Una hoja de ruta para utilizar la IA y fortalecer la democracia.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 Las restricciones de Starlink han llevado a los aliados de EE. UU. a replantearse su dependencia&lt;br&gt;&lt;/strong&gt;Las restricciones en Ucrania han alarmado a las autoridades de toda Europa. (&lt;a href="https://www.bloomberg.com/news/articles/2026-10-27/starlink-brinkmanship-is-driving-allies-to-rethink-us-reliance"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Y han brindado a las empresas europeas un nuevo argumento comercial para sus servicios competidores.&lt;/em&gt; (&lt;a href="https://www.axios.com/2026/10/28/starlink-musk-ukraine-war-satcom"&gt;Axios&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Una empresa de espionaje israelí habría tenido como objetivo a usuarios de Starlink&lt;/em&gt;&lt;strong&gt;.&lt;/strong&gt; (&lt;a href="https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ El internet estratosférico podría despegar este año.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/01/27/1131780/stratospheric-internet-take-off/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3 Los niveles de gases de efecto invernadero siguen batiendo récords en todo el mundo&lt;/strong&gt;&lt;br&gt;El dióxido de carbono, el metano y el óxido nitroso van al alza. (&lt;a href="https://www.newscientist.com/article/2595885-major-greenhouse-gases-rise-again-to-record-levels/"&gt;New Scientist&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Trump está facilitando que las empresas de combustibles fósiles tengan fugas de metano.&lt;/em&gt; (&lt;a href="https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump"&gt;Verge&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ El IPCC lucha por su supervivencia.&lt;/em&gt; (&lt;a href="https://www.nature.com/articles/d41586-026-03403-6"&gt;Nature&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Cómo estudiar un desastre climático que se derrite a gran velocidad.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4 El cerebro de los monos revela nuevas pistas sobre la consciencia&lt;br&gt;&lt;/strong&gt;Su actividad neuronal codifica imágenes que escapan a su percepción consciente. (&lt;a href="https://www.nature.com/articles/d41586-026-03384-6"&gt;Nature&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Las emociones de las abejas también están transformando nuestra visión de la consciencia.&lt;/em&gt; (&lt;a href="https://www.newscientist.com/article/2593034-the-understanding-that-even-bees-have-feelings-is-changing-our-view-of-consciousness/"&gt;New Scientist&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Los debates sobre la consciencia de la IA son una trampa.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 Científicos chinos han desarrollado un catalizador para producir combustible para cohetes en Marte&lt;/strong&gt;&lt;br&gt;Transforma el dióxido de carbono de la atmósfera marciana en metanol líquido. (&lt;a href="https://www.scmp.com/news/china/science/article/3372123/chinese-scientists-create-powerful-catalyst-turn-air-mars-rocket-fuel"&gt;SCMP&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 Varios magnates tecnológicos se alían contra el impuesto a la riqueza de California&lt;/strong&gt;&lt;br&gt;Sergey Brin, Eric Schmidt y otros multimillonarios han financiado una importante campaña. (&lt;a href="https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html"&gt;NYT&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7 Delaware planea permitir que los agentes de IA gestionen empresas enteras&lt;/strong&gt;&lt;br&gt;La propuesta podría permitir a los propietarios eludir su responsabilidad por posibles daños. (&lt;a href="https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"&gt;Ars Technica&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Una web más optimizada para agentes de IA podría perjudicar a los humanos.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 Palmer Luckey ha desvelado sus planes de fabricar portátiles militares en Estados Unidos&lt;/strong&gt;&lt;br&gt;Anduril fabricará ordenadores ultrarresistentes en Ohio con chips de Qualcomm. (&lt;a href="https://www.wsj.com/tech/palmer-luckeys-new-weapon-the-american-made-laptop-5e17c6f0?mod=rss_Technology"&gt;WSJ&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9 La generación Z se aleja de las redes sociales con las que creció&lt;/strong&gt;&lt;br&gt;Los jóvenes están impulsando un auge en las herramientas de desintoxicación digital. (&lt;a href="https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps"&gt;Guardian&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 Trump quiere ahora prohibir el término «inteligencia artificial»&lt;/strong&gt;&lt;br&gt;Exige que todos empecemos a utilizar «superinteligencia». (&lt;a href="https://gizmodo.com/trump-triples-down-on-super-intelligence-2000831476"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Frase del día&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;«Durante los dos próximos años, viviremos en una situación en la que, de media, cada semana habrá una vulnerabilidad crítica que afectará a todo internet».&lt;/h2&gt;
+
+&lt;p&gt;—Matthew Prince, director ejecutivo de Cloudflare, &lt;a href="https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html"&gt;afirma en The New York Times&lt;/a&gt; que la IA está detectando vulnerabilidades de software más rápido de lo que se pueden parchear.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb1b92250a6790bfbe00bd4a77ab2fb37545270e1.jpg?alt=media&amp;token=836153ea-bce2-4838-a0ed-9e9e62be5fb2" alt=""/&gt;&lt;/figure&gt;
+
+&lt;h4 class="wp-block-heading"&gt;&lt;br&gt;Dentro de las polémicas plantaciones de árboles que impulsan el objetivo de neutralidad en carbono de Apple&lt;/h4&gt;
+
+&lt;p&gt;En 2020, Apple se fijó el objetivo de alcanzar las emisiones netas cero para finales de la década. Para lograr esa meta, la empresa está compensando sus emisiones plantando millones de eucaliptos en Brasil.&lt;/p&gt;
+
+&lt;p&gt;Apple apuesta por que la estrategia conducirá a un futuro más verde. Pero los críticos advierten de que las plantaciones industriales de árboles harán más daño que bien.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2025/04/24/1115751/apple-carbon-neutral-eucalyptus-tree-farm-brazil/"&gt;Te explicamos por qué los planes han desatado la polémica&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Gregory Barber&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Un espacio de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;+ Los zapatos feos se han &lt;a href="https://www.theguardian.com/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear"&gt;convertido de maravilla en una tendencia dominante&lt;/a&gt;.&lt;br&gt;+ Un equipo de científicos ha creado una &lt;a href="https://www.cnet.com/science/space/lumina-project-simulates-the-early-universe/"&gt;nueva e impresionante simulación&lt;/a&gt; del universo primitivo.&lt;br&gt;+ El guitarrista Kent Nishimura ha reducido «Thriller» a su esencia en una &lt;a href="https://www.youtube.com/watch?v=RYk_4DkRLY4"&gt;fascinante interpretación acústica&lt;/a&gt;.&lt;br&gt;+ Un fotógrafo que retrató a punks y mods en 1980 los ha localizado para &lt;a href="https://www.bbc.co.uk/news/articles/cqrkylv456xeo"&gt;un emotivo reencuentro&lt;/a&gt; 46 años después.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Combinar la autonomía de la IA industrial y el control humano</title>
+  <link href="https://www.technologyreview.es/article/combinar-la-autonomia-de-la-ia-industrial-y-el-control-humano"/>
+  <id>https://www.technologyreview.es/article/combinar-la-autonomia-de-la-ia-industrial-y-el-control-humano</id>
+  <published>2026-10-28T08:00:00+00:00</published>
+  <updated>2026-10-28T08:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fccf082ace2d5540a93b026893b619eb48e82359c.jpg?alt=media&amp;token=9374c1f0-a11d-4a53-b920-083ecba5658a"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fccf082ace2d5540a93b026893b619eb48e82359c.jpg?alt=media&amp;token=9374c1f0-a11d-4a53-b920-083ecba5658a" medium="image"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fccf082ace2d5540a93b026893b619eb48e82359c.jpg?alt=media&amp;token=9374c1f0-a11d-4a53-b920-083ecba5658a"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fccf082ace2d5540a93b026893b619eb48e82359c.jpg?alt=media&amp;token=9374c1f0-a11d-4a53-b920-083ecba5658a</webfeeds:featuredImage>
+  <summary>Los gemelos digitales vivos están ayudando a que las plantas industriales funcionen más como sistemas vivos y sentando las bases para que las industrias operen…</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fccf082ace2d5540a93b026893b619eb48e82359c.jpg?alt=media&amp;token=9374c1f0-a11d-4a53-b920-083ecba5658a" alt="Combinar la autonomía de la IA industrial y el control humano" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por MIT Technology Review Insights&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Los gemelos digitales vivos están ayudando a que las plantas industriales funcionen más como sistemas vivos y sentando las bases para que las industrias operen…&lt;/em&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Cómo los transformadores de estado sólido podrían ayudar a alimentar el auge de la IA</title>
   <link href="https://www.technologyreview.es/article/como-los-transformadores-de-estado-solido-podrian-ayudar-a-alimentar-el-auge-de-la-ia"/>
@@ -419,85 +533,5 @@
 &lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg" alt="" class="wp-image-1147261" style="width:764px;height:auto"/&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;La mayor parte de la tecnología para el SR-1 ya existe; la clave estará en encajar todas las piezas y comprobar cómo se comporta en el espacio.&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Comunicación entre especies</title>
-  <link href="https://www.technologyreview.es/article/interspecies-communication"/>
-  <id>https://www.technologyreview.es/article/interspecies-communication</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a</webfeeds:featuredImage>
-  <summary>Descifrar cómo se comunican los animales podría revelar la vida interior de otras especies y ofrecer a los humanos una ventana a cómo ven el mundo.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fae75681876a49c0c90623907e9341607e3db18a8.jpg?alt=media&amp;token=42fd5f59-42d4-4df0-a430-04df06a4c29a" alt="Comunicación entre especies" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Cassandra Willyard&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Descifrar cómo se comunican los animales podría revelar la vida interior de otras especies y ofrecer a los humanos una ventana a cómo ven el mundo.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Los seres humanos distan mucho de ser la única especie con el don de la palabra, y nuestros amigos peludos, emplumados y con aletas podrían tener mucho que decirnos. Descifrar cómo se comunican los animales entre sí podría abrir una ventana a la vida interior de otras especies y ayudar a los humanos a comprender que "los animales son criaturas sintientes que piensan, que tienen sus propias esperanzas y sueños", afirma Con Slobodchikoff, fundador de Zoolingua, una empresa que trabaja en la traducción de perros a humanos.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los escollos&lt;/h3&gt;
-
-&lt;p&gt;Desentrañar todo esto es complejo. Para descifrar aullidos, chillidos y chasquidos, los investigadores deben relacionar a los animales que emiten los sonidos con lo que sucede a su alrededor. Los perritos de las praderas, por ejemplo, &lt;a href="https://pubs.aip.org/asa/jasa/article-abstract/119/5/3153/892893/Acoustic-structures-in-the-alarm-calls-of-Gunnison?redirectedFrom=fulltext"&gt;emiten una serie distinta de ladridos&lt;/a&gt; cuando se acerca un coyote que cuando hay un halcón cerca. Es un trabajo minucioso, sobre todo en el caso de especies difíciles de observar, como las ballenas que se sumergen a grandes profundidades o las ratas topo subterráneas.&lt;/p&gt;
-
-&lt;p&gt;Hay otros obstáculos. Muchos animales no solo se comunican mediante sonidos, sino también a través de señales visuales, el tacto, feromonas o una combinación de señales, algunas de las cuales pueden resultarnos difíciles de percibir. Y sin una piedra de Rosetta multiespecie, resulta difícil saber si las traducciones son precisas.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los avances&lt;/h3&gt;
-
-&lt;p&gt;En los últimos 50 años, un creciente arsenal de dispositivos ha facilitado la observación de las sofisticadas formas en que se comunican los animales. Los &lt;a href="https://www.fisheries.noaa.gov/pacific-islands/population-assessments/passive-acoustics-pacific-islands"&gt;hidrófonos&lt;/a&gt; en el fondo del océano pueden captar el canto de las ballenas jorobadas, y diminutos "&lt;a href="https://phys.org/news/2026-03-tiny-backpacks-reveal-strategy.html"&gt;biologgers&lt;/a&gt;" portátiles pueden registrar cada chillido de un murciélago.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;En la última década, los avances en IA han llevado a un nuevo nivel nuestra capacidad para dar sentido a todo esto. Esta tecnología permite detectar diferentes llamadas, distinguir qué sonidos corresponden a cada animal e identificar patrones. Investigadores del Earth Species Project (ESP), una organización sin ánimo de lucro fundada en 2018 para descodificar la comunicación animal, han utilizado recientemente el aprendizaje automático para &lt;a href="https://earthspecies.org/2025/12/15/unlocking-avian-secrets-how-tiny-biologgers-are-revealing-the-hidden-communication-of-carrion-crows/"&gt;detectar las vocalizaciones de las cornejas negras&lt;/a&gt; y determinar qué ave emitió cada llamada.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Sospechan que una IA más avanzada podría traducir el parloteo de los animales. Los modelos de lenguaje de gran tamaño como Claude y ChatGPT destacan a la hora de encontrar relaciones entre palabras, explica Sara Keen, una de las ecólogas del comportamiento del ESP. La organización confía en que su propio NatureLM (entrenado con habla humana, música y sonidos de animales) sea capaz de interpretar las vocalizaciones de diversas especies.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Esa promesa, sin embargo, sigue siendo teórica. Yossi Yovel, neuroecólogo de la Universidad de Tel Aviv, teme que estos modelos pongan demasiado énfasis en las similitudes acústicas y cometan errores, como agrupar sonidos similares que tienen significados distintos.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;¿Y en cuanto a una conversación bidireccional? No está claro cuándo ocurrirá (o si llegará a hacerlo). Aun así, "muchos animales tienen una estructura evolutiva lo bastante similar como para que seamos capaces de entender lo que dicen", afirma Slobodchikoff.&amp;nbsp;&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Medidor de progreso ............ 4&lt;/h3&gt;
-
-&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-16.svg" alt="Medidor de progreso: 4" class="wp-image-1147275" style="width:764px;height:auto"&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Los investigadores han recopilado ingentes cantidades de datos sobre la comunicación animal, pero aún intentan averiguar cómo descifrarlo todo.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Ejercicio en una pastilla</title>
-  <link href="https://www.technologyreview.es/article/exercise-in-a-pill"/>
-  <id>https://www.technologyreview.es/article/exercise-in-a-pill</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61</webfeeds:featuredImage>
-  <summary>Al desentrañar las vías por las que el movimiento beneficia al cuerpo, podríamos desarrollar fármacos que ofrezcan algunos de esos mismos beneficios, sin…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F21a62fa0af9e6ff539ed685678989ca49cc44a84.jpg?alt=media&amp;token=cf330ab9-1dc7-4ee2-8c65-29673defcc61" alt="Ejercicio en una pastilla" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Cassandra Willyard&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Al desentrañar las vías por las que el movimiento beneficia al cuerpo, podríamos desarrollar fármacos que ofrezcan algunos de esos mismos beneficios, sin…&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Todos sabemos que el ejercicio es bueno para la salud. Desarrolla los músculos, fortalece los huesos, reduce la presión arterial y mejora el estado de ánimo. Al descifrar de qué manera beneficia el movimiento al organismo, los investigadores esperan desarrollar fármacos capaces de ofrecer algunas de esas mismas ventajas, sin necesidad de entrenar. La idea no es sustituir el ejercicio, sino acercar sus beneficios a personas que sufren fragilidad, discapacidad o enfermedades crónicas.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los escollos&lt;/h3&gt;
-
-&lt;p&gt;Hará falta mucha experimentación para desentrañar las innumerables vías por las que el ejercicio favorece la salud. Pero identificar la cascada de hormonas, enzimas y otras moléculas vinculadas a la actividad física es solo el primer paso. Los científicos deben averiguar cómo convertir ese conocimiento en fármacos seguros y eficaces. Es un desafío mayúsculo: &lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9293739/"&gt;más del 90 %&lt;/a&gt; de los tratamientos que llegan a los ensayos en humanos fracasan.&lt;/p&gt;
-
-&lt;p&gt;También existen obstáculos regulatorios. La FDA aprueba medicamentos para tratar enfermedades, no para mejorar el bienestar, afirma Thomas Burris, farmacólogo de la Universidad de Florida cuya labor se centra en enfermedades que responden al ejercicio, como la obesidad, la diabetes tipo 2 y la demencia.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los avances&lt;/h3&gt;
-
-&lt;p&gt;Puede que nunca exista una píldora que aporte todos los beneficios del ejercicio físico, pero la investigación podría dar lugar a nuevos medicamentos que imiten algunos aspectos de la actividad física. Los científicos ya han identificado muchas señales importantes relacionadas con el ejercicio e incluso han desarrollado compuestos para regularlas. (Algunos resultados preliminares han sido tan prometedores que las autoridades antidopaje han prohibido los compuestos de forma proactiva).&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Burris y sus colegas se centran en un receptor que siempre está activado, incluso sin hacer ejercicio. Hacer ejercicio parece potenciar ese receptor en las células musculares, lo que a su vez ayuda a reforzar la resistencia a lo largo del tiempo. El laboratorio de Burris lleva años &lt;a href="https://news.ufl.edu/2023/09/exercise-mimicking-drug/"&gt;diseñando un fármaco&lt;/a&gt; que incrementa directamente la actividad de dicho receptor, y los ratones tratados con él corrieron durante más tiempo y llegaron más lejos que los que no lo recibieron. "Se convierten en ratones maratonianos sin tener que hacer ningún tipo de ejercicio", afirma Burris. Incluso hay indicios (también en ratones) de que el compuesto imita algunos de los beneficios cognitivos del ejercicio y podría ayudar a tratar la insuficiencia cardíaca. Burris fundó una empresa llamada Pelagos para hacer avanzar el trabajo hacia un ensayo clínico.&lt;/p&gt;
-
-&lt;p&gt;Otros fármacos que imitan el ejercicio ya han entrado en fase de estudios en humanos. En junio, la empresa biotecnológica Cambrian Bio &lt;a href="https://www.cambrianbio.com/news-and-publications/cambrian-bio-presents-positive-human-translational-data-for-atx-304-the-first-ampk-network-activator-at-the-american-diabetes-associations-86th-scientific-sessions"&gt;informó&lt;/a&gt; de que su fármaco experimental ATX-304 aceleraba el metabolismo y reducía la grasa hepática y abdominal en personas con obesidad y prediabetes&lt;em&gt;. &lt;/em&gt;Activa un interruptor metabólico que ayuda a las células a detectar cuándo caen las reservas de energía y coordina la producción de más combustible; el mismo interruptor que nos ayuda a mantener largas sesiones saltando a la comba o nadando largos. Cambrian espera que ayude a perder peso sin perder masa muscular, una preocupación habitual con los medicamentos GLP-1. &amp;nbsp;&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Indicador de progreso ............ 5&lt;/h3&gt;
-
-&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-20.svg" alt="Indicador de progreso: 5" class="wp-image-1147277" style="width:764px;height:auto"&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Nuestra comprensión de cómo el ejercicio beneficia al cuerpo aún se está perfilando, y el desarrollo de fármacos es propenso al fracaso.&lt;/strong&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
