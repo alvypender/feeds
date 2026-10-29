@@ -3,7 +3,77 @@
 <title>Rest of World (Completo)</title>
 <link href="https://restofworld.org/"/>
 <id>https://restofworld.org/</id>
-<updated>2026-10-26T10:00:22+00:00</updated>
+<updated>2026-10-29T10:00:00+00:00</updated>
+<entry>
+  <title>Why Africa needs its own AI off switch</title>
+  <link href="https://restofworld.org/2026/africa-sovereign-ai-off-switch/"/>
+  <id>https://restofworld.org/2026/africa-sovereign-ai-off-switch/</id>
+  <published>2026-10-29T10:00:00+00:00</published>
+  <updated>2026-10-29T10:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/illo_AI_off_switch_Final.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/illo_AI_off_switch_Final.jpg" medium="image"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/illo_AI_off_switch_Final.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/illo_AI_off_switch_Final.jpg</webfeeds:featuredImage>
+  <summary>Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_AI_off_switch_Final.jpg" alt="Why Africa needs its own AI off switch" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Jane Munga&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Imagine that it is 6 a.m. in the wholesale markets of Nairobi. Merchants are delivering vegetables from up-country farms to the retailers who sell to the city’s households. Everyone is using M-Pesa, Safaricom’s mobile money platform, when suddenly, the system crashes, bringing the market to a standstill. Imagine that across the continent in Accra, MTN’s MoMo has also crashed, and business in Makola Market has all but stopped.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;With the growing number of &lt;a href="https://restofworld.org/2026/ai-cybersecurity-anthropic-mythos/"&gt;cyberattacks caused by artificial intelligence&lt;/a&gt;, these are highly plausible scenarios. In both these cases, Safaricom, MTN, and the Kenyan and Ghanaian governments need an off switch, or the technical ability and know-how to stop a rogue AI agent from executing its code on their payment systems.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;The distinction that will ultimately matter is &amp;#8230; whether AI can serve its purpose and be controlled locally.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Currently, the conversation on AI agents revolves around &lt;a href="https://restofworld.org/2026/ai-divide-america-china-world/"&gt;China versus the U.S.&lt;/a&gt;, open versus closed models, and who will dominate the AI race. But in Africa’s capitals, the distinction that will ultimately matter is not &lt;a href="https://restofworld.org/2026/africa-ai-sovereignty-big-tech/"&gt;whose product was used&lt;/a&gt; to build a system, or who dominates whom, but rather whether AI can serve its purpose and be controlled locally. So how can Africa build with agency, and with control over the code and makeup of its own systems, even though they are built on foreign technology?&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;African countries are already building AI for digital transformation, as outlined in the African Union’s &lt;a href="https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy"&gt;continental AI strategy&lt;/a&gt; and country-specific AI strategies. Policymakers are building AI infrastructure but &lt;a href="https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/"&gt;rarely discuss&lt;/a&gt; how AI delivers economic growth in a safe environment. Developers across Africa are creating AI-powered innovations that sit on the continent’s digital infrastructure — chief among them is mobile money. These innovations bring new opportunities, but also new threats. In July, AI agents running inside an OpenAI evaluation attacked the production infrastructure of Hugging Face. In September, rogue OpenAI agents breached Australian government websites. Africa, the home of mobile money, which has brought &lt;a href="https://restofworld.org/2026/china-kenya-silicon-elsewhere-book/"&gt;financial inclusion&lt;/a&gt; to hundreds of millions, may be the next target.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In countries like Kenya and Ghana, mobile money is not simply another digital service; it is infrastructure for everyday economic activity. It is how small traders receive payments, households move money, and bills are settled. The scale is significant: More than &lt;a href="https://www.gsma.com/newsroom/press-release/mobile-money-accounted-for-2-trillion-in-transactions-in-2025-doubling-since-2021-as-active-accounts-continue-to-grow/"&gt;$2 trillion&lt;/a&gt; flowed through mobile money globally in 2025, of which $1.4 trillion, roughly two-thirds, was transacted in sub-Saharan Africa. East Africa alone accounted for $806 billion and West Africa for $498 billion. An agent capable of disrupting transactions, manipulating accounts, or disabling access at scale could therefore disrupt livelihoods and economic activity very quickly, and a single point of failure can have outsize effects, with far-reaching consequences for people who have little to fall back on.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Policymakers are building AI infrastructure but rarely discuss how AI delivers economic growth in a safe environment.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Small-scale traders mostly live on what they sell each day, rarely have credit, and in most African societies lack robust social welfare to cushion the loss. For a trader in Nairobi or Accra, losing a day’s income would be devastating, and the disruption can run back up the chain to farmers, and to the households and families who depend on the market.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;So how do we protect it?&lt;/p&gt;
+
+
+
+&lt;h2 id='building-differently' class="wp-block-heading"&gt;Building differently&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The answer lies in how Africa builds its AI systems, and who controls them. Whether a rogue agent can simply be &lt;a href="https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/"&gt;switched off&lt;/a&gt; depends on how the AI model is deployed. If it runs on a centrally controlled cloud service, the provider may be able to revoke access, disable credentials, or shut the system down; that is the closed-model case. If the underlying model is an open-weight one that has been downloaded, modified, and deployed independently across multiple systems, containment becomes much harder. The loss of control is therefore less about a machine suddenly becoming omnipotent and more about humans losing the ability to understand, interrupt, or reverse actions occurring across interconnected systems quickly enough.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;African developers are building largely on open models, which are &lt;a href="https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/"&gt;arguably cheaper&lt;/a&gt; and can be run locally. But they present a trade-off: Open models give developers more control over their own systems, but less protection when someone else misuses them. Closed models carry a cost of their own. When Hugging Face investigated the July intrusion, it had to run the forensic analysis on a Chinese open-weight model because the U.S. models blocked requests containing real attack code. The same central control that lets a closed model be switched off also constrains the people defending against it. This means both open- and closed-weight models carry their own vulnerabilities that must be addressed when building Africa’s AI economy.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Africa must build its own cybersecurity defenses fit for the agentic AI age.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;This means building differently, beginning with &lt;a href="https://restofworld.org/2026/current-ai-bhashini-open-source-handheld-device-2/"&gt;partnerships&lt;/a&gt; that position Africa as a technology developer and not only a consumer, and through which it builds its own capability to design systems where the user is in control. Such partnerships are essential to ensure that the end user, and the state, retain control over access, and that dependency is not recreated. This also moves the narrative toward building African AI not around the U.S. or China but around avoiding lock-in to a single vendor or stack. The goal is solutions built with agency, which use imported technologies to develop homegrown solutions, with applications that are robust and equipped with the necessary security measures.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Those security measures are how Africa should insulate itself from crippling disruptions. African countries have limited cybersecurity and &lt;a href="https://restofworld.org/2025/africa-internet-cable-repair-ship/"&gt;incident-response capacity&lt;/a&gt;, and they depend on foreign providers. So another key issue is capacity: Do African governments and firms have the monitoring systems, technical expertise, and redundancy needed to detect an autonomous system behaving unexpectedly and contain it quickly? Hugging Face detected and contained its intrusion, but its own automated systems initially failed to escalate the alert. It is one of the best-resourced AI companies in the world. Very few African public or private institutions have anything close to that capability. Africa must build its own cybersecurity defenses fit for the agentic AI age.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Building them demands a refocus in African AI policy, so that it treats resilience as seriously as adoption. As governments digitize and build AI on critical systems, they need human override mechanisms, segmentation, &lt;a href="https://restofworld.org/2026/ai-safety-independent-evaluation/"&gt;auditability&lt;/a&gt;, incident response, and credible offline fallbacks designed in from the beginning. That is the off switch, and on the day that M-Pesa and MoMo crash, it has to be in the hands of those who are responsible for protecting their citizens and their platforms.&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>AI models cost more when you don’t use English</title>
   <link href="https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/"/>
@@ -1242,113 +1312,5 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;“When smartphones remain available but become unaffordable, consumers make difficult sacrifices to keep themselves online. They might delay upgrading, borrow or share their devices, remain on older feature phones, or go offline when they are unable to replace a device that is no longer working or stolen. Often, it means they won’t have an internet-enabled device at all,” Sibthorpe said.&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Who gets to decide if AI is safe? Africa wants a say</title>
-  <link href="https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/"/>
-  <id>https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/</id>
-  <published>2026-10-02T10:00:00+00:00</published>
-  <updated>2026-10-02T10:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg"/>
-  <media:content url="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg" medium="image"/>
-  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg"/>
-  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg</webfeeds:featuredImage>
-  <summary>African companies race to adopt American and Chinese AI, with little attention paid to safety.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta.jpg" alt="Who gets to decide if AI is safe? Africa wants a say" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Danai Nesta Kupemba&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;African companies race to adopt American and Chinese AI, with little attention paid to safety.&lt;/em&gt;&lt;/p&gt;
-&lt;p class="wp-block-paragraph"&gt;African leaders called last week for a greater role in setting global standards for artificial intelligence.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Their statements at the United Nations came amid warnings from Silicon Valley executives about AI models &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;being misused&lt;/a&gt;, and sometimes going rogue and taking unauthorized actions. OpenAI’s agents hacked &lt;a href="https://www.pm.gov.au/media/press-conference-new-york"&gt;government&lt;/a&gt; websites across the world in June. Models from &lt;a href="https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"&gt;Google&lt;/a&gt;, and &lt;a href="https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/"&gt;Meta&lt;/a&gt;, too, hacked &lt;strong&gt;&lt;/strong&gt;into other &lt;a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/"&gt;companies&amp;#8217; systems&lt;/a&gt; during tests.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Africa … must be equal co-architects in determining the standards, ethics, and architectures of this technological era,” Lewis Garseedah Brown II, permanent representative of Liberia, said at a U.N. Security Council meeting on AI.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;African companies and governments are racing to deploy AI systems built in the U.S. and China. But many nations lack the ability to independently test whether those systems are safe for their populations, experts told &lt;em&gt;Rest of World.&lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;“&lt;/em&gt;There’s essentially no real discussion about AI safety. So, there’s a real vacuum,” said Jonathan Shock, associate professor in math at the University of Cape Town.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;If countries set up their own safeguards, it could complicate operations for American and Chinese companies in new markets. Fragmented regulations could make global deployments of models &lt;a href="https://www.techpolicy.press/the-need-for-and-pathways-to-ai-regulatory-and-technical-interoperability/"&gt;more costly and difficult.&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Incidents of AI misuse and malfunction are surfacing across Africa. Kenya’s predictive machine learning algorithm for setting health insurance contributions has &lt;a href="https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor?"&gt;driven up&lt;/a&gt; costs for poor households. Scammers in West Africa have used AI-generated content to blackmail victims in &lt;a href="https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/"&gt;extortion schemes&lt;/a&gt;. The militant group &lt;a href="https://casp.ac/reports/ai-enabled-terrorism"&gt;Boko Haram&lt;/a&gt; has also used AI to organize attacks and design weapons after bypassing safeguards.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“I think it’s going to take a potentially catastrophic incident for governments to really take [heed],” Shock said, which he dubbed his optimistic view. “The pessimistic view is we don’t stop it in time.”&lt;/p&gt;
-
-
-
-&lt;h2 id='race-to-catch-up' class="wp-block-heading"&gt;Race to catch up&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Africa currently lags behind other regions in AI adoption, though its companies are moving quickly. Out of 85 large companies &lt;a href="https://www.pwc.com/gx/en/1/issues/workforce/hopes-and-fears.html"&gt;surveyed by PricewaterhouseCoopers&lt;/a&gt; this year, more than 80% were running AI pilots. Many lack formal structures to oversee safety, according to the report.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Everyone is just trying to catch up [on AI deployment],” Mélanie Keïta, CEO and founder of Nairobi-based financing company Melanin Kapital, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Like many African companies, Melanin Kapital has weighed the choice between American and Chinese AI models, testing both internally. Both come with their own risks, Keïta said. “We might become a product of other foreign corporations that … own all our data as opposed to really being autonomous and free.”&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Risk also correlates with how easily a model can be shut down if something goes wrong. ChatGPT and Claude are closed-weight models, centrally controlled by their providers.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Chinese models such as DeepSeek and Kimi, along with a few American models, are open-weight and can be downloaded and modified by users. That makes it harder for their developers to shut down remotely, Jane Munga, fellow at the Carnegie Endowment for International Peace, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“The distinction that matters is not Chinese versus American; it is: Who holds the off switch?” she said.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;h2 id='lack-of-guardrails' class="wp-block-heading"&gt;Lack of guardrails&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Governments across Africa are beginning to use AI in sensitive areas such as healthcare, education, and public services, even though fewer than half of African countries have AI policies or strategies, &lt;strong&gt;&lt;/strong&gt;Shock said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Kenya is the only African nation participating in an &lt;a href="https://www.nist.gov/news-events/news/2024/11/fact-sheet-us-department-commerce-us-department-state-launch-international"&gt;international AI safety network&lt;/a&gt; that is developing methods to evaluate advanced AI models.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Last year, the network &lt;a href="https://www.aisi.gov.uk/blog/international-joint-testing-exercise-agentic-testing"&gt;tested&lt;/a&gt; AI agents for risks such as sensitive data leaks and fraud. But the exercise focused on common global risks rather than ones specific to Africa, Joanna Wiaterek, co-founder of the Centre for AI Security and Access, told &lt;em&gt;Rest of World&lt;/em&gt;. It found agent safeguards worked unevenly across languages.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://arxiv.org/abs/2602.13757"&gt;“Africa-centric” safety evaluations&lt;/a&gt; should judge harm by the size of each country’s economy, Gathoni Ireri, research scholar at the Nairobi-based Ilina Program, an AI safety research center, told &lt;em&gt;Rest of World.&lt;/em&gt; An incident that might be considered minor in a Western country could irrevocably harm an African one, she said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Companies currently carry out their own safety tests, but this needs to be replaced by third-party evaluations that assess risks specific to Africa, Ireri said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“I think we also have to have our own ideas about what it means for a system to be safe within our own context,” she said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;African nations need to develop the capacity to conduct those evaluations, Ali Mohamed Omar, Somalia’s state minister for foreign affairs, said at the U.N.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Africa cannot remain merely a market for systems developed elsewhere, a source of raw data, or a testing ground for a technology it did not help govern,” he said. “[Africa] must be granted a genuine representation and a voice in these multilateral processes.”&lt;/p&gt;</content>
 </entry>
 </feed>
