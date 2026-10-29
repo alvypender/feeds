@@ -425,130 +425,6 @@
                 &lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-  <title>5 UX Patterns for Driving Patient Engagement in Healthcare App Design</title>
-  <link href="https://dribbble.com/stories/2026/10/25/patient-engagement-in-healthcare-app-design"/>
-  <id>https://dribbble.com/stories/2026/10/25/patient-engagement-in-healthcare-app-design</id>
-  <published>2026-10-26T03:11:04+00:00</published>
-  <updated>2026-10-26T03:11:04+00:00</updated>
-  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72856/original/fae4f7b20783e43bb3115350ea46ebfd.png?1792980976"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72856/original/fae4f7b20783e43bb3115350ea46ebfd.png?1792980976" medium="image"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72856/original/fae4f7b20783e43bb3115350ea46ebfd.png?1792980976"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72856/original/fae4f7b20783e43bb3115350ea46ebfd.png?1792980976</webfeeds:featuredImage>
-  <summary>Streaks and badges rarely keep patients engaged. MindSea CEO Reuben Hall shares 5 UX patterns for driving patient engagement in healthcare app design, backed by real builds.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72856/original/fae4f7b20783e43bb3115350ea46ebfd.png?1792980976" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Streaks and badges rarely keep patients engaged. MindSea CEO Reuben Hall shares 5 UX patterns for driving patient engagement in healthcare app design, backed by real builds.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Reuben Hall is CEO of &lt;a href="https://mindsea.com/" target="_blank" rel="noreferrer noopener nofollow"&gt;MindSea&lt;/a&gt;, a healthcare app development company that has built mobile and web apps for US and Canadian healthcare teams since 2007. He started at MindSea in 2008 as a UX designer and became CEO in 2018.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I started at MindSea as a UX designer in 2008, and I have been designing for patients and clinicians ever since. A question I hear often about patient engagement in healthcare app design is how to keep patients coming back between visits.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;My answer has changed less than the tools have. Patients engage with a healthcare app when they can see their care team is paying attention and that their effort adds up.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Consumer engagement tricks rarely carry over. A person managing COPD, or filling out an insurance application for their kids, wants reassurance and a flow that respects their time.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Below are five patterns &lt;a href="https://mindsea.com/services/patient-engagement-software-development/" target="_blank" rel="noreferrer noopener nofollow"&gt;our team builds into patient engagement software&lt;/a&gt;, each tied to a project we delivered. We built CHARM-COPD, a remote patient monitoring platform, with University Health Network, Sunnybrook Health Sciences Center, and the University of Toronto. We also built BEAM, a family mental health program, with researchers at the University of Manitoba. Pointcare is an insurance enrollment app that helps more than three million Americans get and keep healthcare coverage.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;1. Show patients the moment a clinician reviews their data&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;CHARM-COPD replaces the paper diary that people with chronic obstructive pulmonary disease (COPD) use to log symptoms and treatment changes. Daily logging is hard to sustain, and patients want to know their entries matter.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So we designed the patient and clinician sides as one system. Clinicians get a dashboard where they batch-review diary entries and mark them as seen. Marking an entry as seen automatically notifies the patient that a clinician has reviewed their chart.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The part I would point other teams to is that trigger. The reassurance comes from work clinicians already do during their regular review, so it costs them no extra steps. They also sign in with their existing hospital credentials, which saves them another login.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The rest of the system protects clinicians’ time. Patients can chat with their care team about symptom changes and treatment adjustments. Technical questions go to the research team, which keeps clinicians out of IT support. Clinicians get an email alert when a patient’s daily score crosses a set threshold for consecutive days.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If patients log something every day, give each entry a visible response, and generate it from work your clinicians already do.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;2. Put a trusted clinician at the front of the experience&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72857/original/d2e3f4d5d4614bfe3d3a72d0f00675e9.png?1792981020" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Patients extend the trust they have in a care provider to the tools that provider recommends. We design that trust into the product from the first screen.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We name the clinicians and researchers behind the app in the App Store listing and in onboarding. Onboarding opens with a short video from the lead clinician on why they built the app. After the clinician introduces the app, the patient chooses which feature to start with.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Trust also needs to show up around appointments. We script care team nudges tied to visits, like a nurse suggesting the mood tracker before the next appointment. The nudge comes from a person the patient already knows, which is the point.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;BEAM puts people at the center of a mental health program. Weekly psychoeducational videos come paired with 1-on-1 peer coaching, a private peer support forum, and access to mental health and parenting experts.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;3. Minimize the hurdles between patients and their payoff screen&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72858/original/40951cbb7e1c7cce81fc030b37722145.png?1792981044" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Pointcare manages health coverage across 130 health centers in 30 states. We delivered the MVP of their &lt;a href="https://mindsea.com/case-studies/pointcare-health-insurance-enrollment-app/" target="_blank" rel="noreferrer noopener nofollow"&gt;health insurance enrollment app&lt;/a&gt; within our first five months together, and we still work with them as an ongoing partner.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Their legacy forms already converted well. The new app had to ask for more up front, because it collected information about a whole household instead of one patient. That meant account creation and signatures, and families still had to finish.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Every patient app has a payoff screen, the moment people get what they came for. For Pointcare, it is the screen where a household sees what each person qualifies for. One parent may already have Medicaid, a child may qualify for the Children’s Health Insurance Program (CHIP), and another adult may not be enrolled.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Each question or signature before that screen is a chance to lose someone. We treated every hurdle, from account creation to signatures and sign-in, as its own decision. We worked through each one with the Pointcare team in our weekly updates.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The first release covered one path: check eligibility and finish an application in one sitting, with one sign-in method. A few structural choices carried the rest:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;One account for the whole household, since one person often manages everyone&amp;#8217;s coverage.&lt;/li&gt;
-
-
-
-&lt;li&gt;A form architecture the team can A/B test after launch without a rebuild.&lt;/li&gt;
-
-
-
-&lt;li&gt;Eight languages, with an automated check that blocks any release containing untranslated text.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The app launched in April 2026. In May, its first full month, household members applying for coverage rose 30% over the old system’s typical month. Authorized-representative forms rose 42%, and each application now enrolls an average of 2.5 people.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A typical patient gets from account creation to a finished application in under 20 minutes. Four out of five patients who start the eligibility check finish it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Balu Sudhakaran, VP of Product at Pointcare, described the work this way: “These are the hard problems. A Medicaid application isn’t simple; there’s no two ways about it, but we are making it extremely simple.”&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;4. Skip gamification and give patients a fresh insight each time they open the app&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Gamification is the engagement tactic healthcare teams borrow most often from consumer apps. Individual streaks, points, and badges rarely keep patients coming back. A streak turns one missed day into a failure, and a score turns someone’s health into a grade.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;On our Moving Digital Health podcast, Asya Paloni, Chief Product Officer at Welltory, walked me through seven complete product overhauls in a decade. Welltory has 16 million users, and her team tried daily quests, streaks, and its own wearable. “Tried streaks. What have we not tried?” she said.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Where her team landed carries straight into patient apps. “Don’t try to motivate people through guilt and performance metrics. Try to focus on relevance,” she told me. In her experience, people “get tired of data that feels like judgment.”&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In practice, that means comparing each patient only to their own baseline. It means surfacing one fresh, personalized insight each time the app opens, so curiosity brings people back. Raw metrics become visuals people read at a glance. Welltory shows the nervous system as a liquid that turns ocean blue at rest and red under stress. Any screen that scolds patients for a missed day or a bad number gets rewritten.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Harvard’s Dr. Daniel Lieberman made a related point on the show. Leaderboards like Strava’s motivate some people and discourage others, especially those who are struggling.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The research points the same way. A meta-analysis of &lt;a href="https://doi.org/10.1001/jamapsychiatry.2025.3439" target="_blank" rel="noopener"&gt;79 randomized controlled trials&lt;/a&gt; of depression and anxiety apps, published in JAMA Psychiatry in November 2025, found lower attrition in trials with reminders or human support. Attrition was also lower in apps without gamification features.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I would make one exception. Group challenges toward a shared goal work differently from individual streaks. Another podcast guest, Travis McDonough of Wellnify, has seen those get whole communities moving.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;5. Digitize the manual methods patients already use, then test with patients in person&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72859/original/e72ec8eb6718723c9f4ae3954d1684e3.png?1792981068" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;People living with COPD already knew the paper daily diary. For CHARM-COPD, we digitized and simplified it so patients could record symptom changes and treatment adjustments with less effort.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Our &lt;a href="https://dribbble.com/hire/ui-ux-designers" target="_blank" rel="noopener"&gt;UI/UX designers&lt;/a&gt; ran face-to-face usability tests with people living with COPD. Many have vision limitations, so CHARM follows the Web Content Accessibility Guidelines (WCAG) for contrast and font.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;BEAM’s research team came to us after their first app, built by another vendor, struggled on Android and older operating systems. That app’s assessment from ORCHA, the Organization for the Review of Care and Health Apps, scored 64%, one point under the pass mark.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We mapped user journeys with the researchers, prototyped the main flows, and folded in feedback from their parent advisory board. We also tested on older Android phones and operating system versions. &lt;a href="https://mindsea.com/case-studies/projects-the-beam-program/" target="_blank" rel="noreferrer noopener nofollow"&gt;The BEAM program&lt;/a&gt; now scores above 80% and is an ORCHA-recommended product.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Bring a patient or parent advisory board into design reviews, and put prototypes in front of real patients early, on the kinds of devices they carry.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Where to start with your own patient app&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Pick the one behavior you need patients to repeat, like a daily symptom log or a completed application. Then walk through your current flow with your &lt;a href="https://dribbble.com/hire/app-designers" target="_blank" rel="noopener"&gt;app designers&lt;/a&gt; and check it against these five patterns.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Look for screens where a patient’s effort goes unnoticed, a trusted person is missing, or a hurdle sits before the payoff. In my experience, those are the places to start.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-&lt;p&gt; ⁠&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
   <title>Small Business Website Design After AI: Nobody Commissions the Plumber's Website Anymore</title>
   <link href="https://dribbble.com/stories/2026/10/25/small-business-website-design-ai"/>
   <id>https://dribbble.com/stories/2026/10/25/small-business-website-design-ai</id>
@@ -2771,6 +2647,67 @@
 &lt;/blockquote&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;em&gt;People may buy the founder before they buy the company. That is not a weakness to hide; it is an advantage to design deliberately. But the founder’s real job is to build a world compelling enough that, eventually, people no longer need them standing at the entrance.&lt;/em&gt;&lt;/p&gt;
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Healthcare Tech Design: Rebranding Kinetik’s NEMT Platform</title>
+  <link href="https://dribbble.com/stories/2026/09/29/cl-vicente-reyes-montealegre-afternow-kinetik-healthcare-tech-rebranding"/>
+  <id>https://dribbble.com/stories/2026/09/29/cl-vicente-reyes-montealegre-afternow-kinetik-healthcare-tech-rebranding</id>
+  <published>2026-09-29T11:34:08+00:00</published>
+  <updated>2026-09-29T11:34:08+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491" medium="image"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491</webfeeds:featuredImage>
+  <summary>Dribbble Community Leader and Afternow Brand &amp; Web Lead Vicente Reyes Montealegre shares Kinetik's NEMT platform rebrand, balancing warmth and trust for coordinators and patients with opposite needs.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader and Afternow Brand &amp;amp; Web Lead Vicente Reyes Montealegre shares Kinetik&amp;#x27;s NEMT platform rebrand, balancing warmth and trust for coordinators and patients with opposite needs.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Vicente Reyes Montealegre, heads &lt;a href="https://afternow.co/" rel="nofollow noopener" target="_blank"&gt;Afternow’s&lt;/a&gt; Brand and Web teams to guide SaaS companies, enterprises, and fast-growing startups in their digital journeys. The agency’s work spans strategy, brand, website, product and development, all under one roof, all connected to one vision.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Access to care was the whole point of &lt;a href="https://afternow.co/work/kinetik/" rel="nofollow noopener" target="_blank"&gt;Kinetik&amp;#8217;s&lt;/a&gt; business. Non-emergency medical transport gets patients to dialysis, to chemo, to appointments they&amp;#8217;d otherwise skip. So, the actual brief for this patient coordination platform design ran much deeper than logos and layouts. We needed to build a comprehensive product people could trust their care to.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The American healthcare system doesn&amp;#8217;t make that simple. Riders, providers, and insurers all operate on different timelines and different systems, and getting them to coordinate can be exhausting for everyone involved, patients included. Kinetik exists to make that coordination actually work.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That&amp;#8217;s a different problem than what most HealthTech faces. Kinetik&amp;#8217;s users weren&amp;#8217;t optimizing a workflow. Many were older, managing a condition, coordinating a ride they couldn&amp;#8217;t afford to miss. Every decision, on the brand, the site, the products, had to hold up under that weight.&lt;/p&gt;
+
+&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161282/file/3c25801b14a7460bd29d1c6f6a7f5085.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Warmth as a design compass in healthcare branding&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;We moved away from the clinical, high-tech blue and aqua gradients the old identity relied on. Most health tech platforms reach for a look that leans too much on the tech and not so much on what health means. It&amp;#8217;s a common pitfall you&amp;#8217;ll notice when browsing portfolios of even highly rated &lt;a href="https://dribbble.com/hire/brand-designers" target="_blank" rel="noopener"&gt;brand identity designers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;It makes sense because that is where innovation sat ten years ago. Today, we can argue that audiences are craving for digital experiences that feel tangible, genuine, with more texture and life in them.&lt;br /&gt;&lt;br /&gt;The inspiration point started with a very concrete moment of Kinetik’s users journey: the feeling of looking out a window on a ride, watching the city go by as they travel to their medical appointments. That image is where the painterly, almost impressionistic illustrations of the urban landscape came from.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The palette followed the same instinct, pulled from the organic rather than the artificial: deep and vivid greens against gold, salmon, lavender, and a purple that reads like the last light of a sunset. Nothing else in the category looks like this.&lt;br /&gt;&lt;br /&gt;Typography carries a similar weight. An elegant serif, used large, gives the brand a voice instead of blending into the next healthcare login screen. Used small, it steps back and lets the content do the work.&lt;br /&gt;&lt;br /&gt;The photography direction stays close to that same idea, people in ordinary moments, at home, in the city, living their lives. Access to care isn&amp;#8217;t confined to a hospital visit, it shows up in every part of someone&amp;#8217;s day.&lt;br /&gt;&lt;br /&gt;The refreshed logo carries this story as well. A capital K, drawn in one curved stroke, with a dot sitting at the end like a destination marker, because getting somewhere is what Kinetik actually does.&lt;/p&gt;
+
+&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161311/file/102efd3e6682f63d37e84b354f01c7a9.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Structuring medical website navigation for complex audiences&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The marketing site had one real problem before the rebrand: articles, case studies, and news all sat in one undifferentiated pile. We split it apart, and built the site&amp;#8217;s structure and navigation around the three groups Kinetik actually serves: health plans, transportation providers, and state and government agencies, each with a clear path through the site instead of one menu trying to work for everyone.&lt;br /&gt;&lt;br /&gt;The website does more than tell the story here. The same visual language that sets the mood on the landing page also gets used inside the product screen visualisations, to flag a trip, a claim waiting on review, or a step someone shouldn&amp;#8217;t skip. Same system, pulling double duty: telling the story, and pointing at what matters.&lt;/p&gt;
+
+&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161332/file/c5d3bbee25186b043d26a7de16d79ff9.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading"&gt;HealthTech products solving opposite users at once&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Inside the products, the same question got harder. Coordinators needed dense, fast interfaces, real-time visibility across thousands of trips, quick assignment, no wasted motion. Patients using the Kinetik Health app needed almost the reverse: large touch targets, few steps, a calm interface that doesn&amp;#8217;t rush them.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That tension sits at the center of the patient app. Real-time tracking and recurring scheduling are genuinely sophisticated features. They had to live inside something simple enough for someone managing a visual or cognitive impairment to use without a second thought.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Contrast, focus states, type size, motion, none of it was a checklist item added at the end. It shaped the product from the start, proving exactly why companies must look beyond aesthetics when vetting &lt;a href="https://dribbble.com/hire/ui-ux-designers" target="_blank" rel="noopener"&gt;UI/UX designers&lt;/a&gt;. Confusion on this screen costs someone their ride to treatment.&lt;/p&gt;
+
+&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161377/file/e75a154c3d7047b336dc5b15ec7bda87.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
+
+&lt;h2 class="wp-block-heading"&gt;What it takes to build a healthcare product patients can rely on&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The brand is the part people notice first, the color palette, the painterly illustrations, the typographic voice. It&amp;#8217;s the part that makes Kinetik stand out on a shelf full of competitors that forgot about the people they’ll be affecting the most. That matters. But a harder, quieter work sits underneath: the architecture, the user flows, the structure that holds four different products together for four very different users. That work is the proof point, and the reason a patient with a ride booked for 7am can actually get there.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72152/original/cc1b062379a6f577529a816f2eb901c0.jpg?1790681189" alt="" /&gt;&lt;/figure&gt;
 
 
                 &lt;p class="find-more-prompt"&gt;&lt;em&gt;
