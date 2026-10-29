@@ -3,7 +3,28 @@
 <title>MIT Technology Review en español (Completo)</title>
 <link href="https://www.technologyreview.es/"/>
 <id>https://www.technologyreview.es/</id>
-<updated>2026-10-28T08:10:00+00:00</updated>
+<updated>2026-10-28T16:32:02+00:00</updated>
+<entry>
+  <title>Crear valor con la IA mediante el contexto empresarial</title>
+  <link href="https://www.technologyreview.es/article/crear-valor-con-la-ia-mediante-el-contexto-empresarial"/>
+  <id>https://www.technologyreview.es/article/crear-valor-con-la-ia-mediante-el-contexto-empresarial</id>
+  <published>2026-10-28T16:32:02+00:00</published>
+  <updated>2026-10-28T16:32:02+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F03e6f38318c41b03ca3f4b25ee95031800699c5a.png?alt=media&amp;token=be57c7ac-2972-425b-b590-c313650c5293"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F03e6f38318c41b03ca3f4b25ee95031800699c5a.png?alt=media&amp;token=be57c7ac-2972-425b-b590-c313650c5293" medium="image"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F03e6f38318c41b03ca3f4b25ee95031800699c5a.png?alt=media&amp;token=be57c7ac-2972-425b-b590-c313650c5293"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F03e6f38318c41b03ca3f4b25ee95031800699c5a.png?alt=media&amp;token=be57c7ac-2972-425b-b590-c313650c5293</webfeeds:featuredImage>
+  <summary>Cómo establecer un «cerebro corporativo» puede impulsar una IA y unos agentes autónomos más precisos y rentables.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F03e6f38318c41b03ca3f4b25ee95031800699c5a.png?alt=media&amp;token=be57c7ac-2972-425b-b590-c313650c5293" alt="Crear valor con la IA mediante el contexto empresarial" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por MIT Technology Review Insights&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Cómo establecer un «cerebro corporativo» puede impulsar una IA y unos agentes autónomos más precisos y rentables.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;En una empresa, pueden estar funcionando simultáneamente multitud de plataformas, sistemas y herramientas de IA —por ejemplo, plataformas de clientes impulsadas por IA, asistentes conversacionales y herramientas de automatización de flujos de trabajo y procesos—. Cada una de ellas es sofisticada, avanzada y rápida a la hora de responder. Sin embargo, al ponerlas a trabajar, los resultados y las acciones que se obtienen pueden ser erróneos, confusos o carecer de una comprensión adecuada del negocio. Muchas organizaciones se encuentran en esta situación, y este podría ser uno de los motivos clave por los que les cuesta rentabilizar sus inversiones en IA.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large is-resized"&gt;&lt;a href="https://atlan.com/resources/mit-report-ai-business-value/" target="_blank" rel=" noopener"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6a98b60e128639353f2783f29c368f5d71bc00f0.png?alt=media&amp;token=1a432bd4-b5db-44a0-b6fc-a29d3e0b995c" alt="" class="wp-image-1147797" style="aspect-ratio:0.7777859615526258;width:472px;height:auto"/&gt;&lt;/a&gt;&lt;/figure&gt;
+
+&lt;div class="wp-block-buttons"&gt;
+&lt;div class="wp-block-button is-style-fill"&gt;&lt;a class="wp-block-button__link has-mittr-white-color has-text-color has-background has-custom-font-size wp-element-button" href="https://atlan.com/resources/mit-report-ai-business-value/" style="border-radius:4px;background-color:#2026d2;font-size:16px" target="_blank" rel="noopener"&gt;DESCARGA EL INFORME&lt;/a&gt;</content>
+</entry>
 <entry>
   <title>The Download: startups muertas que alimentan la IA y comunicación entre especies</title>
   <link href="https://www.technologyreview.es/article/the-download-startups-muertas-que-alimentan-la-ia-y-comunicacion-entre-especies"/>
@@ -489,49 +510,5 @@
 &lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-28.svg" alt="" class="wp-image-1147269" style="width:764px;height:auto"/&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;La tecnología funciona, el capital está disponible y la demanda no se queda atrás. Pero, como ocurre con todo en la fabricación, aún quedan incógnitas desconocidas. &lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Naves espaciales de propulsión nuclear</title>
-  <link href="https://www.technologyreview.es/article/nuclear-powered-spaceships"/>
-  <id>https://www.technologyreview.es/article/nuclear-powered-spaceships</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4</webfeeds:featuredImage>
-  <summary>Una nueva era de los vuelos espaciales podría ahorrar tiempo a los astronautas y reducir su exposición a la radiación cósmica en su viaje hacia Marte —y más…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4" alt="Naves espaciales de propulsión nuclear" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Robin George Andrews&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Una nueva era de los vuelos espaciales podría ahorrar tiempo a los astronautas y reducir su exposición a la radiación cósmica en su viaje hacia Marte —y más…&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Justo antes de que la tripulación de Artemis II iniciara su histórico efecto tirachinas alrededor de la Luna el pasado mes de abril, la NASA anunció sus planes para construir el Space Reactor-1 Freedom. El SR-1, la primera nave espacial interplanetaria de la historia propulsada por un reactor nuclear, tiene previsto realizar una misión no tripulada a Marte a finales de 2028 para llegar en 2029. El éxito de la misión marcaría el comienzo de una nueva era de vuelos espaciales más eficientes y potencialmente más rápidos—lo que ahorraría tiempo a los astronautas y reduciría su exposición a la dañina radiación cósmica en sus viajes a Marte y más allá—. «Te despiertas con ese anuncio y se te dibuja una gran sonrisa en la cara», afirma Simon Middleburgh, codirector del Nuclear Futures Institute de la Universidad de Bangor, en Gales.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los escollos&lt;/h3&gt;
-
-&lt;p&gt;Operar un reactor nuclear en el espacio puede parecer una locura, pero no lo es. La Unión Soviética puso en órbita decenas de reactores, a menudo para alimentar satélites espía. Y los expertos aseguran que no hay grandes obstáculos técnicos para hacer realidad la propulsión nuclear espacial. «Creo que es una tecnología muy viable», afirma Philip Metzger, investigador en ingeniería de vuelos espaciales del Florida Space Institute. «Me alegra ver que por fin lo están haciendo».&lt;/p&gt;
-
-&lt;p&gt;Aun así, el desarrollo de la propulsión espacial mediante reactores ha avanzado con lentitud. Estados Unidos ha puesto en marcha —y cancelado— &lt;a href="https://www.nasa.gov/space-technology-mission-directorate/tdm/space-nuclear-propulsion/#history"&gt;varios programas&lt;/a&gt; dedicados a investigarla a lo largo de los últimos 75 años. La víctima más reciente ha sido DRACO, una colaboración entre la NASA y el Departamento de Defensa que &lt;a href="https://arstechnica.com/space/2025/06/some-parts-of-trumps-proposed-budget-for-nasa-are-literally-draconian/"&gt;llegó a su fin&lt;/a&gt; en 2025. El proyecto se &lt;a href="https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/"&gt;canceló&lt;/a&gt; debido a los elevados costes de experimentación, la imposibilidad de competir en precio con la propulsión convencional de cohetes y la dificultad para garantizar que las pruebas en tierra se realizaran de forma segura y eficaz. (Al fin y al cabo, estás generando una reacción nuclear increíblemente potente).&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los avances&lt;/h3&gt;
-
-&lt;p&gt;Tras muchas dudas, ahora parece que los viajes interplanetarios con propulsión nuclear son una apuesta de 2000 millones de dólares que la NASA está dispuesta a asumir. La agencia está desarrollando un enfoque denominado propulsión nuclear eléctrica, que utiliza los neutrones generados en una reacción autosostenida de fisión de átomos de uranio para producir calor y, en última instancia, electricidad. Dicha electricidad se emplea para ionizar un gas, que se expulsa de la nave espacial con la ayuda de campos magnéticos, generando así empuje. Este método «ofrece muy poco empuje, pero es muy eficiente», afirma Sebastian Corbisiero, director técnico nacional de programas de reactores espaciales del Departamento de Energía de Estados Unidos. «Por tanto, se puede utilizar durante un largo periodo de tiempo».&lt;/p&gt;
-
-&lt;p&gt;¿Qué aspecto tendría un cohete así? Una presentación de Steve Sinacore, director del programa SR-1 de la NASA, ofrece algunas pistas. Por ahora, el diseño conceptual hace que la nave parezca una colosal flecha con plumas. La parte trasera albergará el sistema de energía y propulsión, mientras que en la punta se ubicará un reactor nuclear cargado de uranio con una potencia de al menos 20 kilovatios. (Para ponerlo en contexto, una &lt;a href="https://www.energy.gov/ne/articles/infographic-how-much-power-does-nuclear-reactor-produce"&gt;central nuclear típica&lt;/a&gt; en la Tierra es unas 50.000 veces más potente). Las «plumas» del SR-1 son grandes aletas que ayudan a refrigerar el reactor disipando el calor hacia el espacio.&lt;/p&gt;
-
-&lt;p&gt;Al igual que muchos otros componentes espaciales, el reactor tendrá que ponerse a prueba en tierra antes de recibir el visto bueno para el agitado viaje en cohete al espacio. «Superar el lanzamiento de forma segura va a ser todo un reto», afirma Middleburgh. «Sufres sacudidas, traqueteos y zarandeos». Por motivos de seguridad, el reactor se encenderá unos dos días después del lanzamiento, cuando ya se encuentre a una distancia prudencial de la Tierra. El uranio en sí no es excesivamente peligroso, pero no puede decirse lo mismo de los residuos que se generan cuando el reactor está en funcionamiento. Si el SR-1 funciona según lo previsto, su viaje a Marte durará alrededor de un año.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;¿Llegará realmente esta novedosa forma de propulsión espacial al Planeta Rojo para 2029? Es posible. La NASA afirma que el Laboratorio Nacional de Idaho, que está construyendo el reactor del SR-1, progresa adecuadamente y mantiene su previsión de lanzamiento para finales de 2028. «La adquisición de los componentes principales está en marcha y los trabajos de integración del elemento de potencia y propulsión avanzan a paso firme», declaró Sinacore a &lt;em&gt;MIT Technology Review&lt;/em&gt;. Las perspectivas serán aún más favorables si el programa Artemis, cuyo objetivo es empezar a sentar los cimientos de una base en el polo sur lunar para finales de la década, cumple con su propio y audaz calendario.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;«Es un calendario muy ajustado», afirma Lindsey Holmes, vicepresidenta de proyectos avanzados de Analytical Mechanics Associates, una empresa aeroespacial de Virginia. Sospecha que este impulso se debe, en parte, a las propias &lt;a href="https://www.reuters.com/business/energy/china-led-lunar-base-include-nuclear-power-plant-moons-surface-space-official-2025-04-23/"&gt;ambiciones nucleares de China y Rusia en el espacio profundo&lt;/a&gt;. Ambos países han hablado de planes para instalar un reactor en la superficie lunar a mediados de la década de 2030 con el fin de suministrar energía a una base lunar operada conjuntamente. Tanto si triunfa en el espacio como si fracasa, el desarrollo del SR-1 debería ayudar a la NASA a colocar su propio reactor en la Luna; la tecnología implicada en ambos proyectos es a grandes rasgos similar, dado que la superficie lunar, al igual que el propio espacio, es el vacío. Si una nave espacial interplanetaria de propulsión nuclear funciona, un reactor nuclear en la Luna también debería hacerlo.&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-&lt;div style="height:2em" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Indicador de progreso . . . . . . . . . . . . 6&lt;/h3&gt;
-
-&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg" alt="" class="wp-image-1147261" style="width:764px;height:auto"/&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;La mayor parte de la tecnología para el SR-1 ya existe; la clave estará en encajar todas las piezas y comprobar cómo se comporta en el espacio.&lt;/strong&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

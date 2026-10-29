@@ -3,7 +3,117 @@
 <title>Dribbble Stories – Diseño y Curaduría</title>
 <link href="https://dribbble.com/stories"/>
 <id>https://dribbble.com/stories</id>
-<updated>2026-10-27T23:36:30+00:00</updated>
+<updated>2026-10-28T22:29:13+00:00</updated>
+<entry>
+  <title>The Death of Default SaaS: Why AI Makes Product Design More Important</title>
+  <link href="https://dribbble.com/stories/2026/10/28/why-ai-makes-product-design-more-important"/>
+  <id>https://dribbble.com/stories/2026/10/28/why-ai-makes-product-design-more-important</id>
+  <published>2026-10-28T22:29:13+00:00</published>
+  <updated>2026-10-28T22:29:13+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309" medium="image"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309</webfeeds:featuredImage>
+  <summary>Quincy Samycia replaced five SaaS subscriptions with one AI-built platform. Here is why the experience put product design at the center of build-versus-buy decisions.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Quincy Samycia replaced five SaaS subscriptions with one AI-built platform. Here is why the experience put product design at the center of build-versus-buy decisions.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Quincy Samycia is Head of Brand and Growth at &lt;a href="https://www.brandedagency.com/" target="_blank" rel="noreferrer noopener nofollow"&gt;The Branded Agency&lt;/a&gt;, a branding, creative, website, and growth agency working with ambitious companies across Canada, the United States, and international markets. He helps organizations connect brand strategy with the creative, digital experiences and marketing systems responsible for measurable growth.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Over the past two months, I replaced Asana, Toggl, HubSpot, Typeform, and Calendly at The Branded Agency with custom software I built using AI. The experience changed how I think about product design.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The work took less than 250 hours in total. We kept the design quality and functionality the agency needed, and gained capabilities our previous subscriptions did not include, such as enterprise-tier functions. I now estimate annual subscription savings above US$20,000.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That figure is an annualized subscription estimate. A full return-on-investment calculation would still need to account for my time, AI services, hosting, and maintenance.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The bigger change was bringing functions from five tools into one platform designed around our agency. Instead of adapting to someone else’s product, I could decide how our software should work.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I do not think every software-as-a-service company is about to disappear. I do think SaaS is losing its place as the unquestioned default. For designers, that opens a wider brief: shaping the systems businesses run on, along with the screens people see.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Five subscriptions replaced by one custom platform&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72976/original/79a89d85d5d6661de9b1aa98256b032b.gif?1793225311" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I did not build five separate clones. I combined what we needed from project management, time tracking, customer relationship management, forms, and scheduling into one platform designed around how our agency operates.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Vendors sell those functions as separate products, but the work is connected. Clients have projects. Projects have tasks. Tasks consume time. That time affects capacity, client balances, and reporting. Building our own software let me design those relationships together instead of organizing our work around tool boundaries.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I set out to replace what we depended on, add what our subscriptions lacked, and give our team a consistent experience. We never aimed to reproduce every vendor feature.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That is the shift in the build-versus-buy decision. Replacing established software no longer has to mean buying another vendor’s version. It can mean building a system that fits the business better.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;The product is in the connections&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72978/original/ca43e2dccdae99c942228ab9bd784eae.png?1793225380" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Time tracking makes this tangible. I designed our workflow so logged hours come off the client balance, while new entries stay editable until the team member submits the day for review. Reporting can then filter to approved time for invoicing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The timer stays available across the workspace, with controls for projects, tasks, and tags. Reports combine date ranges, clients, projects, people and tags, with options for grouping, rounding, CSV export and client sharing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;What matters is how these pieces connect. Recording work, reviewing it, and communicating it are part of the same process.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Those are product decisions. When should time affect a balance? What can someone edit before submitting it? Which entries belong in a client report? AI can help implement the answers, but the answers have to come from understanding the business.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;AI assistance needs a visible boundary&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72977/original/489c40cf566094add86395f798504040.png?1793225359" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;AI helped me build the software, and I also designed AI assistance into it.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The planner suggests task priorities, flags slipping work, and proposes due dates. Its instruction to the user is explicit: nothing changes until you accept it.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The project-finish view is organized around remaining work, assignments, working hours, meetings, and time off. A useful plan needs that context. It must reflect what the team can deliver and which tasks are urgent.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The assistant focuses on operational tasks. It finds missing hours, due dates, or assignees, updates client goal hours, and prepares bulk reassignments or deadline changes. A separate staged-changes panel gives those suggestions a visible place to be reviewed.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That boundary matters. Suggesting a deadline and committing a team to it are different actions. A good interface makes the distinction clear instead of hiding it behind an impressive chat response.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This is where product design matters most as implementation speeds up. Navigation, hierarchy, editable states, and review steps decide whether new capabilities are useful. Design determines what a business&amp;#8217;s software should make possible, and that work starts before the AI writes any code.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;The build-versus-buy shift is already happening&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72980/original/9c723e7097493abeaf5e2c1228b710d3.png?1793225428" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Tools such as ChatGPT and Codex, Claude, and Lovable offer different routes into AI-assisted software development. None of them removes the need for requirements or technical judgment.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Retool’s &lt;a href="https://retool.com/blog/ai-build-vs-buy-report-2026" target="_blank" rel="noreferrer noopener nofollow"&gt;2026 Build vs. Buy report&lt;/a&gt; surveyed 817 customers and builders in late 2025. It found that 35% of teams had replaced at least one SaaS tool with a custom build. Because this is vendor-sponsored research among builders, it reflects early adopters more than the broader business landscape.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In August 2026, &lt;a href="https://www.marketscreener.com/news/vibe-coding-startup-lovable-raises-400-million-at-13-3-billion-valuation-ce7859d8dc8af12c" target="_blank" rel="noreferrer noopener nofollow"&gt;Reuters reported&lt;/a&gt; that Lovable said users had created more than 60 million projects since its launch. That number measures experimentation and says little about successful production deployments. The scale still helps explain why building now comes up in conversations once dominated by buying.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;My experience is one example, and other businesses may not see the same savings. It is still a reason to rethink who can build and what custom software costs.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Moving faster still comes with responsibility&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A small agency can test a bounded workflow with a few people. A large company may have legacy integrations, procurement requirements, training needs, and competing departmental priorities. Switching costs can outweigh subscription savings, even when building gets cheaper.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Some hesitation comes from unfamiliarity. Some reflects real operational risk. I expect smaller businesses with clear workflows to move first, while larger organizations may build around existing systems before replacing them.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Enterprise-tier features do not equal enterprise readiness. A useful interface says nothing about security, reliability, or compliance.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In May 2026, &lt;a href="https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/" target="_blank" rel="noreferrer noopener nofollow"&gt;WIRED reported&lt;/a&gt; that researchers had found more than 5,000 AI-built web apps with little or no access protection. Vendors disputed parts of the findings and pointed to configuration choices. The lesson I take is to treat deployment with the same care as the build.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Lovable’s own guidance says automated checks do not replace a thorough security review. Before relying on a custom system, I would require tested permissions, protected credentials, restorable backups, monitoring, documentation, and a named maintenance owner. Sensitive or critical workflows need review from experienced &lt;a href="https://dribbble.com/hire/ai-developers" target="_blank" rel="noopener"&gt;AI developers&lt;/a&gt; and security specialists.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The economics must include ongoing operation and support. Replacing five subscriptions still leaves us dependent on infrastructure providers. Two months of building also cannot show what years of maintenance will cost.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;The opportunity is to design how a business works&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I see a larger opportunity than another fixed application: systems that help companies build, customize, and govern tools around their own needs. The companies providing those systems will still be software companies. What changes is what customers buy.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For &lt;a href="https://dribbble.com/hire/product-designers" target="_blank" rel="noopener"&gt;product designers&lt;/a&gt; and agencies, the opportunity is to translate business knowledge into usable products. Understand the workflow, define the relationships, make decisions visible, and leave something others can maintain. Generating screens is only one part of that work.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Start with one process worth improving. Define success, prototype with non-sensitive data, test with actual users, and plan a controlled transition. Keep the tools that still earn their place.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I expect SaaS to stay. I also expect every subscription to justify why buying it beats building the part we need.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The saving gets attention. The ability to design how our business works is what makes the change matter.&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Website Design That Converts: Why Good-Looking Sites Still Fail</title>
   <link href="https://dribbble.com/stories/2026/10/27/website-design-that-converts"/>
@@ -2661,67 +2771,6 @@
 &lt;/blockquote&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;em&gt;People may buy the founder before they buy the company. That is not a weakness to hide; it is an advantage to design deliberately. But the founder’s real job is to build a world compelling enough that, eventually, people no longer need them standing at the entrance.&lt;/em&gt;&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Healthcare Tech Design: Rebranding Kinetik’s NEMT Platform</title>
-  <link href="https://dribbble.com/stories/2026/09/29/cl-vicente-reyes-montealegre-afternow-kinetik-healthcare-tech-rebranding"/>
-  <id>https://dribbble.com/stories/2026/09/29/cl-vicente-reyes-montealegre-afternow-kinetik-healthcare-tech-rebranding</id>
-  <published>2026-09-29T11:34:08+00:00</published>
-  <updated>2026-09-29T11:34:08+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491" medium="image"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491</webfeeds:featuredImage>
-  <summary>Dribbble Community Leader and Afternow Brand &amp; Web Lead Vicente Reyes Montealegre shares Kinetik's NEMT platform rebrand, balancing warmth and trust for coordinators and patients with opposite needs.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader and Afternow Brand &amp;amp; Web Lead Vicente Reyes Montealegre shares Kinetik&amp;#x27;s NEMT platform rebrand, balancing warmth and trust for coordinators and patients with opposite needs.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Vicente Reyes Montealegre, heads &lt;a href="https://afternow.co/" rel="nofollow noopener" target="_blank"&gt;Afternow’s&lt;/a&gt; Brand and Web teams to guide SaaS companies, enterprises, and fast-growing startups in their digital journeys. The agency’s work spans strategy, brand, website, product and development, all under one roof, all connected to one vision.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Access to care was the whole point of &lt;a href="https://afternow.co/work/kinetik/" rel="nofollow noopener" target="_blank"&gt;Kinetik&amp;#8217;s&lt;/a&gt; business. Non-emergency medical transport gets patients to dialysis, to chemo, to appointments they&amp;#8217;d otherwise skip. So, the actual brief for this patient coordination platform design ran much deeper than logos and layouts. We needed to build a comprehensive product people could trust their care to.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The American healthcare system doesn&amp;#8217;t make that simple. Riders, providers, and insurers all operate on different timelines and different systems, and getting them to coordinate can be exhausting for everyone involved, patients included. Kinetik exists to make that coordination actually work.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That&amp;#8217;s a different problem than what most HealthTech faces. Kinetik&amp;#8217;s users weren&amp;#8217;t optimizing a workflow. Many were older, managing a condition, coordinating a ride they couldn&amp;#8217;t afford to miss. Every decision, on the brand, the site, the products, had to hold up under that weight.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161282/file/3c25801b14a7460bd29d1c6f6a7f5085.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Warmth as a design compass in healthcare branding&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We moved away from the clinical, high-tech blue and aqua gradients the old identity relied on. Most health tech platforms reach for a look that leans too much on the tech and not so much on what health means. It&amp;#8217;s a common pitfall you&amp;#8217;ll notice when browsing portfolios of even highly rated &lt;a href="https://dribbble.com/hire/brand-designers" target="_blank" rel="noopener"&gt;brand identity designers&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It makes sense because that is where innovation sat ten years ago. Today, we can argue that audiences are craving for digital experiences that feel tangible, genuine, with more texture and life in them.&lt;br /&gt;&lt;br /&gt;The inspiration point started with a very concrete moment of Kinetik’s users journey: the feeling of looking out a window on a ride, watching the city go by as they travel to their medical appointments. That image is where the painterly, almost impressionistic illustrations of the urban landscape came from.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The palette followed the same instinct, pulled from the organic rather than the artificial: deep and vivid greens against gold, salmon, lavender, and a purple that reads like the last light of a sunset. Nothing else in the category looks like this.&lt;br /&gt;&lt;br /&gt;Typography carries a similar weight. An elegant serif, used large, gives the brand a voice instead of blending into the next healthcare login screen. Used small, it steps back and lets the content do the work.&lt;br /&gt;&lt;br /&gt;The photography direction stays close to that same idea, people in ordinary moments, at home, in the city, living their lives. Access to care isn&amp;#8217;t confined to a hospital visit, it shows up in every part of someone&amp;#8217;s day.&lt;br /&gt;&lt;br /&gt;The refreshed logo carries this story as well. A capital K, drawn in one curved stroke, with a dot sitting at the end like a destination marker, because getting somewhere is what Kinetik actually does.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161311/file/102efd3e6682f63d37e84b354f01c7a9.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Structuring medical website navigation for complex audiences&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The marketing site had one real problem before the rebrand: articles, case studies, and news all sat in one undifferentiated pile. We split it apart, and built the site&amp;#8217;s structure and navigation around the three groups Kinetik actually serves: health plans, transportation providers, and state and government agencies, each with a clear path through the site instead of one menu trying to work for everyone.&lt;br /&gt;&lt;br /&gt;The website does more than tell the story here. The same visual language that sets the mood on the landing page also gets used inside the product screen visualisations, to flag a trip, a claim waiting on review, or a step someone shouldn&amp;#8217;t skip. Same system, pulling double duty: telling the story, and pointing at what matters.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161332/file/c5d3bbee25186b043d26a7de16d79ff9.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;HealthTech products solving opposite users at once&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Inside the products, the same question got harder. Coordinators needed dense, fast interfaces, real-time visibility across thousands of trips, quick assignment, no wasted motion. Patients using the Kinetik Health app needed almost the reverse: large touch targets, few steps, a calm interface that doesn&amp;#8217;t rush them.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That tension sits at the center of the patient app. Real-time tracking and recurring scheduling are genuinely sophisticated features. They had to live inside something simple enough for someone managing a visual or cognitive impairment to use without a second thought.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Contrast, focus states, type size, motion, none of it was a checklist item added at the end. It shaped the product from the start, proving exactly why companies must look beyond aesthetics when vetting &lt;a href="https://dribbble.com/hire/ui-ux-designers" target="_blank" rel="noopener"&gt;UI/UX designers&lt;/a&gt;. Confusion on this screen costs someone their ride to treatment.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161377/file/e75a154c3d7047b336dc5b15ec7bda87.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;What it takes to build a healthcare product patients can rely on&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The brand is the part people notice first, the color palette, the painterly illustrations, the typographic voice. It&amp;#8217;s the part that makes Kinetik stand out on a shelf full of competitors that forgot about the people they’ll be affecting the most. That matters. But a harder, quieter work sits underneath: the architecture, the user flows, the structure that holds four different products together for four very different users. That work is the proof point, and the reason a patient with a ride booked for 7am can actually get there.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72152/original/cc1b062379a6f577529a816f2eb901c0.jpg?1790681189" alt="" /&gt;&lt;/figure&gt;
 
 
                 &lt;p class="find-more-prompt"&gt;&lt;em&gt;
