@@ -11,7 +11,7 @@
   <published>2026-12-20T19:00:00-05:00</published>
   <updated>2026-12-20T19:00:00-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/zarzuela_0.jpg?itok=mQmre8J2"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/zarzuela_0.jpg?itok=mQmre8J2" medium="image"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/zarzuela_0.jpg?itok=mQmre8J2" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/zarzuela_0.jpg?itok=mQmre8J2"/>
   <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/zarzuela_0.jpg?itok=mQmre8J2</webfeeds:featuredImage>
   <summary>La Fundación Arte Lírico presenta un recorrido por la zarzuela, la música y las danzas españolas, con fragmentos clásicos llenos de tradición</summary>
@@ -27,7 +27,7 @@
   <published>2026-11-28T19:00:00-05:00</published>
   <updated>2026-11-28T19:00:00-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/werRA.jpg?itok=ULP1ba4i"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/werRA.jpg?itok=ULP1ba4i" medium="image"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/werRA.jpg?itok=ULP1ba4i" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/werRA.jpg?itok=ULP1ba4i"/>
   <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/werRA.jpg?itok=ULP1ba4i</webfeeds:featuredImage>
   <summary>Una puesta en escena que entrelaza memoria, canto, danza y ritual para narrar historias de vida y reivindicar identidad, libertad y dignidad</summary>
@@ -43,7 +43,7 @@
   <published>2026-11-25T19:00:00-05:00</published>
   <updated>2026-11-25T19:00:00-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/flor-de-lava.jpg?itok=mBIc9ae9"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/flor-de-lava.jpg?itok=mBIc9ae9" medium="image"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/flor-de-lava.jpg?itok=mBIc9ae9" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/flor-de-lava.jpg?itok=mBIc9ae9"/>
   <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/flor-de-lava.jpg?itok=mBIc9ae9</webfeeds:featuredImage>
   <summary>Tres propuestas lideradas por mujeres se encuentran en 'Ellas Cantan', una noche dedicada a las voces de la música colombiana contemporánea</summary>
@@ -59,7 +59,7 @@
   <published>2026-11-18T19:00:00-05:00</published>
   <updated>2026-11-18T19:00:00-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/djs.jpg?itok=sx5tI_Eu"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/djs.jpg?itok=sx5tI_Eu" medium="image"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/djs.jpg?itok=sx5tI_Eu" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/djs.jpg?itok=sx5tI_Eu"/>
   <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/djs.jpg?itok=sx5tI_Eu</webfeeds:featuredImage>
   <summary>Cheetah Latina y La Pinche Tefi presentan una selección en vinilo que atraviesa la cumbia, la salsa, el boogaloo, el funk, los sonidos tropicales y las rarezas de América Latina</summary>
@@ -69,20 +69,20 @@
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Monte Olimpa&lt;/strong&gt;&lt;/em&gt; llega a Gaitán al Aire con una sesión musical que celebra el talento de las mujeres que seleccionan, crean y transforman la escena sonora. &lt;strong&gt;Cheetah Latina y La Pinche Tefi&lt;/strong&gt; estarán detrás de las tornamesas con una selección en vinilo que conecta la cumbia, el boogaloo, el funk y el soul latino, entre otros sonidos de América Latina.&lt;/p&gt;&lt;p&gt;Desde Bogotá, estas dos selectoras proponen un recorrido por ritmos tropicales, rarezas musicales y mezclas que invitan a descubrir nuevas sonoridades y a compartir la pista de baile. Una noche para reconocer el trabajo de las mujeres en la cultura musical y celebrar la música como espacio de encuentro colectivo.&lt;/p&gt;</content>
 </entry>
 <entry>
-  <title>Festival Carranguero de Bogotá en La Media Torta [Presentación]</title>
-  <link href="https://www.idartes.gov.co/es/agenda/presentacion/festival-carranguero-de-bogota-en-la-media-torta"/>
-  <id>https://www.idartes.gov.co/es/agenda/presentacion/festival-carranguero-de-bogota-en-la-media-torta</id>
-  <published>2026-11-08T19:00:00-05:00</published>
-  <updated>2026-11-08T19:00:00-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ROLLING-RUANAS.jpg?itok=vFE7c48m"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ROLLING-RUANAS.jpg?itok=vFE7c48m" medium="image"/>
-  <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ROLLING-RUANAS.jpg?itok=vFE7c48m"/>
-  <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ROLLING-RUANAS.jpg?itok=vFE7c48m</webfeeds:featuredImage>
-  <summary>La música campesina reúne tradición y nuevas sonoridades en una jornada gratuita con siete agrupaciones que celebran las raíces del altiplano cundiboyacense</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ROLLING-RUANAS.jpg?itok=vFE7c48m" style="max-width: 100%; height: auto; border-radius: 6px;" alt="Festival Carranguero de Bogotá en La Media Torta [Presentación]" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 14px;"&gt;&lt;strong&gt;La música campesina reúne tradición y nuevas sonoridades en una jornada gratuita con siete agrupaciones que celebran las raíces del altiplano cundiboyacense&lt;/strong&gt;&lt;/p&gt;
-&lt;div style="background-color: #f8f9fa; border: 1px solid #e9ecef; border-left: 4px solid #b31b1b; border-radius: 4px; padding: 12px 14px; margin: 16px 0;"&gt;&lt;div style="font-size: 0.85em; text-transform: uppercase; font-weight: bold; letter-spacing: 0.5px; color: #b31b1b; margin-bottom: 8px;"&gt;Ficha técnica&lt;/div&gt;&lt;table style="width: 100%; border-collapse: collapse; font-size: 0.93em; line-height: 1.4;"&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; width: 130px; color: #555;"&gt;Escenario:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;La Media Torta&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Fecha / Horario:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;8 Nov 2026&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Entrada:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;Entrada libre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Código PULEP:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;YRN430&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;El &lt;a href="https://www.idartes.gov.co/es/escenarios/media-torta/quienes-somos"&gt;&lt;strong&gt;Teatro al aire libre La Media Torta&lt;/strong&gt;&lt;/a&gt; será escenario de la segunda jornada de celebración del primer &lt;strong&gt;Festival Carranguero de Bogotá&lt;/strong&gt; con agrupaciones que representan distintas expresiones de la música campesina colombiana.&lt;/p&gt;&lt;p&gt;La programación contará con las presentaciones de&lt;strong&gt; Los De la Moña&lt;/strong&gt;, &lt;strong&gt;Juventud Parrandera&lt;/strong&gt;, &lt;strong&gt;Son de Martínez&lt;/strong&gt;, &lt;strong&gt;Los Vitocos&lt;/strong&gt;, &lt;strong&gt;Los Camándulas&lt;/strong&gt;, &lt;strong&gt;Los Carrangomelos&lt;/strong&gt; y &lt;strong&gt;Los Rolling Ruanas&lt;/strong&gt;, reconocidos por explorar nuevas sonoridades a partir de las raíces carrangueras.&lt;/p&gt;&lt;p&gt;La cita es el domingo 8 de noviembre de 2026 a partir de las 12 m. en el &lt;strong&gt;Teatro al aire libre La Media Torta&lt;/strong&gt; (calle 18 No. 1-05 Este). La entrada es libre para mayores de 14 años. No es un evento pet friendly.&lt;/p&gt;</content>
+  <title>'A 8 tiempos: la cara oculta' llega a la localidad de Puente Aranda [Presentación]</title>
+  <link href="https://www.idartes.gov.co/es/agenda/presentacion/8-tiempos-la-cara-oculta-llega-la-localidad-de-puente-aranda"/>
+  <id>https://www.idartes.gov.co/es/agenda/presentacion/8-tiempos-la-cara-oculta-llega-la-localidad-de-puente-aranda</id>
+  <published>2026-11-13T19:00:00-05:00</published>
+  <updated>2026-11-13T19:00:00-05:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Retrato-editorial-de-siete-estilos_0.jpg?itok=rK934jKq"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Retrato-editorial-de-siete-estilos_0.jpg?itok=rK934jKq" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Retrato-editorial-de-siete-estilos_0.jpg?itok=rK934jKq"/>
+  <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Retrato-editorial-de-siete-estilos_0.jpg?itok=rK934jKq</webfeeds:featuredImage>
+  <summary>Alerta Latente presenta una obra de danza que cuestiona los estereotipos de género y los cánones de belleza, y reflexiona sobre la exclusión en la escena artística</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Retrato-editorial-de-siete-estilos_0.jpg?itok=rK934jKq" style="max-width: 100%; height: auto; border-radius: 6px;" alt="&amp;#x27;A 8 tiempos: la cara oculta&amp;#x27; llega a la localidad de Puente Aranda [Presentación]" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 14px;"&gt;&lt;strong&gt;Alerta Latente presenta una obra de danza que cuestiona los estereotipos de género y los cánones de belleza, y reflexiona sobre la exclusión en la escena artística&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="background-color: #f8f9fa; border: 1px solid #e9ecef; border-left: 4px solid #b31b1b; border-radius: 4px; padding: 12px 14px; margin: 16px 0;"&gt;&lt;div style="font-size: 0.85em; text-transform: uppercase; font-weight: bold; letter-spacing: 0.5px; color: #b31b1b; margin-bottom: 8px;"&gt;Ficha técnica&lt;/div&gt;&lt;table style="width: 100%; border-collapse: collapse; font-size: 0.93em; line-height: 1.4;"&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Lugar:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;Centro de Desarrollo Comunitario Asunción (Carrera 32 A No. 1 H - 06) - Localidad: Puente Aranda&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Fecha / Horario:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;13 Nov 2026&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Entrada:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;Entrada libre&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Código PULEP:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;SXC974&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;La agrupación &lt;strong&gt;Alerta Latente&lt;/strong&gt; presenta &lt;em&gt;A 8 tiempos: la cara oculta&lt;/em&gt;, una obra de danza que cuestiona los cánones de belleza y los estereotipos de género presentes en los espacios de formación dancística. A partir de la audición como mecanismo de selección, la pieza plantea preguntas sobre qué determina el valor de un bailarín: su apariencia o su capacidad de crear, transmitir y expresarse con el cuerpo. La propuesta invita a reflexionar sobre las formas de exclusión que atraviesan la escena artística y otros espacios de la sociedad.&lt;/p&gt;&lt;p&gt;La cita es el &lt;strong&gt;13 de noviembre &lt;/strong&gt;a las&lt;strong&gt; &amp;nbsp;4 p.m.&lt;/strong&gt; en el &lt;strong&gt;Centro de Desarrollo Comunitario Asunción &lt;/strong&gt;en la localidad de Puente Aranda.&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Valeriano Lanchas da vida al 'Il segreto di Susanna' [Concierto]</title>
@@ -91,7 +91,7 @@
   <published>2026-11-07T19:00:00-05:00</published>
   <updated>2026-11-07T19:00:00-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/valeriano-noticia_0.jpg?itok=zmm-PzY8"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/valeriano-noticia_0.jpg?itok=zmm-PzY8" medium="image"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/valeriano-noticia_0.jpg?itok=zmm-PzY8" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/valeriano-noticia_0.jpg?itok=zmm-PzY8"/>
   <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/valeriano-noticia_0.jpg?itok=zmm-PzY8</webfeeds:featuredImage>
   <summary>Una sospecha, muchos celos y un secreto entre humo y música en esta obra de Ermanno Wolf-Ferrari</summary>
@@ -107,7 +107,7 @@
   <published>2026-11-06T19:00:00-05:00</published>
   <updated>2026-11-06T19:00:00-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ishtana.jpg?itok=eyExJCjs"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ishtana.jpg?itok=eyExJCjs" medium="image"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ishtana.jpg?itok=eyExJCjs" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ishtana.jpg?itok=eyExJCjs"/>
   <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/ishtana.jpg?itok=eyExJCjs</webfeeds:featuredImage>
   <summary>Esta obra reconstruye las voces del Catatumbo para reflexionar sobre el conflicto armado, la resistencia y la memoria</summary>
@@ -117,20 +117,20 @@
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Ishtana: Río, Trueno y Memoria&lt;/strong&gt;&lt;/em&gt; es una creación escénica que recorre la memoria histórica del Catatumbo, una región atravesada por el conflicto armado, el despojo y la resistencia de sus comunidades. A través de 11 escenas, la obra reúne testimonios reales y relatos de campesinos, excombatientes, madres buscadoras, niñas, niños, líderes sociales y espíritus de la selva para dar voz a las historias que han marcado este territorio.&lt;/p&gt;&lt;p&gt;La obra propone &lt;strong&gt;una reflexión sobre las huellas de la violencia, el papel de las voces femeninas en el conflicto y la relación de las comunidades con la tierra&lt;/strong&gt;. Así, el arte se convierte en un espacio para reconocer las memorias silenciadas, fortalecer los vínculos colectivos y reivindicar la memoria histórica como un acto de resistencia y construcción de paz.&lt;/p&gt;</content>
 </entry>
 <entry>
-  <title>El firmamento está lleno de fantasmas [Obra]</title>
-  <link href="https://www.idartes.gov.co/es/agenda/obra/el-firmamento-esta-lleno-de-fantasmas"/>
-  <id>https://www.idartes.gov.co/es/agenda/obra/el-firmamento-esta-lleno-de-fantasmas</id>
-  <published>2026-11-04T19:00:00-05:00</published>
-  <updated>2026-11-04T19:00:00-05:00</updated>
-  <link rel="enclosure" type="image/png" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-161507.png?itok=Qw4PLkQa"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-161507.png?itok=Qw4PLkQa" medium="image"/>
-  <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-161507.png?itok=Qw4PLkQa"/>
-  <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-161507.png?itok=Qw4PLkQa</webfeeds:featuredImage>
-  <summary>Cabra Producciones presenta esta obra sobre las heridas emocionales y los vínculos familiares, como parte del Circuito de Estrenos Ciudad Escenario 2026.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-161507.png?itok=Qw4PLkQa" style="max-width: 100%; height: auto; border-radius: 6px;" alt="El firmamento está lleno de fantasmas [Obra]" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 14px;"&gt;&lt;strong&gt;Cabra Producciones presenta esta obra sobre las heridas emocionales y los vínculos familiares, como parte del Circuito de Estrenos Ciudad Escenario 2026.&lt;/strong&gt;&lt;/p&gt;
-&lt;div style="background-color: #f8f9fa; border: 1px solid #e9ecef; border-left: 4px solid #b31b1b; border-radius: 4px; padding: 12px 14px; margin: 16px 0;"&gt;&lt;div style="font-size: 0.85em; text-transform: uppercase; font-weight: bold; letter-spacing: 0.5px; color: #b31b1b; margin-bottom: 8px;"&gt;Ficha técnica&lt;/div&gt;&lt;table style="width: 100%; border-collapse: collapse; font-size: 0.93em; line-height: 1.4;"&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Lugar:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;Teatro La Candelaria&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Fecha / Horario:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;4 Nov&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Entrada:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;Entrada con costo&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
-&lt;p data-pm-slice="1 1 []"&gt;Jair, un joven afrodescendiente de 17 años que vive en un barrio popular de Cali junto a su madre, Ruby, y su hermana adoptiva, Maia, descubre a René, un extraterrestre herido. Este encuentro inesperado los lleva a confrontar sus propios fantasmas, relacionados con la depresión, el abandono y el miedo.&lt;/p&gt;&lt;p&gt;La obra hace parte del Circuito de Estrenos Ciudad Escenario 2026, en la categoría Beca de Creación Bogotá, Ciudad Escenario – Corta trayectoria.&lt;/p&gt;&lt;p data-pm-slice="1 1 []"&gt;Fechas: 4, 5, 6 y 7 de noviembre de 2026&lt;br&gt;Hora: 7:30 p. m.&lt;/p&gt;&lt;p data-pm-slice="1 1 []"&gt;Público: Mayores de 12 años&lt;br&gt;Boletería en la taquilla del teatro.&lt;/p&gt;</content>
+  <title>El Consuelo [Obra]</title>
+  <link href="https://www.idartes.gov.co/es/agenda/obra/el-consuelo"/>
+  <id>https://www.idartes.gov.co/es/agenda/obra/el-consuelo</id>
+  <published>2026-11-05T19:00:00-05:00</published>
+  <updated>2026-11-05T19:00:00-05:00</updated>
+  <link rel="enclosure" type="image/png" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-162914.png?itok=Gt5o7YtM"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-162914.png?itok=Gt5o7YtM" medium="image" type="image/png"/>
+  <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-162914.png?itok=Gt5o7YtM"/>
+  <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-162914.png?itok=Gt5o7YtM</webfeeds:featuredImage>
+  <summary>Bacatá Producciones aborda las consecuencias de la violencia en una familia campesina, en la programación del Circuito de Estrenos Ciudad Escenario 2026.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/Captura-de-pantalla-2026-10-28-162914.png?itok=Gt5o7YtM" style="max-width: 100%; height: auto; border-radius: 6px;" alt="El Consuelo [Obra]" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 14px;"&gt;&lt;strong&gt;Bacatá Producciones aborda las consecuencias de la violencia en una familia campesina, en la programación del Circuito de Estrenos Ciudad Escenario 2026.&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="background-color: #f8f9fa; border: 1px solid #e9ecef; border-left: 4px solid #b31b1b; border-radius: 4px; padding: 12px 14px; margin: 16px 0;"&gt;&lt;div style="font-size: 0.85em; text-transform: uppercase; font-weight: bold; letter-spacing: 0.5px; color: #b31b1b; margin-bottom: 8px;"&gt;Ficha técnica&lt;/div&gt;&lt;table style="width: 100%; border-collapse: collapse; font-size: 0.93em; line-height: 1.4;"&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Lugar:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;Teatro Factoría L’explose&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Fecha / Horario:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;5 Nov&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style="padding: 6px 12px; font-weight: bold; color: #555;"&gt;Entrada:&lt;/td&gt;&lt;td style="padding: 6px 12px;"&gt;Entrada con costo&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p data-pm-slice="1 1 []"&gt;&lt;span&gt;Rosa vive con sus hijos, Jorge y Alfredo, y su hermano José, dedicados al trabajo del campo. La llegada de la violencia a su entorno, junto con los robos y las amenazas, lleva a la familia a discutir si debe armarse para defenderse. Las distintas posiciones frente a esta decisión ponen a prueba sus relaciones y su unidad.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;La obra hace parte del Circuito de Estrenos Ciudad Escenario 2026, en la categoría Beca de Creación Bogotá, Ciudad Escenario – Corta trayectoria.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;Fechas:&lt;/strong&gt; 5, 6 y 7 de noviembre de 2026&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;strong&gt;Hora:&lt;/strong&gt; 7:30 p. m.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Entradas en las taquillas del teatro&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>César López presenta 'Hasta que amemos la vida' [Concierto]</title>
@@ -139,7 +139,7 @@
   <published>2026-11-03T19:00:00-05:00</published>
   <updated>2026-11-03T19:00:00-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/cesar-1.jpg?itok=zkQRV2oj"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/cesar-1.jpg?itok=zkQRV2oj" medium="image"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/cesar-1.jpg?itok=zkQRV2oj" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/cesar-1.jpg?itok=zkQRV2oj"/>
   <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/cesar-1.jpg?itok=zkQRV2oj</webfeeds:featuredImage>
   <summary>Un concierto por la defensa de la vida en todas sus formas</summary>
@@ -155,7 +155,7 @@
   <published>2026-10-30T19:00:00-05:00</published>
   <updated>2026-10-30T19:00:00-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/dictado.jpg?itok=MhWM76D1"/>
-  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/dictado.jpg?itok=MhWM76D1" medium="image"/>
+  <media:content url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/dictado.jpg?itok=MhWM76D1" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/dictado.jpg?itok=MhWM76D1"/>
   <webfeeds:featuredImage>https://www.idartes.gov.co/sites/default/files/styles/900_x_530/public/imagenes-eventos/dictado.jpg?itok=MhWM76D1</webfeeds:featuredImage>
   <summary>Dos hermanas construyen una ficción para ocultar una dolorosa verdad en una obra que explora el trauma, la mentira y el deseo de vivir</summary>

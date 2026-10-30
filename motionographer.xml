@@ -11,7 +11,7 @@
   <published>2026-10-22T14:12:23+00:00</published>
   <updated>2026-10-22T14:12:23+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg"/>
-  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg" medium="image"/>
+  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg"/>
   <webfeeds:featuredImage>https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg</webfeeds:featuredImage>
   <summary>François Chatelain , working as F&amp;C ai Lab, gives a familiar piece of design-world placeholder text its own hip-hop video. Lorem Ipsum Rap builds an AI-generated animated clip around “Lorem Ipsum / Dolor Sit Amet,” turning words usually left in the background into the song’s cent...</summary>
@@ -42,7 +42,7 @@
   <published>2026-10-21T13:55:25+00:00</published>
   <updated>2026-10-21T13:55:25+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://s35726.pcdn.co/wp-content/uploads/2026/10/food-forest-ketelbroek.png"/>
-  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/food-forest-ketelbroek.png" medium="image"/>
+  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/food-forest-ketelbroek.png" medium="image" type="image/png"/>
   <media:thumbnail url="https://s35726.pcdn.co/wp-content/uploads/2026/10/food-forest-ketelbroek.png"/>
   <webfeeds:featuredImage>https://s35726.pcdn.co/wp-content/uploads/2026/10/food-forest-ketelbroek.png</webfeeds:featuredImage>
   <summary>“Where a forest becomes food.” Freek Freriks combines animation and VFX in Houdini to tell the story of Ketelbroek, a food forest in the Netherlands carefully designed to produce food. The 33-second film introduces the project and its mission. Food Forest – Ketelbroek. Image cour...</summary>
@@ -65,7 +65,7 @@ Voice-over: &lt;a href="https://www.houseofhalo.com/voice-over"&gt;Erik van der 
   <published>2026-10-21T11:36:40+00:00</published>
   <updated>2026-10-21T11:36:40+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jSg_lE_VRjo/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/jSg_lE_VRjo/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/jSg_lE_VRjo/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/jSg_lE_VRjo/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/jSg_lE_VRjo/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Editor’s note: Our OFFF Barcelona 2026 conversations continue. Following Onur Senturk on the compulsion to create , Tim Thompson of RevThink sits down with Sakurako “Saka” Naka of teamLab, the Tokyo art collective behind Borderless and Phenomena, the morning after her talk on the...</summary>
@@ -145,11 +145,11 @@ Voice-over: &lt;a href="https://www.houseofhalo.com/voice-over"&gt;Erik van der 
   <published>2026-10-20T14:07:01+00:00</published>
   <updated>2026-10-20T14:07:01+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&amp;quality=80&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&amp;quality=80&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&amp;quality=80&amp;ssl=1" medium="image" type="image/png"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&amp;quality=80&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&amp;quality=80&amp;ssl=1</webfeeds:featuredImage>
   <summary>Córdoba-based graphic designer Jose Manuel Fernández has launched Sekondo, a plugin that connects ChatGPT and Claude to six Adobe applications: After Effects, Premiere Pro, Photoshop, Illustrator, InDesign and Lightroom Classic. Instead of generating new images or clips, the AI w...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p&gt;Córdoba-based graphic designer Jose Manuel Fernández has launched Sekondo, a plugin that connects ChatGPT and Claude to six Adobe applications: After Effects, Premiere Pro, Photoshop, Illustrator, InDesign and Lightroom Classic.&lt;/p&gt;
 &lt;p&gt;Instead of generating new images or clips, the AI works inside the artist&amp;#8217;s own project. You describe what you need, typed or spoken, and it applies the changes to your layers, keyframes, compositions and timelines, with everything left editable.&lt;br /&gt;
@@ -178,11 +178,11 @@ Voice-over: &lt;a href="https://www.houseofhalo.com/voice-over"&gt;Erik van der 
   <published>2026-10-19T22:52:07+00:00</published>
   <updated>2026-10-19T22:52:07+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/CleanShot-2026-10-19-at-6.53.01-PM%402x-scaled.png?fit=1200%2C532&amp;quality=80&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/CleanShot-2026-10-19-at-6.53.01-PM%402x-scaled.png?fit=1200%2C532&amp;quality=80&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/CleanShot-2026-10-19-at-6.53.01-PM%402x-scaled.png?fit=1200%2C532&amp;quality=80&amp;ssl=1" medium="image" type="image/png"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/CleanShot-2026-10-19-at-6.53.01-PM%402x-scaled.png?fit=1200%2C532&amp;quality=80&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/CleanShot-2026-10-19-at-6.53.01-PM%402x-scaled.png?fit=1200%2C532&amp;quality=80&amp;ssl=1</webfeeds:featuredImage>
   <summary>ROVE has launched a new brand identity and website, reflecting its evolution from a two-person live-action shop into a design, animation and motion-led creative studio. The launch also marks its signing with Ashley McKim Consulting for strategic sales and marketing across brands ...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/CleanShot-2026-10-19-at-6.53.01-PM%402x-scaled.png?fit=1200%2C532&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/CleanShot-2026-10-19-at-6.53.01-PM%402x-scaled.png?fit=1200%2C532&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;a href="https://www.rovebeyond.com/"&gt;ROVE&lt;/a&gt; has launched a new brand identity and website, reflecting its evolution from a two-person live-action shop into a design, animation and motion-led creative studio. The launch also marks its signing with &lt;a href="https://www.ashleymckim.com/"&gt;Ashley McKim Consulting&lt;/a&gt; for strategic sales and marketing across brands and agencies.&lt;/p&gt;
 
@@ -243,7 +243,7 @@ Voice-over: &lt;a href="https://www.houseofhalo.com/voice-over"&gt;Erik van der 
   <published>2026-10-19T12:37:51+00:00</published>
   <updated>2026-10-19T12:37:51+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://s35726.pcdn.co/wp-content/uploads/2026/10/The-Continuous-Thread-Tomakti-cosmos.png"/>
-  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/The-Continuous-Thread-Tomakti-cosmos.png" medium="image"/>
+  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/The-Continuous-Thread-Tomakti-cosmos.png" medium="image" type="image/png"/>
   <media:thumbnail url="https://s35726.pcdn.co/wp-content/uploads/2026/10/The-Continuous-Thread-Tomakti-cosmos.png"/>
   <webfeeds:featuredImage>https://s35726.pcdn.co/wp-content/uploads/2026/10/The-Continuous-Thread-Tomakti-cosmos.png</webfeeds:featuredImage>
   <summary>Tomakti Studio traces a path from the birth of the universe to a quiet human moment in The Continuous Thread , a film created by Dimitrios Sakkas . Beginning with the Big Bang, the film moves through the turbulence of forming worlds toward the living landscapes of Earth. Glowing ...</summary>
@@ -266,7 +266,7 @@ Voice-over: &lt;a href="https://www.houseofhalo.com/voice-over"&gt;Erik van der 
   <published>2026-10-16T14:10:28+00:00</published>
   <updated>2026-10-16T14:10:28+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://s35726.pcdn.co/wp-content/uploads/2026/10/Hypersail-FutureDeluxe-026-scaled.jpg"/>
-  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/Hypersail-FutureDeluxe-026-scaled.jpg" medium="image"/>
+  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/Hypersail-FutureDeluxe-026-scaled.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://s35726.pcdn.co/wp-content/uploads/2026/10/Hypersail-FutureDeluxe-026-scaled.jpg"/>
   <webfeeds:featuredImage>https://s35726.pcdn.co/wp-content/uploads/2026/10/Hypersail-FutureDeluxe-026-scaled.jpg</webfeeds:featuredImage>
   <summary>FutureDeluxe takes Ferrari from the racetrack to the water in Hypersail , the official livery launch film created for Milan Design Week 2026. Working directly with Ferrari before the vessel was built, the studio developed its materials, textures and livery in close collaboration ...</summary>
@@ -293,7 +293,7 @@ Voice-over: &lt;a href="https://www.houseofhalo.com/voice-over"&gt;Erik van der 
   <published>2026-10-14T13:01:08+00:00</published>
   <updated>2026-10-14T13:01:08+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://s35726.pcdn.co/wp-content/uploads/2026/10/What-Is-Dyslexia-ArtGraft-D_029.jpg"/>
-  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/What-Is-Dyslexia-ArtGraft-D_029.jpg" medium="image"/>
+  <media:content url="https://s35726.pcdn.co/wp-content/uploads/2026/10/What-Is-Dyslexia-ArtGraft-D_029.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://s35726.pcdn.co/wp-content/uploads/2026/10/What-Is-Dyslexia-ArtGraft-D_029.jpg"/>
   <webfeeds:featuredImage>https://s35726.pcdn.co/wp-content/uploads/2026/10/What-Is-Dyslexia-ArtGraft-D_029.jpg</webfeeds:featuredImage>
   <summary>Art&amp;Graft brings a vivid, painterly world to What Is Dyslexia? , a short film directed by Kyra Bartley for Made By Dyslexia . Created with Clemenger BBDO and FINCH , it sets out to change what children and parents encounter when they search for dyslexia online. The story follows ...</summary>
@@ -350,11 +350,11 @@ Voice-over: &lt;a href="https://www.houseofhalo.com/voice-over"&gt;Erik van der 
   <published>2026-10-13T12:46:23+00:00</published>
   <updated>2026-10-13T12:46:23+00:00</updated>
   <link rel="enclosure" type="image/gif" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/tim-thompson-portrait-loop-bw-v3-deeper-vignette.gif?fit=720%2C720&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/tim-thompson-portrait-loop-bw-v3-deeper-vignette.gif?fit=720%2C720&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/tim-thompson-portrait-loop-bw-v3-deeper-vignette.gif?fit=720%2C720&amp;ssl=1" medium="image" type="image/gif"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/tim-thompson-portrait-loop-bw-v3-deeper-vignette.gif?fit=720%2C720&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/tim-thompson-portrait-loop-bw-v3-deeper-vignette.gif?fit=720%2C720&amp;ssl=1</webfeeds:featuredImage>
   <summary>Editor’s Note: In the years I’ve known Tim, he has become a dear friend, an advisor to Motionographer, and someone I feel lucky to have in my corner. We talk every week, and I rarely hang up without something new to think about: an insight that helps an idea take shape, a questio...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/tim-thompson-portrait-loop-bw-v3-deeper-vignette.gif?fit=720%2C720&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/tim-thompson-portrait-loop-bw-v3-deeper-vignette.gif?fit=720%2C720&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Editor’s Note:&lt;/strong&gt; In the years I’ve known Tim, he has become a dear friend, an advisor to Motionographer, and someone I feel lucky to have in my corner. We talk every week, and I rarely hang up without something new to think about: an insight that helps an idea take shape, a question I hadn’t thought to ask, or a reminder that I don’t need to add one more thing to an already long list.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;There is laughter, too. I love his sense of humor, and the kindness behind his support warms my heart. He makes me feel that the person carrying all those ideas matters as much as the ideas themselves.&lt;/em&gt;&lt;/p&gt;
@@ -449,11 +449,11 @@ Voice-over: &lt;a href="https://www.houseofhalo.com/voice-over"&gt;Erik van der 
   <published>2026-10-12T15:31:04+00:00</published>
   <updated>2026-10-12T15:31:04+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/renderjuice-speed-blender-animation-contest-2026.png?fit=1200%2C630&amp;quality=80&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/renderjuice-speed-blender-animation-contest-2026.png?fit=1200%2C630&amp;quality=80&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/renderjuice-speed-blender-animation-contest-2026.png?fit=1200%2C630&amp;quality=80&amp;ssl=1" medium="image" type="image/png"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/renderjuice-speed-blender-animation-contest-2026.png?fit=1200%2C630&amp;quality=80&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/renderjuice-speed-blender-animation-contest-2026.png?fit=1200%2C630&amp;quality=80&amp;ssl=1</webfeeds:featuredImage>
   <summary>RenderJuice has announced Speed , a free Blender animation contest inviting artists to create a 5–30 second animation around the theme of speed. Co-hosted with artist Florin Flammer, the contest offers $5,000 in total prize value: $1,500 in cash and $3,500 in RenderJuice renderin...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/renderjuice-speed-blender-animation-contest-2026.png?fit=1200%2C630&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/renderjuice-speed-blender-animation-contest-2026.png?fit=1200%2C630&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;a href="https://www.renderjuice.com/contests/speed"&gt;RenderJuice has announced Speed&lt;/a&gt;, a free Blender animation contest inviting artists to create a 5–30 second animation around the theme of speed. Co-hosted with artist Florin Flammer, the contest offers $5,000 in total prize value: $1,500 in cash and $3,500 in RenderJuice rendering credits.&lt;/p&gt;
 
@@ -495,11 +495,11 @@ Submissions open October 15, 2026 at 00:00 UTC and close October 31 at 23:59 UTC
   <published>2026-10-08T12:39:58+00:00</published>
   <updated>2026-10-08T12:39:58+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/stash-state-of-motion-survey-2026.png?fit=960%2C540&amp;quality=80&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/stash-state-of-motion-survey-2026.png?fit=960%2C540&amp;quality=80&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/stash-state-of-motion-survey-2026.png?fit=960%2C540&amp;quality=80&amp;ssl=1" medium="image" type="image/png"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/stash-state-of-motion-survey-2026.png?fit=960%2C540&amp;quality=80&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/stash-state-of-motion-survey-2026.png?fit=960%2C540&amp;quality=80&amp;ssl=1</webfeeds:featuredImage>
   <summary>What has working in Motion Design felt like this year? Stash is inviting artists, studios and production teams to share their experiences through the State of Motion Survey 2026 , presented by Stash in association with Motionographer. Official State of Motion Survey 2026 promotio...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/stash-state-of-motion-survey-2026.png?fit=960%2C540&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/stash-state-of-motion-survey-2026.png?fit=960%2C540&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;What has working in Motion Design felt like this year? Stash is inviting artists, studios and production teams to share their experiences through the &lt;a href="https://forms.gle/xvLeDMNKpYg5vjDi6"&gt;State of Motion Survey 2026&lt;/a&gt;, presented by Stash in association with Motionographer.&lt;/p&gt;
 
@@ -533,11 +533,11 @@ The survey looks at the challenges and rewards of working in Motion Design and a
   <published>2026-10-07T14:03:58+00:00</published>
   <updated>2026-10-07T14:03:58+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&amp;quality=80&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&amp;quality=80&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&amp;quality=80&amp;ssl=1" medium="image" type="image/png"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&amp;quality=80&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&amp;quality=80&amp;ssl=1</webfeeds:featuredImage>
   <summary>Revolve, RevThink’s six-week accelerator for studio owners and creative business leaders. Image: RevThink. " data-large-file="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=700%2C248&amp;quality=80&amp;ssl=1" class="wp-image-9232...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;figure class="wp-block-image size-full"&gt;&lt;img data-recalc-dims="1" fetchpriority="high" decoding="async" width="850" height="301" data-attachment-id="92326" data-permalink="https://motionographer.com/revthink-revolve-accelerator-2026/" data-orig-file="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1920%2C680&amp;amp;quality=80&amp;amp;ssl=1" data-orig-size="1920,680" data-comments-opened="0" data-image-title="RevThink Revolve Accelerator" data-image-description="" data-image-caption="&amp;lt;p&amp;gt;Revolve, RevThink’s six-week accelerator for studio owners and creative business leaders. Image: RevThink.&amp;lt;/p&amp;gt;
 " data-large-file="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=700%2C248&amp;amp;quality=80&amp;amp;ssl=1" class="wp-image-92326" src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?resize=850%2C301&amp;#038;quality=80&amp;#038;ssl=1" alt="Revolve artwork reading Shift Your Worldview, Shift Your Business beside a yellow rotating symbol." srcset="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?w=1920&amp;amp;quality=80&amp;amp;ssl=1 1920w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?resize=250%2C89&amp;amp;quality=80&amp;amp;ssl=1 250w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?resize=700%2C248&amp;amp;quality=80&amp;amp;ssl=1 700w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?resize=768%2C272&amp;amp;quality=80&amp;amp;ssl=1 768w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?resize=1536%2C544&amp;amp;quality=80&amp;amp;ssl=1 1536w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?resize=850%2C301&amp;amp;quality=80&amp;amp;ssl=1 850w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?w=1700&amp;amp;quality=80&amp;amp;ssl=1 1700w" sizes="(max-width: 850px) 100vw, 850px" /&gt;
@@ -580,11 +580,11 @@ The survey looks at the challenges and rewards of working in Motion Design and a
   <published>2026-10-07T11:54:42+00:00</published>
   <updated>2026-10-07T11:54:42+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/monumental-fx-modern-post-partnership.png?fit=1200%2C750&amp;quality=80&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/monumental-fx-modern-post-partnership.png?fit=1200%2C750&amp;quality=80&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/monumental-fx-modern-post-partnership.png?fit=1200%2C750&amp;quality=80&amp;ssl=1" medium="image" type="image/png"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/monumental-fx-modern-post-partnership.png?fit=1200%2C750&amp;quality=80&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/monumental-fx-modern-post-partnership.png?fit=1200%2C750&amp;quality=80&amp;ssl=1</webfeeds:featuredImage>
   <summary>Monumental FX , the Paris-based visual effects and 3D animation studio, has established a US presence through a non-exclusive partnership with Modern Post . Announced on September 21, the agreement gives Monumental a US home base, with Modern Post providing local workflow, projec...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/monumental-fx-modern-post-partnership.png?fit=1200%2C750&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/monumental-fx-modern-post-partnership.png?fit=1200%2C750&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;a href="https://www.monumental.art/"&gt;Monumental FX&lt;/a&gt;, the Paris-based visual effects and 3D animation studio, has established a US presence through a non-exclusive partnership with &lt;a href="https://modernpost.com/"&gt;Modern Post&lt;/a&gt;. Announced on September 21, the agreement gives Monumental a US home base, with Modern Post providing local workflow, project management and finishing support for its American clients and agencies.&lt;/p&gt;
 
@@ -625,11 +625,11 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-10-02T15:23:57+00:00</published>
   <updated>2026-10-02T15:23:57+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BusyBodies_02.jpg?fit=1200%2C900&amp;quality=89&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BusyBodies_02.jpg?fit=1200%2C900&amp;quality=89&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BusyBodies_02.jpg?fit=1200%2C900&amp;quality=89&amp;ssl=1" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BusyBodies_02.jpg?fit=1200%2C900&amp;quality=89&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BusyBodies_02.jpg?fit=1200%2C900&amp;quality=89&amp;ssl=1</webfeeds:featuredImage>
   <summary>Kate Renshaw-Lewis’s Busy Bodies is a 2D, hand-drawn animated short that combines screen printing and inkjet printing. The independent film was an official selection at the 2026 Sundance Film Festival and won the Animated Shorts Grand Jury Prize at the 2026 Slamdance Film Festiva...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BusyBodies_02.jpg?fit=1200%2C900&amp;amp;quality=89&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BusyBodies_02.jpg?fit=1200%2C900&amp;amp;quality=89&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p&gt;Kate Renshaw-Lewis’s &lt;em&gt;Busy Bodies&lt;/em&gt; is a 2D, hand-drawn animated short that combines screen printing and inkjet printing.&lt;/p&gt;
 &lt;p&gt;&lt;iframe title="Busy Bodies" src="https://player.vimeo.com/video/1224458759?dnt=1&amp;amp;app_id=122963" width="850" height="638" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin"&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -644,7 +644,7 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-10-01T21:10:38+00:00</published>
   <updated>2026-10-01T21:10:38+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g5OY1nL2DzE/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/g5OY1nL2DzE/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/g5OY1nL2DzE/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/g5OY1nL2DzE/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/g5OY1nL2DzE/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Brooklyn filmmaker Anthony Koithra ’s debut original animated short, Machines Learning , premieres this October at NYC Indie Shorts Awards, Newport Beach Film Festival, and the Oscar-qualifying San Jose International Short Film Festival. The darkly comic film follows a bullying f...</summary>
@@ -718,11 +718,11 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-10-01T19:51:43+00:00</published>
   <updated>2026-10-01T19:51:43+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&amp;quality=80&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&amp;quality=80&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&amp;quality=80&amp;ssl=1" medium="image" type="image/png"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&amp;quality=80&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&amp;quality=80&amp;ssl=1</webfeeds:featuredImage>
   <summary>Generative AI is rapidly moving from experimentation into professional animation and commercial production. For studios, agencies and brands, the opportunity is significant. Work that once required lengthy technical processes can now be explored, developed and refined in entirely...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Generative AI is rapidly moving from experimentation into professional animation and commercial production. For studios, agencies and brands, the opportunity is significant. Work that once required lengthy technical processes can now be explored, developed and refined in entirely new ways.&lt;/p&gt;
 
@@ -769,7 +769,7 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-10-01T17:00:03+00:00</published>
   <updated>2026-10-01T17:00:03+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NPYXkP1Fb1I/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/NPYXkP1Fb1I/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/NPYXkP1Fb1I/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/NPYXkP1Fb1I/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/NPYXkP1Fb1I/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>The Bayeux Tapestry arrived in the UK in September, on display at the British Museum for the first time in almost a thousand years. Ahead of what became the most in-demand exhibition in the Museum’s history, the British Museum commissioned Hocus Pocus Studio to make three animate...</summary>
@@ -800,7 +800,7 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-09-29T11:37:36+00:00</published>
   <updated>2026-09-29T11:37:36+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&amp;quality=89&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&amp;quality=89&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&amp;quality=89&amp;ssl=1" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&amp;quality=89&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&amp;quality=89&amp;ssl=1</webfeeds:featuredImage>
   <summary>Editor’s Note: This Studio Story was reported the way most of our lives now happen: on a screen, between New York and Montreal. One long conversation over Zoom at the end of August, recorded, followed by a written questionnaire that Stefanie Bitton answered in her own voice and a...</summary>
@@ -944,7 +944,7 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-09-28T15:00:18+00:00</published>
   <updated>2026-09-28T15:00:18+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eCk5VFKKz08/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/eCk5VFKKz08/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/eCk5VFKKz08/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/eCk5VFKKz08/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/eCk5VFKKz08/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Pixar alum Connie He on turning insomnia into a six-minute short, tuning a model to her own concept art, and what it took for animators and researchers to speak the same language. Editor’s note: Dear Upstairs Neighbors had its world premiere as part of Whoopi’s Wonderful World of...</summary>
@@ -1040,11 +1040,11 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-09-25T01:03:14+00:00</published>
   <updated>2026-09-25T01:03:14+00:00</updated>
   <link rel="enclosure" type="image/gif" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/motionographer-20-mamacita-featured.gif?fit=600%2C400&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/motionographer-20-mamacita-featured.gif?fit=600%2C400&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/motionographer-20-mamacita-featured.gif?fit=600%2C400&amp;ssl=1" medium="image" type="image/gif"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/motionographer-20-mamacita-featured.gif?fit=600%2C400&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/motionographer-20-mamacita-featured.gif?fit=600%2C400&amp;ssl=1</webfeeds:featuredImage>
   <summary>Motionographer’s 20th celebrations continue this Saturday, and we’d love you there. We’re starting at Motion Plus Design New York in Brooklyn, then heading to Mamacita at Deluxx Fluxx under Webster Hall to celebrate into the night. The free party tickets were snapped up on Wednes...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/motionographer-20-mamacita-featured.gif?fit=600%2C400&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/motionographer-20-mamacita-featured.gif?fit=600%2C400&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p&gt;Motionographer&amp;#8217;s 20th celebrations continue this Saturday, and we&amp;#8217;d love you there. We&amp;#8217;re starting at Motion Plus Design New York in Brooklyn, then heading to Mamacita at Deluxx Fluxx under Webster Hall to celebrate into the night.&lt;/p&gt;
 &lt;p&gt;The free party tickets were snapped up on Wednesday, but you can still join us. Paid general admission is available on &lt;a href="https://dice.fm/event/bbg5bm-mamacita-a-latinhip-hop-party-26th-sep-deluxx-fluxx-new-york-city-tickets" target="_blank" rel="noopener"&gt;DICE&lt;/a&gt;, and a few seats remain at &lt;a href="https://www.eventbrite.com/e/1997860810465/?discount=MOTIONOGRAPHER" target="_blank" rel="noopener"&gt;Motion Plus Design&lt;/a&gt;.&lt;/p&gt;
@@ -1077,11 +1077,11 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-09-23T16:48:28+00:00</published>
   <updated>2026-09-23T16:48:28+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?fit=1200%2C425&amp;quality=80&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?fit=1200%2C425&amp;quality=80&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?fit=1200%2C425&amp;quality=80&amp;ssl=1" medium="image" type="image/png"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?fit=1200%2C425&amp;quality=80&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?fit=1200%2C425&amp;quality=80&amp;ssl=1</webfeeds:featuredImage>
   <summary>AI didn’t arrive yesterday. Clients didn’t wake up this morning and decide they could do more themselves, and the value of creative work didn’t change overnight. But it is easy to get comfortable with where the work has always come from, what clients have always paid for, and wha...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?fit=1200%2C425&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?fit=1200%2C425&amp;amp;quality=80&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;img data-recalc-dims="1" fetchpriority="high" decoding="async" data-attachment-id="92232" data-permalink="https://motionographer.com/news/who-moved-my-work-tim-thompson-on-revthinks-the-weekly-briefing/rim-revthink/" data-orig-file="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?fit=1920%2C680&amp;amp;quality=80&amp;amp;ssl=1" data-orig-size="1920,680" data-comments-opened="0" data-image-title="rim revthink" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?fit=700%2C248&amp;amp;quality=80&amp;amp;ssl=1" class="aligncenter size-full wp-image-92232" src="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?resize=850%2C301&amp;#038;quality=80&amp;#038;ssl=1" alt="" width="850" height="301" srcset="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?w=1920&amp;amp;quality=80&amp;amp;ssl=1 1920w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?resize=250%2C89&amp;amp;quality=80&amp;amp;ssl=1 250w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?resize=700%2C248&amp;amp;quality=80&amp;amp;ssl=1 700w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?resize=768%2C272&amp;amp;quality=80&amp;amp;ssl=1 768w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?resize=1536%2C544&amp;amp;quality=80&amp;amp;ssl=1 1536w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?resize=850%2C301&amp;amp;quality=80&amp;amp;ssl=1 850w, https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/rim-revthink.png?w=1700&amp;amp;quality=80&amp;amp;ssl=1 1700w" sizes="(max-width: 850px) 100vw, 850px" /&gt;
 &lt;p&gt;AI didn&amp;#8217;t arrive yesterday. Clients didn&amp;#8217;t wake up this morning and decide they could do more themselves, and the value of creative work didn&amp;#8217;t change overnight. But it is easy to get comfortable with where the work has always come from, what clients have always paid for, and what studios have always been hired to do. Until one day, you look up and the work has moved.&lt;br /&gt;
@@ -1102,7 +1102,7 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-09-18T12:40:33+00:00</published>
   <updated>2026-09-18T12:40:33+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/MD_NYC_2025_01-scaled.jpg?w=850&amp;quality=89&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/MD_NYC_2025_01-scaled.jpg?w=850&amp;quality=89&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/MD_NYC_2025_01-scaled.jpg?w=850&amp;quality=89&amp;ssl=1" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/MD_NYC_2025_01-scaled.jpg?w=850&amp;quality=89&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/MD_NYC_2025_01-scaled.jpg?w=850&amp;quality=89&amp;ssl=1</webfeeds:featuredImage>
   <summary>Motionographer turns 20 this year. Twenty years, no ads, no sponsors, one publication pointing at the work and the people who make it. We are not going to mark it with a retrospective. We are going to mark it the way this community marks anything worth marking: in a room, with th...</summary>
@@ -1163,7 +1163,7 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2026-09-17T11:53:24+00:00</published>
   <updated>2026-09-17T11:53:24+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xjlKnDWZYzc/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/xjlKnDWZYzc/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/xjlKnDWZYzc/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/xjlKnDWZYzc/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/xjlKnDWZYzc/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Sharon Maguire, Renée Zellweger, and moderator H. Alan Scott at the 25th anniversary screening of Bridget Jones’s Diary, Tribeca Festival 2026. Photo: Jesse Rylander Sharon Maguire finished the dub on Bridget Jones’s Diary minutes before it started screening for critics. She wasn...</summary>
@@ -1213,11 +1213,11 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2025-12-09T01:31:05+00:00</published>
   <updated>2025-12-09T01:31:05+00:00</updated>
   <link rel="enclosure" type="image/gif" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2025/12/les_83_machinesforgif-ezgif.com-optimize.gif?fit=600%2C338&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2025/12/les_83_machinesforgif-ezgif.com-optimize.gif?fit=600%2C338&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2025/12/les_83_machinesforgif-ezgif.com-optimize.gif?fit=600%2C338&amp;ssl=1" medium="image" type="image/gif"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2025/12/les_83_machinesforgif-ezgif.com-optimize.gif?fit=600%2C338&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2025/12/les_83_machinesforgif-ezgif.com-optimize.gif?fit=600%2C338&amp;ssl=1</webfeeds:featuredImage>
   <summary>Video by Les 83 Machines Celebrating the Visionaries Shaping the Future of Motion Design Each year, The Motion Awards shines a light on the artists and studios pushing our industry forward, the ones who remind us that Motion Design is not only a craft, but a language of imaginati...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2025/12/les_83_machinesforgif-ezgif.com-optimize.gif?fit=600%2C338&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2025/12/les_83_machinesforgif-ezgif.com-optimize.gif?fit=600%2C338&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;div class="video-caption"&gt;
 &lt;div id="v-fNjKtjz8-1" class="video-player"&gt;&lt;iframe title='VideoPress Video Player' aria-label='VideoPress Video Player' width='850' height='478' src='https://videopress.com/embed/fNjKtjz8?hd=1&amp;amp;cover=1&amp;amp;loop=1&amp;amp;autoPlay=0&amp;amp;permalink=0&amp;amp;muted=0&amp;amp;controls=1&amp;amp;playsinline=0&amp;amp;useAverageColor=0&amp;amp;preloadContent=metadata' frameborder='0' allowfullscreen data-resize-to-parent="true" allow='clipboard-write; presentation'&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -1259,11 +1259,11 @@ The two companies are already collaborators. Their shared projects include Madon
   <published>2024-10-07T19:45:39+00:00</published>
   <updated>2024-10-07T19:45:39+00:00</updated>
   <link rel="enclosure" type="image/gif" href="https://i0.wp.com/motionographer.com/wp-content/uploads/2024/10/Ainspiration_green-ezgif.com-video-to-gif-converter-1.gif?fit=640%2C361&amp;ssl=1"/>
-  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2024/10/Ainspiration_green-ezgif.com-video-to-gif-converter-1.gif?fit=640%2C361&amp;ssl=1" medium="image"/>
+  <media:content url="https://i0.wp.com/motionographer.com/wp-content/uploads/2024/10/Ainspiration_green-ezgif.com-video-to-gif-converter-1.gif?fit=640%2C361&amp;ssl=1" medium="image" type="image/gif"/>
   <media:thumbnail url="https://i0.wp.com/motionographer.com/wp-content/uploads/2024/10/Ainspiration_green-ezgif.com-video-to-gif-converter-1.gif?fit=640%2C361&amp;ssl=1"/>
   <webfeeds:featuredImage>https://i0.wp.com/motionographer.com/wp-content/uploads/2024/10/Ainspiration_green-ezgif.com-video-to-gif-converter-1.gif?fit=640%2C361&amp;ssl=1</webfeeds:featuredImage>
   <summary>We’re absolutely thrilled to introduce our new initiative .A.inspiration. Film full made by 13 years old Ivan Rivera AI: the most Important invention of humanity, or the last. Yuval Noah Harari With the birth of Motionographer , a new era in the Motion Design industry began. Moti...</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2024/10/Ainspiration_green-ezgif.com-video-to-gif-converter-1.gif?fit=640%2C361&amp;amp;ssl=1" style="max-width:100%; height:auto;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://i0.wp.com/motionographer.com/wp-content/uploads/2024/10/Ainspiration_green-ezgif.com-video-to-gif-converter-1.gif?fit=640%2C361&amp;amp;ssl=1" style="max-width:100%; height:auto;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
 
 &lt;p class="p1"&gt;&lt;em&gt;We’re absolutely thrilled to introduce our new initiative &lt;strong&gt;.A.inspiration.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;iframe title=".A.inspiration" src="https://player.vimeo.com/video/1017072092?dnt=1&amp;amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write"&gt;&lt;/iframe&gt;&lt;div id="1727460302.129949" class="c-virtual_list__item" tabindex="-1" role="listitem" aria-setsize="-1" data-qa="virtual-list-item" data-item-key="1727460302.129949"&gt;

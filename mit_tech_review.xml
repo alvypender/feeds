@@ -3,7 +3,237 @@
 <title>MIT Technology Review en español (Completo)</title>
 <link href="https://www.technologyreview.es/"/>
 <id>https://www.technologyreview.es/</id>
-<updated>2026-10-29T06:11:12+00:00</updated>
+<updated>2026-10-30T12:01:35+00:00</updated>
+<entry>
+  <title>El siguiente reto de la IA en América Latina: simplificar la experiencia</title>
+  <link href="https://www.technologyreview.es/article/el-siguiente-reto-de-la-ia-en-america-latina-simplificar-la-experiencia"/>
+  <id>https://www.technologyreview.es/article/el-siguiente-reto-de-la-ia-en-america-latina-simplificar-la-experiencia</id>
+  <published>2026-10-30T12:01:35+00:00</published>
+  <updated>2026-10-30T12:01:35+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1793361061637_genesys-cx-encabezado.jpg?alt=media&amp;token=7505c5d9-b96f-4feb-a3a3-ef0c04e9e030"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1793361061637_genesys-cx-encabezado.jpg?alt=media&amp;token=7505c5d9-b96f-4feb-a3a3-ef0c04e9e030" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1793361061637_genesys-cx-encabezado.jpg?alt=media&amp;token=7505c5d9-b96f-4feb-a3a3-ef0c04e9e030"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1793361061637_genesys-cx-encabezado.jpg?alt=media&amp;token=7505c5d9-b96f-4feb-a3a3-ef0c04e9e030</webfeeds:featuredImage>
+  <summary>La región tiene la base construida: consumidores dispuestos, canales digitales instalados y agentes autónomos por encima de la media mundial. Lo que falta es…</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1793361061637_genesys-cx-encabezado.jpg?alt=media&amp;token=7505c5d9-b96f-4feb-a3a3-ef0c04e9e030" alt="El siguiente reto de la IA en América Latina: simplificar la experiencia" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;La región tiene la base construida: consumidores dispuestos, canales digitales instalados y agentes autónomos por encima de la media mundial. Lo que falta es…&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Patrocinado por:&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1793361033270_genesys-logo.png?alt=media&amp;amp;token=27639dc5-085e-42a7-9cd4-601637d6730e" alt="Genesys" style="display:block;height:16px;width:auto;margin:8px 0 0 0;"&gt;&lt;/p&gt;
+
+&lt;p&gt;La llamada puede empezar bien. Un asistente virtual saluda, pide el número de cliente y asegura que no hará falta repetirlo. Unos minutos después, ya con una persona al otro lado, el cliente vuelve a escuchar una pregunta que creía haber respondido. La escena le resulta familiar a casi cualquiera y ayuda a entender un dato que interpela al sector: más de la mitad de los consumidores del mundo preferiría hacer cualquier otra cosa antes que ponerse en contacto con el servicio de atención al cliente. El matiz que completa el cuadro es que la mitad de los propios responsables de experiencia del cliente afirma exactamente lo mismo cuando se les pregunta como usuarios.&lt;/p&gt;
+
+&lt;p&gt;Esa coincidencia entre quienes diseñan el servicio y quienes lo reciben es el punto de partida de la quinta edición del informe &lt;a href="https://www.genesys.com/es-mx/resources/state-of-cx" target="_blank" rel="noopener sponsored"&gt;&lt;em&gt;El Estado de la Experiencia del Cliente 2026&lt;/em&gt;&lt;/a&gt;, elaborado por Genesys con una firma de investigación independiente sobre 5.811 consumidores y 1.560 líderes de experiencia del cliente y de negocio en más de 20 países, 1.024 y 189 de ellos en América Latina, entre marzo y abril de 2026. Su conclusión: la inteligencia artificial modificó las expectativas del público más rápido de lo que las organizaciones pueden responder a ellas.&lt;/p&gt;
+
+&lt;h2&gt;El estándar ya no lo pone el competidor&lt;/h2&gt;
+
+&lt;p&gt;Durante años, un banco se medía contra otro banco y una aerolínea contra otra aerolínea. Ahora, el estándar es otro. Los consumidores juzgan cada interacción contra la mejor que hayan tenido de cualquier compañía, y nueve de cada diez esperan que todas las empresas igualen el nivel. El punto de comparación de una aseguradora ya no es otra aseguradora, sino la aplicación de reparto que ese cliente usó por la mañana y que le mostró el pedido en un mapa sin pedirle nada a cambio.&lt;/p&gt;
+
+&lt;p&gt;La paciencia también se ha acortado. Casi la mitad de los consumidores cambiaría de marca tras dos o tres interacciones fallidas, incluso tratándose de una empresa que dice preferir, y una mayoría amplia sostiene que una compañía vale lo que vale su servicio al cliente, una convicción que creció con fuerza en el último año. La atención dejó de ser un área de soporte para convertirse en el soporte principal de la reputación.&lt;/p&gt;
+
+&lt;p&gt;La inteligencia artificial llegó a ese terreno con mejor acogida de la que suele reconocerse. Tres de cada cuatro consumidores esperan que mejore la velocidad y la calidad del servicio en los próximos dos o tres años, y a la mayoría le resulta indiferente quién resuelva el problema, una persona o un sistema, siempre que quede resuelto rápido y bien. Esta automatización no se traduce al trato que prefieren los clientes: casi todos dicen valorar la eficiencia tanto como la empatía. Lo que el consumidor reclama, en definitiva, no es menos automatización, sino que la automatización termine el trabajo.&lt;/p&gt;
+
+&lt;h2&gt;Una región que avanza rápido&lt;/h2&gt;
+
+&lt;p&gt;En América Latina esa conversación ha tomado fuerza en un lugar distinto: la aplicación de mensajería. Según el estudio elaborado por Genesys, el 91% de las organizaciones de la región atiende clientes por mensajería, 22 puntos por encima de la media mundial. Tres de cada cuatro operan asistentes virtuales y la mitad ya emplea agentes con IA agéntica, capaces de interpretar la intención de quien escribe y encadenar acciones de varios pasos. El público acompañó el movimiento: la región figura entre las más optimistas del mundo sobre lo que la IA puede hacer por el servicio, mientras en Europa esa confianza es bastante menor. Allí la automatización todavía debe ganarse al usuario.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1793361051910_genesys-cx-tienda.jpg?alt=media&amp;amp;token=72f7db84-f530-4461-ab7c-6699c5f75970" alt="Una comerciante sonríe con una tableta en la mano en su tienda de textiles y artículos para el hogar."&gt;&lt;/figure&gt;
+
+&lt;h2&gt;Lo que el cliente nota&lt;/h2&gt;
+
+&lt;p&gt;El consumidor no juzga puntos de contacto aislados, sino el recorrido entero: cómo de bien se conecta, cuánto esfuerzo le exige y con qué consistencia resuelve. Medido así, el 25% de las empresas latinoamericanas afirma estar reduciendo de forma significativa ese esfuerzo, apenas por delante del 24% mundial.&lt;/p&gt;
+
+&lt;p&gt;El contraste dentro de la región dice más que la comparación con el resto del mundo. Brasil declara reducir el esfuerzo del cliente en algo más de cuatro de cada diez casos; México, con herramientas parecidas al alcance, en menos de dos. La diferencia no está en el catálogo de tecnología, que es comparable, sino en lo que ocurre después de firmar el contrato: quién rediseña los procesos, quién ordena los datos y quién mide el resultado.&lt;/p&gt;
+
+&lt;p&gt;En el Banco de Crédito, en Perú, ese trabajo tomó una forma concreta. Rocío Pérez-Egaña, gerente de Contact Center de la entidad, cuenta en el informe que el enrutamiento inteligente marcó una diferencia notable, porque los agentes empezaron a atender los temas en los que son expertos. El cliente no ve ese cambio en ninguna pantalla, pero lo nota en la conversación.&lt;/p&gt;
+
+&lt;p&gt;El punto donde las experiencias se quiebran es en la transferencia de llamadas. Casi todos los consumidores esperan no repetir la misma información una y otra vez y que la información que ya compartieron viaje de un canal a otro. Más de la mitad de las organizaciones no cumple con estas expectativas. La misma responsable lo resume sin rodeos: al cliente nada le molesta más que repetir su problema a otra persona, aunque la conversación haya empezado con un asistente virtual. Y la espera tiene un límite corto, porque el 84% concede a un agente virtual tres intentos como máximo. La automatización, en ese punto, no se queda corta por falta de inteligencia, sino por falta de memoria.&lt;/p&gt;
+
+&lt;h2&gt;Datos heredados, ambiciones nuevas&lt;/h2&gt;
+
+&lt;p&gt;Buena parte de esa fricción tiene un origen menos vistoso que la IA. Por primera vez desde 2023, los responsables de experiencia del cliente dejaron de señalar las expectativas crecientes como su principal desafío operativo: ahora mencionan sostener la calidad del servicio sobre infraestructura heredada. Solo el 31% de esa infraestructura está completamente en la nube, una cifra que no se movió en un año, y el desafío tecnológico más citado apunta al mismo lugar, ordenar los datos para que la IA pueda usarlos. Es el tipo de inversión que cuesta defender en un comité, porque no se ve en la pantalla del cliente, y es la que decide si el resto funciona.&lt;/p&gt;
+
+&lt;p&gt;A eso se suma la pregunta que aparece en cada revisión de presupuesto: demostrar el valor de lo invertido en IA sigue entre los principales desafíos de adopción. Y una particularidad regional que conviene leer con calma. Los líderes latinoamericanos señalan la preparación técnica para escalar la IA bastante más que sus pares del resto del mundo, mientras destinan a ello una proporción de presupuesto equivalente. La región no está gastando más; intenta ir más rápido con lo mismo, y eso explica el estancamiento mejor que cualquier déficit de ambición.&lt;/p&gt;
+
+&lt;p&gt;Además, el plazo que se han fijado es breve. El 82% espera que agentes autónomos orquesten la experiencia del cliente dentro de tres años, es decir, que coordinen en tiempo real datos, sistemas y canales para guiar cada interacción a lo largo del recorrido, en lugar de limitarse a automatizar tareas puntuales. Una realidad demasiado exigente para organizaciones que todavía no han conectado sus datos. Delegar la coordinación de un recorrido completo a un sistema autónomo que opera sobre información fragmentada puede multiplicar los errores en lugar de reducir el esfuerzo. Queda también un frente menos atendido. Casi todos los consumidores dicen tener derecho a saber cuándo hablan con una máquina, mientras la IA responsable aparece lejos del centro de las prioridades declaradas por los responsables de área. En una región cuya mayor ventaja es la confianza del público, ese sería el activo más difícil de reponer.&lt;/p&gt;
+
+&lt;p&gt;"A medida que crece la confianza de los consumidores mexicanos en la inteligencia artificial, también aumentan sus expectativas", señaló Amanda Andreone, vicepresidente y líder regional de Ventas de Genesys para América Latina, al presentar los datos regionales. La oportunidad consiste en convertir esa confianza en experiencias conectadas que reduzcan el esfuerzo del cliente, según planteó.&lt;/p&gt;
+
+&lt;p&gt;Doug Kramon, director de soporte a Fanáticos y Servicio al Cliente de ESPN, defiende en el informe que la atención al cliente debería sentarse siempre en la mesa ejecutiva, porque es el único equipo que escucha al cliente en sus propios términos. La frase describe bien el momento. Durante años, la madurez de un área de servicio se midió por cuántos canales cubría y cuánta automatización había incorporado. Ese baremo ha perdido capacidad explicativa: hay mercados con más tecnología y resultados más discretos que otros, y lo que los separa es que el sistema recuerde, transfiera el contexto y resuelva sin pedirle a la persona que rehaga el camino. La base ya está construida. Lo que queda se parece menos a comprar tecnología y más a conectar datos, rediseñar procesos y medir cuánto esfuerzo se le sigue pidiendo al cliente.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>The Download: los GLP-1 y los trastornos alimentarios, ciudades autoconscientes y «químicos eternos»</title>
+  <link href="https://www.technologyreview.es/article/the-download-los-glp-1-y-los-trastornos-alimentarios-ciudades-autoconscientes-y-quimicos-eternos"/>
+  <id>https://www.technologyreview.es/article/the-download-los-glp-1-y-los-trastornos-alimentarios-ciudades-autoconscientes-y-quimicos-eternos</id>
+  <published>2026-10-30T07:30:00+00:00</published>
+  <updated>2026-10-30T07:30:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6Iyu1jKjSZ0/maxresdefault.jpg"/>
+  <media:content url="https://img.youtube.com/vi/6Iyu1jKjSZ0/maxresdefault.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://img.youtube.com/vi/6Iyu1jKjSZ0/maxresdefault.jpg"/>
+  <webfeeds:featuredImage>https://img.youtube.com/vi/6Iyu1jKjSZ0/maxresdefault.jpg</webfeeds:featuredImage>
+  <summary>Además: Binance ha sufrido el mayor hackeo de criptomonedas de la historia.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/6Iyu1jKjSZ0/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: los GLP-1 y los trastornos alimentarios, ciudades autoconscientes y «químicos eternos»" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: Binance ha sufrido el mayor hackeo de criptomonedas de la historia.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Los trastornos de la conducta alimentaria van en aumento. Los fármacos GLP-1 podrían empeorar las cosas.&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Los fármacos GLP-1 para perder peso son uno de los mayores avances biotecnológicos de la última década. Pero, para algunos médicos, pueden representar algo siniestro: un potencial desencadenante de trastornos de la conducta alimentaria.&lt;/p&gt;
+
+&lt;p&gt;Un nuevo informe sugiere que la incidencia global de la anorexia nerviosa y la bulimia nerviosa se disparó un 71 % entre 1990 y 2023. Y los médicos ya están viendo cómo los GLP-1 agravan el problema.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"&gt;Te contamos cómo podrían empeorar un problema que ya va en aumento&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"&gt;&lt;strong&gt;Este artículo&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;procede de The Checkup, nuestro boletín semanal sobre biotecnología.&lt;/strong&gt; &lt;a href="https://forms.technologyreview.com/newsletters/biotech-the-checkup/"&gt;&lt;strong&gt;Suscríbete&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;para recibirlo en tu bandeja de entrada todos los jueves.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;El amor es infraestructura&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;—«El amor es infraestructura» es un relato breve de ficción de Charlie Jane Anders, autora de una próxima novela titulada&lt;/em&gt; Good Things Are Coming Your Way&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Mainspring y St. Barnabas son dos ciudades vecinas con personalidades distintas. Nunca se han llevado especialmente bien, pero eso cambia cuando ambas desarrollan una mente propia, moldeada por los votos de sus residentes.&lt;/p&gt;
+
+&lt;p&gt;A medida que las ciudades comienzan a enamorarse, entra en escena una tercera ciudad. Turnbull promete a Mainspring un futuro más eficiente, pero su visión de la vida urbana conlleva un precio inquietante.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"&gt;Lee el relato completo sobre ciudades autoconscientes, democracia directa y un tórrido romance.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"&gt;&lt;em&gt;Este artículo&lt;/em&gt;&lt;/a&gt; &lt;em&gt;forma parte del&lt;/em&gt; &lt;a href="https://www.technologyreview.com/magazines/the-impossible-issue/"&gt;&lt;em&gt;último número de nuestra revista impresa&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt; &lt;a href="https://www.technologyreview.com/subscribe"&gt;&lt;em&gt;Suscríbete ahora&lt;/em&gt;&lt;/a&gt; &lt;em&gt;para recibir cada número en cuanto se publique.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;¿Hemos llegado ya? Limpiar los PFAS&amp;nbsp;&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Utilizados durante décadas en todo tipo de productos, desde sartenes antiadherentes hasta espumas contra incendios, los PFAS, o «químicos eternos», están vinculados a un mayor riesgo de problemas de fertilidad, retrasos en el desarrollo, cáncer y una menor respuesta inmunitaria.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Descontaminar el suelo afectado por PFAS podría eliminar una larga lista de problemas para las personas y el planeta. El concepto está aún en una fase incipiente, pero podemos limitar su acumulación extrayendo estas sustancias químicas de las redes de agua.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;a href="https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/"&gt;Descubre lo cerca que estamos de librar al mundo de los «químicos eternos»&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Sara Kiley Watson&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/"&gt;&lt;em&gt;Este artículo&lt;/em&gt;&lt;/a&gt; &lt;em&gt;forma parte de&lt;/em&gt; &lt;a href="https://www.technologyreview.com/supertopic/are-we-there-yet-impossible-issue/"&gt;&lt;em&gt;«¿Hemos llegado ya?»&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, nuestra serie que hace balance de seis tecnologías que llevan tiempo prometiendo cambiar el mundo y califica su grado de avance en un medidor de progreso. Iremos analizando cada una de ellas en The Download, así que no te lo pierdas, y&lt;/em&gt; &lt;a href="https://www.technologyreview.com/subscribe"&gt;&lt;em&gt;suscríbete para leer el resto de artículos&lt;/em&gt;&lt;/a&gt; &lt;em&gt;de nuestro&lt;/em&gt; &lt;a href="https://www.technologyreview.com/magazines/the-impossible-issue/"&gt;&lt;em&gt;nuevo número dedicado a lo imposible&lt;/em&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Lecturas imprescindibles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/aterradoras/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 Binance ha sufrido el mayor hackeo de criptomonedas de la historia&lt;/strong&gt;&lt;br&gt;El exchange afirma que se vieron afectados 6300 millones de dólares en activos. (&lt;a href="https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o"&gt;BBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Los analistas atribuyeron el hackeo a Corea del Norte.&lt;/em&gt; (&lt;a href="https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"&gt;Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Es probable que los bitcoins robados nunca se recuperen.&lt;/em&gt; (&lt;a href="https://www.bloomberg.com/news/articles/2026-10-30/bitcoin-stolen-in-binance-hack-is-likely-gone-ballet-says"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Binance ha suspendido todos los depósitos y retiradas.&lt;/em&gt; (&lt;a href="https://www.nbcnews.com/business/markets/binance-hack-tether-circle-stablecoins-rcna606445"&gt;NBC News&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Cómo la estafa con criptomonedas de un pastor hizo perder millones a los inversores.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 Jensen Huang, de Nvidia, fue el objetivo de una presunta espía china&lt;/strong&gt;&lt;br&gt;La sospechosa es una directiva de una empresa de centros de datos de Singapur. (&lt;a href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"&gt;NYT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ La inteligencia de EE. UU. cree que estrechó lazos con Huang.&lt;/em&gt; (&lt;a href="https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy"&gt;Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Su empresa fue investigada por el presunto desvío de chips.&lt;/em&gt; (&lt;a href="https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Nvidia afirma que sus relaciones fueron «normales».&lt;/em&gt; (&lt;a href="https://www.bloomberg.com/news/articles/2026-10-29/nvidia-ceo-says-ties-to-company-under-spying-probe-were-normal"&gt;Bloomberg&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3 Alphabet acaba de perder 500.000 millones de dólares en valor de mercado&lt;br&gt;&lt;/strong&gt;Esta pérdida récord se debe a que la IA está mermando los beneficios de su negocio de búsquedas. (&lt;a href="https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Amazon e Intel agravan la caída de los valores tecnológicos.&lt;/em&gt; (&lt;a href="https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Los hiperescaladores se la juegan con una apuesta de un billón de dólares.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4 El Pentágono sospecha que los congeladores de varias bases militares sufrieron un hackeo&lt;br&gt;&lt;/strong&gt;Los fallos de funcionamiento echaron a perder la comida. (&lt;a href="https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;+ &lt;em&gt;Podrían estar vinculados a ciberataques similares en supermercados franceses&lt;/em&gt;. (&lt;a href="https://gizmodo.com/u-s-military-thinks-hackers-defrosted-all-its-ice-cream-2000832872"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 Las elecciones de mitad de mandato en EE. UU. podrían redefinir el futuro de la ciencia estadounidense&lt;br&gt;&lt;/strong&gt;Un Congreso demócrata podría frenar los recortes de Trump en ciencia. (&lt;a href="https://www.nature.com/articles/d41586-026-03479-0"&gt;Nature&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Trump ya ha asestado duros golpes a la ciencia.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 Los centros de datos van a disparar la contaminación climática en EE. UU.&lt;br&gt;&lt;/strong&gt;Las centrales de gas podrían incrementar las emisiones del sector eléctrico un 42 % para 2030. (&lt;a href="https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas"&gt;Verge&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Los trabajadores de los centros de datos europeos afrontan condiciones peligrosas.&lt;/em&gt; (&lt;a href="https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres"&gt;Guardian&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7 SpaceX se distancia de la NASA&lt;/strong&gt;&lt;br&gt;La compañía está priorizando Starlink y la IA. (&lt;a href="https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"&gt;Ars Technica&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Pero Cabo Cañaveral registra más actividad que durante la carrera espacial.&lt;/em&gt; (&lt;a href="https://www.axios.com/2026/10/29/cape-canaveral-space-race-launch"&gt;Axios&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 Los fabricantes de baterías encuentran un nuevo mercado en EE. UU.&lt;br&gt;&lt;/strong&gt;Están virando de los vehículos eléctricos al almacenamiento en la red eléctrica. (&lt;a href="https://www.wsj.com/business/forget-evs-battery-makers-are-busy-bolstering-the-u-s-power-grid-537a6417?mod=rss_Technology"&gt;WSJ&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Las baterías acaban de batir otro récord en EE. UU.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9 Un humanista obtiene una exención religiosa para no utilizar la IA en el trabajo&lt;br&gt;&lt;/strong&gt;Argumentó que su uso socavaba el florecimiento humano. (&lt;a href="https://gizmodo.com/man-who-identifies-as-a-humanist-gets-religious-exemption-from-using-ai-at-work-2000832513"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 Los videntes plantan cara a la clarividencia computarizada&lt;/strong&gt;&lt;br&gt;Los profesionales humanos afirman que los chatbots carecen del toque divino. (&lt;a href="https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings"&gt;Guardian&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Frase del día&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«El "rizz" tiene cada vez más demanda porque es algo que solo tienen las personas».&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;—Steven Strogatz, profesor de Matemáticas en la Universidad de Cornell, &lt;a href="https://www.businessinsider.com/cornell-professor-steven-strogatz-mathematicians-need-rizz-ai-era-2026-10"&gt;explica a Business Insider&lt;/a&gt; que el atractivo personal será cada vez más valioso a medida que la IA asuma progresivamente el trabajo intelectual.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F86c9e5bb881c64270c8b8557b73a4efeea89718d.jpg?alt=media&amp;token=53c7275d-1ad3-4fb5-aabf-2570ff24fd45" alt=""/&gt;&lt;/figure&gt;
+
+&lt;h4 class="wp-block-heading"&gt;El movimiento por el bienestar animal del Área de la Bahía quiere reclutar a la IA&lt;/h4&gt;
+
+&lt;p&gt;A principios de febrero, defensores del bienestar animal e investigadores de IA llegaron en calcetines a Mox, un espacio de «coworking» sin calzado en San Francisco. Se reunieron para debatir una idea provocadora: si la inteligencia artificial general está en el horizonte, ¿podría evitar el sufrimiento animal?&lt;/p&gt;
+
+&lt;p&gt;Algunos plantearon el uso de agentes personalizados en labores de activismo, mientras que otros propusieron cultivar carne con herramientas de IA. Pero el verdadero tema de conversación del evento fue la oleada de fondos que prevén que pronto llegará a organizaciones benéficas dedicadas al bienestar animal, procedentes no de grandes donantes individuales, sino de empleados de laboratorios de IA.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Algunos asistentes también plantearon una idea aún más controvertida: que la IA podría llegar a desarrollar la capacidad de sufrir, lo que podría constituir una catástrofe moral. &lt;strong&gt;&lt;/strong&gt;&lt;a href="https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/"&gt;Hemos investigado por qué sus ideas están cobrando fuerza —y suscitando polémica—.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Michelle Kim y Grace Huckins&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Un rincón de confort, diversión y entretenimiento para alegrarte el día. Hoy traemos un especial de Halloween. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;+ Conoce al &lt;a href="https://apnews.com/article/pumpkin-carving-picasso-halloween-half-moon-bay-95af0b1752f6ff1b361a7cfd1769841d"&gt;«Picasso de los talladores de calabazas»&lt;/a&gt;, que aporta arte a una tradición de Halloween.&lt;br&gt;+ El maestro de los mashups &lt;a href="https://www.youtube.com/watch?v=6Iyu1jKjSZ0"&gt;Ghostmashers, de Bill McClintock&lt;/a&gt;, es la banda sonora ideal para tu fiesta de la víspera de Todos los Santos.&lt;br&gt;+ ¿Quieres darle un buen susto a alguien este año? Los profesionales detrás de las atracciones del terror de Estados Unidos &lt;a href="https://lataco.com/halloween-scare-designers"&gt;te dan algunos consejos&lt;/a&gt;.&lt;br&gt;+ ​​Este increíble &lt;a href="https://www.youtube.com/watch?v=hMLkKU7i4XU"&gt;espectáculo de luces de Halloween&lt;/a&gt; combina 210 drones, fuego, láseres, proyecciones, fuentes y a los Beastie Boys.&amp;nbsp;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Los trastornos de la conducta alimentaria van en aumento. Los GLP-1 podrían empeorar la situación.</title>
+  <link href="https://www.technologyreview.es/article/los-trastornos-de-la-conducta-alimentaria-van-en-aumento-los-glp-1-podrian-empeorar-la-situacion"/>
+  <id>https://www.technologyreview.es/article/los-trastornos-de-la-conducta-alimentaria-van-en-aumento-los-glp-1-podrian-empeorar-la-situacion</id>
+  <published>2026-10-30T05:00:00+00:00</published>
+  <updated>2026-10-30T05:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F790c66cbfdf1be466770099ea0246108d50b9569.jpg?alt=media&amp;token=671b2ec9-c846-4a44-a26e-e136a41101cb"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F790c66cbfdf1be466770099ea0246108d50b9569.jpg?alt=media&amp;token=671b2ec9-c846-4a44-a26e-e136a41101cb" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F790c66cbfdf1be466770099ea0246108d50b9569.jpg?alt=media&amp;token=671b2ec9-c846-4a44-a26e-e136a41101cb"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F790c66cbfdf1be466770099ea0246108d50b9569.jpg?alt=media&amp;token=671b2ec9-c846-4a44-a26e-e136a41101cb</webfeeds:featuredImage>
+  <summary>Nuevos indicios sugieren que algunas personas con trastornos de la conducta alimentaria están haciendo un uso indebido de los fármacos para perder peso.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F790c66cbfdf1be466770099ea0246108d50b9569.jpg?alt=media&amp;token=671b2ec9-c846-4a44-a26e-e136a41101cb" alt="Los trastornos de la conducta alimentaria van en aumento. Los GLP-1 podrían empeorar la situación." style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Jessica Hamzelou&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Nuevos indicios sugieren que algunas personas con trastornos de la conducta alimentaria están haciendo un uso indebido de los fármacos para perder peso.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Los fármacos para perder peso basados en GLP-1 son uno de los mayores avances biotecnológicos de la última década. Pero, para algunos psicólogos clínicos, pueden representar algo más siniestro: un potencial desencadenante de trastornos de la conducta alimentaria.&lt;/p&gt;
+
+&lt;p&gt;Un nuevo informe sugiere que la incidencia mundial de la anorexia nerviosa y la bulimia nerviosa se disparó entre 1990 y 2023 —nada menos que un 71 %—. Para 2023, se estimaba que 18,1 millones de personas convivían con uno de estos dos trastornos.&lt;/p&gt;
+
+
+
+&lt;p&gt;Lo peor es que es probable que la cifra sea mucho más alta si tenemos en cuenta otros trastornos de la conducta alimentaria. Y, de forma alarmante, los especialistas en este campo ya están empezando a ver cómo los fármacos GLP-1 para perder peso agravan el problema.&lt;/p&gt;
+
+&lt;p&gt;Cheri Levinson es psicóloga clínica en la Universidad de Louisville (Kentucky) y lleva casi 20 años especializada en trastornos de la conducta alimentaria. Afirma que ahora atiende a más pacientes con síntomas más graves que en cualquier otro momento de su carrera, y que muchos de ellos hacen un uso indebido de los GLP-1. «Es lo peor que he visto nunca», señala.&lt;/p&gt;
+
+&lt;p&gt;Los trastornos de la conducta alimentaria son afecciones de salud mental en las que el comportamiento alimentario de las personas repercute en su salud. Incluyen la anorexia nerviosa (definida por el miedo a ganar peso), la bulimia nerviosa (en la que se producen atracones y purgas), el trastorno por atracón y otros.&lt;/p&gt;
+
+&lt;p&gt;Se cree que algunas personas tienen una predisposición genética a ciertos trastornos alimentarios, pero que algún factor externo es el que desencadena su aparición. Podría tratarse del estrés o de la presión social por estar delgado. A menudo, el simple hecho de restringir la ingesta de alimentos puede desencadenar un trastorno alimentario, afirma Levinson.&lt;/p&gt;
+
+&lt;p&gt;Los trastornos alimentarios —junto con la presión por estar delgado— ya eran prevalentes en la década de 1990 (nos viene a la mente la época del&amp;nbsp;&lt;a href="https://www.cosmopolitan.com/lifestyle/a73344972/fashion-week-smoking-skinny-heroin-chic/"&gt;heroin chic&lt;/a&gt;). Para averiguar cómo han podido cambiar las cosas desde entonces, Ruhai Bai, del Hospital Infantil de la Universidad Médica de Nanjing (China), y sus colegas recopilaron datos de estudios y encuestas realizados en poblaciones de todo el mundo. El equipo utilizó modelos estadísticos para cubrir cualquier vacío en los datos.&lt;/p&gt;
+
+&lt;p&gt;Dicho trabajo permitió a los investigadores estimar la incidencia anual de dos trastornos de la conducta alimentaria —anorexia nerviosa y bulimia nerviosa— en 204 países y territorios entre 1990 y 2023. También estimaron el impacto que tuvieron estos trastornos en la salud mundial calculando sus años de vida ajustados por discapacidad (un&amp;nbsp;&lt;a href="https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/global-health-estimates-leading-causes-of-dalys/"&gt;DALY&lt;/a&gt; representa un año de vida sana perdido).&lt;/p&gt;
+
+&lt;p&gt;Los hallazgos, &lt;a href="https://media.jamanetwork.com/media-releases/10.1001/jamapsychiatry.2026.3457"&gt;publicados el miércoles en &lt;em&gt;JAMA Psychiatry&lt;/em&gt;&lt;/a&gt;, son inquietantes. Entre 1990 y 2023, se produjo un aumento del 71 % en la incidencia de esos dos trastornos de la conducta alimentaria, según constató el equipo. Estas afecciones también tuvieron un enorme impacto en la salud global. En 2023, «le costaron al mundo el equivalente a unos 3,83 millones de años de vida sana», afirma Bai.&lt;/p&gt;
+
+
+
+&lt;p&gt;Bai y sus colegas prevén que estas cifras sigan aumentando. En 2023, se calculaba que 18,1 millones de personas padecían anorexia nerviosa o bulimia nerviosa; para 2050, según prevé el equipo, ambas afecciones podrían afectar a 21,8 millones de personas.&lt;/p&gt;
+
+&lt;p&gt;Y la situación empeora. Esas dos afecciones representan menos de la mitad de todos los trastornos de la conducta alimentaria, afirma Levinson, que no participó en el estudio de Bai. El verdadero impacto de estos trastornos es «probablemente el triple de la tasa que reportan», señala.&lt;/p&gt;
+
+&lt;p&gt;Bai y sus colegas no analizaron los motivos de este incremento (aunque Bai señala que no puede explicarse únicamente por el crecimiento demográfico). Entonces, ¿cómo hemos llegado hasta aquí?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Las redes sociales podrían haber desempeñado un papel.&lt;/strong&gt; «Las comparaciones en las redes sociales, los influencers, los retos, las tendencias dietéticas... todo pueden ser factores desencadenantes de un trastorno de la conducta alimentaria», afirma Cynthia Bulik, psicóloga clínica de la Universidad de Carolina del Norte que no participó en el nuevo estudio. Bulik lleva estudiando y tratando trastornos de la conducta alimentaria desde principios de los años ochenta. «Entre 1990 y 2023 se ha producido claramente un repunte de este tipo de exposiciones ambientales», señala.&lt;/p&gt;
+
+&lt;p&gt;Muchos usuarios de las redes sociales están expuestos a imágenes con filtros y retocadas de influencers extremadamente delgados que pueden haberse sometido a cirugía estética o a dietas extremas, y que promocionan contenidos de «thinspiration» o «fitspiration». Pero los usuarios con trastornos de la conducta alimentaria parecen ser más propensos a interactuar con este contenido —y a recibir más cantidad del mismo como resultado—.&lt;/p&gt;
+
+&lt;p&gt;Cuando los investigadores de la Universidad de Melbourne&amp;nbsp;&lt;a href="https://www.sciencedirect.com/science/article/pii/S1740144524001293"&gt;investigaron este fenómeno&lt;/a&gt; hace un par de años, descubrieron que los algoritmos de los usuarios de TikTok con trastornos de la conducta alimentaria mostraban un 4343 % más de «vídeos tóxicos sobre trastornos de la conducta alimentaria» que los de aquellos usuarios que no los padecían. También recibían más contenidos centrados en dietas o ejercicio. A muchos se les mostraban más de 1000 vídeos problemáticos al mes. Bulik describe las redes sociales como «arenas movedizas» para las personas con trastornos de la conducta alimentaria o en riesgo de padecerlos.&lt;/p&gt;
+
+&lt;p&gt;La pandemia de covid-19 —y el aislamiento social que acompañó a los confinamientos— también parece haber contribuido al aumento de los trastornos de la conducta alimentaria. Una investigación realizada en 2021 halló que el número de personas hospitalizadas por trastornos alimentarios en Estados Unidos &lt;a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2786185"&gt;&lt;em&gt;se duplicó&lt;/em&gt; entre 2018 y 2020&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;Los investigadores todavía no disponen de datos sólidos sobre cómo han podido evolucionar las tendencias en los trastornos de la conducta alimentaria desde 2023. Pero, a nivel anecdótico, la situación parece estar empeorando aún más. «Hay más trastornos alimentarios, son más graves... y estamos observando edades de inicio más tempranas», afirma Levinson. «Estamos viendo a niños y niñas de ocho y nueve años con trastornos de la conducta alimentaria».&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;«Por lo que estoy viendo y escuchando, no me va a sorprender que esa cifra vuelva al menos a duplicarse», añade.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A Levinson le preocupa especialmente el impacto de los fármacos GLP-1 para perder peso, cuya popularidad se ha disparado en los últimos años. Una &lt;a href="https://news.gallup.com/poll/712157/glp-usage-reaches-new-high.aspx"&gt;encuesta de Gallup&lt;/a&gt; realizada a principios de este año sugería que el 15 % de los estadounidenses había utilizado uno de estos medicamentos para adelgazar. Y cada vez son más accesibles: las farmacéuticas trabajan en nuevas formulaciones que son tanto más fáciles de tomar como más eficaces, y muchas personas pueden comprar versiones de estos fármacos en farmacias de formulación magistral o en fuentes dudosas de internet.&lt;/p&gt;
+
+&lt;p&gt;En&amp;nbsp;&lt;a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2850584"&gt;un pequeño estudio&lt;/a&gt; publicado a principios de este año, Levinson y sus colegas descubrieron que el 30 % de las personas con trastornos de la conducta alimentaria habían utilizado fármacos GLP-1. Estos medicamentos podrían beneficiar a algunas de esas personas. Sin embargo, el 10 % parecía haber hecho un uso indebido de ellos. Y Levinson cree que esa cifra también se queda corta.&lt;/p&gt;
+
+&lt;p&gt;Levinson afirma que ella y sus colegas han visto a menores desarrollar trastornos de la conducta alimentaria tras haberles recetado GLP-1 por motivos médicos. También han visto a otros —incluso a niños de apenas 11 años— comprar versiones de estos fármacos a través de TikTok.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;«Nos preocupa mucho que los GLP provoquen una pérdida de peso aún más rápida y extrema&lt;/strong&gt; en personas con anorexia nerviosa, y que los pacientes lleguen a nosotros en fases de la enfermedad aún más avanzadas que resulten difíciles de revertir», afirma Bulik.&lt;/p&gt;
+
+&lt;p&gt;Tanto Bulik como Levinson continúan estudiando el impacto de estos fármacos en los trastornos de la conducta alimentaria. Mientras tanto, ambas instan a los profesionales médicos a considerar los riesgos que los GLP-1 podrían suponer para las personas con estos trastornos. Bulik contribuyó a una serie de&amp;nbsp;&lt;a href="https://onlinelibrary.wiley.com/doi/10.1002/wps.70096"&gt;directrices clínicas y de investigación&lt;/a&gt;, publicadas a principios de este mes, que recomiendan, por ejemplo, evaluar la presencia de trastornos de la conducta alimentaria antes de prescribir estos medicamentos. Las pautas también aconsejan una mayor educación para los pacientes y un seguimiento más exhaustivo de las personas que toman GLP-1.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Si crees que tú o alguien que conoces podríais tener un trastorno de la conducta alimentaria, puedes encontrar información y apoyo en la&lt;/em&gt; &lt;a href="https://www.nationaleatingdisorders.org/"&gt;&lt;em&gt;National Eating Disorders Association&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Este artículo se publicó originalmente en The Checkup, el boletín semanal de biotecnología de &lt;/em&gt;MIT Technology Review&lt;em&gt;. Para recibirlo en tu bandeja de entrada cada jueves y leer artículos como este antes que nadie, &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/biotech-the-checkup/"&gt;&lt;em&gt;suscríbete aquí&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Necesitamos urgentemente monitorizar las acciones de los agentes de IA en tiempo real</title>
   <link href="https://www.technologyreview.es/article/necesitamos-urgentemente-monitorizar-las-acciones-de-los-agentes-de-ia-en-tiempo-real"/>
@@ -11,7 +241,7 @@
   <published>2026-10-29T06:11:12+00:00</published>
   <updated>2026-10-29T06:11:12+00:00</updated>
   <link rel="enclosure" type="image/gif" href="https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.gif"/>
-  <media:content url="https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.gif" medium="image"/>
+  <media:content url="https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.gif" medium="image" type="image/gif"/>
   <media:thumbnail url="https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.gif"/>
   <webfeeds:featuredImage>https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.gif</webfeeds:featuredImage>
   <summary>Ahora mismo, prácticamente volamos a ciegas al desplegar estas herramientas. Esto es lo que deberíamos hacer en su lugar.</summary>
@@ -59,7 +289,7 @@
   <published>2026-10-29T06:00:00+00:00</published>
   <updated>2026-10-29T06:00:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697" medium="image"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697</webfeeds:featuredImage>
   <summary>Un potente bucle de retroalimentación podría provocar un calentamiento mayor del previsto.</summary>
@@ -103,7 +333,7 @@
   <published>2026-10-27T05:00:00+00:00</published>
   <updated>2026-10-27T05:00:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3" medium="image"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3</webfeeds:featuredImage>
   <summary>Una nueva tecnología podría ayudar a reducir las pérdidas de energía y reinventar un pilar de la red eléctrica.</summary>
@@ -187,7 +417,7 @@
   <published>2026-10-26T13:45:43+00:00</published>
   <updated>2026-10-26T13:45:43+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87" medium="image"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87</webfeeds:featuredImage>
   <summary>La compañía lleva años dominando el arte del relato. ¿Revelará su salida a bolsa a la empresa que hay detrás de la máscara o profundizará aún más en la…</summary>
@@ -241,7 +471,7 @@
   <published>2026-10-26T05:01:00+00:00</published>
   <updated>2026-10-26T05:01:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e" medium="image"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e</webfeeds:featuredImage>
   <summary>Los legisladores están aprobando proyectos de ley respaldados por la industria para blindarse frente a los peores escenarios, en lugar de abordar los problemas…</summary>
@@ -277,7 +507,7 @@
   <published>2026-10-23T05:00:00+00:00</published>
   <updated>2026-10-23T05:00:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>La inquietante conclusión de un periodista a partir de «You Can See Everything».</summary>
@@ -338,7 +568,7 @@
   <published>2026-10-22T06:00:00+00:00</published>
   <updated>2026-10-22T06:00:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe6597816c08dcef9416e66a88d87ad3f3e7ef166.jpg?alt=media&amp;token=0e5ae043-033a-49f2-bdd8-be08fa4de97d"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe6597816c08dcef9416e66a88d87ad3f3e7ef166.jpg?alt=media&amp;token=0e5ae043-033a-49f2-bdd8-be08fa4de97d" medium="image"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe6597816c08dcef9416e66a88d87ad3f3e7ef166.jpg?alt=media&amp;token=0e5ae043-033a-49f2-bdd8-be08fa4de97d" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe6597816c08dcef9416e66a88d87ad3f3e7ef166.jpg?alt=media&amp;token=0e5ae043-033a-49f2-bdd8-be08fa4de97d"/>
   <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe6597816c08dcef9416e66a88d87ad3f3e7ef166.jpg?alt=media&amp;token=0e5ae043-033a-49f2-bdd8-be08fa4de97d</webfeeds:featuredImage>
   <summary>Una guía básica sobre este elemento crucial y, francamente, misterioso de la ciencia climática.</summary>
@@ -388,128 +618,5 @@
 &lt;p&gt;Cuanto más aumentamos la temperatura del planeta, más alteramos complejos fenómenos naturales que apenas estamos empezando a comprender.&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Este artículo forma parte de The Spark, el boletín semanal sobre clima de&lt;/em&gt; MIT Technology Review&lt;em&gt;. Para recibirlo en tu bandeja de entrada cada miércoles,&lt;/em&gt; &lt;em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/climate-energy-the-spark/" target="_blank" rel="noopener"&gt;suscríbete aquí&lt;/a&gt;. &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Podemos hacer cosas imposibles</title>
-  <link href="https://www.technologyreview.es/article/we-can-do-impossible-things"/>
-  <id>https://www.technologyreview.es/article/we-can-do-impossible-things</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fed3eed6e963129272efbeb4f99a61ab73752f35b.jpg?alt=media&amp;token=401a49cb-a114-4972-81fe-e0bfa76853ac"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fed3eed6e963129272efbeb4f99a61ab73752f35b.jpg?alt=media&amp;token=401a49cb-a114-4972-81fe-e0bfa76853ac" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fed3eed6e963129272efbeb4f99a61ab73752f35b.jpg?alt=media&amp;token=401a49cb-a114-4972-81fe-e0bfa76853ac"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fed3eed6e963129272efbeb4f99a61ab73752f35b.jpg?alt=media&amp;token=401a49cb-a114-4972-81fe-e0bfa76853ac</webfeeds:featuredImage>
-  <summary>Resulta demasiado fácil perder de vista la ambición cuando estamos ocupados apagando fuegos con los problemas del mundo.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fed3eed6e963129272efbeb4f99a61ab73752f35b.jpg?alt=media&amp;token=401a49cb-a114-4972-81fe-e0bfa76853ac" alt="Podemos hacer cosas imposibles" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Corinne Iozzio&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Resulta demasiado fácil perder de vista la ambición cuando estamos ocupados apagando fuegos con los problemas del mundo.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Apuesto a que todo el mundo tiene una respuesta ensayada para la que es, sin duda, una de las peores preguntas de entrevista de trabajo del mundo: «¿Cuál es tu mayor debilidad?». Siempre que me la han hecho, respiro despacio —e incluso pensativo— y suelto mi frase: «Me digo que no a mí mismo con demasiada frecuencia».&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;No voy a mentir. Es un poco descarado: un caso indiscutible de falsa modestia. Tengo una mentalidad sistémica: en cuanto surge una idea, pongo en marcha de inmediato un análisis de viabilidad en mi cabeza. Hago listas, trazo cronogramas y calculo partidas presupuestarias. A veces incluso empieza a tomar forma un tosco diagrama de Gantt. (Soy el alma de la fiesta, como seguro que ya te imaginas).&lt;/p&gt;
-
-&lt;p&gt;A lo largo de mis más de 20 años de carrera como periodista de ciencia y tecnología, mi cerebro ha sido el escenario de un tira y afloja casi constante entre la ambición y la realidad. Aprender a encontrar ese equilibrio es, en gran medida, lo que me ha ayudado a sobrevivir en este sector y, en última instancia, lo que me ha traído hasta aquí. La pasada primavera tuve el gran privilegio de unirme al increíble equipo de periodistas que hay detrás de &lt;em&gt;MIT Technology Review &lt;/em&gt;para tomar las riendas de la revista impresa. &lt;/p&gt;
-
-&lt;p&gt;Si nos has estado leyendo en los últimos números, quizá hayas notado que empiezan a materializarse algunos cambios. Hemos recuperado una selección habitual de listas e infografías (dos cosas que a las revistas se les dan especialmente bien). Pero el mayor cambio apenas está empezando a tomar forma, motivo por el cual Mat Honan, nuestro director editorial, me pidió que interviniera para presentarme —y presentar el número que tienes ahora mismo entre las manos.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Nos estamos dando permiso para jugar y experimentar. Para ser un poco… audaces.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Porque, por muy práctico que sea, sigo teniendo muchas ideas. Es solo que a veces necesito un recordatorio para dejar de bloquearme y &lt;em&gt;pasar a la acción&lt;/em&gt;. Ese es el espíritu que impulsa este número en particular.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Queríamos cerrar 2026 con una serie de reportajes que repasasen ideas imposibles. ¿Por qué? Porque, francamente, es muy divertido soñar con vivir en la Luna o subir nuestro cerebro a la nube. Porque es demasiado fácil perder de vista la ambición cuando da la sensación de que solo estamos jugando al juego de los topos con los problemas del mundo. Pero también porque los científicos e ingenieros que se niegan en rotundo a rendirse ante las iniciativas más audaces —como fabricar sangre sintética o descifrar el lenguaje de los animales— nos recuerdan para qué se supone que sirve todo esto de la tecnología en primer lugar.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Se supone que debe aprovechar la investigación y el desarrollo de vanguardia y aplicarlos para hacer la vida mejor, más segura, más saludable e incluso más alegre. Y cuando metemos la pata y empeoramos las cosas (véanse los contaminantes eternos, las muertes por accidentes de tráfico y la IA que fomenta comportamientos potencialmente peligrosos entre los usuarios), se supone que debemos volver a la carga, evaluar los daños y encontrar formas de arreglar lo que hemos roto. Incluso cuando desenredar el embrollo parezca, en sí mismo, imposible.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Justo antes de llegar a &lt;em&gt;MIT Technology Review, &lt;/em&gt;editaba una newsletter sobre acciones individuales que pueden ayudar a abordar la crisis climática, algo que algunos calificarían —y han calificado— de esfuerzo inútil, dada la descomunal magnitud del problema. Podrían decir que es tan inverosímil como un botón de apagado de emergencia para la IA, la fusión nuclear viable o un superconductor que funcione a temperatura ambiente. Pero si algo aprendí de los tres años que pasé buscando formas de que un simple mortal como yo (¡o como tú!) pudiera hacer mella en una de las mayores amenazas existenciales de la humanidad, es que centrarse en lo que no podemos hacer solo hace que la oscuridad sea aún más profunda.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Así que sí, esto va por quienes tienen la audacia de intentarlo y se niegan a que nadie —ellos mismos incluidos— les diga que no.&lt;/p&gt;
-
-&lt;p&gt;Espero que disfrutes del viaje.&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Baterías de estado sólido</title>
-  <link href="https://www.technologyreview.es/article/solid-state-batteries"/>
-  <id>https://www.technologyreview.es/article/solid-state-batteries</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j5oyVNjrUPI/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/j5oyVNjrUPI/maxresdefault.jpg" medium="image"/>
-  <media:thumbnail url="https://img.youtube.com/vi/j5oyVNjrUPI/maxresdefault.jpg"/>
-  <webfeeds:featuredImage>https://img.youtube.com/vi/j5oyVNjrUPI/maxresdefault.jpg</webfeeds:featuredImage>
-  <summary>Las baterías que sustituyen los electrolitos líquidos por materiales sólidos prometen cargarse más rápido, durar más y (algo crucial) calentarse menos.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/j5oyVNjrUPI/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F0e4c30747da5b4bd943c5c8be54c54625661caf4.jpg?alt=media&amp;token=04b2af0f-c339-47f3-b0da-a7ad6df16fe5" alt="Baterías de estado sólido" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Alexander C. Kaufman&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Las baterías que sustituyen los electrolitos líquidos por materiales sólidos prometen cargarse más rápido, durar más y (algo crucial) calentarse menos.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;El auge de la batería de iones de litio, que alimenta desde los dispositivos electrónicos personales más pequeños hasta gigantescos sistemas de almacenamiento de energía, ha sido nada menos que revolucionario. Pero, como te diría cualquiera que haya subido a un avión en la última década, almacenar y suministrar energía desplazando iones de litio cargados a través de una sopa de electrolito líquido tiene sus inconvenientes, entre los cuales destaca la preocupante tendencia de estas baterías a incendiarse. Aquí es donde entra en juego la batería de estado sólido, que sustituye el líquido por un material cerámico o un polímero sólido, creando acumuladores que se cargan más rápido, duran más, concentran más energía en menos espacio y (algo crucial) funcionan a menor temperatura. Una nueva generación de empresas se propone comercializar este tipo de baterías y, si sus apuestas salen bien, esta tecnología podría facilitar de forma sustancial el abandono de los combustibles fósiles.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los escollos&lt;/h3&gt;
-
-&lt;p&gt;Las baterías de estado sólido llevan más de una década «a solo unos pocos años de distancia». En los laboratorios, la tecnología funciona. Pero ha habido obstáculos. En los diseños que combinan el electrolito sólido con un ánodo de litio metálico (la parte de la batería que libera electrones en un circuito eléctrico), durante la carga tienden a crecer unos filamentos en forma de aguja llamados dendritas que, con el tiempo, atraviesan el electrolito y cortocircuitan la celda. Se &lt;em&gt;supone&lt;/em&gt; que los electrolitos sólidos deben bloquear físicamente la formación de dendritas, pero muchos de ellos se agrietan a medida que estas ramificaciones arborescentes se abren paso como raíces en unos cimientos de hormigón.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Luego está el problema de la fabricación a gran escala. La producción en masa exige grandes cantidades de láminas sin defectos de un material similar a la cerámica para fabricar los electrolitos, además de salas secas para el ensamblaje, ya que estos electrolitos tienden a reaccionar con el agua. Los posibles fabricantes barajan diversos precios potenciales para las baterías de estado sólido, pero la mayoría prevé que se equiparen a los paquetes de iones de litio en algún momento a mediados de la década de 2030.&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los avances&lt;/h3&gt;
-
-&lt;p&gt;A pesar de ser una tecnología incipiente, las baterías de estado sólido ya han protagonizado &lt;a href="https://www.youtube.com/watch?v=j5oyVNjrUPI"&gt;sonados tropiezos&lt;/a&gt;. Sin embargo, una de las empresas de baterías de estado sólido más avanzadas de Estados Unidos afirma estar muy cerca de poder comercializar su producto. QuantumScape, respaldada por Bill Gates, se fundó en Silicon Valley en 2010 y diseñó su batería a partir de un tipo de materiales cerámicos que, según sostiene, es compatible con el litio, lo que evita la formación de dendritas. «Después nos pasamos unos 10 años aprendiendo a procesarlo para cumplir todos los demás requisitos», afirma Tim Holme, cofundador y director de tecnología de QuantumScape. En 2025, la startup anunció un método de fabricación propio a gran escala para producir rápidamente y tratar térmicamente los electrolitos cerámicos que utiliza en sus baterías. «Nadie había hecho esto antes en el campo de la cerámica», asegura Holme. Durante 10.000 años, fabricar cerámica ha supuesto cocer lentamente los materiales de partida en un horno durante varios días. «Nosotros encontramos la forma de reducirlo a unos minutos», apunta.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Muchas otras empresas también están impulsando esta tecnología. Toyota, el mayor fabricante de automóviles del mundo, &lt;a href="https://pressroom.toyota.com/tmc-outlines-eco-car-plans-battery-research-progress/"&gt;lanzó&lt;/a&gt; un programa de investigación sobre baterías de estado sólido allá por 2010. Ahora colabora con la compañía global de energía y petróleo Idemitsu Kosan en una planta piloto, con la promesa de vehículos capaces de recorrer hasta 745 millas tras recargar durante 10 minutos o menos: un salto enorme si sale bien. En China, CATL, el gigante que acapara cerca del 40 % del mercado mundial de baterías, también está apostando con fuerza por las baterías de estado sólido, destinando &lt;a href="https://greyb.com/blog/solid-state-battery-companies/"&gt;casi 2600 millones de dólares&lt;/a&gt; a un programa de investigación solo en 2024. Mercedes, por su parte, equipó una de sus berlinas EQS con baterías de estado sólido el pasado otoño; tras recorrer 750 millas sin parar, el coche &lt;a href="https://electrek.co/2025/09/09/mercedes-eqs-with-solid-state-ev-batteries-drove-750-miles/"&gt;aún disponía de autonomía&lt;/a&gt; restante.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;¿Ganará tracción esta tecnología? Invertir en baterías para vehículos tiene sentido dado el tamaño del mercado potencial. Sin embargo, cualquier pequeño incremento en los costes suele trasladarse a los compradores, por lo que las primeras baterías de estado sólido para vehículos eléctricos serán, inevitablemente, más caras.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Los compradores de almacenamiento para la red, que trabajan para satisfacer la creciente demanda provocada por los centros de datos, también podrían dudar a la hora de adquirir nuevas tecnologías que todavía no han bajado en la curva de costes. Por otra parte, la promesa de un almacenamiento de energía que dure más de las ocho horas habituales del ion-litio podría hacerlos más fáciles de convencer.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Algunas empresas están siguiendo una estrategia empleada por las firmas dedicadas a la fusión: centrarse en mercados a corto plazo con mejores márgenes para contribuir a financiar el desarrollo y abaratar costes. Varias compañías de baterías de estado sólido, como Solid Energies, afincada en California, y Sion Power, con sede en Arizona, se plantean vender baterías a la industria aeronáutica o al ejército. «Son sectores menos sensibles al coste y que, por lo general, también requieren volúmenes más reducidos», señala Evelina Stoikou, analista principal de tecnologías de baterías y cadenas de suministro en la consultora BloombergNEF. «Es una buena manera de validar el concepto y, a partir de ahí, financiar la planta piloto donde fabricarlo para, con el tiempo, escalar la producción».&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Medidor de progreso ............ 7&lt;/h3&gt;
-
-&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-28.svg" alt="" class="wp-image-1147269" style="width:764px;height:auto"/&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;La tecnología funciona, el capital está disponible y la demanda no se queda atrás. Pero, como ocurre con todo en la fabricación, aún quedan incógnitas desconocidas. &lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Naves espaciales de propulsión nuclear</title>
-  <link href="https://www.technologyreview.es/article/nuclear-powered-spaceships"/>
-  <id>https://www.technologyreview.es/article/nuclear-powered-spaceships</id>
-  <published>2026-10-21T05:00:00+00:00</published>
-  <updated>2026-10-21T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4" medium="image"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4</webfeeds:featuredImage>
-  <summary>Una nueva era de los vuelos espaciales podría ahorrar tiempo a los astronautas y reducir su exposición a la radiación cósmica en su viaje hacia Marte —y más…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe9781d1b06f6788084cb2443d001b03f23a2245f.jpg?alt=media&amp;token=4240b8f7-953a-44d1-8627-2b055f49b2a4" alt="Naves espaciales de propulsión nuclear" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Robin George Andrews&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Una nueva era de los vuelos espaciales podría ahorrar tiempo a los astronautas y reducir su exposición a la radiación cósmica en su viaje hacia Marte —y más…&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Justo antes de que la tripulación de Artemis II iniciara su histórico efecto tirachinas alrededor de la Luna el pasado mes de abril, la NASA anunció sus planes para construir el Space Reactor-1 Freedom. El SR-1, la primera nave espacial interplanetaria de la historia propulsada por un reactor nuclear, tiene previsto realizar una misión no tripulada a Marte a finales de 2028 para llegar en 2029. El éxito de la misión marcaría el comienzo de una nueva era de vuelos espaciales más eficientes y potencialmente más rápidos—lo que ahorraría tiempo a los astronautas y reduciría su exposición a la dañina radiación cósmica en sus viajes a Marte y más allá—. «Te despiertas con ese anuncio y se te dibuja una gran sonrisa en la cara», afirma Simon Middleburgh, codirector del Nuclear Futures Institute de la Universidad de Bangor, en Gales.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los escollos&lt;/h3&gt;
-
-&lt;p&gt;Operar un reactor nuclear en el espacio puede parecer una locura, pero no lo es. La Unión Soviética puso en órbita decenas de reactores, a menudo para alimentar satélites espía. Y los expertos aseguran que no hay grandes obstáculos técnicos para hacer realidad la propulsión nuclear espacial. «Creo que es una tecnología muy viable», afirma Philip Metzger, investigador en ingeniería de vuelos espaciales del Florida Space Institute. «Me alegra ver que por fin lo están haciendo».&lt;/p&gt;
-
-&lt;p&gt;Aun así, el desarrollo de la propulsión espacial mediante reactores ha avanzado con lentitud. Estados Unidos ha puesto en marcha —y cancelado— &lt;a href="https://www.nasa.gov/space-technology-mission-directorate/tdm/space-nuclear-propulsion/#history"&gt;varios programas&lt;/a&gt; dedicados a investigarla a lo largo de los últimos 75 años. La víctima más reciente ha sido DRACO, una colaboración entre la NASA y el Departamento de Defensa que &lt;a href="https://arstechnica.com/space/2025/06/some-parts-of-trumps-proposed-budget-for-nasa-are-literally-draconian/"&gt;llegó a su fin&lt;/a&gt; en 2025. El proyecto se &lt;a href="https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/"&gt;canceló&lt;/a&gt; debido a los elevados costes de experimentación, la imposibilidad de competir en precio con la propulsión convencional de cohetes y la dificultad para garantizar que las pruebas en tierra se realizaran de forma segura y eficaz. (Al fin y al cabo, estás generando una reacción nuclear increíblemente potente).&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Los avances&lt;/h3&gt;
-
-&lt;p&gt;Tras muchas dudas, ahora parece que los viajes interplanetarios con propulsión nuclear son una apuesta de 2000 millones de dólares que la NASA está dispuesta a asumir. La agencia está desarrollando un enfoque denominado propulsión nuclear eléctrica, que utiliza los neutrones generados en una reacción autosostenida de fisión de átomos de uranio para producir calor y, en última instancia, electricidad. Dicha electricidad se emplea para ionizar un gas, que se expulsa de la nave espacial con la ayuda de campos magnéticos, generando así empuje. Este método «ofrece muy poco empuje, pero es muy eficiente», afirma Sebastian Corbisiero, director técnico nacional de programas de reactores espaciales del Departamento de Energía de Estados Unidos. «Por tanto, se puede utilizar durante un largo periodo de tiempo».&lt;/p&gt;
-
-&lt;p&gt;¿Qué aspecto tendría un cohete así? Una presentación de Steve Sinacore, director del programa SR-1 de la NASA, ofrece algunas pistas. Por ahora, el diseño conceptual hace que la nave parezca una colosal flecha con plumas. La parte trasera albergará el sistema de energía y propulsión, mientras que en la punta se ubicará un reactor nuclear cargado de uranio con una potencia de al menos 20 kilovatios. (Para ponerlo en contexto, una &lt;a href="https://www.energy.gov/ne/articles/infographic-how-much-power-does-nuclear-reactor-produce"&gt;central nuclear típica&lt;/a&gt; en la Tierra es unas 50.000 veces más potente). Las «plumas» del SR-1 son grandes aletas que ayudan a refrigerar el reactor disipando el calor hacia el espacio.&lt;/p&gt;
-
-&lt;p&gt;Al igual que muchos otros componentes espaciales, el reactor tendrá que ponerse a prueba en tierra antes de recibir el visto bueno para el agitado viaje en cohete al espacio. «Superar el lanzamiento de forma segura va a ser todo un reto», afirma Middleburgh. «Sufres sacudidas, traqueteos y zarandeos». Por motivos de seguridad, el reactor se encenderá unos dos días después del lanzamiento, cuando ya se encuentre a una distancia prudencial de la Tierra. El uranio en sí no es excesivamente peligroso, pero no puede decirse lo mismo de los residuos que se generan cuando el reactor está en funcionamiento. Si el SR-1 funciona según lo previsto, su viaje a Marte durará alrededor de un año.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;¿Llegará realmente esta novedosa forma de propulsión espacial al Planeta Rojo para 2029? Es posible. La NASA afirma que el Laboratorio Nacional de Idaho, que está construyendo el reactor del SR-1, progresa adecuadamente y mantiene su previsión de lanzamiento para finales de 2028. «La adquisición de los componentes principales está en marcha y los trabajos de integración del elemento de potencia y propulsión avanzan a paso firme», declaró Sinacore a &lt;em&gt;MIT Technology Review&lt;/em&gt;. Las perspectivas serán aún más favorables si el programa Artemis, cuyo objetivo es empezar a sentar los cimientos de una base en el polo sur lunar para finales de la década, cumple con su propio y audaz calendario.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;«Es un calendario muy ajustado», afirma Lindsey Holmes, vicepresidenta de proyectos avanzados de Analytical Mechanics Associates, una empresa aeroespacial de Virginia. Sospecha que este impulso se debe, en parte, a las propias &lt;a href="https://www.reuters.com/business/energy/china-led-lunar-base-include-nuclear-power-plant-moons-surface-space-official-2025-04-23/"&gt;ambiciones nucleares de China y Rusia en el espacio profundo&lt;/a&gt;. Ambos países han hablado de planes para instalar un reactor en la superficie lunar a mediados de la década de 2030 con el fin de suministrar energía a una base lunar operada conjuntamente. Tanto si triunfa en el espacio como si fracasa, el desarrollo del SR-1 debería ayudar a la NASA a colocar su propio reactor en la Luna; la tecnología implicada en ambos proyectos es a grandes rasgos similar, dado que la superficie lunar, al igual que el propio espacio, es el vacío. Si una nave espacial interplanetaria de propulsión nuclear funciona, un reactor nuclear en la Luna también debería hacerlo.&lt;/p&gt;
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-&lt;div style="height:2em" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Indicador de progreso . . . . . . . . . . . . 6&lt;/h3&gt;
-
-&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;img src="https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg" alt="" class="wp-image-1147261" style="width:764px;height:auto"/&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;La mayor parte de la tecnología para el SR-1 ya existe; la clave estará en encajar todas las piezas y comprobar cómo se comporta en el espacio.&lt;/strong&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

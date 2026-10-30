@@ -11,7 +11,7 @@
   <published>2026-10-29T00:11:25+00:00</published>
   <updated>2026-10-29T00:11:25+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/sensatez-y-sentimiento-critica_filmsteria.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/sensatez-y-sentimiento-critica_filmsteria.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/sensatez-y-sentimiento-critica_filmsteria.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/sensatez-y-sentimiento-critica_filmsteria.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/sensatez-y-sentimiento-critica_filmsteria.jpg</webfeeds:featuredImage>
   <summary>esta nueva versión de Sensatez y Sentimiento es cien por ciento para fans de esta historia y del imaginario de Jane Austen.</summary>
@@ -109,7 +109,7 @@
   <published>2026-10-23T16:07:09+00:00</published>
   <updated>2026-10-23T16:07:09+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/10/La_bola_negra_crítica_filmsteria.jpg</webfeeds:featuredImage>
   <summary>Hay una frase que dice que quien sabe hacer comedia sabe hacerlo todo. Y creo que La Bola Negra es una prueba bastante contundente de ello.</summary>
@@ -182,7 +182,7 @@
   <published>2026-10-02T04:41:47+00:00</published>
   <updated>2026-10-02T04:41:47+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/verity_crítica_filmsteria.jpg</webfeeds:featuredImage>
   <summary>Verity conserva lo que menos me convencía del libro: la necesidad de subirle constantemente al drama hasta llegar a lo absurdo.</summary>
@@ -320,7 +320,7 @@
   <published>2026-09-29T17:40:45+00:00</published>
   <updated>2026-09-29T17:40:45+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/digger-crítica_filmsteria.jpg</webfeeds:featuredImage>
   <summary>Al final, Iñárritu sigue siendo Iñárritu. Sólo que esta vez llegó ahí haciendo una película completamente desquiciada. Esa película se llama Digger.</summary>
@@ -458,7 +458,7 @@
   <published>2026-09-06T12:50:36+00:00</published>
   <updated>2026-09-06T12:50:36+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/labachataposter.jpg</webfeeds:featuredImage>
   <summary>La Bachata del biónico es una comedia stoner singular. Una película que nos invita a abrazar el caos en una experiencia que no es para cualquier espectador.</summary>
@@ -599,7 +599,7 @@
   <published>2026-09-05T18:45:16+00:00</published>
   <updated>2026-09-05T18:45:16+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/rigoberto_perezcano.jpg</webfeeds:featuredImage>
   <summary>Luego de ganar varios premios con sus cintas anteriores (Norteado, Carmín Tropical), Rigoberto Perezcano regresa con: Los Amantes se Despiden con la Mirada.</summary>
@@ -797,7 +797,7 @@ Arte: Filmsteria&lt;/p&gt;
   <published>2026-08-10T15:31:51+00:00</published>
   <updated>2026-08-10T15:31:51+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/09/nadie-nos-va-a-extranar.jpg</webfeeds:featuredImage>
   <summary>Nadie nos va a Extrañar regresa con nuevos personajes, mucha música, mejor narrativa y por supuesto, toneladas de nostalgia noventera.</summary>
@@ -883,7 +883,7 @@ Arte: Filmsteria&lt;/p&gt;
   <published>2026-08-01T20:13:57+00:00</published>
   <updated>2026-08-01T20:13:57+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/the_invite_Filmsteria.jpg</webfeeds:featuredImage>
   <summary>The Invite es el gran regreso de Olivia Wilde, que sale de las llamas para vulnerarse al explicar su propia experiencia marital</summary>
@@ -1023,7 +1023,7 @@ Arte: Filmsteria&lt;/p&gt;
   <published>2026-08-01T16:12:55+00:00</published>
   <updated>2026-08-01T16:12:55+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/08/spidey-zendaya.jpg</webfeeds:featuredImage>
   <summary>Spider-Man: Brand New Day no es solo una secuela más en la cartelera; es el reflejo especular de toda una generación, una catársis generacional.</summary>
@@ -1193,7 +1193,7 @@ Arte: Filmsteria&lt;/p&gt;
   <published>2026-07-30T18:45:52+00:00</published>
   <updated>2026-07-30T18:45:52+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg"/>
-  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg" medium="image"/>
+  <media:content url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg"/>
   <webfeeds:featuredImage>https://bucket-filmsteria.s3.amazonaws.com/wordpress/wp-content/uploads/2026/07/images-13.jpg</webfeeds:featuredImage>
   <summary>Spider-Man: Brand New Day pasa gran parte del tiempo intentando convencernos de que el villano importa... cuando sabemos que la historia siempre fue otra.</summary>

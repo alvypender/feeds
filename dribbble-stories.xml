@@ -3,7 +3,713 @@
 <title>Dribbble Stories – Diseño y Curaduría</title>
 <link href="https://dribbble.com/stories"/>
 <id>https://dribbble.com/stories</id>
-<updated>2026-10-28T22:29:13+00:00</updated>
+<updated>2026-10-30T19:34:29+00:00</updated>
+<entry>
+  <title>The Website Go-Live Checklist: 5 Critical Checks Beyond Good Looks</title>
+  <link href="https://dribbble.com/stories/2026/10/30/website-go-live-checklist"/>
+  <id>https://dribbble.com/stories/2026/10/30/website-go-live-checklist</id>
+  <published>2026-10-30T19:34:29+00:00</published>
+  <updated>2026-10-30T19:34:29+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/73061/original/dbbd53087b41fa33a79f812c719465cd.png?1793387242"/>
+  <media:content url="https://cdn.dribbble.com/uploads/73061/original/dbbd53087b41fa33a79f812c719465cd.png?1793387242" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/73061/original/dbbd53087b41fa33a79f812c719465cd.png?1793387242"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/73061/original/dbbd53087b41fa33a79f812c719465cd.png?1793387242</webfeeds:featuredImage>
+  <summary>A website can look finished before it works. Anthony Dutcher of Vix Media Group shares a website go-live checklist for clear messaging, usable design and working inquiries.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/73061/original/dbbd53087b41fa33a79f812c719465cd.png?1793387242" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;A website can look finished before it works. Anthony Dutcher of Vix Media Group shares a website go-live checklist for clear messaging, usable design and working inquiries.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Anthony Dutcher is a Founding Partner at &lt;a href="https://www.vixmediagroup.com" target="_blank" rel="noreferrer noopener nofollow"&gt;Vix Media Group&lt;/a&gt;, a Denver-based agency working across healthcare, technology, and media. His team is deliberately split between agency and in-house backgrounds and runs its own infrastructure, so it has sat on both sides of the brief. He believes research should drive design decisions.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A website can look finished before it is ready to use. The opening screen feels confident, the presentation goes well, and everyone agrees it looks better. Then somebody tries to find a specific service or send an inquiry from their phone. That moment is why every launch needs a website go-live checklist that goes beyond good looks.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That is the review I care about. At Vix Media Group, I want website development judged by what a visitor can understand and do, along with what a team can present.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In an October 16, 2026 project review, the report marked 31 of 32 requested changes complete. I still felt the work needed better judgment. The report told me which changes were done. It could not tell me whether the pages communicated well.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That distinction costs time if you discover it late. A completed checklist is useful, and judgment still has to sit on top of it. These five checks give the business owner and marketing team a practical review before sign-off. They complement the security, accessibility, and technical launch checks your &lt;a href="https://dribbble.com/hire/web-developers" target="_blank" rel="noopener"&gt;web developers&lt;/a&gt; run.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;1. Read the page as a customer would&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Start with the question the visitor came to answer. Someone comparing services needs different information from someone who already knows what they want and needs to book.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For each important page, ask:&lt;/p&gt;
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;Can I tell what the business offers and who it is for?&lt;/li&gt;
+
+
+
+&lt;li&gt;Can I find the information I need to compare or trust it?&lt;/li&gt;
+
+
+
+&lt;li&gt;Do I understand what happens after I contact the business?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Read the sentences and headings. “Solutions designed around you” could belong to almost any company. “Interior design for offices, from layout planning to installation” gives a buyer something to work with.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Specific copy can still have personality. Good copy has a point of view and still answers the question. If the team has to explain the page over a call, put the missing explanation on the page.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;2. Keep the character. Cut the friction.&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73062/original/9f981d391dfd79d26f9f9ee735907c15.png?1793387263" alt="" /&gt;&lt;figcaption class="wp-element-caption"&gt;The interface examples in these graphics were designed for this article. They illustrate review decisions and do not show a client redesign or measured conversion results.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Whitespace earns its place when it makes the page easier to read. It becomes waste when it makes the visitor work harder to connect the offer, the evidence, and the next step.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A headline does not need its own full screen just because it is short. A useful explanation shouldn&amp;#8217;t become four separate sections just to fill a template. Before adding another block, ask what new question it answers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On a phone, review the whole scroll. Keep a claim close to the information that supports it. Bring the next action into the same reading sequence. Remove repeated promises before shrinking type or hiding important details.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Length matters less than purpose. Aim for a page where every space does a job, and the information arrives when the reader needs it.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;Make the business recognizable&lt;/h3&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A website should feel like the business behind it. I want confidence, a memorable image, and the moment that makes someone stop. The impressive part still needs to serve the page.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Strong branding can show up in a distinctive type treatment, a deliberate crop, or one well-chosen interaction. Not every section has to compete for attention.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Ask your &lt;a href="https://dribbble.com/hire/web-designers" target="_blank" rel="noopener"&gt;web designers&lt;/a&gt; what would remain recognizable if you covered the logo. Then ask whether the same design still works when the visitor reads on a small screen, enlarges the text, or navigates without a mouse.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A beautiful movement that delays the answer is a tradeoff, so treat it as one. Keep the character and remove the obstacle.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;3. Score the work, but do not let a score approve it&lt;/h3&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A useful score explains a decision. “Nine out of ten” does not help the team unless it says what is strong, what is weak, and what would change the verdict.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I would score these areas separately:&lt;/p&gt;
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;&lt;strong&gt;Clarity:&lt;/strong&gt; can the intended customer understand the offer?&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Character:&lt;/strong&gt; does the design feel specific to this business?&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Ease of use:&lt;/strong&gt; can someone read, navigate, and act without confusion?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Agree on the scale before reviewing. One means the area fails its purpose. Five means it partly works but needs substantial correction. Ten means it meets the agreed brief, with no material weakness found in that review. A ten still makes no promise about commercial performance.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Pair every score with an observation and a next action. “The offer is clear, but the contact button disappears below a long empty section on mobile” is useful. “Needs more polish” is not.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Keep functional checks separate. A form either passed the specified test, failed it, or remains untested. Attractive typography cannot compensate for a lost inquiry. We approach &lt;a href="https://www.vixmediagroup.com/resources/the-website-was-ready-to-launch-the-go-to-market-system-was-not" target="_blank" rel="noreferrer noopener nofollow"&gt;launch readiness&lt;/a&gt; the same way: define what must work, who owns it, and what test proves it.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;AI can help organize feedback or run a first review against agreed criteria. I would not treat its self-score as independent approval. Whether the first pass comes from software or a teammate, the person approving the work needs to inspect the result. An unchecked assumption stays unchecked, no matter how confidently it is scored.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;4. Make feedback easy to locate and finish&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73063/original/5900b4b1c053b77dfd5afddad726d578.png?1793387291" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Good feedback identifies the page, the problem, and the intended result. I use Tella for walkthroughs, and others on our team use Loom. Screen recordings let us show the reading sequence and point to exactly where something feels wrong.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The recording still needs to become actionable work. “Move this up” loses meaning once it is separated from the screen. Attach the relevant moment or image, name the section, and explain what the change should accomplish.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;We have also built a way for clients to leave comments directly on our custom-built sites. The purpose is simple: keep feedback next to the work, so clients never have to describe a location in a long email.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For example, “Bring the contact action directly below the service explanation so I do not have to search for it” gives the team a concrete correction. Assign an owner, make the change, and return to the same page and screen size to check it. Record what was verified before closing the comment.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;5. Test the path from interest to a real inquiry&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73064/original/3cdf1ca28075b8a4070d122851869212.png?1793387307" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before approval, follow the route a customer would take. Open a service page, use the navigation, complete the form, and confirm that the inquiry reaches the intended destination. Check the confirmation message too: does the person know what happens next?&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Ask the team to test failure cases as well as successful submission. What happens when a required field is empty, or the request cannot be sent? Can someone recover without starting over or wondering whether the message arrived?&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before launch, confirm that &lt;a href="https://www.vixmediagroup.com/resources/form-fill-to-sale-attribution-how-we-trace-every-step-without-pretending-the-record-is-complete" target="_blank" rel="noreferrer noopener nofollow"&gt;inquiry tracking&lt;/a&gt; distinguishes a button click from a submitted inquiry. After launch, use the available source data to see where inquiries come from. A well-reviewed page is a stronger starting point, and the market still has to respond.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Before you sign off&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Ask the team for a simple record:&lt;/p&gt;
+
+&lt;ol class="wp-block-list"&gt;
+&lt;li&gt;The page and screen size checked.&lt;/li&gt;
+
+
+
+&lt;li&gt;The issue found and the person responsible.&lt;/li&gt;
+
+
+
+&lt;li&gt;What changed and the evidence that it worked.&lt;/li&gt;
+
+
+
+&lt;li&gt;Anything still untested or awaiting approval.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I cannot put a defensible time-saving percentage on our newer feedback process yet. I would rather track review rounds, reopened issues, and problems found after approval than claim that a faster first draft made the whole project faster.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The standard is simple: the business is clear, the design has character, and the next step works. The review should leave the team knowing what changed and the owner knowing what they are approving.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before you approve your next website, what can your team show you beyond a good-looking first screen?&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Space Is the New SaaS: 4 Lessons From Designing Websites for Aerospace Startups</title>
+  <link href="https://dribbble.com/stories/2026/10/30/global-websites-for-aerospace-startups"/>
+  <id>https://dribbble.com/stories/2026/10/30/global-websites-for-aerospace-startups</id>
+  <published>2026-10-30T17:40:05+00:00</published>
+  <updated>2026-10-30T17:40:05+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/73056/original/31efd194f6fc2ea7db8cb7d38e227c80.png?1793381058"/>
+  <media:content url="https://cdn.dribbble.com/uploads/73056/original/31efd194f6fc2ea7db8cb7d38e227c80.png?1793381058" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/73056/original/31efd194f6fc2ea7db8cb7d38e227c80.png?1793381058"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/73056/original/31efd194f6fc2ea7db8cb7d38e227c80.png?1793381058</webfeeds:featuredImage>
+  <summary>Lunar hotels, orbital data centers, and satellite networks all need clear, credible sites. Flexy Global shares four lessons from designing websites for aerospace startups.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/73056/original/31efd194f6fc2ea7db8cb7d38e227c80.png?1793381058" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Lunar hotels, orbital data centers, and satellite networks all need clear, credible sites. Flexy Global shares four lessons from designing websites for aerospace startups.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Authors:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;&lt;a href="https://www.linkedin.com/in/garik-avetisyan-86b84010/" target="_blank" rel="noreferrer noopener nofollow"&gt;Garik Avetisyan&lt;/a&gt;, &lt;a href="https://www.linkedin.com/in/davit-gabrielyan/" target="_blank" rel="noreferrer noopener nofollow"&gt;Davit Gabrielyan&lt;/a&gt;, and &lt;a href="https://www.linkedin.com/in/rooccosor/" target="_blank" rel="noreferrer noopener nofollow"&gt;Anastasia Saroka&lt;/a&gt; are co-founders of &lt;a href="https://www.flexy.global/" target="_blank" rel="noreferrer noopener nofollow"&gt;Flexy Global&lt;/a&gt;, a design and development partner for startups and global enterprises. Garik built and successfully exited a consumer app used by millions. Davit brings 15 years of experience leading complex projects and operations at international companies including Orange and Coca-Cola Hellenic. Anastasia, Design Director at Flexy Global, brings experience designing products for large corporations and startups in the fitness industry. Together, they believe advanced technology creates greater value when people can understand it, trust it, and use it confidently.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Six years ago, when we founded Flexy Global, we chose a star for our logo. It represented the sense of magic we wanted to bring to our work: turning ambitious ideas into experiences that feel clear, thoughtful, and possible. Years later, that symbol took on a more literal meaning when we began designing websites for aerospace startups.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Today, we design websites for aerospace startups building lunar hotels, orbital AI data centers and space-based networks. Our work includes GRU Space, Starcloud and Exosat, along with several projects we cannot name yet.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Why aerospace startups need SaaS-grade websites&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Across these projects, the recurring challenge has been the same. We have to make complex services clear, build trust in products that do not exist yet, and give the right audience a reason to act.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As the cost of sending payloads into space falls, the space economy could grow to the scale of national economies. Thousands of companies could offer new goods and services, from orbital computing to lunar bases. They will need the clarity, proof, and conversion paths of strong SaaS and e-commerce experiences.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Here are four lessons we have learned along the way.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;1. Space is the new SaaS: sell what the rocket makes possible&lt;/h3&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73057/original/f829ed6b3f8815ffcc8a5feb3cacca4c.png?1793381077" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Aerospace startups often lead with satellites, payloads, or engineering breakthroughs. Their customers want the outcomes those technologies enable.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Starcloud sells access to AI compute in orbit. Exosat offers satellite capacity and infrastructure to operators that need more control over their networks. GRU Space invites future guests to reserve a place in a lunar hotel. Each website needs to clarify the offer, identify its audience, and guide them to the next step.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For GRU, we treated the reservation path like luxury e-commerce with an unusually long sales cycle. The primary call to action stays visible throughout the experience. Meanwhile, the journey introduces the vision, the timeline, and the selective qualification process behind a stay planned for 2032.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Ambition still needs to lead to concrete action. Design for the wow, and make sure it ends in a conversion.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;2. Design the gap between vision and proof&lt;/h3&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73058/original/fd80f939520a110e97e246703b26cfb6.png?1793381100" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Aerospace startups often sell products scheduled to launch years from now, while investors, customers, and talent evaluate them today. That makes the roadmap central to the website story.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For Starcloud, the progression from Starcloud-1 to later missions shows how orbital computing can grow into commercial infrastructure. GRU follows a similar path, from lunar systems tests and habitat deployment to a hotel that can receive guests.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;We brought these roadmaps into the main homepage journey. The scroll connects each long-term promise with the mission, milestone, or technical proof that moves it closer to reality. Visitors can follow the sequence and see how one stage prepares the next.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A timeline turns science fiction into a plan.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;3. Proof beats renders&lt;/h3&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73059/original/0e35e4cf552d9158e992a32b15b874b2.png?1793381121" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Renders help audiences understand products that are too large, too distant, or too early to photograph, and skilled &lt;a href="https://dribbble.com/hire/3d-designers" target="_blank" rel="noopener"&gt;3D designers&lt;/a&gt; can make them convincing. Yet aerospace websites filled entirely with flawless satellites and glowing horizons can quickly feel speculative.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Starcloud-1 offers stronger proof. It launched in November 2025 carrying the first NVIDIA H100 GPU into orbit, later running Google’s Gemma model and training an AI model in space. Those achievements make the larger vision credible.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;We grounded ambitious claims in real artifacts: hardware and mission photography, launch dates, named partners, technical milestones, and concrete firsts. The website keeps its sense of scale while giving visitors evidence they can verify.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Our practical rule is simple: &lt;strong&gt;one credible fact for every major render.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;4. One site has to persuade four audiences&lt;/h3&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73060/original/d01ada5dcf172e8cfcc33ec5f3af2c75.png?1793381149" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;An aerospace website may need to address investors, customers, engineering talent, and press or regulators within the same experience. Each group arrives with different questions, so the content needs clear layers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For Exosat, the first layer communicates the larger proposition: satellite infrastructure that gives sovereign operators more control. The next layer explains direct-to-device capability, compatibility with existing infrastructure, and faster coverage expansion. Deeper sections cover spectrum, orbit, latency, capacity, and manufacturing details for technical readers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Across these projects, the headline establishes the strategic idea. The next sections explain customer value, and dedicated pages or deeper content provide the technical substance. Careers also get a clear route, because hiring is a major conversion for deep-tech startups.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The result is a focused experience that serves different levels of expertise. One story should offer several levels of detail.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;The shared problem behind every aerospace website&lt;/h3&gt;
+
+&lt;p class="wp-block-paragraph"&gt;GRU Space, Starcloud and Exosat operate in very different parts of the aerospace economy. Their websites still solve a shared communication problem. Each must turn a complex, future-facing idea into a service people can understand, trust, and act on today. For &lt;a href="https://dribbble.com/hire/web-designers" target="_blank" rel="noopener"&gt;web designers&lt;/a&gt; entering the sector, that is the brief worth preparing for.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;SpaceX’s push toward reusable launch systems has helped open the door to a new space economy. Orbital infrastructure, lunar settlements, and eventually asteroid resources could expand what humanity can build. &lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Elon Musk captures that future simply: “You want to wake up in the morning and think the future is going to be great.” The growing number of space startups is making that optimism feel tangible.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Cross-Platform Design: Working Across Apple and Google Without Losing Your Point of View</title>
+  <link href="https://dribbble.com/stories/2026/10/30/cross-platform-design"/>
+  <id>https://dribbble.com/stories/2026/10/30/cross-platform-design</id>
+  <published>2026-10-30T17:16:15+00:00</published>
+  <updated>2026-10-30T17:16:15+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/73052/original/62d450a09841dff7c8b89850d80aa1e6.png?1793380165"/>
+  <media:content url="https://cdn.dribbble.com/uploads/73052/original/62d450a09841dff7c8b89850d80aa1e6.png?1793380165" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/73052/original/62d450a09841dff7c8b89850d80aa1e6.png?1793380165"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/73052/original/62d450a09841dff7c8b89850d80aa1e6.png?1793380165</webfeeds:featuredImage>
+  <summary>Apple and Google each have strong design opinions. Nicolas Solerieu of Expo shares cross-platform design principles that respect both platforms while keeping your product recognizable.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/73052/original/62d450a09841dff7c8b89850d80aa1e6.png?1793380165" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Apple and Google each have strong design opinions. Nicolas Solerieu of Expo shares cross-platform design principles that respect both platforms while keeping your product recognizable.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Nicolas Solerieu is a product and brand designer at &lt;a href="https://expo.dev/" target="_blank" rel="noreferrer noopener nofollow"&gt;Expo&lt;/a&gt;, working across product, web, and brand identity. Previously at GitHub and Opendoor, he’s interested in software, the web, and the strange craft of arranging rectangles for a living.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Apple and Google have become increasingly opinionated about expressive design, making cross-platform design a fun, hot topic. It is also hard to navigate, given how many form factors and platforms exist today. &lt;a href="https://expo.dev/blog/liquid-glass-app-with-expo-ui-and-swiftui" target="_blank" rel="noreferrer noopener nofollow"&gt;Apple’s Liquid Glass&lt;/a&gt; leans into translucency, depth, and fluidity. Google’s Material 3 Expressive favors bold shapes, colors, typography, and springy motion. Both are compelling, and each has its own personality. Neither is guaranteed to suit your brand.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That creates an interesting dilemma when you design one product for both ecosystems, and beyond.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Cross-platform development has long promised parity: one codebase, one design system, and ideally the same experience everywhere. The efficiency makes sense. A consistent product still doesn’t need to look identical on every platform, and making everything match can become a strange priority. None of your users compare screenshots. They’re just trying to use the thing.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Know the rules before breaking them&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Designing for multiple platforms requires some familiarity with each ecosystem. &lt;a href="https://dribbble.com/hire/app-designers" target="_blank" rel="noopener"&gt;App designers&lt;/a&gt; working across both should:&lt;/p&gt;
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;Understand device constraints, safe areas, and system UI.&lt;/li&gt;
+
+
+
+&lt;li&gt;Follow established navigation and interaction patterns.&lt;/li&gt;
+
+
+
+&lt;li&gt;Know when to use native components and controls.&lt;/li&gt;
+
+
+
+&lt;li&gt;Use both platforms regularly, particularly their default apps.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That last one is where the gold is.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;You can learn the guidelines and UI kits. Knowing how something should work still doesn’t tell you how it should feel. That’s where design judgment, or taste, comes in.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Opening a menu, dismissing a sheet, going back a screen: ordinary stuff, until something feels slightly off. Timing, gestures, and transitions are difficult to appreciate in a Figma file. Spending time on both platforms helps you notice the expectations you’ve stopped noticing on your own phone.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The documentation is extensive. The examples are in our pockets. We might as well use them.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Decide what makes it yours&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73053/original/16111b3ce8f81159b35bc08493f52b57.png?1793380189" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before deciding what should change between platforms, establish what should stay consistent.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Your product’s identity might come from its typography, illustration, writing, or information hierarchy. Perhaps it’s a particular interaction or the physical product itself. Perhaps the content does most of the work, and the interface can stay quiet.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Consider a space travel app. I’m using a concept here, so we can conveniently skip the engineering complications of getting to Mars.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Large planetary imagery, spacecraft, deep black backgrounds, and compact flight information establish its visual world. Those qualities can carry across platforms even if the menus and navigation differ. The spacecraft looks cool, but at its core, this is an airline UX with booking, boarding, and onboard experiences.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The useful question is what people would recognize as yours. A particular corner radius probably won’t carry the whole brand, and neither will translucency.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;A checklist for the native-versus-custom debate&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;You don’t have to choose between fully native and fully custom. I’d argue that deciding for an entire app is usually the wrong approach.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Judge it at the component level. Here are a few questions worth bringing into a design review:&lt;/p&gt;
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;&lt;strong&gt;What does the user already know?&lt;/strong&gt; Preserve familiar navigation, gestures, and controls unless changing them offers a clear benefit. Learning your app shouldn’t require them to unlearn their phone.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;What does customization contribute?&lt;/strong&gt; A clearer visualization? A better interaction? Some personality? All valid reasons. “We wanted our own button” needs a little more explanation.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;What should stay consistent?&lt;/strong&gt; Identify the language, information hierarchy, and visual qualities that define the product. Give the team something concrete to preserve.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Have we tried the whole flow on both devices?&lt;/strong&gt; Include the keyboard, menus, transitions, and system UI. Two tidy screenshots can hide two very different experiences.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Does it survive ordinary complications?&lt;/strong&gt; Larger text, long names, reduced motion, screen readers, loading, and errors. The flattering mockup is only one state.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Can we maintain it?&lt;/strong&gt; Involve &lt;a href="https://dribbble.com/hire/app-developers" target="_blank" rel="noopener"&gt;app developers&lt;/a&gt; early and document intentional differences. A clever variation becomes less charming when nobody remembers why it exists.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These questions won’t make the decision for you. They should make the discussion more useful.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Put it to work: a flight to Mars&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73054/original/95e3b55419449e6b7a6e8ae5bea3bc35.png?1793380231" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;In the space travel concept, browsing destinations is a good place to build something custom. Large views of Mars and the Moon make exploration part of the experience. A shared layout gives unfamiliar information, such as gravity, transit time, and available bases, a predictable structure.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The imagery provides the spectacle. The hierarchy helps people compare. Both are worth preserving across platforms.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The boarding pass calls for a different balance. The spacecraft image gives it personality, but departure time, boarding status, seat, and barcode still need to be immediately readable. A beautiful ship won’t help someone find their gate. A boarding pass is a familiar pattern that doesn’t need reinventing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This is where the checklist becomes practical. What happens with a longer passenger name? Larger text? A delayed departure? Those states should influence the layout before we get too attached to it.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The flight tracker offers another chance to create a signature experience. A spacecraft above a planet gives the journey scale, while progress and telemetry communicate its status. That visualization could remain consistent across platforms, with motion respecting accessibility preferences.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Around these moments, passenger selection, sharing and routine menus can follow platform conventions. There’s plenty of room for personality without redesigning every supporting control.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Flexibility has a cost&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Some products benefit from leaning heavily into their operating system. Utility apps often gain more from familiarity and efficiency than from an elaborate visual identity.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Others, like Duolingo, have built a recognizable world of their own. Their personality is part of the experience. Most products sit somewhere in between.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;There’s work involved either way. Platform differences need designing and testing. Custom controls need accessibility and interaction details that standard components may already handle.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For a small team, sharing most of the interface can be a perfectly reasonable choice. Spend the extra effort where you can explain what it improves. You don’t need a philosophical commitment to either extreme.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Let the technology follow&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73055/original/5a9bd821737fe66be3b91b6a095a8cd3.png?1793380284" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Frameworks like Expo make this approach practical. With &lt;a href="https://expo.dev/blog/expo-ui-stable-sdk-56" target="_blank" rel="noreferrer noopener nofollow"&gt;Expo UI&lt;/a&gt;, developers can use native SwiftUI and Jetpack Compose components alongside custom React Native interfaces. For the space travel concept, that could mean native booking controls alongside a custom planet browser and flight tracker. The implementation follows the role of each component.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The native-versus-React-Native debate often treats cross-platform as a compromise you make until you can afford something better. From a design and brand perspective, I find that framing pretty limiting. A shared interface can be a deliberate choice. Your product has its own point of view, and preserving it across devices is a perfectly good ambition.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;AI makes this even more interesting. Agentic workflows and simulators make it easier to generate separate implementations. Keeping them coherent, testing them, and refining the details still takes work. More code isn’t automatically more progress. I’d rather spend that effort improving the experience than maintaining differences nobody asked for.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That’s why React Native and other cross-platform frameworks appeal to me as a designer. They give small teams room to build a recognizable product, share the work that benefits from consistency, and adapt where the platform calls for it. That flexibility serves both the brand and the reality of building something.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Respect the platform. Apple and Google already have art directors. Your product needs one too.&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>The Interface Is Disappearing: What Designers Actually Design in the Age of AI Agents</title>
+  <link href="https://dribbble.com/stories/2026/10/30/design-in-the-age-of-ai-agents"/>
+  <id>https://dribbble.com/stories/2026/10/30/design-in-the-age-of-ai-agents</id>
+  <published>2026-10-30T16:54:41+00:00</published>
+  <updated>2026-10-30T16:54:41+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/73048/original/0f9d2796d62a2a30c82b090d90c2ce11.png?1793378512"/>
+  <media:content url="https://cdn.dribbble.com/uploads/73048/original/0f9d2796d62a2a30c82b090d90c2ce11.png?1793378512" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/73048/original/0f9d2796d62a2a30c82b090d90c2ce11.png?1793378512"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/73048/original/0f9d2796d62a2a30c82b090d90c2ce11.png?1793378512</webfeeds:featuredImage>
+  <summary>As agents take over workflows, designers spend less time on screens. Unfold on product design in the age of AI agents, and when an interface is still needed.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/73048/original/0f9d2796d62a2a30c82b090d90c2ce11.png?1793378512" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;As agents take over workflows, designers spend less time on screens. Unfold on product design in the age of AI agents, and when an interface is still needed.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author: &lt;/em&gt;&lt;br /&gt;&lt;a href="https://www.unfold.co/" target="_blank" rel="noreferrer noopener nofollow"&gt;&lt;em&gt;Unfold&lt;/em&gt;&lt;/a&gt; &lt;em&gt;Founder &amp;amp; Creative Director Eddie Lobanovskiy builds high-impact brand identities and UI/UX ecosystems at the intersection of classical design and AI innovation. Designer of the XRP logo.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For most of the history of software, design meant screens. People clicked through dashboards, opened menus, and moved between apps to get one job done. That pattern is changing. More and more, people tell an agent what they want done, and the agent works across tools in the background. Design in the age of AI agents starts from that shift.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;It changes what designers actually design. We still design screens, though fewer of them. Increasingly, we design behaviors, instructions, permissions, handoffs, states, and the moment an agent takes action.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;At Unfold, we see this in our own work. A growing share of our recent projects involve agents, connectors, skills, plugins, and workflows, where a few years ago we would have built standalone app screens. Here is what that shift has taught us so far.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;From clicking through tools to telling an agent what to do&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73049/original/f5ca13adc5512d5cd56a996d8fafb693.png?1793378550" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;We have already started replacing standalone tools with agents. A workflow that used to mean opening several apps can now run as one request. The agent moves through the steps across those tools while the person does something else.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Think of a weekly client report. Traditionally, someone pulls numbers from an analytics tool, updates a project board, drafts a summary, and sends it. An agent can handle each step. The person’s job moves from operating the tools to stating the goal and checking the result.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For designers, the starting question changes. We used to ask which screen a user needs next. Now we often ask what the user is trying to get done, and how much of it they want to watch happen.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Intent, action, result: the new shape of UX&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73050/original/cc066798aec8bc47644bca86984fe9b5.png?1793378591" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Traditional software might require five screens and ten clicks to complete a task. An agent experience may need only three moments: a prompt, a confirmation, and a result.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;We think of the new UX as intent, action, and result, and each stage carries its own design problems. Intent needs to be captured clearly, even when the request is vague. Action needs boundaries, so the agent knows what it may do alone and what needs approval. The result needs to be presented so the person can trust it, check it, and change it.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Fewer screens still leave plenty to design. The decisions move from layout into logic, language, and timing.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Apps become infrastructure, agents become the interface&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;People will keep using CRMs, project management platforms and analytics software. What changes is how they reach them. The agent increasingly becomes the layer people interact with, and the apps sit underneath as infrastructure.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That raises new questions for product teams. If users rarely open your product directly, where does your brand live? How do people know which system did what? What happens when an agent pulls data from one tool and writes it into another? These are as much design questions as engineering ones.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;What we design now: behaviors, permissions and handoffs&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73051/original/b4a278fe8bbd2edde3d0656c32703314.png?1793378612" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Our recent work has shifted toward agents, connectors, skills, plugins, and workflows, often designed as clusters of capabilities. Our &lt;a href="https://unfold.co/services" target="_blank" rel="noreferrer noopener nofollow"&gt;product design work&lt;/a&gt; now regularly includes deliverables that never appear on a screen.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;We define how an agent should behave when a request is ambiguous. We decide which actions it can take on its own and which need a person’s approval. We map handoffs between agents, tools, and people, and the states a task can move through along the way. We also write the instructions that shape how the agent responds.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Good design here means making AI feel predictable, trustworthy, understandable, and easy to control. A polished interface still matters, but it cannot make up for an agent whose behavior surprises people.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Designing confirmation and transparency&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Confirmation and transparency have become central UX problems in our work. If an agent is about to send a message, change data, spend money, or interact with another system, the person needs to understand what will happen before it happens.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A useful confirmation shows the action, the target, and the consequence in plain language. “Send this proposal to three client contacts” tells the person exactly what they are approving. A bare “Proceed?” leaves them guessing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Transparency continues after the action. People should be able to see what the agent did, which tool it used, and how to undo it if something went wrong. The more consequential the action, the more visible those steps should be.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Where visual interfaces still belong&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Interfaces will still exist, just fewer. We expect the strongest products to combine conversation with visual UI exactly where visuals help.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Those moments are fairly consistent: reviewing results, comparing options, editing, approving and monitoring. A conversation is a fast way to ask for something. A table, a chart, or a side-by-side view often lets you judge what came back faster. Knowing when to switch between the two is a design decision in its own right.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Designers as system architects&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;As screens shrink, our attention shifts to how everything connects. We think less about individual pages and more about how users, agents, tools, data, and actions relate to each other. In that sense, designers are starting to work like system architects.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This work sits close to engineering. In our experience, it goes best when &lt;a href="https://dribbble.com/hire/product-designers" target="_blank" rel="noopener"&gt;product designers&lt;/a&gt; and &lt;a href="https://dribbble.com/hire/ai-developers" target="_blank" rel="noopener"&gt;AI developers&lt;/a&gt; work through it together. The designer’s contribution is the human side of the system: what people expect, what they need to see, and where they need control.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Deciding when an interface is needed at all&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The opportunity for designers is getting bigger. AI can generate UI quickly. As generation gets cheaper, deciding what should exist, what should disappear, and how the whole experience should behave becomes more valuable.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For years, product design has aimed for better interfaces. In the age of AI agents, part of the job is figuring out when an interface is needed at all, and designing everything around it when it isn’t.&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>The Brand Color Strategy: Our Branding Agency’s Guide to Purposeful Design</title>
+  <link href="https://dribbble.com/stories/2026/10/30/brand-color-strategy"/>
+  <id>https://dribbble.com/stories/2026/10/30/brand-color-strategy</id>
+  <published>2026-10-30T16:23:18+00:00</published>
+  <updated>2026-10-30T16:23:18+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/73044/original/5660353b8a74b5ee5f056cb88d6ec3c7.png?1793376763"/>
+  <media:content url="https://cdn.dribbble.com/uploads/73044/original/5660353b8a74b5ee5f056cb88d6ec3c7.png?1793376763" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/73044/original/5660353b8a74b5ee5f056cb88d6ec3c7.png?1793376763"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/73044/original/5660353b8a74b5ee5f056cb88d6ec3c7.png?1793376763</webfeeds:featuredImage>
+  <summary>Pantone picked white for 2026. Anjelika Lours’ Kour of DD.NYC explains why brand color strategy starts with what a color needs to do for the business.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/73044/original/5660353b8a74b5ee5f056cb88d6ec3c7.png?1793376763" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Pantone picked white for 2026. Anjelika Lours’ Kour of DD.NYC explains why brand color strategy starts with what a color needs to do for the business.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;a href="https://dd.nyc/" target="_blank" rel="noreferrer noopener nofollow"&gt;DD.NYC®&lt;/a&gt; &lt;em&gt;Creative Director &amp;amp; Managing Partner Anjelika Lours’ Kour specializes in corporate branding, web design, and video storytelling. Beyond working with powerhouse clients, she actively shapes the wider creative industry as a global judge for the International Academy of Digital Arts and Sciences (IADAS) and the Scholastic Art &amp;amp; Writing Awards.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;There’s a spectrum of reasons for choosing brand colors. Maybe the client always loved blue, or it was the color of their first company logo. Maybe everyone else in the category is blue, so they want orange to stand out.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Instinct matters, but it isn’t a strategy on its own. After two decades of building brands across real estate, healthcare, hospitality, and technology, I care most about that distinction.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;At our agency, brand color strategy sits alongside messaging and positioning. We ask clients what the color needs to do for their business. Personal preference comes up too, but only the business answer holds up once the brand launches.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That question gets more interesting once a year, when Pantone tells the world which color to pay attention to.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Why we don’t just chase the color of the year&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Pantone has named a Color of the Year every December since 1999, and the ritual now reaches well past the design world. Retailers build seasonal collections around it. Interior and &lt;a href="https://dribbble.com/hire/graphic-designers" target="_blank" rel="noopener"&gt;graphic designers&lt;/a&gt; reference it in client decks. It shows up everywhere before most consumers know why.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For 2026, Pantone did something new in the tradition’s history: it chose white. Cloud Dancer, officially PANTONE 11-4201, was introduced as a lofty, balanced white meant to symbolize calm in what Pantone called a frenetic society. It invites quiet reflection instead of more noise.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I understand the instinct behind it. Design has spent several years leaning into maximalism, saturated palettes, and loud everything, so a pause makes sense as a counter-movement. The reaction told a more useful story than the color itself. Critics called Cloud Dancer bland or tone-deaf, and &lt;a href="https://www.prweek.com/article/1942470/6-brands-reacted-pantones-cloud-dancer-color-year" target="_blank" rel="noreferrer noopener nofollow"&gt;several brands joked online&lt;/a&gt; that it looked like dairy. Even the most neutral color picks up meaning from the context it lands in.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Internally, we talk a lot about not chasing trends for their own sake. Our job is to work out which signals create lasting value for a brand and which ones are noise dressed up as insight.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Start with what the color needs to do&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73042/original/cc457e4b1f6c71680ab61eca6151145a.png?1793376641" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;We don’t start a color conversation by opening a swatch book. We start by asking what the color needs to accomplish, and the answer changes with every brand. Three goals come up most often in our work: trust, exclusivity, and community.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;When the goal is trust: WillowWood&lt;/h3&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73043/original/0d748c8f28667e6f496b702a6bba4949.png?1793376678" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Trust is usually the goal in finance, healthcare, and anything institutional. That means restraint, cooler tones, and choices that each earn their place. It was the thinking behind &lt;a href="https://dd.nyc/work/willowwood-global-medical-branding/" target="_blank" rel="noreferrer noopener nofollow"&gt;our corporate rebrand of WillowWood&lt;/a&gt;, a 117-year-old American prosthetics manufacturer that became WillowWood Global.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The palette had to do two jobs at once. It needed to feel clinical enough to earn a physician’s confidence and human enough to resonate with someone relearning how to walk. We kept the base to white, black, and light grey, and gave movement and vitality to a single turquoise accent.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Nothing in that palette was decorative. Every color carried part of the brand’s promise in a category where trust is the product. We introduced the new brand at Hanger Live with a custom trade show booth, and the rebrand later earned a Gold Anthem Award Honor in the Product and Innovation category.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;When the goal is exclusivity: luxury real estate&lt;/h3&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For exclusivity, the instinct to add more color is almost always wrong. Our &lt;a href="https://dd.nyc/services/real-estate/" target="_blank" rel="noreferrer noopener nofollow"&gt;luxury real estate branding&lt;/a&gt; clients show this most clearly. Restraint, negative space, and a tightly limited palette read as confidence.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Add color for its own sake, and the brand starts to read as effort instead of ease. In luxury, effort is the opposite of what you’re selling.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;When the goal is community: mission-led brands&lt;/h3&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73045/original/e4f702701552b87e02837a5fab338312.png?1793376786" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For community or advocacy, warmth and saturation do more of the work than austerity ever could. Our approach to a mission-led, values-driven client looks nothing like our approach to a fintech startup, because the audience needs a different emotional register.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A palette that photographs beautifully but misses what the audience needs to feel hasn’t done its job yet.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Across all three, every color decision we make has to trace back to a specific outcome we can defend out loud. “It just felt right” doesn’t count. If we can’t explain what a color does for the business, we haven’t finished the work. We’ve just picked something that looks nice.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;How to build a brand color palette with purpose&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73046/original/1c91a9da237914c07f3bf7c1c1feb010.png?1793376814" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;If you’re rethinking your brand’s palette, alone or with &lt;a href="https://dribbble.com/hire/brand-designers" target="_blank" rel="noopener"&gt;brand designers&lt;/a&gt;, this is roughly the process we’d walk a client through.&lt;/p&gt;
+
+&lt;ol class="wp-block-list"&gt;
+&lt;li&gt;&lt;strong&gt;Start by naming the job.&lt;/strong&gt; Decide what the color needs to do: build trust, create urgency, signal premium positioning, or feel warm and approachable. Write it down in one sentence before a single hex code enters the conversation.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Audit your category honestly.&lt;/strong&gt; Look at what competitors do with color and ask a harder question than “do I like it?” Is it working for them, or is it a default nobody has questioned in years?&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Test restraint before you test more.&lt;/strong&gt; Adding color is the easy move. Subtracting it and trusting the remaining choices to carry more weight is usually the harder, more confident one.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Make the reasoning visible.&lt;/strong&gt; Whatever palette you land on, write the “why” into your brand guidelines and pitch materials. If the reasoning needs a long defense, the palette probably needs more work.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Stop treating color as decoration&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73047/original/23f91c4bede03f7605ba1018e898c3f0.png?1793376836" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Every decision we make at DD.NYC comes back to one question: what is this doing for the business? Color doesn’t get an exception because it’s visual, emotional, and easy to have opinions about. Treating it as decoration is one of the most common mistakes we see founders make, and one of the easiest to fix.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before you pick your next brand color, or reach for whatever Pantone declares next December, ask one question. Could you defend this choice, out loud, in one sentence? If the answer is no, you don’t have a color decision yet.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>How to Build a Brand That Doesn’t Look Like Everyone Else</title>
+  <link href="https://dribbble.com/stories/2026/10/29/how-to-build-a-brand-that-stands-out"/>
+  <id>https://dribbble.com/stories/2026/10/29/how-to-build-a-brand-that-stands-out</id>
+  <published>2026-10-29T21:40:17+00:00</published>
+  <updated>2026-10-29T21:40:17+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/73009/original/9d71c796d95bbf8171c70d45d1d69f3e.jpg?1793307375"/>
+  <media:content url="https://cdn.dribbble.com/uploads/73009/original/9d71c796d95bbf8171c70d45d1d69f3e.jpg?1793307375" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/73009/original/9d71c796d95bbf8171c70d45d1d69f3e.jpg?1793307375"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/73009/original/9d71c796d95bbf8171c70d45d1d69f3e.jpg?1793307375</webfeeds:featuredImage>
+  <summary>Competitor research tells you where you fit, and copying it makes you forgettable. Diana Hlevnjak on how to build a brand that stands apart in its category.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/73009/original/9d71c796d95bbf8171c70d45d1d69f3e.jpg?1793307375" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Competitor research tells you where you fit, and copying it makes you forgettable. Diana Hlevnjak on how to build a brand that stands apart in its category.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;&lt;a href="https://dianahlevnjak.com/" target="_blank" rel="noreferrer noopener nofollow"&gt;Diana Hlevnjak&lt;/a&gt; brings over 20 years of experience in graphic design, branding, and illustration. Her Master’s degree in Fine Arts continues to inform her approach to visual communication, blending artistic exploration with practical design thinking. Her work spans branding, packaging, game design, and illustration, always centered on building cohesive, thoughtful visual systems across digital and print media.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;When you start a new brand, it is natural to look at what already exists. You look at competitors, collect references, save logos you like, and build a moodboard. You might even look for a &lt;a href="https://dribbble.com/hire/brand-designers" target="_blank" rel="noopener"&gt;brand designer&lt;/a&gt; who has already worked in your industry. Learning how to build a brand often starts with that research, and it shouldn’t end there.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;It makes sense. You want someone who understands your market.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The problem is that if you look too closely at what everyone in your category does, your brand can end up looking like everyone else. A strong brand needs to understand its category. It doesn’t always need to look like it.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Learn your category’s visual language before you move away from it&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73010/original/9cca1de74aefe544555f451f7ce3f349.png?1793307392" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Every industry develops its own visual language. Coffee brands lean toward certain aesthetics. Technology companies have their own conventions. Beauty, wellness, hospitality, finance, food, and fashion all have patterns that become familiar over time.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These conventions are useful. They help people understand at a glance what kind of product or service they’re looking at.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Understanding that visual language and repeating it are two different things. If every competitor uses the same typography, color palette, symbols, and visual style, following them too closely can make your brand feel both appropriate and forgettable.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The aim is to find your difference, which rarely means being completely different. Start by understanding what your category expects. Then decide where your brand follows those expectations and where it moves away.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Start with the problem before the logo&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before you brief &lt;a href="https://dribbble.com/hire/logo-designers" target="_blank" rel="noopener"&gt;logo designers&lt;/a&gt;, a few questions need answers:&lt;/p&gt;
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;Who are you trying to reach?&lt;/li&gt;
+
+
+
+&lt;li&gt;What makes your business different?&lt;/li&gt;
+
+
+
+&lt;li&gt;What should people feel when they encounter your brand?&lt;/li&gt;
+
+
+
+&lt;li&gt;What does your category already look like?&lt;/li&gt;
+
+
+
+&lt;li&gt;Where are the opportunities to do something differently?&lt;/li&gt;
+
+
+
+&lt;li&gt;What needs to stay familiar, and what can be unexpected?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These questions create the foundation for every design decision. Without them, it is easy to reproduce whatever is popular right now.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Stepping away from coffee category clichés with ALTITUDE&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://dianahlevnjak.com/coffee-roasters-branding/" target="_blank" rel="noreferrer noopener nofollow"&gt;ALTITUDE&lt;/a&gt; is a specialty coffee brand identity I created for enthusiasts who appreciate quality, craftsmanship, and origin. The collection covers three single-origin coffees from Ethiopia, Colombia, and Guatemala. My work covered the logo and packaging design.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Coffee is a category full of familiar imagery: beans, cups and vintage badges. The challenge was to communicate premium quality through subtle design choices, while keeping three distinct products connected in one visual system.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I built the identity around altitude, a defining characteristic of premium coffee cultivation. Instead of literal illustrations, I used abstract, flowing forms inspired by mountain contours as the core visual language. A custom wordmark, a restrained color palette, and minimalist typography create a calm, contemporary aesthetic.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Each pouch has its own color composition, roast profile, and origin information. The goal was a line that feels cohesive while each origin keeps its own personality, without the beans, cups and badges the category usually relies on.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Look for inspiration outside your industry&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73011/original/52e1d233754043f4a05b09e19a39a01b.png?1793307408" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This is one reason I don’t believe a designer’s portfolio should be judged only by whether they have worked in your industry.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I often notice that clients looking for a designer ask to see work similar to what they need. A restaurant wants to see restaurant branding. A skincare company wants skincare branding. A technology company wants technology branding.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;There is logic behind this request. You want reassurance that the designer understands your world. There is another way to look at it, though. Sometimes the most interesting solution for your brand comes from somewhere completely different. A designer who has worked across many industries has faced different problems, audiences, visual languages, and ways to communicate an idea.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Borrow principles from other categories&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Imagine you’re launching a premium tea brand. You don’t need a designer who has already created five tea brands.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;You might find inspiration in how a luxury fashion brand uses typography, how an architecture studio builds a visual system, how a fragrance brand uses negative space, or how a publishing house organizes information. None of those businesses sell tea, and that is exactly why the references can be useful.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Judge a designer’s portfolio by how they think&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73012/original/8c8e4644cb35fda08da2246424ffa7e8.png?1793307424" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;When evaluating a designer, look at their work as a whole. Don’t only ask whether they have designed something exactly like your business. Also ask what kinds of problems they have solved.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Look at the variety, and at how they approached different audiences. Check whether they can move between visual languages, and how they use typography, color, illustration, symbols, patterns, and composition. Above all, look for the thinking behind the work.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A designer who has created identities across very different industries brings something valuable: the ability to see your category from the outside. That perspective makes it easier to spot opportunities that someone immersed in the category might overlook. In my own &lt;a href="https://dianahlevnjak.com/services/" target="_blank" rel="noreferrer noopener nofollow"&gt;branding and illustration work&lt;/a&gt;, projects range from beverage and food brands to law practices and SaaS platforms.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Use competitor research to find your place&lt;/h2&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73013/original/cdaadc71c9c88c61c5ec2a7a91b23c70.png?1793307443" alt="" /&gt;&lt;/figure&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Competitive research matters. A designer should understand the landscape your brand will enter. That research should help answer “Where do we fit?” It shouldn’t automatically answer “What should we look like?”&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;If ten competitors use muted neutrals, you don’t have to use a bright color. If everyone has a minimalist wordmark, you don’t automatically need an expressive logo. If everyone uses an illustrated mascot, you don’t need another one just because it is common.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sometimes differentiation is obvious, and sometimes it is subtle. It might be a typographic detail, an unexpected proportion, a distinctive visual system, an illustration language, a particular use of color, or a different way of organizing information. Quiet differences can be just as recognizable as loud ones.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Give your designer room to surprise you&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;If you’re hiring a designer, it is tempting to arrive with a specific picture of what you want. You may already have a favorite font, a color palette, a symbol, a few competitor brands you admire, and a Pinterest board full of references.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Those things are helpful. They communicate your taste and show a designer what resonates with you. Treat them as a starting point, and leave room for the destination to change.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Sometimes the most valuable thing a designer brings is a connection you wouldn’t have made yourself. It might come from another industry, a visual principle you hadn’t considered, or a solution that looks nothing like your references but still feels more like your brand.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That is part of the value of hiring a designer. Good design goes beyond executing the picture already in your head. It helps you discover a visual identity you might not have reached on your own, one that makes your brand recognizable, relevant, and distinctly yours.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>The Death of Default SaaS: Why AI Makes Product Design More Important</title>
   <link href="https://dribbble.com/stories/2026/10/28/why-ai-makes-product-design-more-important"/>
@@ -11,7 +717,7 @@
   <published>2026-10-28T22:29:13+00:00</published>
   <updated>2026-10-28T22:29:13+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72981/original/71ae8c736c82ee2091d3af3fce8cee03.png?1793226309</webfeeds:featuredImage>
   <summary>Quincy Samycia replaced five SaaS subscriptions with one AI-built platform. Here is why the experience put product design at the center of build-versus-buy decisions.</summary>
@@ -121,7 +827,7 @@
   <published>2026-10-27T23:36:30+00:00</published>
   <updated>2026-10-27T23:36:30+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72910/original/6d479134a52636d0ed036ea0d456a850.png?1793140426"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72910/original/6d479134a52636d0ed036ea0d456a850.png?1793140426" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72910/original/6d479134a52636d0ed036ea0d456a850.png?1793140426" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72910/original/6d479134a52636d0ed036ea0d456a850.png?1793140426"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72910/original/6d479134a52636d0ed036ea0d456a850.png?1793140426</webfeeds:featuredImage>
   <summary>Beautiful photos stop the scroll, but they rarely explain the service. Klym Yevtushenko of VibeStyle on website design that converts premium visitors into inquiries.</summary>
@@ -203,7 +909,7 @@
   <published>2026-10-26T21:19:55+00:00</published>
   <updated>2026-10-26T21:19:55+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72881/original/48b1c9d566871890606f8127fd7d52d2.png?1793046963"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72881/original/48b1c9d566871890606f8127fd7d52d2.png?1793046963" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72881/original/48b1c9d566871890606f8127fd7d52d2.png?1793046963" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72881/original/48b1c9d566871890606f8127fd7d52d2.png?1793046963"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72881/original/48b1c9d566871890606f8127fd7d52d2.png?1793046963</webfeeds:featuredImage>
   <summary>Leadership keeps asking designers to be more strategic. Vicente Reyes Montealegre of Afternow breaks down strategic thinking for designers into three habits and three questions.</summary>
@@ -333,7 +1039,7 @@
   <published>2026-10-26T20:26:05+00:00</published>
   <updated>2026-10-26T20:26:05+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/72878/original/f40bcfb7acd81203f2fb7712ad6306c3.jpg?1793043237"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72878/original/f40bcfb7acd81203f2fb7712ad6306c3.jpg?1793043237" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72878/original/f40bcfb7acd81203f2fb7712ad6306c3.jpg?1793043237" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72878/original/f40bcfb7acd81203f2fb7712ad6306c3.jpg?1793043237"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72878/original/f40bcfb7acd81203f2fb7712ad6306c3.jpg?1793043237</webfeeds:featuredImage>
   <summary>Followers watch, communities buy. Aaron Swinton, Founder of MAVRK Studio, explains how community growth for food and beverage brands starts before the first day on the shelf.</summary>
@@ -431,7 +1137,7 @@
   <published>2026-10-26T01:43:43+00:00</published>
   <updated>2026-10-26T01:43:43+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72849/original/efc0e92ce9d3d9c1bb9f84e0b2bdf75b.png?1792975501"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72849/original/efc0e92ce9d3d9c1bb9f84e0b2bdf75b.png?1792975501" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72849/original/efc0e92ce9d3d9c1bb9f84e0b2bdf75b.png?1792975501" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72849/original/efc0e92ce9d3d9c1bb9f84e0b2bdf75b.png?1792975501"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72849/original/efc0e92ce9d3d9c1bb9f84e0b2bdf75b.png?1792975501</webfeeds:featuredImage>
   <summary>AI website builders took the bottom rung of small business website design. Boris Sage of DesWave explains what clients still pay a design studio for.</summary>
@@ -565,7 +1271,7 @@
   <published>2026-10-23T23:41:02+00:00</published>
   <updated>2026-10-23T23:41:02+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72815/original/44cdb86ced63ad7ad1866fc412101608.png?1792795360"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72815/original/44cdb86ced63ad7ad1866fc412101608.png?1792795360" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72815/original/44cdb86ced63ad7ad1866fc412101608.png?1792795360" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72815/original/44cdb86ced63ad7ad1866fc412101608.png?1792795360"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72815/original/44cdb86ced63ad7ad1866fc412101608.png?1792795360</webfeeds:featuredImage>
   <summary>AI can generate a hundred brand directions in an afternoon. Quincy Samycia of The Branded Agency explains why AI branding needs creative direction to turn that abundance into a recognizable brand.</summary>
@@ -681,7 +1387,7 @@
   <published>2026-10-20T21:27:34+00:00</published>
   <updated>2026-10-20T21:27:34+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/72712/original/fddc6f8cfaf9f387988b456a83674e0a.jpg?1792439898"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72712/original/fddc6f8cfaf9f387988b456a83674e0a.jpg?1792439898" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72712/original/fddc6f8cfaf9f387988b456a83674e0a.jpg?1792439898" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72712/original/fddc6f8cfaf9f387988b456a83674e0a.jpg?1792439898"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72712/original/fddc6f8cfaf9f387988b456a83674e0a.jpg?1792439898</webfeeds:featuredImage>
   <summary>Ten design agencies, studios, and independent designers share their approaches to client onboarding, from detailed discovery and clear expectations to early delivery and ongoing communication.</summary>
@@ -795,7 +1501,7 @@
   <published>2026-10-16T16:36:09+00:00</published>
   <updated>2026-10-16T16:36:09+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72679/original/7822d73b867076eb0d93e59cb31e6fd8.png?1792165999"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72679/original/7822d73b867076eb0d93e59cb31e6fd8.png?1792165999" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72679/original/7822d73b867076eb0d93e59cb31e6fd8.png?1792165999" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72679/original/7822d73b867076eb0d93e59cb31e6fd8.png?1792165999"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72679/original/7822d73b867076eb0d93e59cb31e6fd8.png?1792165999</webfeeds:featuredImage>
   <summary>Dribbble Community Leader and The Branded Agency Head of Brand and Growth Quincy Samycia shares how Webflow design systems free B2B marketing teams from constant agency dependence.</summary>
@@ -904,7 +1610,7 @@
   <published>2026-10-14T13:15:25+00:00</published>
   <updated>2026-10-14T13:15:25+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869</webfeeds:featuredImage>
   <summary>Dribbble Community Leader and DD.NYC® Creative Director Anjelika Lours' Kour reveals the collaborative strategy behind the official FIFA World Cup 26 NYNJ website, balancing award-worthy design with utilitarian performance to represent the region on a global stage.</summary>
@@ -987,7 +1693,7 @@
   <published>2026-10-09T14:13:22+00:00</published>
   <updated>2026-10-09T14:13:22+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516</webfeeds:featuredImage>
   <summary>Dribbble Community Leader  and The Branded Agency Head of Brand and Growth Quincy Samycia explains how to distinguish positioning, messaging, execution and identity issues before commissioning a rebrand.</summary>
@@ -1146,7 +1852,7 @@
   <published>2026-10-08T14:47:10+00:00</published>
   <updated>2026-10-08T14:47:10+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492</webfeeds:featuredImage>
   <summary>Dribbble Community Leader  and The Branded Agency Head of Brand and Growth Quincy Samycia explains why strong redesigns begin with positioning, decision architecture, proof and measurement before the first screen is designed.</summary>
@@ -1345,7 +2051,7 @@
   <published>2026-09-30T15:18:04+00:00</published>
   <updated>2026-09-30T15:18:04+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72316/original/7f831ae6bdc892120caf1cf6313c1259.png?1790767588"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72316/original/7f831ae6bdc892120caf1cf6313c1259.png?1790767588" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72316/original/7f831ae6bdc892120caf1cf6313c1259.png?1790767588" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72316/original/7f831ae6bdc892120caf1cf6313c1259.png?1790767588"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72316/original/7f831ae6bdc892120caf1cf6313c1259.png?1790767588</webfeeds:featuredImage>
   <summary>Dribbble Community Leader and Expo Product &amp; Brand Designer Nicolas Solerieu talks about closing the gap between AI-generated apps and great product design, from replacing default icons to designing for error states and edge cases AI tends to skip.</summary>
@@ -1416,7 +2122,7 @@
   <published>2026-09-30T15:17:28+00:00</published>
   <updated>2026-09-30T15:17:28+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72349/original/7231e804a80cc72d3afa5fcf6d927bf4.png?1790779559"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72349/original/7231e804a80cc72d3afa5fcf6d927bf4.png?1790779559" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72349/original/7231e804a80cc72d3afa5fcf6d927bf4.png?1790779559" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72349/original/7231e804a80cc72d3afa5fcf6d927bf4.png?1790779559"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72349/original/7231e804a80cc72d3afa5fcf6d927bf4.png?1790779559</webfeeds:featuredImage>
   <summary>Dribbble Community Leader and Heyo Co-Founder Peter Deltondo reveals their radically transparent approach to project budgets, helping clients scope the right features, costs, and expectations.</summary>
@@ -1549,7 +2255,7 @@
   <published>2026-09-30T15:17:13+00:00</published>
   <updated>2026-09-30T15:17:13+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72321/original/cb26c6aaca0d61f3739673b0f2845bf9.png?1790767950"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72321/original/cb26c6aaca0d61f3739673b0f2845bf9.png?1790767950" medium="image"/>
+  <media:content url="https://cdn.dribbble.com/uploads/72321/original/cb26c6aaca0d61f3739673b0f2845bf9.png?1790767950" medium="image" type="image/png"/>
   <media:thumbnail url="https://cdn.dribbble.com/uploads/72321/original/cb26c6aaca0d61f3739673b0f2845bf9.png?1790767950"/>
   <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72321/original/cb26c6aaca0d61f3739673b0f2845bf9.png?1790767950</webfeeds:featuredImage>
   <summary>Dribbble Community Leader and Vix Media Group Founding Partner Anthony Dutcher explains how to protect search traffic during a website redesign, and how to structure content so both Google and AI assistants send people to the right page.</summary>
@@ -1670,1044 +2376,6 @@
 &lt;p class="wp-block-paragraph"&gt;A redesign should make the business easier to understand and easier to reach. The best proof is not how different the homepage looks.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;Before your next relaunch, can you trace a real customer question from the search result to the right answer and a working next step?&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>How To Stay Original While Designing With AI</title>
-  <link href="https://dribbble.com/stories/2026/09/30/cl-eddie-lobanovskiy-unfold-staying-original-ai-design"/>
-  <id>https://dribbble.com/stories/2026/09/30/cl-eddie-lobanovskiy-unfold-staying-original-ai-design</id>
-  <published>2026-09-30T15:16:53+00:00</published>
-  <updated>2026-09-30T15:16:53+00:00</updated>
-  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72085/original/26e7010be4c659b56d50fd51838e2a6b.png?1790348827"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72085/original/26e7010be4c659b56d50fd51838e2a6b.png?1790348827" medium="image"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72085/original/26e7010be4c659b56d50fd51838e2a6b.png?1790348827"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72085/original/26e7010be4c659b56d50fd51838e2a6b.png?1790348827</webfeeds:featuredImage>
-  <summary>Dribbble Community Leader and Unfold Founder &amp; Creative Director Eddie Lobanovskiy shares how his team uses AI tools to speed up moodboarding and prototyping, and explains why taste and judgment still decide what's original.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72085/original/26e7010be4c659b56d50fd51838e2a6b.png?1790348827" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader and Unfold Founder &amp;amp; Creative Director Eddie Lobanovskiy shares how his team uses AI tools to speed up moodboarding and prototyping, and explains why taste and judgment still decide what&amp;#x27;s original.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;strong&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;a href="https://www.unfold.co/" rel="nofollow noopener" target="_blank"&gt;&lt;em&gt;Unfold&lt;/em&gt;&lt;/a&gt;&lt;em&gt; Founder &amp;amp; Creative Director Eddie Lobanovskiy builds high-impact brand identities and UI/UX ecosystems at the intersection of classical design and AI innovation. Designer of the XRP logo.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Every designer using AI eventually asks the same question: if the tool can generate a hundred options in a minute, what is actually left that&amp;#8217;s mine?&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I&amp;#8217;ve spent my career building brand identities and UI/UX ecosystems, and I now work at the intersection of classical design and AI.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As a branding agency optimizing processes with AI, our answer at Unfold is simple. AI helps us explore more possibilities, but our creative team still decides what is worth pursuing.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Where AI tools fit in our design process&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We use AI throughout the creative process: moodboarding, image generation, content, concept exploration, and dev prototypes. GPT, Grok, and Claude help with organization, content, support, and ideation, among other things.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The biggest benefit is speed. It lets us explore more directions earlier, without committing a lot of time to each one.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72089/original/0da0f5e3e2b3886d07a5ec5251728cf9.png?1790348903" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Moodboarding, reimagined&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Moodboarding has changed a lot for us. Instead of only searching for references that already exist, we can generate something closer to the exact visual idea we have in mind.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Branda (&lt;a href="http://www.branda.co" rel="nofollow noopener" target="_blank"&gt;www.branda.co&lt;/a&gt;), our own brand tool, helps us generate ideas and sketches quickly. When we need tighter control over the visuals, we turn to Recraft, which gives us the most control over image generation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We recently partnered with BPay, a peer-to-peer payment system. We had a general idea on the direction of the design, so we plugged it into AI, and it output a few directions that we can go in.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;After we generated a handful of concepts, we pulled out what we thought could work really well and work well together, created a polished version of the direction, and sent it out to the client.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Basically, it avoided us hours of looking for moodboarding and other work, and we were able to pinpoint the exact direction we wanted.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72086/original/2b51636592552735398808a7ba1fa9ef.png?1790348852" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;The first output is never the final output&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We rarely treat the first AI output as final. It&amp;#8217;s usually a starting point that gets refined, redesigned, rewritten, combined, or rebuilt.&lt;br /&gt;This is where the risk sits. If you accept the first result, everything starts to look the same. That&amp;#8217;s why the designer&amp;#8217;s role becomes even more important: you have to know when to push further.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72087/original/aa2cf433e29ce8c6fa14f588722869a0.png?1790348870" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Taste is the filter&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;AI gives us more possibilities, but taste is still the filter.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AI can generate endless options, but someone still has to know what is actually good, what feels generic, and what fits the brand. That judgment is the part no tool supplies.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It&amp;#8217;s also why we start with an idea or direction first, then use AI to help us explore it, rather than letting the tool decide the direction for us.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72088/original/d4fc433f405ca1e6936e9c5623d9fc8c.png?1790348887" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;AI prototyping beyond static screens&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AI has also made prototyping much more powerful. We can move beyond static screens and create interactive ideas much earlier in the process.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Replit is our go-to for quick prototypes and web or product ideation, including live versions. Variant is another tool we use for fast web and product ideation, and it tends to push us in more creative directions. An interactive prototype in front of a client early on changes the conversation from &amp;#8220;imagine this&amp;#8221; to &amp;#8220;try this.&amp;#8221;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In fact, we did the design and frontend development for our client, Videobase (a video creator monetization platform), all within Replit. &lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We still used Figma for collaboration and feedback, but the actual live prototype helped the client visualize things that a flat Figma file wouldn&amp;#8217;t: load effect, hover states, icon animations, graphs, etc.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72090/original/a78ce0b275c8ef7510435353bfbe4930.png?1790348921" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;What originality means for an AI-powered design studio&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For us, originality is not about manually creating every single pixel. It&amp;#8217;s about the idea, the art direction, the decisions, the combinations, and the final point of view.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Originality is in the direction and decisions, not just who touched every pixel.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Because of that, we see the &lt;a href="https://dribbble.com/hire/graphic-designers" target="_blank" rel="noopener"&gt;graphic designer&lt;/a&gt; becoming more of a creative director, editor, and curator, in addition to being a maker. That&amp;#8217;s an upskill, not a replacement. It means clients working with an AI-powered design studio get sharper direction and more considered choices, not just more output.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Using AI responsibly with client work&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We love using AI to help brainstorm and speed up our design work, but we’re always super careful with it. We know how important client confidentiality and NDAs are, so we make sure to keep a close eye on exactly what information goes into any third-party AI tools.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since AI data privacy can be a bit of a grey area and many tools learn from the data people type into them, we always keep our guard up.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When we’re working with high-profile clients or sensitive project details, we make a point to keep our prompts friendly but vague. We avoid using real brand names or specific client details in the tools so that your information stays completely safe, private, and just between us.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;How to hire a design agency that uses AI strategically&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The tools will keep changing, and the options they produce will keep multiplying. What separates original work from generic work is the same as it has always been: a clear direction and the judgment to know what&amp;#8217;s worth keeping.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If you&amp;#8217;re wondering how to&lt;a href="https://dribbble.com/hire/ai-designers" target="_blank" rel="noopener"&gt; hire an ai designer&lt;/a&gt;, look for one that uses AI to sharpen its process, not replace its point of view.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;We use AI to accelerate the process, not outsource the thinking.&lt;/strong&gt;&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>The 6 Reasons 79% of Our Design Clients Come Back</title>
-  <link href="https://dribbble.com/stories/2026/09/30/cl-stan-hristov-dtail-studio-client-retention-strategy"/>
-  <id>https://dribbble.com/stories/2026/09/30/cl-stan-hristov-dtail-studio-client-retention-strategy</id>
-  <published>2026-09-30T15:16:32+00:00</published>
-  <updated>2026-09-30T15:16:32+00:00</updated>
-  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72416/original/488a7f437f5c777714c10c1483028072.png?1791211319"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72416/original/488a7f437f5c777714c10c1483028072.png?1791211319" medium="image"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72416/original/488a7f437f5c777714c10c1483028072.png?1791211319"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72416/original/488a7f437f5c777714c10c1483028072.png?1791211319</webfeeds:featuredImage>
-  <summary>Dribbble Community Leader and Dtail Studio Founder Stan Hristov shares what keeps a design client for a decade: listening before you have an opinion, settling the money before you start, doing work nobody asked for, and why hardly any of it is about the design.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72416/original/488a7f437f5c777714c10c1483028072.png?1791211319" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader and Dtail Studio Founder Stan Hristov shares what keeps a design client for a decade: listening before you have an opinion, settling the money before you start, doing work nobody asked for, and why hardly any of it is about the design.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;br /&gt;Stan Hristov leads &lt;/em&gt;&lt;a href="http://dtailstudio.com/" rel="nofollow noopener" target="_blank"&gt;&lt;em&gt;Dtail Studio&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, a Barcelona-based branding and product design studio working with healthcare, AI and enterprise teams including Elli Cares, OXOS, Cinelytic, Evolus, Cubee, and more.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Of the clients we&amp;#8217;ve worked with since 2019, 79% have come back with a second project. Some are on their fifth. A few have been with us for ten years, long enough that we&amp;#8217;ve started redesigning things we designed the first time around.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Every time we look at why, the answer is almost never &amp;#8220;the design was good.&amp;#8221;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Good design is the entry fee. Every &lt;a href="https://dribbble.com/designers" target="_blank" rel="noopener"&gt;design studio&lt;/a&gt; a client is talking to can show them a beautiful screen, and the screen is almost never what the decision actually comes down to. What keeps people is everything around the work: how you handle a disagreement, how you spend their money, how often you interrupt them, and whether the invoice is ever a topic in the room.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Here’s the client retention strategy we’ve built.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/48967969/file/2f27c0a8f7721b258c4b5e7991bb6a37.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;1. We listen before having an opinion.&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Fifteen years of building products doesn&amp;#8217;t mean we know every business. It means we know how to find out quickly, and how to spot the moment something stops adding up.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The projects that reach us usually started as an idea someone carried around for months, sometimes years. They have already asked the whys and the hows. In the shower, at 2am, in a slightly tense conversation with a co-founder. They know things about their market that we are not going to learn from one discovery call and a competitor audit.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;So the first stretch of any project is listening. Then asking. Then asking again.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Once we do understand the business, and not just the brief, we sometimes land somewhere different from the client. That is the moment we say so.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We bring a recommendation with the reasoning attached. Here&amp;#8217;s what we&amp;#8217;d do. Here&amp;#8217;s why. Here&amp;#8217;s what we think happens if we go the other way.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It&amp;#8217;s still your company and your call, and plenty of times you&amp;#8217;ll overrule us. Some of our best work came out of a client pushing back hard on something we were certain about. But nobody hires a studio for a pair of hands that agrees with them. You&amp;#8217;re paying for the pattern recognition those years bought, and for our willingness to spend it in the room instead of saving it for the retrospective.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;2. We commit to a direction early to protect the budget.&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;A wrong turn in week two costs a conversation. The same wrong turn in week nine costs a rebuild, and the client pays for it twice.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Our process is front-loaded on purpose. Strategic planning, then fast and wide exploration, then an actual decision before anything moves forward. Not &amp;#8220;let&amp;#8217;s keep both directions alive and see how everyone feels next week.&amp;#8221; A decision, with a date on it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That&amp;#8217;s a budget argument at least as much as a creative one, and one of the simplest ways of avoiding scope creep in design projects.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Very little gets thrown away this way. That isn&amp;#8217;t discipline for its own sake. It&amp;#8217;s the client&amp;#8217;s money staying inside the work instead of quietly leaking into rework nobody planned for.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/userupload/46003751/file/9bde7d40e635b51629747bb81e8361da.jpg?resize=752x&amp;amp;vertical=center" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;3. We don’t bill for every Slack message.&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;The moment a client wonders whether a question is billable is the moment they stop asking. Clients who stop asking end up making decisions with less information than they had available.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Prescheduled weekly meetings. They&amp;#8217;re short, they have something in them to decide, and they are not five people taking turns reading out what&amp;#8217;s already in the file.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Everything in between happens in Slack. It’s one of our client communication best practices that costs us nothing and saves clients the most time. A quick answer, a second opinion, a sanity check on something that isn&amp;#8217;t even ours. These are the small things that otherwise sit in a queue for six days and quietly stall a sprint, and we don&amp;#8217;t put a meter on them.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Momentum is a deliverable. Most projects don&amp;#8217;t die of bad work. They stall, very politely, while everyone waits for a calendar slot.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;4. We settle payment upfront, every time.&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Maybe you’re asking, “should design agencies charge upfront?” Taking payment in advance has nothing to do with cashflow nerves and everything to do with what an open invoice does to a project.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;While money is unresolved, everything bends slightly around it. Studios start guarding scope. Clients start holding leverage. Somebody is mentally drafting a chase email during a design review. None of it gets said out loud and all of it lands in the work.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Settle it at the start and it disappears. Every conversation for the next three months is about the product, which is the only thing either side wanted to talk about in the first place. It also means both of us have committed to something real, so the relationship opens as two teams with one problem rather than a buyer keeping a vendor honest.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;5. We do unbillable work that wasn’t asked for.&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;It&amp;#8217;s terrible business advice, which is exactly why it works. Nobody makes a free thing for a client they don&amp;#8217;t care about, and clients can tell the difference immediately.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Designers here draw for fun. There&amp;#8217;s no policy and no slide about innovation time. It&amp;#8217;s simply what people who like this job do on a Thursday evening, and more often than not the thing they&amp;#8217;re pushing belongs to a client&amp;#8217;s project, because that&amp;#8217;s what has been living in their head all week. A different take on an onboarding flow. An illustration direction nobody asked for. A logo lockup that fixes something we&amp;#8217;d all quietly noticed and nobody had raised.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When something good comes out of it, we send it over. No change order, no note about how this would fall outside the current scope. Sometimes it gets a polite no. Fairly often it becomes a thing.&lt;/p&gt;
-
-&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;&amp;#8220;Half the things we ended up loving most were never in the scope. They just turned up one morning with a note saying we thought you might like this.&amp;#8221; &amp;#8211; M. Campos, CTO, XRay Analytics&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/userupload/41531917/file/original-4176342b87473bff0d04af44e28af040.webp?resize=752x&amp;amp;vertical=center" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;6. We choose projects we’re excited about.&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;What we&amp;#8217;re looking for is a business the team actually wants to think about.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Very often that&amp;#8217;s early-stage: founders who turn up with far more conviction than budget, building something with a real chance of becoming special. Those are the projects our designers quietly compete to get on, and who wants to be on a project shapes the outcome more than anything written in the brief.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It&amp;#8217;s also where design earns the most. The decisions a company makes in its first year are the ones it has to live inside for the next ten, and getting them right early is worth considerably more than correcting them later with a bigger budget and a worse mood.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We&amp;#8217;re much less interested in work nobody in the studio is excited about, whatever number is attached to it. Everyone who has ever hired an agency knows exactly what that looks like when it arrives.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;How our long-term design partnerships do the heavy lifting.&lt;/h2&gt;
-
-&lt;ol class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;The explaining stops. &lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Nobody has to explain again why the brand sounds the way it does, or reopen a decision that was settled two years ago. Between us we remember not only what was chosen but what was rejected and why, which is the part that tends to disappear when a company switches agency and quietly ends up somewhere it has already been.&lt;/p&gt;
-
-&lt;ol start="2" class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Feedback gets faster and more honest. &lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When there&amp;#8217;s trust in the room, nobody softens a note into three sentences of diplomacy, and nobody reads a blunt one as an insult. A plain &amp;#8220;no, this isn&amp;#8217;t it&amp;#8221; on a Tuesday can save two weeks.&lt;/p&gt;
-
-&lt;ol start="3" class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;The direction holds, too. &lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Instead of a pile of projects that each look like the year they were made in, the work starts to accumulate. Website, product, deck, campaign, all pulling the same way, because the same people have been carrying the reasoning the whole time.&lt;/p&gt;
-
-&lt;ol start="4" class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;And then there&amp;#8217;s freedom, which is the part designers care about most.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A client who has watched us be right, watched us be wrong, and seen how we handled both will greenlight the braver option. That isn&amp;#8217;t a reward for loyalty. It&amp;#8217;s simply what becomes possible once nobody is auditioning any more.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/userupload/46676036/file/fba5d32a3c9101fb79ffd843f6f78f81.png?resize=752x&amp;amp;vertical=center" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Is your designer the right one for the long-haul?&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If you’re compiling questions to ask before &lt;a href="https://dribbble.com/hire/product-designers" target="_blank" rel="noopener"&gt;hiring a product designer&lt;/a&gt;, don’t just check what their last project looked like. Ask what happened the first time they disagreed with a client. Ask what happened when something went wrong. Ask whether anyone from the original team is still on the account.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The answers to those tell you far more about the next twelve months than any portfolio will.&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>The Box Design System: AI-Ready Figma Files for Enterprise Software</title>
-  <link href="https://dribbble.com/stories/2026/09/29/cl-flexy-global-figma-files-enterprise-software-ai-agents"/>
-  <id>https://dribbble.com/stories/2026/09/29/cl-flexy-global-figma-files-enterprise-software-ai-agents</id>
-  <published>2026-09-29T15:50:47+00:00</published>
-  <updated>2026-09-29T15:50:47+00:00</updated>
-  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72184/original/5764ca2240de0398d104308622b33160.png?1790686254"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72184/original/5764ca2240de0398d104308622b33160.png?1790686254" medium="image"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72184/original/5764ca2240de0398d104308622b33160.png?1790686254"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72184/original/5764ca2240de0398d104308622b33160.png?1790686254</webfeeds:featuredImage>
-  <summary>Dribbble Community Leaders and Flexy Global co-founders Avetisyan, Gabrielyan, and Saroka reveal their Box Design System for structuring complex Figma files, helping both developers and AI coding agents understand product behavior without the guesswork.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72184/original/5764ca2240de0398d104308622b33160.png?1790686254" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leaders and Flexy Global co-founders Avetisyan, Gabrielyan, and Saroka reveal their Box Design System for structuring complex Figma files, helping both developers and AI coding agents understand product behavior without the guesswork.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Authors:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Garik Avetisyan, Davit Gabrielyan, and Anastasia Saroka are co-founders of &lt;/em&gt;&lt;a href="https://www.flexy.global/" rel="nofollow noopener" target="_blank"&gt;&lt;em&gt;Flexy Global&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, a design and development partner for startups and global enterprises. Garik built and successfully exited a consumer app used by millions. Davit brings 15 years of experience leading complex projects and operations at international companies including Orange (France Telecom)&amp;nbsp;and Coca-Cola Hellenic. Anastasia, Design Director at Flexy Global, brings experience designing products for large corporations and startups in the fitness industry. Together, they explore how better design systems and development practices can help teams build complex technology more clearly and efficiently.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;On a recent enterprise software project, we were working with a Figma file that needed to support both traditional developer handoff and AI-assisted development. One section alone contained dozens of screens documenting a single part of the product.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Each screen made sense on its own. The difficulty was understanding how they belonged together.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For the designers and developers who had worked on the project for months, much of that context was already familiar. We knew which screens represented the starting point, what action caused each change, which states were alternatives, and which details were still under discussion.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A coding agent coming to the file had none of that background. An individual screen did not provide enough context to explain the complete behavior, while the full canvas introduced too much unrelated information. We needed a way to organize the relevant frames, states, and decisions around a single interaction so they could be understood and used more effectively in AI-assisted development. That need became the basis of our Box Design System.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;What is the Box Design System?&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Box Design System is our method for organizing complex product behavior into bounded sections of the Figma canvas. Each box contains the screens, states, transitions, annotations, and implementation context needed to understand one part of the product. This makes the file easier for people to navigate while also preparing its structure for AI-assisted development.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the enterprise platform we were designing, navigation alone included several connected behaviors. Users could interact with a floating bar, select assets, explore the map directly, or move through a hierarchy. All of these actions occurred within the same broader interface, but they did not belong to the same flows.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Placing every screen in one large sequence would have made the file look complete while leaving its logic ambiguous. Instead, we grouped related states into separate boxes such as “Floating Bar,” “Select Assets,” “Direct Map Exploration,” and “Hierarchy.” Each box represented one coherent part of the experience.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;At first, this was a way to make a complicated canvas easier for people to navigate. As &lt;a href="https://dribbble.com/hire/ai-agent-developers" target="_blank" rel="noopener"&gt;AI agents became part of the development workflow&lt;/a&gt;, the boxes gained another purpose: they created clearer units of context for implementation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Here are four principles that shaped the system.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;1. Organize boxes around behavior, not pages&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A page is a visual container. It is not always a useful development boundary.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One page may contain several independent interactions. A single interaction may also extend across panels, overlays, menus, and several screen states.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In our project, selecting an asset and exploring the map took place within the same primary interface. Visually, the screens shared most of their structure. Functionally, however, they represented different behaviors.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Treating them as one group would require a developer or agent to determine which changes belonged to asset selection and which belonged to map exploration. That distinction was obvious to the team because we had discussed it repeatedly. It was not necessarily visible in the pixels.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We therefore organized the boxes as a hierarchy rather than treating every box as an equal unit. The system has three levels:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Feature boxes&lt;/strong&gt; represent a complete product capability, such as Navigation.&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Flow boxes&lt;/strong&gt; sit inside the feature box and separate interactions such as “Select Assets” and “Direct Map Exploration.”&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Screen-state boxes&lt;/strong&gt; sit inside each flow and name the specific action or state shown on every screen.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This structure allows someone to move from the broader feature to an individual flow and then to the exact screen behavior without losing the relationship between them. It also means that an implementation task can be scoped around the behavior the team needs to build, rather than every element visible on the page.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;2. Make each box understandable on its own&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A useful box should not require a guided tour from the &lt;a href="https://dribbble.com/hire/figma-designers" target="_blank" rel="noopener"&gt;designer&lt;/a&gt; who created it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Someone opening the file should be able to understand what the interaction does, where it begins, and what changes as the user moves through it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That does not mean duplicating every piece of product documentation inside Figma. It means including enough context to remove the most consequential ambiguity.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Depending on the feature, a box may contain:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;The default or entry state&lt;/li&gt;
-
-
-
-&lt;li&gt;The action available to the user&lt;/li&gt;
-
-
-
-&lt;li&gt;The resulting state&lt;/li&gt;
-
-
-
-&lt;li&gt;Expanded and collapsed variations&lt;/li&gt;
-
-
-
-&lt;li&gt;Selected, disabled, empty, loading, or error states&lt;/li&gt;
-
-
-
-&lt;li&gt;Short notes explaining behavior that cannot be understood visually&lt;/li&gt;
-
-
-
-&lt;li&gt;References to existing components or patterns&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This self-contained structure matters for human teams, especially when people join a project late or return to a feature after several weeks. It matters even more for coding agents.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;An agent does not have the memory of the workshop where the interaction was discussed. It does not know which Slack message changed the requirement or which visual difference was intentional. It can only work with the context it is given.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If critical information sits somewhere else on the canvas, remains buried in a comment thread, or exists only in the team’s memory, the agent must infer what is missing.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;And inference is where avoidable mistakes begin.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;3. Make interactions and transitions visible&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Individual screens show different interface states, but they do not always explain how the user moves between them.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In our design files, we use simple arrows to connect an interaction with the screen or state it produces. If clicking a button opens a sidebar, we connect that action to the designed sidebar state. If an interaction takes the user to another screen, the arrow shows exactly where they will arrive.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Not every interaction needs this treatment. Adding arrows to simple or obvious actions can create unnecessary visual noise. They become particularly useful when one screen contains several possible interactions, each leading to a different state or part of the flow.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For someone who has worked on the product for months, these relationships may already feel obvious. Developers and AI agents do not necessarily have that context. Without a visible connection, an agent may recognize all the individual screens but still misunderstand which action produces which result.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Combined with the box hierarchy, these connections make both the structure and sequence of the experience easier to follow. The boxes show which screens belong to the same feature and flow, while the arrows explain how users move between them. It is a simple practice, but it reduces how much developers and agents need to infer from the designs.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72185/original/84edbd324eeda0f9b5a990e1f75d4163.png?1790686285" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h3 class="wp-block-heading"&gt;4. Give the AI agent a bounded unit of context&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;AI coding tools can now access much more than a screenshot. When connected through tools such as the &lt;a href="https://developers.figma.com/docs/figma-mcp-server/" rel="nofollow noopener" target="_blank"&gt;Figma MCP server&lt;/a&gt;, an agent can retrieve structured design information, visual references, variables, components, and layout data from a selected part of a file. However, in AI-assisted development, access to more information does not automatically lead to a better understanding of what needs to be built.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;An isolated frame may leave out the surrounding states required to understand a behavior. At the other extreme, a large page or full canvas may introduce unrelated screens, unresolved concepts, and several versions of the same feature. The Box Design System creates a practical middle layer between these two extremes.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Instead of asking an agent to “build this page,” a developer can direct it toward a bounded interaction containing the relevant states, transitions, and supporting context. This gives the agent enough information to understand the intended behavior without requiring it to interpret the entire product.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The boundary of a box does not need to match a single code component. Some boxes may translate into one component, while others may involve several components and application states. The box is there to define the product behavior being implemented, not to dictate the final code architecture.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The quality of the generated code still depends on the codebase, prompts, design-system implementation, and the agent’s access to existing components. Figma also recommends semantic naming, variables, Auto Layout, reusable components, annotations, and &lt;a href="https://developers.figma.com/docs/figma-mcp-server/code-connect-integration/" rel="nofollow noopener" target="_blank"&gt;Code Connect&lt;/a&gt; to improve consistency. The boxes complement this infrastructure by organizing those elements into a coherent piece of product behavior that the agent can understand and act on.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72187/original/4a4c38d4f23ca89c749fb3e02daa9700.png?1790686439" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;What boxes cannot solve&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A clean Figma canvas cannot compensate for an undefined product.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If the team has not decided how an interaction should behave, placing its screens inside a box will not resolve the underlying uncertainty. It may simply make that uncertainty easier to see.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That is still valuable.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When related states are placed together, inconsistencies become more visible. The team may discover two competing versions of the same behavior, an exception with no recovery path, or a state that was discussed but never designed.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Boxes also do not replace the platform’s design system. While the main design file uses boxes to organize screens, flows, and product behavior, the design system lives in a separate Figma file containing the shared components, variants, and variables used across those designs.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The design system does not need to follow a box-design hierarchy, but it should be structured and detailed enough for agents to understand exactly what they need and where to find it in the file. Clear naming, logical grouping, and consistent component structures help both developers and AI agents find and reuse the correct elements. Without that structure and the corresponding code, an agent may understand the intended behavior while still selecting the wrong component or creating unnecessary one-off elements.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The box defines the scope and behavior. The design system defines how the interface should be constructed. The codebase defines how it must function in production.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Why Figma file structure now matters for AI-assisted development&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For years, design-file organization was often treated as an internal concern. A tidy file was easier to navigate, easier to hand off, and kinder to the next designer who had to work in it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That is no longer the full story.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As design files become direct inputs to AI-assisted development, their structure begins to influence what an agent understands, what it overlooks, and how much it must infer.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The canvas is no longer only a place where the team presents the final interface. It is becoming part of the system through which software gets built.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Our box-based approach began with a practical need: make a complicated enterprise product easier to understand. Its value grew when the same structure helped divide that product into clearer units for implementation and review.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The boxes themselves are not the innovation. The clarity they create is.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72186/original/8f746dd14ab2eefe22cb2ed3006b9d46.png?1790686322" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Components define what the interface is made from. Frames capture individual moments. Boxes explain how those moments belong together and what the team is trying to build.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In a development process increasingly shared with AI agents, that context is no longer optional documentation.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It is part of the product.&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>How To Launch a Brand in 90 Days: A Proven System for Shelf-Ready CPG</title>
-  <link href="https://dribbble.com/stories/2026/09/29/cl-mavrk-studio-aaron-swinton-how-to-launch-a-brand-in-90-days"/>
-  <id>https://dribbble.com/stories/2026/09/29/cl-mavrk-studio-aaron-swinton-how-to-launch-a-brand-in-90-days</id>
-  <published>2026-09-29T14:13:55+00:00</published>
-  <updated>2026-09-29T14:13:55+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/71986/original/74e232250e2a850d337075d35e852e4b.jpg?1790183276"/>
-  <media:content url="https://cdn.dribbble.com/uploads/71986/original/74e232250e2a850d337075d35e852e4b.jpg?1790183276" medium="image"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/71986/original/74e232250e2a850d337075d35e852e4b.jpg?1790183276"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/71986/original/74e232250e2a850d337075d35e852e4b.jpg?1790183276</webfeeds:featuredImage>
-  <summary>Dribbble Community Leader and MAVRK Studio Founder &amp; CEO Aaron Swinton breaks down the agency's integrated 90-day launch strategy that reshaped clients' go-to-market approach and generated results.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/71986/original/74e232250e2a850d337075d35e852e4b.jpg?1790183276" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader and MAVRK Studio Founder &amp;amp; CEO Aaron Swinton breaks down the agency&amp;#x27;s integrated 90-day launch strategy that reshaped clients&amp;#x27; go-to-market approach and generated results.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;br /&gt;Aaron Swinton is the Founder and CEO of &lt;/em&gt;&lt;a href="https://mavrk.studio/" rel="nofollow noopener" target="_blank"&gt;&lt;em&gt;MAVRK Studio&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, where he handles business strategy, client partnerships, and the agency&amp;#8217;s growth. He has experience in brand building, venture investing, fundraising, and operations, and he uses it to help CPG brands launch and grow.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Most consumer packaged goods (CPG) launches don&amp;#8217;t last. Somewhere between &lt;a href="https://www.foodnavigator.com/Article/2019/03/18/Most-new-products-fail-Implicit-sensory-testing-can-help-beat-the-odds/" rel="nofollow noopener" target="_blank"&gt;70% and 85% fail&lt;/a&gt;, and it&amp;#8217;s rarely because the product was bad.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;More often, the launch itself is the problem. There’s a logo from one shop, packaging from another, a website from a third, and nobody owning the whole picture. Along the way, teams end up testing the new product instead of the consumer need, the category, or the retail plan.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;An integrated CPG launch strategy fixes that by lining up product, brand, packaging, eCommerce, and marketing in one plan. That&amp;#8217;s the idea behind &lt;a href="https://mavrk.studio/launch" rel="nofollow noopener" target="_blank"&gt;MAVRK&amp;#8217;s 90-day launch system&lt;/a&gt;, where Day 90 means &amp;#8220;shelf-ready and launch-ready.&amp;#8221;&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Why Most CPG Launches Fail (and How a 90-Day Plan Fixes It)&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Fragmented vendors: &lt;/strong&gt;Brand, packaging, and digital are split across separate teams, and nobody owns the whole launch.&lt;br /&gt;&lt;strong&gt;The Fix:&lt;/strong&gt; One team building all three in parallel.&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Unvalidated positioning:&lt;/strong&gt; Design starts before anyone has confirmed demand, price, or the competition.&lt;br /&gt;&lt;strong&gt;The Fix:&lt;/strong&gt; Validate all three before design begins.&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Weak execution: &lt;/strong&gt;Wrong labels, bad dimensions, and missed retailer requirements derail a good product.&lt;br /&gt;&lt;strong&gt;The Fix: &lt;/strong&gt;A week-by-week calendar with owners, approvals, and checkpoints.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;One honest note:&lt;/strong&gt; 90 days is the target, and it assumes timely feedback. Plan a few extra days for each round of revisions.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Inside the 90-Day CPG Launch Plan&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Our plan runs on six overlapping workstreams instead of one long list of tasks. Across them, the work moves through four phases: foundation, build, pre-launch, and launch.&amp;nbsp;&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Weeks 1–2, Validate &amp;amp; Position:&lt;/strong&gt; the product and launch strategy&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Weeks 2–4, Build the Brand:&lt;/strong&gt; identity and messaging system&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Weeks 3–7, Design for the Shelf:&lt;/strong&gt; compliant, retail-ready packaging&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Weeks 5–10, Build the Launch Engine:&lt;/strong&gt; website, eCommerce, email capture&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Weeks 7–11, Create the Content:&lt;/strong&gt; photo, video, social, launch creative&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Weeks 9–12, Get Shelf &amp;amp; Launch Ready:&lt;/strong&gt; sales materials and retail readiness&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It all lives in a week-by-week calendar with clear owners, approvals, and go/no-go checkpoints. Because the workstreams overlap, packaging and photography can share one creative brief, and creator outreach can start before creative is finished.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72193/original/d87ea5c6e5a393f48c406340546927c9.jpeg?1790691665" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Weeks 1–2: Validate and Position&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Prove Demand Before You Launch a CPG Brand&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Design is the fun part, so it&amp;#8217;s tempting to start there. But a CPG product needs category validation first: is the need real, where does the price sit, and who are you up against?&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The right research depends on how much the brand has already decided. For a brand with a clear product and launch direction, we review the category, competitors, and audience to sharpen its positioning before design begins. If the opportunity itself is still open, a deeper Opportunity Sprint can come first.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Depending on the scope, that work may include:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;A shelf and competitor review to understand the category and identify gaps&lt;/li&gt;
-
-
-
-&lt;li&gt;Customer research and interviews to test assumptions and hear how people describe the need&lt;/li&gt;
-
-
-
-&lt;li&gt;An assessment of the audience, differentiation, and best channels for launch&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The goal is to make the key decisions early, so the brand, packaging, website, and launch content can move forward with a shared direction.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For instance, take our work for REALI. We redid branding, packaging, web design, social media and directed their go to market into colleges &amp;amp; gyms vs traditional retail. They&amp;#8217;ve since gotten into 30+ stores in 5 months.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72118/original/57885cb594d2d787993865756931d968.jpg?1790606167" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h3 class="wp-block-heading"&gt;From Consumer Language to a Clear Promise&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Research only helps if it turns into a promise people understand. Your positioning is that bridge, and it shapes everything after it.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A positioning section of your launch plan should include:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Frame of reference (the category you&amp;#8217;re competing in)&lt;/li&gt;
-
-
-
-&lt;li&gt;Target consumer&lt;/li&gt;
-
-
-
-&lt;li&gt;Key benefit&lt;/li&gt;
-
-
-
-&lt;li&gt;Reason to believe&lt;/li&gt;
-
-
-
-&lt;li&gt;A promise and brand story in real consumer language&lt;/li&gt;
-
-
-
-&lt;li&gt;A one-line concept statement everyone can defend&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;These decisions ripple into recipe choices, pack size, pricing, channels, and the retail pitch.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Weeks 2–4: Build the Brand&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Positioning tells you who the brand is for. Now it needs a look and a voice people recognize.&amp;nbsp;&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Naming exploration, checked for trademark, domain, and social handles early, ideally in week 2&amp;nbsp;&lt;/li&gt;
-
-
-
-&lt;li&gt;Logo, color palette, typography, and core visual language&lt;/li&gt;
-
-
-
-&lt;li&gt;A brand voice brief: three personality words, plus &amp;#8220;we are / we are not&amp;#8221;&lt;/li&gt;
-
-
-
-&lt;li&gt;A documented brand system: promise, personality, voice, messaging pillars, visual direction&amp;nbsp;&lt;/li&gt;
-
-
-
-&lt;li&gt;A brand guidelines doc, even a single page, so every vendor works from the same reference&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Weeks 3–7: Design for the Shelf&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Packaging, Compliance, and Operations&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Plenty of launches stumble at the execution layer: wrong labels, bad dimensions, missed routing guides, or claims that don&amp;#8217;t comply.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This phase turns your positioning into a full SKU architecture, label system, and production files.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Your packaging and operations checklist:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Front-of-pack hierarchy, with a clear benefit&lt;/li&gt;
-
-
-
-&lt;li&gt;Nutrition and regulatory compliance&lt;/li&gt;
-
-
-
-&lt;li&gt;GTIN/UPC and case pack structure&lt;/li&gt;
-
-
-
-&lt;li&gt;Co-packer alignment, lead times, and freight&lt;/li&gt;
-
-
-
-&lt;li&gt;Retailer documentation confirmed before launch&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A quick shelf test: does it stand out at thumbnail size, and would a creator want to hold it?&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Retail-ready doesn&amp;#8217;t mean retail-first. Build a few months of online sales (or community) proof before pitching buyers.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Weeks 5–10: Build the Launch Engine&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Website, eCommerce, and Email&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Even retail-first brands need a strong digital engine for education, storytelling, lead capture, and proof for buyers. In Weeks 5–10, we build a conversion-focused website, &lt;a href="https://dribbble.com/hire/ecommerce-web-designers" target="_blank" rel="noopener"&gt;eCommerce setup&lt;/a&gt;, store locator, and email flows.&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;The Rice Cream:&lt;/strong&gt; branding, packaging, web design, and launch content built to tell the product story and drive early interest.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49029010/file/631d42bb50af635d26ba60c0ac0c3c58.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;REALI:&lt;/strong&gt; eCommerce-ready web design and launch messaging aligned with packaging and photo/video.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;What your plan should include:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Landing pages and lead magnets&lt;/li&gt;
-
-
-
-&lt;li&gt;A pre-launch waitlist&lt;/li&gt;
-
-
-
-&lt;li&gt;Abandoned-cart flows and post-purchase emails&amp;nbsp;&lt;/li&gt;
-
-
-
-&lt;li&gt;A pre-launch email list goal of 500+ subscribers&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Weeks 7–11: Create the Content&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Photo, Video, and Social&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Content turns a launch plan from strategy into visible momentum across social, email, and paid channels. In Weeks 7–11, we produce product photography, lifestyle imagery, recipe or usage content, and launch videos.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Folkland&amp;#8217;s social launch campaign shows what consistent visuals and storytelling can do.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The Rice Cream and REALI paired photo, video, and social content that matched their packaging and websites.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/71987/original/588c23f8bada5bf32598e43187f71ca7.jpg?1790183742" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Map content to each phase:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Pre-launch:&lt;/strong&gt; teasers, behind-the-scenes, a countdown series&amp;nbsp;&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Launch:&lt;/strong&gt; reveal content, how-to clips, UGC prompts, retailer-specific creatives&amp;nbsp;&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Post-launch:&lt;/strong&gt; put more behind what worked, and feed real customer content and reviews back in&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Creators can support each phase of the launch, from early product introductions to launch-day content and customer reviews. Depending on the brand, we may build a broader affiliate program where creators earn a commission on sales, or work with a smaller group of carefully chosen influencers to reach a specific audience.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Weeks 9–12: Get Shelf &amp;amp; Launch Ready&lt;/h2&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Go-to-Market Execution: Launch Week to Post-Launch&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Build your launch calendar across pre-launch, launch, and post-launch, with inventory, media, and in-store support all lined up.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In launch week, point every channel at one clear call to action, concentrate spend in the first 2–4 weeks, and check velocity and feedback daily.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We treat the first 90 days in market as a commercial test, with success metrics and go/no-go or pivot points built into the plan.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Track:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Velocity:&lt;/strong&gt; how fast the product sells&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Repeat rate&lt;/strong&gt;&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;ROAS:&lt;/strong&gt; return on ad spend&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Email opt-ins&lt;/strong&gt;&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When a message or creative performs well, we put more budget behind it and use what we learn to brief the next round of creators. When results are weak, we review the data, adjust the approach, and shift spend toward what’s working.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Alongside the launch, the sales side gets ready with a retail pitch built on your online sales data, plus sales materials and retailer documentation.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Growing After Launch: Community and Revenue&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A strong launch strategy connects to a growth plan. It doesn&amp;#8217;t stop at Day 90. &lt;a href="https://mavrk.studio/grow" rel="nofollow noopener" target="_blank"&gt;MAVRK Grow&lt;/a&gt; picks up where launch leaves off.&amp;nbsp;&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Community growth:&lt;/strong&gt; organic social, content, email, creator activation, and IRL activations.&amp;nbsp;&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Revenue growth:&lt;/strong&gt; paid media, performance creative, and conversion optimization to scale what worked.&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Early signals, like top creatives, strongest audiences, and best regions, feed straight into performance campaigns.&amp;nbsp;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Putting It All Together: A 90-Day Checklist&lt;/h2&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Days 1–30:&lt;/strong&gt; validate, position, name, and build your brand identity and guidelines&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Days 31–60:&lt;/strong&gt; packaging, online store, photography, creator outreach&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Days 61–90:&lt;/strong&gt; content, email list, ad setup, soft launch, creator launch day, public launch&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The steps that prevent failure: validation, coherent branding, retail-ready packaging, a digital launch engine, and aligned marketing. We swap a pile of vendors for one accountable team.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Your next step:&lt;/strong&gt; audit your current launch plan against this checklist, or sketch your own 90-day roadmap before you talk to &lt;a href="https://dribbble.com/designers" target="_blank" rel="noopener"&gt;designers&lt;/a&gt;, agencies, or co-packers.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;You can also talk to us about your brand&amp;#8217;s starting point and launch goals, and we&amp;#8217;ll help you work out what your first 90 days should look like.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>B2B Brand Strategy: How To Transition from Founder Equity to Company Equity</title>
-  <link href="https://dribbble.com/stories/2026/09/29/cl-zlatina-petrova-brandly-b2b-brand-strategy-founder-branding"/>
-  <id>https://dribbble.com/stories/2026/09/29/cl-zlatina-petrova-brandly-b2b-brand-strategy-founder-branding</id>
-  <published>2026-09-29T13:42:31+00:00</published>
-  <updated>2026-09-29T13:42:31+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/72188/original/40b0c7f94e063fbe616df906c3bffb1d.jpg?1790687637"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72188/original/40b0c7f94e063fbe616df906c3bffb1d.jpg?1790687637" medium="image"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72188/original/40b0c7f94e063fbe616df906c3bffb1d.jpg?1790687637"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72188/original/40b0c7f94e063fbe616df906c3bffb1d.jpg?1790687637</webfeeds:featuredImage>
-  <summary>Dribbble Community Leader and Brandly Founder Zlatina Petrova discusses how founders can turn executive trust into lasting company equity.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72188/original/40b0c7f94e063fbe616df906c3bffb1d.jpg?1790687637" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader and Brandly Founder Zlatina Petrova discusses how founders can turn executive trust into lasting company equity.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Zlatina Petrova has spent 13 years shaping brands and digital products across Silicon Valley and Europe. As Founder and Design Director of &lt;a href="https://brandlycollective.com/" rel="nofollow noopener" target="_blank"&gt;Brandly&lt;/a&gt;, she works with tech startups, VCs, global brands and government institutions including work on Bulgaria’s national design system. Her work sits between branding, product design and UX/UI, with a belief that design should do more than look good: it should help businesses grow, products work better and brands mean something to people.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When Brandly started, clients weren’t buying the company. They were buying the people behind it. I already had a &lt;a href="https://forbesbulgaria.com/2020/11/26/17677/" rel="nofollow noopener" target="_blank"&gt;solid reputation&lt;/a&gt; of my own: I had led product design at an LA-based startup, worked as a creative director in Florida, and won one of Europe’s most prestigious design awards.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The media were dying to interview me. Nobody was dying to interview Brandly. Same with the clients. They trusted me first, and the company second. Trust lived in the founder before it lived in the brand. This is the core of effective executive personal branding. Only later did Brandly accumulate enough history, language, and systems to carry that trust independently.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In that transition, one truth became obvious: people don’t experience companies first. They experience people.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the early stages, a founder’s personal brand is not a vanity project sitting next to the company brand. In a founder-led business, it is often the first interface through which people decide whether your company deserves attention at all.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Before they understand your product or mission statement, they are asking much simpler questions:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Do I trust this person?&lt;/li&gt;
-
-
-
-&lt;li&gt;Do I believe what they believe?&lt;/li&gt;
-
-
-
-&lt;li&gt;Do I want to listen to them?&lt;/li&gt;
-
-
-
-&lt;li&gt;Do I want to work with them?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The personal brand becomes so closely attached to the company that the founder eventually becomes the bottleneck for trust. If they step away, clients become nervous. If they move on to something new, the company suddenly feels different. If they want to sell the business, part of its value is still sitting inside one person’s relationships, reputation and way of thinking.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The founder’s real job goes far beyond visibility. The job is to turn personal conviction into something the company can eventually carry without you. Here is how the founder shapes the brand around them, and how that personal equity eventually becomes company equity.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Establishing Brand Identity and The Founder&amp;#8217;s Role In Corporate Branding&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72190/original/d96bf15072d4d1fb97ac435a8f2002fc.jpg?1790687679" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Inevitable brands rarely begin as systems. They begin as conviction. Before there are guidelines, culture decks, and campaigns, there is usually one person who sees something that does not yet fully exist.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That person has to believe in it long enough for everybody else to catch up.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This is what I mean by devotion. Not founder mythology, and definitely not &amp;#8220;hustle culture.&amp;#8221; I mean feeling the brand deeply enough to sense when something strengthens it and when something quietly weakens it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In the beginning, you notice the wrong tone in a sentence, the product that makes money but weakens positioning, or the impressive partnership that simply does not belong in the world you are building. Over time, your instinct teaches the rest of the organization what the brand actually is.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When the founder cares deeply about the details, employees start making better decisions without constant approval. What started as one person’s conviction slowly becomes something shared.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If the founder carries the brand internally, the personal brand makes that worldview visible externally. But this is where many founders get personal branding wrong.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Your personal brand is not a diary of everything you think, eat, or do. It is the clearest public expression of the parts of you that give the company meaning: &lt;strong&gt;your judgment, beliefs, standards, taste, expertise and way of seeing the world.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The public version of you should still be true. Just edited. You do not need to publish every private detail to feel human; you just need to make the part of you that explains the company legible to others.&lt;/p&gt;
-
-&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; The founder shapes the brand from the inside first. Personal branding makes that worldview visible from the outside.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Core Value Alignment and Strategic Brand Development for B2B Founders&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72191/original/80ce12d0b43661e40b325b2d48340558.jpg?1790687701" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There is a strange ritual happening in branding workshops everywhere, including plenty of &lt;strong&gt;B2B brand strategy consulting&lt;/strong&gt; sessions we’ve run ourselves. Someone opens a Miro board. Everyone gets virtual sticky notes. Forty-five minutes later, almost every company on Earth discovers its values are &lt;strong&gt;innovation, integrity, excellence and customer-centricity.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If your competitors can copy your values without changing a word, they are not your values.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Real values are inconvenient. They come from your experience: the managers you never wanted to become, the moments that made you proud, the clients you instinctively protect, and the compromises you refuse even when money is on the table.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This is where founder branding begins. Not with &amp;#8220;What should I post about?&amp;#8221; but with &amp;#8220;What do I believe so strongly that it repeatedly changes my decisions?&amp;#8221;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Founders encode their values into the company whether they intend to or not. Those values dictate:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Who gets hired&lt;/li&gt;
-
-
-
-&lt;li&gt;How fast the product ships&lt;/li&gt;
-
-
-
-&lt;li&gt;Whether difficult conversations are had&lt;/li&gt;
-
-
-
-&lt;li&gt;What the company quietly tolerates&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Repeated decisions become culture. Culture becomes user experience. Experience becomes reputation. Reputation becomes a brand.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Try building a founder value map. Take five important moments from your professional life, especially the frustrations and failures. Ask: &lt;em&gt;What did this teach me that I now believe very strongly?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Look for repetition. You may discover that five apparently unrelated stories express the same principle. &amp;#8220;Care&amp;#8221; is not a value until it changes how you price projects or communicate bad news. A brand becomes credible when values create visible trade-offs.&lt;/p&gt;
-
-&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; Your founder brand should be built from beliefs with consequences, not values that simply look good on a wall.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Thought Leadership Strategy and Elevating Your Executive Personal Brand&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72192/original/e44f1334885de4ed29900c31fdb8c404.jpg?1790687730" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Founders often tell me they &amp;#8220;should be posting more.&amp;#8221; I’m not convinced.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The internet does not urgently need another founder sharing seven lessons from waking up at 5 AM. What people need from experts is not more content. They need judgment.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A strong founder brand gives people a sense of how you think, what you challenge, and what matters to you before they ever buy.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A &lt;a href="https://dribbble.com/hire/brand-designers" target="_blank" rel="noopener"&gt;brand identity designer&lt;/a&gt; can post: &lt;em&gt;&amp;#8220;Five branding trends for 2026.&amp;#8221;&lt;/em&gt; Or they can say: &lt;em&gt;&amp;#8220;Most early-stage companies redesign their visual identity too early, because the real problem is they haven&amp;#8217;t decided what they want to be remembered for.&amp;#8221;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The first gives me information. The second gives me perspective. Perspective is invaluable in businesses where clients buy trust: consulting, law, venture, architecture, or complex B2B software. A case study tells me what you did; a point of view tells me how you’ll think when we hit a problem neither of us has seen before.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A true &lt;strong&gt;thought leadership strategy&lt;/strong&gt; begins with three questions:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;What do I believe?&lt;/li&gt;
-
-
-
-&lt;li&gt;What observation made me believe it?&lt;/li&gt;
-
-
-
-&lt;li&gt;What do I do differently because of it?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A belief that never changes your behavior is just positioning copy. For example, we believe brand consistency shouldn&amp;#8217;t depend on designers policing assets. So, what do we do differently? We treat governance and contribution rules as part of the design itself, not an afterthought.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Now, you aren&amp;#8217;t just claiming expertise; you are showing how it changes your work.&lt;/p&gt;
-
-&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; Don’t use your personal brand to prove that you are visible. Use it to make your thinking visible.&amp;nbsp;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Brand Cultivation and Hiring for Corporate Brand Alignment&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Who is helping you build this thing?&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Customers experience your brand through a salesperson, support agent, &lt;a href="https://dribbble.com/designers" target="_blank" rel="noopener"&gt;designer&lt;/a&gt;, freelancer, and sometimes a vendor. Every one of them translates the brand through hundreds of micro-decisions. A brilliant person who repeatedly makes choices that feel wrong for the company can weaken the brand more than an average logo ever will.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The best teams develop a shared instinct. They know which compromise the company will make and which it won&amp;#8217;t. They know when something is technically correct but still not right.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;You can call this cultural fit or brand alignment. The outcome is what matters: the person amplifies the signal rather than introducing static.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This must influence hiring. Assess skill, but also ask questions that reveal taste and judgment:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Show candidates real scenarios.&lt;/li&gt;
-
-
-
-&lt;li&gt;Ask what they would protect when time runs out.&lt;/li&gt;
-
-
-
-&lt;li&gt;Ask what they refuse to compromise on.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Look at your existing team with the same honesty. Who strengthens the brand? Who is excellent at their job but consistently pulls the company toward a different identity? Alignment cannot be ignored forever.&lt;/p&gt;
-
-&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; Skills determine whether someone can do the job. Alignment determines whether they strengthen the brand while doing it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72189/original/e64a872c8bb05961c352c000806e407f.jpg?1790687660" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Enterprise Brand Architecture: Scaling from Founder to Corporate Entity&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;As the brand grows, the founder’s role changes. Early on, trust travels through the person. Clients use your reputation as a shortcut to decide if the business is credible. But growth demands a new question: where should that trust travel next?&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;This &lt;strong&gt;brand equity transfer&lt;/strong&gt; is crucial. Brand architecture dictates how much of the founder’s reputation transfers to the company, how much remains with the founder, and which new offers borrow from either.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Founders are tempted to capitalize on momentum. If people trust you, it’s tempting to endorse every new service or product you launch. Sometimes that is smart. Sometimes it is simply logo slapping. Accumulated trust should only travel where the promise and experience justify it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Navigating this is why companies hire a specialized &lt;strong&gt;brand architecture agency&lt;/strong&gt;, but you can start with three core paths:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;The Unified Brand:&lt;/strong&gt; If a new offer delivers the same core promise and experience, it belongs inside a unified brand. The goal is to move trust away from the founder and deeper into the company.&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;The Endorsed Brand (Brand Extension):&lt;/strong&gt; If the experience belongs to the same world but the promise is different, it&amp;#8217;s a brand extension. A visible association (&amp;#8220;From the founder of&amp;#8230;&amp;#8221;) reduces perceived risk without pretending the new venture is just another version of the parent company.&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;The Individual Brand:&lt;/strong&gt; If the new offer has a completely different promise and audience, forcing the founder’s name onto it creates confusion. Founder equity shouldn&amp;#8217;t be permission to attach the same reputation to everything.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The strategic goal is to make the founder an endorsement layer, not a permanent dependency.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Early on, use your personal brand. Let your name open doors and reduce risk. But simultaneously, the company must accumulate its own evidence: recognizable methodologies, systems, and a consistent experience.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The founder says, &amp;#8220;This is what I believe.&amp;#8221; The company proves, &amp;#8220;This is how we operate.&amp;#8221; Eventually, the customer concludes, &amp;#8220;I trust this organization, even when the founder is not in the room.&amp;#8221;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Many founder-led companies fail to reach this point, and Brandly was no exception early on. If the founder remains the ultimate source of reassurance, it becomes a massive problem the moment they want to step back, launch something new, or sell.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The best transition is gradual:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Give visibility to your team.&lt;/li&gt;
-
-
-
-&lt;li&gt;Turn personal know-how into company methodology.&lt;/li&gt;
-
-
-
-&lt;li&gt;Move recurring ideas from your LinkedIn posts into the company’s language.&lt;/li&gt;
-
-
-
-&lt;li&gt;Let clients form relationships beyond you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Make the experience consistent enough that your personal reputation becomes the introduction, not the entire argument.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In maturity, the founder brand and company brand stop competing for attention and start endorsing each other.&lt;/p&gt;
-
-&lt;blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; In the beginning, the founder lends trust to the company. During growth, convert that borrowed trust into company equity. Use brand architecture to decide where that trust should compound, endorse, or stop.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;People may buy the founder before they buy the company. That is not a weakness to hide; it is an advantage to design deliberately. But the founder’s real job is to build a world compelling enough that, eventually, people no longer need them standing at the entrance.&lt;/em&gt;&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Healthcare Tech Design: Rebranding Kinetik’s NEMT Platform</title>
-  <link href="https://dribbble.com/stories/2026/09/29/cl-vicente-reyes-montealegre-afternow-kinetik-healthcare-tech-rebranding"/>
-  <id>https://dribbble.com/stories/2026/09/29/cl-vicente-reyes-montealegre-afternow-kinetik-healthcare-tech-rebranding</id>
-  <published>2026-09-29T11:34:08+00:00</published>
-  <updated>2026-09-29T11:34:08+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491" medium="image"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491</webfeeds:featuredImage>
-  <summary>Dribbble Community Leader and Afternow Brand &amp; Web Lead Vicente Reyes Montealegre shares Kinetik's NEMT platform rebrand, balancing warmth and trust for coordinators and patients with opposite needs.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72151/original/ed657bed45cd98d2ae8927c1d68ba5f8.jpg?1790680491" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader and Afternow Brand &amp;amp; Web Lead Vicente Reyes Montealegre shares Kinetik&amp;#x27;s NEMT platform rebrand, balancing warmth and trust for coordinators and patients with opposite needs.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;Vicente Reyes Montealegre, heads &lt;a href="https://afternow.co/" rel="nofollow noopener" target="_blank"&gt;Afternow’s&lt;/a&gt; Brand and Web teams to guide SaaS companies, enterprises, and fast-growing startups in their digital journeys. The agency’s work spans strategy, brand, website, product and development, all under one roof, all connected to one vision.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Access to care was the whole point of &lt;a href="https://afternow.co/work/kinetik/" rel="nofollow noopener" target="_blank"&gt;Kinetik&amp;#8217;s&lt;/a&gt; business. Non-emergency medical transport gets patients to dialysis, to chemo, to appointments they&amp;#8217;d otherwise skip. So, the actual brief for this patient coordination platform design ran much deeper than logos and layouts. We needed to build a comprehensive product people could trust their care to.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The American healthcare system doesn&amp;#8217;t make that simple. Riders, providers, and insurers all operate on different timelines and different systems, and getting them to coordinate can be exhausting for everyone involved, patients included. Kinetik exists to make that coordination actually work.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That&amp;#8217;s a different problem than what most HealthTech faces. Kinetik&amp;#8217;s users weren&amp;#8217;t optimizing a workflow. Many were older, managing a condition, coordinating a ride they couldn&amp;#8217;t afford to miss. Every decision, on the brand, the site, the products, had to hold up under that weight.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161282/file/3c25801b14a7460bd29d1c6f6a7f5085.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Warmth as a design compass in healthcare branding&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We moved away from the clinical, high-tech blue and aqua gradients the old identity relied on. Most health tech platforms reach for a look that leans too much on the tech and not so much on what health means. It&amp;#8217;s a common pitfall you&amp;#8217;ll notice when browsing portfolios of even highly rated &lt;a href="https://dribbble.com/hire/brand-designers" target="_blank" rel="noopener"&gt;brand identity designers&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It makes sense because that is where innovation sat ten years ago. Today, we can argue that audiences are craving for digital experiences that feel tangible, genuine, with more texture and life in them.&lt;br /&gt;&lt;br /&gt;The inspiration point started with a very concrete moment of Kinetik’s users journey: the feeling of looking out a window on a ride, watching the city go by as they travel to their medical appointments. That image is where the painterly, almost impressionistic illustrations of the urban landscape came from.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The palette followed the same instinct, pulled from the organic rather than the artificial: deep and vivid greens against gold, salmon, lavender, and a purple that reads like the last light of a sunset. Nothing else in the category looks like this.&lt;br /&gt;&lt;br /&gt;Typography carries a similar weight. An elegant serif, used large, gives the brand a voice instead of blending into the next healthcare login screen. Used small, it steps back and lets the content do the work.&lt;br /&gt;&lt;br /&gt;The photography direction stays close to that same idea, people in ordinary moments, at home, in the city, living their lives. Access to care isn&amp;#8217;t confined to a hospital visit, it shows up in every part of someone&amp;#8217;s day.&lt;br /&gt;&lt;br /&gt;The refreshed logo carries this story as well. A capital K, drawn in one curved stroke, with a dot sitting at the end like a destination marker, because getting somewhere is what Kinetik actually does.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161311/file/102efd3e6682f63d37e84b354f01c7a9.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Structuring medical website navigation for complex audiences&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The marketing site had one real problem before the rebrand: articles, case studies, and news all sat in one undifferentiated pile. We split it apart, and built the site&amp;#8217;s structure and navigation around the three groups Kinetik actually serves: health plans, transportation providers, and state and government agencies, each with a clear path through the site instead of one menu trying to work for everyone.&lt;br /&gt;&lt;br /&gt;The website does more than tell the story here. The same visual language that sets the mood on the landing page also gets used inside the product screen visualisations, to flag a trip, a claim waiting on review, or a step someone shouldn&amp;#8217;t skip. Same system, pulling double duty: telling the story, and pointing at what matters.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161332/file/c5d3bbee25186b043d26a7de16d79ff9.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;HealthTech products solving opposite users at once&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Inside the products, the same question got harder. Coordinators needed dense, fast interfaces, real-time visibility across thousands of trips, quick assignment, no wasted motion. Patients using the Kinetik Health app needed almost the reverse: large touch targets, few steps, a calm interface that doesn&amp;#8217;t rush them.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That tension sits at the center of the patient app. Real-time tracking and recurring scheduling are genuinely sophisticated features. They had to live inside something simple enough for someone managing a visual or cognitive impairment to use without a second thought.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Contrast, focus states, type size, motion, none of it was a checklist item added at the end. It shaped the product from the start, proving exactly why companies must look beyond aesthetics when vetting &lt;a href="https://dribbble.com/hire/ui-ux-designers" target="_blank" rel="noopener"&gt;UI/UX designers&lt;/a&gt;. Confusion on this screen costs someone their ride to treatment.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/49161377/file/e75a154c3d7047b336dc5b15ec7bda87.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;What it takes to build a healthcare product patients can rely on&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The brand is the part people notice first, the color palette, the painterly illustrations, the typographic voice. It&amp;#8217;s the part that makes Kinetik stand out on a shelf full of competitors that forgot about the people they’ll be affecting the most. That matters. But a harder, quieter work sits underneath: the architecture, the user flows, the structure that holds four different products together for four very different users. That work is the proof point, and the reason a patient with a ride booked for 7am can actually get there.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72152/original/cc1b062379a6f577529a816f2eb901c0.jpg?1790681189" alt="" /&gt;&lt;/figure&gt;
 
 
                 &lt;p class="find-more-prompt"&gt;&lt;em&gt;

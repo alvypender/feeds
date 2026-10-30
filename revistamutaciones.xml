@@ -11,7 +11,7 @@
   <published>2026-10-29T09:40:58+00:00</published>
   <updated>2026-10-29T09:40:58+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/thumb-1920-1415826.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/thumb-1920-1415826.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/thumb-1920-1415826.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/thumb-1920-1415826.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/thumb-1920-1415826.jpg</webfeeds:featuredImage>
   <summary>En esta Cara A de nuestra crónica al Festival de Sitges 2026, pensamos acerca de la forma de las propuestas del género contemporáneo.</summary>
@@ -39,7 +39,7 @@
   <published>2026-10-27T16:28:30+00:00</published>
   <updated>2026-10-27T16:28:30+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/fotograma-naza-documental-yuval-abraham.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/fotograma-naza-documental-yuval-abraham.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/fotograma-naza-documental-yuval-abraham.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/fotograma-naza-documental-yuval-abraham.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/fotograma-naza-documental-yuval-abraham.jpg</webfeeds:featuredImage>
   <summary>¿Cómo habla el cine de nuestra realidad? Nos lo preguntamos a través de las películas de la sección Perlak del Festival San Sebastián 2026.</summary>
@@ -70,7 +70,7 @@
   <published>2026-10-17T14:31:23+00:00</published>
   <updated>2026-10-17T14:31:23+00:00</updated>
   <link rel="enclosure" type="image/png" href="https://revistamutaciones.com/wp-content/uploads/Dust_still1-1024x576.png"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/Dust_still1-1024x576.png" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/Dust_still1-1024x576.png" medium="image" type="image/png"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/Dust_still1-1024x576.png"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/Dust_still1-1024x576.png</webfeeds:featuredImage>
   <summary>El polvo que sigue brillando ¿Cómo puede adaptarse el formato cinematográfico a los pasos de un personaje? Desde hace más</summary>
@@ -109,7 +109,7 @@
   <published>2026-10-05T15:54:46+00:00</published>
   <updated>2026-10-05T15:54:46+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/Digger-5.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/Digger-5.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/Digger-5.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/Digger-5.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/Digger-5.jpg</webfeeds:featuredImage>
   <summary>Esa misma desmesura, esa autopercepción que tiene Digger como una figura casi mesiánica es trasladada a la pantalla mediante el uso casi constante del contrapicado.</summary>
@@ -140,7 +140,7 @@
   <published>2026-10-05T09:26:33+00:00</published>
   <updated>2026-10-05T09:26:33+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/coyote_vs_acme-863818662-large.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/coyote_vs_acme-863818662-large.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/coyote_vs_acme-863818662-large.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/coyote_vs_acme-863818662-large.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/coyote_vs_acme-863818662-large.jpg</webfeeds:featuredImage>
   <summary>¡Que nunca termine la persecución! El acrónimo ACME, surgido en el contexto empresarial estadounidense de los años 20, donde las</summary>
@@ -169,7 +169,7 @@
   <published>2026-10-03T14:24:01+00:00</published>
   <updated>2026-10-03T14:24:01+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/la-bola-negra-movistarplus-8-scaled-1.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/la-bola-negra-movistarplus-8-scaled-1.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/la-bola-negra-movistarplus-8-scaled-1.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/la-bola-negra-movistarplus-8-scaled-1.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/la-bola-negra-movistarplus-8-scaled-1.jpg</webfeeds:featuredImage>
   <summary>'La bola negra' es un ejercicio cinematográfico sólido que derrocha ambición durante todo el metraje hasta revelarse como una obra necesaria.</summary>
@@ -202,7 +202,7 @@
   <published>2026-10-03T08:48:50+00:00</published>
   <updated>2026-10-03T08:48:50+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/20260918_GFFF_Paula-Cermeño_29-scaled.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/20260918_GFFF_Paula-Cermeño_29-scaled.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/20260918_GFFF_Paula-Cermeño_29-scaled.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/20260918_GFFF_Paula-Cermeño_29-scaled.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/20260918_GFFF_Paula-Cermeño_29-scaled.jpg</webfeeds:featuredImage>
   <summary>Entrevista a Lloyd Kaufman, cineasta, actor, guionista y productor estadounidense fundador de los estudios Troma Entertainment</summary>
@@ -251,7 +251,7 @@
   <published>2026-09-26T12:15:22+00:00</published>
   <updated>2026-09-26T12:15:22+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/resident_evil-922409916-large.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/resident_evil-922409916-large.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/resident_evil-922409916-large.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/resident_evil-922409916-large.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/resident_evil-922409916-large.jpg</webfeeds:featuredImage>
   <summary>Cregger entiende que la esencia de estos juegos no nace de poner a un arma bioorgánica a la que hay que tumbar a disparos</summary>
@@ -288,7 +288,7 @@
   <published>2026-09-19T00:19:44+00:00</published>
   <updated>2026-09-19T00:19:44+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/10-festival-de-cine-de-Santander_apaisada.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/10-festival-de-cine-de-Santander_apaisada.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/10-festival-de-cine-de-Santander_apaisada.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/10-festival-de-cine-de-Santander_apaisada.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/10-festival-de-cine-de-Santander_apaisada.jpg</webfeeds:featuredImage>
   <summary>Las obras que componen el festival y su retrospectivadel 11 al 17 de septiembre, la décima edición del Festival de Cine de Santander (FCS).</summary>
@@ -318,7 +318,7 @@
   <published>2026-09-07T19:28:32+00:00</published>
   <updated>2026-09-07T19:28:32+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/INSIDIOUS-2.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/INSIDIOUS-2.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/INSIDIOUS-2.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/INSIDIOUS-2.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/INSIDIOUS-2.jpg</webfeeds:featuredImage>
   <summary>Si hay algo que Insidious: Fuera del más allá (2026) logra, es aterrar sin la necesidad de recurrir a una entidad demoníaca.</summary>
@@ -347,7 +347,7 @@
   <published>2026-09-04T12:21:12+00:00</published>
   <updated>2026-09-04T12:21:12+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://revistamutaciones.com/wp-content/uploads/a61d0531-4d5c-4e4b-808e-3725e0c1d902_16-9-discover-aspect-ratio_default_0_x974y393.jpg"/>
-  <media:content url="https://revistamutaciones.com/wp-content/uploads/a61d0531-4d5c-4e4b-808e-3725e0c1d902_16-9-discover-aspect-ratio_default_0_x974y393.jpg" medium="image"/>
+  <media:content url="https://revistamutaciones.com/wp-content/uploads/a61d0531-4d5c-4e4b-808e-3725e0c1d902_16-9-discover-aspect-ratio_default_0_x974y393.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://revistamutaciones.com/wp-content/uploads/a61d0531-4d5c-4e4b-808e-3725e0c1d902_16-9-discover-aspect-ratio_default_0_x974y393.jpg"/>
   <webfeeds:featuredImage>https://revistamutaciones.com/wp-content/uploads/a61d0531-4d5c-4e4b-808e-3725e0c1d902_16-9-discover-aspect-ratio_default_0_x974y393.jpg</webfeeds:featuredImage>
   <summary>Entrevista a Entrevista a Gabriel Azorín por Anoche conquiste Tebas, película presentada en Giornate degli Autori del Festival de Venecia.</summary>

@@ -11,7 +11,7 @@
   <published>2026-10-29T17:00:00+00:00</published>
   <updated>2026-10-29T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7K3w73OtITw/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/7K3w73OtITw/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/7K3w73OtITw/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/7K3w73OtITw/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/7K3w73OtITw/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Tras el terremoto del 10 de agosto, restaurantes, panaderías, cafés y emprendimientos gastronómicos del Eje Cafetero y el Pacífico colombiano buscan recuperar su actividad y reconstruir la confianza de sus comunidades. Este especial invita a descubrir sus historias, visitar sus establecimientos y a</summary>
@@ -62,7 +62,7 @@
   <published>2026-10-28T17:00:00+00:00</published>
   <updated>2026-10-28T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261028162122.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261028162122.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261028162122.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261028162122.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261028162122.webp</webfeeds:featuredImage>
   <summary>La iniciativa, radicada como el Proyecto de Ley 454 de 2026, propone unificar el tratamiento tributario de los establecimientos gastronómicos con una tarifa del 5 % de IVA, además de crear mecanismos para facilitar la formalización, incentivar la inversión y organizar los requisitos de funcionamien</summary>
@@ -76,7 +76,7 @@
   <published>2026-10-27T17:00:00+00:00</published>
   <updated>2026-10-27T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261027122131.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261027122131.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261027122131.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261027122131.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261027122131.webp</webfeeds:featuredImage>
   <summary>El restaurante del Hotel Nivari Duitama combina técnicas de cocina mediterránea con ingredientes de la región. La iniciativa también busca fortalecer el vínculo con los proveedores locales y ampliar la oferta gastronómica de la ciudad. El Hotel Nivari Duitama amplió su oferta gastronómica con la ap</summary>
@@ -90,7 +90,7 @@
   <published>2026-10-26T17:00:00+00:00</published>
   <updated>2026-10-26T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261026171244.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261026171244.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261026171244.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261026171244.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261026171244.webp</webfeeds:featuredImage>
   <summary>Chocoshow 2026 se realizará del 27 al 29 de noviembre en Corferias, Bogotá, con más de 175 expositores y una agenda dedicada al cacao colombiano, cuya exportación alcanzó los US$413,1 millones en 2025. El crecimiento de las exportaciones de cacao y el trabajo de miles de familias productoras serán</summary>
@@ -104,7 +104,7 @@
   <published>2026-10-23T17:00:00+00:00</published>
   <updated>2026-10-23T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261023125436.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261023125436.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261023125436.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261023125436.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261023125436.webp</webfeeds:featuredImage>
   <summary>La instalación y el mantenimiento de sistemas de supresión de incendios son fundamentales para reducir los riesgos en las cocinas. En una cocina profesional, el fuego hace parte de la operación diaria. Freidoras, parrillas, estufas y otros equipos trabajan a altas temperaturas durante varias horas,</summary>
@@ -118,7 +118,7 @@
   <published>2026-10-22T17:00:00+00:00</published>
   <updated>2026-10-22T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261022123030.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261022123030.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261022123030.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261022123030.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261022123030.webp</webfeeds:featuredImage>
   <summary>The Art Hotel Medellín integra cocina mediterránea, exposiciones, cine independiente y música en vivo en una propuesta que conecta la hotelería con la dinámica cultural y gastronómica de El Poblado. En el sector de El Poblado, en Medellín, The Art Hotel desarrolla una propuesta que combina alojamie</summary>
@@ -132,7 +132,7 @@
   <published>2026-10-20T17:00:00+00:00</published>
   <updated>2026-10-20T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261020094239.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261020094239.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261020094239.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261020094239.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261020094239.webp</webfeeds:featuredImage>
   <summary>Jorge Rausch, Nicolás de Zubiría y Juan Manuel Barrientos lideran el ranking de Kolsquare sobre los chefs colombianos con mayor relevancia en Instagram. Las redes sociales se han convertido en una vitrina para compartir conocimientos culinarios, presentar propuestas gastronómicas y acercar a los ch</summary>
@@ -146,7 +146,7 @@
   <published>2026-10-19T17:00:00+00:00</published>
   <updated>2026-10-19T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261019162219.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261019162219.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261019162219.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261019162219.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261019162219.webp</webfeeds:featuredImage>
   <summary>Quiubo Restaurant &amp; Lounge, ubicado en el hotel Avani Royal Zona T Bogotá, combina ingredientes colombianos con influencias asiáticas y preparaciones internacionales en una carta que reúne pescados, carnes, arroces y pastas. En el hotel Avani Royal Zona T Bogotá, Quiubo Restaurant &amp; Lounge presenta</summary>
@@ -160,7 +160,7 @@
   <published>2026-10-19T17:00:00+00:00</published>
   <updated>2026-10-19T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/88844-bogota-blog-post-image-20261019130218.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/88844-bogota-blog-post-image-20261019130218.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/88844-bogota-blog-post-image-20261019130218.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/88844-bogota-blog-post-image-20261019130218.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/88844-bogota-blog-post-image-20261019130218.webp</webfeeds:featuredImage>
   <summary>Tras cinco días de cocina compartida en 13 casas salvadoreñas, la primera Gala Internacional Fine Dining Table reveló anoche, en el Palacio Nacional de El Salvador, Los Fuegos 2026: 508 distinciones a restaurantes y hoteles de Latinoamérica, España y Estados Unidos. El Salvador suma 43 casas distin</summary>
@@ -174,7 +174,7 @@
   <published>2026-10-16T17:00:00+00:00</published>
   <updated>2026-10-16T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016123333.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016123333.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016123333.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016123333.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016123333.webp</webfeeds:featuredImage>
   <summary>La carne de res aporta proteínas de alta calidad, hierro, zinc y vitamina B12. En el Día Mundial de la Alimentación, Minerva Foods destaca su papel dentro de una dieta variada y equilibrada. El Día Mundial de la Alimentación es una oportunidad para reflexionar sobre la importancia de una dieta vari</summary>
@@ -188,7 +188,7 @@
   <published>2026-10-16T17:00:00+00:00</published>
   <updated>2026-10-16T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016121730.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016121730.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016121730.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016121730.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016121730.webp</webfeeds:featuredImage>
   <summary>WESTON recibió en sus instalaciones principales en Bogotá a representantes de importantes entidades mexicanas, en un encuentro que permitió compartir conocimiento, tecnología y experiencias en torno a las soluciones de refrigeración desarrolladas para las necesidades de la región Durante el recorri</summary>
@@ -202,7 +202,7 @@
   <published>2026-10-16T17:00:00+00:00</published>
   <updated>2026-10-16T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016111157.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016111157.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016111157.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016111157.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016111157.webp</webfeeds:featuredImage>
   <summary>En Colombia, el 92,3 % de los encuestados reconoce la gravedad del desperdicio de alimentos, pero más de un tercio admite botar comida cada semana. Rodrigo Ramírez, country manager de Cheaf en Colombia, explica cómo el sector gastronómico puede reducir pérdidas, aprovechar excedentes y convertir es</summary>
@@ -216,7 +216,7 @@
   <published>2026-10-16T17:00:00+00:00</published>
   <updated>2026-10-16T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/5-new-york-blog-post-image-20261016100439.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/5-new-york-blog-post-image-20261016100439.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/5-new-york-blog-post-image-20261016100439.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/5-new-york-blog-post-image-20261016100439.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/5-new-york-blog-post-image-20261016100439.webp</webfeeds:featuredImage>
   <summary>Del 16 al 18 de octubre, el Parque Museo El Chicó será el escenario de la sexta edición de BogotáEats a Cielo Abierto, un festival que reunirá propuestas de más de 36 chefs y restaurantes, experiencias gastronómicas exclusivas y una iniciativa de apoyo a negocios de las regiones afectadas por el te</summary>
@@ -234,7 +234,7 @@
   <published>2026-10-16T17:00:00+00:00</published>
   <updated>2026-10-16T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016081205.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016081205.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016081205.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016081205.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261016081205.webp</webfeeds:featuredImage>
   <summary>El Corral Gourmet abrió una nueva sede en el Parque de la 93, en Bogotá, con novedades en su carta, una hamburguesa de edición limitada con carne wagyu y capacidad para 150 comensales. La cadena de restaurantes de Grupo Nutresa inauguró un nuevo local en Bogotá, con capacidad para 150 personas, una</summary>
@@ -248,7 +248,7 @@
   <published>2026-10-13T17:00:00+00:00</published>
   <updated>2026-10-13T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261013151413.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261013151413.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261013151413.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261013151413.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261013151413.webp</webfeeds:featuredImage>
   <summary>Diageo, en alianza con la Escuela de Gastronomía Mariano Moreno, abrió las postulaciones a su programa de formación gratuita, una iniciativa que busca facilitar el acceso al mundo laboral en áreas como servicio, coctelería y ventas. La hospitalidad es uno de los sectores que ofrece oportunidades pa</summary>
@@ -262,7 +262,7 @@
   <published>2026-10-09T17:00:00+00:00</published>
   <updated>2026-10-09T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261009170345.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261009170345.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261009170345.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261009170345.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20261009170345.webp</webfeeds:featuredImage>
   <summary>El festival de Jumbo regresa a Bogotá del 5 al 7 de noviembre con una propuesta que combina bebidas, gastronomía y entretenimiento, y suma herramientas digitales para llegar a más consumidores en el país. El vino, la cerveza, los destilados y la coctelería tienen cada vez más espacios para acercars</summary>
@@ -276,7 +276,7 @@
   <published>2026-04-15T17:00:00+00:00</published>
   <updated>2026-04-15T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20260415124611.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20260415124611.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20260415124611.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20260415124611.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/79265--blog-post-image-20260415124611.webp</webfeeds:featuredImage>
   <summary>Los criterios de evaluación son la base sobre la que se construye Premios La Barra 2026. En su edición número 21, el reconocimiento que exalta a los establecimientos y personalidades que elevan la experiencia gastronómica en Colombia. Durante 21 ediciones, Premios La Barra se ha consolidado como un</summary>
@@ -290,7 +290,7 @@
   <published>2025-12-29T17:00:00+00:00</published>
   <updated>2025-12-29T17:00:00+00:00</updated>
   <link rel="enclosure" type="image/webp" href="https://revistalabarra.com/uploads/news-pictures/4184--blog-post-image-20251229204758.webp"/>
-  <media:content url="https://revistalabarra.com/uploads/news-pictures/4184--blog-post-image-20251229204758.webp" medium="image"/>
+  <media:content url="https://revistalabarra.com/uploads/news-pictures/4184--blog-post-image-20251229204758.webp" medium="image" type="image/webp"/>
   <media:thumbnail url="https://revistalabarra.com/uploads/news-pictures/4184--blog-post-image-20251229204758.webp"/>
   <webfeeds:featuredImage>https://revistalabarra.com/uploads/news-pictures/4184--blog-post-image-20251229204758.webp</webfeeds:featuredImage>
   <summary>La Evolución Imprescindible en el Sector HORECA: Simplificando Operaciones Frente al Aumento del Salario Mínimo En un contexto económico desafiante, el sector de restaurantes y hospitalidad en Colombia enfrenta un punto de inflexión crítico. El reciente anuncio del presidente Gustavo Petro, que est</summary>

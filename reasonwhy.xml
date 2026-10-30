@@ -11,7 +11,7 @@
   <published>2026-10-28T10:10:00+00:00</published>
   <updated>2026-10-28T10:10:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/telefonica-pelicula-titan-connect.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/telefonica-pelicula-titan-connect.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/telefonica-pelicula-titan-connect.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/telefonica-pelicula-titan-connect.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/telefonica-pelicula-titan-connect.jpg</webfeeds:featuredImage>
   <summary>Telefónica presenta en cines la película "Titán Connect: esto no es un juego" para promocionar su solución de conectividad para empresas.</summary>
@@ -26,7 +26,7 @@
   <published>2026-10-28T08:47:00+00:00</published>
   <updated>2026-10-28T08:47:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X3IGnVd0hss/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/X3IGnVd0hss/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/X3IGnVd0hss/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/X3IGnVd0hss/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/X3IGnVd0hss/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Prada recupera la animación tradicional en su campaña de Navidad 2026, creada con el artista de Disney John Pomeroy y protagonizada por Sadie Sink y Maya Hawke.</summary>
@@ -42,7 +42,7 @@
   <published>2026-10-28T08:39:00+00:00</published>
   <updated>2026-10-28T08:39:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/colacao-velas.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/colacao-velas.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/colacao-velas.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/colacao-velas.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/colacao-velas.jpg</webfeeds:featuredImage>
   <summary>Colacao ha presentado una colección de velas creada junto a Oh My Wax e inspirada en el aroma de sus productos.</summary>
@@ -57,7 +57,7 @@
   <published>2026-10-28T07:24:00+00:00</published>
   <updated>2026-10-28T07:24:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/roc-experimento-patricia-conde.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/roc-experimento-patricia-conde.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/roc-experimento-patricia-conde.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/roc-experimento-patricia-conde.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/roc-experimento-patricia-conde.jpg</webfeeds:featuredImage>
   <summary>RoC Skincare ha modificado el aspecto de Patricia Conde en un experimento con IA para evidenciar la influencia de la presión social en el aspecto.</summary>
@@ -72,7 +72,7 @@
   <published>2026-10-28T07:20:00+00:00</published>
   <updated>2026-10-28T07:20:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pT5ymAcym54/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/pT5ymAcym54/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/pT5ymAcym54/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/pT5ymAcym54/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/pT5ymAcym54/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>La Vaguada presenta FOVO, una campaña de posicionamiento que juega con el FOMO para promocionar sus experiencias de ocio mediante un videoclip musical.</summary>
@@ -88,7 +88,7 @@
   <published>2026-10-28T06:20:00+00:00</published>
   <updated>2026-10-28T06:20:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/mujer-retratto-coca-cola.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/mujer-retratto-coca-cola.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/mujer-retratto-coca-cola.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/mujer-retratto-coca-cola.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/mujer-retratto-coca-cola.jpg</webfeeds:featuredImage>
   <summary>Coca-Cola encarga a retratistas de la familia real británica pintar a cuatro comerciantes locales y expone las obras en la Saatchi Gallery de Londres.</summary>
@@ -103,7 +103,7 @@
   <published>2026-10-28T04:00:00+00:00</published>
   <updated>2026-10-28T04:00:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/nvidia-oficina.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/nvidia-oficina.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/nvidia-oficina.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/nvidia-oficina.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/nvidia-oficina.jpg</webfeeds:featuredImage>
   <summary>Nvidia ya es la sexta marca más valiosa del mundo, según el informe Best Global Brands 2026 de Interbrand.</summary>
@@ -118,7 +118,7 @@
   <published>2026-10-27T10:45:00+00:00</published>
   <updated>2026-10-27T10:45:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/uncommon-the-unread.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/uncommon-the-unread.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/uncommon-the-unread.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/uncommon-the-unread.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/uncommon-the-unread.jpg</webfeeds:featuredImage>
   <summary>El estudio creativo Uncommon ha creado "The unread", un videojuego que propone eliminar los correos no leídos como si fueran zombies.</summary>
@@ -133,7 +133,7 @@
   <published>2026-10-27T09:55:00+00:00</published>
   <updated>2026-10-27T09:55:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Yq6iT6TyKkI/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/Yq6iT6TyKkI/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/Yq6iT6TyKkI/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/Yq6iT6TyKkI/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/Yq6iT6TyKkI/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Barclays Reino Unido ha lanzado "Statement Dating", una miniserie para redes sociales que promueve conversaciones más abiertas sobre dinero.</summary>
@@ -149,7 +149,7 @@
   <published>2026-10-27T08:44:00+00:00</published>
   <updated>2026-10-27T08:44:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2G9qdRWBcHQ/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/2G9qdRWBcHQ/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/2G9qdRWBcHQ/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/2G9qdRWBcHQ/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/2G9qdRWBcHQ/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Edding ha lanzado "Permanent Democracy", una colección de ropa en colaboración con la marca Iriedaily que reivindica los valores democráticos.</summary>
@@ -165,7 +165,7 @@
   <published>2026-10-27T08:24:00+00:00</published>
   <updated>2026-10-27T08:24:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/mr-beast-mastercard.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/mr-beast-mastercard.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/mr-beast-mastercard.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/mr-beast-mastercard.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/mr-beast-mastercard.jpg</webfeeds:featuredImage>
   <summary>Mastercard y Beast Industries, la empresa de MrBeast, desarrollarán tarjetas de marca compartida, experiencias y herramientas financieras para creadores.</summary>
@@ -200,7 +200,7 @@ And over $50,000,000 given to people NOT including the stuff listed above. All w
   <published>2026-10-27T07:09:00+00:00</published>
   <updated>2026-10-27T07:09:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/aldi-tupper-special.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/aldi-tupper-special.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/aldi-tupper-special.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/aldi-tupper-special.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/aldi-tupper-special.jpg</webfeeds:featuredImage>
   <summary>Aldi ha creado una versión especial de tupper para dar a conocer las novedades de su gama gourmet y lo ha comunicado junto a Carmen Lomana.</summary>
@@ -235,7 +235,7 @@ And over $50,000,000 given to people NOT including the stuff listed above. All w
   <published>2026-10-27T07:00:00+00:00</published>
   <updated>2026-10-27T07:00:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1hn_ARsd6JM/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/1hn_ARsd6JM/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/1hn_ARsd6JM/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/1hn_ARsd6JM/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/1hn_ARsd6JM/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Teka presenta “Larga vida a las cocinas”, una campaña de Havas Creative España que responde a la predicción de Juan Roig sobre su desaparición en 2050.</summary>
@@ -251,7 +251,7 @@ And over $50,000,000 given to people NOT including the stuff listed above. All w
   <published>2026-10-27T04:54:00+00:00</published>
   <updated>2026-10-27T04:54:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/consenso-medicion-cross-media-cnmc.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/consenso-medicion-cross-media-cnmc.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/consenso-medicion-cross-media-cnmc.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/consenso-medicion-cross-media-cnmc.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/consenso-medicion-cross-media-cnmc.jpg</webfeeds:featuredImage>
   <summary>Representantes de medios, anunciantes y empresas de medición compartieron perspectivas sobre la medición cross-media en un encuentro de la CNMC.</summary>
@@ -266,7 +266,7 @@ And over $50,000,000 given to people NOT including the stuff listed above. All w
   <published>2026-10-26T09:47:00+00:00</published>
   <updated>2026-10-26T09:47:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/bimbo-bimbitos-llaveros.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/bimbo-bimbitos-llaveros.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/bimbo-bimbitos-llaveros.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/bimbo-bimbitos-llaveros.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/bimbo-bimbitos-llaveros.jpg</webfeeds:featuredImage>
   <summary>Bimbo ha lanzado Bimbitos, una colección de llaveros de peluche inspirados en sus marcas y productos.</summary>
@@ -281,7 +281,7 @@ And over $50,000,000 given to people NOT including the stuff listed above. All w
   <published>2026-10-26T08:41:00+00:00</published>
   <updated>2026-10-26T08:41:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/D2gnrhbhBHM/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/D2gnrhbhBHM/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/D2gnrhbhBHM/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/D2gnrhbhBHM/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/D2gnrhbhBHM/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>YouTube refuerza sus incentivos para retener creadores ante los acuerdos de Netflix y Disney+. La publicidad y las audiencias impulsan la competencia.</summary>
@@ -297,7 +297,7 @@ And over $50,000,000 given to people NOT including the stuff listed above. All w
   <published>2026-10-26T08:25:00+00:00</published>
   <updated>2026-10-26T08:25:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/block-dessa.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/block-dessa.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/block-dessa.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/block-dessa.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/block-dessa.jpg</webfeeds:featuredImage>
   <summary>Block, la empresa de Jack Dorsey, ha lanzado Dessa, una inteligencia artificial entrenada exclusivamente con conversaciones humanas.</summary>
@@ -322,7 +322,7 @@ Learn more: https://t.co/6wA8KhWdjn https://t.co/vXM43uUFzx&lt;/p&gt;— Ragavan
   <published>2026-10-26T07:37:00+00:00</published>
   <updated>2026-10-26T07:37:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/freixenet-navidad.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/freixenet-navidad.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/freixenet-navidad.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/freixenet-navidad.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/freixenet-navidad.jpg</webfeeds:featuredImage>
   <summary>Freixenet será el cava oficial de las Campanadas de 3Cat, presentadas por Laura Escanes y Miki Núñez, y sustituirá a Estrella Damm en el brindis.</summary>
@@ -338,7 +338,7 @@ Learn more: https://t.co/6wA8KhWdjn https://t.co/vXM43uUFzx&lt;/p&gt;— Ragavan
   <published>2026-10-26T06:56:00+00:00</published>
   <updated>2026-10-26T06:56:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/taOGGNPa0gA/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/taOGGNPa0gA/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/taOGGNPa0gA/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/taOGGNPa0gA/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/taOGGNPa0gA/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Cerveza Victoria continúa celebrando la tradición mexicana con "El amor es eterno", lanzada con motivo del Día de Muertos.</summary>
@@ -354,7 +354,7 @@ Learn more: https://t.co/6wA8KhWdjn https://t.co/vXM43uUFzx&lt;/p&gt;— Ragavan
   <published>2026-10-26T06:42:00+00:00</published>
   <updated>2026-10-26T06:42:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/dove-perfume-jabon.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/dove-perfume-jabon.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/dove-perfume-jabon.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/dove-perfume-jabon.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/dove-perfume-jabon.jpg</webfeeds:featuredImage>
   <summary>Dove presenta Original Fragrance, su primer perfume, inspirado en el aroma de Beauty Bar y creado a petición de sus consumidores en redes sociales.</summary>
@@ -369,7 +369,7 @@ Learn more: https://t.co/6wA8KhWdjn https://t.co/vXM43uUFzx&lt;/p&gt;— Ragavan
   <published>2026-10-26T06:00:00+00:00</published>
   <updated>2026-10-26T06:00:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/medicion-audiencias-cnmc.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/medicion-audiencias-cnmc.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/medicion-audiencias-cnmc.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/medicion-audiencias-cnmc.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/medicion-audiencias-cnmc.jpg</webfeeds:featuredImage>
   <summary>Asociaciones de medios de comunicación analizaron la adecuación del mercado español a los principios de la normativa EMFA en un encuentro de la CNMC.</summary>
@@ -384,7 +384,7 @@ Learn more: https://t.co/6wA8KhWdjn https://t.co/vXM43uUFzx&lt;/p&gt;— Ragavan
   <published>2026-10-23T09:07:00+00:00</published>
   <updated>2026-10-23T09:07:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/inteligencia-artificial-textos.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/inteligencia-artificial-textos.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/inteligencia-artificial-textos.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/inteligencia-artificial-textos.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/inteligencia-artificial-textos.jpg</webfeeds:featuredImage>
   <summary>Un estudio con más de 2.500 participantes descubre una paradoja en nuestra relación con la creatividad artificial: los relatos de ChatGPT fueron considerados de mayor calidad y más absorbentes que los humanos, pero recibieron peores valoraciones cuando los lectores creían que habían sido escritos por una IA.</summary>
@@ -399,7 +399,7 @@ Learn more: https://t.co/6wA8KhWdjn https://t.co/vXM43uUFzx&lt;/p&gt;— Ragavan
   <published>2026-10-23T06:53:00+00:00</published>
   <updated>2026-10-23T06:53:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/skT_VgxCHs0/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/skT_VgxCHs0/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/skT_VgxCHs0/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/skT_VgxCHs0/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/skT_VgxCHs0/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>Visa ha renovado su identidad visual para mantener la relevancia y la notoriedad las nuevas formas de comercio.</summary>
@@ -415,7 +415,7 @@ Learn more: https://t.co/6wA8KhWdjn https://t.co/vXM43uUFzx&lt;/p&gt;— Ragavan
   <published>2026-10-22T05:44:00+00:00</published>
   <updated>2026-10-22T05:44:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ssUPLH8oCp0/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/ssUPLH8oCp0/maxresdefault.jpg" medium="image"/>
+  <media:content url="https://img.youtube.com/vi/ssUPLH8oCp0/maxresdefault.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://img.youtube.com/vi/ssUPLH8oCp0/maxresdefault.jpg"/>
   <webfeeds:featuredImage>https://img.youtube.com/vi/ssUPLH8oCp0/maxresdefault.jpg</webfeeds:featuredImage>
   <summary>La inteligencia artifical se está aplicando a la investigación de mercados y está impulsando los focus groups sintéticos.</summary>
@@ -431,7 +431,7 @@ Learn more: https://t.co/6wA8KhWdjn https://t.co/vXM43uUFzx&lt;/p&gt;— Ragavan
   <published>2026-10-21T12:01:00+00:00</published>
   <updated>2026-10-21T12:01:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://www.reasonwhy.es/media/cache/destacada/entrevista-harjot-singh-2026.jpg"/>
-  <media:content url="https://www.reasonwhy.es/media/cache/destacada/entrevista-harjot-singh-2026.jpg" medium="image"/>
+  <media:content url="https://www.reasonwhy.es/media/cache/destacada/entrevista-harjot-singh-2026.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://www.reasonwhy.es/media/cache/destacada/entrevista-harjot-singh-2026.jpg"/>
   <webfeeds:featuredImage>https://www.reasonwhy.es/media/cache/destacada/entrevista-harjot-singh-2026.jpg</webfeeds:featuredImage>
   <summary>Hablamos con Harjot Singh, Director Global de Estrategia de McCann, sobre pensamiento estratégico, velocidad, incertidumbre y el valor del marketing.</summary>
