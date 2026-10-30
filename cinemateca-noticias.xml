@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>Cinemateca de Bogotá – Noticias</title>
 <link href="https://cinematecadebogota.gov.co/noticias"/>
 <id>https://cinematecadebogota.gov.co/noticias</id>
-<updated>2026-10-15T12:00:00+00:00</updated>
+<updated>2026-11-01T12:00:00+00:00</updated>
+<entry>
+  <title>En noviembre Cinemateca al Parque se vive en la localidad de Santa Fe</title>
+  <link href="https://cinematecadebogota.gov.co/node/3919"/>
+  <id>https://cinematecadebogota.gov.co/node/3919</id>
+  <published>2026-11-01T12:00:00+00:00</published>
+  <updated>2026-11-01T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Monster%20Inc_0.png?h=b4e79ab8&amp;itok=D53U5UFn"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Monster%20Inc_0.png?h=b4e79ab8&amp;itok=D53U5UFn" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Monster%20Inc_0.png?h=b4e79ab8&amp;itok=D53U5UFn"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Monster%20Inc_0.png?h=b4e79ab8&amp;itok=D53U5UFn</webfeeds:featuredImage>
+  <summary>El próximo sábado 7 de noviembre la Cinemateca de Bogotá tendrá su cuarta parada del año en la plazoleta de City U.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Monster%20Inc_0.png?h=b4e79ab8&amp;amp;itok=D53U5UFn" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="En noviembre Cinemateca al Parque se vive en la localidad de Santa Fe" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;El próximo sábado 7 de noviembre la Cinemateca de Bogotá tendrá su cuarta parada del año en la plazoleta de City U.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
+</entry>
 <entry>
   <title>La Cinemateca de Bogotá celebra el Mes del Patrimonio Audiovisual</title>
   <link href="https://cinematecadebogota.gov.co/node/3681"/>
   <id>https://cinematecadebogota.gov.co/node/3681</id>
   <published>2026-10-15T12:00:00+00:00</published>
   <updated>2026-10-15T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Captura%20de%20Pantalla%202026-10-16%20a%20la%28s%29%208.06.04%20a.m.%20%281%29.png?h=8cb6162c&amp;amp;itok=VmLZ9YlD"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Captura%20de%20Pantalla%202026-10-16%20a%20la%28s%29%208.06.04%20a.m.%20%281%29.png?h=8cb6162c&amp;amp;itok=VmLZ9YlD" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Captura%20de%20Pantalla%202026-10-16%20a%20la%28s%29%208.06.04%20a.m.%20%281%29.png?h=8cb6162c&amp;amp;itok=VmLZ9YlD"/>
+  <link rel="enclosure" type="image/png" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Captura%20de%20Pantalla%202026-10-16%20a%20la%28s%29%208.06.04%20a.m.%20%281%29.png?h=8cb6162c&amp;itok=VmLZ9YlD"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Captura%20de%20Pantalla%202026-10-16%20a%20la%28s%29%208.06.04%20a.m.%20%281%29.png?h=8cb6162c&amp;itok=VmLZ9YlD" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Captura%20de%20Pantalla%202026-10-16%20a%20la%28s%29%208.06.04%20a.m.%20%281%29.png?h=8cb6162c&amp;itok=VmLZ9YlD"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Captura%20de%20Pantalla%202026-10-16%20a%20la%28s%29%208.06.04%20a.m.%20%281%29.png?h=8cb6162c&amp;itok=VmLZ9YlD</webfeeds:featuredImage>
   <summary>En octubre la Cinemateca de Bogotá realizará una serie de actividades alrededor del patrimonio y memoria audiovisual.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Captura%20de%20Pantalla%202026-10-16%20a%20la%28s%29%208.06.04%20a.m.%20%281%29.png?h=8cb6162c&amp;amp;amp;itok=VmLZ9YlD&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;La Cinemateca de Bogotá celebra el Mes del Patrimonio Audiovisual&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;En octubre la Cinemateca de Bogotá realizará una serie de actividades alrededor del patrimonio y memoria audiovisual.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-10/Captura%20de%20Pantalla%202026-10-16%20a%20la%28s%29%208.06.04%20a.m.%20%281%29.png?h=8cb6162c&amp;amp;itok=VmLZ9YlD" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="La Cinemateca de Bogotá celebra el Mes del Patrimonio Audiovisual" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;En octubre la Cinemateca de Bogotá realizará una serie de actividades alrededor del patrimonio y memoria audiovisual.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 <entry>
   <title>Cinemateca al Parque llega a localidad de Fontibón</title>
@@ -24,13 +40,14 @@
   <id>https://cinematecadebogota.gov.co/node/3454</id>
   <published>2026-10-03T12:00:00+00:00</published>
   <updated>2026-10-03T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/IDARTES_CinematecaAlParque_ParqueVillaMayor_18122021-MTZ_4911%20%281%29.jpg?h=039e71e1&amp;amp;itok=PTof5E_x"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/IDARTES_CinematecaAlParque_ParqueVillaMayor_18122021-MTZ_4911%20%281%29.jpg?h=039e71e1&amp;amp;itok=PTof5E_x" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/IDARTES_CinematecaAlParque_ParqueVillaMayor_18122021-MTZ_4911%20%281%29.jpg?h=039e71e1&amp;amp;itok=PTof5E_x"/>
+  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/IDARTES_CinematecaAlParque_ParqueVillaMayor_18122021-MTZ_4911%20%281%29.jpg?h=039e71e1&amp;itok=PTof5E_x"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/IDARTES_CinematecaAlParque_ParqueVillaMayor_18122021-MTZ_4911%20%281%29.jpg?h=039e71e1&amp;itok=PTof5E_x" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/IDARTES_CinematecaAlParque_ParqueVillaMayor_18122021-MTZ_4911%20%281%29.jpg?h=039e71e1&amp;itok=PTof5E_x"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/IDARTES_CinematecaAlParque_ParqueVillaMayor_18122021-MTZ_4911%20%281%29.jpg?h=039e71e1&amp;itok=PTof5E_x</webfeeds:featuredImage>
   <summary>El próximo sábado 3 de octubre Cinemateca al Parque tendrá su tercera parada en este año en el Parque Vecinal Urbanización Ciudad Hayuelos.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/IDARTES_CinematecaAlParque_ParqueVillaMayor_18122021-MTZ_4911%20%281%29.jpg?h=039e71e1&amp;amp;amp;itok=PTof5E_x&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Cinemateca al Parque llega a localidad de Fontibón&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;El próximo sábado 3 de octubre Cinemateca al Parque tendrá su tercera parada en este año en el Parque Vecinal Urbanización Ciudad Hayuelos.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/IDARTES_CinematecaAlParque_ParqueVillaMayor_18122021-MTZ_4911%20%281%29.jpg?h=039e71e1&amp;amp;itok=PTof5E_x" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="Cinemateca al Parque llega a localidad de Fontibón" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;El próximo sábado 3 de octubre Cinemateca al Parque tendrá su tercera parada en este año en el Parque Vecinal Urbanización Ciudad Hayuelos.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 <entry>
   <title>Sintonías de lo político, los gestos del archivo nueva exposición en la Galería de la Cinemateca de Bogotá</title>
@@ -38,13 +55,14 @@
   <id>https://cinematecadebogota.gov.co/node/3455</id>
   <published>2026-09-29T12:00:00+00:00</published>
   <updated>2026-09-29T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Captura%20de%20Pantalla%202026-09-24%20a%20la%28s%29%203.36.12%20p.m._0.png?h=cc2e98f1&amp;amp;itok=G2yRJtaU"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Captura%20de%20Pantalla%202026-09-24%20a%20la%28s%29%203.36.12%20p.m._0.png?h=cc2e98f1&amp;amp;itok=G2yRJtaU" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Captura%20de%20Pantalla%202026-09-24%20a%20la%28s%29%203.36.12%20p.m._0.png?h=cc2e98f1&amp;amp;itok=G2yRJtaU"/>
+  <link rel="enclosure" type="image/png" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Captura%20de%20Pantalla%202026-09-24%20a%20la%28s%29%203.36.12%20p.m._0.png?h=cc2e98f1&amp;itok=G2yRJtaU"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Captura%20de%20Pantalla%202026-09-24%20a%20la%28s%29%203.36.12%20p.m._0.png?h=cc2e98f1&amp;itok=G2yRJtaU" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Captura%20de%20Pantalla%202026-09-24%20a%20la%28s%29%203.36.12%20p.m._0.png?h=cc2e98f1&amp;itok=G2yRJtaU"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Captura%20de%20Pantalla%202026-09-24%20a%20la%28s%29%203.36.12%20p.m._0.png?h=cc2e98f1&amp;itok=G2yRJtaU</webfeeds:featuredImage>
   <summary>Desde el 29 de septiembre se exhibirá una muestra que explora el cine y el audiovisual político y social en las ciudades de Bogotá y París, así como la evolución tecnológica que ha permitido producirlos y exhibirlos.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Captura%20de%20Pantalla%202026-09-24%20a%20la%28s%29%203.36.12%20p.m._0.png?h=cc2e98f1&amp;amp;amp;itok=G2yRJtaU&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Sintonías de lo político, los gestos del archivo nueva exposición en la Galería de la Cinemateca de Bogotá&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;Desde el 29 de septiembre se exhibirá una muestra que explora el cine y el audiovisual político y social en las ciudades de Bogotá y París, así como la evolución tecnológica que ha permitido producirlos y exhibirlos.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Captura%20de%20Pantalla%202026-09-24%20a%20la%28s%29%203.36.12%20p.m._0.png?h=cc2e98f1&amp;amp;itok=G2yRJtaU" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="Sintonías de lo político, los gestos del archivo nueva exposición en la Galería de la Cinemateca de Bogotá" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;Desde el 29 de septiembre se exhibirá una muestra que explora el cine y el audiovisual político y social en las ciudades de Bogotá y París, así como la evolución tecnológica que ha permitido producirlos y exhibirlos.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 <entry>
   <title>El jazz se toma la franja El Cine &amp; Yo de la Cinemateca de Bogotá</title>
@@ -52,13 +70,14 @@
   <id>https://cinematecadebogota.gov.co/node/3198</id>
   <published>2026-09-14T12:00:00+00:00</published>
   <updated>2026-09-14T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Ricardo%20Gallo_.png?h=3dbd3991&amp;amp;itok=QGRWlCbh"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Ricardo%20Gallo_.png?h=3dbd3991&amp;amp;itok=QGRWlCbh" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Ricardo%20Gallo_.png?h=3dbd3991&amp;amp;itok=QGRWlCbh"/>
+  <link rel="enclosure" type="image/png" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Ricardo%20Gallo_.png?h=3dbd3991&amp;itok=QGRWlCbh"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Ricardo%20Gallo_.png?h=3dbd3991&amp;itok=QGRWlCbh" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Ricardo%20Gallo_.png?h=3dbd3991&amp;itok=QGRWlCbh"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Ricardo%20Gallo_.png?h=3dbd3991&amp;itok=QGRWlCbh</webfeeds:featuredImage>
   <summary>El próximo 18 de septiembre El Cine &amp; Yo recibe al destacado pianista y compositor bogotano Ricardo Gallo.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Ricardo%20Gallo_.png?h=3dbd3991&amp;amp;amp;itok=QGRWlCbh&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;El jazz se toma la franja El Cine &amp;amp; Yo de la Cinemateca de Bogotá&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;El próximo 18 de septiembre El Cine &amp;amp; Yo recibe al destacado pianista y compositor bogotano Ricardo Gallo.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-09/Ricardo%20Gallo_.png?h=3dbd3991&amp;amp;itok=QGRWlCbh" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="El jazz se toma la franja El Cine &amp;amp; Yo de la Cinemateca de Bogotá" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;El próximo 18 de septiembre El Cine &amp;amp; Yo recibe al destacado pianista y compositor bogotano Ricardo Gallo.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 <entry>
   <title>Llega 14.ª edición de CICLA - Cita con el Cine Latinoamericano a la Cinemateca de Bogotá, un recorrido esencial por el cine latinoamericano</title>
@@ -66,13 +85,14 @@
   <id>https://cinematecadebogota.gov.co/node/3104</id>
   <published>2026-09-03T12:00:00+00:00</published>
   <updated>2026-09-03T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/COB3.jpg?h=299f09f4&amp;amp;itok=Dbn0xuXN"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/COB3.jpg?h=299f09f4&amp;amp;itok=Dbn0xuXN" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/COB3.jpg?h=299f09f4&amp;amp;itok=Dbn0xuXN"/>
+  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/COB3.jpg?h=299f09f4&amp;itok=Dbn0xuXN"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/COB3.jpg?h=299f09f4&amp;itok=Dbn0xuXN" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/COB3.jpg?h=299f09f4&amp;itok=Dbn0xuXN"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/COB3.jpg?h=299f09f4&amp;itok=Dbn0xuXN</webfeeds:featuredImage>
   <summary>Del 3 al 13 de septiembre, la Cinemateca de Bogotá y la Asociación de Agregados Culturales de América Latina y el Caribe en Colombia afianzan la conversación alrededor del cine de la región.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/COB3.jpg?h=299f09f4&amp;amp;amp;itok=Dbn0xuXN&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Llega 14.ª edición de CICLA - Cita con el Cine Latinoamericano a la Cinemateca de Bogotá, un recorrido esencial por el cine latinoamericano&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;Del 3 al 13 de septiembre, la Cinemateca de Bogotá y la Asociación de Agregados Culturales de América Latina y el Caribe en Colombia afianzan la conversación alrededor del cine de la región.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/COB3.jpg?h=299f09f4&amp;amp;itok=Dbn0xuXN" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="Llega 14.ª edición de CICLA - Cita con el Cine Latinoamericano a la Cinemateca de Bogotá, un recorrido esencial por el cine latinoamericano" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;Del 3 al 13 de septiembre, la Cinemateca de Bogotá y la Asociación de Agregados Culturales de América Latina y el Caribe en Colombia afianzan la conversación alrededor del cine de la región.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 <entry>
   <title>Nuevas invitaciones culturales de la Cinemateca de Bogotá</title>
@@ -80,27 +100,14 @@
   <id>https://cinematecadebogota.gov.co/node/1530</id>
   <published>2026-08-10T12:00:00+00:00</published>
   <updated>2026-08-10T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-02/Cinemateca_de_Bogota%CC%81_Idartes_JSantacruz_fachada%20web.jpg?h=87722e71&amp;amp;itok=GeGr8XNt"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-02/Cinemateca_de_Bogota%CC%81_Idartes_JSantacruz_fachada%20web.jpg?h=87722e71&amp;amp;itok=GeGr8XNt" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-02/Cinemateca_de_Bogota%CC%81_Idartes_JSantacruz_fachada%20web.jpg?h=87722e71&amp;amp;itok=GeGr8XNt"/>
+  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-02/Cinemateca_de_Bogota%CC%81_Idartes_JSantacruz_fachada%20web.jpg?h=87722e71&amp;itok=GeGr8XNt"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-02/Cinemateca_de_Bogota%CC%81_Idartes_JSantacruz_fachada%20web.jpg?h=87722e71&amp;itok=GeGr8XNt" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-02/Cinemateca_de_Bogota%CC%81_Idartes_JSantacruz_fachada%20web.jpg?h=87722e71&amp;itok=GeGr8XNt"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-02/Cinemateca_de_Bogota%CC%81_Idartes_JSantacruz_fachada%20web.jpg?h=87722e71&amp;itok=GeGr8XNt</webfeeds:featuredImage>
   <summary>Conozca las distintas convocatorias para potenciar los procesos creativos alrededor del audiovisual.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-02/Cinemateca_de_Bogota%CC%81_Idartes_JSantacruz_fachada%20web.jpg?h=87722e71&amp;amp;amp;itok=GeGr8XNt&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Nuevas invitaciones culturales de la Cinemateca de Bogotá&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;Conozca las distintas convocatorias para potenciar los procesos creativos alrededor del audiovisual.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
-</entry>
-<entry>
-  <title>La búsqueda: Un lugar de encuentro, la nueva exposición que llega a la Cinemateca de Bogotá</title>
-  <link href="https://cinematecadebogota.gov.co/node/3008"/>
-  <id>https://cinematecadebogota.gov.co/node/3008</id>
-  <published>2026-08-06T12:00:00+00:00</published>
-  <updated>2026-08-06T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/UBPD%2001.jpg?h=8b1bf2e3&amp;amp;itok=nmJyvrF8"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/UBPD%2001.jpg?h=8b1bf2e3&amp;amp;itok=nmJyvrF8" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/UBPD%2001.jpg?h=8b1bf2e3&amp;amp;itok=nmJyvrF8"/>
-  <summary>Desde el 6 hasta el 30 de agosto, la Cinemateca de Bogotá albergará esta muestra inmersiva compuesta por tres estaciones que invitan a reflexionar sobre el impacto de la desaparición en Colombia.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/UBPD%2001.jpg?h=8b1bf2e3&amp;amp;amp;itok=nmJyvrF8&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;La búsqueda: Un lugar de encuentro, la nueva exposición que llega a la Cinemateca de Bogotá&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;Desde el 6 hasta el 30 de agosto, la Cinemateca de Bogotá albergará esta muestra inmersiva compuesta por tres estaciones que invitan a reflexionar sobre el impacto de la desaparición en Colombia.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-02/Cinemateca_de_Bogota%CC%81_Idartes_JSantacruz_fachada%20web.jpg?h=87722e71&amp;amp;itok=GeGr8XNt" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="Nuevas invitaciones culturales de la Cinemateca de Bogotá" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;Conozca las distintas convocatorias para potenciar los procesos creativos alrededor del audiovisual.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 <entry>
   <title>Bogotá en el cine, un recorrido por la ciudad</title>
@@ -108,13 +115,29 @@
   <id>https://cinematecadebogota.gov.co/node/2958</id>
   <published>2026-08-06T12:00:00+00:00</published>
   <updated>2026-08-06T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Litigante.png?h=9738d0e4&amp;amp;itok=cMA-P8gL"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Litigante.png?h=9738d0e4&amp;amp;itok=cMA-P8gL" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Litigante.png?h=9738d0e4&amp;amp;itok=cMA-P8gL"/>
+  <link rel="enclosure" type="image/png" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Litigante.png?h=9738d0e4&amp;itok=cMA-P8gL"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Litigante.png?h=9738d0e4&amp;itok=cMA-P8gL" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Litigante.png?h=9738d0e4&amp;itok=cMA-P8gL"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Litigante.png?h=9738d0e4&amp;itok=cMA-P8gL</webfeeds:featuredImage>
   <summary>La Cinemateca de Bogotá invita a la ciudadanía a celebrar el cumpleaños de la capital con un día de cine con acceso libre para todos, el próximo 6 de agosto.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Litigante.png?h=9738d0e4&amp;amp;amp;itok=cMA-P8gL&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Bogotá en el cine, un recorrido por la ciudad&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;La Cinemateca de Bogotá invita a la ciudadanía a celebrar el cumpleaños de la capital con un día de cine con acceso libre para todos, el próximo 6 de agosto.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Litigante.png?h=9738d0e4&amp;amp;itok=cMA-P8gL" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="Bogotá en el cine, un recorrido por la ciudad" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;La Cinemateca de Bogotá invita a la ciudadanía a celebrar el cumpleaños de la capital con un día de cine con acceso libre para todos, el próximo 6 de agosto.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
+</entry>
+<entry>
+  <title>La búsqueda: Un lugar de encuentro, la nueva exposición que llega a la Cinemateca de Bogotá</title>
+  <link href="https://cinematecadebogota.gov.co/node/3008"/>
+  <id>https://cinematecadebogota.gov.co/node/3008</id>
+  <published>2026-08-06T12:00:00+00:00</published>
+  <updated>2026-08-06T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/UBPD%2001.jpg?h=8b1bf2e3&amp;itok=nmJyvrF8"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/UBPD%2001.jpg?h=8b1bf2e3&amp;itok=nmJyvrF8" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/UBPD%2001.jpg?h=8b1bf2e3&amp;itok=nmJyvrF8"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/UBPD%2001.jpg?h=8b1bf2e3&amp;itok=nmJyvrF8</webfeeds:featuredImage>
+  <summary>Desde el 6 hasta el 30 de agosto, la Cinemateca de Bogotá albergará esta muestra inmersiva compuesta por tres estaciones que invitan a reflexionar sobre el impacto de la desaparición en Colombia.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-08/UBPD%2001.jpg?h=8b1bf2e3&amp;amp;itok=nmJyvrF8" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="La búsqueda: Un lugar de encuentro, la nueva exposición que llega a la Cinemateca de Bogotá" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;Desde el 6 hasta el 30 de agosto, la Cinemateca de Bogotá albergará esta muestra inmersiva compuesta por tres estaciones que invitan a reflexionar sobre el impacto de la desaparición en Colombia.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 <entry>
   <title>Muestra Fritz Lang, un recorrido por la obra de uno de los directores más influyentes de la historia</title>
@@ -122,13 +145,14 @@
   <id>https://cinematecadebogota.gov.co/node/2830</id>
   <published>2026-07-28T12:00:00+00:00</published>
   <updated>2026-07-28T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Metropolis_.png?h=dd05d4a9&amp;amp;itok=S1vgWtdA"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Metropolis_.png?h=dd05d4a9&amp;amp;itok=S1vgWtdA" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Metropolis_.png?h=dd05d4a9&amp;amp;itok=S1vgWtdA"/>
+  <link rel="enclosure" type="image/png" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Metropolis_.png?h=dd05d4a9&amp;itok=S1vgWtdA"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Metropolis_.png?h=dd05d4a9&amp;itok=S1vgWtdA" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Metropolis_.png?h=dd05d4a9&amp;itok=S1vgWtdA"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Metropolis_.png?h=dd05d4a9&amp;itok=S1vgWtdA</webfeeds:featuredImage>
   <summary>Del 28 de julio al 4 de agosto la Cinemateca de Bogotá y el Instituto Goethe presentan una muestra dedicada a la obra cinematográfica del reconocido director y guionista alemán de origen austríaco.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Metropolis_.png?h=dd05d4a9&amp;amp;amp;itok=S1vgWtdA&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Muestra Fritz Lang, un recorrido por la obra de uno de los directores más influyentes de la historia&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;Del 28 de julio al 4 de agosto la Cinemateca de Bogotá y el Instituto Goethe presentan una muestra dedicada a la obra cinematográfica del reconocido director y guionista alemán de origen austríaco.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Metropolis_.png?h=dd05d4a9&amp;amp;itok=S1vgWtdA" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="Muestra Fritz Lang, un recorrido por la obra de uno de los directores más influyentes de la historia" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;Del 28 de julio al 4 de agosto la Cinemateca de Bogotá y el Instituto Goethe presentan una muestra dedicada a la obra cinematográfica del reconocido director y guionista alemán de origen austríaco.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 <entry>
   <title>Retrospectiva Alonso Ruizpalacios, una narrativa fresca, inteligente y humana</title>
@@ -136,13 +160,14 @@
   <id>https://cinematecadebogota.gov.co/node/2748</id>
   <published>2026-07-08T12:00:00+00:00</published>
   <updated>2026-07-08T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.15.16%20p.m..png?h=bb061800&amp;amp;itok=-PtZEU7C"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.15.16%20p.m..png?h=bb061800&amp;amp;itok=-PtZEU7C" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.15.16%20p.m..png?h=bb061800&amp;amp;itok=-PtZEU7C"/>
+  <link rel="enclosure" type="image/png" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.15.16%20p.m..png?h=bb061800&amp;itok=-PtZEU7C"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.15.16%20p.m..png?h=bb061800&amp;itok=-PtZEU7C" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.15.16%20p.m..png?h=bb061800&amp;itok=-PtZEU7C"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.15.16%20p.m..png?h=bb061800&amp;itok=-PtZEU7C</webfeeds:featuredImage>
   <summary>Del 8 al 12 de julio la Cinemateca de Bogotá y el Bogotá Audiovisual Market - BAM presentan una retrospectiva dedicada a la obra cinematográfica del reconocido realizador mexicano.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.15.16%20p.m..png?h=bb061800&amp;amp;amp;itok=-PtZEU7C&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Retrospectiva Alonso Ruizpalacios, una narrativa fresca, inteligente y humana&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;Del 8 al 12 de julio la Cinemateca de Bogotá y el Bogotá Audiovisual Market - BAM presentan una retrospectiva dedicada a la obra cinematográfica del reconocido realizador mexicano.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.15.16%20p.m..png?h=bb061800&amp;amp;itok=-PtZEU7C" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="Retrospectiva Alonso Ruizpalacios, una narrativa fresca, inteligente y humana" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;Del 8 al 12 de julio la Cinemateca de Bogotá y el Bogotá Audiovisual Market - BAM presentan una retrospectiva dedicada a la obra cinematográfica del reconocido realizador mexicano.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 <entry>
   <title>Cinemateca al Parque llega a la localidad de Chapinero</title>
@@ -150,26 +175,13 @@
   <id>https://cinematecadebogota.gov.co/node/2756</id>
   <published>2026-07-07T12:00:00+00:00</published>
   <updated>2026-07-07T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Ponyo_0.png?h=6d9f3978&amp;amp;itok=h-Ssu4Ws"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Ponyo_0.png?h=6d9f3978&amp;amp;itok=h-Ssu4Ws" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Ponyo_0.png?h=6d9f3978&amp;amp;itok=h-Ssu4Ws"/>
+  <link rel="enclosure" type="image/png" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Ponyo_0.png?h=6d9f3978&amp;itok=h-Ssu4Ws"/>
+  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Ponyo_0.png?h=6d9f3978&amp;itok=h-Ssu4Ws" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Ponyo_0.png?h=6d9f3978&amp;itok=h-Ssu4Ws"/>
+  <webfeeds:featuredImage>https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Ponyo_0.png?h=6d9f3978&amp;itok=h-Ssu4Ws</webfeeds:featuredImage>
   <summary>El próximo sábado 11 de julio, el cine y las artes audiovisuales se unen con una programación especial en el marco del Festival de la Igualdad.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Ponyo_0.png?h=6d9f3978&amp;amp;amp;itok=h-Ssu4Ws&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Cinemateca al Parque llega a la localidad de Chapinero&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;El próximo sábado 11 de julio, el cine y las artes audiovisuales se unen con una programación especial en el marco del Festival de la Igualdad.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
-</entry>
-<entry>
-  <title>La Cinemateca de Bogotá presenta su agenda de actividades en la XVII edición del Bogotá Audiovisual Market</title>
-  <link href="https://cinematecadebogota.gov.co/node/2747"/>
-  <id>https://cinematecadebogota.gov.co/node/2747</id>
-  <published>2026-07-06T12:00:00+00:00</published>
-  <updated>2026-07-06T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.58.03%20p.m..png?h=d549f634&amp;amp;itok=1QuhST_Q"/>
-  <media:content url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.58.03%20p.m..png?h=d549f634&amp;amp;itok=1QuhST_Q" medium="image"/>
-  <media:thumbnail url="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.58.03%20p.m..png?h=d549f634&amp;amp;itok=1QuhST_Q"/>
-  <summary>Con cine, encuentros y experiencias, la Cinemateca de Bogotá y la Comisión Fílmica de Bogotá del Idartes harán parte del encuentro de la industria audiovisual más importante del país.</summary>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Captura%20de%20Pantalla%202026-07-02%20a%20la%28s%29%202.58.03%20p.m..png?h=d549f634&amp;amp;amp;itok=1QuhST_Q&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;La Cinemateca de Bogotá presenta su agenda de actividades en la XVII edición del Bogotá Audiovisual Market&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;&quot;&gt;&lt;strong&gt;Con cine, encuentros y experiencias, la Cinemateca de Bogotá y la Comisión Fílmica de Bogotá del Idartes harán parte del encuentro de la industria audiovisual más importante del país.&lt;/strong&gt;&lt;/p&gt;
-&lt;img src=&quot;https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png&quot; data-entity-uuid=&quot;fa43a508-a473-42b8-af91-b271803040e9&quot; data-entity-type=&quot;file&quot; class=&quot;align-left&quot; width=&quot;118&quot; height=&quot;28&quot; loading=&quot;lazy&quot;&gt;</content>
+  <content type="html">&lt;p&gt;&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/styles/news_1900_x_633_/public/2026-07/Ponyo_0.png?h=6d9f3978&amp;amp;itok=h-Ssu4Ws" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" alt="Cinemateca al Parque llega a la localidad de Chapinero" /&gt;&lt;/p&gt;
+&lt;p style="font-weight: 500; font-size: 1.05em; color: #333; margin-bottom: 16px;"&gt;&lt;strong&gt;El próximo sábado 11 de julio, el cine y las artes audiovisuales se unen con una programación especial en el marco del Festival de la Igualdad.&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="https://cinematecadebogota.gov.co/sites/default/files/inline-images/logo_gobierno.png" data-entity-uuid="fa43a508-a473-42b8-af91-b271803040e9" data-entity-type="file" class="align-left" width="118" height="28" loading="lazy"&gt;</content>
 </entry>
 </feed>
