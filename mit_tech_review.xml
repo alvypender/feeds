@@ -3,7 +3,348 @@
 <title>MIT Technology Review en español (Completo)</title>
 <link href="https://www.technologyreview.es/"/>
 <id>https://www.technologyreview.es/</id>
-<updated>2026-11-02T04:35:19+00:00</updated>
+<updated>2026-11-02T12:00:00+00:00</updated>
+<entry>
+  <title>Mejorar la calidad de los «insights» en la analítica agéntica</title>
+  <link href="https://www.technologyreview.es/article/mejorar-la-calidad-de-los-insights-en-la-analitica-agentica"/>
+  <id>https://www.technologyreview.es/article/mejorar-la-calidad-de-los-insights-en-la-analitica-agentica</id>
+  <published>2026-11-02T12:00:00+00:00</published>
+  <updated>2026-11-02T12:00:00+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F10f58f0e274ef7d36cbcbb073b1fd1dcc13454bb.png?alt=media&amp;token=44a9ec59-5376-491f-9dfb-2d02193befbf"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F10f58f0e274ef7d36cbcbb073b1fd1dcc13454bb.png?alt=media&amp;token=44a9ec59-5376-491f-9dfb-2d02193befbf" medium="image" type="image/png"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F10f58f0e274ef7d36cbcbb073b1fd1dcc13454bb.png?alt=media&amp;token=44a9ec59-5376-491f-9dfb-2d02193befbf"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F10f58f0e274ef7d36cbcbb073b1fd1dcc13454bb.png?alt=media&amp;token=44a9ec59-5376-491f-9dfb-2d02193befbf</webfeeds:featuredImage>
+  <summary>La principal razón por la que los agentes de analítica generan «insights» deficientes es la falta de contexto de negocio, lo que está impulsando la inversión…</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F10f58f0e274ef7d36cbcbb073b1fd1dcc13454bb.png?alt=media&amp;token=44a9ec59-5376-491f-9dfb-2d02193befbf" alt="Mejorar la calidad de los «insights» en la analítica agéntica" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por MIT Technology Review Insights&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;La principal razón por la que los agentes de analítica generan «insights» deficientes es la falta de contexto de negocio, lo que está impulsando la inversión…&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;En apenas unos años, la IA generativa ha cambiado el panorama de la analítica empresarial, en especial al ponerla al alcance de los usuarios de toda la organización. La IA agéntica promete ir todavía más lejos al automatizar flujos de trabajo completos y tomar medidas basadas en las conclusiones de los agentes. Pero hay un problema: la calidad de las conclusiones que generan actualmente los agentes deja mucho que desear.&lt;/p&gt;
+
+&lt;p&gt;Menos de la mitad de las conclusiones generadas por agentes en las organizaciones encuestadas para este informe se traducen en mejoras para el negocio. Y, si bien la mayoría de los encuestados elogia la calidad de las conclusiones descriptivas de sus agentes, las valoraciones sobre sus conclusiones prescriptivas —aquellas en las que se basan las acciones— son claramente dispares.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-full is-resized"&gt;&lt;a href="https://www.snowflake.com/en/lp/raising-the-quality-of-insights-in-agentic-analytics/" target="_blank" rel=" noopener"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff5eb2d9f990a4f367a2fa6b5adf09d6bb8f7df71.png?alt=media&amp;token=5e4ea9b2-5ea1-4fb6-8b36-03ebdb4fa6ae" alt="" class="wp-image-1147666" style="aspect-ratio:0.7779240887319664;width:386px;height:auto"/&gt;&lt;/a&gt;&lt;/figure&gt;
+
+&lt;div class="wp-block-buttons"&gt;
+&lt;div class="wp-block-button is-style-fill"&gt;&lt;a class="wp-block-button__link has-mittr-white-color has-text-color has-background has-custom-font-size wp-element-button" href="https://www.snowflake.com/en/lp/raising-the-quality-of-insights-in-agentic-analytics/" style="border-radius:4px;background-color:#783993;font-size:16px" target="_blank" rel="noopener"&gt;DESCARGA EL INFORME&lt;/a&gt;</content>
+</entry>
+<entry>
+  <title>Deja de contar tokens y empieza a contar lo que lanzas</title>
+  <link href="https://www.technologyreview.es/article/deja-de-contar-tokens-y-empieza-a-contar-lo-que-lanzas"/>
+  <id>https://www.technologyreview.es/article/deja-de-contar-tokens-y-empieza-a-contar-lo-que-lanzas</id>
+  <published>2026-11-02T08:10:32+00:00</published>
+  <updated>2026-11-02T08:10:32+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64</webfeeds:featuredImage>
+  <summary>Por qué racionar la programación agéntica resulta contraproducente y qué deberías medir en su lugar.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64" alt="Deja de contar tokens y empieza a contar lo que lanzas" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Affan Syed&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Por qué racionar la programación agéntica resulta contraproducente y qué deberías medir en su lugar.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cuando un desarrollador asigna una tarea de programación a un agente de IA, este no se limita a responder una sola vez. Planifica, genera código, ejecuta pruebas y repite el proceso para corregir errores. Una sola tarea puede consumir entre 10 y 50 veces más tokens que un prompt básico de chat. Cuanto más útil resulta el agente, más llamadas realiza. Con un modelo de precios por token, los flujos de trabajo que más valor aportan también pueden convertirse en los más caros.&lt;/p&gt;
+
+&lt;p&gt;La presión económica ya es evidente. Según ha trascendido, Uber agotó en abril todo su presupuesto de IA para 2026 tras ampliar el uso de Claude Code. GitHub Copilot pasó de una tarifa plana a un sistema de créditos por consumo. &lt;a href="https://www.gartner.com/en/newsroom/press-releases/2026-06-24-gartner-predicts-ai-coding-costs-will-surpass-average-developer-salary-by-2028-as-token-consumption-surges" target="_blank" rel="noopener"&gt;Gartner prevé&lt;/a&gt; que los costes en tokens para programar con IA superarán el salario medio de un desarrollador para 2028.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64" alt="" class="wp-image-1147870"/&gt;&lt;/figure&gt;
+
+&lt;p&gt;La respuesta natural es racionar: topes de uso, límites de licencias y aprobaciones antes de que los desarrolladores lancen agentes. Pero los límites generalizados pueden restringir los flujos de trabajo que aportan valor. Además, optimizan la cifra equivocada. El coste por token mide el consumo, no los resultados. Parte del gasto refleja un desperdicio, incluidos los reintentos y los bucles descontrolados. Otra parte representa el trabajo de publicar software. Un contador no puede distinguirlos, y un límite de gasto, tampoco.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Mide el software que se publica&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Una métrica mejor es el coste por pull request fusionada: el coste total del desarrollo asistido por IA dividido entre el número de cambios que superan la revisión y se fusionan. Monitoriza el retrabajo y los defectos en paralelo para que unos cambios más baratos no oculten una menor calidad.&lt;/p&gt;
+
+&lt;p&gt;Si ese coste se reduce a medida que aumenta el uso de la IA, sin comprometer la calidad, los desarrolladores están convirtiendo un mayor consumo en software útil. La cuestión no es cuántos tokens utilizan, sino cuánto trabajo terminado produce la inversión.&lt;/p&gt;
+
+&lt;p&gt;Mejorar esa ecuación requiere dos cambios: reservar la inferencia costosa para las tareas que la necesitan y reducir el coste del trabajo rutinario.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Adapta el modelo a la tarea&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;La programación agéntica no requiere el modelo más potente en cada paso. Utiliza un modelo frontera, o un modelo insignia on-premises cuando las políticas lo exijan, para la planificación compleja y el razonamiento novedoso. Deriva el trabajo adecuado, incluida la generación de código, la creación de pruebas y la refactorización recurrente, a modelos de pesos abiertos que gestiones tú mismo.&lt;/p&gt;
+
+&lt;p&gt;Una pasarela puede enrutar las solicitudes según la complejidad de la tarea, la confidencialidad de los datos, el coste y la latencia. Esto reserva la inferencia prémium para los momentos que realmente lo justifican, en lugar de aplicar tarifas prémium a todo el flujo de trabajo. Tarifica la excepción, no la carga de trabajo.&lt;/p&gt;
+
+&lt;p&gt;Los modelos de pesos abiertos hacen que esta división resulte cada vez más práctica. Los benchmarks de ingeniería de software demuestran que los principales modelos de pesos abiertos pueden acercarse al rendimiento de frontera en algunas tareas. Esto no establece una equivalencia en todos los repositorios o flujos de trabajo. Evalúa a los candidatos con tu propio código, pruebas y criterios de aceptación antes de asignarles tareas en producción.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Cambia la economía del uso recurrente&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;A continuación, decide quién es el propietario de la capacidad. Con la inferencia alquilada, cada llamada se suma a la factura. Con la capacidad en propiedad, la mayor parte del coste se asume por adelantado, por lo que cada llamada adicional resulta más barata a medida que aumenta el uso.&lt;/p&gt;
+
+&lt;p&gt;La lógica económica es sencilla: la tarificación por token encarece el uso intensivo, mientras que la capacidad propia resulta más eficiente a medida que los equipos la utilizan más. Sin embargo, contar con infraestructura propia no sale gratis. Hay que tener en cuenta el consumo energético, las operaciones, el mantenimiento y la amortización. La cifra que de verdad importa es el coste total repercutido por cada pull request integrada.&lt;/p&gt;
+
+&lt;p&gt;Contar con capacidad propia también aporta un tipo de valor que nunca figura en una factura: el control sobre el código sensible. Cuando la generación y las pruebas de código se ejecutan on-premise, el código propietario permanece dentro de la empresa. Hacia los modelos externos solo salen los prompts de planificación aprobados y las excepciones supervisadas, a través de una pasarela bajo el control de la organización. Esto permite acceder a los repositorios sensibles donde la seguridad suele frenar la adopción y donde aguardan las mayores ventajas.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Pon a prueba el modelo operativo&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;En HPE, una plataforma de IA híbrida enruta las cargas de trabajo rutinarias de más de 150 aplicaciones internas hacia modelos de pesos abiertos que se ejecutan en local, incluido en HPE Private Cloud AI. El resultado: una reducción de entre el 30 % y el 50 % en los costes por token.&lt;/p&gt;
+
+&lt;p&gt;Esa es la clave del enfoque híbrido. Con HPE Private Cloud AI, ser dueño de tu propia inferencia no significa renunciar a los modelos de frontera. Ejecuta el volumen en tu propia capacidad y deja que una pasarela desvíe el trabajo más exigente.&lt;/p&gt;
+
+&lt;p&gt;Los datos también demuestran que el uso, y no el número de licencias contratadas, es lo que determina el gasto. El 5 % de los usuarios con mayor actividad generó la mayor parte del consumo, y los más intensivos utilizaron unas 450 veces más recursos que los más moderados con la misma licencia. Si los usuarios avanzados pasan de ser una pequeña minoría a la mitad de la plantilla, el gasto mensual puede multiplicarse aproximadamente por 4,4 sin que varíe el número de empleados. Tu caso particular será distinto, y esa es precisamente la razón por la que necesitas medirlo.&lt;/p&gt;
+
+&lt;p&gt;HPE monitoriza dos métricas y recomienda a sus clientes que hagan lo mismo. En primer lugar, monitoriza el coste por desarrollador activo, ya que calcular la media de todas las licencias oculta a los usuarios avanzados que disparan el gasto. En segundo lugar, monitoriza el coste por pull request fusionada, porque vincula el gasto en IA con el software que se entrega.&lt;/p&gt;
+
+&lt;p&gt;Establece una línea base para ambos costes antes de cambiar de infraestructura. Después, ejecuta un ciclo de desarrollo completo con capacidad propia. Si ambas métricas no mejoran a medida que aumenta el uso, puede que tu modelo actual siga siendo la mejor opción.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Construye para la adopción, no para el racionamiento&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Disponer de capacidad propia no es para todo el mundo. Un uso bajo o impredecible favorece las API, sin capital inmovilizado en infraestructura inactiva. La propiedad compensa cuando una demanda sostenida la mantiene a pleno rendimiento. La mayoría de las empresas operarán de forma híbrida: API de vanguardia para tareas exigentes o intermitentes, y capacidad propia para volúmenes repetitivos. Una pasarela gobernada decide qué sale de la organización, de modo que obtienes modelos de vanguardia sin renunciar a la soberanía sobre tu código.&lt;/p&gt;
+
+&lt;p&gt;A medida que los desarrolladores recurran más a los agentes de programación, el uso seguirá aumentando. La verdadera disyuntiva es si ese crecimiento se traducirá en una factura más abultada por costes variables o en más software lanzado con capacidad propia. Las empresas que lideren el desarrollo asistido por IA no racionarán su adopción para controlar los costes. Construirán un modelo operativo en el que un mayor uso de la IA mejore la rentabilidad en lugar de socavarla.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Para obtener más información sobre HPE Private Cloud AI, visita &lt;a href="https://www.hpe.com/us/en/products/private-cloud/pcai.html?plid=PSF26-00003328&amp;amp;ef_id=5c0f993b7a99180be139f3edca721c4c%3AG%3As&amp;amp;s_kwcid=AL%2113472%2110%2181157839054491%21%21%21%2181158075081756%21%21605741192%211298524459994371" target="_blank" rel="noopener"&gt;HPE&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Este contenido ha sido elaborado por HPE. No ha sido redactado por el equipo editorial de MIT Technology Review.&lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Deja de contar tokens, empieza a contar lo que lanzas</title>
+  <link href="https://www.technologyreview.es/article/deja-de-contar-tokens-empieza-a-contar-lo-que-lanzas"/>
+  <id>https://www.technologyreview.es/article/deja-de-contar-tokens-empieza-a-contar-lo-que-lanzas</id>
+  <published>2026-11-02T08:10:32+00:00</published>
+  <updated>2026-11-02T08:10:32+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64</webfeeds:featuredImage>
+  <summary>Por qué racionar la programación agéntica es contraproducente y qué deberías medir en su lugar.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64" alt="Deja de contar tokens, empieza a contar lo que lanzas" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Affan Syed&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Por qué racionar la programación agéntica es contraproducente y qué deberías medir en su lugar.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cuando un desarrollador le encarga una tarea de programación a un agente de IA, este hace mucho más que dar una única respuesta. Planifica, genera código, ejecuta pruebas y repite el proceso para corregir errores. Una sola tarea puede consumir entre 10 y 50 veces más tokens que un prompt de chat básico. Cuanto más útil resulta el agente, más llamadas realiza. Con los precios por token, los flujos de trabajo que generan más valor también pueden convertirse en los más caros.&lt;/p&gt;
+
+&lt;p&gt;La presión económica ya es evidente. Según ha trascendido, Uber agotó todo su presupuesto de IA para 2026 en el mes de abril tras ampliar el uso de Claude Code. GitHub Copilot ha pasado de una tarifa plana a un sistema de créditos por consumo. &lt;a href="https://www.gartner.com/en/newsroom/press-releases/2026-06-24-gartner-predicts-ai-coding-costs-will-surpass-average-developer-salary-by-2028-as-token-consumption-surges" target="_blank" rel="noopener"&gt;Gartner prevé&lt;/a&gt; que el coste de los tokens de IA para programar superará el salario medio de un desarrollador para 2028.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb034169f51ef8f50d3240930ba36d558d233a2d0.jpg?alt=media&amp;token=27fd58cc-cafd-4ef8-ad7d-cb6decd2fd64" alt="" class="wp-image-1147870"/&gt;&lt;/figure&gt;
+
+&lt;p&gt;La respuesta natural es racionar: topes de uso, límites de licencias y aprobaciones antes de que los desarrolladores lancen agentes. Sin embargo, los límites generalizados pueden restringir los flujos de trabajo que aportan valor. Además, optimizan la métrica equivocada. El coste por token mide el consumo, no los resultados. Parte del gasto refleja un desperdicio, que incluye reintentos y bucles descontrolados. Otra parte representa el trabajo de entregar software. Un contador no puede distinguirlos, y un tope de gasto tampoco.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Mide el software que se entrega&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Una métrica mejor es el coste por pull request fusionada: el coste total del desarrollo asistido por IA dividido entre el número de cambios que superan la revisión y se fusionan. Monitoriza el retrabajo y los defectos en paralelo para que unos cambios más económicos no oculten una calidad inferior.&lt;/p&gt;
+
+&lt;p&gt;Si ese coste disminuye a medida que aumenta el uso de la IA, sin comprometer la calidad, los desarrolladores están convirtiendo más consumo en software útil. La cuestión no es cuántos tokens utilizan, sino cuánto trabajo terminado produce la inversión.&lt;/p&gt;
+
+&lt;p&gt;Mejorar esa ecuación requiere dos cambios: reservar la inferencia costosa para las tareas que la necesitan y reducir el coste del trabajo rutinario.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Adapta el modelo a la tarea&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;La programación agéntica no requiere el modelo más potente en cada paso. Utiliza un modelo de frontera, o un modelo insignia en local cuando las políticas internas lo exijan, para la planificación compleja y el razonamiento novedoso. Deriva el trabajo adecuado, como la generación de código, la creación de pruebas y la refactorización recurrente, a modelos de pesos abiertos que gestiones tú mismo.&lt;/p&gt;
+
+&lt;p&gt;Una pasarela puede enrutar las peticiones según la complejidad de la tarea, la sensibilidad de los datos, el coste y la latencia. Esto reserva la inferencia prémium para los momentos que realmente lo justifican, en lugar de aplicar precios prémium a todo el flujo de trabajo. Mide la excepción, no la carga de trabajo.&lt;/p&gt;
+
+&lt;p&gt;Los modelos de pesos abiertos hacen que esta división sea cada vez más práctica. Los benchmarks de ingeniería de software muestran que los principales modelos de pesos abiertos pueden acercarse al rendimiento de frontera en algunas tareas. Esto no demuestra una equivalencia en todos los repositorios o flujos de trabajo. Evalúa a los candidatos con tu propio código, pruebas y criterios de aceptación antes de asignarles trabajo en producción.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Cambia la economía del uso recurrente&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;A continuación, decide quién posee la capacidad. Con la inferencia alquilada, cada llamada se suma a la factura. Con la capacidad en propiedad, la mayor parte del coste se compromete por adelantado, por lo que cada llamada adicional resulta más barata a medida que aumenta el uso.&lt;/p&gt;
+
+&lt;p&gt;La lógica económica es sencilla: la tarificación por token encarece el uso intensivo, mientras que la capacidad propia resulta más eficiente a medida que los equipos la utilizan más. Sin embargo, contar con infraestructura propia no sale gratis. Hay que tener en cuenta el consumo energético, las operaciones, el mantenimiento y la amortización. La cifra que realmente importa es el coste total repercutido por pull request integrada.&lt;/p&gt;
+
+&lt;p&gt;Disponer de capacidad propia también aporta un tipo de valor que nunca aparece en una factura: el control sobre el código sensible. Cuando la generación de código y las pruebas se ejecutan on-premises, el código propietario permanece dentro de la empresa. Solo los prompts de planificación aprobados y las excepciones reguladas se envían a modelos externos, a través de una pasarela que la organización controla. Esto abre los repositorios sensibles donde la seguridad suele frenar la adopción y donde aguardan los mayores beneficios.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Pon a prueba el modelo operativo&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;En HPE, una plataforma híbrida de IA enruta las cargas de trabajo rutinarias de más de 150 aplicaciones internas hacia modelos de pesos abiertos que se ejecutan en local, entre ellos en HPE Private Cloud AI. El resultado: una reducción de entre el 30 % y el 50 % en los costes de los tokens.&lt;/p&gt;
+
+&lt;p&gt;Esa es la clave del enfoque híbrido. Con HPE Private Cloud AI, tener tu propia inferencia no significa renunciar a los modelos frontera. Ejecuta el volumen principal en tu propia capacidad y deja que una pasarela derive las tareas más exigentes.&lt;/p&gt;
+
+&lt;p&gt;Los datos también demuestran que lo que dispara el gasto es el uso y no el número de empleados con licencia. El 5 % de los usuarios principales generó la mayor parte del consumo, y los perfiles más intensivos consumieron aproximadamente 450 veces más que los más moderados con la misma licencia. Si los usuarios avanzados pasan de ser una pequeña minoría a representar la mitad de la plantilla, el gasto mensual puede multiplicarse unas 4,4 veces manteniendo el mismo número de empleados. Tu caso particular será distinto, y ese es precisamente el motivo por el que debes medirlo.&lt;/p&gt;
+
+&lt;p&gt;HPE monitoriza dos métricas y recomienda a sus clientes que hagan lo mismo. En primer lugar, mide el coste por desarrollador activo, ya que calcular la media de todas las licencias oculta a los usuarios avanzados que disparan el gasto. En segundo lugar, monitoriza el coste por pull request fusionada, porque conecta el gasto en IA con el software que realmente se entrega.&lt;/p&gt;
+
+&lt;p&gt;Establece la línea base de ambos costes antes de cambiar de infraestructura. A continuación, ejecuta un ciclo de desarrollo completo con capacidad propia. Si ambas métricas no mejoran a medida que aumenta el uso, puede que tu modelo actual siga siendo la mejor opción.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Construye para la adopción, no para el racionamiento&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Disponer de capacidad propia no es para todo el mundo. Un uso escaso o imprevisible favorece las API, sin capital inmovilizado en infraestructuras inactivas. Tenerla en propiedad compensa cuando una demanda sostenida la mantiene ocupada. La mayoría de las empresas optarán por un modelo híbrido: API de frontera para tareas exigentes o intermitentes, y capacidad propia para volúmenes repetitivos. Una pasarela con gobernanza decide qué sale al exterior, lo que te permite aprovechar modelos de frontera sin renunciar a la soberanía sobre tu código.&lt;/p&gt;
+
+&lt;p&gt;A medida que los desarrolladores recurran cada vez más a los agentes de programación, su uso seguirá en aumento. La verdadera disyuntiva es si ese crecimiento se traducirá en una factura más abultada de costes variables o en más software lanzado con capacidad propia. Las empresas que lideren el desarrollo asistido por IA no racionarán su adopción para controlar los costes. Construirán un modelo operativo en el que un mayor uso de la IA mejore la rentabilidad en lugar de perjudicarla.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;Para obtener más información sobre HPE Private Cloud AI, visita &lt;a href="https://www.hpe.com/us/en/products/private-cloud/pcai.html?plid=PSF26-00003328&amp;amp;ef_id=5c0f993b7a99180be139f3edca721c4c%3AG%3As&amp;amp;s_kwcid=AL%2113472%2110%2181157839054491%21%21%21%2181158075081756%21%21605741192%211298524459994371" target="_blank" rel="noopener"&gt;HPE&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Este contenido ha sido elaborado por HPE. No ha sido redactado por el equipo editorial de MIT Technology Review.&lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>The Download: llega la web agéntica y el impulso por unas carreteras más seguras</title>
+  <link href="https://www.technologyreview.es/article/the-download-llega-la-web-agentica-y-el-impulso-por-unas-carreteras-mas-seguras"/>
+  <id>https://www.technologyreview.es/article/the-download-llega-la-web-agentica-y-el-impulso-por-unas-carreteras-mas-seguras</id>
+  <published>2026-11-02T08:10:00+00:00</published>
+  <updated>2026-11-02T08:10:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg"/>
+  <media:content url="https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg"/>
+  <webfeeds:featuredImage>https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg</webfeeds:featuredImage>
+  <summary>Además: una oleada de ventas de un billón de dólares en el sector tecnológico ha intensificado los temores a una burbuja de la IA.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: llega la web agéntica y el impulso por unas carreteras más seguras" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: una oleada de ventas de un billón de dólares en el sector tecnológico ha intensificado los temores a una burbuja de la IA.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que te ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;La web agéntica ya está aquí&lt;/h3&gt;
+
+&lt;p&gt;En 2001, una década después de inventar la World Wide Web, Tim Berners-Lee articuló una nueva visión: un internet navegado por agentes de software autónomos que atendieran cada una de nuestras necesidades, sin necesidad de que tuviéramos que trastear nosotros mismos con navegadores y motores de búsqueda.&lt;/p&gt;
+
+&lt;p&gt;En aquel momento, la idea parecía descabellada. Pero, un cuarto de siglo después, los agentes de IA están empezando a hacerla realidad. Pueden clasificar tu bandeja de entrada, hacer la compra e incluso acceder a tus cuentas bancarias.&lt;/p&gt;
+
+&lt;p&gt;A esta nueva era se la conoce como la «web agéntica». Inevitablemente transformará internet —y si la web humana sobrevivirá a esta transición es toda una incógnita—.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"&gt;Descubre cómo los agentes de IA están transformando internet y qué nos arriesgamos a perder en el proceso&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Grace Huckins&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;¿Hemos llegado ya? Erradicar las muertes por accidente de tráfico&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Cada año, los accidentes de tráfico matan a más de un millón de personas en todo el mundo. También son la principal causa de muerte entre niños y adultos jóvenes. Existen métodos económicos y de eficacia probada para hacer que las vías sean más seguras, como estrechar las intersecciones con jardineras y reducir los límites de velocidad. Pero los bloqueos gubernamentales y las trabas burocráticas pueden dificultar la implantación de estos cambios.&lt;/p&gt;
+
+&lt;p&gt;Aun así, algunas ciudades están logrando avances impresionantes al invertir en transporte público, ensanchar aceras y utilizar cámaras para detectar zonas de peligro que necesitan un rediseño.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/"&gt;Así de cerca estamos de erradicar las muertes por accidentes de tráfico&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Sara Kiley Watson&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/"&gt;&lt;em&gt;Este artículo&lt;/em&gt;&lt;/a&gt; &lt;em&gt;es la última entrega de&lt;/em&gt; &lt;a href="https://www.technologyreview.com/supertopic/are-we-there-yet-impossible-issue/"&gt;&lt;em&gt;«¿Hemos llegado ya?»&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, nuestra serie que repasa seis tecnologías que llevan tiempo prometiendo cambiar el mundo —y evalúa su avance en un medidor de progreso—.&lt;/em&gt; &lt;a href="https://www.technologyreview.com/subscribe"&gt;&lt;em&gt;Suscríbete para leer las otras cinco entregas&lt;/em&gt;&lt;/a&gt; &lt;em&gt;en nuestro&lt;/em&gt; &lt;a href="https://www.technologyreview.com/magazines/the-impossible-issue/"&gt;&lt;em&gt;nuevo número «Lo imposible»&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Los imprescindibles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/aterradoras/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 Una venta masiva de un billón de dólares en tecnológicas aviva el temor a una burbuja de IA&lt;/strong&gt;&lt;br&gt;El alto coste de la IA y unos resultados decepcionantes han asustado a los inversores. (&lt;a href="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"&gt;BBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ El Nasdaq 100 vivió el viernes su peor jornada desde junio.&lt;/em&gt; (&lt;a href="https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512"&gt;NBC News&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ OpenAI reduce su objetivo de financiación en 10.000 millones de dólares.&lt;/em&gt; (&lt;a href="https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ ¿Qué es en realidad la burbuja de la IA?&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2025/12/15/1129183/what-even-is-the-ai-bubble/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 Varios «hackers» atacan las aplicaciones de alerta de emergencia de Ucrania y Rusia&lt;br&gt;&lt;/strong&gt;Se alertó a los residentes de Kiev de un «peligro nuclear». (&lt;a href="https://www.nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964"&gt;NBC News&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ La aplicación rusa notificó el lanzamiento de ojivas nucleares.&lt;/em&gt; (&lt;a href="https://edition.cnn.com/2026/11/02/europe/hacked-russian-ukrainian-emergency-apps-intl"&gt;CNN&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Ucrania ha culpado a Rusia, que por ahora no ha acusado a nadie.&lt;/em&gt; (&lt;a href="https://www.businessinsider.com/nuclear-attack-scare-ukraine-russia-false-alert-hack-2026-11"&gt;BI&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ La IA transformará la ciberguerra.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2025/11/17/1127514/the-state-of-ai-the-new-rules-of-war/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3 Los usuarios de Binance retiraron 3600 millones de dólares tras el mayor hackeo de criptomonedas de la historia&lt;br&gt;&lt;/strong&gt;Los fondos se movieron cuando el exchange reabrió el domingo. (&lt;a href="https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions"&gt;Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Binance afirma que ha cubierto 6000 millones de los 6300 millones de dólares robados.&lt;/em&gt; (&lt;a href="https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Pero la respuesta del sector ha socavado su imagen «descentralizada».&lt;/em&gt; (&lt;a href="https://gizmodo.com/masks-off-crypto-industry-responds-to-binance-hack-by-acting-like-banks-2000833496"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4 Un agente de IA inyecta fármacos en el cerebro de un ratón vivo&lt;br&gt;&lt;/strong&gt;Eligió la terapia génica y controló la aguja por sí mismo. (&lt;a href="https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"&gt;Wired&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Necesitamos un seguimiento en tiempo real de los agentes de IA.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 Los centros de datos convierten a las eléctricas en un foco de conflicto de las elecciones de medio mandato&lt;br&gt;&lt;/strong&gt;La ciudadanía estadounidense está indignada por la subida de las facturas de la luz. (&lt;a href="https://www.reuters.com/business/energy/power-bills-data-centers-cast-rare-spotlight-utilities-us-midterms-2026-10-31/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Las centrales eléctricas virtuales podrían ayudar.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 Apple supera a Nvidia como la empresa más valiosa del mundo&lt;/strong&gt;&lt;br&gt;Los inversores premian su contención en el gasto en IA. (&lt;a href="https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Pero las voces críticas afirman que está entrando en su «era del slop».&lt;/em&gt; (&lt;a href="https://www.404media.co/apple-is-entering-its-slop-era/"&gt;404 Media&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7 Los frigoríficos de varios supermercados se sobrecalientan en una nueva oleada de ciberataques&lt;br&gt;&lt;/strong&gt;Tiendas de Bélgica, Suecia y Luxemburgo se han visto afectadas. (&lt;a href="https://www.politico.eu/article/new-supermarket-hack-in-belgium-sweden-luxembourg/"&gt;Politico&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 Llegan las primeras tabletas de chocolate elaboradas con cacao cultivado en laboratorio&lt;/strong&gt;&lt;br&gt;Varias «startups» están cultivando chocolate para hacer frente a la escasez de cacao. (&lt;a href="https://www.wsj.com/arts-culture/food-cooking/chocolate-startups-cocoa-supply-2fde1d4f?mod=rss_Technology"&gt;WSJ&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9 Unos hackers secuestran vallas publicitarias digitales en varios países para mostrar pornografía&lt;br&gt;&lt;/strong&gt;También criticaron los fallos de seguridad y al Gobierno de Egipto. (&lt;a href="https://gizmodo.com/billboards-in-multiple-countries-hacked-to-show-porn-2000833555"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 Un nuevo mapa 3D revela inestabilidad en el espacio interestelar&lt;br&gt;&lt;/strong&gt;El descubrimiento podría ayudar a explicar por qué las estrellas se forman de manera tan ineficiente. (&lt;a href="https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/"&gt;Quanta&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Frase del día&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«Sería genial que todo esto fuera solo un castillo de naipes».&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;—Kevin Roose, columnista de tecnología de The New York Times, &lt;a href="https://www.npr.org/2026/10/30/nx-s1-6020907/answering-npr-listeners-questions-about-the-good-and-bad-of-ai"&gt;afirma en NPR&lt;/a&gt; que un desplome de la inversión en IA sería preferible a que la tecnología trastoque permanentemente el trabajo y la sociedad.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffce32f67f0cdbebeb879f912932718c90fb07cf5.jpg?alt=media&amp;token=522cf03a-907a-429a-aeae-820362b41c72" alt=""/&gt;&lt;/figure&gt;
+
+&lt;h4 class="wp-block-heading"&gt;La computación cuántica útil es inevitable —y cada vez más inminente—&lt;/h4&gt;
+
+&lt;p&gt;El año pasado, el CEO de Nvidia, Jensen Huang, sacudió el mercado bursátil al afirmar que a la computación cuántica práctica todavía le quedan entre 15 y 30 años. También sugirió que esos ordenadores necesitarían GPU de Nvidia para funcionar. Pero las predicciones de Huang no dan en el blanco —tanto en los plazos como en el papel que desempeñará la tecnología de su empresa—.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;La computación cuántica converge rápidamente hacia su utilidad práctica. Y es una buena noticia, porque la esperanza es que sea capaz de realizar cálculos que ningún nivel de IA o computación clásica podría alcanzar jamás. &lt;a href="https://www.technologyreview.com/2025/01/27/1110540/useful-quantum-computing-is-inevitable-and-increasingly-imminent/"&gt;Lee el artículo completo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Peter Barrett&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Un rincón de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;+ Un miniaturista ha construido un encantador diorama del &lt;a href="https://www.youtube.com/watch?v=zlEtNtozHVQ"&gt;salón más espeluznante del mundo&lt;/a&gt;.&lt;br&gt;+ Ya se han anunciado las &lt;a href="https://www.theguardian.com/artanddesign/gallery/2026/oct/03/barking-beautiful-the-2026-dog-photography-awards-in-pictures"&gt;mejores fotos de perros&lt;/a&gt; del año, y son todos unos chicos y chicas muy buenos.&lt;br&gt;+ En el &lt;a href="https://x.com/theiaincameron/status/2109645572785459405?ref_url=https%3A%2F%2Fwww.neatorama.com%2F2026%2F10%2F25%2FThis-Golf-Course-Hole-Lets-You-Tee-Off-in-Sweden-and-Putt-in-Finland%2F"&gt;club de golf Green Zone&lt;/a&gt;, das el golpe de salida en Suecia y embocas en Finlandia, una hora en el futuro.&lt;br&gt;+ Unos astrónomos afirman haber hallado la &lt;a href="https://edition.cnn.com/2026/10/24/science/van-goghs-starry-night-astronomy-intl-scli"&gt;configuración celeste real&lt;/a&gt; que inspiró &lt;em&gt;La noche estrellada&lt;/em&gt; de Van Gogh.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>The Download: llega la web agéntica y el impulso hacia unas carreteras más seguras</title>
+  <link href="https://www.technologyreview.es/article/the-download-llega-la-web-agentica-y-el-impulso-hacia-unas-carreteras-mas-seguras"/>
+  <id>https://www.technologyreview.es/article/the-download-llega-la-web-agentica-y-el-impulso-hacia-unas-carreteras-mas-seguras</id>
+  <published>2026-11-02T08:10:00+00:00</published>
+  <updated>2026-11-02T08:10:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg"/>
+  <media:content url="https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg"/>
+  <webfeeds:featuredImage>https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg</webfeeds:featuredImage>
+  <summary>Además: una ola de ventas en el sector tecnológico de un billón de dólares ha intensificado el temor a una burbuja de la IA.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/zlEtNtozHVQ/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: llega la web agéntica y el impulso hacia unas carreteras más seguras" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: una ola de ventas en el sector tecnológico de un billón de dólares ha intensificado el temor a una burbuja de la IA.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que te ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;La web agéntica ya está aquí&lt;/h3&gt;
+
+&lt;p&gt;En 2001, una década después de inventar la World Wide Web, Tim Berners-Lee planteó una nueva visión: una internet navegada por agentes de software autónomos que atendieran todas nuestras necesidades, sin necesidad de que tuviéramos que lidiar nosotros mismos con navegadores y motores de búsqueda.&lt;/p&gt;
+
+&lt;p&gt;Por aquel entonces, la idea parecía descabellada. Sin embargo, un cuarto de siglo después, los agentes de IA están empezando a hacerla realidad. Pueden clasificar tu bandeja de entrada, hacer la compra e incluso acceder a tus cuentas bancarias.&lt;/p&gt;
+
+&lt;p&gt;A esta nueva era se la denomina la web agéntica. Transformará inevitablemente internet —y si la web humana sobrevivirá a esta transición es toda una incógnita.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"&gt;Descubre cómo los agentes de IA están transformando internet y qué nos arriesgamos a perder en el proceso&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Grace Huckins&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;¿Hemos llegado ya? Eliminar las muertes por tráfico&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Cada año, los accidentes de tráfico se cobran la vida de más de un millón de personas en todo el mundo. También son la principal causa de muerte entre niños y jóvenes. Existen métodos económicos y de eficacia demostrada para hacer que las vías sean más seguras, como estrechar las intersecciones con jardineras y reducir los límites de velocidad. Sin embargo, los bloqueos institucionales y las trabas burocráticas pueden dificultar la implantación de estos cambios.&lt;/p&gt;
+
+&lt;p&gt;Aun así, algunas ciudades están logrando avances impresionantes al invertir en transporte público, ensanchar las aceras y utilizar cámaras para detectar zonas peligrosas que necesitan un rediseño.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/"&gt;Así de cerca estamos de erradicar las muertes por accidentes de tráfico&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Sara Kiley Watson&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/"&gt;&lt;em&gt;Este artículo&lt;/em&gt;&lt;/a&gt; &lt;em&gt;es la última entrega de&lt;/em&gt; &lt;a href="https://www.technologyreview.com/supertopic/are-we-there-yet-impossible-issue/"&gt;&lt;em&gt;«¿Hemos llegado ya?»&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, nuestra serie que pasa revista a seis tecnologías que llevan mucho tiempo prometiendo cambiar el mundo y las evalúa en un medidor de progreso.&lt;/em&gt; &lt;a href="https://www.technologyreview.com/subscribe"&gt;&lt;em&gt;Suscríbete para leer las otras cinco entregas&lt;/em&gt;&lt;/a&gt; &lt;em&gt;en nuestro&lt;/em&gt; &lt;a href="https://www.technologyreview.com/magazines/the-impossible-issue/"&gt;&lt;em&gt;nuevo número «Lo imposible»&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Los imprescindibles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/aterradoras/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 Una venta masiva de un billón de dólares en el sector tecnológico intensifica el temor a una burbuja de la IA&lt;/strong&gt;&lt;br&gt;El elevado gasto en IA y unos beneficios decepcionantes han alarmado a los inversores. (&lt;a href="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"&gt;BBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ El Nasdaq 100 vivió el viernes su peor jornada desde junio.&lt;/em&gt; (&lt;a href="https://www.nbcnews.com/business/markets/tech-stocks-nasdaq-ai-boom-fears-deepen-rcna606512"&gt;NBC News&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ OpenAI ha recortado su objetivo de financiación en 10.000 millones de dólares.&lt;/em&gt; (&lt;a href="https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ ¿Qué es realmente la burbuja de la IA?&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2025/12/15/1129183/what-even-is-the-ai-bubble/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 Unos 'hackers' atacan las aplicaciones de alertas de emergencia de Ucrania y Rusia&lt;br&gt;&lt;/strong&gt;Los residentes de Kiev fueron alertados de un «peligro nuclear». (&lt;a href="https://www.nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964"&gt;NBC News&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ La aplicación rusa alertó de que se habían lanzado ojivas nucleares.&lt;/em&gt; (&lt;a href="https://edition.cnn.com/2026/11/02/europe/hacked-russian-ukrainian-emergency-apps-intl"&gt;CNN&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Ucrania ha culpado a Rusia, que por ahora no ha acusado a nadie.&lt;/em&gt; (&lt;a href="https://www.businessinsider.com/nuclear-attack-scare-ukraine-russia-false-alert-hack-2026-11"&gt;BI&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ La IA transformará la ciberguerra.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2025/11/17/1127514/the-state-of-ai-the-new-rules-of-war/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3 Los usuarios de Binance retiraron 3600 millones de dólares tras el mayor hackeo de criptomonedas de la historia&lt;br&gt;&lt;/strong&gt;Los fondos se movieron cuando el exchange reabrió el domingo. (&lt;a href="https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions"&gt;Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Binance asegura que ha cubierto 6000 millones de los 6300 millones de dólares robados.&lt;/em&gt; (&lt;a href="https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Pero la respuesta del sector ha socavado su imagen «descentralizada».&lt;/em&gt; (&lt;a href="https://gizmodo.com/masks-off-crypto-industry-responds-to-binance-hack-by-acting-like-banks-2000833496"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4 Un agente de IA inyectó fármacos en el cerebro de un ratón vivo&lt;br&gt;&lt;/strong&gt;Eligió la terapia génica y controló la aguja por sí mismo. (&lt;a href="https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"&gt;Wired&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Necesitamos un seguimiento en tiempo real de los agentes de IA.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 Los centros de datos han convertido a las eléctricas en un foco de tensión en las elecciones de mitad de mandato&lt;br&gt;&lt;/strong&gt;Los estadounidenses están indignados por la subida de las facturas de la luz. (&lt;a href="https://www.reuters.com/business/energy/power-bills-data-centers-cast-rare-spotlight-utilities-us-midterms-2026-10-31/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Las centrales eléctricas virtuales podrían ayudar.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 Apple supera a Nvidia como la empresa más valiosa del mundo&lt;/strong&gt;&lt;br&gt;Los inversores premian su contención en el gasto en IA. (&lt;a href="https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Pero las críticas señalan que está entrando en su «era del slop».&lt;/em&gt; (&lt;a href="https://www.404media.co/apple-is-entering-its-slop-era/"&gt;404 Media&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7 Los frigoríficos de varios supermercados se sobrecalientan en una nueva oleada de ciberataques&lt;br&gt;&lt;/strong&gt;Tiendas de Bélgica, Suecia y Luxemburgo se han visto afectadas. (&lt;a href="https://www.politico.eu/article/new-supermarket-hack-in-belgium-sweden-luxembourg/"&gt;Politico&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 Ya están aquí las primeras tabletas de chocolate elaboradas con cacao cultivado en laboratorio&lt;/strong&gt;&lt;br&gt;Varias startups cultivan chocolate para hacer frente a la escasez de cacao. (&lt;a href="https://www.wsj.com/arts-culture/food-cooking/chocolate-startups-cocoa-supply-2fde1d4f?mod=rss_Technology"&gt;WSJ&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9 Unos «hackers» secuestraron vallas publicitarias digitales en varios países para mostrar pornografía&lt;br&gt;&lt;/strong&gt;También criticaron fallos de seguridad y al Gobierno de Egipto.(&lt;a href="https://gizmodo.com/billboards-in-multiple-countries-hacked-to-show-porn-2000833555"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 Un nuevo mapa en 3D revela inestabilidad en el espacio interestelar&lt;br&gt;&lt;/strong&gt;El hallazgo podría ayudar a explicar por qué las estrellas se forman de manera tan ineficiente. (&lt;a href="https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/"&gt;Quanta&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Frase del día&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«Sería genial que todo esto fuera solo un castillo de naipes».&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;—Kevin Roose, columnista de tecnología en The New York Times, &lt;a href="https://www.npr.org/2026/10/30/nx-s1-6020907/answering-npr-listeners-questions-about-the-good-and-bad-of-ai"&gt;afirma en NPR&lt;/a&gt; que un desplome de la inversión en IA sería preferible a que esta tecnología trastoque de forma permanente el trabajo y la sociedad.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffce32f67f0cdbebeb879f912932718c90fb07cf5.jpg?alt=media&amp;token=522cf03a-907a-429a-aeae-820362b41c72" alt=""/&gt;&lt;/figure&gt;
+
+&lt;h4 class="wp-block-heading"&gt;La computación cuántica útil es inevitable —y cada vez más inminente—&lt;/h4&gt;
+
+&lt;p&gt;El año pasado, el CEO de Nvidia, Jensen Huang, sacudió los mercados al afirmar que a la computación cuántica práctica todavía le quedan entre 15 y 30 años. También sugirió que esos ordenadores necesitarían GPU de Nvidia para funcionar. Pero las predicciones de Huang no dan en el blanco —tanto en los plazos como en el papel que desempeñará la tecnología de su empresa—.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;La computación cuántica converge rápidamente hacia la utilidad. Y es una buena noticia, ya que la esperanza es que sea capaz de realizar cálculos que ninguna IA ni computación clásica podrían alcanzar jamás. &lt;a href="https://www.technologyreview.com/2025/01/27/1110540/useful-quantum-computing-is-inevitable-and-increasingly-imminent/"&gt;Lee el artículo completo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Peter Barrett&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Un espacio de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;+ Un miniaturista ha creado un diorama encantador del &lt;a href="https://www.youtube.com/watch?v=zlEtNtozHVQ"&gt;salón más espeluznante del mundo&lt;/a&gt;.&lt;br&gt;+ Se han anunciado las &lt;a href="https://www.theguardian.com/artanddesign/gallery/2026/oct/03/barking-beautiful-the-2026-dog-photography-awards-in-pictures"&gt;mejores fotos de perros&lt;/a&gt; del año, y son todos unos «buenos chicos» y «buenas chicas».&lt;br&gt;+ En el &lt;a href="https://x.com/theiaincameron/status/2109645572785459405?ref_url=https%3A%2F%2Fwww.neatorama.com%2F2026%2F10%2F25%2FThis-Golf-Course-Hole-Lets-You-Tee-Off-in-Sweden-and-Putt-in-Finland%2F"&gt;club de golf Green Zone&lt;/a&gt;, das el golpe de salida en Suecia y embocas en Finlandia, una hora en el futuro.&lt;br&gt;+ Varios astrónomos afirman haber encontrado la &lt;a href="https://edition.cnn.com/2026/10/24/science/van-goghs-starry-night-astronomy-intl-scli"&gt;disposición celeste real&lt;/a&gt; que inspiró &lt;em&gt;La noche estrellada&lt;/em&gt; de Van Gogh.&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>La web agéntica ya está aquí</title>
   <link href="https://www.technologyreview.es/article/la-web-agentica-ya-esta-aqui"/>
@@ -405,284 +746,5 @@
 &lt;p&gt;&lt;em&gt;Madhulika Srikumar es la directora del Programa de Seguridad de la IA en Partnership on AI, una alianza global sin ánimo de lucro formada por organizaciones líderes del sector industrial, el ámbito académico y la sociedad civil que impulsa las mejores prácticas en la gobernanza de la IA.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Claire Leibowicz es la directora de IA, Confianza y Sociedad en Partnership on AI y doctoranda en la Universidad de Oxford. &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Nuestros modelos climáticos tienen un gran y peligroso punto ciego</title>
-  <link href="https://www.technologyreview.es/article/nuestros-modelos-climaticos-tienen-un-gran-y-peligroso-punto-ciego"/>
-  <id>https://www.technologyreview.es/article/nuestros-modelos-climaticos-tienen-un-gran-y-peligroso-punto-ciego</id>
-  <published>2026-10-29T06:00:00+00:00</published>
-  <updated>2026-10-29T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697</webfeeds:featuredImage>
-  <summary>Un potente bucle de retroalimentación podría provocar un calentamiento mayor del previsto.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F9b9615a34d762ebcaef45a49d406d5c6f30ac975.jpg?alt=media&amp;token=18588371-4b8d-405e-ac6e-25e0d04c4697" alt="Nuestros modelos climáticos tienen un gran y peligroso punto ciego" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por James Temple&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Un potente bucle de retroalimentación podría provocar un calentamiento mayor del previsto.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;El propio cambio climático está alimentando cada vez más el cambio climático. El aumento de las concentraciones de gases de efecto invernadero está elevando las temperaturas globales y desencadenando peligrosos bucles de retroalimentación que no hemos tenido plenamente en cuenta en nuestros modelos climáticos —ni en nuestros objetivos de reducción de emisiones—.&lt;/p&gt;
-
-&lt;p&gt;Los científicos llevan mucho tiempo advirtiendo de que el calentamiento provocaría un calentamiento aún mayor de diversas formas, pero un número cada vez mayor de observaciones y estudios ofrece por fin una idea más precisa de lo potentes que podrían llegar a ser estos efectos en cascada. Y, por extensión, muestran cuánto más rápido podría calentarse el planeta en este siglo.&lt;/p&gt;
-
-
-
-&lt;p&gt;Un estudio publicado en septiembre en &lt;em&gt;Environmental Research Letters&lt;/em&gt;, que sintetiza los resultados de investigaciones previas, reveló que solo el dióxido de carbono y el metano adicionales liberados por el deshielo del permafrost, la intensificación de los incendios forestales, &lt;a href="https://www.nature.com/articles/s44221-025-00532-6" target="_blank" rel="noopener"&gt;unos lagos y embalses más cálidos&lt;/a&gt; y unos humedales más húmedos y templados podrían elevar las temperaturas medias globales entre 0,2 °C y 0,4 °C este siglo. Esto se sumaría a los &lt;a href="https://climateactiontracker.org/global/emissions-pathways/" target="_blank" rel="noopener"&gt;2,6 °C de calentamiento&lt;/a&gt; por encima de los niveles preindustriales que los modelizadores ya prevén hasta 2100. El calor adicional podría someter a muchas ciudades del mundo a &lt;a href="https://www.wri.org/insights/climate-change-effects-cities-15-vs-3-degrees-C" target="_blank" rel="noopener"&gt;olas de calor de meses de duración&lt;/a&gt; y exponer a &lt;a href="https://www.theguardian.com/cities/ng-interactive/2017/nov/03/three-degree-world-cities-drowned-global-warming?st_source=ai_overview" target="_blank" rel="noopener"&gt;cientos de millones&lt;/a&gt; de personas a inundaciones.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Ninguno de los modelos en los que se basan los principales informes climáticos de la ONU, que evalúan cuánto es probable que se caliente el planeta en diversos escenarios de emisiones, tiene en cuenta todos estos efectos de retroalimentación. Muchos de ellos ni siquiera incorporan ninguno. Esto deja un enorme punto ciego en nuestra comprensión de cuánto podría calentarse realmente el planeta en las próximas décadas —y con qué rapidez tendrán que reducir drásticamente sus emisiones las naciones para mantenerse dentro de los límites críticos—.&lt;/p&gt;
-
-&lt;p&gt;Otro &lt;a href="https://www.cell.com/one-earth/fulltext/S2590-3322(25)00397-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2590332225003975%3Fshowall%3Dtrue" target="_blank" rel="noopener"&gt;análisis publicado en &lt;em&gt;One Earth&lt;/em&gt; en marzo&lt;/a&gt;, que examinó qué implica el problema de la retroalimentación para nuestros objetivos climáticos internacionales, concluyó que el mundo podría estar mucho más desviado del rumbo de lo que generalmente se cree. El estudio constató que solo tres fuentes regionales de emisiones derivadas del calentamiento —el deshielo del permafrost, el aumento de los incendios en los bosques boreales y el calentamiento de los humedales tropicales— podrían acortar hasta en un 25 % el tiempo que queda antes de que el planeta supere de manera constante los umbrales de calentamiento de 1,5 °C y 2 °C.&lt;/p&gt;
-
-&lt;p&gt;Nuestros modelos climáticos y los informes de la ONU claramente necesitan actualizarse para reflejar mejor estos efectos. Los países también deben redoblar sus esfuerzos para reducir las emisiones con el fin de responder a esta comprensión cada vez más precisa de los peligros a los que nos enfrentamos, afirma Sam Abernethy, autor principal del artículo y climatólogo en Spark Climate Solutions, un grupo de investigación sin ánimo de lucro con sede en San Francisco.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Al menos una parte de esto ya está empezando a suceder. Spark ha puesto en marcha una iniciativa, llamada &lt;a href="https://www.sparkclimate.org/warming-induced-emissions/wie-mip" target="_blank" rel="noopener"&gt;Warming-Induced Greenhouse Gas Emissions Model Intercomparison Project&lt;/a&gt;, a través de la cual más de 20 equipos internacionales están ejecutando la misma serie de análisis en distintos modelos para comprender mejor el impacto potencial de los efectos de retroalimentación. Los investigadores que participan en el proyecto esperan que la ONU incorpore estos resultados en su próxima gran evaluación climática, prevista para 2029. Dicho informe actualizará las estimaciones de las emisiones remanentes que aún pueden liberarse antes de que el planeta sobrepase umbrales de temperatura críticos.&lt;/p&gt;
-
-&lt;p&gt;Pero lo que ya está claro es que el planeta se está calentando rápidamente y que los países no han hecho ni de lejos lo suficiente para reducir la contaminación por combustibles fósiles. E incluso si lográramos detenerla, las emisiones provocadas por el calentamiento podrían continuar.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Por ello, varios de los grupos de investigación participantes en los estudios recientes han comenzado a explorar qué podrían hacer los países para controlar las emisiones derivadas de la retroalimentación. Científicos del Woodwell Climate Research Center de Massachusetts están, por ejemplo, investigando la posibilidad de prevenir incendios o detectarlos con rapidez y extinguirlos cuando amenacen con quemar la vegetación y el suelo que ayudan a aislar cuñas de permafrost especialmente ricas en carbono (un tema que abordé en profundidad en &lt;a href="https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/" target="_blank" rel="noopener"&gt;un reportaje reciente&lt;/a&gt;). Además, la Iniciativa de Innovación Climática del Environmental Defense Fund ha &lt;a href="https://www.science.org/content/article/we-re-uncharted-waters-hacking-swamps-could-curb-methane-emissions-side-effects-are" target="_blank" rel="noopener"&gt;respaldado investigaciones de laboratorio&lt;/a&gt; sobre el potencial de añadir sulfato, hierro u otros compuestos a los humedales para contrarrestar el rápido aumento de las emisiones de metano.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Varias startups también están explorando distintas posibilidades. Están investigando cómo &lt;a href="https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/" target="_blank" rel="noopener"&gt;suprimir los rayos&lt;/a&gt; que provocan cada vez más incendios en latitudes altas, colocar mantas sintéticas sobre el permafrost para evitar que se derrita y desplegar drones autónomos para sofocar rápidamente fuegos potencialmente de altas emisiones antes de que queden fuera de control.&lt;/p&gt;
-
-&lt;p&gt;Vale la pena investigar todas estas ideas. Sin embargo, los investigadores se encuentran aún en una fase muy incipiente a la hora de determinar qué reducción de emisiones podrían lograr tales iniciativas en vastos ecosistemas globales sometidos a enormes transformaciones.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;El camino más seguro para reducir el efecto del calentamiento provocado por el calentamiento sigue siendo el que siempre hemos conocido: acabar con la adicción de la sociedad a los combustibles fósiles.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Este artículo es de The Spark, el boletín semanal sobre clima de&lt;/em&gt;&amp;nbsp;MIT Technology Review&lt;em&gt;. Para recibirlo en tu bandeja de entrada cada miércoles,&lt;/em&gt;&amp;nbsp;&lt;em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/climate-energy-the-spark/" target="_blank" rel="noopener"&gt;suscríbete aquí&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Cómo los transformadores de estado sólido podrían ayudar a alimentar el auge de la IA</title>
-  <link href="https://www.technologyreview.es/article/como-los-transformadores-de-estado-solido-podrian-ayudar-a-alimentar-el-auge-de-la-ia"/>
-  <id>https://www.technologyreview.es/article/como-los-transformadores-de-estado-solido-podrian-ayudar-a-alimentar-el-auge-de-la-ia</id>
-  <published>2026-10-27T05:00:00+00:00</published>
-  <updated>2026-10-27T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3</webfeeds:featuredImage>
-  <summary>Una nueva tecnología podría ayudar a reducir las pérdidas de energía y reinventar un pilar de la red eléctrica.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F6d7d453cbc603900a79408d83fe95022e415450e.jpg?alt=media&amp;token=0170834a-786a-470b-8711-1493bff255d3" alt="Cómo los transformadores de estado sólido podrían ayudar a alimentar el auge de la IA" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Casey Crownhart&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Una nueva tecnología podría ayudar a reducir las pérdidas de energía y reinventar un pilar de la red eléctrica.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Los transformadores son una parte crucial pero casi invisible de nuestra red eléctrica. Estos dispositivos ayudan a transportar la energía de forma eficiente a largas distancias, pero son complejos y escasean. Y, dado que su diseño básico apenas ha cambiado en cerca de un siglo, no les vendría mal una modernización.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;A medida que el mundo se apresura a satisfacer la creciente demanda de electricidad impulsada por los vehículos eléctricos, los centros de datos y otros sectores, investigadores y empresas buscan modernizar los transformadores. Las nuevas versiones de estado sólido podrían ayudar a aliviar parte de los problemas de suministro y garantizar que la red eléctrica pueda soportar esta creciente presión.&lt;/p&gt;
-
-&lt;p&gt;Los transformadores convencionales suelen depender de enormes cantidades de aleaciones de acero especializadas y kilómetros de cable de cobre para realizar su función de transferir electricidad entre circuitos. En comparación, los modelos de estado sólido combinan componentes magnéticos con semiconductores de alta potencia, lo que los hace más compactos y permite un mayor control sobre el flujo de electricidad.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Estos dispositivos aún están en fase de desarrollo y hoy en día no pueden sustituir a todos los transformadores tradicionales, sobre todo a los más grandes, que operan a las altas tensiones necesarias para la transmisión a larga distancia. Sin embargo, una nueva generación de tecnología de transformadores podría ser una pieza crucial de nuestra futura red eléctrica.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;La columna vertebral de la red&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;Transportar electricidad a través de la red no es completamente eficiente: a medida que la electricidad fluye por las líneas eléctricas, una parte se pierde en forma de calor. La cantidad varía: cuanto mayor es la tensión, menor es la corriente y menos electricidad se pierde. Por eso, una función clave de la red consiste en elevar y reducir la tensión.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Piensa, por ejemplo, en la planta solar de tu zona. Para que esa electricidad viaje de forma eficiente hasta tu casa a cientos de kilómetros de distancia, necesita alcanzar un voltaje superior al que genera la propia planta. Aquí es donde entran los transformadores.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;En su recorrido desde la central eléctrica hasta tus enchufes, la electricidad puede pasar por un transformador en el parque solar y por otro en una subestación cercana, elevando la tensión dos veces para alcanzar un nivel lo bastante alto como para circular por líneas de transmisión de alta tensión. Los paneles solares también producen electricidad en corriente continua (CC), que debe convertirse en corriente alterna (CA) mediante un inversor antes de llegar a un transformador. Más cerca de su destino, el voltaje se reducirá de nuevo, probablemente al menos dos veces: una en otra subestación y otra en un transformador más pequeño en tu barrio.&lt;/p&gt;
-
-&lt;p&gt;Si estás en Estados Unidos, la electricidad de una planta solar puede convertirse a CA mediante un inversor a unos 480 voltios, elevarse a 115.000 voltios para las líneas de transmisión y, por último, volver a reducirse a 120 y 240 voltios para tu hogar.&lt;/p&gt;
-
-
-
-&lt;p&gt;Los transformadores convencionales realizan este trabajo utilizando lo que esencialmente son espiras de cable. El núcleo de un transformador suele estar hecho de un tipo especial de acero llamado acero eléctrico de grano orientado. A ambos extremos de ese núcleo se sitúan bobinas de cable de cobre.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;El número de espiras de cada bobina determina el voltaje en cada extremo del transformador: si hay más espiras en la bobina secundaria que en la primaria, el voltaje aumenta, y si hay menos, disminuye. Cuando la electricidad entrante atraviesa las espiras del extremo de entrada del transformador, se genera un campo magnético en el núcleo. Dicho campo induce un voltaje en las espiras del otro lado del dispositivo, lo que permite que la energía siga fluyendo con un nuevo voltaje. Este proceso se denomina inducción magnética.&lt;/p&gt;
-
-&lt;p&gt;Los transformadores constituyen la columna vertebral de la transmisión y distribución de electricidad, afirma Srdjan Lukic, profesor de Ingeniería Eléctrica e Informática de la Universidad Estatal de Carolina del Norte. Además de encargarse de elevar y reducir la tensión, los transformadores también suelen proporcionar lo que se conoce como aislamiento galvánico, lo que significa que no hay una vía eléctrica directa que los atraviese. Esto puede ayudar a limitar la propagación de perturbaciones por la red, mejorando la seguridad.&lt;/p&gt;
-
-&lt;p&gt;El problema es que los transformadores actuales son grandes y voluminosos, y además son difíciles y caros de sustituir, señala Lukic.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Una opción sólida&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;En esencia, los transformadores de estado sólido añaden la denominada electrónica de potencia —semiconductores que convierten y controlan la electricidad— al diseño habitual de los transformadores actuales.&lt;/p&gt;
-
-&lt;p&gt;Mientras que un transformador convencional funciona a la frecuencia de la parte de la red a la que está conectado, un transformador de estado sólido en realidad controla la frecuencia de la corriente. Por lo general, un transformador de estado sólido convierte primero la corriente alterna (CA) entrante de la red en corriente continua (CC) y, después, en corriente alterna de mayor frecuencia mediante interruptores fabricados con un semiconductor como el carburo de silicio.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;A partir de ahí, un componente magnético modifica la tensión. Dado que los semiconductores avanzados permiten a los transformadores ejercer tanto control sobre la frecuencia y la estabilidad de la corriente, el núcleo magnético puede ser mucho más pequeño que en un transformador convencional. Algunos tienen aproximadamente una décima parte del tamaño pero cuentan con la misma capacidad, afirma Lukic.&lt;/p&gt;
-
-&lt;p&gt;Por último, componentes adicionales de electrónica de potencia convierten la electricidad de corriente alterna de alta frecuencia a la forma requerida —por lo general, de nuevo a corriente continua y, finalmente, a corriente alterna de menor frecuencia—.&lt;/p&gt;
-
-&lt;p&gt;Hoy en día, elevar y reducir la tensión es la única tarea de muchos transformadores. Sin embargo, los transformadores de estado sólido pueden hacer mucho más. Asumen las funciones de dispositivos como rectificadores e inversores (que convierten la corriente alterna en continua y viceversa), lo que reduce el espacio total que ocupa el equipamiento eléctrico y disminuye potencialmente las pérdidas de energía en el sistema.&lt;/p&gt;
-
-&lt;p&gt;En agosto, la New York Power Authority y el Electric Power Research Institute (EPRI) &lt;a href="https://news.ncsu.edu/2026/08/solid-state-transformer-success/" target="_blank" rel="noopener"&gt;probaron un transformador de estado sólido de un megavatio&lt;/a&gt; en condiciones reales de la red eléctrica en las instalaciones de ensayo del EPRI. El dispositivo se construyó en el laboratorio de Lukic y, según afirma, fue la primera prueba de este tipo para un transformador de esa capacidad. &lt;/p&gt;
-
-&lt;p&gt;El prototipo alcanzó una eficiencia aproximada del 98 % —lo que significa que solo perdía el 2 % de la energía suministrada—. En comparación, un transformador y un rectificador convencionales equivalentes tendrían una eficiencia conjunta de alrededor del 96 %, explica Lukic. Una diferencia del 2 % puede parecer pequeña, pero es significativa, ya que implica que el transformador de estado sólido podría reducir a la mitad las pérdidas de energía de los equipos convencionales, señala Lukic.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Uno de los principales objetivos del proyecto era ayudar a que las compañías eléctricas ganen confianza en estos nuevos componentes, apunta Lukic. Esto resulta crucial, ya que estos dispositivos podrían utilizarse en la red eléctrica en el futuro. A corto plazo, los transformadores de estado sólido podrían emplearse en los centros de datos para suministrar electricidad a los racks de servidores.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;El prototipo sigue siendo un sistema de tensión relativamente baja, que opera a unos 15.000 voltios. Las instalaciones industriales, como los centros de datos más grandes, suelen requerir conexiones de mayor tensión, y las líneas de transporte eléctrico suelen operar a cientos de miles de voltios. Adaptar los transformadores de estado sólido a estas tensiones más elevadas requerirá un mayor desarrollo de ingeniería. Pero la prueba fue una demostración exitosa de que los transformadores de estado sólido pueden funcionar en condiciones reales, afirma Lukic.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Las empresas que desarrollan transformadores de estado sólido están centradas principalmente en los centros de datos en este momento, señala Lukic. Hay una importante inyección de capital para apoyar el desarrollo de la nueva tecnología, y los requisitos de tensión no son tan elevados como los que se necesitarán para los transformadores de mayor tamaño destinados a la transmisión a larga distancia.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;En febrero, Heron Power captó &lt;a href="https://www.canarymedia.com/articles/climatetech-finance/heron-power-raises-140m-electrical-transformers" target="_blank" rel="noopener"&gt;140 millones de dólares&lt;/a&gt; para comercializar su transformador de estado sólido, al que la empresa denomina Heron Link. La tecnología podría utilizarse en centros de datos, parques solares y baterías para la red eléctrica, afirma Drew Baglino, su fundador y director ejecutivo. Ahora, la compañía está empezando a probar su tecnología a mayor escala, añade Baglino. Baterías con una capacidad de diez megavatios-hora en la sede de Heron en Scotts Valley (California) se someterán pronto a pruebas con transformadores de la marca. La empresa también prevé llevar a cabo una prueba piloto con un parque solar cercano, asegura Baglino.&lt;/p&gt;
-
-&lt;p&gt;Uno de los retos de los transformadores de estado sólido es que su electrónica de potencia presenta más modos de fallo que la de los convencionales. En un dispositivo tradicional, un fallo suele significar que todo el equipo quede fuera de servicio, lo que genera cortes de energía. Pero Heron diseña teniendo esto en cuenta, explica Baglino: la compañía recurre a un diseño modular, con muchos pequeños dispositivos que funcionan conjuntamente. Si uno de ellos falla, el resto del sistema sigue operando hasta que se pueda sustituir la parte afectada, sin necesidad de apagar todo el conjunto.&lt;/p&gt;
-
-&lt;p&gt;Heron Power está construyendo actualmente una fábrica de 100 millones de dólares en California para producir transformadores avanzados. La instalación debería comenzar a producir en 2027 y alcanzar su ritmo máximo de producción de 40 gigavatios de transformadores al año en 2029.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;El futuro de la red eléctrica&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;En los últimos años, las empresas que fabrican equipos para la red eléctrica han invertido 1.700 millones de dólares en la cadena de suministro estadounidense de transformadores de potencia, utilizados en la transmisión de alta tensión, señala Benjamin Boucher, analista de cadenas de suministro en Wood Mackenzie. Además, se han invertido otros 1.300 millones de dólares en transformadores de distribución, unos dispositivos más pequeños que ayudan a transformar la energía para hogares y empresas, añade.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Pero ni siquiera esta inversión sigue el ritmo del rápido crecimiento de la red eléctrica. Los tiempos de espera para los grandes transformadores convencionales —los necesarios para conectar nuevas centrales eléctricas, líneas de transmisión a larga distancia e instalaciones de gran demanda como los centros de datos— se están alargando hasta los cinco años.&lt;/p&gt;
-
-&lt;p&gt;«Los transformadores se han convertido en uno de los mayores cuellos de botella para las compañías eléctricas, los promotores de generación e incluso los centros de datos», afirma Boucher. El gran reto es que resulta complicado poner en marcha la fabricación de nuevos transformadores, ya que se trata de un proceso muy técnico que requiere mucha mano de obra especializada. Por eso, incluso las instalaciones anunciadas hace años aún tardarán años en abrir, señala Boucher.&lt;/p&gt;
-
-&lt;p&gt;Los transformadores de estado sólido podrían ayudar a aliviar parte de esa presión. Sin embargo, los dispositivos de alta tensión necesarios para las conexiones a centrales eléctricas y líneas de transporte son el santo grial de los transformadores de estado sólido, afirma Lukic. La tecnología de estado sólido actual aún no puede utilizarse en esas aplicaciones, por lo que la industria tendrá que desarrollar nuevos materiales y diseños que soporten altas tensiones y gestionen la electricidad de forma segura en un dispositivo compacto.&lt;/p&gt;
-
-&lt;p&gt;«Nos enfrentamos a un gran riesgo relacionado con la infraestructura de la red», afirma Boucher. «Sin los transformadores, en realidad no tienes una red eléctrica».&amp;nbsp;&amp;nbsp;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>¿Podría ponerse en pie la verdadera Anthropic?</title>
-  <link href="https://www.technologyreview.es/article/podria-ponerse-en-pie-la-verdadera-anthropic"/>
-  <id>https://www.technologyreview.es/article/podria-ponerse-en-pie-la-verdadera-anthropic</id>
-  <published>2026-10-26T13:45:43+00:00</published>
-  <updated>2026-10-26T13:45:43+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87</webfeeds:featuredImage>
-  <summary>La compañía lleva años dominando el arte del relato. ¿Revelará su salida a bolsa a la empresa que hay detrás de la máscara o profundizará aún más en la…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ff33a128bcf4336402a5afc923d6d01d09e2ea436.jpg?alt=media&amp;token=3ff328da-f373-475b-b7d1-7ea639df3a87" alt="¿Podría ponerse en pie la verdadera Anthropic?" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Will Douglas Heaven&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;La compañía lleva años dominando el arte del relato. ¿Revelará su salida a bolsa a la empresa que hay detrás de la máscara o profundizará aún más en la…&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Este artículo se publicó originalmente en The Algorithm, nuestro boletín semanal sobre IA. Para recibir antes que nadie historias como esta en tu bandeja de entrada, &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/"&gt;&lt;em&gt;suscríbete aquí&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Tras semanas de frenética especulación, Anthropic ha presentado el folleto para su salida a bolsa. El &lt;a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"&gt;documento de 335 páginas&lt;/a&gt; (unas 100 de ellas centradas en los riesgos) expone la singular visión de la compañía sobre la tecnología que está desarrollando y cómo cree que cambiará el mundo. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pero Anthropic lleva años perfeccionando sus dotes narrativas. De hecho, su comunicación pública es una clase magistral de control de la narrativa.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A principios de este mes, Jack Clark, cofundador y director de políticas de la empresa, pronunció un discurso en la reunión del FMI en Bangkok en el que anunció a los economistas, banqueros y legisladores congregados que la singularidad ya está aquí.&lt;/p&gt;
-
-&lt;p&gt;Planteada por el escritor de ciencia ficción y futurista Vernor Vinge hace unos 40 años (y debatida durante mucho tiempo en los rincones más frikis de internet), se supone que la singularidad es el punto en el que la tecnología se vuelve tan avanzada que supera las capacidades de sus creadores.&lt;/p&gt;
-
-&lt;p&gt;Los seres humanos quedan atrás, según esta idea, incapaces ya de competir con —o incluso de comprender— los frutos de su antigua creación.&lt;/p&gt;
-
-&lt;p&gt;¿Y este mundo de ficción que muchos nos hemos imaginado desde que éramos niños? Al parecer, ya estamos viviendo en él: «Creo que este año hemos obtenido pruebas convincentes de que ya ha comenzado», afirmó Clark ante su audiencia.&lt;/p&gt;
-
-&lt;p&gt;La empresa narra una historia vívida (y en muchos aspectos aterradora) sobre un futuro que presenta como inevitable, pero que todavía no se ha producido, a menudo apropiándose de memes muy trillados de la ciencia ficción. Presenta su tecnología como algo misterioso y peligroso, e insiste en que es la única compañía lo bastante fiable como para domarla. (¿Qué inversor no querría participar en algo así?).&lt;/p&gt;
-
-&lt;p&gt;Toma otro ejemplo. El año pasado, Chris Olah, otro de los cofundadores de Anthropic, fue invitado a intervenir en el Vaticano, donde contó al papa León XIV y a otros académicos y autoridades religiosas lo que su empresa estaba descubriendo sobre su tecnología. «Seré sincero: seguimos encontrando cosas misteriosas, incluso inquietantes», afirmó. «Encontramos indicios de introspección. Encontramos estados internos que reflejan funcionalmente alegría, satisfacción, miedo, dolor y desasosiego».&lt;/p&gt;
-
-&lt;p&gt;Poco importa que muchos investigadores se mofen de una sugerencia tan explícita de que el software de Anthropic posee una experiencia interior similar a la humana. Cuando casi nada parece seguro, lo que dicen Anthropic (y sus homólogas en la IA de frontera) se recibe con avidez y la gente se aferra a ello como a los restos de un barco que se hunde.&lt;/p&gt;
-
-&lt;p&gt;No digo que necesariamente se equivoquen en nada de esto. (Eso queda para otro día). Pero en un mundo donde nadie sabe lo que está por venir, empresas como Anthropic acaban llenando ese vacío.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vale la pena detenerse un momento a preguntarse: ¿qué es Anthropic?&lt;/strong&gt; Podría sonar a la primera pregunta de un concurso familiar, pero es mucho más difícil de responder de lo que imaginas.&lt;/p&gt;
-
-&lt;p&gt;Llevo dándole vueltas a esta pregunta desde que leí la semana pasada un &lt;a href="https://x.com/_NathanCalvin/status/2112295219765137570?s=20"&gt;intercambio en X&lt;/a&gt; iniciado por Nathan Calvin, director de estrategia de Encode AI, una organización con sede en Washington D. C. que aboga por la regulación. Calvin no estaba satisfecho con la legislación que Anthropic propuso en un borrador de ley que distribuyó en secreto entre los legisladores estadounidenses (y que &lt;a href="https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654"&gt;después se filtró&lt;/a&gt;).&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Anthropic quiere que la vean como «el bueno», afirmó Calvin. Pero ¿por qué deberíamos confiar en ella? «¿Qué es Anthropic?», preguntó.&lt;/p&gt;
-
-&lt;p&gt;He aquí una respuesta: Anthropic es una empresa cuya salida a bolsa la valora en más de 1,5 billones de dólares, lo que reporta una inmensa fortuna a sus cofundadores, entre ellos Clark y Olah.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Pero Anthropic siempre ha insistido en que es más que eso. Como señaló Calvin: Anthropic podría considerarse más bien una organización de seguridad de la IA centrada en desarrollar una tecnología potente que sea fiable y esté (casi) libre de riesgos. O podría considerarse un grupo de personas empeñadas en crear una tecnología con capacidades sobrehumanas antes que nadie, tal vez porque creen que son las más responsables para hacerlo, o tal vez por puro ego.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;De hecho, Anthropic es todas estas cosas.&lt;/strong&gt; Como afirmó su CEO, Dario Amodei, en una &lt;a href="https://x.com/DarioAmodei/status/2112732230124818891?s=20"&gt;respuesta a la publicación de Calvin&lt;/a&gt;: «Nuestra estrategia siempre ha sido lo que he llamado la “carrera hacia la cima”: al demostrar que es posible desarrollar la tecnología de forma responsable, podemos elevar el listón para todo el sector. Las fuerzas que impulsan la carrera hacia la cima son muchísimo más eficaces si la empresa que las practica está en la vanguardia; esa es una lección que he aprendido una y otra vez. Y, mirando esa estrategia en su conjunto, estoy orgulloso de nuestra trayectoria y la defiendo».&lt;/p&gt;
-
-&lt;p&gt;Amodei hace que parezca que lo tiene todo bajo control, pero asumir múltiples roles es complicado. Por ejemplo, existen enormes tensiones entre las prioridades de una organización de seguridad de la IA y una megacorporación orientada a los beneficios. (Amodei admite en &lt;a href="https://x.com/DarioAmodei/status/2112732230124818891?s=20"&gt;su publicación&lt;/a&gt; que ha cometido errores).&lt;/p&gt;
-
-&lt;p&gt;En última instancia, las historias que Anthropic se cuenta a sí misma deberían ayudarnos a entender las que nos cuenta a nosotros. Deberían ayudarnos a dilucidar hasta qué punto podemos confiar en su capacidad de autorregulación o si deberíamos obligarla a conceder acceso a sus modelos a evaluadores externos de seguridad bajo nuestras condiciones y no las suyas. Deberían ayudarnos a concederle el beneficio de la duda (o no) cuando sale a la luz lo que parece una legislación en beneficio propio.&lt;/p&gt;
-
-&lt;p&gt;Pero creo que estas historias revelan una hidra de múltiples cabezas. Anthropic es muchas cosas para mucha gente, y no tengo claro que eso la haga más fiable. En muchos sentidos, una buena empresa tecnológica tradicional —sin juegos de rol de ciencia ficción, sin tanto misticismo— resultaría mucho más fácil de descifrar.&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>El foco en las catástrofes de la seguridad de la IA ignora los daños cotidianos</title>
-  <link href="https://www.technologyreview.es/article/el-foco-en-las-catastrofes-de-la-seguridad-de-la-ia-ignora-los-danos-cotidianos"/>
-  <id>https://www.technologyreview.es/article/el-foco-en-las-catastrofes-de-la-seguridad-de-la-ia-ignora-los-danos-cotidianos</id>
-  <published>2026-10-26T05:01:00+00:00</published>
-  <updated>2026-10-26T05:01:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e</webfeeds:featuredImage>
-  <summary>Los legisladores están aprobando proyectos de ley respaldados por la industria para blindarse frente a los peores escenarios, en lugar de abordar los problemas…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fe658e64015dbada69f28e1b88ff7b2de08d707e1.jpg?alt=media&amp;token=63a6927b-e4dd-477c-a94c-0c741db53c5e" alt="El foco en las catástrofes de la seguridad de la IA ignora los daños cotidianos" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Sam Hiner&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Los legisladores están aprobando proyectos de ley respaldados por la industria para blindarse frente a los peores escenarios, en lugar de abordar los problemas…&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Piensa en lo que se considera un éxito en la política tecnológica. Una empresa de IA promete que su chatbot no &lt;a href="https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html?eafs_enabled=false"&gt;incitará al suicidio&lt;/a&gt;. Una plataforma de redes sociales dificulta que los menores puedan &lt;a href="https://www.nbcnews.com/news/us-news/60-young-people-died-fentanyl-overdoses-lawsuit-snapchat-rcna81629"&gt;comprar fentanilo&lt;/a&gt;. Son protecciones importantes, y deberían haber existido desde el principio. Pero las empresas pueden superar este listón tan bajo mientras siguen creando productos que vuelven a los jóvenes dependientes de amistades simuladas o los dejan atrapados en feeds diseñados para que no dejen de hacer scroll.&lt;/p&gt;
-
-&lt;p&gt;Históricamente hemos permitido que el debate sobre la tecnología quede definido por lo peor que podría llegar a hacer un producto, prestando una atención sorprendentemente escasa al daño insidioso que provoca a diario. A medida que nos adentramos en una era marcada por potentes productos de IA, deberíamos exigir a la industria tecnológica algo más que limitarse a atajar perjuicios catastróficos. Deberíamos tomar medidas para garantizar que sus productos no erosionen nuestra forma de pensar, aprender e interactuar entre nosotros.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;Un adolescente que desarrolle un apego perjudicial hacia un compañero de IA puede que nunca aparezca en una demanda ni en un periódico, salvo en los casos más extremos. Tampoco lo hará el estudiante que empiece a depender de un chatbot para redactar todos sus trabajos, ni el joven que mida su vida en función del feed de una red social diseñado para provocar envidia y mantenerle enganchado. Un producto puede cumplir con cada uno de los estrictos requisitos de seguridad y, aun así, perjudicar al conjunto de nuestra cultura de formas que no siempre acaparan titulares.&lt;/p&gt;
-
-&lt;p&gt;Una definición restrictiva del éxito articulada en torno a la seguridad resulta políticamente conveniente para la industria tecnológica, y las empresas promueven activamente tales definiciones. Tomar medidas para prevenir catástrofes espectaculares es bueno para el negocio: puede traducirse en menos demandas judiciales y en una menor presión para aplicar una regulación estricta. Afrontar las consecuencias cotidianas de la dependencia exigiría algo considerablemente más amenazante para su cuenta de resultados. Podría implicar pedir a las empresas que introduzcan más fricción en sus productos o que limiten activamente la interacción o aquellas funciones que derivan en consecuencias negativas, como los algoritmos adictivos diseñados para secuestrar la atención.&lt;/p&gt;
-
-&lt;p&gt;En su lugar, los gigantes tecnológicos han trabajado para moldear la legislación en torno a los perjuicios que ya se ven directamente presionados a abordar. Este año, por ejemplo, &lt;a href="https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google"&gt;Google respaldó proyectos de ley para regular los chatbots de IA en varios estados&lt;/a&gt;. La legislación exigía protecciones básicas frente al contenido sexual y la incitación a las autolesiones que las empresas tecnológicas deberían haber implementado de todos modos, pero con amplias excepciones que podrían eximir a algunos de los servicios más populares. La aprobación de estos proyectos permitió a los legisladores atribuirse una victoria en materia de seguridad, mientras que los intentos de promover una legislación más estricta —leyes concebidas para evitar que los menores desarrollen dependencia emocional hacia la IA— fracasaron. Esta estrategia funcionó en estados como Nebraska, dando lugar a una legislación con una fuerte influencia de la industria a expensas de iniciativas que habrían ido más lejos a la hora de exigir responsabilidades a las empresas.&lt;/p&gt;
-
-&lt;p&gt;Ya hemos vivido una versión de esto con las redes sociales. A escala mundial, los usuarios de internet pasan ahora una media de &lt;a href="https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/"&gt;más de dos horas al día&lt;/a&gt; en las plataformas de redes sociales; un tiempo que se ha ido sustrayendo sigilosamente a la vida cotidiana para entregárselo a empresas cuyos beneficios dependen de retenernos en ellas. Nadie, salvo quizás unos pocos directores ejecutivos de tecnológicas, quería que estos algoritmos ocuparan una parte tan grande de nuestras horas de vigilia, y su ingeniería cultural puede llegar a contribuir a la violencia a una escala devastadora. Las plataformas de Meta han sido señaladas por contribuir al &lt;a href="https://www.amnesty.org/en/latest/news/2022/09/myanmar-facebooks-systems-promoted-violence-against-rohingya-meta-owes-reparations-new-report/"&gt;genocidio rohinyá en Myanmar&lt;/a&gt;, a los &lt;a href="https://www.aljazeera.com/news/2020/5/13/sri-lanka-facebook-apologises-for-role-in-2018-anti-muslim-riots"&gt;disturbios antimusulmanes en Sri Lanka&lt;/a&gt; y a presuntos llamamientos a la violencia durante la &lt;a href="https://www.bbc.com/news/world-africa-67275219"&gt;guerra de Tigray en Etiopía&lt;/a&gt;. Los mismos incentivos operan en los «feeds» que moldean la forma en que los jóvenes estadounidenses entienden la política, a sus iguales y al resto del mundo.&lt;/p&gt;
-
-&lt;p&gt;La IA está extendiendo esta lógica a parcelas de la vida en las que las redes sociales solo podían influir a distancia. Se ofrece a redactar nuestros pensamientos por nosotros y a sustituir a las personas a las que, de otro modo, recurriríamos. Un &lt;a href="https://www.commonsensemedia.org/research/talk-trust-and-trade-offs-how-and-why-teens-use-ai-companions"&gt;tercio de los adolescentes&lt;/a&gt; prefiere ahora hablar de temas serios con compañeros de IA en lugar de con otras personas. &lt;a href="https://arxiv.org/abs/2506.08872"&gt;Investigadores del MIT&lt;/a&gt; descubrieron que los jóvenes que utilizaban ChatGPT para redactar ensayos mostraban una menor conectividad cerebral durante la tarea, y sus pruebas indicaban que la «deuda cognitiva» persistía incluso después de finalizarla. Aún nos queda mucho por aprender sobre los efectos a largo plazo. Pero ya tenemos motivos para preguntarnos si una tecnología que se comercializa con la promesa de hacernos más capaces no estará erosionando los hábitos y las relaciones que nos ayudan, precisamente, a desarrollar capacidades.&lt;/p&gt;
-
-&lt;p&gt;Si llevas esta forma de pensar hasta su desenlace lógico, obtienes un mundo de entretenimiento perfectamente aséptico, con chatbots listos para ahorrarnos la dificultad de pensar o de lidiar con los sentimientos de otra persona (o incluso con los nuestros). Pero cualquiera que se haya esforzado por escribir algo que merezca la pena leer, o por reparar una amistad dañada, sabe todo lo que se pierde en ese intercambio. Desarrollamos el criterio a través del esfuerzo y la fricción, y aprendemos a convivir con los demás al afrontar el hecho de que tienen necesidades y opiniones propias.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Deberíamos exigir seguridad como mínimo, sí, y a partir de ahí exigir mucho más. Las empresas tecnológicas y los distritos escolares deberían tener que demostrar más allá de toda duda razonable que la IA mejora el aprendizaje y el pensamiento crítico antes de convertirla en un elemento habitual en las aulas. Tendría que prohibirse a las compañías diseñar compañeros virtuales que finjan tener conciencia o profesen amor a los usuarios, y deberían someterse a un escrutinio independiente sobre cómo influyen sus sistemas en las relaciones y en la capacidad de las personas para pensar por sí mismas. Las empresas que han introducido sus productos en casi todos los ámbitos de la vida moderna han contraído obligaciones mucho mayores que la de limitarse a evitar el próximo titular demoledor.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Sam Hiner es cofundador y director ejecutivo de Young People’s Alliance, donde coordinó una coalición de activistas para aprobar leyes que regulan los compañeros de IA en ocho estados en 2026 —leyes como la SB1119 de California—. Sam se graduó en la Universidad de Carolina del Norte en Chapel Hill en 2025 y fue incluido en la lista «30 Under 30» de impacto social de &lt;/em&gt;Forbes&lt;em&gt; de 2026.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Emma Leiken es directora ejecutiva del Responsible Technology Youth Power Fund en Hopelab, que ha recaudado más de 9 millones de dólares para iniciativas de rendición de cuentas tecnológica lideradas por jóvenes, y es profesora de políticas tecnológicas en la Escuela de Asuntos Internacionales y Públicos de Columbia. Con anterioridad, fue responsable global de políticas de seguridad y bienestar juvenil en TikTok y trabajó en tecnología responsable en Omidyar Network.&lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>En el mundo de la biotecnología, no puedes verlo todo</title>
-  <link href="https://www.technologyreview.es/article/en-el-mundo-de-la-biotecnologia-no-puedes-verlo-todo"/>
-  <id>https://www.technologyreview.es/article/en-el-mundo-de-la-biotecnologia-no-puedes-verlo-todo</id>
-  <published>2026-10-23T05:00:00+00:00</published>
-  <updated>2026-10-23T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg"/>
-  <webfeeds:featuredImage>https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg</webfeeds:featuredImage>
-  <summary>La inquietante conclusión de un periodista a partir de «You Can See Everything».</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/HvW_N5p1q44/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8b72d9e1d5d14ee454e54feeefe85b3682ad249e.jpg?alt=media&amp;token=497c97b9-5ef9-446b-ab72-29e8ccb6a508" alt="En el mundo de la biotecnología, no puedes verlo todo" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Jessica Hamzelou&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;La inquietante conclusión de un periodista a partir de «You Can See Everything».&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;A principios de esta semana asistí a la proyección de &lt;em&gt;You Can See Everything&lt;/em&gt;, el nuevo y comentado documental sobre la exconsejera delegada de biotecnología caída en desgracia Elizabeth Holmes.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Fui a verla sin saber muy bien qué esperar. Había evitado los &lt;em&gt;spoilers&lt;/em&gt; (¡y aquí tampoco voy a destripar nada!). Me preguntaba qué nueva información podría revelar esta película, dado lo familiarizados que estamos muchos con la historia de Theranos gracias a años de cobertura mediática, el libro superventas &lt;em&gt;Bad Blood&lt;/em&gt; y la serie de Hulu &lt;em&gt;The Dropout&lt;/em&gt;, protagonizada por Amanda Seyfried.&lt;/p&gt;
-
-&lt;p&gt;Al igual que muchos otros que han visto la película, salí con una sensación de inquietud. Pero no solo por el fraude de Holmes y las interacciones, hasta cierto punto perturbadoras, entre los protagonistas. La película reavivó una preocupación que he tenido al cubrir temas de ciencia durante la mayor parte de mi carrera: a pesar de nuestros mayores esfuerzos, en realidad nunca podemos &lt;em&gt;verlo todo&lt;/em&gt;.&lt;/p&gt;
-
-
-
-&lt;p&gt;Por si necesitas refrescar los detalles, Elizabeth Holmes abandonó la Universidad de Stanford en 2003 para dirigir Theranos, una empresa de diagnóstico que fundó con tan solo 19 años. Más adelante, llegó a afirmar que su compañía había inventado un método para realizar más de 100 pruebas diagnósticas con apenas unas gotas de sangre.&lt;/p&gt;
-
-&lt;p&gt;Holmes recaudó cientos de millones de dólares para Theranos, que estaba valorada en 9.000 millones de dólares en 2014. &lt;em&gt;Forbes&lt;/em&gt; la nombró la multimillonaria hecha a sí misma más joven: su patrimonio &lt;a href="https://www.forbes.com/profile/elizabeth-holmes/"&gt;ascendía a 4.500 millones de dólares&lt;/a&gt; cuando tenía tan solo 30 años.&lt;/p&gt;
-
-&lt;p&gt;Todo empezó a desmoronarse en 2015, cuando &lt;a href="https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901"&gt;una investigación de &lt;em&gt;The Wall Street Journal&lt;/em&gt;&lt;/a&gt; sacó a la luz las alertas de exempleados de Theranos que aseguraban que los análisis no funcionaban. Algunos también afirmaron que el dispositivo de la empresa no se había probado adecuadamente y que, en su lugar, las muestras de sangre se habían analizado en máquinas de otros fabricantes. &lt;em&gt;MIT Technology Review&lt;/em&gt; lo consideró uno de los &lt;a href="https://www.technologyreview.com/2015/12/31/164066/the-6-biggest-technology-failures-of-2015/"&gt;mayores fracasos tecnológicos de 2015&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Para 2016, &lt;em&gt;Forbes&lt;/em&gt; ya había rebajado el patrimonio estimado de Holmes a 0 dólares. Ese mismo año, un demoledor informe gubernamental reveló que &lt;a href="https://www.technologyreview.com/2016/04/01/161208/theranos-promised-a-revolution-but-delivered-dangerous-errors/"&gt;el laboratorio de la empresa tenía problemas con los procedimientos más básicos&lt;/a&gt; y entregaba resultados a los pacientes aun a sabiendas de que podían ser erróneos.&lt;/p&gt;
-
-&lt;p&gt;En 2018, Theranos, Holmes y el expresidente de la compañía Ramesh Balwani fueron &lt;a href="https://www.technologyreview.com/2018/03/14/241044/sec-charges-theranos-founder-elizabeth-holmes-with-massive-fraud/"&gt;acusados de «fraude masivo»&lt;/a&gt;. En 2022, fue condenada a algo más de 11 años de prisión por defraudar a los inversores. Comenzó a cumplir su condena en mayo de 2023.&lt;/p&gt;
-
-&lt;p&gt;Aproximadamente un mes antes de esto, los cineastas Nathan Fielder, Lance Oppenheim y sus colaboradores comenzaron a documentar a Holmes y a su pareja, Billy Evans, en casa con sus dos hijos pequeños. No desvelo nada si digo que se trata de un retrato sumamente íntimo —al menos sobre cómo interactúan ambos adultos con Fielder, quien también es un personaje central en la película—.&lt;/p&gt;
-
-&lt;p&gt;Como ya sabrás si has visto &lt;a href="https://www.youtube.com/watch?v=HvW_N5p1q44"&gt;el tráiler&lt;/a&gt;, abundan los primerísimos planos. Sentí como si hubiera pasado casi toda la película mirando fijamente a los rostros de esas personas. Y, prácticamente de principio a fin, todos parecían estar intentando descifrarse mutuamente. Holmes es conocida por su falta de honradez, pero dejó entrar a las cámaras en su casa en un aparente intento de cambiar el relato y posicionarse como una persona honesta con una mente insólita. ¿Habrá alguien que la crea?&lt;/p&gt;
-
-
-
-&lt;p&gt;No pude evitar sentir cierta empatía por Holmes, una madre a la que vemos prepararse para dejar a sus dos hijos y cumplir una larga condena en prisión. Y, a pesar de conocer los hechos desde hace mucho tiempo, resulta evidente que Holmes es una manipuladora consumada. Puedes verla sembrar la semilla de la duda en la mente de Fielder. Por momentos, sentí que me estaba convenciendo incluso a mí, sentado en mi butaca de cine. ¿Quizá de verdad no &lt;em&gt;tenía intención&lt;/em&gt; de mentir?&lt;/p&gt;
-
-&lt;p&gt;Pero entonces recordé cómo se sintieron otros periodistas tras dejarse engañar por sus afirmaciones. «Metí la pata», &lt;a href="https://fortune.com/2015/12/17/how-theranos-misled-me-elizabeth-holmes/"&gt;reflexionaba&lt;/a&gt; Roger Parloff, de &lt;em&gt;Fortune&lt;/em&gt;, en 2015, un año después de publicar un perfil sobre Holmes y su empresa. «Estoy bastante seguro de que me mintió», &lt;a href="https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/"&gt;escribió&lt;/a&gt; hace poco Matthew Herper, de &lt;em&gt;STAT&lt;/em&gt;, tras haber entrevistado a Holmes en 2015. Incluso el exempleado convertido en denunciante Tyler Shultz, que &lt;em&gt;sabía&lt;/em&gt; que el producto no funcionaba, reconoció que podía «tener una conversación de cinco minutos con ella y marcharme con la sensación de que mi trabajo estaba cambiando el mundo», &lt;a href="https://www.statnews.com/2022/06/01/theranos-whistleblower-tyler-shultz-lessons-learned/"&gt;declaró en 2022&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;No cubrí Theranos en la década de 2010. Si hubiera entrevistado a Holmes, ¿me lo habría creído todo?&lt;/p&gt;
-
-&lt;p&gt;Una de las primeras señales de alarma en el caso Theranos fue la falta de datos publicados y revisados por pares. Gran parte del trabajo de la empresa estaba catalogado como «secreto comercial». Los científicos suelen publicar sus investigaciones en revistas especializadas —un proceso lento que implica que expertos en la materia, a menudo anónimos, evalúen el trabajo, aporten comentarios, señalen conclusiones dudosas y, con frecuencia, soliciten aclaraciones—. La revisión por pares está pensada para aportar rigor al proceso de publicación. Deberías poder confiar en los artículos científicos publicados.&lt;/p&gt;
-
-&lt;p&gt;Salvo que a veces no puedes.&lt;/p&gt;
-
-&lt;p&gt;Los científicos no son perfectos. Algunos exageran sus resultados o inflan su relevancia. Otros manipulan datos para respaldar una hipótesis. A veces estas infracciones se detectan durante la revisión por pares, pero no siempre. Sobran los ejemplos de hallazgos científicos que otros laboratorios jamás pudieron replicar y que acabaron desmoronándose bajo el peso de las pruebas reales. Muchos estudios terminan con correcciones. Algunos se retiran—&lt;a href="https://www.nature.com/articles/d41586-023-03974-8"&gt;en 2023 se retractaron 10.000 artículos de investigación&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;En cualquier caso, se ha producido un cambio de tendencia hacia compartir la investigación por otras vías. Hoy en día, muchos científicos optan por publicar sus trabajos en servidores de preprints como arXiv, medRxiv y bioRxiv antes de enviarlos a revistas consolidadas. Esas plataformas eluden la revisión por pares. Lo mismo ocurre con las notas de prensa corporativas, las publicaciones en redes sociales y muchas ponencias en congresos. Y yo obtengo muchos de mis reportajes a partir de conversaciones y entrevistas.&lt;/p&gt;
-
-&lt;p&gt;Reconozco que he visto algún hallazgo científico y he pensado: «Un científico acaba de decir que ha hecho eso. &lt;em&gt;¿Cómo puedo tener la certeza de que realmente lo ha hecho?&lt;/em&gt;».&lt;/p&gt;
-
-&lt;p&gt;Me gusta pensar que aquí me atengo a unos altos estándares periodísticos, al igual que todo el equipo de &lt;em&gt;MIT Technology Review&lt;/em&gt;. Jamás publicaría una historia sobre un nuevo avance científico sin hacer mi propia versión de revisión por pares y preguntar a los científicos —idealmente personas a las que conozco y en las que confío— qué opinan de una nueva afirmación.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Pero la película es un duro recordatorio de lo fácil que puede ser caer en una narrativa atractiva. Aunque la mayoría de los científicos son, confío en ello, bastante honestos, y Holmes es sin duda un caso atípico, todos deberíamos seguir cuestionando las afirmaciones que nos presentan. Si has visto la película, ¡cuéntame qué te ha parecido!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Este artículo se publicó por primera vez en The Checkup, el boletín semanal de biotecnología de &lt;/em&gt;MIT Technology Review&lt;em&gt;. Para recibirlo en tu bandeja de entrada todos los jueves y leer artículos como este antes que nadie, &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/biotech-the-checkup/"&gt;&lt;em&gt;suscríbete aquí&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content>
 </entry>
 </feed>
