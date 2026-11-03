@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calculadora de edad [Gerencie.com] — Finanzas y Contabilidad</title>
+  <meta name="description" content="Calcule su edad exacta en años, meses y días a cualquier fecha y conozca en qué fecha cumple las edades de mayoría, prepensión, pensión y retiro.">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Calculadora de edad [Gerencie.com]">
+  <meta property="og:description" content="Calcule su edad exacta en años, meses y días a cualquier fecha y conozca en qué fecha cumple las edades de mayoría, prepensión, pensión y retiro.">
+  <meta property="og:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-de-edad.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-de-edad.html">
+  <meta property="og:site_name" content="Finanzas y Contabilidad">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Calculadora de edad [Gerencie.com]">
+  <meta name="twitter:description" content="Calcule su edad exacta en años, meses y días a cualquier fecha y conozca en qué fecha cumple las edades de mayoría, prepensión, pensión y retiro.">
+  <meta name="twitter:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-de-edad.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-de-edad.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.1rem;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .action-bar {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .action-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .action-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+    }
+    .article-content th, .article-content td {
+      padding: 8px 12px;
+      border: 1px solid #30363d;
+    }
+    .article-content th {
+      background: #161b22;
+      color: #f0f6fc;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="brand">
+        <span>💼 Finanzas y Contabilidad</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Calculadora de edad [Gerencie.com]</h1>
+        <div class="metadata">
+          <span>Por <strong>Gerencie.com</strong></span>
+          <time datetime="2026-10-28T13:36:05+00:00">2026-10-28</time>
+        </div>
+
+        <p><img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-de-edad.jpg" alt="Calculadora de edad [Gerencie.com]"></p>
+
+        <div class="action-bar">
+  <a href="https://www.gerencie.com/calculadora-de-edad.html" target="_blank" rel="noopener noreferrer" class="action-button">▶ Leer artículo completo en Gerencie.com ↗</a>
+</div>
+
+        <div class="article-content">
+          <p><em>Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad</em></p>
+</details></div><p>La edad se cuenta de fecha a fecha: se cumple un año más el día en que la fecha tiene el mismo número y el mismo mes del nacimiento, como lo ordena el artículo 67 del Código Civil, que se aplica expresamente a las «calificaciones de edad». Esta calculadora obtiene la edad exacta en años, meses y días, a hoy o a cualquier otra fecha, la expresa en meses, semanas y días, indica cuánto falta para el próximo cumpleaños y muestra en qué fecha se cumplen las edades que tienen efectos laborales, tributarios y pensionales. ¿Qué edad tiene, o qué edad tenía en una fecha determinada?</p>
+		<div class="contenedor-ajax eda-calc" id="eda1" data-legales="1">
+			<form class="eda-form" onsubmit="return false;" autocomplete="off" novalidate>
+				<fieldset>
+					<legend>Calcular la edad</legend>
+					<label for="eda1-nac">Fecha de nacimiento:</label>
+					<input type="date" id="eda1-nac" class="eda-nac" min="1900-01-01" required>
+
+					<label for="eda1-ref">Calcular la edad a esta fecha:</label>
+					<input type="date" id="eda1-ref" class="eda-ref" value="2026-11-02">
+					<span class="eda-ayuda">Por defecto, hoy. Cambie la fecha para saber qué edad tenía o tendrá en otro momento, por ejemplo, en la fecha de un fallecimiento o de una solicitud.</span>
+
+											<label for="eda1-sexo">Sexo (para la edad de pensión):</label>
+						<select id="eda1-sexo" class="eda-sexo">
+							<option value="">No indicar (mostrar ambas edades)</option>
+							<option value="m">Mujer</option>
+							<option value="h">Hombre</option>
+						</select>
+					
+					<button type="submit" class="calcular">Calcular edad</button>
+				</fieldset>
+			</form>
+			<div class="eda-resultado" id="resultado-ajax" aria-live="polite"></div>
+		</div>
+		
+<h2><span id="Como_usar_la_calculadora">Cómo usar la calculadora.</span></h2>
+<p>La calculadora pide tres datos:</p>
+<ul>
+<li><strong>Fecha de nacimiento.</strong> Es el único dato obligatorio.</li>
+<li><strong>Fecha a la que se calcula la edad.</strong> Por defecto es hoy. Puede cambiarse para saber qué edad tenía una persona en una fecha pasada, como la de un fallecimiento, una solicitud o la firma de un contrato, o qué edad tendrá en una fecha futura.</li>
+<li>Es opcional y solo sirve para mostrar la edad de pensión que corresponde. Si no se indica, aparecen las dos.</li>
+</ul>
+<p>El resultado muestra la edad en años, meses y días; la edad en meses, semanas y días; el día de la semana en que nació la persona; el próximo cumpleaños y una tabla con la fecha en que cumple cada edad con efectos legales y cuánto falta para ella. El botón «Copiar resultado» permite pegarlo en un correo o en un documento.</p>
+<aside class="ads-gerencie"
+           data-producto="4"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidador-de-intereses">Liquidador de intereses moratorios</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/liquidador-de-intereses"
+               aria-label="Liquidar intereses: Liquidador de intereses moratorios">Liquidar intereses</a>
+            </aside><h2><span id="Como_se_calcula_la_edad_exacta">Cómo se calcula la edad exacta.</span></h2>
+<p>El artículo<a href="http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil_pr001.html#67" target="_blank" rel="noopener noreferrer"> 67</a> del Código Civil fija la forma de contar los plazos de meses y años, y la extiende a la edad:</p>
+<blockquote><p>«El primero y último día de un plazo de meses o años deberán tener un mismo número en los respectivos meses. El plazo de un mes podrá ser, por consiguiente, de 28, 29, 30 o 31 días, y el plazo de un año de 365 o 366 días, según los casos. […] Se aplicarán estas reglas a las prescripciones, a las calificaciones de edad, y en general a cualesquiera plazos o términos prescritos en las leyes o en los actos de las autoridades nacionales, salvo que en las mismas leyes o actos se disponga expresamente otra cosa.»</p></blockquote>
+<p>Por eso la edad no se calcula dividiendo los días vividos entre 365: los años se cuentan de cumpleaños a cumpleaños, los meses de fecha a fecha y los días restantes uno a uno.</p>
+<p>Supongamos que una persona nació el 10 de mayo de 1991 y queremos saber su edad al 25 de septiembre de 2026:</p>
+<ul>
+<li>El 10 de mayo de 2026 cumplió <strong>35 años</strong>.</li>
+<li>Del 10 de mayo al 10 de septiembre de 2026 van <strong>4 meses</strong>.</li>
+<li>Del 10 al 25 de septiembre van <strong>15 días</strong>.</li>
+</ul>
+<p>Su edad es de <strong>35 años, 4 meses y 15 días</strong>. Cuando el día del nacimiento no existe en el mes final, como el 31 en un mes de 30 días, el mes se completa el último día de ese mes.</p>
+<h3><span id="Edad_de_quien_nacio_el_29_de_febrero">Edad de quien nació el 29 de febrero.</span></h3>
+<p>El tercer inciso del mismo artículo 67 resuelve el caso de los meses que tienen menos días que el mes de inicio:</p>
+<blockquote><p>«Si el mes en que ha de principiar un plazo de meses o años constare de más días que el mes en que ha de terminar el plazo, y si el plazo corriere desde alguno de los días en que el primero de dichos meses excede al segundo, el último día del plazo será el último día de este segundo mes.»</p></blockquote>
+<p>En consecuencia, quien nació el 29 de febrero cumple años el <strong>28 de febrero</strong> en los años que no son bisiestos, y no el 1 de marzo. Supongamos que una persona nació el 29 de febrero de 2008: cumple 18 años, y con ellos la mayoría de edad, el 28 de febrero de 2026. La calculadora aplica esta regla.</p>
+<h2><span id="Edades_con_efectos_laborales_tributarios_y_pensionales">Edades con efectos laborales, tributarios y pensionales.</span></h2>
+<p>Varias normas atan un derecho o una obligación a una edad. La calculadora muestra en qué fecha se cumple cada una, pero la edad sola no basta: cada caso tiene requisitos adicionales que se explican en los artículos enlazados.</p>
+<div class="tabla-scroll"><table>
+<thead>
+<tr>
+<th>Edad</th>
+<th>Efecto</th>
+<th>Norma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>15 años</td>
+<td>Edad mínima para trabajar, con autorización del inspector de trabajo.</td>
+<td>Art. 35 de la Ley 1098 de 2006</td>
+</tr>
+<tr>
+<td>15 a 17 años</td>
+<td>Jornada diurna de máximo 6 horas diarias y 30 semanales, hasta las 6:00 p. m.</td>
+<td>Art. 114 de la Ley 1098 de 2006</td>
+</tr>
+<tr>
+<td>17 años</td>
+<td>Jornada de máximo 8 horas diarias y 40 semanales, hasta las 8:00 p. m.</td>
+<td>Art. 114 de la Ley 1098 de 2006</td>
+</tr>
+<tr>
+<td>18 años</td>
+<td>Mayoría de edad. Fin de la cuota monetaria del subsidio familiar por el hijo.</td>
+<td>Art. 1 de la Ley 27 de 1977; art. 3 de la Ley 789 de 2002</td>
+</tr>
+<tr>
+<td>18 a 23 años</td>
+<td>Hijo dependiente en renta si el padre o la madre financia su educación superior.</td>
+<td>Par. 2 del art. 387 del Estatuto Tributario</td>
+</tr>
+<tr>
+<td>Hasta 25 años</td>
+<td>Hijo beneficiario en salud si depende económicamente; hijo beneficiario de la pensión de sobrevivientes si estudia.</td>
+<td>Arts. 163 y 47 de la Ley 100 de 1993</td>
+</tr>
+<tr>
+<td>54 / 59 años</td>
+<td>Inicio del periodo de prepensionado por edad (mujeres / hombres).</td>
+<td>Jurisprudencia de estabilidad reforzada</td>
+</tr>
+<tr>
+<td>57 / 62 años</td>
+<td>Edad de pensión de vejez (mujeres / hombres).</td>
+<td>Num. 1 del art. 33 de la Ley 100 de 1993</td>
+</tr>
+<tr>
+<td>70 años</td>
+<td>Retiro forzoso de quienes desempeñan funciones públicas.</td>
+<td>Ley 1821 de 2016</td>
+</tr>
+</tbody>
+</table></div>
+<p>A continuación explicamos cada una.</p>
+<h3><span id="Trabajo_de_adolescentes">Trabajo de adolescentes.</span></h3>
+<p>La edad mínima para trabajar es de <strong>15 años</strong>, y entre los 15 y los 17 años se requiere autorización del inspector de trabajo, según el artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_1098_2006.html#35" target="_blank" rel="noopener noreferrer">35</a> de la Ley 1098 de 2006. El artículo 114 de la misma ley limita la jornada del adolescente autorizado:</p>
+<blockquote><p>«Los adolescentes mayores de 15 y menores de 17 años, sólo podrán trabajar en <a href="https://www.gerencie.com/jornada-diurna.html" title="Jornada diurna">jornada diurna</a> máxima de seis horas diarias y treinta horas a la semana y hasta las 6:00 de la tarde. Los adolescentes mayores de diecisiete (17) años, sólo podrán trabajar en una jornada máxima de ocho horas diarias y 40 horas a la semana y hasta las 8:00 de la noche.»</p><div class ="vb-ads">
+
+
+</div></blockquote>
+<p>Estos límites son especiales y prevalecen sobre las reglas generales del Código Sustantivo del Trabajo. Las condiciones de la autorización y el salario del adolescente están en <a href="https://www.gerencie.com/jornada-laboral-en-los-menores-de-edad.html">jornada laboral de los menores de edad</a>.</p>
+<h3><span id="Mayoria_de_edad">Mayoría de edad.</span></h3>
+<p>Según el artículo 1 de la Ley <a href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4965" target="_blank" rel="noopener noreferrer">27</a> de 1977, es mayor de edad quien ha cumplido <strong>18 años</strong>. Desde ese día la persona puede celebrar contratos y trabajar sin autorización.</p>
+<h3><span id="Hijos_beneficiarios_y_dependientes">Hijos beneficiarios y dependientes.</span></h3>
+<p>La edad del hijo determina hasta cuándo puede recibir beneficios por cuenta de sus padres:</p>
+<ul>
+<li><strong>Subsidio familiar.</strong> La cuota monetaria se paga por los hijos que no sobrepasen los 18 años, según el parágrafo 1 del artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0789_2002.html#3" target="_blank" rel="noopener noreferrer">3</a> de la Ley 789 de 2002; a partir de los 12 años se debe acreditar la escolaridad.</li>
+<li><strong>Dependiente en renta.</strong> Los hijos de hasta 18 años y los de 18 a 23 años cuya educación superior financia el padre o la madre son dependientes, según el parágrafo 2 del artículo <a href="https://normograma.dian.gov.co/dian/compilacion/docs/estatuto_tributario.htm#387" target="_blank" rel="noopener noreferrer">387</a> del Estatuto Tributario. Permiten la <a href="https://www.gerencie.com/guia-renta/conceptos/deduccion-por-dependientes">deducción por dependientes</a> en la retención en la fuente y en la declaración de renta.</li>
+<li>Los hijos son <a href="https://www.gerencie.com/beneficiarios-en-el-sistema-de-salud.html">beneficiarios en salud</a> hasta los 25 años si dependen económicamente del afiliado, según el artículo <a href="https://normograma.dian.gov.co/dian/compilacion/docs/ley_0100_1993.htm#163" target="_blank" rel="noopener noreferrer">163</a> de la Ley 100 de 1993.</li>
+<li><strong>Pensión de sobrevivientes.</strong> Los hijos son beneficiarios hasta los 18 años y, si estudian y dependían del causante, hasta los 25 años, según el literal c del artículo <a href="https://normograma.dian.gov.co/dian/compilacion/docs/ley_0100_1993.htm#47" target="_blank" rel="noopener noreferrer">47</a> de la Ley 100 de 1993.</li>
+</ul>
+<p>La norma tributaria habla de hijos «entre 18 y 23 años». De acuerdo con nuestro criterio, la calidad de dependiente se conserva mientras el hijo tenga 23 años, es decir, hasta el día anterior a cumplir 24, pues durante ese año su edad sigue siendo de 23.</p>
+<h3><span id="Edad_de_pension_y_prepension">Edad de pensión y prepensión.</span></h3>
+<p>La edad para la pensión de vejez es de <strong>57 años</strong> para las mujeres y <strong>62 años</strong> para los hombres, según el numeral 1 del artículo <a href="https://normograma.dian.gov.co/dian/compilacion/docs/ley_0100_1993.htm#33" target="_blank" rel="noopener noreferrer">33</a> de la Ley 100 de 1993. La <a href="https://www.gerencie.com/sentencia-c-264-de-2026-reforma-pensional.html">sentencia C-264 de 2026</a> sobre la reforma pensional no cambia esas edades.</p>
+<p>La edad es solo uno de los requisitos: también se exigen las semanas cotizadas, que para las mujeres disminuyen cada año desde 2026. La fecha en que se completan los dos requisitos se calcula en <a href="https://www.gerencie.com/guia-pensiones/cuando-me-pensiono">¿cuándo me pensiono?</a>.</p>
+<p>Quien está a <strong>tres años o menos</strong> de cumplir los requisitos de la pensión tiene estabilidad laboral reforzada como prepensionado. La Corte Suprema de Justicia, en la sentencia SL2600 de 2025, sostuvo que los empleadores particulares no pueden despedir sin justa causa al trabajador durante los tres años anteriores a la edad de pensión, aun cuando ya tenga las semanas. El alcance de esta protección y la posición de la Corte Constitucional están en <a href="https://www.gerencie.com/fuero-de-prepensionado.html">fuero de prepensionado</a>.</p>
+<h3><span id="Retiro_forzoso">Retiro forzoso.</span></h3>
+<p>El artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_1821_2016.html#1" target="_blank" rel="noopener noreferrer">1</a> de la Ley 1821 de 2016 fija la edad máxima para permanecer en un cargo público:</p>
+<blockquote><p>«La edad máxima para el retiro del cargo de las personas que desempeñen funciones públicas será de setenta (70) años.»</p></blockquote>
+<p>Al cumplir esa edad el retiro es inmediato. La regla no se aplica a los cargos de elección popular ni rige en el sector privado, donde no existe una edad máxima para trabajar.</p>
+<div class="pf"><h2><span id="Preguntas_frecuentes">Preguntas frecuentes.</span></h2></div>
+<p>A continuación respondemos las preguntas frecuentes de nuestros lectores.</p>
+<div class="faq-container" itemscope itemtype="https://schema.org/FAQPage"><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="La_edad_se_cumple_el_dia_del_cumpleanos">¿La edad se cumple el día del cumpleaños?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Sí. Los años se cuentan de fecha a fecha, de modo que el día del cumpleaños la persona ya tiene la nueva edad.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Cuando_cumple_anos_quien_nacio_el_29_de_febrero">¿Cuándo cumple años quien nació el 29 de febrero?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>El 28 de febrero en los años que no son bisiestos, por la regla del artículo 67 del Código Civil.</p><div class ="vb-ads">
+
+
+</div>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Como_se_que_edad_tenia_una_persona_en_una_fecha_pasada">¿Cómo sé qué edad tenía una persona en una fecha pasada?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Cambie en la calculadora la fecha a la que se calcula la edad. Sirve, por ejemplo, para saber la edad de un hijo en la fecha del fallecimiento de su padre.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="A_que_edad_se_pensiona_una_persona_en_Colombia">¿A qué edad se pensiona una persona en Colombia?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>A los 57 años las mujeres y a los 62 los hombres, siempre que tengan además las semanas cotizadas exigidas.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Desde_que_edad_se_es_prepensionado">¿Desde qué edad se es prepensionado?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Depende. Por edad, desde los 54 años las mujeres y los 59 los hombres, pero la protección también puede surgir cuando faltan tres años o menos para completar las semanas.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Hasta_que_edad_puede_estar_un_hijo_como_beneficiario_en_la_EPS">¿Hasta qué edad puede estar un hijo como beneficiario en la EPS?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Hasta los 25 años, si depende económicamente del afiliado. Después solo si tiene una incapacidad permanente.</p>
+</div></div></div></div>
+<aside class="ads-gerencie"
+           data-producto="23"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/calculadora-retencion-salarios">Calculadora de retención en la fuente por salarios</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/calculadora-retencion-salarios"
+               aria-label="Calcular retención: Calculadora de retención en la fuente por salarios">Calcular retención</a>
+            </aside></p>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Finanzas y Contabilidad</span>
+      <a href="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-de-edad.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

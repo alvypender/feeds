@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calculadora de porcentajes y variación porcentual [Gerencie.com] — Finanzas y Contabilidad</title>
+  <meta name="description" content="Calcule porcentajes, la variación porcentual entre dos valores, el valor sin IVA, descuentos sucesivos y márgenes, con el procedimiento y la fórmula para Excel.">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Calculadora de porcentajes y variación porcentual [Gerencie.com]">
+  <meta property="og:description" content="Calcule porcentajes, la variación porcentual entre dos valores, el valor sin IVA, descuentos sucesivos y márgenes, con el procedimiento y la fórmula para Excel.">
+  <meta property="og:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-de-porcentajes.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-de-porcentajes.html">
+  <meta property="og:site_name" content="Finanzas y Contabilidad">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Calculadora de porcentajes y variación porcentual [Gerencie.com]">
+  <meta name="twitter:description" content="Calcule porcentajes, la variación porcentual entre dos valores, el valor sin IVA, descuentos sucesivos y márgenes, con el procedimiento y la fórmula para Excel.">
+  <meta name="twitter:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-de-porcentajes.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-de-porcentajes.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.1rem;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .action-bar {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .action-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .action-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+    }
+    .article-content th, .article-content td {
+      padding: 8px 12px;
+      border: 1px solid #30363d;
+    }
+    .article-content th {
+      background: #161b22;
+      color: #f0f6fc;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="brand">
+        <span>💼 Finanzas y Contabilidad</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Calculadora de porcentajes y variación porcentual [Gerencie.com]</h1>
+        <div class="metadata">
+          <span>Por <strong>Gerencie.com</strong></span>
+          <time datetime="2026-10-25T20:10:50+00:00">2026-10-25</time>
+        </div>
+
+        <p><img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-de-porcentajes.jpg" alt="Calculadora de porcentajes y variación porcentual [Gerencie.com]"></p>
+
+        <div class="action-bar">
+  <a href="https://www.gerencie.com/calculadora-de-porcentajes.html" target="_blank" rel="noopener noreferrer" class="action-button">▶ Leer artículo completo en Gerencie.com ↗</a>
+</div>
+
+        <div class="article-content">
+          <p><em>Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad</em></p>
+<p>Calcular un porcentaje parece sencillo hasta que hay que hacerlo al revés: hallar el precio sin IVA, saber cuánto subieron las ventas o comprobar si dos descuentos del 10 % equivalen a uno del 20 %. Esta calculadora resuelve las nueve operaciones con porcentajes más usadas en <a href="https://www.gerencie.com/contabilidad.html" title="Contabilidad – Qué es y para qué sirve">contabilidad</a>, comercio y finanzas personales, y muestra el procedimiento y la fórmula para llevarla a Excel. ¿Qué necesita calcular?</p>
+		<div class="contenedor-ajax pc-calc" id="pc1" data-pc-ini="aplicar" data-pc-n="1">
+			<form class="pc-form" onsubmit="return false;" autocomplete="off" novalidate>
+				<fieldset>
+					<legend>Calculadora de porcentajes</legend>
+					<label for="pc1-op">¿Qué desea calcular?</label>
+					<select id="pc1-op" class="pc-op">
+													<optgroup label="Lo básico">
+																	<option value="aplicar" selected='selected'>¿Cuánto es el X % de un valor?</option>
+																	<option value="representa">¿Qué porcentaje es un valor de otro?</option>
+																	<option value="total">X es el Y %: ¿de qué valor?</option>
+																	<option value="variacion">Variación porcentual entre dos valores</option>
+															</optgroup>
+													<optgroup label="Aumentos y descuentos">
+																	<option value="quitar">Quitar un porcentaje ya incluido (valor antes del aumento o del descuento)</option>
+																	<option value="sucesivos">Porcentajes sucesivos (descuentos o aumentos encadenados)</option>
+															</optgroup>
+													<optgroup label="Análisis y negocios">
+																	<option value="puntos">Puntos porcentuales entre dos tasas</option>
+																	<option value="participacion">Participación porcentual de varios valores</option>
+																	<option value="margen">Margen de utilidad y precio de venta</option>
+															</optgroup>
+											</select>
+					<span class="pc-ayuda pc-desc"></span>
+
+					<div class="pc-campo pc-w-s">
+						<label for="pc1-s" class="pc-l-s">Opción:</label>
+						<select id="pc1-s" class="pc-s"></select>
+					</div>
+					<div class="pc-campo pc-w-a">
+						<label for="pc1-a" class="pc-l-a">Valor:</label>
+						<input type="text" inputmode="decimal" id="pc1-a" class="pc-a">
+						<span class="pc-ayuda pc-h-a"></span>
+					</div>
+					<div class="pc-campo pc-w-b">
+						<label for="pc1-b" class="pc-l-b">Porcentaje:</label>
+						<input type="text" inputmode="decimal" id="pc1-b" class="pc-b">
+						<span class="pc-ayuda pc-h-b"></span>
+					</div>
+					<div class="pc-campo pc-w-c">
+						<label for="pc1-c" class="pc-l-c">Periodos:</label>
+						<input type="text" inputmode="decimal" id="pc1-c" class="pc-c">
+						<span class="pc-ayuda pc-h-c"></span>
+					</div>
+					<div class="pc-campo pc-w-l">
+						<label for="pc1-l" class="pc-l-l">Valores:</label>
+						<textarea id="pc1-l" class="pc-l" rows="5"></textarea>
+						<span class="pc-ayuda pc-h-l"></span>
+					</div>
+					<div class="pc-campo pc-w-dec">
+						<label for="pc1-dec">Decimales en el resultado:</label>
+						<select id="pc1-dec" class="pc-dec">
+							<option value="0">0</option>
+							<option value="1">1</option>
+							<option value="2" selected>2</option>
+							<option value="4">4</option>
+						</select>
+					</div>
+					<span class="pc-ayuda">Escriba los números con o sin puntos de miles: 1.500.000, 2,8 o 2.8 y 25 o 25 % se leen igual.</span>
+					<button type="submit" class="calcular">Calcular</button>
+				</fieldset>
+			</form>
+			<div class="pc-resultado" id="resultado-ajax" aria-live="polite"></div>
+		</div>
+		
+<h2>Cómo usar la calculadora.</h2>
+<p>Elija en la lista lo que desea calcular. Los campos cambian según la operación:</p>
+<ul>
+<li><strong>Lo básico.</strong> El X % de un valor, qué porcentaje es un valor de otro, el total a partir de un porcentaje y la variación porcentual entre dos valores.</li>
+<li><strong>Aumentos y descuentos.</strong> Quitar un porcentaje que ya está incluido, como el IVA o un descuento, y calcular el efecto de varios porcentajes encadenados.</li>
+<li><strong>Análisis y negocios.</strong> Puntos porcentuales entre dos tasas, participación porcentual de una lista de valores y margen de utilidad o precio de venta.</li>
+</ul>
+<p>Puede escribir los números como los escribe normalmente: 1.500.000, 2,8 o 2.8, y 25 o 25 % se leen igual. El resultado muestra el procedimiento con sus números, la fórmula para Excel o Google Sheets y, en la mayoría de operaciones, datos adicionales, como la variación inversa o la tabla de porcentajes de un valor. Con «Copiar enlace del cálculo» obtiene un enlace que abre la calculadora con los mismos datos, útil para compartir el cálculo o volver a él.</p>
+<aside class="ads-gerencie"
+           data-producto="14"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/guia-laboral">Guía Laboral 2026</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/guia-laboral"
+               aria-label="Ver la guía: Guía Laboral 2026">Ver la guía</a>
+            </aside><h2>Resumen de fórmulas.</h2>
+<p>Todas las operaciones con porcentajes se reducen a unas pocas fórmulas. En la tabla, «%» es el porcentaje escrito como número (20 para el 20 %):</p>
+<div class="tabla-scroll"><table>
+<thead>
+<tr>
+<th>Qué quiere saber</th>
+<th>Fórmula</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>El X % de un valor</td>
+<td>valor × % ÷ 100</td>
+</tr>
+<tr>
+<td>Qué porcentaje es una parte del total</td>
+<td>parte ÷ total × 100</td>
+</tr>
+<tr>
+<td>El total, si una parte es el X %</td>
+<td>parte × 100 ÷ %</td>
+</tr>
+<tr>
+<td>Variación porcentual</td>
+<td>(valor final − valor inicial) ÷ valor inicial × 100</td>
+</tr>
+<tr>
+<td>Valor aumentado en un X %</td>
+<td>valor × (1 + % ÷ 100)</td>
+</tr>
+<tr>
+<td>Valor disminuido en un X %</td>
+<td>valor × (1 − % ÷ 100)</td>
+</tr>
+<tr>
+<td>Valor antes de un aumento incluido</td>
+<td>valor final ÷ (1 + % ÷ 100)</td>
+</tr>
+<tr>
+<td>Valor antes de un descuento aplicado</td>
+<td>valor final ÷ (1 − % ÷ 100)</td>
+</tr>
+<tr>
+<td>Precio de venta con margen sobre el precio</td>
+<td>costo ÷ (1 − margen ÷ 100)</td>
+</tr>
+</tbody>
+</table></div>
+<p>La explicación de cada una, con ejemplos, está en las secciones siguientes.</p>
+<h2>Cómo sacar el porcentaje de un valor.</h2>
+<p>Un porcentaje es una fracción de cien: el 20 % significa 20 de cada 100. Por eso, para sacar el porcentaje de un valor se multiplica el valor por el porcentaje y se divide por 100.</p>
+<p>Supongamos que queremos saber cuánto es el 20 % de 1.500:</p>
+<ul>
+<li>500 × 20 = 30.000.</li>
+<li>000 ÷ 100 = <strong>300</strong>.</li>
+</ul>
+<p>El mismo resultado se obtiene con la <a href="https://www.gerencie.com/regla-de-tres.html" title="Regla de tres: qué es, cómo se calcula y calculadora en línea">regla de tres</a>: si 1.500 es el 100 %, el 20 % es 1.500 × 20 ÷ 100. La calculadora muestra además el valor aumentado en ese porcentaje (1.800) y disminuido (1.200), y una tabla con los porcentajes más usados del valor, del 1 % al 100 %.</p>
+<h3>Aumentar o disminuir un valor en un porcentaje.</h3>
+<p>Para sumar un porcentaje no hace falta calcularlo aparte: basta multiplicar por 1 más el porcentaje en tanto por uno. Un aumento del 19 % sobre 1.500.000 es 1.500.000 × 1,19 = <strong>1.785.000</strong>, y una rebaja del 19 % es 1.500.000 × 0,81 = <strong>1.215.000</strong>.</p>
+<h2>Qué porcentaje representa un valor de otro.</h2>
+<p>Cuando se quiere saber qué porcentaje es una cantidad de un total, se divide la parte por el total y se multiplica por 100. Es lo que se busca al «sacar el porcentaje de dos valores».</p>
+<p>Supongamos que de 750 encuestados, 150 respondieron que sí. 150 ÷ 750 = 0,2, y 0,2 × 100 = <strong>20 %</strong>. La calculadora indica también cuánto falta para el total, el 80 %, y la proporción: 1 de cada 5.</p>
+<h2>Cómo hallar el total a partir de un porcentaje.</h2>
+<p>Si se conoce una parte y el porcentaje que representa, el total se obtiene multiplicando la parte por 100 y dividiendo por el porcentaje.</p>
+<p>Supongamos que 150 corresponde al 15 % de un valor. 150 × 100 ÷ 15 = <strong>1.000</strong>. Una forma de comprobarlo: el 1 % es 150 ÷ 15 = 10, y el 100 % es 10 × 100 = 1.000.</p>
+<p>Esta fórmula no sirve cuando el valor que se tiene ya incluye el porcentaje, como un precio con IVA. Ese caso tiene su propia sección más adelante.</p>
+<h2>Cómo calcular la variación porcentual entre dos valores.</h2>
+<p>La variación porcentual mide cuánto subió o bajó un valor respecto a su valor anterior. Se calcula restando el valor inicial del final, dividiendo la diferencia por el valor inicial y multiplicando por 100:</p><div class ="vb-ads">
+
+
+</div>
+<p><strong>Variación porcentual = (valor final − valor inicial) ÷ valor inicial × 100</strong></p>
+<p>Supongamos que un producto pasó de costar 85 a costar 117:</p>
+<ul>
+<li>117 − 85 = 32.</li>
+<li>32 ÷ 85 = 0,3765.</li>
+<li>0,3765 × 100 = <strong>37,65 %</strong> de aumento.</li>
+</ul>
+<p>Si el resultado es negativo, hubo una disminución. De 823 a 1.287 la variación es del 56,38 %, y de 1.287 a 823, del −36,05 %. La variación de una misma partida de los estados financieros entre dos periodos es la base del <a href="https://www.gerencie.com/analisis-horizontal.html">análisis horizontal</a>.</p>
+<h3>La variación no es simétrica.</h3>
+<p>Subir de 85 a 117 es un aumento del 37,65 %, pero bajar de 117 a 85 es una disminución del 27,35 %, no del 37,65 %. Cada variación se calcula sobre su propio punto de partida. Por eso un descuento del 50 % no se compensa con un aumento del 50 %: 100 con un descuento del 50 % queda en 50, y 50 con un aumento del 50 % queda en 75.</p>
+<p>Cuando no hay un valor anterior y uno nuevo, sino dos valores que se comparan sin orden, puede usarse la diferencia porcentual respecto al promedio de ambos, que la calculadora muestra también: entre 85 y 117 es del 31,68 %.</p>
+<h3>Variación desde cero o entre valores negativos.</h3>
+<p>La variación desde cero no está definida, porque no se puede dividir por cero: si las ventas pasaron de 0 a 5.000.000, el cambio se expresa en pesos, no en porcentaje.</p>
+<p>Con valores negativos, como una pérdida que se reduce, la calculadora divide por el valor absoluto del valor inicial, para que el signo indique si hubo mejora. Pasar de una pérdida de 100 a una de 50 es una variación del +50 %. De acuerdo con nuestro criterio, en estos casos conviene acompañar el porcentaje con la diferencia en pesos, porque las variaciones entre cifras negativas o cercanas a cero suelen dar porcentajes engañosos.</p>
+<h3>Crecimiento promedio por periodo.</h3>
+<p>Si los dos valores corresponden a fechas distintas, la calculadora permite indicar el número de periodos para obtener la tasa de crecimiento promedio compuesta, es decir, la que aplicada periodo tras periodo lleva del valor inicial al final.</p>
+<p>Supongamos que las ventas de un negocio pasaron de <strong>$1.000.000</strong> hace tres años a <strong>$1.331.000</strong> este año. La variación total es del 33,1 %, pero el crecimiento promedio no es 33,1 ÷ 3 = 11,03 % anual, sino del <strong>10 %</strong>: 1.000.000 × 1,10 × 1,10 × 1,10 = 1.331.000. El promedio simple sobrestima el crecimiento porque ignora que cada año parte de un valor mayor, el mismo principio del <a href="https://www.gerencie.com/calculadora-de-interes-compuesto.html">interés compuesto</a>.</p>
+<h2>Puntos porcentuales y variación porcentual.</h2>
+<p>Cuando lo que se compara son dos porcentajes, como dos tasas de interés o de <a href="https://www.gerencie.com/inflacion.html" title="Inflación: qué es, cómo se mide, tipos y a quién afecta">inflación</a>, hay dos medidas distintas que no deben confundirse:</p>
+<ul>
+<li>Los <strong>puntos porcentuales</strong> son la diferencia aritmética entre los dos porcentajes.</li>
+<li>La <strong>variación porcentual</strong> es cuánto cambió un porcentaje respecto al otro.</li>
+</ul>
+<p>Supongamos que la tasa de desempleo pasa del 10 % al 12 %. Subió 2 puntos porcentuales, y esa subida es una variación del 20 % (2 ÷ 10 × 100). Decir que el desempleo «subió un 2 %» es un error frecuente. Para convertir una tasa de interés de un periodo a otro, por ejemplo de mensual a efectiva anual, use el <a href="https://www.gerencie.com/convertidor-de-tasas.html">convertidor de tasas</a>.</p>
+<h2>Cómo quitar un porcentaje ya incluido.</h2>
+<p>Es el cálculo que más errores produce. Cuando un valor ya incluye un porcentaje, el valor original no se obtiene restando ese porcentaje, porque el porcentaje se calculó sobre la base, que es menor que el total.</p>
+<h3>Precio con IVA.</h3>
+<p>La tarifa general del IVA es del 19 %, según el artículo<a href="https://normograma.dian.gov.co/dian/compilacion/docs/estatuto_tributario.htm#468" target="_blank" rel="noopener noreferrer"> 468</a> del Estatuto Tributario. Supongamos que un producto cuesta <strong>$119.000</strong> con IVA incluido. El precio sin IVA es 119.000 ÷ 1,19 = <strong>$100.000</strong>, y el IVA es de $19.000.</p>
+<p>Si se restara el 19 % a $119.000, el resultado sería $96.390, que es incorrecto: al sumarle el 19 % daría $114.704, no $119.000. Para los cálculos de IVA en ambos sentidos, con las demás tarifas, puede usar también la <a href="https://www.gerencie.com/calculadora-de-iva.html">calculadora de IVA</a>.</p>
+<h3>Precio con descuento.</h3>
+<p>Con los descuentos ocurre lo contrario. Si un producto con un descuento del 20 % cuesta <strong>$80.000</strong>, el precio original era 80.000 ÷ 0,80 = <strong>$100.000</strong>. Sumar el 20 % a $80.000 daría $96.000, porque el descuento se calculó sobre el precio original, que es mayor.</p>
+<h2>Descuentos y aumentos sucesivos.</h2>
+<p>Cuando se aplican varios porcentajes uno tras otro, cada uno se calcula sobre el valor que dejó el anterior. Por eso el porcentaje total no es la suma de los porcentajes, sino el resultado de multiplicar los factores.</p>
+<p>Supongamos que un proveedor ofrece sobre una compra de <strong>$2.000.000</strong> un descuento comercial del 10 % y otro del 5 % por pronto pago:</p>
+<div class="tabla-scroll"><table>
+<thead>
+<tr>
+<th>Paso</th>
+<th>Descuento</th>
+<th>Valor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Valor inicial</td>
+<td></td>
+<td>$2.000.000</td>
+</tr>
+<tr>
+<td>Descuento del 10 %</td>
+<td>$200.000</td>
+<td>$1.800.000</td>
+</tr>
+<tr>
+<td>Descuento del 5 % sobre $1.800.000</td>
+<td>$90.000</td>
+<td>$1.710.000</td>
+</tr>
+</tbody>
+</table></div>
+<p>El descuento total es de $290.000, que equivale al <strong>14,5 %</strong> y no al 15 %: 0,90 × 0,95 = 0,855, y 1 − 0,855 = 0,145. Con los aumentos ocurre lo inverso: un aumento del 10 % seguido de uno del 5 % equivale al 15,5 %. El orden en que se apliquen no cambia el resultado.</p>
+<h2>Participación porcentual de varios valores.</h2>
+<p>La participación porcentual indica qué parte del total representa cada valor de una lista. Se calcula dividiendo cada valor por la suma de todos y multiplicando por 100. En la calculadora se escribe un valor por línea, con su nombre delante si se quiere identificar.</p>
+<p>Supongamos que las ventas de una empresa se distribuyen así:</p>
+<div class="tabla-scroll"><table>
+<thead>
+<tr>
+<th>Zona</th>
+<th>Ventas</th>
+<th>Participación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Norte</td>
+<td>$4.500.000</td>
+<td>45 %</td>
+</tr>
+<tr>
+<td>Centro</td>
+<td>$3.000.000</td>
+<td>30 %</td>
+</tr>
+<tr>
+<td>Sur</td>
+<td>$2.500.000</td>
+<td>25 %</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>$10.000.000</td>
+<td>100 %</td>
+</tr>
+</tbody>
+</table></div>
+<p>La calculadora agrega la participación acumulada y una barra por cada valor. Calcular el peso de cada partida sobre un total, como el activo o los ingresos, es el <a href="https://www.gerencie.com/analisis-vertical.html">análisis vertical</a> de los estados financieros. Si lo que necesita es un promedio en el que cada dato pese según su participación, use la <a href="https://www.gerencie.com/calculadora-en-linea-de-promedio-ponderado.html">calculadora de promedio ponderado</a>.</p>
+<h2>Margen sobre el precio de venta o sobre el costo.</h2>
+<p>Ganar un 20 % no es lo mismo si el porcentaje se mide sobre el precio de venta o sobre el costo, y la confusión lleva a vender con un margen menor al que se esperaba.</p>
+<p>Supongamos que un producto cuesta <strong>$80.000</strong> y se quiere un margen del 20 % sobre el precio de venta:</p>
+<ul>
+<li>El precio correcto es 80.000 ÷ (1 − 0,20) = <strong>$100.000</strong>, que deja una utilidad de $20.000, el 20 % de $100.000.</li>
+<li>Si se suma el 20 % al costo, el precio es 80.000 × 1,20 = $96.000, y la utilidad de $16.000 es solo el <strong>16,67 %</strong> del precio.</li>
+</ul>
+<p>La calculadora también hace el cálculo inverso: con el costo y el precio, muestra el margen sobre el precio y el porcentaje sobre el costo. Si el precio se publica con IVA, el margen se calcula sobre el precio sin el impuesto, porque el IVA no es un ingreso del vendedor. Para saber cuántas unidades debe vender para cubrir los costos fijos con ese margen, use la <a href="https://www.gerencie.com/calculadora-de-punto-de-equilibrio.html">calculadora de punto de equilibrio</a>. La diferencia entre margen bruto y margen de contribución la explicamos en <a href="https://www.gerencie.com/diferencia-entre-el-margen-de-contribucion-y-margen-bruto.html">este artículo</a>.</p>
+<div class="pf"><h2>Preguntas frecuentes.</h2></div>
+<p>A continuación respondemos las preguntas frecuentes de nuestros lectores.</p>
+<div class="faq-container" itemscope itemtype="https://schema.org/FAQPage"><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name">¿Cómo saco el porcentaje de un número?</h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Multiplique el número por el porcentaje y divida por 100. El 15 % de 2.400 es 2.400 × 15 ÷ 100 = 360.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name">¿Cómo saco el porcentaje entre dos valores?</h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Depende de lo que busque. Si quiere saber qué porcentaje es uno del otro, divida la parte por el total y multiplique por 100. Si quiere saber cuánto cambió uno respecto al otro, use la fórmula de la variación porcentual.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name">¿Cuál es la fórmula de la variación porcentual?</h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>(Valor final − valor inicial) ÷ valor inicial × 100. Un resultado positivo es un aumento y uno negativo, una disminución.</p><div class ="vb-ads">
+
+
+</div>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name">¿Puedo quitar el IVA restando el 19 %?</h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No. El precio sin IVA se obtiene dividiendo el precio con IVA por 1,19. Restar el 19 % da un valor menor al correcto.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name">¿Dos descuentos del 10 % equivalen a uno del 20 %?</h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No. Equivalen a un descuento del 19 %, porque el segundo 10 % se aplica sobre un valor ya rebajado: 0,90 × 0,90 = 0,81.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name">¿Qué diferencia hay entre un aumento del 2 % y uno de 2 puntos porcentuales?</h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Una tasa del 10 % que sube 2 puntos porcentuales queda en el 12 %; si sube un 2 %, queda en el 10,2 %.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name">¿Cómo calculo un porcentaje en Excel?</h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Con la fórmula =A1*B1/100, si en A1 está el valor y en B1 el porcentaje escrito como número. La calculadora muestra la fórmula de cada operación para copiarla.</p>
+</div></div></div></div>
+<aside class="ads-gerencie"
+           data-producto="3"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidadores-laborales">Liquidadores Laborales</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/liquidadores-laborales"
+               aria-label="Calcular ahora: Liquidadores Laborales">Calcular ahora</a>
+            </aside></p>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Finanzas y Contabilidad</span>
+      <a href="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-de-porcentajes.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calculadora de cesantías [Gerencie.com] — Finanzas y Contabilidad</title>
+  <meta name="description" content="Calcule las cesantías por fechas o por días, con auxilio de transporte, salario variable y licencias, y conozca cómo se liquidan y cuándo se pagan.">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Calculadora de cesantías [Gerencie.com]">
+  <meta property="og:description" content="Calcule las cesantías por fechas o por días, con auxilio de transporte, salario variable y licencias, y conozca cómo se liquidan y cuándo se pagan.">
+  <meta property="og:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-de-cesantias.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-de-cesantias.html">
+  <meta property="og:site_name" content="Finanzas y Contabilidad">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Calculadora de cesantías [Gerencie.com]">
+  <meta name="twitter:description" content="Calcule las cesantías por fechas o por días, con auxilio de transporte, salario variable y licencias, y conozca cómo se liquidan y cuándo se pagan.">
+  <meta name="twitter:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-de-cesantias.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-de-cesantias.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.1rem;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .action-bar {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .action-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .action-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+    }
+    .article-content th, .article-content td {
+      padding: 8px 12px;
+      border: 1px solid #30363d;
+    }
+    .article-content th {
+      background: #161b22;
+      color: #f0f6fc;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="brand">
+        <span>💼 Finanzas y Contabilidad</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Calculadora de cesantías [Gerencie.com]</h1>
+        <div class="metadata">
+          <span>Por <strong>Gerencie.com</strong></span>
+          <time datetime="2026-10-26T12:30:49+00:00">2026-10-26</time>
+        </div>
+
+        <p><img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-de-cesantias.jpg" alt="Calculadora de cesantías [Gerencie.com]"></p>
+
+        <div class="action-bar">
+  <a href="https://www.gerencie.com/calculadora-de-cesantias.html" target="_blank" rel="noopener noreferrer" class="action-button">▶ Leer artículo completo en Gerencie.com ↗</a>
+</div>
+
+        <div class="article-content">
+          <p><em>Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad</em></p>
+</details></div><p>Las cesantías equivalen a <strong>un mes de salario por cada año de trabajo</strong> y proporcionalmente por fracción de año, según el artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr008.html#249" target="_blank" rel="noopener noreferrer">249</a> del Código Sustantivo del Trabajo. Esta calculadora las liquida con el salario y el tiempo trabajado: cuenta los días entre dos fechas con el año comercial de 360 días, agrega el auxilio de transporte cuando corresponde, promedia el salario variable y divide por año los periodos largos. ¿Cuánto le corresponde de cesantías?</p>
+		<div class="csx" id="csx1" data-tipo="anual">
+			<div class="csx-head">
+				<div class="csx-head-t">
+					<span class="csx-titulo">Cesantías</span>
+					<span class="csx-sub">Un mes de salario por cada año de servicio (art. 249 CST)</span>
+				</div>
+				<div class="csx-head-b">
+					<button type="button" class="csx-btn csx-btn-sec csx-btn-sm" data-csx="ejemplo"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span>Cargar ejemplo</span></button>
+					<button type="button" class="csx-btn csx-btn-link csx-btn-sm" data-csx="limpiar"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg><span>Limpiar</span></button>
+				</div>
+			</div>
+
+			<div class="csx-tabs" role="tablist" aria-label="¿Para qué liquida las cesantías?">
+									<button type="button" class="csx-tab" role="tab" data-tab="anual" aria-selected="true"><b>Corte anual</b><small>A 31 de diciembre, contrato vigente</small></button>
+									<button type="button" class="csx-tab" role="tab" data-tab="fin" aria-selected="false"><b>Terminación</b><small>Al terminar el contrato</small></button>
+									<button type="button" class="csx-tab" role="tab" data-tab="parcial" aria-selected="false"><b>Liquidación parcial</b><small>Para vivienda o educación</small></button>
+							</div>
+
+			<form class="csx-form" data-csx-form autocomplete="off" novalidate>
+				<label class="csx-check csx-integral"><input type="checkbox" data-f="integral"><span>El trabajador tiene salario integral</span></label>
+
+				<div data-w="datos">
+					<div class="csx-sec">
+						<div class="csx-sec-t"><span class="csx-nsec"></span>Tiempo trabajado</div>
+						<div class="csx-seg" role="radiogroup"><label><input type="radio" name="csx1-modo" value="fechas" data-f="modo" checked><span>Con las fechas del periodo</span></label><label><input type="radio" name="csx1-modo" value="dias" data-f="modo"><span>Con el número de días</span></label></div>						<div class="csx-grid" data-w="fechas">
+							<label class="csx-campo"><span>Fecha inicial del periodo</span><input type="date" class="csx-in" data-f="f1" value="2026-01-01"><small class="csx-ayuda">El inicio del contrato, o el 1 de enero si las del año anterior ya se liquidaron.</small></label>
+							<label class="csx-campo"><span>Fecha final del periodo</span><input type="date" class="csx-in" data-f="f2" value="2026-12-31"><small class="csx-ayuda" data-gsd-f2>El 31 de diciembre, la terminación del contrato o la fecha de la liquidación parcial.</small></label>
+						</div>
+						<div class="csx-grid" data-w="dias">
+							<label class="csx-campo"><span>Días trabajados <small class="csx-opc">año de 360</small></span><input type="text" inputmode="numeric" class="csx-in" data-f="dias" placeholder="Ej: 360"></label>
+							<label class="csx-campo"><span>Año al que corresponden</span><input type="text" inputmode="numeric" class="csx-in" data-f="anio" value="2026"></label>
+						</div>
+						<div class="csx-grid csx-sep">
+							<label class="csx-campo"><span>Días de licencia no remunerada o suspensión <small class="csx-opc">se descuentan</small></span><input type="text" inputmode="numeric" class="csx-in" data-f="desc" placeholder="0"></label>
+						</div>
+					</div>
+
+					<div class="csx-sec">
+						<div class="csx-sec-t"><span class="csx-nsec"></span>Salario</div>
+						<div class="csx-seg" role="radiogroup"><label><input type="radio" name="csx1-tsal" value="fijo" data-f="tsal" checked><span>Fijo</span></label><label><input type="radio" name="csx1-tsal" value="var" data-f="tsal"><span>Variable o cambió en los últimos tres meses</span></label></div>						<div class="csx-grid" data-w="fijo">
+							<label class="csx-campo"><span>Salario mensual</span><input type="text" inputmode="decimal" class="csx-in" data-f="sal" data-num placeholder="Ej: 2.500.000"><small class="csx-ayuda">Todo lo que es salario: básico, horas extras, recargos, comisiones y especie. Sin el auxilio de transporte.</small></label>
+						</div>
+						<div data-w="var">
+							<label class="csx-campo"><span>Lo devengado en cada mes del último año (o del tiempo servido si es menor), uno por línea</span><textarea class="csx-in csx-ta" data-f="prom" rows="5" placeholder="2.400.000&#10;2.650.000&#10;2.500.000"></textarea><small class="csx-ayuda">El salario base es el promedio (art. 253 CST). Máximo 12 meses.</small></label>
+						</div>
+						<div class="csx-grid csx-sep">
+							<label class="csx-campo"><span>Auxilio de transporte</span>
+								<select class="csx-in" data-f="aux">
+									<option value="auto">Automático: si el salario no supera dos mínimos</option>
+									<option value="si">Sí tiene derecho</option>
+									<option value="no">No tiene derecho (por ejemplo, vive en el sitio de trabajo)</option>
+								</select>
+							</label>
+						</div>
+					</div>
+				</div>
+
+				<div class="csx-err" data-csx-err role="alert" hidden></div>
+				<div class="csx-acc">
+					<button type="submit" class="csx-btn csx-btn-pri"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="5" y="2" width="14" height="20" rx="2"/><path d="M8 6h8M8 11h2M14 11h2M8 15h2M14 15h2M8 19h2M14 19h2"/></svg><span>Calcular cesantías</span></button>
+				</div>
+			</form>
+
+			<div class="csx-res" data-csx-res aria-live="polite" hidden></div>
+		</div>
+		
+<h2><span id="Como_usar_la_calculadora">Cómo usar la calculadora.</span></h2>
+<p>La calculadora pide los siguientes datos:</p>
+<ul>
+<li><strong>Para qué liquida las cesantías.</strong> El corte anual a 31 de diciembre con el contrato vigente, la terminación del contrato o una liquidación parcial para vivienda o educación. Según el caso, el resultado indica si se consignan en el fondo o se pagan al trabajador.</li>
+<li><strong>Tiempo trabajado.</strong> Las fechas inicial y final del periodo, o directamente el número de días. La fecha inicial es el primer día trabajado del periodo: el inicio del contrato o el 1 de enero, si las cesantías del año anterior ya se liquidaron. La final es el 31 de diciembre, la de terminación del contrato o la de la liquidación parcial.</li>
+<li><strong>Licencias no remuneradas y suspensiones.</strong> Los días en que el contrato estuvo suspendido, que se descuentan del tiempo trabajado.</li>
+<li><strong>Salario mensual.</strong> Todo lo que constituye salario: básico, horas extras, recargos, comisiones y pagos en especie. Si el salario es variable, marque la casilla y escriba lo devengado en cada mes del último año.</li>
+<li><strong>Auxilio de transporte.</strong> En modo automático se suma cuando el salario no supera dos salarios mínimos, con el valor del año que se liquida.</li>
+</ul>
+<p>Si el trabajador tiene salario integral, basta marcar la casilla: no hay cesantías, porque ese salario ya las compensa.</p>
+<aside class="ads-gerencie"
+           data-producto="3"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidadores-laborales">Liquidadores Laborales</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/liquidadores-laborales"
+               aria-label="Calcular ahora: Liquidadores Laborales">Calcular ahora</a>
+            </aside><h2><span id="Como_se_calculan_las_cesantias">Cómo se calculan las cesantías.</span></h2>
+<p>Las cesantías se calculan multiplicando el salario mensual por los días trabajados y dividiendo el resultado entre 360:</p>
+<pre><code>Cesantías = salario mensual × días trabajados ÷ 360</code></pre>
+<p>Para un año completo, el resultado es un mes de salario. La base, los conceptos que la integran y los casos especiales los explicamos en <a href="https://www.gerencie.com/como-se-liquidan-las-cesantias.html">¿cómo se liquidan las cesantías?</a></p>
+<h3><span id="Cuanto_son_las_cesantias_de_un_ano">Cuánto son las cesantías de un año.</span></h3>
+<p>Supongamos un trabajador que devenga el salario mínimo de 2026, $1.750.905, y trabajó el año completo. Como tiene derecho al auxilio de transporte de $249.095, la base es de $2.000.000:</p>
+<p>$2.000.000 × 360 ÷ 360 = <strong>$2.000.000</strong></p>
+<p>Si trabajó seis meses, 180 días, las cesantías son de <strong>$1.000.000</strong>.</p>
+<h3><span id="Como_se_cuentan_los_dias_entre_dos_fechas">Cómo se cuentan los días entre dos fechas.</span></h3>
+<p>En materia laboral los meses se cuentan de 30 días y el año de 360. Por eso, entre el 1 de enero y el 31 de diciembre hay 360 días, febrero completo cuenta 30 días y el día 31 no suma un día adicional. La fecha inicial y la final se cuentan ambas.</p>
+<p>Supongamos un contrato que empezó el 15 de marzo de 2025 con un salario de $4.000.000, sin auxilio de transporte por superar dos salarios mínimos. Al 31 de diciembre trabajó:</p>
+<ul>
+<li>Marzo: del 15 al 30, <strong>16 días</strong>.</li>
+<li>Abril a diciembre: 9 meses × 30, <strong>270 días</strong>.</li>
+<li>Total: <strong>286 días</strong>.</li>
+</ul>
+<p>Las cesantías son $4.000.000 × 286 ÷ 360 = <strong>$3.177.778</strong>.</p>
+<h3><span id="Salario_variable">Salario variable.</span></h3>
+<p>Cuando el salario es variable, o cambió en los últimos tres meses, la base es el promedio de lo devengado en el último año o en todo el tiempo servido si es menor, según el artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr008.html#253" target="_blank" rel="noopener noreferrer">253</a> del Código Sustantivo del Trabajo:</p>
+<p>««1. Para liquidar el auxilio de cesantía se toma como base el último salario mensual devengado por el trabajador, siempre que no haya tenido variación en los tres (3) últimos meses. En el caso contrario y en el de los salarios variables, se tomará como base el promedio de lo devengado en el último año de servicio o en todo el tiempo servido si fuere menor de un año.»»</p>
+<p>Por eso, si el trabajador recibe comisiones o recibió un aumento hace un mes, la calculadora debe usarse con la opción de salario variable y lo devengado en cada mes.</p>
+<h3><span id="Los_intereses_sobre_las_cesantias">Los intereses sobre las cesantías.</span></h3>
+<p>Además de las cesantías, el empleador paga al trabajador intereses del <strong>12 % anual</strong>, proporcionales al tiempo trabajado: cesantías × días × 12 % ÷ 360. En el ejemplo del contrato que empezó el 15 de marzo, los intereses son $3.177.778 × 286 × 12 % ÷ 360 = <strong>$302.948</strong>. La calculadora los muestra como referencia; para liquidarlos con abonos o retiros parciales use la <a href="https://www.gerencie.com/calculadora-intereses-de-cesantias.html">calculadora de intereses de cesantías</a>.</p><div class ="vb-ads">
+
+
+</div>
+<h2><span id="Cuando_se_consignan_o_se_pagan_las_cesantias">Cuándo se consignan o se pagan las cesantías.</span></h2>
+<p>Con el contrato vigente, las cesantías liquidadas a 31 de diciembre se consignan en el fondo que elija el trabajador antes del <strong>15 de febrero</strong> del año siguiente, según el artículo <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=281#99" target="_blank" rel="noopener noreferrer">99</a> de la Ley 50 de 1990, y los intereses se le pagan directamente a más tardar el <strong>31 de enero</strong>. Al terminar el contrato, las cesantías del último periodo se pagan directamente al trabajador con la liquidación.</p>
+<p>Si el empleador no las consigna a tiempo, debe un día de salario por cada día de retardo, según explicamos en la <a href="https://www.gerencie.com/sancion-moratoria-por-no-consignar-cesantias.html">sanción moratoria por no consignar cesantías</a>. Las fechas exactas, incluidos los casos de fin de semana, están en <a href="https://www.gerencie.com/plazo-para-consignar-las-cesantias.html">¿cuándo se pagan las cesantías?</a>, y lo demás sobre quién tiene derecho, el fondo y el retiro, en el artículo sobre el <a href="https://www.gerencie.com/auxilio-de-cesantias.html">auxilio de cesantías</a>.</p>
+<p>Para liquidar al mismo tiempo la prima, las vacaciones y la indemnización al terminar el contrato, use el <a href="https://www.gerencie.com/liquidador-de-contrato-de-trabajo-en-linea.html">liquidador de contrato de trabajo</a>.</p>
+<div class="pf"><h2><span id="Preguntas_frecuentes">Preguntas frecuentes.</span></h2></div>
+<p>A continuación respondemos las preguntas frecuentes de nuestros lectores.</p>
+<div class="faq-container" itemscope itemtype="https://schema.org/FAQPage"><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Cuanto_son_las_cesantias_de_un_ano-2">¿Cuánto son las cesantías de un año?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Un mes de salario, incluido el auxilio de transporte cuando el trabajador tiene derecho a él. Con el salario mínimo de 2026, son $2.000.000.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Cuanto_son_las_cesantias_de_4_meses">¿Cuánto son las cesantías de 4 meses?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>El salario mensual × 120 ÷ 360, es decir, un tercio del salario. Con el salario mínimo de 2026 y auxilio de transporte, son $666.667.</p><div class ="vb-ads">
+
+
+</div>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Las_cesantias_se_calculan_con_360_o_con_365_dias">¿Las cesantías se calculan con 360 o con 365 días?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Con 360. En materia laboral el año se cuenta de 360 días y los meses de 30, de modo que un año completo da exactamente un mes de salario.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="El_auxilio_de_transporte_se_incluye_en_las_cesantias">¿El auxilio de transporte se incluye en las cesantías?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Sí. Para quien tiene derecho a él, porque devenga hasta dos salarios mínimos, el auxilio de transporte forma parte de la base de las cesantías.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Las_licencias_no_remuneradas_se_descuentan_de_las_cesantias">¿Las licencias no remuneradas se descuentan de las cesantías?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Sí. Durante la suspensión del contrato no corre el tiempo para las cesantías, según el artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr001.html#53" target="_blank" rel="noopener noreferrer">53</a> del Código Sustantivo del Trabajo, de modo que esos días se restan del tiempo trabajado.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Quien_tiene_salario_integral_recibe_cesantias">¿Quien tiene salario integral recibe cesantías?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No. El salario integral ya compensa las prestaciones sociales, entre ellas las cesantías y sus intereses.</p>
+</div></div></div></div>
+<aside class="ads-gerencie"
+           data-producto="14"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/guia-laboral">Guía Laboral 2026</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/guia-laboral"
+               aria-label="Ver la guía: Guía Laboral 2026">Ver la guía</a>
+            </aside></p>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Finanzas y Contabilidad</span>
+      <a href="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-de-cesantias.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
