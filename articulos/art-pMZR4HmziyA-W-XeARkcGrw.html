@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>God&#x27;s Eye View: la herramienta open source que reconstruye accidentes aéreos en 4D fusionando ADS-B, radar, satélites y audio ATC — Frame &amp; Prompt</title>
+  <meta name="description" content="Bilawal Sidhu demuestra con el caso del Learjet 60 en Palm Beach cómo sincronizar múltiples fuentes de datos para crear una vista de Dios del siniestro: 35,000 pies a tierra en 78 segundos, audio ATC alineado con telemetría ADS-B, radar NEXRAD, satélite GOES-19 y una capa artística de nubes y rayos.">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="God&#x27;s Eye View: la herramienta open source que reconstruye accidentes aéreos en 4D fusionando ADS-B, radar, satélites y audio ATC">
+  <meta property="og:description" content="Bilawal Sidhu demuestra con el caso del Learjet 60 en Palm Beach cómo sincronizar múltiples fuentes de datos para crear una vista de Dios del siniestro: 35,000 pies a tierra en 78 segundos, audio ATC alineado con telemetría ADS-B, radar NEXRAD, satélite GOES-19 y una capa artística de nubes y rayos.">
+  <meta property="og:image" content="https://i.ytimg.com/vi/W-XeARkcGrw/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-pMZR4HmziyA-W-XeARkcGrw.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="God&#x27;s Eye View: la herramienta open source que reconstruye accidentes aéreos en 4D fusionando ADS-B, radar, satélites y audio ATC">
+  <meta name="twitter:description" content="Bilawal Sidhu demuestra con el caso del Learjet 60 en Palm Beach cómo sincronizar múltiples fuentes de datos para crear una vista de Dios del siniestro: 35,000 pies a tierra en 78 segundos, audio ATC alineado con telemetría ADS-B, radar NEXRAD, satélite GOES-19 y una capa artística de nubes y rayos.">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/W-XeARkcGrw/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-pMZR4HmziyA-W-XeARkcGrw.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #1f2328;
+      --text-muted: #656d76;
+      --accent: #0969da;
+      --border: #d0d7de;
+      --quote-bg: #f6f8fa;
+      --card-bg: #f8fafc;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --text: #e6edf3;
+        --text-muted: #8b949e;
+        --accent: #58a6ff;
+        --border: #30363d;
+        --quote-bg: #161b22;
+        --card-bg: #161b22;
+      }
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.65;
+      padding: 1.5rem 1rem 4rem;
+    }
+    .container {
+      max-width: 760px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 1rem;
+      margin-bottom: 2rem;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.88rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.3;
+      margin-bottom: 1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+    .metadata {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 1rem;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin-bottom: 1.5rem;
+    }
+    .metadata strong {
+      color: var(--text);
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      margin-bottom: 1.75rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 0.9rem;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      text-decoration: none;
+      font-size: 0.88rem;
+      font-weight: 500;
+      transition: background 0.15s ease;
+    }
+    .yt-button:hover {
+      background: var(--quote-bg);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .article-content {
+      font-family: Georgia, Cambria, "Times New Roman", serif;
+      font-size: 1.1rem;
+      line-height: 1.75;
+    }
+    .article-content p {
+      margin-bottom: 1.3rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin-top: 2rem;
+      margin-bottom: 0.6rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: var(--quote-bg);
+      border-left: 4px solid var(--accent);
+      padding: 1rem 1.25rem;
+      margin: 1.4rem 0;
+      border-radius: 0 6px 6px 0;
+      font-style: normal;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 1rem;
+      color: var(--text);
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.5rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.5rem;
+    }
+    .article-content a {
+      color: var(--accent);
+      text-decoration: underline;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>Frame &amp; Prompt — IA Audiovisual</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">God&#x27;s Eye View: la herramienta open source que reconstruye accidentes aéreos en 4D fusionando ADS-B, radar, satélites y audio ATC</h1>
+        <div class="metadata">
+          <span>Por <strong>Bilawal Sidhu</strong></span>
+          <time datetime='2026-11-02T17:02:19.083393-05:00'>2026-11-02</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/W-XeARkcGrw" title="God&#x27;s Eye View: la herramienta open source que reconstruye accidentes aéreos en 4D fusionando ADS-B, radar, satélites y audio ATC" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=W-XeARkcGrw" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Bilawal Sidhu demuestra con el caso del Learjet 60 en Palm Beach cómo sincronizar múltiples fuentes de datos para crear una vista de Dios del siniestro: 35,000 pies a tierra en 78 segundos, audio ATC alineado con telemetría ADS-B, radar NEXRAD, satélite GOES-19 y una capa artística de nubes y rayos. God&#x27;s Eye View, publicada bajo licencia MIT, no explica la causa —eso le corresponde a la NTSB— pero establece un nuevo estándar para el periodismo forense y el análisis OSINT.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Bilawal Sidhu</strong>: <a href="https://www.youtube.com/watch?v=pMZR4HmziyA" target="_blank" rel="noopener">Florida Learjet Crash - Second by Second 3D Replay with ATC audio | God&#x27;s Eye View</a> · <strong>Bilawal Sidhu</strong> (Short): <a href="https://www.youtube.com/shorts/W-XeARkcGrw" target="_blank" rel="noopener">Palm Beach Learjet Crash - 3D Reconstruction of What We Know So Far in God’s Eye View</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El accidente que motivó la herramienta: 78 segundos de descenso fatal</h3>
+<p>El 1 de noviembre de 2026, un Learjet 60 con matrícula N722BD se estrelló en el condado de Palm Beach, Florida, durante una línea de tormentas. La reconstrucción de Bilawal Sidhu, publicada en su canal de YouTube, muestra que la aeronave pasó de 35,000 pies a tierra en solo 78 segundos. Antes del impacto, la tripulación reportó turbulencia moderada, hielo claro ligero y precipitación al control de tráfico aéreo (ATC) de Miami, y solicitó ascender a 37,000 pies. Menos de 30 segundos después se produjo el descenso y el mayday; alrededor de las 12:48 la tripulación reportó condición de overspeed. Las tasas de descenso reportadas fueron de 8,000, 10,000, 20,000 y 22,000 pies por minuto, con una inclinación de 60 grados. La temperatura de aire exterior reportada era de -47 °C. Nueve personas fallecieron y unas 600 resultaron desplazadas, según CBS12. Los restos se dispersaron en aproximadamente media milla y una persona en tierra resultó herida. La NTSB investiga el siniestro y sus hallazgos iniciales apuntan a que el jet pudo desintegrarse antes del impacto, con el clima en altitud como foco principal.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">God&#x27;s Eye View: una herramienta open source para fusionar datos heterogéneos</h3>
+<p>God&#x27;s Eye View es una herramienta de código abierto, publicada bajo licencia MIT, que permite reconstrucciones 4D de eventos reales fusionando datos de ADS-B, radar meteorológico, satélite y audio ATC en una escena 3D. El proyecto está disponible en GitHub (https://github.com/bilawalsidhu/gods-eye-view) y se presenta como un recurso para inteligencia de fuentes abiertas (OSINT) y geointeligencia (GEOINT). La base del mundo 3D son los Google Photorealistic 3D Tiles, que proporcionan geolocalización realista. Para la trayectoria, altitud y velocidad se emplean datos ADS-B de adsb.lol (licencia ODbL). El radar meteorológico proviene de NOAA NEXRAD (KAMX / Level II vía Unidata en AWS), que permite reconstruir volúmenes 3D de precipitación. Los topes nubosos se obtienen de NOAA GOES-19 (ACHA / NASA GIBS) y los rayos de NOAA GOES-19 GLM (L2 LCFA vía NOAA Open Data en AWS). Los datos de costa y mapa base provienen de Natural Earth. La herramienta es escalable y permite incorporar video de dashcam y dron, como se muestra en la versión corta del video.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Sincronización milimétrica: cómo alinear el audio ATC con la telemetría</h3>
+<p>Uno de los mayores desafíos técnicos de la reconstrucción fue sincronizar la grabación real del ATC con el reloj ADS-B. Sidhu utilizó las tasas de descenso reportadas por la propia tripulación (8,000, 10,000 y 20,000 pies por minuto) como referencia de alineación temporal. De esta forma, las llamadas de radio coinciden exactamente con los momentos de descenso, ascenso y mayday. El resultado es una reproducción en tiempo real sin cortes que mantiene la fidelidad temporal del evento. Para mejorar la legibilidad visual, el autor escaló la altura del radar ×1.25 y agrandó la aeronave, dejando claro qué es dato y qué es render artístico. Además, separó explícitamente en la narrativa los datos verificables (trayectoria, radar, rayos, tiempos ATC) de la capa artística (nubes, iluminación, rayos 3D).</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Limitaciones y advertencias: una reconstrucción no es una investigación</h3>
+<p>Bilawal Sidhu insiste en que God&#x27;s Eye View muestra lo que indican los datos, no la causa del accidente. La investigación oficial corresponde a la NTSB y sus hallazgos prevalecerán sobre lo mostrado en la reconstrucción. El autor advierte que se trata de una reconstrucción de datos y no de una explicación causal. También señala que la capa de nubes y rayos es artística y no debe interpretarse como evidencia directa. En la versión corta del video, el creador califica el evento como el más visceral y desgarrador que ha visto en mucho tiempo, y recomienda omitir el audio completo del ATC si resulta perturbador, remitiendo a otras fuentes. La herramienta está diseñada para ser transparente: cada capa de datos se puede rastrear hasta su fuente original.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Impacto y aplicaciones: del periodismo forense a la inteligencia de fuentes abiertas</h3>
+<p>La reconstrucción de Sidhu demuestra el potencial de God&#x27;s Eye View para el periodismo forense y el análisis OSINT. Al fusionar ADS-B, radar, satélite y audio ATC, los investigadores pueden visualizar la secuencia de un accidente segundo a segundo y contrastar hipótesis. La herramienta es especialmente útil para eventos con múltiples fuentes de datos, como accidentes aéreos, incidentes con drones o catástrofes naturales. Su carácter open source (MIT) invita a la comunidad a enviar datos o metraje para mejorar la reconstrucción. Sidhu publica actualizaciones en su sitio web spatialintelligence.ai y en su cuenta de X (@bilawalsidhu), y el código está disponible en GitHub. La versión corta del video, titulada &#x27;Palm Beach Learjet Crash - 3D Reconstruction of What We Know So Far in God’s Eye View&#x27;, muestra la misma metodología aplicada a un resumen visual impactante, integrando video de dashcam y dron para crear una vista aérea fusionada.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Conclusión: una vista de Dios para entender lo que los datos pueden decir</h3>
+<p>God&#x27;s Eye View no resuelve el misterio del accidente del Learjet 60, pero ofrece una herramienta poderosa para visualizar y comprender la secuencia de eventos a partir de datos verificables. La combinación de ADS-B, radar NEXRAD, satélite GOES-19 y audio ATC, sincronizados con precisión, permite reconstruir 78 segundos de descenso fatal y contextualizar las decisiones de la tripulación. La licencia MIT y la documentación abierta facilitan su adopción por periodistas, investigadores y entusiastas. Como señala Sidhu, la reconstrucción muestra lo que los datos indican, no la causa; la NTSB tiene la última palabra. Pero en un mundo donde la información abunda y la atención escasea, herramientas como esta ayudan a contar historias complejas con claridad y rigor.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para sincronizar audio ATC con ADS-B, usa las tasas de descenso reportadas por la tripulación (ej. 8,000, 10,000, 20,000 ft/min) como referencias de alineación temporal.</li>
+<li>Escala la altura del radar ×1.25 y agranda la aeronave para mejorar la legibilidad visual, pero indica claramente qué es dato y qué es render artístico.</li>
+<li>Separa en la narrativa los datos verificables (trayectoria, radar, rayos, tiempos ATC) de la capa artística (nubes, iluminación, rayos 3D).</li>
+<li>God&#x27;s Eye View está bajo licencia MIT; el repositorio acepta contribuciones de datos o metraje para mejorar reconstrucciones.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://github.com/bilawalsidhu/gods-eye-view" target="_blank" rel="noopener"><strong>God&#x27;s Eye View</strong></a> — Herramienta open source (MIT) para reconstrucciones 4D de eventos reales fusionando ADS-B, radar, satélite y audio ATC en una escena 3D.</li>
+<li><strong>ADS-B (adsb.lol)</strong> — Fuente de posición, altitud y velocidad de la aeronave (licencia ODbL).</li>
+<li><strong>NOAA NEXRAD (KAMX / Level II vía Unidata en AWS)</strong> — Radar meteorológico y volúmenes 3D de precipitación para reconstruir la línea de tormentas.</li>
+<li><strong>NOAA GOES-19 (ACHA / NASA GIBS)</strong> — Datos de topes nubosos para la capa de nubes.</li>
+<li><strong>NOAA GOES-19 GLM (L2 LCFA vía NOAA Open Data en AWS)</strong> — Datos de rayos para representar la actividad eléctrica de la tormenta.</li>
+<li><strong>Google Photorealistic 3D Tiles</strong> — Base del mundo 3D georreferenciado para la escena de la reconstrucción.</li>
+<li><strong>Natural Earth</strong> — Datos de costa y mapa base.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-pMZR4HmziyA-W-XeARkcGrw.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
