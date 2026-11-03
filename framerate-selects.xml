@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>FrameRate – Curaduría y Proyectos Seleccionados</title>
-<link href="https://framerate.tv/explore?sort=selects"/>
+<link rel="alternate" href="https://framerate.tv/explore?sort=selects"/>
+<link rel="self" href="https://alvypender.github.io/feeds/framerate-selects.xml"/>
 <id>https://framerate.tv/explore?sort=selects</id>
 <updated>2026-10-29T06:00:00+00:00</updated>
 <entry>
   <title>SS#1 – CYPHER</title>
-  <link href="https://framerate.tv/watch/CYPHER/klzxCao1"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/klzxCao1"/>
   <id>https://framerate.tv/watch/klzxCao1</id>
   <published>2026-10-29T06:00:00+00:00</published>
   <updated>2026-10-29T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/38a29509-162f-4c04-850d-5b10f1a96cf5/0c191ec2-b8c3-43d4-a4a5-a00a56c67f84/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/38a29509-162f-4c04-850d-5b10f1a96cf5/0c191ec2-b8c3-43d4-a4a5-a00a56c67f84/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>CYPHER</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/aBtEGPAYCH4qkckssWXaHl01Qh2X00tJn5QW8fmd00K5fs/720p.mp4"/>
+  <media:content url="https://stream.mux.com/aBtEGPAYCH4qkckssWXaHl01Qh2X00tJn5QW8fmd00K5fs/720p.mp4" medium="video" type="video/mp4" duration="53" isDefault="true">
+    <media:player url="https://framerate.tv/embed/klzxCao1" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/38a29509-162f-4c04-850d-5b10f1a96cf5/0c191ec2-b8c3-43d4-a4a5-a00a56c67f84/thumbnail.jpg"/>
+    <media:title>SS#1 – CYPHER</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/38a29509-162f-4c04-850d-5b10f1a96cf5/0c191ec2-b8c3-43d4-a4a5-a00a56c67f84/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/38a29509-162f-4c04-850d-5b10f1a96cf5/0c191ec2-b8c3-43d4-a4a5-a00a56c67f84/thumbnail.jpg</webfeeds:featuredImage>
   <summary>As sonic artists, we often don’t have any meaningful input on the subject matter or structure of the commercial projects we design for. We wanted to find a way to create an edit that would showcase our approach to crafting music and sound design to picture, not a ‘reel’, not a ‘manifesto’, but a ser</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/38a29509-162f-4c04-850d-5b10f1a96cf5/0c191ec2-b8c3-43d4-a4a5-a00a56c67f84/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/klzxCao1" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/38a29509-162f-4c04-850d-5b10f1a96cf5/0c191ec2-b8c3-43d4-a4a5-a00a56c67f84/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/aBtEGPAYCH4qkckssWXaHl01Qh2X00tJn5QW8fmd00K5fs/720p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/aBtEGPAYCH4qkckssWXaHl01Qh2X00tJn5QW8fmd00K5fs.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/klzxCao1" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/38a29509-162f-4c04-850d-5b10f1a96cf5/0c191ec2-b8c3-43d4-a4a5-a00a56c67f84/thumbnail.jpg" alt="SS#1" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/klzxCao1" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:54)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/CYPHER"&gt;CYPHER&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:54&lt;/p&gt;
 &lt;p&gt;As sonic artists, we often don’t have any meaningful input on the subject matter or structure of the commercial projects we design for. We wanted to find a way to create an edit that would showcase our approach to crafting music and sound design to picture, not  a ‘reel’, not a ‘manifesto’, but a series of sonic studies.&lt;/p&gt;
 &lt;p&gt;This first study came out of Joseph's interest in connecting his work in sound with sewing and textiles. The starting point was a jacket he had made, which gave us direct access to the fabrics, tools and machines involved in its construction, both as visual subjects and as sources for recording.&lt;/p&gt;
@@ -25,532 +42,995 @@
 &lt;p&gt;As we worked through the project we found a nice relationship between sewing and sound. Each involves gathering, manipulating and assembling materials. This study gave us an opportunity to bring those practices together and experiment outside the usual constraints of a brief.&lt;/p&gt;
 &lt;p&gt;All of the designers at Cypher are makers at heart, we have spent years, decades, on the relationship between sound and motion. All of us have backgrounds in film and visual media, composition and recording arts.&lt;/p&gt;
 &lt;p&gt;John Black : Founder / Creative Director / Sound Design&lt;br /&gt;Joris van Grunsven : Original Music &lt;br /&gt;Joseph Sims : Animation / Edit / Sound Design / Mix&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/CYPHER/klzxCao1"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/klzxCao1" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Distance – Ordinary Folk</title>
-  <link href="https://framerate.tv/watch/ordinaryfolk/distance"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/Bu171cGC"/>
   <id>https://framerate.tv/watch/Bu171cGC</id>
   <published>2026-10-22T00:00:00+00:00</published>
   <updated>2026-10-22T00:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://image.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/thumbnail.jpg?time=52.666666666666664&amp;width=1920"/>
-  <media:content url="https://image.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/thumbnail.jpg?time=52.666666666666664&amp;width=1920" medium="image" type="image/jpeg"/>
+  <author><name>Ordinary Folk</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/720p.mp4"/>
+  <media:content url="https://stream.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/720p.mp4" medium="video" type="video/mp4" duration="206" isDefault="true">
+    <media:player url="https://framerate.tv/embed/Bu171cGC" width="1280" height="720"/>
+    <media:thumbnail url="https://image.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/thumbnail.jpg?time=52.666666666666664&amp;width=1920"/>
+    <media:title>Distance – Ordinary Folk</media:title>
+  </media:content>
   <media:thumbnail url="https://image.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/thumbnail.jpg?time=52.666666666666664&amp;width=1920"/>
   <webfeeds:featuredImage>https://image.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/thumbnail.jpg?time=52.666666666666664&amp;width=1920</webfeeds:featuredImage>
   <summary>Originally published in The Memory Palace by Nate DiMeo, Distance is a short-animated film that tells the story of Samuel Finley Breese Morse. His years as a painter, his personal story, and the path that led him to help shape one of the most important inventions in modern communication. This projec</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://image.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/thumbnail.jpg?time=52.666666666666664&amp;width=1920" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/Bu171cGC" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://image.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/thumbnail.jpg?time=52.666666666666664&amp;amp;width=1920" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/720p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/Bu171cGC" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://image.mux.com/Ojzk7BjK6AdgrT3CFckbLzwNcBN4jyewEMbL023oyx2g/thumbnail.jpg?time=52.666666666666664&amp;amp;width=1920" alt="Distance" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/Bu171cGC" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (3:26)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/ordinaryfolk"&gt;Ordinary Folk&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 3:26&lt;/p&gt;
 &lt;p&gt;Originally published in The Memory Palace by Nate DiMeo, Distance is a short-animated film that tells the story of Samuel Finley Breese Morse. His years as a painter, his personal story, and the path that led him to help shape one of the most important inventions in modern communication.&lt;/p&gt;
 &lt;p&gt;This project began as one of Ordinary Folk’s earliest passion pieces in 2020. It went through multiple visual explorations and experiments, guided by a long list of talented collaborators. The final film contains more than 900 hand-painted frames moving together to “create illusions of space and distance, to learn how to conjure the ineffable through the mere aggregation of lines and dots and stretch canvas.”&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/ordinaryfolk/distance"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/Bu171cGC" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Coffee Foundation - Manifesto – Studio IANUS</title>
-  <link href="https://framerate.tv/watch/IANUS/Ne7r10fH"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/Ne7r10fH"/>
   <id>https://framerate.tv/watch/Ne7r10fH</id>
   <published>2026-10-20T06:00:00+00:00</published>
   <updated>2026-10-20T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://image.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/thumbnail.jpg?time=2.391185&amp;width=1920"/>
-  <media:content url="https://image.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/thumbnail.jpg?time=2.391185&amp;width=1920" medium="image" type="image/jpeg"/>
+  <author><name>Studio IANUS</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/1080p.mp4" medium="video" type="video/mp4" duration="100" isDefault="true">
+    <media:player url="https://framerate.tv/embed/Ne7r10fH" width="1280" height="720"/>
+    <media:thumbnail url="https://image.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/thumbnail.jpg?time=2.391185&amp;width=1920"/>
+    <media:title>Coffee Foundation - Manifesto – Studio IANUS</media:title>
+  </media:content>
   <media:thumbnail url="https://image.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/thumbnail.jpg?time=2.391185&amp;width=1920"/>
   <webfeeds:featuredImage>https://image.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/thumbnail.jpg?time=2.391185&amp;width=1920</webfeeds:featuredImage>
   <summary>Video Manifesto for Coffee Foundation, a non-profit organization that sells coffee to promote mental health awareness, aiming to foster connections among people and normalize diversity, all through the simple act of sharing a cup of coffee. Creative Direction: Paolo Vedramini Video Production: Studi</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://image.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/thumbnail.jpg?time=2.391185&amp;width=1920" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/Ne7r10fH" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://image.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/thumbnail.jpg?time=2.391185&amp;amp;width=1920" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/Ne7r10fH" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://image.mux.com/EtI006qbPXb6Ffv50000c00pWHRZknp7J019lqVziAldLtgE/thumbnail.jpg?time=2.391185&amp;amp;width=1920" alt="Coffee Foundation - Manifesto" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/Ne7r10fH" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:40)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/IANUS"&gt;Studio IANUS&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:40&lt;/p&gt;
 &lt;p&gt;Video Manifesto for Coffee Foundation, a non-profit organization that sells coffee to promote mental health awareness, aiming to foster connections among people and normalize diversity, all through the simple act of sharing a cup of coffee.&lt;/p&gt;
 &lt;p&gt;Creative Direction: Paolo Vedramini&lt;br /&gt;Video Production: Studio IANUS&lt;br /&gt;Illustration: Studio IANUS&lt;br /&gt;Copywriting: Marco Bottini&lt;br /&gt;Voice Over: VoxFarm&lt;br /&gt;Music &amp; SFX: Dsorderless&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/IANUS/Ne7r10fH"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/Ne7r10fH" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Araldica — Sound-design motion system – illo</title>
-  <link href="https://framerate.tv/watch/illotv/iPm5EQcW"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/iPm5EQcW"/>
   <id>https://framerate.tv/watch/iPm5EQcW</id>
   <published>2026-10-15T06:00:00+00:00</published>
   <updated>2026-10-15T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/76f865c6-2916-4cf2-a177-c1d1f9e139d2/d71d8ef1-ca87-4767-a8b6-46a61e40775a/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/76f865c6-2916-4cf2-a177-c1d1f9e139d2/d71d8ef1-ca87-4767-a8b6-46a61e40775a/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>illo</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/flKGbh7RZOdEZrcUXMSHJlxXDEeWqv9WdNDBdVc01c7E/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/flKGbh7RZOdEZrcUXMSHJlxXDEeWqv9WdNDBdVc01c7E/1080p.mp4" medium="video" type="video/mp4" duration="60" isDefault="true">
+    <media:player url="https://framerate.tv/embed/iPm5EQcW" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/76f865c6-2916-4cf2-a177-c1d1f9e139d2/d71d8ef1-ca87-4767-a8b6-46a61e40775a/thumbnail.jpg"/>
+    <media:title>Araldica — Sound-design motion system – illo</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/76f865c6-2916-4cf2-a177-c1d1f9e139d2/d71d8ef1-ca87-4767-a8b6-46a61e40775a/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/76f865c6-2916-4cf2-a177-c1d1f9e139d2/d71d8ef1-ca87-4767-a8b6-46a61e40775a/thumbnail.jpg</webfeeds:featuredImage>
   <summary>Araldica is illo's internal R&amp;D project: a sound-reactive motion system built around heraldry, designed to scale across formats and stay in tune with the music, or even create it. In January 2026, the studio took heraldry as a personal brief, and one video came out of it: sharp, rhythmic, screened a</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/76f865c6-2916-4cf2-a177-c1d1f9e139d2/d71d8ef1-ca87-4767-a8b6-46a61e40775a/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/iPm5EQcW" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/76f865c6-2916-4cf2-a177-c1d1f9e139d2/d71d8ef1-ca87-4767-a8b6-46a61e40775a/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/flKGbh7RZOdEZrcUXMSHJlxXDEeWqv9WdNDBdVc01c7E/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/flKGbh7RZOdEZrcUXMSHJlxXDEeWqv9WdNDBdVc01c7E.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/iPm5EQcW" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/76f865c6-2916-4cf2-a177-c1d1f9e139d2/d71d8ef1-ca87-4767-a8b6-46a61e40775a/thumbnail.jpg" alt="Araldica — Sound-design motion system" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/iPm5EQcW" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:00)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/illotv"&gt;illo&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:00&lt;/p&gt;
 &lt;p&gt;Araldica is illo's internal R&amp;D project: a sound-reactive motion system built around heraldry, designed to scale across formats and stay in tune with the music, or even create it.&lt;/p&gt;
 &lt;p&gt;In January 2026, the studio took heraldry as a personal brief, and one video came out of it: sharp, rhythmic, screened at OFFF Barcelona, entirely built in Cavalry. Around the same time, we were deep into a project for a major international music player (whose name, contractually, we're not allowed to even think too loudly), and working so closely with sound changed how we read that video: it moved like music.&lt;/p&gt;
 &lt;p&gt;So we built a motion toolkit around it, a single visual system born from heraldic colour and pattern, from deep greens and sharp yellows to checkered geometries, reshaped to move in time with sound. From a playlist cover to a single track's artwork, from an in-app visual player to full video mapping on a wall, everything scales from the same source, the palette and pattern language staying recognisably heraldic at every size and format.&lt;/p&gt;
 &lt;p&gt;Inside the toolkit, two generative tools push it further. One turns sound into image: a track goes in, and its rhythm, genre and length shape a live animated visual, with a dedicated podcast mode where a coiling, serpent-like line shifts colour with every change of speaker. The other reverses it entirely: working in TouchDesigner, we scan the original Araldica footage colour by colour, translating it into music through Ableton.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/illotv/iPm5EQcW"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/iPm5EQcW" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>JP Morgan - Cashflow Campaign 2026 - Reel – NotReal</title>
-  <link href="https://framerate.tv/watch/NotReal/brN7qlY2"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/brN7qlY2"/>
   <id>https://framerate.tv/watch/brN7qlY2</id>
   <published>2026-10-13T06:00:00+00:00</published>
   <updated>2026-10-13T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/80759a11-3d6f-4302-9106-b21b43421837/f8f667ff-d50b-48c8-9aac-0d671c159d57/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/80759a11-3d6f-4302-9106-b21b43421837/f8f667ff-d50b-48c8-9aac-0d671c159d57/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>NotReal</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/bsm027ut86LVKbCZf128M4kubsq5F02Qs02xXZdK9ymuL8/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/bsm027ut86LVKbCZf128M4kubsq5F02Qs02xXZdK9ymuL8/1080p.mp4" medium="video" type="video/mp4" duration="41" isDefault="true">
+    <media:player url="https://framerate.tv/embed/brN7qlY2" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/80759a11-3d6f-4302-9106-b21b43421837/f8f667ff-d50b-48c8-9aac-0d671c159d57/thumbnail.jpg"/>
+    <media:title>JP Morgan - Cashflow Campaign 2026 - Reel – NotReal</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/80759a11-3d6f-4302-9106-b21b43421837/f8f667ff-d50b-48c8-9aac-0d671c159d57/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/80759a11-3d6f-4302-9106-b21b43421837/f8f667ff-d50b-48c8-9aac-0d671c159d57/thumbnail.jpg</webfeeds:featuredImage>
   <summary>Proyecto seleccionado por FrameRate: JP Morgan - Cashflow Campaign 2026 - Reel</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/80759a11-3d6f-4302-9106-b21b43421837/f8f667ff-d50b-48c8-9aac-0d671c159d57/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/brN7qlY2" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/80759a11-3d6f-4302-9106-b21b43421837/f8f667ff-d50b-48c8-9aac-0d671c159d57/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/bsm027ut86LVKbCZf128M4kubsq5F02Qs02xXZdK9ymuL8/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/bsm027ut86LVKbCZf128M4kubsq5F02Qs02xXZdK9ymuL8.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/brN7qlY2" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/80759a11-3d6f-4302-9106-b21b43421837/f8f667ff-d50b-48c8-9aac-0d671c159d57/thumbnail.jpg" alt="JP Morgan - Cashflow Campaign 2026 - Reel" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/brN7qlY2" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:42)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/NotReal"&gt;NotReal&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:42&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/NotReal/brN7qlY2"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/brN7qlY2" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>"MOTION PLUS DESIGN NEW YORK" OPENING TITLES – Yeti Pictures</title>
-  <link href="https://framerate.tv/watch/Yeti_Pictures/e6U5mEBo"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/e6U5mEBo"/>
   <id>https://framerate.tv/watch/e6U5mEBo</id>
   <published>2026-10-08T06:00:00+00:00</published>
   <updated>2026-10-08T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://image.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/thumbnail.jpg?time=33.916666666666664&amp;width=1920"/>
-  <media:content url="https://image.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/thumbnail.jpg?time=33.916666666666664&amp;width=1920" medium="image" type="image/jpeg"/>
+  <author><name>Yeti Pictures</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/1080p.mp4" medium="video" type="video/mp4" duration="80" isDefault="true">
+    <media:player url="https://framerate.tv/embed/e6U5mEBo" width="1280" height="720"/>
+    <media:thumbnail url="https://image.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/thumbnail.jpg?time=33.916666666666664&amp;width=1920"/>
+    <media:title>"MOTION PLUS DESIGN NEW YORK" OPENING TITLES – Yeti Pictures</media:title>
+  </media:content>
   <media:thumbnail url="https://image.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/thumbnail.jpg?time=33.916666666666664&amp;width=1920"/>
   <webfeeds:featuredImage>https://image.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/thumbnail.jpg?time=33.916666666666664&amp;width=1920</webfeeds:featuredImage>
   <summary>We had the absolute pleasure of creating the opening titles for the Motion Plus Design festival, taking place in New York on September 26, 2026. Inspired primarily by the urban atmosphere of a postmodern metropolis like New York, we envisioned a series of distinct worlds, rendered through a stark bl</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://image.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/thumbnail.jpg?time=33.916666666666664&amp;width=1920" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/e6U5mEBo" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://image.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/thumbnail.jpg?time=33.916666666666664&amp;amp;width=1920" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/e6U5mEBo" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://image.mux.com/u7R4ZgRmtQ8LcguYRwSt01m4IwUFPP5OtVbhJNJ00DT7A/thumbnail.jpg?time=33.916666666666664&amp;amp;width=1920" alt=""MOTION PLUS DESIGN NEW YORK" OPENING TITLES" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/e6U5mEBo" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:21)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/Yeti_Pictures"&gt;Yeti Pictures&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:21&lt;/p&gt;
 &lt;p&gt;We had the absolute pleasure of creating the opening titles for the Motion Plus Design festival, taking place in New York on September 26, 2026.&lt;/p&gt;
 &lt;p&gt;Inspired primarily by the urban atmosphere of a postmodern metropolis like New York, we envisioned a series of distinct worlds, rendered through a stark black-and-white, film-noir aesthetic.&lt;/p&gt;
 &lt;p&gt;CREDITS&lt;br /&gt;Production: Yeti Pictures&lt;br /&gt;Executive Producer: Emmanouela Makraki&lt;br /&gt;Direction &amp; Creative Direction: Tony Zagoraios&lt;br /&gt;3D Design &amp; Animation: Marios Tsaousis, Pantelis Tsiachris, Angeliki Hristoff, Eleni Margoudi, Ilias Chalkiopoulos, Argyris Nochos, Stefanos Goudouvas&lt;br /&gt;Original Music: Stratos Diamantis / Rabbeats&lt;br /&gt;Sound Design: Thodoris Kordolaimis / Rabbeats&lt;br /&gt;Mix: Thodoris Kordolaimis, Antonis Georgou / Rabbeats&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/Yeti_Pictures/e6U5mEBo"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/e6U5mEBo" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Accor - Holding on to Summer – Polvo</title>
-  <link href="https://framerate.tv/watch/polvo/1HnKvhTG"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/1HnKvhTG"/>
   <id>https://framerate.tv/watch/1HnKvhTG</id>
   <published>2026-10-06T06:00:00+00:00</published>
   <updated>2026-10-06T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/e742b20d-d685-413a-9f29-0dd41e9693eb/27feaa10-20d6-4884-a7b4-28c9df1379c3/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/e742b20d-d685-413a-9f29-0dd41e9693eb/27feaa10-20d6-4884-a7b4-28c9df1379c3/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>Polvo</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/L00OeM7aCJFgkVBUj99e7tmgs8O3f1XzN8ocE69BST6k/2160p.mp4"/>
+  <media:content url="https://stream.mux.com/L00OeM7aCJFgkVBUj99e7tmgs8O3f1XzN8ocE69BST6k/2160p.mp4" medium="video" type="video/mp4" duration="16" isDefault="true">
+    <media:player url="https://framerate.tv/embed/1HnKvhTG" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/e742b20d-d685-413a-9f29-0dd41e9693eb/27feaa10-20d6-4884-a7b4-28c9df1379c3/thumbnail.jpg"/>
+    <media:title>Accor - Holding on to Summer – Polvo</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/e742b20d-d685-413a-9f29-0dd41e9693eb/27feaa10-20d6-4884-a7b4-28c9df1379c3/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/e742b20d-d685-413a-9f29-0dd41e9693eb/27feaa10-20d6-4884-a7b4-28c9df1379c3/thumbnail.jpg</webfeeds:featuredImage>
   <summary>Summer is not over yet 🪁 New short film for Accor ! Direction &amp; Illustration: Tezo Don Lee Composer: Lilian Mille Creative Director: Adrien Pasquet Production Coordinator: Maïlys Onen Motion Designer: Harish Selvaraj Music Supevision &amp; Sound Design : GUM/ELEMENTAL Production : Polvo</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/e742b20d-d685-413a-9f29-0dd41e9693eb/27feaa10-20d6-4884-a7b4-28c9df1379c3/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/1HnKvhTG" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/e742b20d-d685-413a-9f29-0dd41e9693eb/27feaa10-20d6-4884-a7b4-28c9df1379c3/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/L00OeM7aCJFgkVBUj99e7tmgs8O3f1XzN8ocE69BST6k/2160p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/L00OeM7aCJFgkVBUj99e7tmgs8O3f1XzN8ocE69BST6k.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/1HnKvhTG" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/e742b20d-d685-413a-9f29-0dd41e9693eb/27feaa10-20d6-4884-a7b4-28c9df1379c3/thumbnail.jpg" alt="Accor - Holding on to Summer" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/1HnKvhTG" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:16)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/polvo"&gt;Polvo&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:16&lt;/p&gt;
 &lt;p&gt;Summer is not over yet 🪁&lt;br /&gt;New short film for Accor !&lt;/p&gt;
 &lt;p&gt;Direction &amp; Illustration: Tezo Don Lee &lt;br /&gt;Composer: Lilian Mille &lt;br /&gt;Creative Director: Adrien Pasquet &lt;br /&gt;Production Coordinator: Maïlys Onen&lt;br /&gt;Motion Designer: Harish Selvaraj &lt;br /&gt;Music Supevision &amp; Sound Design : GUM/ELEMENTAL &lt;br /&gt;Production : Polvo&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/polvo/1HnKvhTG"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/1HnKvhTG" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>DoorDash “Blowout Sale” – Pariah</title>
-  <link href="https://framerate.tv/watch/Pariah/WYlnq8BB"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/WYlnq8BB"/>
   <id>https://framerate.tv/watch/WYlnq8BB</id>
   <published>2026-09-30T05:00:00+00:00</published>
   <updated>2026-09-30T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://image.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/thumbnail.jpg?time=21.688355021688356&amp;width=1920"/>
-  <media:content url="https://image.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/thumbnail.jpg?time=21.688355021688356&amp;width=1920" medium="image" type="image/jpeg"/>
+  <author><name>Pariah</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/1080p.mp4" medium="video" type="video/mp4" duration="30" isDefault="true">
+    <media:player url="https://framerate.tv/embed/WYlnq8BB" width="1280" height="720"/>
+    <media:thumbnail url="https://image.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/thumbnail.jpg?time=21.688355021688356&amp;width=1920"/>
+    <media:title>DoorDash “Blowout Sale” – Pariah</media:title>
+  </media:content>
   <media:thumbnail url="https://image.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/thumbnail.jpg?time=21.688355021688356&amp;width=1920"/>
   <webfeeds:featuredImage>https://image.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/thumbnail.jpg?time=21.688355021688356&amp;width=1920</webfeeds:featuredImage>
   <summary>Proyecto seleccionado por FrameRate: DoorDash “Blowout Sale”</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://image.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/thumbnail.jpg?time=21.688355021688356&amp;width=1920" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/WYlnq8BB" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://image.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/thumbnail.jpg?time=21.688355021688356&amp;amp;width=1920" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/WYlnq8BB" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://image.mux.com/TWLXYYuRmHH5KoEOz2QZOlAoPhpdTGojejLDpF1Kx2E/thumbnail.jpg?time=21.688355021688356&amp;amp;width=1920" alt="DoorDash “Blowout Sale”" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/WYlnq8BB" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:30)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/Pariah"&gt;Pariah&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:30&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/Pariah/WYlnq8BB"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/WYlnq8BB" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Half Rez, 2026 | In Full Bloom – The Heist</title>
-  <link href="https://framerate.tv/watch/Heist/half-rez-2026"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/STWP4QdI"/>
   <id>https://framerate.tv/watch/STWP4QdI</id>
   <published>2026-09-28T06:00:00+00:00</published>
   <updated>2026-09-28T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/1e2e07dd-ee45-4b2c-9173-0b68f9c87d74/ba7361e9-66ab-42da-a156-0c98c66a423d/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/1e2e07dd-ee45-4b2c-9173-0b68f9c87d74/ba7361e9-66ab-42da-a156-0c98c66a423d/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>The Heist</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/qN02UytJurjcRG5Bj01XcOePRwVH4nwpA3BUp5vNccoQs/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/qN02UytJurjcRG5Bj01XcOePRwVH4nwpA3BUp5vNccoQs/1080p.mp4" medium="video" type="video/mp4" duration="119" isDefault="true">
+    <media:player url="https://framerate.tv/embed/STWP4QdI" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/1e2e07dd-ee45-4b2c-9173-0b68f9c87d74/ba7361e9-66ab-42da-a156-0c98c66a423d/thumbnail.jpg"/>
+    <media:title>Half Rez, 2026 | In Full Bloom – The Heist</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/1e2e07dd-ee45-4b2c-9173-0b68f9c87d74/ba7361e9-66ab-42da-a156-0c98c66a423d/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/1e2e07dd-ee45-4b2c-9173-0b68f9c87d74/ba7361e9-66ab-42da-a156-0c98c66a423d/thumbnail.jpg</webfeeds:featuredImage>
   <summary>At its core, In Full Bloom is about the distance between losing your confidence and losing yourself. We follow a small light through seasons that mirror the creative life: momentum, friction, doubt, isolation, and the gradual return of possibility. The film does not treat winter as failure, or sprin</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/1e2e07dd-ee45-4b2c-9173-0b68f9c87d74/ba7361e9-66ab-42da-a156-0c98c66a423d/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/STWP4QdI" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/1e2e07dd-ee45-4b2c-9173-0b68f9c87d74/ba7361e9-66ab-42da-a156-0c98c66a423d/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/qN02UytJurjcRG5Bj01XcOePRwVH4nwpA3BUp5vNccoQs/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/qN02UytJurjcRG5Bj01XcOePRwVH4nwpA3BUp5vNccoQs.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/STWP4QdI" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/1e2e07dd-ee45-4b2c-9173-0b68f9c87d74/ba7361e9-66ab-42da-a156-0c98c66a423d/thumbnail.jpg" alt="Half Rez, 2026 | In Full Bloom" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/STWP4QdI" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:59)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/Heist"&gt;The Heist&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:59&lt;/p&gt;
 &lt;p&gt;At its core, In Full Bloom is about the distance between losing your confidence and losing yourself. We follow a small light through seasons that mirror the creative life: momentum, friction, doubt, isolation, and the gradual return of possibility. The film does not treat winter as failure, or spring as a reward for simply enduring it. It is about learning that a difficult season is not the whole forecast. The spark is still there, even when it is harder to seen.&lt;/p&gt;
 &lt;p&gt;Case study here: https://framerate.tv/studies/mvlU1hTn&lt;br /&gt;And on our website: https://www.theheist.com/work/halfrez2026&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/Heist/half-rez-2026"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/STWP4QdI" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Built on Base44 – Yellow Fellow</title>
-  <link href="https://framerate.tv/watch/YellowFellow/0eocpWLK"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/0eocpWLK"/>
   <id>https://framerate.tv/watch/0eocpWLK</id>
   <published>2026-09-21T06:00:00+00:00</published>
   <updated>2026-09-21T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://image.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/thumbnail.jpg?time=24.116388&amp;width=1920"/>
-  <media:content url="https://image.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/thumbnail.jpg?time=24.116388&amp;width=1920" medium="image" type="image/jpeg"/>
+  <author><name>Yellow Fellow</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/1080p.mp4" medium="video" type="video/mp4" duration="68" isDefault="true">
+    <media:player url="https://framerate.tv/embed/0eocpWLK" width="1280" height="720"/>
+    <media:thumbnail url="https://image.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/thumbnail.jpg?time=24.116388&amp;width=1920"/>
+    <media:title>Built on Base44 – Yellow Fellow</media:title>
+  </media:content>
   <media:thumbnail url="https://image.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/thumbnail.jpg?time=24.116388&amp;width=1920"/>
   <webfeeds:featuredImage>https://image.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/thumbnail.jpg?time=24.116388&amp;width=1920</webfeeds:featuredImage>
   <summary>This video is a collaboration with the team at Base44 This piece follows a real story from within their customer experience team - where a late-night operational challenge led to building a custom internal tool. We approached the video as a hybrid of testimonial storytelling and motion design, combi</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://image.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/thumbnail.jpg?time=24.116388&amp;width=1920" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/0eocpWLK" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://image.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/thumbnail.jpg?time=24.116388&amp;amp;width=1920" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/0eocpWLK" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://image.mux.com/2t2PWPYF6yFa4isyBUptVGRU33jOZtJiU66pQUXwNsU/thumbnail.jpg?time=24.116388&amp;amp;width=1920" alt="Built on Base44" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/0eocpWLK" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:08)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/YellowFellow"&gt;Yellow Fellow&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:08&lt;/p&gt;
 &lt;p&gt;This video is a collaboration with the team at Base44&lt;/p&gt;
 &lt;p&gt;This piece follows a real story from within their customer experience team - where a late-night operational challenge led to building a custom internal tool. We approached the video as a hybrid of testimonial storytelling and motion design, combining the interview with full-bleed motion sequences and UI-driven visualizations to reflect the system being described.&lt;/p&gt;
 &lt;p&gt;From a creative perspective, we began by sketching the scenes in black and white - mapping out narrative structure, layouts, and key visual moments before introducing any color or branding. Once the structure was locked, we layered in Base44’s new brand language as the foundation for the visual direction.&lt;/p&gt;
 &lt;p&gt;A huge thanks to the Base44 team for their trust and collaboration.&lt;br /&gt;@maayan_tzuriel @shira.nthn @zacko @gilistoleru @eyal_bro @orianchai&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/YellowFellow/0eocpWLK"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/0eocpWLK" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Rio40º – Ordinary Folk</title>
-  <link href="https://framerate.tv/watch/ordinaryfolk/G2YO6uPm"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/G2YO6uPm"/>
   <id>https://framerate.tv/watch/G2YO6uPm</id>
   <published>2026-09-18T06:00:00+00:00</published>
   <updated>2026-09-18T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/19c8f979-2e12-43b5-a450-0299ce1b35a0/95788e8d-dc9a-41aa-a4b8-28079a08be82/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/19c8f979-2e12-43b5-a450-0299ce1b35a0/95788e8d-dc9a-41aa-a4b8-28079a08be82/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>Ordinary Folk</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/hFlpW4oMIpmwH00mMlW01EQgMF72ZjfvzCG9i19YooAE00/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/hFlpW4oMIpmwH00mMlW01EQgMF72ZjfvzCG9i19YooAE00/1080p.mp4" medium="video" type="video/mp4" duration="51" isDefault="true">
+    <media:player url="https://framerate.tv/embed/G2YO6uPm" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/19c8f979-2e12-43b5-a450-0299ce1b35a0/95788e8d-dc9a-41aa-a4b8-28079a08be82/thumbnail.jpg"/>
+    <media:title>Rio40º – Ordinary Folk</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/19c8f979-2e12-43b5-a450-0299ce1b35a0/95788e8d-dc9a-41aa-a4b8-28079a08be82/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/19c8f979-2e12-43b5-a450-0299ce1b35a0/95788e8d-dc9a-41aa-a4b8-28079a08be82/thumbnail.jpg</webfeeds:featuredImage>
   <summary>We love finding ways to collaborate with people we like, and we also love the Brazilians on our team. So when we got the chance to work with Guillaume Roux and heard he's a big Rio fan, it didn't take much convincing to make a project about summer in Rio. The heat, the Copacabana sidewalk waves, Doi</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/19c8f979-2e12-43b5-a450-0299ce1b35a0/95788e8d-dc9a-41aa-a4b8-28079a08be82/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/G2YO6uPm" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/19c8f979-2e12-43b5-a450-0299ce1b35a0/95788e8d-dc9a-41aa-a4b8-28079a08be82/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/hFlpW4oMIpmwH00mMlW01EQgMF72ZjfvzCG9i19YooAE00/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/hFlpW4oMIpmwH00mMlW01EQgMF72ZjfvzCG9i19YooAE00.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/G2YO6uPm" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/19c8f979-2e12-43b5-a450-0299ce1b35a0/95788e8d-dc9a-41aa-a4b8-28079a08be82/thumbnail.jpg" alt="Rio40º" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/G2YO6uPm" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:51)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/ordinaryfolk"&gt;Ordinary Folk&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:51&lt;/p&gt;
 &lt;p&gt;We love finding ways to collaborate with people we like, and we also love the Brazilians on our team. So when we got the chance to work with Guillaume Roux and heard he's a big Rio fan, it didn't take much convincing to make a project about summer in Rio. The heat, the Copacabana sidewalk waves, Dois Irmãos, a few capoeira moves: anything we could do to show some love to all the Cariocas, Brazilians, and summer lovers out there.&lt;/p&gt;
 &lt;p&gt;We also asked our favourite composer, Ambrose, to get a berimbau and go find his inner Brazilian. He delivered. (As always).&lt;/p&gt;
 &lt;p&gt;We hope you enjoyed your summer. And if you're on the other side of the world, we hope this gets you excited for the one coming up.&lt;/p&gt;
 &lt;p&gt;Credits:&lt;/p&gt;
 &lt;p&gt;Creative Direction: Jorge R. Canedo E., Guillaume Roux&lt;br /&gt;Art Direction: Guillaume Roux&lt;br /&gt;Animation: Ricardo Drehmer, Manuel Neto, Victor Silva, Nicholas Ferreira, Ines Delem&lt;br /&gt;Production: Stefan Green, Mona Fani&lt;br /&gt;Music &amp; SFX: Ambrose Yu&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/ordinaryfolk/G2YO6uPm"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/G2YO6uPm" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Postales del Sur – Germán Di Ciccio</title>
-  <link href="https://framerate.tv/watch/germandiciccio/dR1A466S"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/dR1A466S"/>
   <id>https://framerate.tv/watch/dR1A466S</id>
   <published>2026-09-16T06:00:00+00:00</published>
   <updated>2026-09-16T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/cbce766b-ac45-4853-806a-60550d2d4ccd/ea846640-71b2-45ea-8fe4-85ffae4c48e0/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/cbce766b-ac45-4853-806a-60550d2d4ccd/ea846640-71b2-45ea-8fe4-85ffae4c48e0/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>Germán Di Ciccio</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/zYwNedmdi02jq00SMloFNrveAK00XZpj67o5ner7AGKBQ8/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/zYwNedmdi02jq00SMloFNrveAK00XZpj67o5ner7AGKBQ8/1080p.mp4" medium="video" type="video/mp4" duration="54" isDefault="true">
+    <media:player url="https://framerate.tv/embed/dR1A466S" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/cbce766b-ac45-4853-806a-60550d2d4ccd/ea846640-71b2-45ea-8fe4-85ffae4c48e0/thumbnail.jpg"/>
+    <media:title>Postales del Sur – Germán Di Ciccio</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/cbce766b-ac45-4853-806a-60550d2d4ccd/ea846640-71b2-45ea-8fe4-85ffae4c48e0/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/cbce766b-ac45-4853-806a-60550d2d4ccd/ea846640-71b2-45ea-8fe4-85ffae4c48e0/thumbnail.jpg</webfeeds:featuredImage>
   <summary>Postales del Sur is an attempt to capture the beauty of various moments during a trip to the breathtaking landscapes of Patagonia, Argentina.​​​​​​​</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/cbce766b-ac45-4853-806a-60550d2d4ccd/ea846640-71b2-45ea-8fe4-85ffae4c48e0/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/dR1A466S" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/cbce766b-ac45-4853-806a-60550d2d4ccd/ea846640-71b2-45ea-8fe4-85ffae4c48e0/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/zYwNedmdi02jq00SMloFNrveAK00XZpj67o5ner7AGKBQ8/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/zYwNedmdi02jq00SMloFNrveAK00XZpj67o5ner7AGKBQ8.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/dR1A466S" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/cbce766b-ac45-4853-806a-60550d2d4ccd/ea846640-71b2-45ea-8fe4-85ffae4c48e0/thumbnail.jpg" alt="Postales del Sur" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/dR1A466S" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:55)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/germandiciccio"&gt;Germán Di Ciccio&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:55&lt;/p&gt;
 &lt;p&gt;Postales del Sur is an attempt to capture the beauty of various moments during a trip to the breathtaking landscapes of Patagonia, Argentina.​​​​​​​&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/germandiciccio/dR1A466S"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/dR1A466S" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Tango calor – Rocketpanda</title>
-  <link href="https://framerate.tv/watch/Rocketpanda/p4Tc5JNs"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/p4Tc5JNs"/>
   <id>https://framerate.tv/watch/p4Tc5JNs</id>
   <published>2026-09-10T06:00:00+00:00</published>
   <updated>2026-09-10T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://image.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/thumbnail.jpg?width=1920"/>
-  <media:content url="https://image.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/thumbnail.jpg?width=1920" medium="image" type="image/jpeg"/>
+  <author><name>Rocketpanda</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/1080p.mp4" medium="video" type="video/mp4" duration="24" isDefault="true">
+    <media:player url="https://framerate.tv/embed/p4Tc5JNs" width="1280" height="720"/>
+    <media:thumbnail url="https://image.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/thumbnail.jpg?width=1920"/>
+    <media:title>Tango calor – Rocketpanda</media:title>
+  </media:content>
   <media:thumbnail url="https://image.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/thumbnail.jpg?width=1920"/>
   <webfeeds:featuredImage>https://image.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/thumbnail.jpg?width=1920</webfeeds:featuredImage>
   <summary>This summer, temperatures across Europe and pretty much everywhere else hit levels that were excessive. Dangerous, even. And that heatwave pushed us to do something about it. Nothing grand. Just a simple, friendly reminder to stay cool and, above all, stay hydrated.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://image.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/thumbnail.jpg?width=1920" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/p4Tc5JNs" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://image.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/thumbnail.jpg?width=1920" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/p4Tc5JNs" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://image.mux.com/01DTKNLo29f6Vrbfq92IWrhyZRk5lvKt9kL78DgMLUa8/thumbnail.jpg?width=1920" alt="Tango calor" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/p4Tc5JNs" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:24)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/Rocketpanda"&gt;Rocketpanda&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:24&lt;/p&gt;
 &lt;p&gt;This summer, temperatures across Europe and pretty much everywhere else hit levels that were excessive. Dangerous, even. And that heatwave pushed us to do something about it. Nothing grand. Just a simple, friendly reminder to stay cool and, above all, stay hydrated.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/Rocketpanda/p4Tc5JNs"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/p4Tc5JNs" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Figma - This is Figma – Oddfellows</title>
-  <link href="https://framerate.tv/watch/Oddfellows/J3zWHMu3"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/J3zWHMu3"/>
   <id>https://framerate.tv/watch/J3zWHMu3</id>
   <published>2026-09-08T06:00:00+00:00</published>
   <updated>2026-09-08T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/b60488d3-dbd5-4eed-8b16-55f689733f70/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/b60488d3-dbd5-4eed-8b16-55f689733f70/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>Oddfellows</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/5EyHNsFALVG1Y6rwJaylVjtD7lLdEhPvxDVVJmCI1T00/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/5EyHNsFALVG1Y6rwJaylVjtD7lLdEhPvxDVVJmCI1T00/1080p.mp4" medium="video" type="video/mp4" duration="60" isDefault="true">
+    <media:player url="https://framerate.tv/embed/J3zWHMu3" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/b60488d3-dbd5-4eed-8b16-55f689733f70/thumbnail.jpg"/>
+    <media:title>Figma - This is Figma – Oddfellows</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/b60488d3-dbd5-4eed-8b16-55f689733f70/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/b60488d3-dbd5-4eed-8b16-55f689733f70/thumbnail.jpg</webfeeds:featuredImage>
   <summary>In collaboration with the talented Figma brand team, we crafted an anthem video that challenged the notion that “design is dead.” The film redefines the relationship between design and code, showing how they coexist—not separately, but as one interconnected practice. Design isn’t just alive—it leads</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/b60488d3-dbd5-4eed-8b16-55f689733f70/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/J3zWHMu3" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/b60488d3-dbd5-4eed-8b16-55f689733f70/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/5EyHNsFALVG1Y6rwJaylVjtD7lLdEhPvxDVVJmCI1T00/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/5EyHNsFALVG1Y6rwJaylVjtD7lLdEhPvxDVVJmCI1T00.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/J3zWHMu3" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/b60488d3-dbd5-4eed-8b16-55f689733f70/thumbnail.jpg" alt="Figma - This is Figma" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/J3zWHMu3" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:00)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/Oddfellows"&gt;Oddfellows&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:00&lt;/p&gt;
 &lt;p&gt;In collaboration with the talented Figma brand team, we crafted an anthem video that challenged the notion that “design is dead.” The film redefines the relationship between design and code, showing how they coexist—not separately, but as one interconnected practice. Design isn’t just alive—it leads the practice, while code empowers it.&lt;/p&gt;
 &lt;p&gt;The engagement resulted in a distinctive piece that resonates with both design and engineering audiences, blending an aspirational vision of creativity with the craft of building.&lt;/p&gt;
 &lt;p&gt;The video played at the Moscone Center for Config 2026 right before the opening speech by CEO Dylan Field.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/Oddfellows/J3zWHMu3"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/J3zWHMu3" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Oh, Daisy – Hornet</title>
-  <link href="https://framerate.tv/watch/hellohornet/Eq4ubkBu"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/Eq4ubkBu"/>
   <id>https://framerate.tv/watch/Eq4ubkBu</id>
   <published>2026-09-01T06:00:00+00:00</published>
   <updated>2026-09-01T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9da30c31-97a3-4ec2-8a1f-3ce3b59b8666/27019116-babc-488c-9b70-739b1e7f6cbc.jpg?t=1786981430201"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9da30c31-97a3-4ec2-8a1f-3ce3b59b8666/27019116-babc-488c-9b70-739b1e7f6cbc.jpg?t=1786981430201" medium="image" type="image/jpeg"/>
+  <author><name>Hornet</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/l900XEhtcYXNvxapCzCswgT6pz26AzyoJ8Y1Ed8l79Lo/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/l900XEhtcYXNvxapCzCswgT6pz26AzyoJ8Y1Ed8l79Lo/1080p.mp4" medium="video" type="video/mp4" duration="148" isDefault="true">
+    <media:player url="https://framerate.tv/embed/Eq4ubkBu" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9da30c31-97a3-4ec2-8a1f-3ce3b59b8666/27019116-babc-488c-9b70-739b1e7f6cbc.jpg?t=1786981430201"/>
+    <media:title>Oh, Daisy – Hornet</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9da30c31-97a3-4ec2-8a1f-3ce3b59b8666/27019116-babc-488c-9b70-739b1e7f6cbc.jpg?t=1786981430201"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9da30c31-97a3-4ec2-8a1f-3ce3b59b8666/27019116-babc-488c-9b70-739b1e7f6cbc.jpg?t=1786981430201</webfeeds:featuredImage>
   <summary>A short film dedicated to the small ones, overlooked in a fast-paced world.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9da30c31-97a3-4ec2-8a1f-3ce3b59b8666/27019116-babc-488c-9b70-739b1e7f6cbc.jpg?t=1786981430201" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/Eq4ubkBu" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9da30c31-97a3-4ec2-8a1f-3ce3b59b8666/27019116-babc-488c-9b70-739b1e7f6cbc.jpg?t=1786981430201" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/l900XEhtcYXNvxapCzCswgT6pz26AzyoJ8Y1Ed8l79Lo/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/l900XEhtcYXNvxapCzCswgT6pz26AzyoJ8Y1Ed8l79Lo.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/Eq4ubkBu" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9da30c31-97a3-4ec2-8a1f-3ce3b59b8666/27019116-babc-488c-9b70-739b1e7f6cbc.jpg?t=1786981430201" alt="Oh, Daisy" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/Eq4ubkBu" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (2:29)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/hellohornet"&gt;Hornet&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 2:29&lt;/p&gt;
 &lt;p&gt;A short film dedicated to the small ones, overlooked in a fast-paced world.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/hellohornet/Eq4ubkBu"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/Eq4ubkBu" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>DREAMCAT – Make Mami Proud</title>
-  <link href="https://framerate.tv/watch/MMP/FofMDP8S"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/FofMDP8S"/>
   <id>https://framerate.tv/watch/FofMDP8S</id>
   <published>2026-08-25T06:00:00+00:00</published>
   <updated>2026-08-25T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/13aeb9c8-99af-472d-bc86-c131e508dc77/536a73ff-474f-4b21-8085-6d2dbb75bc95.jpg?t=1787217721231"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/13aeb9c8-99af-472d-bc86-c131e508dc77/536a73ff-474f-4b21-8085-6d2dbb75bc95.jpg?t=1787217721231" medium="image" type="image/jpeg"/>
+  <author><name>Make Mami Proud</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/UkQ0271tj3go6v4502q02ZngGfQmXccFrqRnzrafR74yh00/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/UkQ0271tj3go6v4502q02ZngGfQmXccFrqRnzrafR74yh00/1080p.mp4" medium="video" type="video/mp4" duration="112" isDefault="true">
+    <media:player url="https://framerate.tv/embed/FofMDP8S" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/13aeb9c8-99af-472d-bc86-c131e508dc77/536a73ff-474f-4b21-8085-6d2dbb75bc95.jpg?t=1787217721231"/>
+    <media:title>DREAMCAT – Make Mami Proud</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/13aeb9c8-99af-472d-bc86-c131e508dc77/536a73ff-474f-4b21-8085-6d2dbb75bc95.jpg?t=1787217721231"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/13aeb9c8-99af-472d-bc86-c131e508dc77/536a73ff-474f-4b21-8085-6d2dbb75bc95.jpg?t=1787217721231</webfeeds:featuredImage>
   <summary>Everybody lives with demons. Most people keep them quiet. He gave his a face. Then a colour, a jacket, a way of walking — and once you draw something, it knows where you live. It points. It shouts. It waits at the end of the bed. He fights them for a while. Everyone does. Then he gets tired enough t</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/13aeb9c8-99af-472d-bc86-c131e508dc77/536a73ff-474f-4b21-8085-6d2dbb75bc95.jpg?t=1787217721231" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/FofMDP8S" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/13aeb9c8-99af-472d-bc86-c131e508dc77/536a73ff-474f-4b21-8085-6d2dbb75bc95.jpg?t=1787217721231" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/UkQ0271tj3go6v4502q02ZngGfQmXccFrqRnzrafR74yh00/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/UkQ0271tj3go6v4502q02ZngGfQmXccFrqRnzrafR74yh00.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/FofMDP8S" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/13aeb9c8-99af-472d-bc86-c131e508dc77/536a73ff-474f-4b21-8085-6d2dbb75bc95.jpg?t=1787217721231" alt="DREAMCAT" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/FofMDP8S" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:52)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/MMP"&gt;Make Mami Proud&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:52&lt;/p&gt;
 &lt;p&gt;Everybody lives with demons. Most people keep them quiet.&lt;/p&gt;
 &lt;p&gt;He gave his a face. Then a colour, a jacket, a way of walking — and once you draw something, it knows where you live. It points. It shouts. It waits at the end of the bed.&lt;br /&gt;He fights them for a while. Everyone does.&lt;/p&gt;
 &lt;p&gt;Then he gets tired enough to stop, and the question changes. Not how to beat them. Whether they can be tamed. Whether they ever wanted anything from him but company.&lt;br /&gt;Every frame drawn over by hand, until you can't tell which world is holding which.&lt;/p&gt;
 &lt;p&gt;Somewhere in there, a man burns out with a smile on his face and finds what he was looking for by losing track of it entirely.&lt;/p&gt;
 &lt;p&gt;NO AI. EVERY FRAME BY HAND.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/MMP/FofMDP8S"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/FofMDP8S" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Adobe - Podenco – Alex Schiller</title>
-  <link href="https://framerate.tv/watch/alex___schiller/al6oxolF"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/al6oxolF"/>
   <id>https://framerate.tv/watch/al6oxolF</id>
   <published>2026-08-19T06:00:00+00:00</published>
   <updated>2026-08-19T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/aea1a1d8-f707-4c43-b6a4-b1eaf121b54e/82d094e3-9849-4f75-b283-1bd256b280aa/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/aea1a1d8-f707-4c43-b6a4-b1eaf121b54e/82d094e3-9849-4f75-b283-1bd256b280aa/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>Alex Schiller</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/IezKG02NDEsl4iaEos3QOVt36K6sdJJcPQ01UtgyVIInk/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/IezKG02NDEsl4iaEos3QOVt36K6sdJJcPQ01UtgyVIInk/1080p.mp4" medium="video" type="video/mp4" duration="82" isDefault="true">
+    <media:player url="https://framerate.tv/embed/al6oxolF" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/aea1a1d8-f707-4c43-b6a4-b1eaf121b54e/82d094e3-9849-4f75-b283-1bd256b280aa/thumbnail.jpg"/>
+    <media:title>Adobe - Podenco – Alex Schiller</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/aea1a1d8-f707-4c43-b6a4-b1eaf121b54e/82d094e3-9849-4f75-b283-1bd256b280aa/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/aea1a1d8-f707-4c43-b6a4-b1eaf121b54e/82d094e3-9849-4f75-b283-1bd256b280aa/thumbnail.jpg</webfeeds:featuredImage>
   <summary>Been huge on Antoni Sendra (@podenco) and his motion design work for a minute now. So when the crew at @skycarcreative pinged me to helm this project for @adobe it was an instant yes. Working with Antoni was an absolute dream. What started as a film about one of my favorite artists turned into a rea</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/aea1a1d8-f707-4c43-b6a4-b1eaf121b54e/82d094e3-9849-4f75-b283-1bd256b280aa/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/al6oxolF" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/aea1a1d8-f707-4c43-b6a4-b1eaf121b54e/82d094e3-9849-4f75-b283-1bd256b280aa/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/IezKG02NDEsl4iaEos3QOVt36K6sdJJcPQ01UtgyVIInk/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/IezKG02NDEsl4iaEos3QOVt36K6sdJJcPQ01UtgyVIInk.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/al6oxolF" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/aea1a1d8-f707-4c43-b6a4-b1eaf121b54e/82d094e3-9849-4f75-b283-1bd256b280aa/thumbnail.jpg" alt="Adobe - Podenco" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/al6oxolF" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:23)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/alex___schiller"&gt;Alex Schiller&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:23&lt;/p&gt;
 &lt;p&gt;Been huge on Antoni Sendra (@podenco) and his motion design work for a minute now. So when the crew at @skycarcreative pinged me to helm this project for @adobe it was an instant yes.&lt;br /&gt;Working with Antoni was an absolute dream. What started as a film about one of my favorite artists turned into a real friendship…plus some low-key mentorship that’s completely reshaped how I approach my own motion work. Endless thanks to Antoni for trusting the process, sharing his brain, and being an absolute legend throughout.&lt;br /&gt;Go check out the full film to peek inside his Valencia studio and see how the magic happens!&lt;/p&gt;
 &lt;p&gt;Special thanks to Bianca Darville for bringing me on this project, and big ups to the crew at Adobe: Sari, Sebastian, Allison, Gaby&lt;/p&gt;
 &lt;p&gt;Directed by moi&lt;br /&gt;DOP: Alejandro Gómez&lt;br /&gt;Production: Skycar Creative &lt;br /&gt;Executive Producer: Andy Miller, Aaron Barry&lt;br /&gt;Producer: Tracy Ip&lt;br /&gt;All motion design by Podenco&lt;br /&gt;Editor + Sound Design Client Version: Gaby Scott&lt;br /&gt;Editor + Sound Design DC: Alex Schiller&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/alex___schiller/al6oxolF"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/al6oxolF" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Buff x Starling - Product Videos + Framework – Buff</title>
-  <link href="https://framerate.tv/watch/buff/oXcu5gsV"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/oXcu5gsV"/>
   <id>https://framerate.tv/watch/oXcu5gsV</id>
   <published>2026-08-13T06:00:00+00:00</published>
   <updated>2026-08-13T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9eb541ca-5c04-4f6e-97f5-040e05dd7002/caff86ee-b217-4ad5-acf4-dec197cf1893/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9eb541ca-5c04-4f6e-97f5-040e05dd7002/caff86ee-b217-4ad5-acf4-dec197cf1893/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>Buff</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/qVVaHLbEqsb9eVRnh5jfxdszDbSPW4fUA7JyK8vs2Dw/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/qVVaHLbEqsb9eVRnh5jfxdszDbSPW4fUA7JyK8vs2Dw/1080p.mp4" medium="video" type="video/mp4" duration="74" isDefault="true">
+    <media:player url="https://framerate.tv/embed/oXcu5gsV" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9eb541ca-5c04-4f6e-97f5-040e05dd7002/caff86ee-b217-4ad5-acf4-dec197cf1893/thumbnail.jpg"/>
+    <media:title>Buff x Starling - Product Videos + Framework – Buff</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9eb541ca-5c04-4f6e-97f5-040e05dd7002/caff86ee-b217-4ad5-acf4-dec197cf1893/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9eb541ca-5c04-4f6e-97f5-040e05dd7002/caff86ee-b217-4ad5-acf4-dec197cf1893/thumbnail.jpg</webfeeds:featuredImage>
   <summary>Following Starling's 2025 rebrand, Buff partnered with the bank to create a suite of 16 social-first feature films promoting everyday banking tools. Alongside the campaign, we developed a motion framework that defined how the refreshed brand should behave in motion, creating a consistent animation l</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9eb541ca-5c04-4f6e-97f5-040e05dd7002/caff86ee-b217-4ad5-acf4-dec197cf1893/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/oXcu5gsV" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9eb541ca-5c04-4f6e-97f5-040e05dd7002/caff86ee-b217-4ad5-acf4-dec197cf1893/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/qVVaHLbEqsb9eVRnh5jfxdszDbSPW4fUA7JyK8vs2Dw/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/qVVaHLbEqsb9eVRnh5jfxdszDbSPW4fUA7JyK8vs2Dw.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/oXcu5gsV" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/9eb541ca-5c04-4f6e-97f5-040e05dd7002/caff86ee-b217-4ad5-acf4-dec197cf1893/thumbnail.jpg" alt="Buff x Starling - Product Videos + Framework" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/oXcu5gsV" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:15)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/buff"&gt;Buff&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:15&lt;/p&gt;
 &lt;p&gt;Following Starling's 2025 rebrand, Buff partnered with the bank to create a suite of 16 social-first feature films promoting everyday banking tools. Alongside the campaign, we developed a motion framework that defined how the refreshed brand should behave in motion, creating a consistent animation language for future communications.&lt;/p&gt;
 &lt;p&gt;Working closely with Starling's team, we translated the brand's core attributes into a set of motion principles built around purposeful movement, confident pacing and clear, customer-focused storytelling. Every film balanced clarity, personality and trust, helping product features feel engaging without becoming tutorials or product demos.&lt;/p&gt;
 &lt;p&gt;Designed primarily for social, each short film follows a simple narrative structure to make budgeting, saving, payments and other everyday banking features easier to discover and understand. The result is a cohesive collection of films that showcase both Starling's product offering and its distinctive new identity in motion.&lt;/p&gt;
 &lt;p&gt;See more on our website →&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/buff/oXcu5gsV"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/oXcu5gsV" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>GO - Born in the Echoes (unofficial) – Thomas Girometti</title>
-  <link href="https://framerate.tv/watch/thomasgiro_/xI5IVdz0"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/xI5IVdz0"/>
   <id>https://framerate.tv/watch/xI5IVdz0</id>
   <published>2026-08-07T06:00:00+00:00</published>
   <updated>2026-08-07T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/dd01140c-1bb9-4f2a-983b-154fe855cb45/2de7b670-7499-48ee-9bbc-36091d7b705c.jpg?t=1785280482901"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/dd01140c-1bb9-4f2a-983b-154fe855cb45/2de7b670-7499-48ee-9bbc-36091d7b705c.jpg?t=1785280482901" medium="image" type="image/jpeg"/>
+  <author><name>Thomas Girometti</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/aoo48aIkRksj9595aqo5Y8sFMsDVgQWOgos95yLjtz4/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/aoo48aIkRksj9595aqo5Y8sFMsDVgQWOgos95yLjtz4/1080p.mp4" medium="video" type="video/mp4" duration="16" isDefault="true">
+    <media:player url="https://framerate.tv/embed/xI5IVdz0" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/dd01140c-1bb9-4f2a-983b-154fe855cb45/2de7b670-7499-48ee-9bbc-36091d7b705c.jpg?t=1785280482901"/>
+    <media:title>GO - Born in the Echoes (unofficial) – Thomas Girometti</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/dd01140c-1bb9-4f2a-983b-154fe855cb45/2de7b670-7499-48ee-9bbc-36091d7b705c.jpg?t=1785280482901"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/dd01140c-1bb9-4f2a-983b-154fe855cb45/2de7b670-7499-48ee-9bbc-36091d7b705c.jpg?t=1785280482901</webfeeds:featuredImage>
   <summary>A fast-paced personal typography experiment driven by the raw energy of The Chemical Brothers. A brutalist exploration of "deconstructive glitch" and grunge aesthetics It’s an intentional act of breaking the creative grid, where legibility takes a backseat to pure, unfiltered visual impact and motio</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/dd01140c-1bb9-4f2a-983b-154fe855cb45/2de7b670-7499-48ee-9bbc-36091d7b705c.jpg?t=1785280482901" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/xI5IVdz0" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/dd01140c-1bb9-4f2a-983b-154fe855cb45/2de7b670-7499-48ee-9bbc-36091d7b705c.jpg?t=1785280482901" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/aoo48aIkRksj9595aqo5Y8sFMsDVgQWOgos95yLjtz4/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/aoo48aIkRksj9595aqo5Y8sFMsDVgQWOgos95yLjtz4.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/xI5IVdz0" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/dd01140c-1bb9-4f2a-983b-154fe855cb45/2de7b670-7499-48ee-9bbc-36091d7b705c.jpg?t=1785280482901" alt="GO - Born in the Echoes (unofficial)" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/xI5IVdz0" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:16)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/thomasgiro_"&gt;Thomas Girometti&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:16&lt;/p&gt;
 &lt;p&gt;A fast-paced personal typography experiment driven by the raw energy of The Chemical Brothers. A brutalist exploration of "deconstructive glitch" and grunge aesthetics It’s an intentional act of breaking the creative grid, where legibility takes a backseat to pure, unfiltered visual impact and motion chaos.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/thomasgiro_/xI5IVdz0"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/xI5IVdz0" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Copenhagen – Kinisi</title>
-  <link href="https://framerate.tv/watch/kinisi/HyTsa1r3"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/HyTsa1r3"/>
   <id>https://framerate.tv/watch/HyTsa1r3</id>
   <published>2026-07-30T06:00:00+00:00</published>
   <updated>2026-07-30T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d8efd9e-7735-4da8-b536-9728c618fdfe/95b52553-1a26-4a5c-a77a-dac8e6bb9f83/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d8efd9e-7735-4da8-b536-9728c618fdfe/95b52553-1a26-4a5c-a77a-dac8e6bb9f83/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>Kinisi</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/FJD4pe5w52CEaMv52TexAZQltbYillLqKicIQvHPM00s/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/FJD4pe5w52CEaMv52TexAZQltbYillLqKicIQvHPM00s/1080p.mp4" medium="video" type="video/mp4" duration="10" isDefault="true">
+    <media:player url="https://framerate.tv/embed/HyTsa1r3" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d8efd9e-7735-4da8-b536-9728c618fdfe/95b52553-1a26-4a5c-a77a-dac8e6bb9f83/thumbnail.jpg"/>
+    <media:title>Copenhagen – Kinisi</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d8efd9e-7735-4da8-b536-9728c618fdfe/95b52553-1a26-4a5c-a77a-dac8e6bb9f83/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d8efd9e-7735-4da8-b536-9728c618fdfe/95b52553-1a26-4a5c-a77a-dac8e6bb9f83/thumbnail.jpg</webfeeds:featuredImage>
   <summary>A small personal project, designed and animated in a day using a mixture of bold type and 3D to celebrate an upcoming trip to Copenhagen. Finished off with custom sound design and music made from scratch.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d8efd9e-7735-4da8-b536-9728c618fdfe/95b52553-1a26-4a5c-a77a-dac8e6bb9f83/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/HyTsa1r3" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d8efd9e-7735-4da8-b536-9728c618fdfe/95b52553-1a26-4a5c-a77a-dac8e6bb9f83/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/FJD4pe5w52CEaMv52TexAZQltbYillLqKicIQvHPM00s/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/FJD4pe5w52CEaMv52TexAZQltbYillLqKicIQvHPM00s.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/HyTsa1r3" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d8efd9e-7735-4da8-b536-9728c618fdfe/95b52553-1a26-4a5c-a77a-dac8e6bb9f83/thumbnail.jpg" alt="Copenhagen" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/HyTsa1r3" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:11)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/kinisi"&gt;Kinisi&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:11&lt;/p&gt;
 &lt;p&gt;A small personal project, designed and animated in a day using a mixture of bold type and 3D to celebrate an upcoming trip to Copenhagen. Finished off with custom sound design and music made from scratch.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/kinisi/HyTsa1r3"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/HyTsa1r3" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>process – Everfresh / Sebastian Pfeifer </title>
-  <link href="https://framerate.tv/watch/everfresh/yEza3tIz"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/yEza3tIz"/>
   <id>https://framerate.tv/watch/yEza3tIz</id>
   <published>2026-07-22T05:00:00+00:00</published>
   <updated>2026-07-22T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://image.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/thumbnail.jpg?width=1920"/>
-  <media:content url="https://image.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/thumbnail.jpg?width=1920" medium="image" type="image/jpeg"/>
+  <author><name>Everfresh / Sebastian Pfeifer </name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/1080p.mp4" medium="video" type="video/mp4" duration="39" isDefault="true">
+    <media:player url="https://framerate.tv/embed/yEza3tIz" width="1280" height="720"/>
+    <media:thumbnail url="https://image.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/thumbnail.jpg?width=1920"/>
+    <media:title>process – Everfresh / Sebastian Pfeifer </media:title>
+  </media:content>
   <media:thumbnail url="https://image.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/thumbnail.jpg?width=1920"/>
   <webfeeds:featuredImage>https://image.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/thumbnail.jpg?width=1920</webfeeds:featuredImage>
   <summary>Proyecto seleccionado por FrameRate: process</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://image.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/thumbnail.jpg?width=1920" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/yEza3tIz" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://image.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/thumbnail.jpg?width=1920" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/yEza3tIz" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://image.mux.com/02WlT5em7E7SRy6jgXu1M02t12FcvEIF5orQNKzGv1eaI/thumbnail.jpg?width=1920" alt="process" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/yEza3tIz" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:39)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/everfresh"&gt;Everfresh / Sebastian Pfeifer &lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:39&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/everfresh/yEza3tIz"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/yEza3tIz" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Hétérocères - Short Film (directed by Coup de Foudre) – Nexus Studios</title>
-  <link href="https://framerate.tv/watch/Nexus_Studios/27Eb04gQ"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/27Eb04gQ"/>
   <id>https://framerate.tv/watch/27Eb04gQ</id>
   <published>2026-07-09T06:00:00+00:00</published>
   <updated>2026-07-09T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/6f02962f-3dfc-4acb-8575-7f741cbd285a/f07a7495-aad0-4df1-87d3-b539df723bf7/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/6f02962f-3dfc-4acb-8575-7f741cbd285a/f07a7495-aad0-4df1-87d3-b539df723bf7/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>Nexus Studios</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/ETVOZqfsdLymIywDCrT4RCqXZVuzaAwXPjpmbq7382U/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/ETVOZqfsdLymIywDCrT4RCqXZVuzaAwXPjpmbq7382U/1080p.mp4" medium="video" type="video/mp4" duration="93" isDefault="true">
+    <media:player url="https://framerate.tv/embed/27Eb04gQ" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/6f02962f-3dfc-4acb-8575-7f741cbd285a/f07a7495-aad0-4df1-87d3-b539df723bf7/thumbnail.jpg"/>
+    <media:title>Hétérocères - Short Film (directed by Coup de Foudre) – Nexus Studios</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/6f02962f-3dfc-4acb-8575-7f741cbd285a/f07a7495-aad0-4df1-87d3-b539df723bf7/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/6f02962f-3dfc-4acb-8575-7f741cbd285a/f07a7495-aad0-4df1-87d3-b539df723bf7/thumbnail.jpg</webfeeds:featuredImage>
   <summary>Finding love in unexpected places. Hétérocères reveals a nocturnal world where audiences are pulled into a ritualistic ceremony you were never meant to witness. Built in crafted 3D, the film establishes its horror aesthetic with hand-held cameras before transitioning into cinematic, expertly compose</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/6f02962f-3dfc-4acb-8575-7f741cbd285a/f07a7495-aad0-4df1-87d3-b539df723bf7/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/27Eb04gQ" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/6f02962f-3dfc-4acb-8575-7f741cbd285a/f07a7495-aad0-4df1-87d3-b539df723bf7/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/ETVOZqfsdLymIywDCrT4RCqXZVuzaAwXPjpmbq7382U/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/ETVOZqfsdLymIywDCrT4RCqXZVuzaAwXPjpmbq7382U.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/27Eb04gQ" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/6f02962f-3dfc-4acb-8575-7f741cbd285a/f07a7495-aad0-4df1-87d3-b539df723bf7/thumbnail.jpg" alt="Hétérocères - Short Film (directed by Coup de Foudre)" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/27Eb04gQ" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:34)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/Nexus_Studios"&gt;Nexus Studios&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:34&lt;/p&gt;
 &lt;p&gt;Finding love in unexpected places. Hétérocères reveals a nocturnal world where audiences are pulled into a ritualistic ceremony you were never meant to witness. Built in crafted 3D, the film establishes its horror aesthetic with hand-held cameras before transitioning into cinematic, expertly composed shots. The monochromatic opening quickly gives way to vibrant golds and lush flora as we’re given a glimpse into a world – built entirely in Blender – that suggests something much deeper and more complex.&lt;/p&gt;
 &lt;p&gt;What begins as something eerie reveals itself as a love story. Coup de Foudre’s command of contrast, character design, lighting and storytelling earns sympathy for creatures that, on first sight, you might expect to fear.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/Nexus_Studios/27Eb04gQ"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/27Eb04gQ" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Optimizely - Tales of Mark Eting – Giant Ant</title>
-  <link href="https://framerate.tv/watch/GiantAnt/BJXCG2UH"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/BJXCG2UH"/>
   <id>https://framerate.tv/watch/BJXCG2UH</id>
   <published>2026-06-25T05:00:00+00:00</published>
   <updated>2026-06-25T05:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/8b55c0d4-e2a7-4511-a447-b663d36c0926/49aaab1d-9ef3-4c12-a830-a5e7a1714863.jpg?t=1782166906572"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/8b55c0d4-e2a7-4511-a447-b663d36c0926/49aaab1d-9ef3-4c12-a830-a5e7a1714863.jpg?t=1782166906572" medium="image" type="image/jpeg"/>
+  <author><name>Giant Ant</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/tksYRPuNxKSKNNeV6hkGneC5523p7TjKTbjZIlj1rGM/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/tksYRPuNxKSKNNeV6hkGneC5523p7TjKTbjZIlj1rGM/1080p.mp4" medium="video" type="video/mp4" duration="30" isDefault="true">
+    <media:player url="https://framerate.tv/embed/BJXCG2UH" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/8b55c0d4-e2a7-4511-a447-b663d36c0926/49aaab1d-9ef3-4c12-a830-a5e7a1714863.jpg?t=1782166906572"/>
+    <media:title>Optimizely - Tales of Mark Eting – Giant Ant</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/8b55c0d4-e2a7-4511-a447-b663d36c0926/49aaab1d-9ef3-4c12-a830-a5e7a1714863.jpg?t=1782166906572"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/8b55c0d4-e2a7-4511-a447-b663d36c0926/49aaab1d-9ef3-4c12-a830-a5e7a1714863.jpg?t=1782166906572</webfeeds:featuredImage>
   <summary>Optimizely invited us into the world of Mark Eting, the world's best marketer, and built on Andrey Kasay's illustration style. Big shoes to fill. (Or perfectly sized, audience-tested shoes.) So we put on some corny jazz, grabbed every hat we own, and wrote, boarded, designed and animated these stran</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/8b55c0d4-e2a7-4511-a447-b663d36c0926/49aaab1d-9ef3-4c12-a830-a5e7a1714863.jpg?t=1782166906572" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/BJXCG2UH" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/8b55c0d4-e2a7-4511-a447-b663d36c0926/49aaab1d-9ef3-4c12-a830-a5e7a1714863.jpg?t=1782166906572" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/tksYRPuNxKSKNNeV6hkGneC5523p7TjKTbjZIlj1rGM/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/tksYRPuNxKSKNNeV6hkGneC5523p7TjKTbjZIlj1rGM.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/BJXCG2UH" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/8b55c0d4-e2a7-4511-a447-b663d36c0926/49aaab1d-9ef3-4c12-a830-a5e7a1714863.jpg?t=1782166906572" alt="Optimizely - Tales of Mark Eting" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/BJXCG2UH" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:30)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/GiantAnt"&gt;Giant Ant&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:30&lt;/p&gt;
 &lt;p&gt;Optimizely invited us into the world of Mark Eting, the world's best marketer, and built on Andrey Kasay's illustration style. Big shoes to fill. (Or perfectly sized, audience-tested shoes.)&lt;/p&gt;
 &lt;p&gt;So we put on some corny jazz, grabbed every hat we own, and wrote, boarded, designed and animated these strange little spots.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/GiantAnt/BJXCG2UH"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/BJXCG2UH" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Nike Mercurial Superfly – FutureDeluxe</title>
-  <link href="https://framerate.tv/watch/FutureDeluxe/aJU3Qgcu"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/aJU3Qgcu"/>
   <id>https://framerate.tv/watch/aJU3Qgcu</id>
   <published>2026-06-23T10:00:00+00:00</published>
   <updated>2026-06-23T10:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://image.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/thumbnail.jpg?width=1920"/>
-  <media:content url="https://image.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/thumbnail.jpg?width=1920" medium="image" type="image/jpeg"/>
+  <author><name>FutureDeluxe</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/1080p.mp4" medium="video" type="video/mp4" duration="24" isDefault="true">
+    <media:player url="https://framerate.tv/embed/aJU3Qgcu" width="1280" height="720"/>
+    <media:thumbnail url="https://image.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/thumbnail.jpg?width=1920"/>
+    <media:title>Nike Mercurial Superfly – FutureDeluxe</media:title>
+  </media:content>
   <media:thumbnail url="https://image.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/thumbnail.jpg?width=1920"/>
   <webfeeds:featuredImage>https://image.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/thumbnail.jpg?width=1920</webfeeds:featuredImage>
   <summary>The Nike Mercurial Superfly, built to break out on the biggest stage, is powered by next-gen Air Zoom technology and a FlyWeave Ultra upper. Designed, Directed and Produced by FutureDeluxe Executive Creative Director: Raj Davsi Executive Producer: Elise Ford Senior Producer: Kavita Daggar CG Artists</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://image.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/thumbnail.jpg?width=1920" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/aJU3Qgcu" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://image.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/thumbnail.jpg?width=1920" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/aJU3Qgcu" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://image.mux.com/H00iU01O2mR3bDC4oNeqP8uG5qiPowPleJVb7mbe8Zsdw/thumbnail.jpg?width=1920" alt="Nike Mercurial Superfly" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/aJU3Qgcu" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:24)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/FutureDeluxe"&gt;FutureDeluxe&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:24&lt;/p&gt;
 &lt;p&gt;The Nike Mercurial Superfly, built to break out on the biggest stage, is powered by next-gen Air Zoom technology and a FlyWeave Ultra upper.&lt;/p&gt;
 &lt;p&gt;Designed, Directed and Produced by FutureDeluxe&lt;br /&gt;Executive Creative Director: Raj Davsi&lt;br /&gt;Executive Producer: Elise Ford&lt;br /&gt;Senior Producer: Kavita Daggar&lt;br /&gt;CG Artists: Damien Patie-Pelicaut, Joao Fonseca, Sergey Beloshitsky, Raj Davsi&lt;br /&gt;Audio: Tom Tripp&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/FutureDeluxe/aJU3Qgcu"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/aJU3Qgcu" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Replit - Brand Sizzle – Oddfellows</title>
-  <link href="https://framerate.tv/watch/Oddfellows/Xi1htU5w"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/Xi1htU5w"/>
   <id>https://framerate.tv/watch/Xi1htU5w</id>
   <published>2026-06-09T09:00:00+00:00</published>
   <updated>2026-06-09T09:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/d4c5e6c1-184f-43f1-aa4d-b9eac121446a.jpg?t=1780001718144"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/d4c5e6c1-184f-43f1-aa4d-b9eac121446a.jpg?t=1780001718144" medium="image" type="image/jpeg"/>
+  <author><name>Oddfellows</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/s8Jgnnuf7FZzt014RT2r6T0034zs1mn01kIo5xKm01pmCIA/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/s8Jgnnuf7FZzt014RT2r6T0034zs1mn01kIo5xKm01pmCIA/1080p.mp4" medium="video" type="video/mp4" duration="60" isDefault="true">
+    <media:player url="https://framerate.tv/embed/Xi1htU5w" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/d4c5e6c1-184f-43f1-aa4d-b9eac121446a.jpg?t=1780001718144"/>
+    <media:title>Replit - Brand Sizzle – Oddfellows</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/d4c5e6c1-184f-43f1-aa4d-b9eac121446a.jpg?t=1780001718144"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/d4c5e6c1-184f-43f1-aa4d-b9eac121446a.jpg?t=1780001718144</webfeeds:featuredImage>
   <summary>Replit is a browser-based coding platform that lets developers write, run, and deploy code entirely in the cloud. They came to us with a new brand refresh and a vision for a striking brand anthem — one that unites their visual identity with their people, reflecting a mission to connect humanity with</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/d4c5e6c1-184f-43f1-aa4d-b9eac121446a.jpg?t=1780001718144" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/Xi1htU5w" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/d4c5e6c1-184f-43f1-aa4d-b9eac121446a.jpg?t=1780001718144" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/s8Jgnnuf7FZzt014RT2r6T0034zs1mn01kIo5xKm01pmCIA/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/s8Jgnnuf7FZzt014RT2r6T0034zs1mn01kIo5xKm01pmCIA.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/Xi1htU5w" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/4765710c-6467-4afc-8eec-b1a68a45c7dd/d4c5e6c1-184f-43f1-aa4d-b9eac121446a.jpg?t=1780001718144" alt="Replit - Brand Sizzle" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/Xi1htU5w" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:00)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/Oddfellows"&gt;Oddfellows&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:00&lt;/p&gt;
 &lt;p&gt;Replit is a browser-based coding platform that lets developers write, run, and deploy code entirely in the cloud. They came to us with a new brand refresh and a vision for a striking brand anthem — one that unites their visual identity with their people, reflecting a mission to connect humanity with technology.&lt;/p&gt;
 &lt;p&gt;Replit lives at the intersection of human creativity and machine possibility, so we built the visual world to match. Layering graphic design, intimate footage, and generative imagery, we chased the feeling of the brand. The result is a 60-second brand film and a suite of extended assets that feel as alive and optimistic as the platform itself.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/Oddfellows/Xi1htU5w"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/Xi1htU5w" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Cerveza Indio  - The Mexican Dream – Nono Ayuso</title>
-  <link href="https://framerate.tv/watch/nonoayuso/lN8dnoFz"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/lN8dnoFz"/>
   <id>https://framerate.tv/watch/lN8dnoFz</id>
   <published>2026-06-08T07:00:00+00:00</published>
   <updated>2026-06-08T07:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d9b2e76-b4c4-42be-abbb-9843610d61da/29e7f700-5aca-4711-9d7e-bdf3300dcda6/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d9b2e76-b4c4-42be-abbb-9843610d61da/29e7f700-5aca-4711-9d7e-bdf3300dcda6/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>Nono Ayuso</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/L66Ei01BPtuvAUAciJB3uUnQytxDbeDYlUAhxFpa7T2I/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/L66Ei01BPtuvAUAciJB3uUnQytxDbeDYlUAhxFpa7T2I/1080p.mp4" medium="video" type="video/mp4" duration="315" isDefault="true">
+    <media:player url="https://framerate.tv/embed/lN8dnoFz" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d9b2e76-b4c4-42be-abbb-9843610d61da/29e7f700-5aca-4711-9d7e-bdf3300dcda6/thumbnail.jpg"/>
+    <media:title>Cerveza Indio  - The Mexican Dream – Nono Ayuso</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d9b2e76-b4c4-42be-abbb-9843610d61da/29e7f700-5aca-4711-9d7e-bdf3300dcda6/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d9b2e76-b4c4-42be-abbb-9843610d61da/29e7f700-5aca-4711-9d7e-bdf3300dcda6/thumbnail.jpg</webfeeds:featuredImage>
   <summary>The American Dream is Built with Mexican Dreams. A short film for Cerveza Indio about the 150,000 Mexicans who cross the border into the United States and return home after a day's work.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d9b2e76-b4c4-42be-abbb-9843610d61da/29e7f700-5aca-4711-9d7e-bdf3300dcda6/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/lN8dnoFz" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d9b2e76-b4c4-42be-abbb-9843610d61da/29e7f700-5aca-4711-9d7e-bdf3300dcda6/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/L66Ei01BPtuvAUAciJB3uUnQytxDbeDYlUAhxFpa7T2I/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/L66Ei01BPtuvAUAciJB3uUnQytxDbeDYlUAhxFpa7T2I.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/lN8dnoFz" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/7d9b2e76-b4c4-42be-abbb-9843610d61da/29e7f700-5aca-4711-9d7e-bdf3300dcda6/thumbnail.jpg" alt="Cerveza Indio  - The Mexican Dream" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/lN8dnoFz" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (5:16)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/nonoayuso"&gt;Nono Ayuso&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 5:16&lt;/p&gt;
 &lt;p&gt;The American Dream is Built with Mexican Dreams. A short film for Cerveza Indio about the 150,000 Mexicans who cross the border into the United States and return home after a day's work.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/nonoayuso/lN8dnoFz"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/lN8dnoFz" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>THE PIPELINE – Mellow Studio</title>
-  <link href="https://framerate.tv/watch/MellowStudioTV/56v6vOym"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/56v6vOym"/>
   <id>https://framerate.tv/watch/56v6vOym</id>
   <published>2026-06-05T09:00:00+00:00</published>
   <updated>2026-06-05T09:00:00+00:00</updated>
-  <link rel="enclosure" type="image/webp" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/d4916236-e95b-4be4-a59e-74f6e3833144/7d34c2ab-8c5b-4820-beff-d469f129e93d.webp?t=1765814051859"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/d4916236-e95b-4be4-a59e-74f6e3833144/7d34c2ab-8c5b-4820-beff-d469f129e93d.webp?t=1765814051859" medium="image" type="image/webp"/>
+  <author><name>Mellow Studio</name></author>
+  <link rel="enclosure" type="application/x-mpegURL" href="https://stream.mux.com/N9XRkXxlVJN6lTOH1qCPPSJ3BgMTJ2b01bV7ZIasebHg.m3u8"/>
+  <media:content url="https://stream.mux.com/N9XRkXxlVJN6lTOH1qCPPSJ3BgMTJ2b01bV7ZIasebHg.m3u8" medium="video" type="application/x-mpegURL" duration="57" isDefault="true">
+    <media:player url="https://framerate.tv/embed/56v6vOym" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/d4916236-e95b-4be4-a59e-74f6e3833144/7d34c2ab-8c5b-4820-beff-d469f129e93d.webp?t=1765814051859"/>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/d4916236-e95b-4be4-a59e-74f6e3833144/7d34c2ab-8c5b-4820-beff-d469f129e93d.webp?t=1765814051859"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/d4916236-e95b-4be4-a59e-74f6e3833144/7d34c2ab-8c5b-4820-beff-d469f129e93d.webp?t=1765814051859</webfeeds:featuredImage>
   <summary>Step into the studio pipeline! In this animated adventure, we're peeling back the curtain to show you the heart of our creative process. From the spark of an idea to the pulse of moving pictures and the rhythm of audio waves, we're bringing you along for the ride.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/d4916236-e95b-4be4-a59e-74f6e3833144/7d34c2ab-8c5b-4820-beff-d469f129e93d.webp?t=1765814051859" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/56v6vOym" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/d4916236-e95b-4be4-a59e-74f6e3833144/7d34c2ab-8c5b-4820-beff-d469f129e93d.webp?t=1765814051859" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/N9XRkXxlVJN6lTOH1qCPPSJ3BgMTJ2b01bV7ZIasebHg.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/56v6vOym" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/d4916236-e95b-4be4-a59e-74f6e3833144/7d34c2ab-8c5b-4820-beff-d469f129e93d.webp?t=1765814051859" alt="THE PIPELINE" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/56v6vOym" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:57)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/MellowStudioTV"&gt;Mellow Studio&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:57&lt;/p&gt;
 &lt;p&gt;Step into the studio pipeline!&lt;br /&gt;In this animated adventure, we're peeling back the curtain to show you the heart of our creative process.&lt;br /&gt;From the spark of an idea to the pulse of moving pictures and the rhythm of audio waves, we're bringing you along for the ride.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/MellowStudioTV/56v6vOym"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/56v6vOym" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Wix Harmony - The new way – Elior Karmani</title>
-  <link href="https://framerate.tv/watch/Elior/Yo7zhMgW"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/Yo7zhMgW"/>
   <id>https://framerate.tv/watch/Yo7zhMgW</id>
   <published>2026-06-04T12:00:00+00:00</published>
   <updated>2026-06-04T12:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/be619515-f1fd-4b9a-9ef7-1c5ea4c2fc03/d4833f3c-97df-4f91-b6de-df85bd2e78bc.jpg?t=1779116517330"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/be619515-f1fd-4b9a-9ef7-1c5ea4c2fc03/d4833f3c-97df-4f91-b6de-df85bd2e78bc.jpg?t=1779116517330" medium="image" type="image/jpeg"/>
+  <author><name>Elior Karmani</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/7m3l4FQNUrnZKC02moKY5TcWxWKXK9nmUNjNuMtRxTRo/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/7m3l4FQNUrnZKC02moKY5TcWxWKXK9nmUNjNuMtRxTRo/1080p.mp4" medium="video" type="video/mp4" duration="64" isDefault="true">
+    <media:player url="https://framerate.tv/embed/Yo7zhMgW" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/be619515-f1fd-4b9a-9ef7-1c5ea4c2fc03/d4833f3c-97df-4f91-b6de-df85bd2e78bc.jpg?t=1779116517330"/>
+    <media:title>Wix Harmony - The new way – Elior Karmani</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/be619515-f1fd-4b9a-9ef7-1c5ea4c2fc03/d4833f3c-97df-4f91-b6de-df85bd2e78bc.jpg?t=1779116517330"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/be619515-f1fd-4b9a-9ef7-1c5ea4c2fc03/d4833f3c-97df-4f91-b6de-df85bd2e78bc.jpg?t=1779116517330</webfeeds:featuredImage>
   <summary>Motion graphic spot for Wix Harmony- The new way Head of brand marketing: Eyal Sebbag Team lead: Alex Kizin Design lead: Elior Karmani Design: Elior Karmani, Tamar minkowitz, Mary Patan Animation lead: Moriel Hofman Animation: David Raskovsky, Alon Sivan, Orel Levy, Arseny Garevskikh ,Moriel Hofman,</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/be619515-f1fd-4b9a-9ef7-1c5ea4c2fc03/d4833f3c-97df-4f91-b6de-df85bd2e78bc.jpg?t=1779116517330" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/Yo7zhMgW" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/be619515-f1fd-4b9a-9ef7-1c5ea4c2fc03/d4833f3c-97df-4f91-b6de-df85bd2e78bc.jpg?t=1779116517330" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/7m3l4FQNUrnZKC02moKY5TcWxWKXK9nmUNjNuMtRxTRo/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/7m3l4FQNUrnZKC02moKY5TcWxWKXK9nmUNjNuMtRxTRo.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/Yo7zhMgW" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/be619515-f1fd-4b9a-9ef7-1c5ea4c2fc03/d4833f3c-97df-4f91-b6de-df85bd2e78bc.jpg?t=1779116517330" alt="Wix Harmony - The new way" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/Yo7zhMgW" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:04)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/Elior"&gt;Elior Karmani&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:04&lt;/p&gt;
 &lt;p&gt;Motion graphic spot for Wix Harmony- The new way&lt;/p&gt;
 &lt;p&gt;Head of brand marketing: Eyal Sebbag&lt;br /&gt;Team lead: Alex Kizin&lt;br /&gt;Design lead: Elior Karmani&lt;br /&gt;Design: Elior Karmani, Tamar minkowitz, Mary Patan&lt;br /&gt;Animation lead: Moriel Hofman&lt;br /&gt;Animation: David Raskovsky, Alon Sivan, Orel Levy, Arseny Garevskikh ,Moriel Hofman, Yoram Allouch&lt;br /&gt;Imagery &amp; Vfx: Elad Naim&lt;br /&gt;Editing: Guy Landschaft&lt;br /&gt;Creative: Ben Alhadef&lt;br /&gt;Production: Orian Chai&lt;br /&gt;Script &amp; Content: Scott Hirsh, Eric Scott Levy&lt;br /&gt;Music &amp; Sound: Tal Avital&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/Elior/Yo7zhMgW"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/Yo7zhMgW" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>FrameRate Brand Manifesto – The Furrow</title>
-  <link href="https://framerate.tv/watch/thefurrow/framerate"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/teOWko2C"/>
   <id>https://framerate.tv/watch/teOWko2C</id>
   <published>2026-05-27T11:00:00+00:00</published>
   <updated>2026-05-27T11:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338" medium="image" type="image/jpeg"/>
+  <author><name>The Furrow</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/5ZJEPVbp1lQ6BvYrP02SNtX700eLzcQKNdh97yPOImYJ8/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/5ZJEPVbp1lQ6BvYrP02SNtX700eLzcQKNdh97yPOImYJ8/1080p.mp4" medium="video" type="video/mp4" duration="34" isDefault="true">
+    <media:player url="https://framerate.tv/embed/teOWko2C" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338"/>
+    <media:title>FrameRate Brand Manifesto – The Furrow</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338</webfeeds:featuredImage>
   <summary>We worked with FrameRate to bring their brand to life and they showed up as collaborators from day one. The overlap in what our teams value runs deeper than we expected. We both put people first. We both treat craft as the work itself. And the community that FrameRate is building is exactly the kind</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/teOWko2C" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/5ZJEPVbp1lQ6BvYrP02SNtX700eLzcQKNdh97yPOImYJ8/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/5ZJEPVbp1lQ6BvYrP02SNtX700eLzcQKNdh97yPOImYJ8.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/teOWko2C" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338" alt="FrameRate Brand Manifesto" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/teOWko2C" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:34)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/thefurrow"&gt;The Furrow&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:34&lt;/p&gt;
 &lt;p&gt;We worked with FrameRate to bring their brand to life and they showed up as collaborators from day one. The overlap in what our teams value runs deeper than we expected. We both put people first. We both treat craft as the work itself. And the community that FrameRate is building is exactly the kind of place for show-and-tell that creatives need more of.&lt;/p&gt;
 &lt;p&gt;We're betting on FrameRate. Not just for this project but for what they're building for everyone who works in this space. Films like this are rare opportunities in our industry and this one was a particular joy to make.&lt;/p&gt;
 &lt;p&gt;Read more and take a look behind the scenes at:&lt;br /&gt;https://framerate.tv/blog/making-the-framerate-brand-manifesto&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/thefurrow/framerate"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/teOWko2C" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Spotify Mixing Tools – BUCK</title>
-  <link href="https://framerate.tv/watch/buck/UNjb1pQM"/>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/UNjb1pQM"/>
   <id>https://framerate.tv/watch/UNjb1pQM</id>
   <published>2026-05-22T14:00:00+00:00</published>
   <updated>2026-05-22T14:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg"/>
-  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <author><name>BUCK</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/4BrwUEhTKPBfeOrVKaATTJy7qdbziYPzuyETX1VkjbY/1080p.mp4"/>
+  <media:content url="https://stream.mux.com/4BrwUEhTKPBfeOrVKaATTJy7qdbziYPzuyETX1VkjbY/1080p.mp4" medium="video" type="video/mp4" duration="30" isDefault="true">
+    <media:player url="https://framerate.tv/embed/UNjb1pQM" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg"/>
+    <media:title>Spotify Mixing Tools – BUCK</media:title>
+  </media:content>
   <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg"/>
   <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg</webfeeds:featuredImage>
   <summary>We crafted this neon-powered 2D spot to celebrate the evolution of Spotify's Mixing Tools, made in collaboration with Spotify's in-house Creative team. A spaceship takes us on a playful journey through three distinct worlds inspired by the music: an abstract club scene, an ethereal lotus flower land</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;div style="position:relative; width:100%; aspect-ratio:16/9; margin-bottom:1.2em; background:#000;"&gt;&lt;iframe src="https://framerate.tv/embed/UNjb1pQM" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/4BrwUEhTKPBfeOrVKaATTJy7qdbziYPzuyETX1VkjbY/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/4BrwUEhTKPBfeOrVKaATTJy7qdbziYPzuyETX1VkjbY.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/UNjb1pQM" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg" alt="Spotify Mixing Tools" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/UNjb1pQM" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:31)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 &lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/buck"&gt;BUCK&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:31&lt;/p&gt;
 &lt;p&gt;We crafted this neon-powered 2D spot to celebrate the evolution of Spotify's Mixing Tools, made in collaboration with Spotify's in-house Creative team.&lt;/p&gt;
 &lt;p&gt;A spaceship takes us on a playful journey through three distinct worlds inspired by the music: an abstract club scene, an ethereal lotus flower landscape, and a surreal city of giant faces.&lt;/p&gt;
 &lt;p&gt;The film seamlessly flows through tracks from Disclosure x Anderson .Paak, Jhené Aiko, and BLACKPINK visualizing an epic musical journey made possible by Mixing Tools.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/buck/UNjb1pQM"&gt;Ver proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/UNjb1pQM" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
