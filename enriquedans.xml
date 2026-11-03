@@ -3,7 +3,59 @@
 <title>El Blog de Enrique Dans</title>
 <link href="https://www.enriquedans.com/"/>
 <id>https://www.enriquedans.com/</id>
-<updated>2026-11-02T10:10:30+00:00</updated>
+<updated>2026-11-03T09:20:02+00:00</updated>
+<entry>
+  <title>La seguridad de una inteligencia artificial no puede depender de que tenga a bien obedecer</title>
+  <link href="https://www.enriquedans.com/2026/11/la-seguridad-de-una-inteligencia-artificial-no-puede-depender-de-que-tenga-a-bien-obedecer.html"/>
+  <id>https://www.enriquedans.com/2026/11/la-seguridad-de-una-inteligencia-artificial-no-puede-depender-de-que-tenga-a-bien-obedecer.html#v1</id>
+  <published>2026-11-03T09:20:02+00:00</published>
+  <updated>2026-11-03T09:20:02+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg</webfeeds:featuredImage>
+  <summary>Un buen reportaje en el Financial Times, «The race to keep AI under control«, estudia lo que ocurrió en incidentes de seguridad recientes en los que los agentes encontraron vías de comunicación y actuaron al margen de las instrucciones que tenían: en el caso de Hugging Face, del que ya hemos hablado anteriormente, unos setecientos …</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE.jpg"&gt;&lt;img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-1024x1024.jpg" alt="IMAGE: A comic-style robot is blocked from a sensitive control by a locked barrier, while a human holds the key." class="wp-image-59114" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Un buen reportaje en el Financial Times, &lt;em&gt;«&lt;a href="https://ig.ft.com/ai-safety/?syn-25a6b1a6=1" target="_blank" rel="noopener"&gt;The race to keep AI under control&lt;/a&gt;«&lt;/em&gt;, estudia lo que ocurrió en incidentes de seguridad recientes en los que los agentes encontraron vías de comunicación y actuaron al margen de las instrucciones que tenían: en el caso de Hugging Face, del que ya &lt;a href="https://www.enriquedans.com/2026/09/cuando-mil-agentes-encuentran-una-puerta.html" target="_blank" rel="noopener"&gt;hemos hablado&lt;/a&gt; anteriormente, &lt;a href="https://live.euronext.com/en/financial-news/openai-agents-hacked-hugging-face-700-strong-swarm-tried-cover-tracks-investigations" target="_blank" rel="noopener"&gt;unos setecientos agentes participaron en el ataque, y hubo intentos de ocultar actividad&lt;/a&gt;. La pregunta es evidente: ¿qué autoridad están concediendo estas compañías a estos sistemas? &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La tesis fundamental que hay que mantener es que la capacidad y la autoridad deben separarse siempre. Un modelo puede razonar muy bien, y seguir necesitando límites externos sobre datos, herramientas y operaciones. Ese es un argumento que, de hecho, desarrolla explícitamente Microsoft cuando afirma que &lt;a href="https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/" target="_blank" rel="noopener"&gt;un modelo nunca debería ser su propia autoridad de seguridad&lt;/a&gt;. Pedir obediencia mediante instrucciones y comprobar permisos antes de ejecutar algo son mecanismos diferentes.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Cómo se traduce esto en mecanismos concretos? Básicamente, otorgando permisos mínimos, delimitando los destinos de red y los accesos a archivos, y protegiendo las credenciales. La autonomía puede delimitarse para cada operación: por ejemplo, podemos permitir que un agente consulte facturas y prepare reclamaciones, pero sin concederle autoridad para modificar saldos o para exportar toda la base de clientes. Anthropic ha publicado &lt;a href="https://www.anthropic.com/research/claude-code-sandboxing" target="_blank" rel="noopener"&gt;explicaciones sobre su combinación de aislamiento de archivos y red&lt;/a&gt;, incluyendo esas posibles restricciones sobre procesos derivados.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Para poder auditar un agente necesitamos evidencia de las llamadas, los accesos y los cambios reales que haya podido llevar a cabo. En los casos que han sido noticia recientemente, hemos visto ejemplos de &lt;a href="https://www.redwoodresearch.org/research/hugging-face-incident" target="_blank" rel="noopener"&gt;coordinación no autorizada e intentos de manipulación de transcripciones&lt;/a&gt;, algo que nunca debería ocurrir: los registros de seguridad tienen que estar protegidos frente al sistema observado, porque preguntarle al sistema a posteriori qué es lo que hizo es una base claramente insuficiente para exigir responsabilidades. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En ese sentido, que los agentes mejoren mediante la experiencia no garantiza que no se dediquen a aprender comportamientos indeseables. Anthropic ha estudiado cómo &lt;a href="https://www.anthropic.com/research/emergent-misalignment-reward-hacking"&gt;los agentes aprenden a explotar recompensas (&lt;em&gt;reward hacking&lt;/em&gt;) y cómo eso puede llevarnos a comportamientos desalineados&lt;/a&gt;. Por eso, una compañía debería definir tanto el resultado buscado como las restricciones que ninguna mejora del indicador debería permitir vulnerar. El aprendizaje automático no es ningún remedio automático: además, hay que exigir que tanto los objetivos como la evaluación y los límites estén bien diseñados. La desidia de las compañías en los incidentes conocidos hasta ahora en este sentido es completamente injustificable e irresponsable: continuar las evaluaciones después de detectar comunicaciones no autorizadas, como relata el Financial Times, es algo que demanda explicaciones y sanciones. Mientras estas decisiones no tengan consecuencias para quienes las toman, los incentivos para priorizar la seguridad seguirán siendo insuficientes.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Resulta fundamental que antes de ampliar autonomía, exijamos demostraciones de permisos efectivos, trazabilidad, revocación y capacidad para detener operaciones. Microsoft, por ejemplo, habla de respuestas graduadas, como conservar los permisos de lectura mientras se bloquean los de escritura o se exige una aprobación humana. Una autonomía útil necesita una arquitectura capaz de concederla, observarla y retirarla con la precisión necesaria en cada momento. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La diferencia fundamental debería estar entre pedirle a un agente que no haga algo, frente a diseñar un sistema en el que simplemente carezca de autoridad para hacerlo. Eso exige una arquitectura en la que los agentes actúen mediante operaciones explícitamente definidas y cada ejecución pase por una comprobación de permisos independiente del modelo. Un agente puede idear una estrategia para acceder a una base de datos, comunicarse con otro agente o modificar una herramienta, pero esa intención no debería concederle los permisos necesarios para hacerlo. Incluso la capacidad de mejorar su propio funcionamiento debe quedar sometida a controles que no pueda reescribir. Si todas las vías de ejecución, incluidas las herramientas externas, atraviesan ese control, determinadas acciones prohibidas pueden impedirse aunque el modelo intente llevarlas a cabo. Eso no elimina los errores ni el posible abuso de funciones autorizadas, pero cambia sustancialmente el problema: la seguridad deja de depender de que el agente tenga a bien obedecer. El control debe funcionar incluso cuando falla la obediencia. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+</content>
+</entry>
 <entry>
   <title>La inteligencia artificial necesita algo más que cheques</title>
   <link href="https://www.enriquedans.com/2026/11/la-inteligencia-artificial-necesita-algo-mas-que-cheques.html"/>
@@ -21,7 +73,7 @@
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE.jpg"&gt;&lt;img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-1024x1024.jpg" alt="IMAGE: A vast server machine circulates money in an endless loop while an engineer builds a small, interconnected system below." class="wp-image-59109" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE.jpg"&gt;&lt;img decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-1024x1024.jpg" alt="IMAGE: A vast server machine circulates money in an endless loop while an engineer builds a small, interconnected system below." class="wp-image-59109" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -269,7 +321,7 @@
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-full is-resized"&gt;&lt;img decoding="async" width="799" height="533" src="https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA.jpg" alt="IMAGE: 2026_01_19.20 Accidente ferroviario de Adamuz - Junta de Andalucia (CC BY-SA)" class="wp-image-59095" style="aspect-ratio:1.4991204925241866;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA.jpg 799w, https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA-300x200.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA-768x512.jpg 768w" sizes="(max-width: 799px) 100vw, 799px" /&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" width="799" height="533" src="https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA.jpg" alt="IMAGE: 2026_01_19.20 Accidente ferroviario de Adamuz - Junta de Andalucia (CC BY-SA)" class="wp-image-59095" style="aspect-ratio:1.4991204925241866;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA.jpg 799w, https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA-300x200.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA-768x512.jpg 768w" sizes="auto, (max-width: 799px) 100vw, 799px" /&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -778,66 +830,6 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;em&gt;(This article was &lt;a href="https://www.fastcompany.com/91619005/when-ai-runs-company-what-exactly-leadership" target="_blank" rel="noopener"&gt;previously published on Fast Company&lt;/a&gt;) &lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
-  <title>La inteligencia artificial empresarial no necesita sólo modelos más grandes: necesita aprender de la empresa</title>
-  <link href="https://www.enriquedans.com/2026/10/la-inteligencia-artificial-empresarial-no-necesita-solo-modelos-mas-grandes-necesita-aprender-de-la-empresa.html"/>
-  <id>https://www.enriquedans.com/2026/10/la-inteligencia-artificial-empresarial-no-necesita-solo-modelos-mas-grandes-necesita-aprender-de-la-empresa.html#v1</id>
-  <published>2026-10-24T09:05:01+00:00</published>
-  <updated>2026-10-24T09:05:01+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-empresarial-no-nec.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-empresarial-no-nec.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-empresarial-no-nec.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-empresarial-no-nec.jpg</webfeeds:featuredImage>
-  <summary>En una entrevista en CTO Magazine, titulada «Is AI optimization more important than bigger models?», Juan Morán, CEO y cofundador de TuringDream, plantea una pregunta que conviene hacer antes de encargarle a un modelo que redacte más rápido o resuma mejor: ¿cómo convertimos esa capacidad en mejores resultados para toda la compañía? Su respuesta es </summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-empresarial-no-nec.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/10/Feedback-loops-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/10/Feedback-loops-DallE-1024x1024.jpg" alt="IMAGE: A cutaway company building connected by glowing feedback loops, symbolizing AI that learns from everyday operations." class="wp-image-59050" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/10/Feedback-loops-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/10/Feedback-loops-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/10/Feedback-loops-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/10/Feedback-loops-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/10/Feedback-loops-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;En una entrevista en CTO Magazine, titulada &lt;em&gt;«&lt;a href="https://ctomagazine.com/ai-optimization-is-more-important-than-bigger-models/"&gt;Is AI optimization more important than bigger models&lt;/a&gt;?»&lt;/em&gt;, Juan Morán, CEO y cofundador de &lt;a href="https://www.turingdream.com/?enriquedans" target="_blank" rel="noopener"&gt;TuringDream&lt;/a&gt;, plantea una pregunta que conviene hacer antes de encargarle a un modelo que redacte más rápido o resuma mejor: ¿cómo convertimos esa capacidad en mejores resultados para toda la compañía? Su respuesta es que la próxima frontera no está únicamente en aumentar la potencia de los modelos, sino en construir sistemas capaces de actuar, medir las consecuencias y aprender de ellas. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La distinción importa. Un modelo puede ser extraordinariamente inteligente en una tarea y, aun así, no saber si su respuesta ha mejorado la relación con un cliente, reducido un riesgo o perjudicado otro proceso. Las empresas no funcionan como una suma de tareas aisladas: sus decisiones se afectan unas a otras, y sus resultados dependen de objetivos, restricciones y consecuencias que aparecen con el tiempo. Como escribí en «&lt;a href="https://www.enriquedans.com/2026/05/el-emperador-esta-desnudo-los-llm-nunca-fueron-disenados-para-dirigir-una-empresa.html" target="_blank" rel="noopener"&gt;El emperador está desnudo: los LLM nunca se diseñaron para dirigir una empresa&lt;/a&gt;«, la inteligencia local no se convierte automáticamente en inteligencia colectiva. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Hay datos recientes que apuntan a esa brecha. En su encuesta global de 2026, McKinsey encontró que &lt;a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai" target="_blank" rel="noopener"&gt;el 80% de los encuestados percibe mejoras en su productividad individual gracias a la inteligencia artificial, pero solo el 37% es capaz de atribuir algún impacto en el EBITDA a su uso&lt;/a&gt;: la proporción de organizaciones que considera que obtiene un valor significativo sigue siendo muy pequeña. Es una encuesta, no una prueba causal, pero ayuda a entender por qué desplegar herramientas no equivale a transformar una empresa. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Lo que proponemos es conectar modelos de lenguaje con modelos del entorno, aprendizaje por refuerzo y una memoria operativa persistente. En términos sencillos: que el sistema represente cómo funciona el negocio, pueda actuar dentro de permisos definidos y use los resultados de sus acciones para mejorar decisiones futuras. No se trata de conceder autonomía sin límites. En la entrevista, Juan insiste en que las facultades de cada sistema deben ser específicas, auditables y ajustables por las personas responsables. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Ese planteamiento enlaza con dos ideas que he desarrollado previamente en Fast Company: &lt;a href="https://www.enriquedans.com/2026/07/la-proxima-frontera-de-la-inteligencia-artificial-empresarial-es-la-empresa-optimizable.html" target="_blank" rel="noopener"&gt;la empresa optimizable necesita un modelo formal de sí misma&lt;/a&gt;, y su ventaja no dependerá solo del modelo elegido, sino del &lt;a href="https://www.enriquedans.com/2026/06/satya-nadella-esta-haciendo-la-pregunta-correcta.html" target="_blank" rel="noopener"&gt;bucle de aprendizaje construido alrededor de los modelos&lt;/a&gt;. McKinsey también señala que las organizaciones que obtienen más valor tienden a rediseñar sus flujos de trabajo. Y una investigación de MIT Sloan muestra que &lt;a href="https://mitsloan.mit.edu/press/why-some-organizations-turn-ai-experiments-business-value-while-others-quietly-fail" target="_blank" rel="noopener"&gt;escalar soluciones de inteligencia artificial requiere sostener la experimentación y la colaboración entre empleados, no limitarse a proporcionar tecnología&lt;/a&gt;. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;¿Qué hacemos en TuringDream? Estamos construyendo Tau con esa ambición: que la inteligencia artificial no sea una capa de conversación añadida a los sistemas existentes, sino una plataforma para coordinar agentes y aprender de la actividad real de la organización. La llamamos &lt;em&gt;Optimal AI&lt;/em&gt;: pasar de generar respuestas a perseguir objetivos medibles. La arquitectura incluye TSL, un lenguaje y entorno de ejecución propios, y una capa de aprendizaje que busca acumular conocimiento operativo con el uso.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Es una apuesta tecnológica, pero señala una pregunta útil para cualquier empresa que esté invirtiendo en inteligencia artificial: además de limitarse a preguntar qué modelo está usando, ¿está construyendo una arquitectura que le permita aprender de lo que hace y sea susceptible de ayudarle a generar una verdadera ventaja competitiva? &lt;/p&gt;
-
-
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/enterprise-ai-doesnt-just-need-larger-models-it-needs-to-learn-from-the-business-itself-8afbaa167cc1?sk=b05a341f64a1ddf3d95e95c533a4d4d4" data-type="link" data-id="https://medium.com/enrique-dans/enterprise-ai-doesnt-just-need-larger-models-it-needs-to-learn-from-the-business-itself-8afbaa167cc1?sk=b05a341f64a1ddf3d95e95c533a4d4d4" target="_blank" rel="noopener"&gt;Enterprise AI doesn’t just need larger models, it needs to learn from the business itself&lt;/a&gt;«&lt;/em&gt;&lt;/p&gt;
 
 
 
