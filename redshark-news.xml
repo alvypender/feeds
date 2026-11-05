@@ -3,7 +3,202 @@
 <title>RedShark News – Completo</title>
 <link href="https://www.redsharknews.com/"/>
 <id>https://www.redsharknews.com/</id>
-<updated>2026-11-04T12:00:01+00:00</updated>
+<updated>2026-11-05T06:25:46+00:00</updated>
+<entry>
+  <title>DaVinci Resolve 21.2: new features and fixes</title>
+  <link href="https://www.redsharknews.com/davinci-resolve-21-2-whats-new"/>
+  <id>https://www.redsharknews.com/davinci-resolve-21-2-whats-new</id>
+  <published>2026-11-05T06:25:46+00:00</published>
+  <updated>2026-11-05T06:25:46+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/davinci%20resolve%20color%20control%20HD.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/davinci%20resolve%20color%20control%20HD.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/davinci%20resolve%20color%20control%20HD.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/davinci%20resolve%20color%20control%20HD.jpg</webfeeds:featuredImage>
+  <summary>4 minute read DaVinci Resolve 21.2: new features and fixes 7:20 DaVinci Resolve 21.2 supports MacBook Pro PROLED XDR touch screens and Gen 6 LUTs. Studio adds AI assistant tools, while Fusion Studio and Fairlight Live also update. Blackmagic Design's dev team has been hard at wor</summary>
+  <content type="html">&lt;img style="
+
+ 
+	border-bottom: 16px solid #F25151;
+ 
+         
+" src="https://www.redsharknews.com/hubfs/davinci%20resolve%20color%20control%20HD.jpg" alt="DaVinci Resolve 21.2 brings Gen 6 LUTs, MacBook Pro PROLED XDR support, and more than 25 fixes" class="webfeedsFeaturedVisual"&gt;
+
+&lt;div class="read-minute"&gt;
+
+
+
+
+
+4 minute read
+
+&lt;/div&gt;
+&lt;div class="blog-section"&gt;
+&lt;div class="blog-post-wrapper cell-wrapper"&gt;
+&lt;div class="blog-section"&gt;
+&lt;div class="blog-post-wrapper cell-wrapper"&gt;
+&lt;div class="section post-body"&gt;
+&lt;div class="post-body--main-content"&gt;
+
+&lt;div style="margin-top: 12px;"&gt;
+&lt;div id="hs_cos_wrapper_narration" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"&gt;&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/TrackPlayAnalytics-DDKdhRbk.css"&gt;
+&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/Tooltip-BfwIxqAN.css"&gt;
+&lt;div data-hs-island="true" id="island-e46db1n76d2cdR0"&gt;&lt;div&gt;&lt;div class="hs-audio-player _hs-audio-player_1nxo7_1" role="group" tabindex="0" aria-label="Play blog post audio: DaVinci Resolve 21.2: new features and fixes" data-status="initial" data-testid="audio-player" style="display:flex;align-items:center;height:60px;--primary:#cf000f;--secondary:#ffffff;--tertiary:#fc626d;--primary-alt:#d72020;--tertiary-translucent:#fc626d50"&gt;&lt;div class="_play-pause-skip_1nxo7_117 hs-audio-player__controls"&gt;&lt;div class="_control-button_1nxo7_36 _play-pause-button_1nxo7_122 hs-audio-player__play-pause-button" role="button" tabindex="-1" aria-label="Play" data-testid="play-pause-button"&gt;&lt;span class="_loading-spinner_1nxo7_147 hs-audio-player__loading-spinner" aria-label="Loading" aria-busy="true"&gt;&lt;span class="hs-audio-player__loading-icon"&gt;&lt;svg width="40" height="40" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"&gt;&lt;path d="M0 20C0 31.0457 8.95431 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.95431 0 0 8.9543 0 20ZM36.4 20C36.4 29.0575 29.0575 36.4 20 36.4C10.9425 36.4 3.6 29.0575 3.6 20C3.6 10.9425 10.9425 3.6 20 3.6C29.0575 3.6 36.4 10.9425 36.4 20Z" fill="url(#paint0_angular_1434_396)"&gt;&lt;/path&gt;&lt;circle cx="20" cy="20" r="18" fill="none" stroke="#00a4bd" stroke-width="3"&gt;&lt;/circle&gt;&lt;defs&gt;&lt;radialgradient id="paint0_angular_1434_396" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse" gradienttransform="translate(20 20) rotate(90) scale(20)"&gt;&lt;stop stop-color="#00A4BD"&gt;&lt;/stop&gt;&lt;stop offset="0.489583" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;stop offset="1" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;/radialgradient&gt;&lt;/defs&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="_initial-title_1nxo7_40 hs-audio-player__title" style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis"&gt;DaVinci Resolve 21.2: new features and fixes&lt;/div&gt;&lt;div class="_ai-generated-icon_1nxo7_47 hs-audio-player__ai-icon" role="img" aria-label="AI-generated audio" tabindex="0"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" viewbox="0 -6 32 34"&gt;&lt;path d="M17.01.6l2.75 5.03c1.18 2.16 2.96 3.94 5.12 5.12l5.03 2.75c.8.44.8 1.58 0 2.01l-5.02 2.75c-2.16 1.18-3.94 2.96-5.12 5.12l-2.75 5.02c-.44.8-1.58.8-2.01 0l-2.75-5.03c-1.18-2.16-2.96-3.94-5.12-5.12L2.11 15.5c-.8-.44-.8-1.58 0-2.01l5.03-2.75c2.16-1.18 3.94-2.96 5.12-5.12L14.99.6c.44-.8 1.58-.8 2.01 0z"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div class="_duration_1nxo7_62 hs-audio-player__duration"&gt;7:20&lt;/div&gt;&lt;/div&gt;&lt;audio preload="none" src="https://www.redsharknews.com/hubfs/AI-Generated%20Media/Post%20Narration%20Audio/226554263040-TTS-1793859610479.mp3"&gt;&lt;/audio&gt;&lt;/div&gt;&lt;/div&gt;
+    
+      
+  
+  &lt;link rel="modulepreload" crossorigin href="https://static.hsappstatic.net/cms-js-static/ex/js/react/v18/react-combined.mjs"&gt;
+  
+      &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;DaVinci Resolve 21.2 supports MacBook Pro PROLED XDR touch screens and Gen 6 LUTs. Studio adds AI assistant tools, while Fusion Studio and Fairlight Live also update.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Blackmagic Design's dev team has been hard at work as usual, and DaVinci Resolve 21.2 was uploaded to its servers overnight.&lt;/p&gt;
+&lt;p&gt;Because the company often works closely with Apple, this software update adds support for &lt;a href="/apple-macbook-pro-proled-xdr-touch-oled-price" rel="noopener" target="_blank"&gt;Apple MacBook Pro laptops with PROLED XDR displays&lt;/a&gt; as well as up to 5x faster rendering for M5 Pro and M5 Max Apple silicon chips. This update also adds support for Blackmagic Generation 6 Color Science LUTs and film looks (we covered the Gen 6 release &lt;a href="/blackmagic-generation-6-color-science" rel="noopener" target="_blank"&gt;here&lt;/a&gt;), as well as source timecode for extracted audio files. There are also fixes for network drive audio issues with some MXF clips and for AAF audio timecode accuracy from interlaced media, plus OGraf template loading and render fixes.&lt;/p&gt;
+&lt;p&gt;The paid DaVinci Resolve Studio 21.2 version, which is still &lt;a href="/davinci-resolve-studio-21-sale-20-percent-off" rel="noopener" target="_blank"&gt;20% off at $236&lt;/a&gt; until November 20, adds a few further tweaks, mainly in the &lt;a href="/blackmagic-davinci-resolve-ai-assistant" rel="noopener" target="_blank"&gt;AI assistant&lt;/a&gt; area. You can find the full list of its additional features below.&lt;/p&gt;
+&lt;h2&gt;Fusion Studio 21.2 adds OGraf and Text+ fixes&lt;/h2&gt;
+&lt;p&gt;Fusion Studio 21.2 has also been updated. Blackmagic says it improves stability, with fixes for custom tool control naming, Text+ CLS border extension anchoring, and OGraf template loading and rendering. The OGraf inspector now shows up to 35 template properties.&lt;/p&gt;
+&lt;h2&gt;Fairlight Live 1.1.1 supports two new control panels&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://www.redsharknews.com/hs-fs/hubfs/fairlight-live-audio-panel-40.jpg?width=1280&amp;amp;height=720&amp;amp;name=fairlight-live-audio-panel-40.jpg" width="1280" height="720" loading="lazy" alt="fairlight-live-audio-panel-40" style="height: auto; max-width: 100%; width: 1280px;" srcset="https://www.redsharknews.com/hs-fs/hubfs/fairlight-live-audio-panel-40.jpg?width=640&amp;amp;height=360&amp;amp;name=fairlight-live-audio-panel-40.jpg 640w, https://www.redsharknews.com/hs-fs/hubfs/fairlight-live-audio-panel-40.jpg?width=1280&amp;amp;height=720&amp;amp;name=fairlight-live-audio-panel-40.jpg 1280w, https://www.redsharknews.com/hs-fs/hubfs/fairlight-live-audio-panel-40.jpg?width=1920&amp;amp;height=1080&amp;amp;name=fairlight-live-audio-panel-40.jpg 1920w, https://www.redsharknews.com/hs-fs/hubfs/fairlight-live-audio-panel-40.jpg?width=2560&amp;amp;height=1440&amp;amp;name=fairlight-live-audio-panel-40.jpg 2560w, https://www.redsharknews.com/hs-fs/hubfs/fairlight-live-audio-panel-40.jpg?width=3200&amp;amp;height=1800&amp;amp;name=fairlight-live-audio-panel-40.jpg 3200w, https://www.redsharknews.com/hs-fs/hubfs/fairlight-live-audio-panel-40.jpg?width=3840&amp;amp;height=2160&amp;amp;name=fairlight-live-audio-panel-40.jpg 3840w" sizes="(max-width: 1280px) 100vw, 1280px"&gt;And finally, the new &lt;a href="/fairlight-live-atem-switchers-10-3-usb-audio" rel="noopener" target="_blank"&gt;Fairlight Live&lt;/a&gt; 1.1.1 release adds support for Fairlight Live Audio Panel 20 and Fairlight Live Audio Panel 40. Blackmagic's control surfaces now cover 10, 20, and 40 faders supported by 1, 2, and 4 touchscreens, and provide controls for layers, bus, matrix, aux, VCA, sub-masters, talkback, and more. Prices scale from $2415 to $8245.&lt;/p&gt;
+&lt;p&gt;The latest software also includes templates for new ATEM Constellation IP switchers, improves audio I/O management and error reporting, and adds user-defined screen mapping and a panel screensaver after a period of inactivity.&lt;/p&gt;
+&lt;p&gt;All downloads are free and available from the &lt;a href="https://www.blackmagicdesign.com/support/" rel="noopener" target="_blank"&gt;Blackmagic Design Support Center&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Full release notes for each package&lt;/h2&gt;
+&lt;p&gt;Here's the full list of new features and fixes per package.&lt;/p&gt;
+&lt;h3&gt;What's new in DaVinci Resolve 21.2&lt;/h3&gt;
+&lt;p&gt;The following features have been added or updated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for Apple MacBook Pro with PROLED XDR touch screens.&lt;/li&gt;
+&lt;li&gt;Support for Blackmagic Design Gen 6 LUTs.&lt;/li&gt;
+&lt;li&gt;Extracted audio files now retain source timecode.&lt;/li&gt;
+&lt;li&gt;Multicam clips now open as source clips in source timelines.&lt;/li&gt;
+&lt;li&gt;Open in Timeline with Source Viewer supports clips and multicams.&lt;/li&gt;
+&lt;li&gt;Menu action and shortcut to restore last active edit points.&lt;/li&gt;
+&lt;li&gt;Command or Ctrl marquee selection now uses last edit point type.&lt;/li&gt;
+&lt;li&gt;Conform lock multiple timeline clips to one media pool clip.&lt;/li&gt;
+&lt;li&gt;Convert in out to compound clip replaces clips in situ.&lt;/li&gt;
+&lt;li&gt;Separate context action to create compound clip from in out range.&lt;/li&gt;
+&lt;li&gt;Stop playback option applies to playhead nudges and mouse clicks.&lt;/li&gt;
+&lt;li&gt;Edit menu options now persist after UI layout reset.&lt;/li&gt;
+&lt;li&gt;Support for EXIF metadata in PNG files.&lt;/li&gt;
+&lt;li&gt;Addressed network drive audio issues for some MXF clips.&lt;/li&gt;
+&lt;li&gt;Addressed slow MP3 audio only renders.&lt;/li&gt;
+&lt;li&gt;Addressed missing clips in some AAF imports.&lt;/li&gt;
+&lt;li&gt;Addressed incorrect audio timecode for AAF with interlaced media.&lt;/li&gt;
+&lt;li&gt;Addressed OGraf template loading from network and zipped paths.&lt;/li&gt;
+&lt;li&gt;Addressed OGraf render timeouts and memory usage issues.&lt;/li&gt;
+&lt;li&gt;Addressed slow loading of media from XDCAM drives.&lt;/li&gt;
+&lt;li&gt;Addressed flashing media offline frames with some H.265 clips.&lt;/li&gt;
+&lt;li&gt;Addressed source track changes in collaboration source timelines.&lt;/li&gt;
+&lt;li&gt;Addressed hang editing MultiText keyframes during render cache.&lt;/li&gt;
+&lt;li&gt;Addressed issues with italics in imported TTML subtitles.&lt;/li&gt;
+&lt;li&gt;Addressed data burn scaling issues for render resolutions.&lt;/li&gt;
+&lt;li&gt;Addressed HE-AAC decode issues for some clips on Windows.&lt;/li&gt;
+&lt;li&gt;Addressed incorrect channel order for WAV files with iXML tracks.&lt;/li&gt;
+&lt;li&gt;Addressed crash decoding some multi-channel DNG files.&lt;/li&gt;
+&lt;li&gt;Addressed render in place handles for frame based formats.&lt;/li&gt;
+&lt;li&gt;Addressed audio input device preference reset after restart.&lt;/li&gt;
+&lt;li&gt;Addressed GPU memory error for some OpenFX on Windows.&lt;/li&gt;
+&lt;li&gt;Addressed artifacts in Sony XAVC Long GOP MXF renders.&lt;/li&gt;
+&lt;li&gt;Addressed missing Text+ inspector controls in older projects.&lt;/li&gt;
+&lt;li&gt;Addressed anchoring issue with Text+ CLS box extend controls.&lt;/li&gt;
+&lt;li&gt;Addressed issues with CustomTool LUT name controls.&lt;/li&gt;
+&lt;li&gt;Addressed issue with clip EQ pasted Q and frequency attributes.&lt;/li&gt;
+&lt;li&gt;Addressed ACES 2.0 artifacts on Windows and Linux.&lt;/li&gt;
+&lt;li&gt;Addressed network paths with accented characters on macOS 27.&lt;/li&gt;
+&lt;li&gt;Addressed file size estimates for spanned RED clips.&lt;/li&gt;
+&lt;li&gt;Updated Fusion tool and scripting reference developer documents.&lt;/li&gt;
+&lt;li&gt;General performance and stability improvements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;DaVinci Resolve Studio 21.2 adds&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;New features and improvements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ResolveFX False Color support for Gen 5 and Gen 6 color science&lt;/li&gt;
+&lt;li&gt;Improved AI assistant color and Fusion capabilities&lt;/li&gt;
+&lt;li&gt;AI assistants can download extras needed for advanced features&lt;/li&gt;
+&lt;li&gt;AI assistants can export frames or order thumbnails as grid&lt;/li&gt;
+&lt;li&gt;Multiple scripting API improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fixes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Addressed loss of OpenFX from MultiMaster trim groups on reload&lt;/li&gt;
+&lt;li&gt;Addressed MainConcept H.265 CRF render crash&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What's new in Fusion Studio 21.2&lt;/h3&gt;
+&lt;p&gt;The following features have been added or updated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Addressed control naming issue with custom tool and vertex.&lt;/li&gt;
+&lt;li&gt;Addressed anchoring issue with border extension in Text+ CLS.&lt;/li&gt;
+&lt;li&gt;Addressed issue with tube create tool category.&lt;/li&gt;
+&lt;li&gt;Addressed material viewer crash with software rendering.&lt;/li&gt;
+&lt;li&gt;OGraf inspector now shows up to 35 template properties.&lt;/li&gt;
+&lt;li&gt;Addressed OGraf template loading from network and zipped paths.&lt;/li&gt;
+&lt;li&gt;Addressed OGraf render timeout and memory usage issues.&lt;/li&gt;
+&lt;li&gt;Addressed issue with plastic light height control.&lt;/li&gt;
+&lt;li&gt;Addressed issue changing random seed in Shake.&lt;/li&gt;
+&lt;li&gt;Addressed script issues with AddTool and SetInput functions.&lt;/li&gt;
+&lt;li&gt;Addressed issue reading video files with FFMpeg.&lt;/li&gt;
+&lt;li&gt;General performance and stability improvements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What's new in Fairlight Live 1.1.1&lt;/h3&gt;
+&lt;p&gt;The following features have been added or updated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for Fairlight Live Audio Panel 20.&lt;/li&gt;
+&lt;li&gt;Support for Fairlight Live Audio Panel 40.&lt;/li&gt;
+&lt;li&gt;Improved IO management and reporting.&lt;/li&gt;
+&lt;li&gt;Multiple panel UI improvements.&lt;/li&gt;
+&lt;li&gt;Custom screen mapping support for multi-screen panels.&lt;/li&gt;
+&lt;li&gt;Support for panel screensaver after period of inactivity.&lt;/li&gt;
+&lt;li&gt;Do-to-all/selected support in bus management dialog.&lt;/li&gt;
+&lt;li&gt;Added templates for new Constellation IP switchers.&lt;/li&gt;
+&lt;li&gt;Persistent file selector path in cue player.&lt;/li&gt;
+&lt;li&gt;Updated snapshots to show date and time of creation.&lt;/li&gt;
+&lt;li&gt;Improved bi-directional monitoring settings in patching matrix.&lt;/li&gt;
+&lt;li&gt;Addressed issue with layer setup.&lt;/li&gt;
+&lt;li&gt;Addressed 2110 sender issue in panel utility.&lt;/li&gt;
+&lt;li&gt;Addressed issue where the patching matrix view reset to top.&lt;/li&gt;
+&lt;li&gt;Panels now reset all screens to home on project load.&lt;/li&gt;
+&lt;li&gt;Addressed issue with channel selection in the index.&lt;/li&gt;
+&lt;li&gt;Addressed issue with initialization of MixMinus outputs.&lt;/li&gt;
+&lt;li&gt;General performance and stability improvements.&lt;/li&gt;
+&lt;/ul&gt;&lt;/span&gt;
+&lt;p id="hubspot-topic_data"&gt;Tags:
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/post-vfx"&gt;Post &amp;amp; VFX&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/davinci-resolve"&gt;DaVinci Resolve&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/davinci-resolve-studio"&gt;DaVinci Resolve Studio&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/fusion-studio"&gt;Fusion Studio&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/fairlight"&gt;Fairlight&lt;/a&gt;
+&lt;/p&gt;
+&lt;div class="blog-social-group" style="display: flex;"&gt;
+&lt;a data-flip-widget="shareflip" href="https://flipboard.com"&gt;
+&lt;img style="width: 20px!important; margin: 10px 4px 0 0;" src="https://cdn.flipboard.com/badges/flipboard_srsw.png"&gt;
+&lt;/a&gt;
+
+&lt;span id="hs_cos_wrapper_blog_social_sharing" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_social_sharing" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_social_sharing"&gt;
+&lt;div class="hs-blog-social-share"&gt;
+&lt;ul class="hs-blog-social-share-list"&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-twitter"&gt;
+
+&lt;a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-url="https://www.redsharknews.com/davinci-resolve-21-2-whats-new" data-size="medium" data-text="DaVinci Resolve 21.2: new features and fixes"&gt;Tweet&lt;/a&gt;
+&lt;/li&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-linkedin"&gt;
+
+
+&lt;/li&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
+
+&lt;div class="fb-share-button" data-href="https://www.redsharknews.com/davinci-resolve-21-2-whats-new" data-layout="button_count"&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+</entry>
 <entry>
   <title>Affinity for iPad: what’s free and what’s missing</title>
   <link href="https://www.redsharknews.com/affinity-ipad-free-design-app"/>
@@ -914,115 +1109,6 @@
 &lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
 
 &lt;div class="fb-share-button" data-href="https://www.redsharknews.com/dune-part-three-imax-lenses-atlas-dan-kanes" data-layout="button_count"&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content>
-</entry>
-<entry>
-  <title>Insta360 Ace Pro 3: rumored specs and release date</title>
-  <link href="https://www.redsharknews.com/insta360-ace-pro-3-specs-price-release-date"/>
-  <id>https://www.redsharknews.com/insta360-ace-pro-3-specs-price-release-date</id>
-  <published>2026-10-17T06:16:26+00:00</published>
-  <updated>2026-10-17T06:16:26+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/Ace%20Pro%202_Multi%20Angle%201.jpg"/>
-  <media:content url="https://www.redsharknews.com/hubfs/Ace%20Pro%202_Multi%20Angle%201.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.redsharknews.com/hubfs/Ace%20Pro%202_Multi%20Angle%201.jpg"/>
-  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/Ace%20Pro%202_Multi%20Angle%201.jpg</webfeeds:featuredImage>
-  <summary>2 minute read Insta360 Ace Pro 3: rumored specs and release date 4:01 An FCC grant confirms the Insta360 Ace Pro 3 exists. Insta360 has announced nothing else, but rumors suggest a very capable performer with a 1-inch sensor and 8K video. An FCC grant for a device listed as the I</summary>
-  <content type="html">&lt;img style="
-
- 
-	border-bottom: 16px solid #CF0005;
- 
-         
-" src="https://www.redsharknews.com/hubfs/Ace%20Pro%202_Multi%20Angle%201.jpg" alt="The Insta360 Ace Pro 2 was released two years ago. Is an upgrade coming soon?" class="webfeedsFeaturedVisual"&gt;
-
-&lt;div class="read-minute"&gt;
-
-
-
-
-
-2 minute read
-
-&lt;/div&gt;
-&lt;div class="blog-section"&gt;
-&lt;div class="blog-post-wrapper cell-wrapper"&gt;
-&lt;div class="blog-section"&gt;
-&lt;div class="blog-post-wrapper cell-wrapper"&gt;
-&lt;div class="section post-body"&gt;
-&lt;div class="post-body--main-content"&gt;
-
-&lt;div style="margin-top: 12px;"&gt;
-&lt;div id="hs_cos_wrapper_narration" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"&gt;&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/845/js_client_assets/assets/TrackPlayAnalytics-DDKdhRbk.css"&gt;
-&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/845/js_client_assets/assets/Tooltip-BfwIxqAN.css"&gt;
-&lt;div data-hs-island="true" id="island-e46db1n76d2cdR0"&gt;&lt;div&gt;&lt;div class="hs-audio-player _hs-audio-player_1nxo7_1" role="group" tabindex="0" aria-label="Play blog post audio: Insta360 Ace Pro 3: rumored specs and release date" data-status="initial" data-testid="audio-player" style="display:flex;align-items:center;height:60px;--primary:#cf000f;--secondary:#ffffff;--tertiary:#fc626d;--primary-alt:#d72020;--tertiary-translucent:#fc626d50"&gt;&lt;div class="_play-pause-skip_1nxo7_117 hs-audio-player__controls"&gt;&lt;div class="_control-button_1nxo7_36 _play-pause-button_1nxo7_122 hs-audio-player__play-pause-button" role="button" tabindex="-1" aria-label="Play" data-testid="play-pause-button"&gt;&lt;span class="_loading-spinner_1nxo7_147 hs-audio-player__loading-spinner" aria-label="Loading" aria-busy="true"&gt;&lt;span class="hs-audio-player__loading-icon"&gt;&lt;svg width="40" height="40" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"&gt;&lt;path d="M0 20C0 31.0457 8.95431 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.95431 0 0 8.9543 0 20ZM36.4 20C36.4 29.0575 29.0575 36.4 20 36.4C10.9425 36.4 3.6 29.0575 3.6 20C3.6 10.9425 10.9425 3.6 20 3.6C29.0575 3.6 36.4 10.9425 36.4 20Z" fill="url(#paint0_angular_1434_396)"&gt;&lt;/path&gt;&lt;circle cx="20" cy="20" r="18" fill="none" stroke="#00a4bd" stroke-width="3"&gt;&lt;/circle&gt;&lt;defs&gt;&lt;radialgradient id="paint0_angular_1434_396" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse" gradienttransform="translate(20 20) rotate(90) scale(20)"&gt;&lt;stop stop-color="#00A4BD"&gt;&lt;/stop&gt;&lt;stop offset="0.489583" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;stop offset="1" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;/radialgradient&gt;&lt;/defs&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="_initial-title_1nxo7_40 hs-audio-player__title" style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis"&gt;Insta360 Ace Pro 3: rumored specs and release date&lt;/div&gt;&lt;div class="_ai-generated-icon_1nxo7_47 hs-audio-player__ai-icon" role="img" aria-label="AI-generated audio" tabindex="0"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" viewbox="0 -6 32 34"&gt;&lt;path d="M17.01.6l2.75 5.03c1.18 2.16 2.96 3.94 5.12 5.12l5.03 2.75c.8.44.8 1.58 0 2.01l-5.02 2.75c-2.16 1.18-3.94 2.96-5.12 5.12l-2.75 5.02c-.44.8-1.58.8-2.01 0l-2.75-5.03c-1.18-2.16-2.96-3.94-5.12-5.12L2.11 15.5c-.8-.44-.8-1.58 0-2.01l5.03-2.75c2.16-1.18 3.94-2.96 5.12-5.12L14.99.6c.44-.8 1.58-.8 2.01 0z"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div class="_duration_1nxo7_62 hs-audio-player__duration"&gt;4:01&lt;/div&gt;&lt;/div&gt;&lt;audio preload="none" src="https://www.redsharknews.com/hubfs/AI-Generated%20Media/Post%20Narration%20Audio/224673642807-TTS-1792217687954.mp3"&gt;&lt;/audio&gt;&lt;/div&gt;&lt;/div&gt;
-    
-      
-  
-  &lt;link rel="modulepreload" crossorigin href="https://static.hsappstatic.net/cms-js-static/ex/js/react/v18/react-combined.mjs"&gt;
-  
-      &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;An FCC grant confirms the Insta360 Ace Pro 3 exists. Insta360 has announced nothing else, but rumors suggest a very capable performer with a 1-inch sensor and 8K video.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;An FCC grant for a device listed as the Insta360 Ace Pro 3 (&lt;a href="https://fccid.io/2AWWH-CINSABUA"&gt;FCC ID 2AWWH-CINSABUA&lt;/a&gt;) was issued to Arashi Vision, Insta360's parent company, on September 29, 2026. The model code is CINSABUA.&lt;/p&gt;
-&lt;p&gt;That means the one confirmed piece of information we have is that the camera is coming and involves dual-band WiFi (2.4 GHz and 5 GHz bands), plus Bluetooth. We also have a timeframe for its release, in that the manual, internal and external photos, and package label are all held confidential until March 2027 after which they then become public knowledge.&lt;/p&gt;
-&lt;p&gt;Everything else is rumor. Information is thinner than for some recent pre-release cameras (there are no package shots on X as yet), but there is enough to go on.&lt;/p&gt;
-&lt;h2&gt;Likely release window&lt;/h2&gt;
-&lt;p&gt;First up, we need to talk timing. As &lt;a href="https://thenewcamera.com/insta360-ace-pro-3-officially-confirmed-announcement-coming-on-or-before-november-2026/"&gt;New Camera&lt;/a&gt; points out, recent Insta360 products have a release window that covers anything from 1 to 80 days after the FCC grant, with the &lt;a href="https://redsharknews.com/insta360-ace-pro-2-announced-dual-ai-chips-redesigned-lens-and-new-sensor-feature"&gt;Ace Pro 2&lt;/a&gt; being announced just one day afterwards. Furthermore, the company has shown a definite preference for an October/November release window for the Ace series so far, which makes sense given the huge retail boost that the holiday season can provide.&lt;/p&gt;
-&lt;p&gt;Technically, that means it could be Monday.&lt;/p&gt;
-&lt;p&gt;However, the picture is complicated by what is likely to be the next-gen DJI action camera, the Osmo Action 7, which is also likely to be being prepped for release. Given the shenanigans, and that is the only word that really fits here, surrounding the two companies’ launches of &lt;a href="https://www.redsharknews.com/best-gimbal-cameras-2026-dji-insta360"&gt;their respective gimbal cameras&lt;/a&gt; this year, we’d imagine there is going to be a certain reactive element to all this.&lt;/p&gt;
-&lt;p&gt;Allowing for the current situation with DJI products in the US, there is going to be no matching FCC filing. But DJI leaks are typically numerous and plentiful, so there is a definite scenario where Insta360 just sits on the release date until DJI moves first.&lt;/p&gt;
-&lt;h2&gt;Insta360 Ace Pro 3 specs so far&lt;/h2&gt;
-&lt;p&gt;This is a summary of the speculation to date.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sensor: 1-inch, 50 MP, Leica-tuned. The Ace Pro 2 uses a 1/1.3-inch sensor&lt;/li&gt;
-&lt;li&gt;Video: 8K30, 10-bit 4K120, and 1080p at 240 fps. A global shutter is rumored&lt;/li&gt;
-&lt;li&gt;Color: HDR plus a log profile&lt;/li&gt;
-&lt;li&gt;Stabilization: FlowState 2.0 with AI-assisted 360° horizon lock&lt;/li&gt;
-&lt;li&gt;Lens: around f/2.8, plus a possible dual-lens "Ultra" version with a brighter f/1.8 second lens&lt;/li&gt;
-&lt;li&gt;Body: a modular, rugged design with a flip touchscreen, weighing about 185 g (6.5 oz), marginally heavier than the Ace Pro 2&lt;/li&gt;
-&lt;li&gt;Battery: up to 200 minutes of continuous 4K recording&lt;/li&gt;
-&lt;li&gt;Waterproofing: 16 m (52 ft) without a case and 60 m (197 ft) with the dive case. The Ace Pro 2 is rated to 12 m (39 ft)&lt;/li&gt;
-&lt;li&gt;Price: Basically more than the Ace Pro 2. That launched for $399. So expect somewhere between $499 and $599, especially if that dual-lens Ultra version turns out to be real&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;It’s an interesting mix. A 1-inch sensor, 10-bit capture, and a log profile in a body this size would break it out of the action cam only arena and into potential B-camera territory. Certainly, the company has shown no shortage of ambition when it comes to the pro market with the Luna Pro and Luna Ultra gimbal cameras. And GoPro has rather raised the stakes with its Mission 1 series, which, despite the company’s well-publicized financial problems, has definitely &lt;a href="https://www.redsharknews.com/gopro-m1-pro-review"&gt;moved the needle&lt;/a&gt; when it comes to what we expect of such devices.&lt;/p&gt;
-&lt;p&gt;Time will tell. But, if we had to pin a date on when we find out more, we would go for early November at this point.&lt;/p&gt;&lt;/span&gt;
-&lt;p id="hubspot-topic_data"&gt;Tags:
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/cameras"&gt;Cameras&lt;/a&gt;
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/action-cameras"&gt;Action cameras&lt;/a&gt;
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/insta360"&gt;Insta360&lt;/a&gt;
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/insta360-ace-pro-2"&gt;Insta360 Ace Pro 2&lt;/a&gt;
-&lt;/p&gt;
-&lt;div class="blog-social-group" style="display: flex;"&gt;
-&lt;a data-flip-widget="shareflip" href="https://flipboard.com"&gt;
-&lt;img style="width: 20px!important; margin: 10px 4px 0 0;" src="https://cdn.flipboard.com/badges/flipboard_srsw.png"&gt;
-&lt;/a&gt;
-
-&lt;span id="hs_cos_wrapper_blog_social_sharing" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_social_sharing" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_social_sharing"&gt;
-&lt;div class="hs-blog-social-share"&gt;
-&lt;ul class="hs-blog-social-share-list"&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-twitter"&gt;
-
-&lt;a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-url="https://www.redsharknews.com/insta360-ace-pro-3-specs-price-release-date" data-size="medium" data-text="Insta360 Ace Pro 3: rumored specs and release date"&gt;Tweet&lt;/a&gt;
-&lt;/li&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-linkedin"&gt;
-
-
-&lt;/li&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
-
-&lt;div class="fb-share-button" data-href="https://www.redsharknews.com/insta360-ace-pro-3-specs-price-release-date" data-layout="button_count"&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
