@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calculadora de la cuota de administración por coeficiente [Gerencie.com] — Finanzas y Contabilidad</title>
+  <meta name="description" content="Calcule gratis la cuota de administración de cada unidad por coeficiente, con fondo de imprevistos, plantilla de Excel y cálculo de la cuota extraordinaria.">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Calculadora de la cuota de administración por coeficiente [Gerencie.com]">
+  <meta property="og:description" content="Calcule gratis la cuota de administración de cada unidad por coeficiente, con fondo de imprevistos, plantilla de Excel y cálculo de la cuota extraordinaria.">
+  <meta property="og:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-cuota-administracion-propieda.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/gerencie_calculadora-cuota-administracion-propiedad-horizontal.html">
+  <meta property="og:site_name" content="Finanzas y Contabilidad">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Calculadora de la cuota de administración por coeficiente [Gerencie.com]">
+  <meta name="twitter:description" content="Calcule gratis la cuota de administración de cada unidad por coeficiente, con fondo de imprevistos, plantilla de Excel y cálculo de la cuota extraordinaria.">
+  <meta name="twitter:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-cuota-administracion-propieda.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/gerencie_calculadora-cuota-administracion-propiedad-horizontal.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.1rem;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .action-bar {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .action-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .action-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+    }
+    .article-content th, .article-content td {
+      padding: 8px 12px;
+      border: 1px solid #30363d;
+    }
+    .article-content th {
+      background: #161b22;
+      color: #f0f6fc;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="brand">
+        <span>💼 Finanzas y Contabilidad</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Calculadora de la cuota de administración por coeficiente [Gerencie.com]</h1>
+        <div class="metadata">
+          <span>Por <strong>Gerencie.com</strong></span>
+          <time datetime="2026-11-06T13:14:58+00:00">2026-11-06</time>
+        </div>
+
+        <p><img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-cuota-administracion-propieda.jpg" alt="Calculadora de la cuota de administración por coeficiente [Gerencie.com]"></p>
+
+        <div class="action-bar">
+  <a href="https://www.gerencie.com/calculadora-cuota-administracion-propiedad-horizontal.html" target="_blank" rel="noopener noreferrer" class="action-button">▶ Leer artículo completo en Gerencie.com ↗</a>
+</div>
+
+        <div class="article-content">
+          <div class="gcal-tabs" role="tablist" aria-label="Pasos de la calculadora">
+                                <button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-presupuesto" data-tab="presupuesto" aria-controls="gph-cuota-1-panel-presupuesto" aria-selected="true" tabindex="0"><b>1. Presupuesto</b><small>Gastos y fondo</small></button>
+                                <button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-unidades" data-tab="unidades" aria-controls="gph-cuota-1-panel-unidades" aria-selected="false" tabindex="-1"><b>2. Unidades</b><small>Coeficientes</small></button>
+                                <button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-cuotas" data-tab="cuotas" aria-controls="gph-cuota-1-panel-cuotas" aria-selected="false" tabindex="-1"><b>3. Cuotas</b><small>Cuota de cada unidad</small></button>
+                                <button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-constructora" data-tab="constructora" aria-controls="gph-cuota-1-panel-constructora" aria-selected="false" tabindex="-1"><b>4. Constructora</b><small>Unidades sin vender</small></button>
+                                <button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-extra" data-tab="extra" aria-controls="gph-cuota-1-panel-extra" aria-selected="false" tabindex="-1"><b>5. Cuota extraordinaria</b><small>Mayoría y reparto</small></button>
+                                <button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-reporte" data-tab="reporte" aria-controls="gph-cuota-1-panel-reporte" aria-selected="false" tabindex="-1"><b>6. Reporte</b><small>Resumen y descargas</small></button>
+                            </div>
+            <div class="gcal-aviso gph-msg" data-gph-msg role="status" aria-live="polite" hidden></div>
+                        <div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-presupuesto" aria-labelledby="gph-cuota-1-tab-presupuesto" data-panel="presupuesto">
+                <p class="gcal-txt">Cargando la calculadora…</p>            </div>
+                        <div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-unidades" aria-labelledby="gph-cuota-1-tab-unidades" data-panel="unidades" hidden>
+                            </div>
+                        <div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-cuotas" aria-labelledby="gph-cuota-1-tab-cuotas" data-panel="cuotas" hidden>
+                            </div>
+                        <div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-constructora" aria-labelledby="gph-cuota-1-tab-constructora" data-panel="constructora" hidden>
+                            </div>
+                        <div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-extra" aria-labelledby="gph-cuota-1-tab-extra" data-panel="extra" hidden>
+                            </div>
+                        <div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-reporte" aria-labelledby="gph-cuota-1-tab-reporte" data-panel="reporte" hidden>
+                            </div>
+                        <p class="gcal-pie-t">Los datos se procesan solo en su navegador y se guardan temporalmente en este equipo para que no pierda el trabajo. No se envían a Gerencie.com.</p>
+        </div>
+        
+<aside class="ads-gerencie"
+           data-producto="23"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/calculadora-retencion-salarios">Calculadora de retención en la fuente por salarios</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/calculadora-retencion-salarios"
+               aria-label="Calcular retención: Calculadora de retención en la fuente por salarios">Calcular retención</a>
+            </aside><h2><span id="Que_hace_la_calculadora">Qué hace la calculadora.</span></h2>
+<p>La calculadora hace el ejercicio que el administrador y el consejo preparan cada año antes de la asamblea: tomar el presupuesto de gastos, sumarle el fondo de imprevistos, restarle los ingresos distintos de las cuotas y repartir el resultado entre las unidades.</p>
+<p>Además, resuelve tres preguntas que suelen surgir en ese proceso:</p>
+<ul>
+<li>Cuánto sube la cuota de cada unidad frente a la que paga hoy.</li>
+<li>Cuánto pagaría de más cada comprador si la constructora no pagara las unidades que aún no ha vendido.</li>
+<li>Cuánto le corresponde a cada unidad en una cuota extraordinaria, y si la asamblea puede aprobarla con mayoría ordinaria o necesita el 70 %.</li>
+</ul>
+<p>Todos los cálculos se hacen en su navegador. No necesita registrarse y la información no se envía a Gerencie.com. El trabajo queda guardado en su equipo para que no lo pierda si recarga la página.</p>
+<h2><span id="Como_usar_la_calculadora">Cómo usar la calculadora.</span></h2>
+<p>La calculadora tiene seis pestañas. Las tres primeras calculan la cuota ordinaria; las demás son complementarias y puede usarlas solo si las necesita.</p>
+<h3><span id="Paso_1_Presupuesto">Paso 1. Presupuesto.</span></h3>
+<p>En la primera pestaña se registra el presupuesto anual. La calculadora trae unos rubros de ejemplo que puede modificar, eliminar o completar:</p>
+<ul>
+<li><strong>Gastos anuales.</strong> Un rubro por fila con su valor para todo el año: vigilancia, aseo, servicios públicos de zonas comunes, honorarios del administrador, contador, revisor fiscal, mantenimientos y seguros, entre otros.</li>
+<li><strong>Otros ingresos anuales.</strong> Los que no provienen de las cuotas: arrendamiento de zonas comunes, intereses de mora estimados o excedentes del año anterior. Reducen lo que hay que recaudar.</li>
+<li><strong>Recargo del fondo de imprevistos.</strong> Por defecto es el 1 %, que es el mínimo del artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#35" target="_blank" rel="noopener noreferrer">35</a>. La asamblea puede fijar uno mayor.</li>
+<li><strong>Saldo actual del fondo de imprevistos.</strong> Se usa para verificar si procede suspender el recargo y para el cálculo de la cuota extraordinaria.</li>
+<li><strong>Meses de la vigencia.</strong> Normalmente 12. Cámbielo solo si el período presupuestal de la copropiedad es distinto.</li>
+</ul>
+<p>Hay dos casillas especiales. La primera se marca cuando la asamblea decidió suspender el recargo porque el fondo ya alcanza el 50 % del presupuesto de gastos; si el saldo registrado no llega a ese nivel, la calculadora no acepta la suspensión. La segunda se marca en los edificios o conjuntos de vivienda de interés social o prioritario de cinco o menos unidades, en los que el fondo es potestativo según el parágrafo 2 del artículo 35, adicionado por el artículo 45 de la ley 2079 de 2021.</p>
+<p>Al final de la pestaña aparecen los totales: gastos, fondo, otros ingresos y lo que debe recaudarse con las cuotas, al año y al mes.</p>
+<h3><span id="Paso_2_Unidades">Paso 2. Unidades.</span></h3>
+<p>En la segunda pestaña se registran todas las unidades privadas con su coeficiente. Puede hacerlo una a una o con la plantilla de Excel:</p>
+<ol>
+<li>Haga clic en «Descargar plantilla de Excel».</li>
+<li>En la hoja «Unidades» registre una fila por unidad con su coeficiente en porcentaje, por ejemplo 1,2345. La celda J1 suma los coeficientes para que verifique que dan 100.</li>
+<li>Si quiere comparar con la cuota vigente, escríbala en la columna «Cuota actual».</li>
+<li>En la columna «Constructora» escriba «Sí» en las unidades que siguen a nombre de la constructora.</li>
+<li>Si lo prefiere, ajuste también en el mismo archivo las hojas «Gastos» e «Ingresos».</li>
+<li>Guarde el archivo y cárguelo con el botón «Cargar archivo de Excel».</li>
+</ol>
+<p>Los valores en pesos pueden escribirse con el formato colombiano, por ejemplo 1.200.000. No cambie los nombres de las hojas ni de las columnas.</p>
+<p>En esta misma pestaña se eligen tres opciones:</p><div class ="vb-ads">
+
+
+</div>
+<ul>
+<li><strong>Base de distribución.</strong> Por regla general es el coeficiente de copropiedad. Solo elija «Módulos de contribución» si la copropiedad es comercial o mixta y el reglamento los establece, como lo permite el numeral 3 del artículo 25.</li>
+<li>Sin redondeo, al peso, a la centena o al millar.</li>
+<li><strong>Forma de redondear.</strong> Al valor más cercano o siempre hacia arriba.</li>
+</ul>
+<p>El redondeo facilita el recaudo, pero genera una pequeña diferencia frente al presupuesto, que la calculadora le muestra en el siguiente paso.</p>
+<h3><span id="Paso_3_Cuotas">Paso 3. Cuotas.</span></h3>
+<p>La tercera pestaña muestra la cuota mensual y anual de cada unidad, la parte de esa cuota que corresponde al fondo de imprevistos y, si registró la cuota actual, la variación en pesos y en porcentaje.</p>
+<p>Esta es la tabla que puede llevarse al proyecto de presupuesto que el administrador y el consejo presentan a la asamblea.</p>
+<h3><span id="Paso_4_Constructora">Paso 4. Constructora.</span></h3>
+<p>La cuarta pestaña aplica solo en proyectos con unidades sin vender. Muestra la cuota que corresponde a la constructora y cuánto pagaría de más cada comprador si esas unidades se excluyeran del reparto.</p>
+<p>El escenario es ilustrativo: la constructora debe pagar la cuota de sus unidades como cualquier copropietario, y las cláusulas del reglamento que la exoneran se tienen por no escritas. El tema lo desarrollamos en el artículo sobre si el <a href="https://www.gerencie.com/constructor-debe-pagar-cuota-de-administracion-por-los-bienes-privados-que-no-ha-vendido.html">constructor debe pagar la cuota de administración de los bienes que no ha vendido</a>.</p>
+<h3><span id="Paso_5_Cuota_extraordinaria">Paso 5. Cuota extraordinaria.</span></h3>
+<p>La quinta pestaña reparte una cuota extraordinaria entre las unidades. Debe indicar:</p>
+<ul>
+<li>El destino y la naturaleza del gasto: expensa necesaria, expensa no necesaria o atención de un imprevisto.</li>
+<li>El valor total y el número de cuotas mensuales en que se cobrará.</li>
+<li>Las otras cuotas extraordinarias ya aprobadas en la misma vigencia, porque el límite del artículo 46 se mide sobre el total del año.</li>
+</ul>
+<p>Con esos datos la calculadora reparte la cuota por unidad y le indica la mayoría que debe obtener en la asamblea.</p>
+<h3><span id="Paso_6_Reporte">Paso 6. Reporte.</span></h3>
+<p>La última pestaña resume el presupuesto y la cuota de cada unidad. Puede imprimirlo o guardarlo en PDF, y descargar un archivo de Excel con las hojas de presupuesto, cuotas y, cuando aplican, constructora y cuota extraordinaria.</p>
+<h2><span id="Como_interpretar_los_resultados">Cómo interpretar los resultados.</span></h2>
+<p>Los resultados se presentan en recuadros con las cifras principales, en tablas por unidad y en alertas que señalan lo que conviene revisar.</p>
+<h3><span id="El_presupuesto_a_recaudar">El presupuesto a recaudar.</span></h3>
+<p>La cifra central es lo que debe recaudarse con las cuotas, que se obtiene así:</p>
+<div class="tabla-scroll"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Operación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gastos anuales</td>
+<td>Suma de los rubros</td>
+</tr>
+<tr>
+<td>Fondo de imprevistos</td>
+<td>Gastos × recargo</td>
+</tr>
+<tr>
+<td>Otros ingresos</td>
+<td>Se restan</td>
+</tr>
+<tr>
+<td>A recaudar con cuotas</td>
+<td>Gastos + fondo − otros ingresos</td>
+</tr>
+<tr>
+<td>A recaudar por mes</td>
+<td>Lo anterior ÷ meses de la vigencia</td>
+</tr>
+</tbody>
+</table></div>
+<p>Recuerde que el fondo de imprevistos es un <strong>recargo</strong> sobre los gastos y no una parte de ellos: si los gastos son $100, el presupuesto a financiar es $101. Su manejo lo explicamos en el artículo sobre el <a href="https://www.gerencie.com/fondo-de-imprevistos-en-la-propiedad-horizontal.html">fondo de imprevistos</a>.</p>
+<h3><span id="La_cuota_de_cada_unidad">La cuota de cada unidad.</span></h3>
+<p>La cuota mensual de cada unidad es lo que debe recaudarse al mes multiplicado por su coeficiente. Por eso dos apartamentos con el mismo coeficiente pagan lo mismo, aunque uno esté desocupado: la obligación se mantiene aun cuando el propietario no ocupe su unidad ni use los bienes comunes, según el parágrafo 2 del artículo 29.</p>
+<p>La columna «Incluye fondo» muestra cuánto de esa cuota se destina al fondo de imprevistos. Conviene informarlo a los copropietarios, porque ese dinero tiene una destinación restringida.</p>
+<h3><span id="La_diferencia_por_redondeo">La diferencia por redondeo.</span></h3>
+<p>Redondear la cuota hace que la suma de todas las cuotas no coincida exactamente con el presupuesto. La calculadora muestra esa diferencia anual. Si es positiva, la copropiedad recaudará un poco más de lo presupuestado; si es negativa, un poco menos.</p>
+<p>Con el redondeo hacia arriba la diferencia siempre es positiva. De acuerdo con nuestro criterio, es preferible redondear al valor más cercano, salvo que la asamblea decida otra cosa, porque así la diferencia tiende a compensarse entre unidades.</p>
+<h3><span id="La_variacion_frente_a_la_cuota_actual">La variación frente a la cuota actual.</span></h3>
+<p>Si registró la cuota vigente, la calculadora muestra el aumento o la disminución de cada unidad y el promedio de la copropiedad. Un aumento aparece en rojo y una disminución en verde.</p>
+<p>El incremento de la cuota no tiene un tope legal: lo fija la asamblea al aprobar el presupuesto, así supere el IPC. Lo explicamos en el artículo sobre el <a href="https://www.gerencie.com/presupuesto-de-la-propiedad-horizontal.html">presupuesto de la propiedad horizontal</a>.</p>
+<h3><span id="La_mayoria_de_la_cuota_extraordinaria">La mayoría de la cuota extraordinaria.</span></h3>
+<p>La pestaña de cuota extraordinaria muestra un recuadro con la mayoría que debe obtener la asamblea:</p>
+<ul>
+<li><strong>Basta la mayoría ordinaria.</strong> Las cuotas extraordinarias de la vigencia no superan cuatro veces las expensas necesarias mensuales. Se aprueban con la mitad más uno de los coeficientes representados en la reunión.</li>
+<li><strong>Requiere mayoría calificada del 70 %.</strong> Las cuotas extraordinarias superan ese límite, o se trata de expensas no necesarias, como mejoras o embellecimiento. Se necesita el voto favorable del 70 % de los coeficientes de todo el edificio o conjunto, según los numerales 2 y 3 del artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#46" target="_blank" rel="noopener noreferrer">46</a>, y la decisión no puede adoptarse en una reunión no presencial.</li>
+</ul>
+<p>Si el gasto es un imprevisto, la calculadora verifica primero el saldo del fondo. El parágrafo 1 del artículo 35 solo permite cobrar expensas extraordinarias cuando el fondo es insuficiente, de modo que la calculadora reparte únicamente la diferencia entre el gasto y el saldo disponible.</p>
+<p>Para verificar si la decisión obtuvo esa mayoría en la asamblea puede usar la <a href="https://www.gerencie.com/calculadora-quorum-asamblea-propiedad-horizontal.html">calculadora de quórum y mayorías</a>.</p>
+<h3><span id="Las_alertas">Las alertas.</span></h3>
+<p>Las alertas aparecen en un recuadro amarillo y señalan situaciones que conviene corregir o explicar a la asamblea:</p>
+<ul>
+<li><strong>La suma de coeficientes no da 100 %.</strong> Falta alguna unidad o hay un coeficiente mal digitado. La calculadora reparte en proporción a lo cargado, pero el resultado no será exacto mientras no se corrija.</li>
+<li><strong>El recargo es inferior al 1 %.</strong> La calculadora aplica el mínimo legal.</li>
+<li><strong>No es posible suspender el fondo.</strong> El saldo registrado no alcanza el 50 % del presupuesto de gastos.</li>
+<li><strong>Hay unidades sin módulo de contribución.</strong> Con esa base de distribución, esas unidades quedan en cero.</li>
+</ul>
+<p>Ninguna alerta impide usar el resultado, pero conviene resolverlas antes de presentar el proyecto de presupuesto a la asamblea.</p>
+<h2><span id="Ejemplo_de_uso">Ejemplo de uso.</span></h2>
+<p><strong>Supongamos que…</strong> un conjunto tiene un presupuesto anual de gastos de <strong>$175.200.000</strong>, mantiene el recargo del fondo de imprevistos en el <strong>1 %</strong> y espera recibir <strong>$6.000.000</strong> por el arrendamiento de zonas comunes.</p>
+<div class="tabla-scroll"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Valor anual</th>
+<th>Valor mensual</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gastos</td>
+<td>$175.200.000</td>
+<td>$14.600.000</td>
+</tr>
+<tr>
+<td>Fondo de imprevistos (1 %)</td>
+<td>$1.752.000</td>
+<td>$146.000</td>
+</tr>
+<tr>
+<td>Menos otros ingresos</td>
+<td>−$6.000.000</td>
+<td>−$500.000</td>
+</tr>
+<tr>
+<td>A recaudar con cuotas</td>
+<td>$170.952.000</td>
+<td>$14.246.000</td>
+</tr>
+</tbody>
+</table></div>
+<p>Un apartamento con un coeficiente del <strong>1,25 %</strong> paga $14.246.000 × 1,25 % = <strong>$178.075</strong> al mes, que redondeados a la centena más cercana quedan en <strong>$178.100</strong>. Uno con el <strong>0,85 %</strong> paga $121.091, que se redondean a <strong>$121.100</strong>.</p>
+<p>Ahora supongamos que la asamblea quiere aprobar una cuota extraordinaria de <strong>$100.000.000</strong> para reparar la fachada, en cuatro cuotas. Las expensas necesarias mensuales son ($175.200.000 + $1.752.000) ÷ 12 = $14.746.000, y cuatro veces ese valor es <strong>$58.984.000</strong>. Como la cuota extraordinaria lo supera, la calculadora indica que se requiere el 70 % de los coeficientes del conjunto. Al apartamento del 1,25 % le corresponden $1.250.000 en total, es decir, $312.500 en cada una de las cuatro cuotas.</p>
+<h2><span id="Criterios_que_aplica_la_calculadora">Criterios que aplica la calculadora.</span></h2>
+<p>En algunos puntos la ley no es explícita y la calculadora sigue la posición de Gerencie.com:</p>
+<ul>
+<li>Las expensas necesarias mensuales, que sirven para medir el límite de la cuota extraordinaria, se toman como los gastos más el fondo de imprevistos, divididos por los meses de la vigencia.</li>
+<li>El límite de cuatro veces se mide sumando todas las cuotas extraordinarias aprobadas en la misma vigencia.</li>
+<li>La cuota se reparte en proporción a la suma de coeficientes cargada; si esa suma no es 100 %, la calculadora lo advierte.</li>
+</ul>
+<p>La calculadora es una herramienta de apoyo. El presupuesto y las cuotas solo son exigibles cuando los aprueba la asamblea general, conforme al numeral 4 del artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#38" target="_blank" rel="noopener noreferrer">38</a> de la ley 675 de 2001.</p>
+<div class="pf"><h2><span id="Preguntas_frecuentes">Preguntas frecuentes.</span></h2></div>
+<p>A continuación respondemos las preguntas frecuentes sobre el uso de la calculadora.</p>
+<div class="faq-container" itemscope itemtype="https://schema.org/FAQPage"><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Necesito_registrarme_para_usar_la_calculadora">¿Necesito registrarme para usar la calculadora?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No. Es de uso libre y todos los cálculos se hacen en su navegador. La información no se envía a Gerencie.com.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Donde_encuentro_el_coeficiente_de_mi_unidad">¿Dónde encuentro el coeficiente de mi unidad?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>En el reglamento de propiedad horizontal, que lo asigna a cada bien privado. También suele aparecer en la escritura del inmueble. Lo explicamos en el artículo sobre el <a href="https://www.gerencie.com/el-coeficiente-de-copropiedad-en-la-propiedad-horizontal.html">coeficiente de copropiedad</a>.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Por_que_mi_cuota_es_distinta_de_la_de_mi_vecino">¿Por qué mi cuota es distinta de la de mi vecino?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Porque cada unidad paga en proporción a su coeficiente, que depende principalmente de su área. Si los coeficientes son iguales, las cuotas también deben serlo.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="El_parqueadero_privado_paga_una_cuota_adicional">¿El parqueadero privado paga una cuota adicional?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No, cuando tiene coeficiente propio o está incluido en el de la vivienda. Su contribución ya está dentro del reparto por coeficiente. Si tiene coeficiente propio, regístrelo como una unidad más.</p><div class ="vb-ads">
+
+
+</div>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Debo_incluir_la_cartera_morosa_en_el_presupuesto">¿Debo incluir la cartera morosa en el presupuesto?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No como un ingreso seguro. Los intereses de mora pueden estimarse como otro ingreso, pero de manera prudente, porque su recaudo es incierto.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="La_cuota_extraordinaria_la_paga_el_arrendatario">¿La cuota extraordinaria la paga el arrendatario?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No necesariamente. El arrendatario solo responde solidariamente por las expensas ordinarias, según el artículo 29 de la ley 675 de 2001. Las extraordinarias son del propietario, salvo que el <a href="https://www.gerencie.com/contrato-de-arrendamiento.html" title="Contrato de arrendamiento">contrato de arrendamiento</a> disponga otra cosa entre las partes.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Puedo_usar_la_calculadora_si_la_copropiedad_es_comercial">¿Puedo usar la calculadora si la copropiedad es comercial?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Sí. Si el reglamento fija módulos de contribución, elija esa base de distribución y registre el módulo de cada unidad. Si no los fija, use el coeficiente.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="El_resultado_de_la_calculadora_obliga_a_los_copropietarios">¿El resultado de la calculadora obliga a los copropietarios?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No. Es una proyección para preparar el presupuesto. La cuota solo es obligatoria cuando la asamblea aprueba el presupuesto y las cuotas.</p>
+</div></div></div></div>
+<aside class="ads-gerencie"
+           data-producto="14"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/guia-laboral">Guía Laboral 2026</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/guia-laboral"
+               aria-label="Ver la guía: Guía Laboral 2026">Ver la guía</a>
+            </aside></p>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Finanzas y Contabilidad</span>
+      <a href="https://alvypender.github.io/feeds/articulos/gerencie_calculadora-cuota-administracion-propiedad-horizontal.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

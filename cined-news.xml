@@ -3,7 +3,261 @@
 <title>News | CineD – Completo</title>
 <link href="https://www.cined.com/news/"/>
 <id>https://www.cined.com/news/</id>
-<updated>2026-11-05T09:02:40+00:00</updated>
+<updated>2026-11-06T10:53:45+00:00</updated>
+<entry>
+  <title>DaVinci Resolve 21.2 Released – PROLED XDR Touch Support, Gen 6 Color Science LUTs, Up to 5x Faster Rendering on M5 Pro and M5 Max</title>
+  <link href="https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/"/>
+  <id>https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/</id>
+  <published>2026-11-06T10:53:45+00:00</published>
+  <updated>2026-11-06T10:53:45+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/download-2.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/11/download-2.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/download-2.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/download-2.jpg</webfeeds:featuredImage>
+  <summary>Blackmagic Design has released DaVinci Resolve 21.2, and the headline item is support for Apple’s new MacBook Pro with PROLED XDR touch screen. The update also adds support for Blackmagic Generation 6 Color Science LUTs and film looks, and Blackmagic claims up to 5x faster render</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/download-2.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Blackmagic Design has released DaVinci Resolve 21.2, and the headline item is support for Apple&amp;#8217;s new MacBook Pro with PROLED XDR touch screen. The update also adds support for Blackmagic Generation 6 Color Science LUTs and film looks, and Blackmagic claims up to 5x faster rendering on M5 Pro and M5 Max machines. Editors get multicam clips in source timelines, a shortcut to restore the last active edit points and source timecode for extracted audio, and Studio users get new AI assistant functions.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;DaVinci Resolve 21.2, DaVinci Resolve Studio 21.2 and Fusion Studio 21.2 are available now as free updates for macOS, Windows, Windows for Arm and Linux. Blackmagic published the release notes on November 4, 2026. In both editions, the update adds support for the&amp;nbsp;&lt;a href="https://www.cined.com/apple-touch-screen-macbook-pro-announced-proled-xdr-tandem-oled-display-m5-pro-and-m5-max-genlock/" target="_blank" rel="noopener"&gt;Apple MacBook Pro with PROLED XDR display&lt;/a&gt;, support for Blackmagic Gen 6 LUTs, multicam clips that open as source clips in source timelines, compound clip changes, EXIF metadata in PNG files and a long list of fixes for audio, AAF, OGraf, H.265 and XDCAM media. The Studio version adds ResolveFX False Color support for Gen 5 and Gen 6 color science, new AI assistant functions and &amp;#8220;multiple scripting API improvements&amp;#8221;. System requirements do not change.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="551" src="https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1.jpg" alt="" class="wp-image-446323" srcset="https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1.jpg 900w, https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1-300x184.jpg 300w, https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1-768x470.jpg 768w, https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1-376x230.jpg 376w, https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1-260x160.jpg 260w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Apple MacBook Pro with PROLED XDR display. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Version 21.2 follows 21.1.2 from late October, which made OGraf playback faster, refined edit point selection on the Edit page and added faster IntelliSearch analysis on M6 Macs in Studio. The larger feature release was&amp;nbsp;&lt;a href="https://www.cined.com/davinci-resolve-21-1-released-ai-assistant-integration-via-mcp-individual-hdr-trims-and-python-scripting-moves-to-studio/" target="_blank" rel="noopener"&gt;DaVinci Resolve 21.1&lt;/a&gt;in September, with the native MCP server for AI assistants and individual HDR trims. For the full picture of version 21, read our coverage of the&amp;nbsp;&lt;a href="https://www.cined.com/davinci-resolve-21-final-release-now-available-new-photo-page-expanded-ai-toolset-krokodove-in-fusion-and-wide-raw-support/" target="_blank" rel="noopener"&gt;final Resolve 21 release&lt;/a&gt;&amp;nbsp;and our&amp;nbsp;&lt;a href="https://www.cined.com/davinci-resolve-21-hands-on-at-nab-2026-photo-page-intellisearch-and-cinefocus-in-action/" target="_blank" rel="noopener"&gt;hands-on with the Photo page and IntelliSearch at NAB 2026&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Touch and the M5 Pro and M5 Max&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Apple announced the MacBook Pro with PROLED XDR display on October 28. It is the first Mac with a touch screen, and it uses a tandem OLED panel with 2000 nits peak HDR brightness. At the launch, Apple listed DaVinci Resolve among the third-party apps that would get Touch support later this year, but it did not say what the Resolve implementation would include. Resolve 21.2 now lists &amp;#8220;Support for Apple MacBook Pro with PROLED XDR touch screens.&amp;#8221; The release notes do not say which pages or controls react to touch, or whether Resolve goes beyond the standard macOS behavior that translates touches into clicks.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The PROLED XDR models use the same M5 Pro and M5 Max chips that Apple introduced in March. In the download description for 21.2, Blackmagic claims &amp;#8220;up to 5x faster rendering for M5 Pro and M5 Max Apple silicon chips&amp;#8221;. Blackmagic does not say which render formats or which earlier version it compares against, so this is a manufacturer figure without a stated baseline. The item also does not appear in the readme itself, only in the summary on the support page.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Generation 6 color science&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Both editions add support for Blackmagic Generation 6 Color Science LUTs and film looks. Blackmagic introduced Gen 6 color science to its software in September with&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/readme/cc0d658e57dd42f281e1059ae3366baf" target="_blank" rel="noopener"&gt;Blackmagic RAW 6.0&lt;/a&gt;, and Resolve 21.2 now accepts the matching LUTs and film looks. In Studio, the ResolveFX False Color tool now also supports Gen 5 and Gen 6 color science, so exposure checks with false color work with the current Blackmagic camera color pipelines.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Editing: multicam, edit points and compound clips&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Most of the editorial changes affect source timelines and edit points. Multicam clips now open as source clips in source timelines, and &amp;#8220;Open in Timeline with Source Viewer&amp;#8221; now supports both clips and multicams. A new menu action and keyboard shortcut restores the last active edit points, and a Command or Ctrl marquee selection now uses the last edit point type. This continues the trim and edit point work of 21.1, 21.1.1 and 21.1.2.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Compound clips get two changes. When you convert an in-out range to a compound clip, Resolve now replaces the clips in place in the timeline. A separate context action creates a compound clip from the in-out range without that replacement. The update also lets you conform lock multiple timeline clips to one media pool clip in one step.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Several smaller changes remove friction in daily work. The &amp;#8220;stop playback&amp;#8221; option now also applies to playhead nudges and mouse clicks, Edit menu options stay in place after a UI layout reset, and PNG files now carry their EXIF metadata into Resolve.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Audio and interchange fixes&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For sound editors, extracted audio files now keep the source timecode. Blackmagic has also improved the decoding speed of MXF audio from network storage, fixed slow renders of MP3 audio-only files and corrected the channel order of WAV files with iXML tracks. An audio input device preference no longer resets after a restart, and pasted clip EQ Q and frequency values are now correct.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On the interchange side, 21.2 fixes missing clips in some AAF imports and wrong audio timecode in AAF files with interlaced media. Imported TTML subtitles now show italics correctly. For collaboration projects, source track changes in source timelines now work as intended.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;AI assistants and scripting in Studio&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The native MCP server that arrived in Resolve Studio 21.1 lets AI assistants such as Claude control a project with normal language. In 21.2, Blackmagic lists &amp;#8220;improved AI assistant color and Fusion capabilities&amp;#8221;. AI assistants can now download the extras that some advanced features need, and they can export frames or order thumbnails as a grid. Blackmagic gives no further detail on these functions. Studio also gets &amp;#8220;multiple scripting API improvements&amp;#8221;, and the Fusion tool and scripting reference documents are updated in both editions.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1.jpg" alt="" class="wp-image-446327" srcset="https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1.jpg 900w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-409x230.jpg 409w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;An AI assistant connected to DaVinci Resolve Studio through the MCP server, shown here in version 21.1. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Media, OGraf and render fixes&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Blackmagic lists a long series of fixes that affect camera media and delivery. They address slow loading of media from XDCAM drives, flashing media offline frames with some H.265 clips, a crash when decoding some multi-channel DNG files, file size estimates for spanned RED clips and artifacts in Sony XAVC Long GOP MXF renders. On Windows, the update fixes HE-AAC decoding of some clips and a GPU memory error with some OpenFX. ACES 2.0 artifacts on Windows and Linux are also fixed.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;OGraf templates now load from network and zipped paths, and Blackmagic has addressed render timeouts and memory use with OGraf files. Other fixes cover the data burn scaling for render resolutions, render in place handles for frame-based formats, a hang when editing MultiText keyframes during render cache, missing Text+ inspector controls in older projects, an anchoring issue with Text+ CLS box extend controls, CustomTool LUT name controls, and network paths with accented characters on macOS 27. Studio users also get fixes for OpenFX that disappeared from MultiMaster trim groups on reload and for a render crash with MainConcept H.265 CRF encoding.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The standalone&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/readme/b9f8f52968a645a7afd796524d5afb03" target="_blank" rel="noopener"&gt;Fusion Studio 21.2&lt;/a&gt;&amp;nbsp;has its own list. The OGraf inspector now shows up to 35 template properties, and the update fixes OGraf loading and render issues, a material viewer crash with software rendering, the Shake random seed, script issues with the AddTool and SetInput functions, and the reading of video files with FFmpeg.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Before you install&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The project library warning from the earlier 21.x releases still applies. Libraries stay compatible with DaVinci Resolve 20.3.2, but any project you create or open in 21.2 no longer opens in 20.3.2. Blackmagic recommends a full library backup and individual project backups before you update.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;System requirements are the same as in 21.1: macOS 15 Sequoia or later on Apple silicon, Windows 10 Creators Update, Windows 11 for Arm on Snapdragon X Elite or NVIDIA RTX Spark, and Rocky Linux 8.6. NVIDIA users need Studio driver 581.57 or newer on Windows, 616.0 or newer on RTX Spark and 580.119.02 or newer on Linux. Monitoring through Blackmagic video hardware needs Desktop Video 12.9 or later.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;DaVinci Resolve 21.2, DaVinci Resolve Studio 21.2 and Fusion Studio 21.2 are free downloads from the&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion" target="_blank" rel="noopener"&gt;Blackmagic Design support center&lt;/a&gt;. The full release notes are available for the&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/readme/801a108506a54a908ffcd497f13b60de" target="_blank" rel="noopener"&gt;free version&lt;/a&gt;&amp;nbsp;and for&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/readme/630fd2cb208a46df9493de661a76628a" target="_blank" rel="noopener"&gt;DaVinci Resolve Studio&lt;/a&gt;. DaVinci Resolve Studio is a one-time license at $295, which Blackmagic currently&amp;nbsp;&lt;a href="https://www.cined.com/blackmagic-design-cuts-davinci-resolve-studio-21-by-20-panels-and-editor-keyboards-also-discounted/" target="_blank" rel="noopener"&gt;sells for $239 until November 20, 2026&lt;/a&gt;. More information is on the&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener"&gt;DaVinci Resolve product page&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you plan to grade or edit on a touch screen MacBook Pro, or do you stay with the keyboard and a control panel? And is Gen 6 color science already part of your workflow? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Steve Yedlin and Rian Johnson Release Chromagraph Camera – Film Color Pipeline for iPhone Stills, Grain, Halation and a RAW Gallery</title>
+  <link href="https://www.cined.com/steve-yedlin-and-rian-johnson-release-chromagraph-camera-film-color-pipeline-for-iphone-stills-grain-halation-and-a-raw-gallery/"/>
+  <id>https://www.cined.com/steve-yedlin-and-rian-johnson-release-chromagraph-camera-film-color-pipeline-for-iphone-stills-grain-halation-and-a-raw-gallery/</id>
+  <published>2026-11-06T09:12:07+00:00</published>
+  <updated>2026-11-06T09:12:07+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg</webfeeds:featuredImage>
+  <summary>Cinematographer Steve Yedlin ASC, director Rian Johnson and color science programmer Eric Cameron have released Chromagraph Camera, a still photo app for iPhone. The app skips Apple’s own look processing and builds each image from raw sensor data with the same custom color math t</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/Chromagraph-Camera.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Cinematographer Steve Yedlin ASC, director Rian Johnson and color science programmer Eric Cameron have released Chromagraph Camera, a still photo app for iPhone. The app skips Apple&amp;#8217;s own look processing and builds each image from raw sensor data with the same custom color math that Yedlin uses on his feature films, including grain and halation. The gallery keeps full-quality scene-linear originals and applies the look non-destructively, and the app costs $12.99 / €14.99 as a one-time purchase. Let&amp;#8217;s take a closer look.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Yedlin and Johnson have worked together since Johnson&amp;#8217;s debut feature &amp;#8220;Brick,&amp;#8221; and their collaboration includes &amp;#8220;Looper,&amp;#8221; &amp;#8220;Star Wars: The Last Jedi&amp;#8221; and the three &amp;#8220;Knives Out&amp;#8221; films. Yedlin is also known for his long-form demos on how the look of an image comes from its preparation for display, not from the camera brand. In an Instagram post, he describes Chromagraph Camera as &amp;#8220;simply the camera, image processing, and gallery app that we wanted for ourselves,&amp;#8221; which the team now sells publicly on the App Store. According to the App Store listing, the app went live on October 20, 2026, and the public announcement followed a week later. Within days of the announcement, the app reportedly reached the top position in the Photo &amp;amp; Video category of the US App Store.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img decoding="async" width="700" height="394" src="https://www.cined.com/content/uploads/2026/11/download-1.jpg" alt="" class="wp-image-446298" srcset="https://www.cined.com/content/uploads/2026/11/download-1.jpg 700w, https://www.cined.com/content/uploads/2026/11/download-1-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/download-1-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/download-1-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/download-1-409x230.jpg 409w" sizes="(max-width: 700px) 100vw, 700px" /&gt;&lt;figcaption class="wp-element-caption"&gt;A Chromagraph Camera sample photo. Image credit: Chromatic Applications&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We have previously reported on iPhone camera apps aimed at filmmakers, such as&amp;nbsp;&lt;a href="https://www.cined.com/blackmagic-camera-for-ios-3-5-released-iphone-18-pro-support-variable-aperture-control-prores-to-pro-video-storage/" target="_blank" rel="noopener"&gt;Blackmagic Camera for iOS 3.5&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.cined.com/apple-final-cut-camera-2-4-and-final-cut-pro-12-4-released-iphone-18-pro-aperture-control-clean-sdi-out-cinematic-refocus-in-post/" target="_blank" rel="noopener"&gt;Final Cut Camera 2.4&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.cined.com/kino-pro-video-app-wins-2024-iphone-app-of-the-year-award/" target="_blank" rel="noopener"&gt;Kino&lt;/a&gt;&amp;nbsp;and, more recently,&amp;nbsp;&lt;a href="https://www.cined.com/log-cam-and-raw-cam-bring-open-gate-raw-and-log-video-to-older-iphones-a-skeptical-look/" target="_blank" rel="noopener"&gt;Log Cam and RAW Cam&lt;/a&gt;. Those apps focus on video and give the user manual control over capture. Chromagraph Camera takes a different approach: it is a stills-only app with one curated look, and the controls sit after the shot, not before it.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Not a filter&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The central claim of the app is that it is not a filter. According to the developer, Chromatic Applications LLC, a filter sits on top of the processing that the phone has already done, while Chromagraph starts from raw sensor data and &amp;#8220;builds the image its own way.&amp;#8221; Yedlin writes that the app &amp;#8220;completely bypasses the iPhone look management and replaces it with the same custom math I use on all my films, tailored to Apple camera behavior.&amp;#8221; In his own post on X, Rian Johnson summarized it in a similar way: the app shoots RAW, bypasses the iPhone&amp;#8217;s look processing, and uses the same image processing that the team uses on their movies.&lt;/p&gt;
+
+
+&lt;!-- wp:embed/video --&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="Why Rian Johnson made a photo app | The Vergecast" width="500" height="281" src="https://www.youtube-nocookie.com/embed/eU70nW6yyd4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;!-- /wp:embed/video --&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Yedlin calls the look &amp;#8220;opinionated.&amp;#8221; In his words, it is &amp;#8220;the nuanced and idiosyncratic rendering of tonality and chromaticity (as well as grain and halation)&amp;#8221; that he, Johnson and Cameron like. The app does not offer a choice of film stock emulations or a library of presets. There is one core look, and the user adjusts it.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This is also the practical side of an argument that Yedlin has made publicly for years. In his&amp;nbsp;&lt;a href="http://www.yedlin.net/DisplayPrepDemo/index.html" target="_blank" rel="noopener"&gt;Display Prep Demo&lt;/a&gt;&amp;nbsp;and the companion essay&amp;nbsp;&lt;a href="http://www.yedlin.net/NerdyFilmTechStuff/OnColorScience/index.html" target="_blank" rel="noopener"&gt;&amp;#8220;On Color Science for Filmmakers&amp;#8221;&lt;/a&gt;&amp;nbsp;(2016), he states that color rendition, highlight rolloff, halation and other perceptual attributes come mostly from the mathematical preparation of the image for display, not from the camera format. In that essay, he limits the argument to high-quality capture formats and names smartphone cameras as an example of inferior acquisition devices. Chromagraph Camera now applies the same type of display preparation to iPhone raw data.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="554" height="1200" src="https://www.cined.com/content/uploads/2026/11/1290x2796bb-554x1200.jpg" alt="" class="wp-image-446302" srcset="https://www.cined.com/content/uploads/2026/11/1290x2796bb-554x1200.jpg 554w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-300x650.jpg 300w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-768x1665.jpg 768w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-709x1536.jpg 709w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-945x2048.jpg 945w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-106x230.jpg 106w, https://www.cined.com/content/uploads/2026/11/1290x2796bb.jpg 1179w" sizes="auto, (max-width: 554px) 100vw, 554px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The Chromagraph Camera viewer screen. Image credit: Chromatic Applications&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Shoot first, see the look after&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The capture process is closer to a film camera than to a typical phone app. The viewfinder shows the framing, but the finished look appears only after the image is processed. The user takes the picture and then opens the gallery to see it with the Chromagraph look applied. The App Store screenshots show a simple camera screen with a shutter button, a switch between the front and rear cameras, a timer, and 0.5x, 1x and 4x lens buttons. Version 1.2.2, released on November 4, adds optional grid lines and a level in the viewfinder, plus manual aperture control on the 1x camera of the iPhone 18 Pro models.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Chromagraph is a stills-only camera. According to the App Store listing, it does not record video.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;A gallery that keeps scene-linear originals&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The gallery stores full-quality raw files. Yedlin specifies that these are scene-linear originals, and the app applies the look and the user&amp;#8217;s own adjustments live for viewing. All edits stay non-destructive, so the user can change them later.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For sharing, the app exports smaller files with the look baked in, either to the iOS photo library or directly to friends. An auto-export option in Preferences sends every photo to the photo library right after capture, as a JPEG or HEIC file with the look applied.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="554" height="1200" src="https://www.cined.com/content/uploads/2026/11/1290x2796bb-1-554x1200.jpg" alt="" class="wp-image-446306" srcset="https://www.cined.com/content/uploads/2026/11/1290x2796bb-1-554x1200.jpg 554w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-1-300x650.jpg 300w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-1-768x1665.jpg 768w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-1-709x1536.jpg 709w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-1-945x2048.jpg 945w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-1-106x230.jpg 106w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-1.jpg 1179w" sizes="auto, (max-width: 554px) 100vw, 554px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The Chromagraph Camera gallery. Image credit: Chromatic Applications&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Grading controls within the core look&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The editor has four sections: Tone, Color, Texture and Crop. The App Store screenshots show the Texture section with separate Grain and Halation tabs. Grain has sliders for amplitude and grain size, plus a &amp;#8220;Force Pixel Size Grain&amp;#8221; switch. The editor also shows capture metadata such as shutter speed, aperture, ISO and white balance in Kelvin.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to Yedlin, these &amp;#8220;grading knobs&amp;#8221; allow &amp;#8220;pretty dramatic adjustments while keeping within that overall core look.&amp;#8221; The developer describes the tools as intuitive yet powerful controls for color, tone and texture that keep every image true to the look at the core of the app.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="554" height="1200" src="https://www.cined.com/content/uploads/2026/11/1290x2796bb-2-554x1200.jpg" alt="" class="wp-image-446310" srcset="https://www.cined.com/content/uploads/2026/11/1290x2796bb-2-554x1200.jpg 554w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-2-300x650.jpg 300w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-2-768x1665.jpg 768w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-2-709x1536.jpg 709w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-2-945x2048.jpg 945w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-2-106x230.jpg 106w, https://www.cined.com/content/uploads/2026/11/1290x2796bb-2.jpg 1179w" sizes="auto, (max-width: 554px) 100vw, 554px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The Chromagraph Camera editor with the Texture controls. Image credit: Chromatic Applications&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;If you want more background on why halation is part of so many film-emulation tools, read our article&amp;nbsp;&lt;a href="https://www.cined.com/chasing-the-glow-understanding-halation-and-why-filmmakers-keep-coming-back-to-it/" target="_blank" rel="noopener"&gt;&amp;#8220;Chasing the Glow&amp;#8221;&lt;/a&gt;. On the professional side, we recently covered&amp;nbsp;&lt;a href="https://www.cined.com/arri-film-lab-1-5-released-8mm-to-65mm-film-formats-anamorphic-grain-and-halation-aces-2-0-support/" target="_blank" rel="noopener"&gt;ARRI Film Lab 1.5&lt;/a&gt;, which also adds grain and halation in post.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Who is behind it?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The app comes from Chromatic Applications LLC. The company&amp;#8217;s&amp;nbsp;&lt;a href="https://chromaticapplications.com/" target="_blank" rel="noopener"&gt;website&lt;/a&gt;&amp;nbsp;says that it makes &amp;#8220;software to empower filmmakers in their visual authorship.&amp;#8221; Next to Chromagraph, the website lists OFX plugins that package image processing algorithms used by Yedlin for DaVinci Resolve, Baselight, Nuke and other hosts, and a lighting control system called yLumination. The company gives no release dates or prices for these products. Yedlin was also part of the program at the&amp;nbsp;&lt;a href="https://www.cined.com/imago-oslo-digital-cinema-conference-2025-returns-with-ai-focus-david-stump-asc-steve-yedlin-asc-among-speakers/" target="_blank" rel="noopener"&gt;IMAGO Oslo Digital Cinema Conference 2025&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Current limitations&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Chromagraph Camera captures stills only, and there is no video mode. The look is a single, fixed design, and users who want a choice of film emulations or a neutral starting point will not find it here. The finished look is not visible in the viewfinder, only in the gallery after capture. The app is available only on the App Store, in English, and it needs iOS 17 or later. The developer does not publish a list of supported iPhone models or details about which raw format the app records. Since version 1.2.2, the app alerts users when a camera on their phone does not support raw capture. Statements about the image pipeline come from Yedlin and the developer.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Chromagraph Camera is available now on the&amp;nbsp;&lt;a href="https://apps.apple.com/us/app/chromagraph-camera/id6803329435" target="_blank" rel="noopener"&gt;App Store&lt;/a&gt;&amp;nbsp;for $12.99 / €14.99 / £12.99 as a one-time purchase, with no subscription. It needs iOS 17 or later. The current version is 1.2.2, released on November 4, 2026. According to the developer&amp;#8217;s privacy statement, the app does not collect or keep personal information. More information is on the&amp;nbsp;&lt;a href="https://chromaticapplications.com/chromagraph/chromagraph.html" target="_blank" rel="noopener"&gt;Chromagraph website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you give up control at capture for one curated look from Steve Yedlin&amp;#8217;s pipeline? And do you shoot stills on your iPhone with the native camera, or with a third-party app? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Canon EOS C400, EOS C80 and EOS C50 Firmware Update Announced – Expanding Cinema EOS Capabilities</title>
   <link href="https://www.cined.com/canon-eos-c400-eos-c80-and-eos-c50-firmware-update-announced-expanding-cinema-eos-capabilities/"/>
@@ -1772,351 +2026,5 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Sony now has a 65mm option that plugs into the VENICE 2 system and works on a cable, and I am curious to see it in person today. Would a 1.5:1 sensor change how you frame, or would you mostly use the 2.20:1 mode? Let me know what you think in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>FUJIFILM Fujikina NYC 2026 Recap – Real Images, Real Community, and No AI Talk</title>
-  <link href="https://www.cined.com/fujifilm-fujikina-nyc-2026-recap-real-images-real-community-and-no-ai-talk/"/>
-  <id>https://www.cined.com/fujifilm-fujikina-nyc-2026-recap-real-images-real-community-and-no-ai-talk/</id>
-  <published>2026-10-29T11:52:13+00:00</published>
-  <updated>2026-10-29T11:52:13+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-21-1.jpg"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-21-1.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-21-1.jpg"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-21-1.jpg</webfeeds:featuredImage>
-  <summary>I flew to New York for FUJIFILM’s Fujikina NYC 2026 with no shoot, no interviews and no schedule, just a camera and three days on the Lower East Side. What I found was a photography festival where nobody talked about AI, and where more than three quarters of the visitors were new</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-21-1.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;I flew to New York for FUJIFILM&amp;#8217;s Fujikina NYC 2026 with no shoot, no interviews and no schedule, just a camera and three days on the Lower East Side. What I found was a photography festival where nobody talked about AI, and where more than three quarters of the visitors were new to FUJIFILM, according to the company&amp;#8217;s own numbers.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This was a strange trip for me. I travel a lot for CineD, to trade shows, press events and shoots, and that usually means a calendar packed from breakfast to midnight. This time, FUJIFILM invited us to &lt;a href="https://shopusa.fujifilm-x.com/fujikina/" target="_blank" rel="noreferrer noopener"&gt;Fujikina NYC 2026&lt;/a&gt;, a three-day community festival of photography from October 16 to 18, and my only job was to take it all in. If you read my &lt;a href="https://www.cined.com/fujifilm-fujikina-nyc-2026-program-detailed-85-add-on-sessions-movie-stills-talks-short-film-screening/" target="_blank" rel="noreferrer noopener"&gt;preview of the program&lt;/a&gt; a few weeks ago, you know I went through every bookable session before the trip. On site, I mostly left the plan in my pocket.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/CineD_144-900x506.jpg" alt="" class="wp-image-445452" srcset="https://www.cined.com/content/uploads/2026/10/CineD_144-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/CineD_144-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/CineD_144-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/CineD_144-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/CineD_144-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/CineD_144-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/CineD_144-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/CineD_144-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/CineD_144.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Fujikina NYC 2026 took over nine venues on Manhattan&amp;#8217;s Lower East Side. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;A $10 ticket and nine venues&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The format is simple. A $10 Experience Pass got you into most of the festival, and some of the workshops and photowalks cost a small extra fee. Everything happened in nine venues spread across a few blocks of the Lower East Side, with the FUJIFILM Brand House at the center.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On my first day, I was told that more than 6,500 people had signed up and that around 70% of them had never been in contact with FUJIFILM before. The final numbers that FUJIFILM sent me after the event are even higher: 7,564 tickets sold, and more than three quarters of the visitors were new to the company. For a brand that has been in the photography business for as long as FUJIFILM, that is remarkable, and in my opinion it is the most important number of the whole weekend.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/CineD_141-900x506.jpg" alt="" class="wp-image-445456" srcset="https://www.cined.com/content/uploads/2026/10/CineD_141-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/CineD_141-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/CineD_141-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/CineD_141-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/CineD_141-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/CineD_141-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/CineD_141-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/CineD_141-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/CineD_141.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The FUJIFILM Brand House was the center of Fujikina NYC. Image credit: Nino Leitner (CineD)&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Jonas Rask and the photographers behind the program&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;FUJIFILM hosted dozens of talks, workshops and presentations, with a strong focus on street photography, and according to the company, almost every bookable session was fully booked.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The person who impressed me most was Jonas Rask. He is a Danish street photographer and, in his day job, a medical doctor. He also shoots FUJIFILM&amp;#8217;s product images, and has done so since 2019. But what people really know him for is his street photography: double exposures, and a very precise eye for shape and form. Take a look at his &lt;a href="https://www.jonasraskphotography.com/" target="_blank" rel="noreferrer noopener"&gt;portfolio&lt;/a&gt; and you will see what I mean. That he does all of this on the side, just for the fun of it, is amazing to me.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Jonas is only one example of the many talented photographers and filmmakers who presented their work and their methods at Fujikina.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84-900x506.jpg" alt="" class="wp-image-445460" srcset="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-84.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Jonas Rask at Fujikina NYC 2026, before giving a talk. Image credit: CineD&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Photowalks, and why I took photos again&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;What I liked most about the format is that the inspiration does not stay in the lecture room. The photowalks take you straight out into the city, often with the same photographer you just listened to. After the first day, I was one of those inspired visitors myself. For the first time in years, I walked the streets of a city with a camera and no plan, no shot list and no client. I simply had fun taking photos again.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Meeting so many people with the same interest in one place gets your creativity going like nothing else.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75-900x506.jpg" alt="" class="wp-image-445465" srcset="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-75.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Street photography photo walk on the Lower East Side. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77-900x506.jpg" alt="" class="wp-image-445469" srcset="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-77.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Instructions during a photo walk on the Lower East Side. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;figure class="wp-block-image size-cinema_single_featured_photo_large"&gt;&lt;img loading="lazy" decoding="async" width="1300" height="750" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-21-1300x750.jpg" alt="" class="wp-image-445511"/&gt;&lt;figcaption class="wp-element-caption"&gt;Random street photography from NYC&amp;#8217;s Lower East Side, where Fujikina took place. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;A street fair, and free camera loans&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On Saturday, the festival closed an entire street, Ludlow Street, for a street fair. There were circus performers that you could photograph or film, and a number of tents from photography and filmmaking accessory manufacturers.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;But this was not a trade show. Nobody really talked about gear. The conversations were about the photos, about the community, and about having something to say with your images.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58-900x506.jpg" alt="" class="wp-image-445477" srcset="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-58.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Circus performers at the Saturday street fair on Ludlow Street. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52-900x506.jpg" alt="" class="wp-image-445473" srcset="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-52.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The Fujikina NYC street fair brought vendors and community partners onto the closed street. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Gear was still there, of course, for the people who wanted it. At the Brand House, visitors could borrow FUJIFILM cameras and lenses free of charge and use them during the festival. People loved that. (FUJIFILM, if you are reading this: next time, a corner with the &lt;a href="https://www.cined.com/fujifilm-eterna-proremote-app-hands-on-four-camera-control-full-menu-access-and-clip-downloads-for-the-gfx-eterna-55/" target="_blank" rel="noreferrer noopener"&gt;GFX ETERNA 55 and the ETERNA ProRemote app&lt;/a&gt; for the video people would be very welcome.)&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/CineD_143-900x506.jpg" alt="" class="wp-image-445505" srcset="https://www.cined.com/content/uploads/2026/10/CineD_143-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/CineD_143-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/CineD_143-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/CineD_143-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/CineD_143-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/CineD_143-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/CineD_143-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/CineD_143-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/CineD_143.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The FUJIFILM Brand House served as a center of the event, where people could &amp;#8211; among other things &amp;#8211; also get free loan cameras and lenses. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;ICP, World Press Photo and the exhibitions&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;What makes the event more than pretty pictures and good vibes is the partners. The most important ones were the &lt;a href="https://www.icp.org/events/fujikina-nyc-2026" target="_blank" rel="noreferrer noopener"&gt;International Center of Photography (ICP)&lt;/a&gt;, Magnum Photos, World Press Photo and FotoFest. ICP was itself one of the nine venues, which was very practical.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-cinema_single_featured_photo_large"&gt;&lt;img loading="lazy" decoding="async" width="1300" height="750" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-40-1300x750.jpg" alt="" class="wp-image-445515"/&gt;&lt;figcaption class="wp-element-caption"&gt;Random street photography from NYC&amp;#8217;s Lower East Side, where Fujikina took place. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Some of the exhibitions celebrate FUJIFILM&amp;#8217;s own history, such as 15 Years of X Series. Others deal with some of the most urgent social issues of our time, for example Laia Abril&amp;#8217;s exhibition at ICP, On Rape and Institutional Failure, and the &lt;a href="https://www.worldpressphoto.org/education/programs/world-press-photo-at-fujikina-new-york-2026" target="_blank" rel="noreferrer noopener"&gt;World Press Photo Exhibition 2026&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;During the festival, World Press Photo also announced an extended strategic partnership with FUJIFILM. The point of it is to support photojournalism around the world, and to show reality as it is in an increasingly unstable world. I think that matters a lot right now.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="674" height="1200" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-73-674x1200.jpg" alt="" class="wp-image-445501" srcset="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-73-674x1200.jpg 674w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-73-300x534.jpg 300w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-73-768x1367.jpg 768w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-73-863x1536.jpg 863w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-73-129x230.jpg 129w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-73.jpg 1079w" sizes="auto, (max-width: 674px) 100vw, 674px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Random street photography from NYC&amp;#8217;s Lower East Side, where Fujikina took place. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Not a single word about AI&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Here is the thing I keep thinking about since I came back. This was 100% an event about real connections and real images. In three days, I did not hear the word AI once. Nobody ignored the topic on purpose. People simply did not care, because nothing beats getting together like this, everyone with their own style and their own perspective on the world, and with a lot of respect for each other and for human creation in particular.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-cinema_single_featured_photo_large"&gt;&lt;img loading="lazy" decoding="async" width="1300" height="750" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-71-1300x750.jpg" alt="" class="wp-image-445519"/&gt;&lt;figcaption class="wp-element-caption"&gt;Random street photography from NYC&amp;#8217;s Lower East Side, where Fujikina took place. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In my opinion, this is very much in line with FUJIFILM&amp;#8217;s philosophy, and you could see it in everything they did there. The festival was not about the technology. It was about using that technology to make images that mean something, and about building connections between the people who make them. We recently wrote about how &lt;a href="https://www.cined.com/canon-nikon-sony-and-fujifilm-on-the-future-of-cameras-video-shared-platforms-and-ai/" target="_blank" rel="noreferrer noopener"&gt;Canon, Nikon, Sony and FUJIFILM see the future of cameras and AI&lt;/a&gt;, and in New York I saw one possible answer in practice.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Yes, AI has a huge influence on our jobs, in photography and in filmmaking. I do not want to pretend otherwise. But my feeling is that even average viewers prefer real images, and a festival like this one shows that a lot of people want real images, real connections and real community. In a world that becomes more artificial every day, going back to the roots looks like the way forward to me, and FUJIFILM is celebrating exactly that.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49-900x506.jpg" alt="" class="wp-image-445497" srcset="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-49.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Inspiring presentations at Fujikina NYC 2026. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What comes next&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;FUJIFILM sees the festival as a start. According to the company, it wants to keep building the photography community in New York with local partners such as ICP, and take the same approach to other US cities with Create With Us: On Tour, its regional event series. Photographers Reuben Wu, Casey Cavanaugh and Jonas Rask all told FUJIFILM that Fujikina NYC was the best photography festival ever held in the US. For my part, I came back home more inspired for my own creative work than I have been in a long time, and I can&amp;#8217;t wait to get back out there and shoot more.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80-900x506.jpg" alt="" class="wp-image-445487" srcset="https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80-1536x863.jpg 1536w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/10/FUJIKINA_NINO_LEITNER-80.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Bryan Minear (FUJIFILM photographer) and Victor Ha (FUJIFILM), who worked tirelessly with their teams to put on Fujikina NYC. Image credit: Nino Leitner (CineD).&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;My advice to FUJIFILM, and honestly to the whole industry: do more events like this. Don&amp;#8217;t focus on the tech. Focus on the community, on the connections, and on learning from each other. That has always worked, and it still works in 2026.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-cinema_single_featured_photo_large"&gt;&lt;img loading="lazy" decoding="async" width="1300" height="750" src="https://www.cined.com/content/uploads/2026/10/CineD_122-1300x750.jpg" alt="" class="wp-image-445493"/&gt;&lt;figcaption class="wp-element-caption"&gt;New York City at tusk. Image credit: Nino Leitner (CineD)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;A big thank you also goes to my wife, Anita. When I travel like this, the real work waits at home with the kids, and she makes it possible for me to live my passion.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Have you been to a Fujikina event, in New York or in Europe, or would you go to one? Let me know what you think in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>SmallHD Focus 504 Announced – 5-Inch 1000-Nit Monitor With 3G-SDI, HDMI 2.0, and Wi-Fi Camera Control</title>
-  <link href="https://www.cined.com/smallhd-focus-504-announced-5-inch-1000-nit-monitor-with-3g-sdi-hdmi-2-0-and-wi-fi-camera-control/"/>
-  <id>https://www.cined.com/smallhd-focus-504-announced-5-inch-1000-nit-monitor-with-3g-sdi-hdmi-2-0-and-wi-fi-camera-control/</id>
-  <published>2026-10-29T10:49:05+00:00</published>
-  <updated>2026-10-29T10:49:05+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-7.jpeg"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-7.jpeg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-7.jpeg"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-7.jpeg</webfeeds:featuredImage>
-  <summary>SmallHD has brought back the Focus name with the Focus 504, a 5-inch 1080p touchscreen monitor in an aluminum body that weighs 310g. It has 3G-SDI and HDMI 2.0 inputs and outputs, a built-in Sony L-Series battery slot, locking USB-C ports, and internal 2.4GHz Wi-Fi for wireless c</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-7.jpeg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;SmallHD has brought back the Focus name with the Focus 504, a 5-inch 1080p touchscreen monitor in an aluminum body that weighs 310g. It has 3G-SDI and HDMI 2.0 inputs and outputs, a built-in Sony L-Series battery slot, locking USB-C ports, and internal 2.4GHz Wi-Fi for wireless camera control. At $999, it becomes the entry point to SmallHD&amp;#8217;s current 5-inch range, but it is far from a budget monitor.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;SmallHD has added the new &lt;a href="https://smallhd.com/products/focus-504" target="_blank" rel="noopener"&gt;Focus 504&lt;/a&gt; to its online store and to a dedicated &lt;a href="https://smallhd.com/pages/focus" target="_blank" rel="noopener"&gt;Focus landing page&lt;/a&gt;. The company describes it as its &amp;#8220;smallest, slimmest monitor yet&amp;#8221;. The 4.97-inch IPS touchscreen has a 1920 x 1080 resolution (443ppi), a maximum brightness of 1000 nits, and a 60Hz refresh rate. The monitor processes video at 10-bit on an 8-bit panel. Video connections are full-size: one 3G-SDI BNC input and output, and one full-size HDMI 2.0 input and output, with cross-conversion in both directions. A locking USB-C &amp;#8220;PVC&amp;#8221; port carries power, video, and data, and two more locking USB-C ports supply accessory power and take a USB flash drive. The monitor runs PageOS 6, and an internal 2.4GHz Wi-Fi module is ready for wireless camera control of ARRI, Sony, RED, and Canon cameras. SmallHD says that this function is &amp;#8220;coming soon&amp;#8221; and that licenses are sold separately.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-full"&gt;&lt;img loading="lazy" decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504.jpeg" alt="" class="wp-image-445260" srcset="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504.jpeg 1920w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-1600x900.jpeg 1600w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;SmallHD Focus 504 monitor. Credit: SmallHD&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;SmallHD aims the Focus 504 at lightweight camera builds, handheld operation, gimbal rigs, and small productions. The name will be familiar to many readers. The original 5-inch &lt;a href="https://www.cined.com/smallhd-focus-5-monitor-499/" target="_blank" rel="noopener"&gt;SmallHD FOCUS launched at $499&lt;/a&gt; with a 1280 x 720, 800-nit panel and micro HDMI input, and SmallHD later added SDI, OLED, and &lt;a href="https://www.cined.com/smallhd-focus-pro-5-monitors-red-cameras-announced/" target="_blank" rel="noopener"&gt;Focus Pro versions for RED cameras&lt;/a&gt;. The Focus 504 keeps the compact idea but moves up in build quality, brightness, and price.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Body, size, and mounting&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Focus 504 uses an anodized aluminum unibody with a raised protective bezel around the screen. SmallHD lists the dimensions as 136 x 88 x 23.9mm / 5.35 x 3.46 x 0.94in and the weight as 0.31kg / 0.68lb without a battery. That is light for a monitor with full-size SDI and HDMI connectors.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;There are four 1/4&amp;#8243;-20 mounting points (top, bottom, left, and right), and each has ARRI locating pins. Physical controls are a rear joystick, a back button, and two custom function buttons, in addition to the touchscreen. Operating temperature is 0°C to 40°C / 32°F to 105°F.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1-900x506.jpeg" alt="" class="wp-image-445273" srcset="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-5-1.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: SmallHD&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;The display: bright, but not the brightest in the range&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At 1000 nits, the Focus 504 is daylight-viewable in most conditions, but it does not match the 2000 nits of the &lt;a href="https://smallhd.com/products/cine-5" target="_blank" rel="noopener"&gt;Cine 5&lt;/a&gt; or the 3000 nits of the &lt;a href="https://smallhd.com/products/ultra-5" target="_blank" rel="noopener"&gt;Ultra 5&lt;/a&gt;. Contrast is 1000:1, and the backlight is edge-lit and adjustable.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On color, the SmallHD material is not consistent. The product text says 100% Rec.709 coverage, while the technical spec table on the same page lists 97% Rec.709. Until SmallHD clarifies this, we take 97% as the safer figure. The monitor stores a 33-point calibration LUT internally, and it supports 17-point user LUTs from removable media. A 17-point LUT can also go downstream on the SDI, HDMI, or USB-C output.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6-900x506.jpeg" alt="" class="wp-image-445277" srcset="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-6.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: SmallHD&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Inputs, outputs, and signal support&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On SDI, the Focus 504 accepts 3G-SDI, HD-SDI, and SD-SDI signals in YCC 4:2:2 10-bit, up to 1080p60. The HDMI 2.0 input takes signals up to 2160p30 and 1080p120, and the monitor displays them on its 1080p panel. Both SDI and HDMI have loop outputs, and the monitor can cross-convert HDMI to SDI and SDI to HDMI. This is useful when a mirrorless camera with HDMI only must feed an SDI wireless transmitter or a director&amp;#8217;s monitor.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Audio comes in through HDMI or SDI, with metering for up to eight channels and a 3.5mm headphone jack for monitoring.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The USB-C setup is the most interesting change. SmallHD calls the main locking port &amp;#8220;PVC&amp;#8221; (power, video, communication). According to SmallHD, it accepts power input or output, DisplayPort Alt Mode video input, and USB data, depending on the connected device, cable, and firmware. The two other locking USB-C ports give 5V/1.5A accessory power and USB data. Users can plug in a USB-C flash drive to update firmware, load LUTs, and save screen grabs. A 16GB SmallHD USB-A/C flash drive comes in the box, together with a clear screen protector.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4-900x506.jpeg" alt="" class="wp-image-445281" srcset="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-4.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: SmallHD&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Power options&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;There are three ways to power the Focus 504:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;a built-in Sony L-Series battery slot&lt;/li&gt;
-
-
-
-&lt;li&gt;a locking 2-pin input that accepts 10V to 17V&lt;/li&gt;
-
-
-
-&lt;li&gt;the locking PVC USB-C port, at 5V to 20V and up to 25W&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;SmallHD rates power consumption at 10W for the monitor alone and 35W maximum. The company recommends a 12V to 15V DC supply at approximately 2.5A or more.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8-900x506.jpeg" alt="" class="wp-image-445287" srcset="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-8.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Credit: SmallHD&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;PageOS 6, vertical mode, and camera control&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Focus 504 runs PageOS 6, which we covered when SmallHD &lt;a href="https://www.cined.com/smallhd-pageos-6-update-adds-powerful-new-capabilities-to-all-current-monitors/" target="_blank" rel="noopener"&gt;rolled it out to all current monitors&lt;/a&gt;. Users build custom pages from tools such as false color (rainbow, ARRI style, or custom with up to 10 nodes), dual zebras, waveform, vectorscope, RGB parade, histogram, focus assist, and peaking. Other tools include frame guides, pixel zoom up to 8x, image flip and rotate, and anamorphic de-squeeze at 0.75x, 1.33x, 1.5x, 1.66x, 2.0x, and 2.5x. Teradek RT overlays are also on the tool list.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The monitor also has the Vertical Mode portrait interface that arrived with the &lt;a href="https://www.cined.com/smallhd-pageos-update-adds-fleet-control-portrait-mode-and-canon-camera-control/" target="_blank" rel="noopener"&gt;PageOS update that added Fleet Control and Canon camera control&lt;/a&gt;. Fleet Control can also load LUTs.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Wi-Fi module is the feature that separates the Focus 504 from earlier small SmallHD monitors. SmallHD says that it will let the monitor control select RED, ARRI, Canon, and Sony cameras without a control cable. The spec table names ARRI, Sony VENICE, RED DSMC2, and RED RCP2 cameras (KOMODO and DSMC3), while the marketing text adds Canon, for which SmallHD already sells &lt;a href="https://www.cined.com/smallhd-camera-control-for-canon-cinema-cameras-c70-c80-c300mkiii-c400-c500mkii-support/" target="_blank" rel="noopener"&gt;wired camera control for its Cinema EOS cameras&lt;/a&gt;. Note that camera control is not active at launch: SmallHD says it is &amp;#8220;coming soon&amp;#8221;, and each camera license costs extra. The three USB-C ports also support wired camera control protocols.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Accessories&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;SmallHD sells a &lt;a href="https://smallhd.com/products/focus-504-sunhood" target="_blank" rel="noopener"&gt;Focus 504 Sunhood&lt;/a&gt; for $129. It mounts without tools, has magnetic top and side flaps, and has a microfiber interior that protects the screen when folded down. A replacement bottom flag costs $29, and a spare clear screen protector costs $29.99.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2-900x506.jpeg" alt="" class="wp-image-445264" srcset="https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/10/SmallHD-Focus-504-2.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Monitor comparison chart. Credit: SmallHD&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Where does it fit?&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In SmallHD&amp;#8217;s current 5-inch range, the Focus 504 sits below the Cine 5 ($1,649) and the Ultra 5 ($2,249). The main difference is brightness: 1000 nits against 2000 and 3000 nits. Compared with the original Focus, the price has doubled. Many 5-inch monitors from other brands with similar brightness cost much less, and some of them also record. The Focus 504 does not record video. Its value is in PageOS, the SDI and HDMI cross-conversion, the aluminum build, and the camera control function. The launch also comes after a &lt;a href="https://www.cined.com/videndum-h1-2026-results-cine-brands-outperform-while-the-going-concern-warning-stays/" target="_blank" rel="noopener"&gt;difficult financial period&lt;/a&gt; for SmallHD&amp;#8217;s parent company Videndum.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The SmallHD Focus 504 costs &lt;a href="https://www.bhphotovideo.com/c/product/2001544-REG/smallhd_16_0520_focus_504_on_camera_monitor.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$999&lt;/a&gt; at B&amp;amp;H, and &lt;a href="https://cvp.com/product/smallhd-focus-504?aff_id=101" target="_blank" rel="noreferrer noopener"&gt;€914.71&lt;/a&gt; at CVP. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Are 1000 nits and Wi-Fi camera control enough to justify $999 for a 5-inch monitor, or do you prefer a cheaper monitor-recorder for your handheld rig? Let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

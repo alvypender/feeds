@@ -3,7 +3,356 @@
 <title>Finanzas y Contabilidad – Completo</title>
 <link href="https://alvypender.github.io/feeds/"/>
 <id>https://alvypender.github.io/feeds/</id>
-<updated>2026-11-05T16:15:10-08:00</updated>
+<updated>2026-11-06T13:14:58+00:00</updated>
+<entry>
+  <title>Calculadora de la cuota de administración por coeficiente [Gerencie.com]</title>
+  <link href="https://alvypender.github.io/feeds/articulos/gerencie_calculadora-cuota-administracion-propiedad-horizontal.html"/>
+  <id>https://www.gerencie.com/calculadora-cuota-administracion-propiedad-horizontal.html#v2</id>
+  <published>2026-11-06T13:14:58+00:00</published>
+  <updated>2026-11-06T13:14:58+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-cuota-administracion-propieda.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-cuota-administracion-propieda.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-cuota-administracion-propieda.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-cuota-administracion-propieda.jpg</webfeeds:featuredImage>
+  <summary>Calcule gratis la cuota de administración de cada unidad por coeficiente, con fondo de imprevistos, plantilla de Excel y cálculo de la cuota extraordinaria.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-cuota-administracion-propieda.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
+&lt;div class="gcal-tabs" role="tablist" aria-label="Pasos de la calculadora"&gt;
+                                &lt;button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-presupuesto" data-tab="presupuesto" aria-controls="gph-cuota-1-panel-presupuesto" aria-selected="true" tabindex="0"&gt;&lt;b&gt;1. Presupuesto&lt;/b&gt;&lt;small&gt;Gastos y fondo&lt;/small&gt;&lt;/button&gt;
+                                &lt;button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-unidades" data-tab="unidades" aria-controls="gph-cuota-1-panel-unidades" aria-selected="false" tabindex="-1"&gt;&lt;b&gt;2. Unidades&lt;/b&gt;&lt;small&gt;Coeficientes&lt;/small&gt;&lt;/button&gt;
+                                &lt;button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-cuotas" data-tab="cuotas" aria-controls="gph-cuota-1-panel-cuotas" aria-selected="false" tabindex="-1"&gt;&lt;b&gt;3. Cuotas&lt;/b&gt;&lt;small&gt;Cuota de cada unidad&lt;/small&gt;&lt;/button&gt;
+                                &lt;button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-constructora" data-tab="constructora" aria-controls="gph-cuota-1-panel-constructora" aria-selected="false" tabindex="-1"&gt;&lt;b&gt;4. Constructora&lt;/b&gt;&lt;small&gt;Unidades sin vender&lt;/small&gt;&lt;/button&gt;
+                                &lt;button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-extra" data-tab="extra" aria-controls="gph-cuota-1-panel-extra" aria-selected="false" tabindex="-1"&gt;&lt;b&gt;5. Cuota extraordinaria&lt;/b&gt;&lt;small&gt;Mayoría y reparto&lt;/small&gt;&lt;/button&gt;
+                                &lt;button type="button" class="gcal-tab" role="tab" id="gph-cuota-1-tab-reporte" data-tab="reporte" aria-controls="gph-cuota-1-panel-reporte" aria-selected="false" tabindex="-1"&gt;&lt;b&gt;6. Reporte&lt;/b&gt;&lt;small&gt;Resumen y descargas&lt;/small&gt;&lt;/button&gt;
+                            &lt;/div&gt;
+            &lt;div class="gcal-aviso gph-msg" data-gph-msg role="status" aria-live="polite" hidden&gt;&lt;/div&gt;
+                        &lt;div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-presupuesto" aria-labelledby="gph-cuota-1-tab-presupuesto" data-panel="presupuesto"&gt;
+                &lt;p class="gcal-txt"&gt;Cargando la calculadora…&lt;/p&gt;            &lt;/div&gt;
+                        &lt;div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-unidades" aria-labelledby="gph-cuota-1-tab-unidades" data-panel="unidades" hidden&gt;
+                            &lt;/div&gt;
+                        &lt;div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-cuotas" aria-labelledby="gph-cuota-1-tab-cuotas" data-panel="cuotas" hidden&gt;
+                            &lt;/div&gt;
+                        &lt;div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-constructora" aria-labelledby="gph-cuota-1-tab-constructora" data-panel="constructora" hidden&gt;
+                            &lt;/div&gt;
+                        &lt;div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-extra" aria-labelledby="gph-cuota-1-tab-extra" data-panel="extra" hidden&gt;
+                            &lt;/div&gt;
+                        &lt;div class="gph-panel" role="tabpanel" id="gph-cuota-1-panel-reporte" aria-labelledby="gph-cuota-1-tab-reporte" data-panel="reporte" hidden&gt;
+                            &lt;/div&gt;
+                        &lt;p class="gcal-pie-t"&gt;Los datos se procesan solo en su navegador y se guardan temporalmente en este equipo para que no pierda el trabajo. No se envían a Gerencie.com.&lt;/p&gt;
+        &lt;/div&gt;
+        
+&lt;aside class="ads-gerencie"
+           data-producto="23"
+           aria-label="Producto de Gerencie.com"&gt;
+        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/calculadora-retencion-salarios"&gt;Calculadora de retención en la fuente por salarios&lt;/a&gt;
+                
+                            &lt;a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/calculadora-retencion-salarios"
+               aria-label="Calcular retención: Calculadora de retención en la fuente por salarios"&gt;Calcular retención&lt;/a&gt;
+            &lt;/aside&gt;&lt;h2&gt;&lt;span id="Que_hace_la_calculadora"&gt;Qué hace la calculadora.&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;La calculadora hace el ejercicio que el administrador y el consejo preparan cada año antes de la asamblea: tomar el presupuesto de gastos, sumarle el fondo de imprevistos, restarle los ingresos distintos de las cuotas y repartir el resultado entre las unidades.&lt;/p&gt;
+&lt;p&gt;Además, resuelve tres preguntas que suelen surgir en ese proceso:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cuánto sube la cuota de cada unidad frente a la que paga hoy.&lt;/li&gt;
+&lt;li&gt;Cuánto pagaría de más cada comprador si la constructora no pagara las unidades que aún no ha vendido.&lt;/li&gt;
+&lt;li&gt;Cuánto le corresponde a cada unidad en una cuota extraordinaria, y si la asamblea puede aprobarla con mayoría ordinaria o necesita el 70 %.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Todos los cálculos se hacen en su navegador. No necesita registrarse y la información no se envía a Gerencie.com. El trabajo queda guardado en su equipo para que no lo pierda si recarga la página.&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Como_usar_la_calculadora"&gt;Cómo usar la calculadora.&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;La calculadora tiene seis pestañas. Las tres primeras calculan la cuota ordinaria; las demás son complementarias y puede usarlas solo si las necesita.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Paso_1_Presupuesto"&gt;Paso 1. Presupuesto.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;En la primera pestaña se registra el presupuesto anual. La calculadora trae unos rubros de ejemplo que puede modificar, eliminar o completar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gastos anuales.&lt;/strong&gt; Un rubro por fila con su valor para todo el año: vigilancia, aseo, servicios públicos de zonas comunes, honorarios del administrador, contador, revisor fiscal, mantenimientos y seguros, entre otros.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Otros ingresos anuales.&lt;/strong&gt; Los que no provienen de las cuotas: arrendamiento de zonas comunes, intereses de mora estimados o excedentes del año anterior. Reducen lo que hay que recaudar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recargo del fondo de imprevistos.&lt;/strong&gt; Por defecto es el 1 %, que es el mínimo del artículo &lt;a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#35" target="_blank" rel="noopener noreferrer"&gt;35&lt;/a&gt;. La asamblea puede fijar uno mayor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Saldo actual del fondo de imprevistos.&lt;/strong&gt; Se usa para verificar si procede suspender el recargo y para el cálculo de la cuota extraordinaria.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Meses de la vigencia.&lt;/strong&gt; Normalmente 12. Cámbielo solo si el período presupuestal de la copropiedad es distinto.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hay dos casillas especiales. La primera se marca cuando la asamblea decidió suspender el recargo porque el fondo ya alcanza el 50 % del presupuesto de gastos; si el saldo registrado no llega a ese nivel, la calculadora no acepta la suspensión. La segunda se marca en los edificios o conjuntos de vivienda de interés social o prioritario de cinco o menos unidades, en los que el fondo es potestativo según el parágrafo 2 del artículo 35, adicionado por el artículo 45 de la ley 2079 de 2021.&lt;/p&gt;
+&lt;p&gt;Al final de la pestaña aparecen los totales: gastos, fondo, otros ingresos y lo que debe recaudarse con las cuotas, al año y al mes.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Paso_2_Unidades"&gt;Paso 2. Unidades.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;En la segunda pestaña se registran todas las unidades privadas con su coeficiente. Puede hacerlo una a una o con la plantilla de Excel:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Haga clic en «Descargar plantilla de Excel».&lt;/li&gt;
+&lt;li&gt;En la hoja «Unidades» registre una fila por unidad con su coeficiente en porcentaje, por ejemplo 1,2345. La celda J1 suma los coeficientes para que verifique que dan 100.&lt;/li&gt;
+&lt;li&gt;Si quiere comparar con la cuota vigente, escríbala en la columna «Cuota actual».&lt;/li&gt;
+&lt;li&gt;En la columna «Constructora» escriba «Sí» en las unidades que siguen a nombre de la constructora.&lt;/li&gt;
+&lt;li&gt;Si lo prefiere, ajuste también en el mismo archivo las hojas «Gastos» e «Ingresos».&lt;/li&gt;
+&lt;li&gt;Guarde el archivo y cárguelo con el botón «Cargar archivo de Excel».&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Los valores en pesos pueden escribirse con el formato colombiano, por ejemplo 1.200.000. No cambie los nombres de las hojas ni de las columnas.&lt;/p&gt;
+&lt;p&gt;En esta misma pestaña se eligen tres opciones:&lt;/p&gt;&lt;div class ="vb-ads"&gt;
+
+
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base de distribución.&lt;/strong&gt; Por regla general es el coeficiente de copropiedad. Solo elija «Módulos de contribución» si la copropiedad es comercial o mixta y el reglamento los establece, como lo permite el numeral 3 del artículo 25.&lt;/li&gt;
+&lt;li&gt;Sin redondeo, al peso, a la centena o al millar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Forma de redondear.&lt;/strong&gt; Al valor más cercano o siempre hacia arriba.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El redondeo facilita el recaudo, pero genera una pequeña diferencia frente al presupuesto, que la calculadora le muestra en el siguiente paso.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Paso_3_Cuotas"&gt;Paso 3. Cuotas.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;La tercera pestaña muestra la cuota mensual y anual de cada unidad, la parte de esa cuota que corresponde al fondo de imprevistos y, si registró la cuota actual, la variación en pesos y en porcentaje.&lt;/p&gt;
+&lt;p&gt;Esta es la tabla que puede llevarse al proyecto de presupuesto que el administrador y el consejo presentan a la asamblea.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Paso_4_Constructora"&gt;Paso 4. Constructora.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;La cuarta pestaña aplica solo en proyectos con unidades sin vender. Muestra la cuota que corresponde a la constructora y cuánto pagaría de más cada comprador si esas unidades se excluyeran del reparto.&lt;/p&gt;
+&lt;p&gt;El escenario es ilustrativo: la constructora debe pagar la cuota de sus unidades como cualquier copropietario, y las cláusulas del reglamento que la exoneran se tienen por no escritas. El tema lo desarrollamos en el artículo sobre si el &lt;a href="https://www.gerencie.com/constructor-debe-pagar-cuota-de-administracion-por-los-bienes-privados-que-no-ha-vendido.html"&gt;constructor debe pagar la cuota de administración de los bienes que no ha vendido&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Paso_5_Cuota_extraordinaria"&gt;Paso 5. Cuota extraordinaria.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;La quinta pestaña reparte una cuota extraordinaria entre las unidades. Debe indicar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El destino y la naturaleza del gasto: expensa necesaria, expensa no necesaria o atención de un imprevisto.&lt;/li&gt;
+&lt;li&gt;El valor total y el número de cuotas mensuales en que se cobrará.&lt;/li&gt;
+&lt;li&gt;Las otras cuotas extraordinarias ya aprobadas en la misma vigencia, porque el límite del artículo 46 se mide sobre el total del año.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Con esos datos la calculadora reparte la cuota por unidad y le indica la mayoría que debe obtener en la asamblea.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Paso_6_Reporte"&gt;Paso 6. Reporte.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;La última pestaña resume el presupuesto y la cuota de cada unidad. Puede imprimirlo o guardarlo en PDF, y descargar un archivo de Excel con las hojas de presupuesto, cuotas y, cuando aplican, constructora y cuota extraordinaria.&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Como_interpretar_los_resultados"&gt;Cómo interpretar los resultados.&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Los resultados se presentan en recuadros con las cifras principales, en tablas por unidad y en alertas que señalan lo que conviene revisar.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="El_presupuesto_a_recaudar"&gt;El presupuesto a recaudar.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;La cifra central es lo que debe recaudarse con las cuotas, que se obtiene así:&lt;/p&gt;
+&lt;div class="tabla-scroll"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concepto&lt;/th&gt;
+&lt;th&gt;Operación&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Gastos anuales&lt;/td&gt;
+&lt;td&gt;Suma de los rubros&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fondo de imprevistos&lt;/td&gt;
+&lt;td&gt;Gastos × recargo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Otros ingresos&lt;/td&gt;
+&lt;td&gt;Se restan&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A recaudar con cuotas&lt;/td&gt;
+&lt;td&gt;Gastos + fondo − otros ingresos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A recaudar por mes&lt;/td&gt;
+&lt;td&gt;Lo anterior ÷ meses de la vigencia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Recuerde que el fondo de imprevistos es un &lt;strong&gt;recargo&lt;/strong&gt; sobre los gastos y no una parte de ellos: si los gastos son $100, el presupuesto a financiar es $101. Su manejo lo explicamos en el artículo sobre el &lt;a href="https://www.gerencie.com/fondo-de-imprevistos-en-la-propiedad-horizontal.html"&gt;fondo de imprevistos&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="La_cuota_de_cada_unidad"&gt;La cuota de cada unidad.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;La cuota mensual de cada unidad es lo que debe recaudarse al mes multiplicado por su coeficiente. Por eso dos apartamentos con el mismo coeficiente pagan lo mismo, aunque uno esté desocupado: la obligación se mantiene aun cuando el propietario no ocupe su unidad ni use los bienes comunes, según el parágrafo 2 del artículo 29.&lt;/p&gt;
+&lt;p&gt;La columna «Incluye fondo» muestra cuánto de esa cuota se destina al fondo de imprevistos. Conviene informarlo a los copropietarios, porque ese dinero tiene una destinación restringida.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="La_diferencia_por_redondeo"&gt;La diferencia por redondeo.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Redondear la cuota hace que la suma de todas las cuotas no coincida exactamente con el presupuesto. La calculadora muestra esa diferencia anual. Si es positiva, la copropiedad recaudará un poco más de lo presupuestado; si es negativa, un poco menos.&lt;/p&gt;
+&lt;p&gt;Con el redondeo hacia arriba la diferencia siempre es positiva. De acuerdo con nuestro criterio, es preferible redondear al valor más cercano, salvo que la asamblea decida otra cosa, porque así la diferencia tiende a compensarse entre unidades.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="La_variacion_frente_a_la_cuota_actual"&gt;La variación frente a la cuota actual.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Si registró la cuota vigente, la calculadora muestra el aumento o la disminución de cada unidad y el promedio de la copropiedad. Un aumento aparece en rojo y una disminución en verde.&lt;/p&gt;
+&lt;p&gt;El incremento de la cuota no tiene un tope legal: lo fija la asamblea al aprobar el presupuesto, así supere el IPC. Lo explicamos en el artículo sobre el &lt;a href="https://www.gerencie.com/presupuesto-de-la-propiedad-horizontal.html"&gt;presupuesto de la propiedad horizontal&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="La_mayoria_de_la_cuota_extraordinaria"&gt;La mayoría de la cuota extraordinaria.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;La pestaña de cuota extraordinaria muestra un recuadro con la mayoría que debe obtener la asamblea:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Basta la mayoría ordinaria.&lt;/strong&gt; Las cuotas extraordinarias de la vigencia no superan cuatro veces las expensas necesarias mensuales. Se aprueban con la mitad más uno de los coeficientes representados en la reunión.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Requiere mayoría calificada del 70 %.&lt;/strong&gt; Las cuotas extraordinarias superan ese límite, o se trata de expensas no necesarias, como mejoras o embellecimiento. Se necesita el voto favorable del 70 % de los coeficientes de todo el edificio o conjunto, según los numerales 2 y 3 del artículo &lt;a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#46" target="_blank" rel="noopener noreferrer"&gt;46&lt;/a&gt;, y la decisión no puede adoptarse en una reunión no presencial.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si el gasto es un imprevisto, la calculadora verifica primero el saldo del fondo. El parágrafo 1 del artículo 35 solo permite cobrar expensas extraordinarias cuando el fondo es insuficiente, de modo que la calculadora reparte únicamente la diferencia entre el gasto y el saldo disponible.&lt;/p&gt;
+&lt;p&gt;Para verificar si la decisión obtuvo esa mayoría en la asamblea puede usar la &lt;a href="https://www.gerencie.com/calculadora-quorum-asamblea-propiedad-horizontal.html"&gt;calculadora de quórum y mayorías&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Las_alertas"&gt;Las alertas.&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Las alertas aparecen en un recuadro amarillo y señalan situaciones que conviene corregir o explicar a la asamblea:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;La suma de coeficientes no da 100 %.&lt;/strong&gt; Falta alguna unidad o hay un coeficiente mal digitado. La calculadora reparte en proporción a lo cargado, pero el resultado no será exacto mientras no se corrija.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;El recargo es inferior al 1 %.&lt;/strong&gt; La calculadora aplica el mínimo legal.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No es posible suspender el fondo.&lt;/strong&gt; El saldo registrado no alcanza el 50 % del presupuesto de gastos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hay unidades sin módulo de contribución.&lt;/strong&gt; Con esa base de distribución, esas unidades quedan en cero.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ninguna alerta impide usar el resultado, pero conviene resolverlas antes de presentar el proyecto de presupuesto a la asamblea.&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Ejemplo_de_uso"&gt;Ejemplo de uso.&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Supongamos que…&lt;/strong&gt; un conjunto tiene un presupuesto anual de gastos de &lt;strong&gt;$175.200.000&lt;/strong&gt;, mantiene el recargo del fondo de imprevistos en el &lt;strong&gt;1 %&lt;/strong&gt; y espera recibir &lt;strong&gt;$6.000.000&lt;/strong&gt; por el arrendamiento de zonas comunes.&lt;/p&gt;
+&lt;div class="tabla-scroll"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Concepto&lt;/th&gt;
+&lt;th&gt;Valor anual&lt;/th&gt;
+&lt;th&gt;Valor mensual&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Gastos&lt;/td&gt;
+&lt;td&gt;$175.200.000&lt;/td&gt;
+&lt;td&gt;$14.600.000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fondo de imprevistos (1 %)&lt;/td&gt;
+&lt;td&gt;$1.752.000&lt;/td&gt;
+&lt;td&gt;$146.000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Menos otros ingresos&lt;/td&gt;
+&lt;td&gt;−$6.000.000&lt;/td&gt;
+&lt;td&gt;−$500.000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A recaudar con cuotas&lt;/td&gt;
+&lt;td&gt;$170.952.000&lt;/td&gt;
+&lt;td&gt;$14.246.000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;Un apartamento con un coeficiente del &lt;strong&gt;1,25 %&lt;/strong&gt; paga $14.246.000 × 1,25 % = &lt;strong&gt;$178.075&lt;/strong&gt; al mes, que redondeados a la centena más cercana quedan en &lt;strong&gt;$178.100&lt;/strong&gt;. Uno con el &lt;strong&gt;0,85 %&lt;/strong&gt; paga $121.091, que se redondean a &lt;strong&gt;$121.100&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ahora supongamos que la asamblea quiere aprobar una cuota extraordinaria de &lt;strong&gt;$100.000.000&lt;/strong&gt; para reparar la fachada, en cuatro cuotas. Las expensas necesarias mensuales son ($175.200.000 + $1.752.000) ÷ 12 = $14.746.000, y cuatro veces ese valor es &lt;strong&gt;$58.984.000&lt;/strong&gt;. Como la cuota extraordinaria lo supera, la calculadora indica que se requiere el 70 % de los coeficientes del conjunto. Al apartamento del 1,25 % le corresponden $1.250.000 en total, es decir, $312.500 en cada una de las cuatro cuotas.&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Criterios_que_aplica_la_calculadora"&gt;Criterios que aplica la calculadora.&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;En algunos puntos la ley no es explícita y la calculadora sigue la posición de Gerencie.com:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Las expensas necesarias mensuales, que sirven para medir el límite de la cuota extraordinaria, se toman como los gastos más el fondo de imprevistos, divididos por los meses de la vigencia.&lt;/li&gt;
+&lt;li&gt;El límite de cuatro veces se mide sumando todas las cuotas extraordinarias aprobadas en la misma vigencia.&lt;/li&gt;
+&lt;li&gt;La cuota se reparte en proporción a la suma de coeficientes cargada; si esa suma no es 100 %, la calculadora lo advierte.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La calculadora es una herramienta de apoyo. El presupuesto y las cuotas solo son exigibles cuando los aprueba la asamblea general, conforme al numeral 4 del artículo &lt;a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#38" target="_blank" rel="noopener noreferrer"&gt;38&lt;/a&gt; de la ley 675 de 2001.&lt;/p&gt;
+&lt;div class="pf"&gt;&lt;h2&gt;&lt;span id="Preguntas_frecuentes"&gt;Preguntas frecuentes.&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;
+&lt;p&gt;A continuación respondemos las preguntas frecuentes sobre el uso de la calculadora.&lt;/p&gt;
+&lt;div class="faq-container" itemscope itemtype="https://schema.org/FAQPage"&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Necesito_registrarme_para_usar_la_calculadora"&gt;¿Necesito registrarme para usar la calculadora?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Es de uso libre y todos los cálculos se hacen en su navegador. La información no se envía a Gerencie.com.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Donde_encuentro_el_coeficiente_de_mi_unidad"&gt;¿Dónde encuentro el coeficiente de mi unidad?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;En el reglamento de propiedad horizontal, que lo asigna a cada bien privado. También suele aparecer en la escritura del inmueble. Lo explicamos en el artículo sobre el &lt;a href="https://www.gerencie.com/el-coeficiente-de-copropiedad-en-la-propiedad-horizontal.html"&gt;coeficiente de copropiedad&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Por_que_mi_cuota_es_distinta_de_la_de_mi_vecino"&gt;¿Por qué mi cuota es distinta de la de mi vecino?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Porque cada unidad paga en proporción a su coeficiente, que depende principalmente de su área. Si los coeficientes son iguales, las cuotas también deben serlo.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_parqueadero_privado_paga_una_cuota_adicional"&gt;¿El parqueadero privado paga una cuota adicional?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No, cuando tiene coeficiente propio o está incluido en el de la vivienda. Su contribución ya está dentro del reparto por coeficiente. Si tiene coeficiente propio, regístrelo como una unidad más.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Debo_incluir_la_cartera_morosa_en_el_presupuesto"&gt;¿Debo incluir la cartera morosa en el presupuesto?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No como un ingreso seguro. Los intereses de mora pueden estimarse como otro ingreso, pero de manera prudente, porque su recaudo es incierto.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="La_cuota_extraordinaria_la_paga_el_arrendatario"&gt;¿La cuota extraordinaria la paga el arrendatario?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No necesariamente. El arrendatario solo responde solidariamente por las expensas ordinarias, según el artículo 29 de la ley 675 de 2001. Las extraordinarias son del propietario, salvo que el &lt;a href="https://www.gerencie.com/contrato-de-arrendamiento.html" title="Contrato de arrendamiento"&gt;contrato de arrendamiento&lt;/a&gt; disponga otra cosa entre las partes.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Puedo_usar_la_calculadora_si_la_copropiedad_es_comercial"&gt;¿Puedo usar la calculadora si la copropiedad es comercial?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. Si el reglamento fija módulos de contribución, elija esa base de distribución y registre el módulo de cada unidad. Si no los fija, use el coeficiente.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_resultado_de_la_calculadora_obliga_a_los_copropietarios"&gt;¿El resultado de la calculadora obliga a los copropietarios?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Es una proyección para preparar el presupuesto. La cuota solo es obligatoria cuando la asamblea aprueba el presupuesto y las cuotas.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;aside class="ads-gerencie"
+           data-producto="14"
+           aria-label="Producto de Gerencie.com"&gt;
+        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/guia-laboral"&gt;Guía Laboral 2026&lt;/a&gt;
+                
+                            &lt;a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/guia-laboral"
+               aria-label="Ver la guía: Guía Laboral 2026"&gt;Ver la guía&lt;/a&gt;
+            &lt;/aside&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Las actas del consejo de administración en la propiedad horizontal [Gerencie.com]</title>
+  <link href="https://alvypender.github.io/feeds/articulos/gerencie_las-actas-del-consejo-de-administracion-en-la-propiedad-horizontal.html"/>
+  <id>https://www.gerencie.com/las-actas-del-consejo-de-administracion-en-la-propiedad-horizontal.html#v2</id>
+  <published>2026-11-05T20:14:46+00:00</published>
+  <updated>2026-11-05T20:14:46+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_las-actas-del-consejo-de-administracion-e.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_las-actas-del-consejo-de-administracion-e.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_las-actas-del-consejo-de-administracion-e.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_las-actas-del-consejo-de-administracion-e.jpg</webfeeds:featuredImage>
+  <summary>Qué deben contener las actas del consejo de administración, quién las firma, si son públicas para los copropietarios y cómo pedirlas, con modelo de acta.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_las-actas-del-consejo-de-administracion-e.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
+&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Puedo_acceder_a_las_actas_del_consejo_mediante_derecho_de_peticion"&gt;¿Puedo acceder a las actas del consejo mediante derecho de petición?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. Conforme al artículo 32 de la ley 1755 de 2015 y a la sentencia T-333 de 2018 de la Corte Constitucional, el copropietario puede ejercer el derecho de petición ante la propiedad horizontal, que debe responder de fondo y de manera oportuna.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="En_que_plazo_debe_responder_la_copropiedad"&gt;¿En qué plazo debe responder la copropiedad?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Tratándose de una solicitud de documentos, dentro de los 10 días hábiles que fija el artículo 14 de la ley 1755 de 2015. La copropiedad solo puede negar la información cuando exista una reserva legal o constitucional que la ampare.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Quien_firma_las_actas_del_consejo-2"&gt;¿Quién firma las actas del consejo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;El presidente del consejo de administración. La ley no exige registrar el sentido del voto de cada consejero, aunque suele hacerse constar el voto negativo a solicitud de quien lo emite.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Las_actas_del_consejo_deben_aprobarse_en_la_misma_reunion"&gt;¿Las actas del consejo deben aprobarse en la misma reunión?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;El consejo decide internamente: puede aprobar el acta en la misma reunión o llevarla a consideración en la siguiente, en ejercicio de su autonomía para dictar su propio reglamento interno.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Las_actas_del_consejo_se_deben_publicar"&gt;¿Las actas del consejo se deben publicar?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Deben ponerse en conocimiento de los propietarios y residentes, según el numeral 3 del artículo 51 de la ley 675 de 2001, pero la ley no fija un plazo ni un medio. El término de veinte días hábiles del artículo 47 aplica a las actas de la asamblea.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Es_obligatorio_llevar_un_libro_de_actas_del_consejo"&gt;¿Es obligatorio llevar un libro de actas del consejo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;La ley no lo exige expresamente, pero es lo recomendable, porque las actas son la prueba de las decisiones del consejo. Puede llevarse en papel o en medio electrónico que impida alterarlas.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;aside class="ads-gerencie"
+           data-producto="13"
+           aria-label="Producto de Gerencie.com"&gt;
+        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidador-dian-pro"&gt;Liquidador de intereses moratorios Dian&lt;/a&gt;
+                
+                            &lt;a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/liquidador-dian-pro"
+               aria-label="Liquidar intereses: Liquidador de intereses moratorios Dian"&gt;Liquidar intereses&lt;/a&gt;
+            &lt;/aside&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>¿Quién vigila a los administradores de propiedad horizontal? [Gerencie.com]</title>
+  <link href="https://alvypender.github.io/feeds/articulos/gerencie_quien-vigila-a-los-administradores-de-propiedad-horizontal.html"/>
+  <id>https://www.gerencie.com/quien-vigila-a-los-administradores-de-propiedad-horizontal.html#v2</id>
+  <published>2026-11-05T16:33:18+00:00</published>
+  <updated>2026-11-05T16:33:18+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_quien-vigila-a-los-administradores-de-pro.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_quien-vigila-a-los-administradores-de-pro.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_quien-vigila-a-los-administradores-de-pro.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_quien-vigila-a-los-administradores-de-pro.jpg</webfeeds:featuredImage>
+  <summary>Quién vigila a los administradores de propiedad horizontal en Colombia, qué controles internos existen y qué hacer ante una irregularidad suya.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_quien-vigila-a-los-administradores-de-pro.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
+&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Quien_regula_la_propiedad_horizontal_en_Colombia"&gt;¿Quién regula la propiedad horizontal en Colombia?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;La ley 675 de 2001 es la norma que regula el régimen, y cada copropiedad se rige además por su reglamento de propiedad horizontal, contenido en &lt;a href="https://www.gerencie.com/escritura-publica.html" title="Qué es una escritura pública y para qué sirve"&gt;escritura pública&lt;/a&gt; registrada.&lt;/p&gt;
+&lt;p&gt;Regular no es lo mismo que vigilar: la ley fija las reglas, pero su cumplimiento lo controlan los órganos internos y, en última instancia, los jueces.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Existe_un_registro_unico_nacional_de_administradores_de_propiedad_horizontal"&gt;¿Existe un registro único nacional de administradores de propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Hoy solo existe la inscripción del nombramiento ante la alcaldía del municipio donde está ubicada la copropiedad, prevista en el artículo 8 de la ley 675 de 2001.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Puedo_exigirle_al_administrador_los_informes_del_revisor_fiscal_cada_mes"&gt;¿Puedo exigirle al administrador los informes del revisor fiscal cada mes?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Depende. Como propietario tiene derecho a conocer los estados financieros y el dictamen del revisor fiscal que se presentan a la asamblea.&lt;/p&gt;
+&lt;p&gt;Cosa distinta es exigir un dictamen mensual: el revisor fiscal ejerce un control permanente, pero la ley no le impone rendir un dictamen cada mes, y si encuentra irregularidades su deber es informarlas oportunamente y, si el caso lo amerita, convocar a asamblea extraordinaria.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Puedo_pedir_los_soportes_contables_y_los_contratos_de_la_copropiedad"&gt;¿Puedo pedir los soportes contables y los contratos de la copropiedad?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. Son documentos de la persona jurídica de la que usted hace parte y no están sometidos a reserva legal. Si se los niegan, procede la reclamación ante el alcalde prevista en el parágrafo del artículo 47 de la ley 675 de 2001, hoy reforzada por el Decreto 768 de 2025.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Ante_quien_se_presenta_una_tutela_contra_un_conjunto_residencial"&gt;¿Ante quién se presenta una tutela contra un conjunto residencial?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Ante cualquier juez de la República, que luego la reparte al despacho competente. No se presenta ante la alcaldía ni ante una superintendencia. La tutela procede porque el copropietario está en situación de subordinación frente a los órganos de administración.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="La_cuota_extraordinaria_puede_ser_igual_para_todos_los_apartamentos"&gt;¿La cuota extraordinaria puede ser igual para todos los apartamentos?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No, por regla general. El numeral 3 del artículo 25 de la ley 675 de 2001 establece que el coeficiente de copropiedad determina el índice con que cada propietario contribuye a las expensas comunes, salvo que el reglamento prevea módulos de contribución en copropiedades de uso comercial o mixto.&lt;/p&gt;
+&lt;p&gt;En consecuencia, si el cobro se reparte en partes iguales sin atender los coeficientes, la decisión no se ajusta a la ley y puede impugnarse dentro de los dos meses siguientes a la asamblea.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="La_alcaldia_puede_sancionar_al_administrador"&gt;¿La alcaldía puede sancionar al administrador?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Solo en los asuntos de su competencia. Puede ordenar la entrega de actas y documentos so pena de sanción de carácter policivo, y las autoridades de policía pueden imponer medidas correctivas por comportamientos contrarios a la convivencia. Lo que no puede hacer la alcaldía es revisar la contabilidad, remover al administrador ni ordenarle devolver dinero.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Quien_vigila_al_revisor_fiscal_de_la_copropiedad"&gt;¿Quién vigila al revisor fiscal de la copropiedad?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;La asamblea general, que lo nombra y lo remueve, y en el plano disciplinario la Junta Central de Contadores, que ejerce la inspección y vigilancia de la profesión contable conforme a la ley 43 de 1990.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Se_puede_denunciar_penalmente_al_administrador"&gt;¿Se puede denunciar penalmente al administrador?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí, cuando hay apropiación de dineros o falsedad en los soportes. La conducta típica es el abuso de confianza del artículo 249 del Código Penal. Tenga en cuenta que el abuso de confianza simple es querellable y la querella debe presentarse dentro de los seis meses siguientes a la conducta.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Donde_consulto_la_ley_675_de_2001_actualizada"&gt;¿Dónde consulto la ley 675 de 2001 actualizada?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;En el portal de la Secretaría del Senado, que publica el texto con las notas de vigencia y las sentencias de constitucionalidad, y en el Gestor Normativo de la Función Pública. Recomendamos consultar siempre esas fuentes oficiales y no versiones en PDF de terceros, que suelen estar desactualizadas.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Que_hago_si_la_administracion_no_me_responde_porque_vivo_fuera_del_pais"&gt;¿Qué hago si la administración no me responde porque vivo fuera del país?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Radique un derecho de petición por correo electrónico a la dirección oficial de la administración, pidiendo el estado de cuenta de su bien privado y la constancia de sus pagos. Debe responderle dentro de los diez días hábiles que la ley 1755 de 2015 fija para las peticiones de documentos. Para participar en la asamblea mientras está ausente, puede otorgar poder a una persona de su confianza.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;aside class="ads-gerencie"
+           data-producto="2"
+           aria-label="Producto de Gerencie.com"&gt;
+        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/navegar-sin-publicidad"&gt;Navegación sin Publicidad&lt;/a&gt;
+                
+                            &lt;a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/navegar-sin-publicidad"
+               aria-label="Ver planes: Navegación sin Publicidad"&gt;Ver planes&lt;/a&gt;
+            &lt;/aside&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Revisor fiscal en la propiedad horizontal [Gerencie.com]</title>
+  <link href="https://alvypender.github.io/feeds/articulos/gerencie_revisor-fiscal-en-la-propiedad-horizontal.html"/>
+  <id>https://www.gerencie.com/revisor-fiscal-en-la-propiedad-horizontal.html#v2</id>
+  <published>2026-11-05T16:22:49+00:00</published>
+  <updated>2026-11-05T16:22:49+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_revisor-fiscal-en-la-propiedad-horizontal.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_revisor-fiscal-en-la-propiedad-horizontal.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_revisor-fiscal-en-la-propiedad-horizontal.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_revisor-fiscal-en-la-propiedad-horizontal.jpg</webfeeds:featuredImage>
+  <summary>Cuándo es obligatorio el revisor fiscal en la propiedad horizontal, qué requisitos e inhabilidades tiene, quién lo nombra y cuáles son sus funciones.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_revisor-fiscal-en-la-propiedad-horizontal.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
+&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Los_conjuntos_residenciales_estan_obligados_a_tener_revisor_fiscal"&gt;¿Los conjuntos residenciales están obligados a tener revisor fiscal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Ningún conjunto residencial está obligado, por grande que sea y por alto que sea su presupuesto.&lt;/p&gt;
+&lt;p&gt;Los topes de activos e ingresos del parágrafo 2 del artículo 13 de la ley 43 de 1990 no le son aplicables, porque se refieren a las sociedades comerciales y la copropiedad es una persona jurídica de naturaleza civil y sin ánimo de lucro.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_revisor_fiscal_de_un_conjunto_residencial_puede_ser_propietario"&gt;¿El revisor fiscal de un conjunto residencial puede ser propietario?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. El inciso final del artículo 56 de la ley 675 de 2001 lo permite expresamente para los edificios y conjuntos de uso residencial, donde también puede ser tenedor de un bien privado.&lt;/p&gt;
+&lt;p&gt;De acuerdo con nuestro criterio, esa permisión no lo releva del deber de independencia: debe abstenerse de intervenir en los asuntos en los que tenga interés directo.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Un_propietario_puede_ser_revisor_fiscal_en_una_propiedad_horizontal"&gt;¿Un propietario puede ser revisor fiscal en una propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;En los conjuntos de uso comercial o mixto, no. La ley se lo prohíbe de manera expresa, y la prohibición cobija también a los tenedores, entre ellos los arrendatarios. En los de uso residencial, sí.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Quien_nombra_al_revisor_fiscal_en_propiedad_horizontal"&gt;¿Quién nombra al revisor fiscal en propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;La asamblea general de propietarios, en ejercicio del numeral 5 del artículo 38 de la ley 675 de 2001. Esa función no puede delegarse en el consejo de administración, porque el parágrafo del mismo artículo solo autoriza delegar la del numeral 3.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Quien_firma_el_contrato_del_revisor_fiscal_en_propiedad_horizontal"&gt;¿Quién firma el contrato del revisor fiscal en propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;El administrador, que es el representante legal de la copropiedad. La asamblea lo elige y fija sus honorarios, pero quien suscribe el contrato en nombre de la persona jurídica es el administrador.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Cuanto_cobra_un_revisor_fiscal_en_propiedad_horizontal"&gt;¿Cuánto cobra un revisor fiscal en propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Depende. La ley no fija tarifas ni mínimos, y el valor varía según el uso de la copropiedad, el número de bienes privados, el tamaño del presupuesto y el alcance del trabajo contratado.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Quien_aprueba_los_honorarios_del_revisor_fiscal"&gt;¿Quién aprueba los honorarios del revisor fiscal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;La asamblea general de propietarios. Los honorarios deben figurar en el presupuesto anual, que ella aprueba conforme al numeral 4 del artículo 38 de la ley 675 de 2001, aunque la propuesta la presenten el administrador o el consejo de administración.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_revisor_fiscal_puede_convocar_a_la_asamblea_de_copropietarios"&gt;¿El revisor fiscal puede convocar a la asamblea de copropietarios?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí, a reuniones extraordinarias. El artículo 39 de la ley 675 de 2001 lo faculta expresamente, junto con el administrador, el consejo de administración y un número plural de propietarios que represente al menos la quinta parte de los coeficientes de copropiedad.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_consejo_puede_impedir_que_el_revisor_fiscal_convoque_a_la_asamblea"&gt;¿El consejo puede impedir que el revisor fiscal convoque a la asamblea?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. La facultad de convocar a asamblea extraordinaria se la da directamente el artículo 39 de la ley 675 de 2001, y no está sujeta a autorización del consejo. Si la administración no publica la convocatoria, el revisor puede enviarla él mismo a cada propietario.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_revisor_fiscal_debe_entregar_informes_cada_mes"&gt;¿El revisor fiscal debe entregar informes cada mes?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No necesariamente. Su obligación legal es dictaminar los estados financieros y rendir el informe a la asamblea general, además de informar oportunamente y por escrito las irregularidades que encuentre.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;Cosa distinta es que la asamblea, al fijar sus funciones y honorarios, le exija informes periódicos al consejo de administración, lo cual es perfectamente posible.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Que_pasa_si_un_conjunto_comercial_o_mixto_no_nombra_revisor_fiscal"&gt;¿Qué pasa si un conjunto comercial o mixto no nombra revisor fiscal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Incumple una norma imperativa de la ley 675 de 2001, y la omisión compromete a la asamblea y al administrador que no la convocó para ese fin.&lt;/p&gt;
+&lt;p&gt;No existe una superintendencia que sancione ese incumplimiento, de modo que la vía es exigir la convocatoria de la asamblea y, si es del caso, acudir a los jueces civiles.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Una_firma_de_contadores_puede_ser_revisor_fiscal_de_la_copropiedad"&gt;¿Una firma de contadores puede ser revisor fiscal de la copropiedad?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí, siempre que esté inscrita ante la Junta Central de Contadores. Quien ejerza materialmente el cargo debe ser contador público con matrícula vigente, y le aplican las mismas inhabilidades del artículo 56 de la ley 675 de 2001.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;aside class="ads-gerencie"
+           data-producto="10"
+           aria-label="Producto de Gerencie.com"&gt;
+        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/proyeccion-pensional"&gt;Proyección pensional&lt;/a&gt;
+                
+                            &lt;a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/proyeccion-pensional"
+               aria-label="Solicitar asesoría: Proyección pensional"&gt;Solicitar asesoría&lt;/a&gt;
+            &lt;/aside&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>¿Qué Pasa Con Tu Dinero Si NU Quiebra? [FinanzasPlus]</title>
   <link href="https://alvypender.github.io/feeds/articulos/finanzasplus_pLeGnebDNyg.html"/>
@@ -32,6 +381,42 @@
 *Algunos de los enlaces y otros productos que aparecen en este vídeo son de empresas con las que FinanzasPlus ganará una comisión de afiliación o una bonificación por registro o depósito. El contenido de este vídeo está actualizado a la fecha de publicación del mismo, sin embargo, es posible que algunas de las ofertas mencionadas ya no estén disponibles dependiendo de cuándo usted lo vea. Nada del contenido presentado debe interpretarse como un consejo de inversión, es sólo para fines de entretenimiento, los miembros del canal FinanzasPlus NO son responsables por la pérdida ocasionada como resultado del uso de cualquier información publicada por nosotros, las inversiones y finanzas conllevan un riesgo, usted mismo debe analizar la información y tomar las decisiones bajo SU responsabilidad.
 
 Disclaimer: El canal FinanzasPlus no es y no debe considerarse como una guía de inversión. El material y la información contenidos en este canal son una expresión subjetiva de los puntos de vista y la opinión personal del administrador del canal y, bajo ninguna circunstancia el contenido publicado en el mismo debe tratarse como asesoramiento financiero o de inversión. No debe tomar decisiones financieras/de inversión basadas únicamente en el contenido de este canal: usted es el único responsable de las decisiones y acciones de inversión que realice.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>¿Un copropietario puede ser administrador de un conjunto residencial? [Gerencie.com]</title>
+  <link href="https://alvypender.github.io/feeds/articulos/gerencie_copropietario-puede-ser-administrador-de-un-conjunto-residencial.html"/>
+  <id>https://www.gerencie.com/copropietario-puede-ser-administrador-de-un-conjunto-residencial.html#v2</id>
+  <published>2026-11-05T13:08:19+00:00</published>
+  <updated>2026-11-05T13:08:19+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_copropietario-puede-ser-administrador-de-.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_copropietario-puede-ser-administrador-de-.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_copropietario-puede-ser-administrador-de-.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_copropietario-puede-ser-administrador-de-.jpg</webfeeds:featuredImage>
+  <summary>Si un copropietario o un consejero puede ser administrador de su conjunto residencial, qué dice la ley, qué riesgos implica y qué reglas conviene fijar.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_copropietario-puede-ser-administrador-de-.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
+&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_administrador_copropietario_puede_votar_en_la_asamblea"&gt;¿El administrador copropietario puede votar en la asamblea?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí, porque su derecho a voto nace de su condición de propietario y equivale a su coeficiente de copropiedad, según el artículo 37 de la ley 675 de 2001.&lt;/p&gt;
+&lt;p&gt;De acuerdo con nuestro criterio, debe abstenerse cuando se voten la aprobación de sus cuentas, su remuneración o su remoción, y lo ideal es que esa abstención esté prevista en el reglamento.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Puede_ser_administrador_un_copropietario_que_esta_en_mora"&gt;¿Puede ser administrador un copropietario que está en mora?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;La ley no lo prohíbe, pero no es aconsejable. Quien está en mora es precisamente a quien la ley le encarga cobrar la cartera, de modo que se convierte en juez y parte. Lo recomendable es que el reglamento exija estar a paz y salvo como condición para ser elegido y para permanecer en el cargo.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Un_miembro_del_consejo_de_administracion_puede_ser_administrador-2"&gt;¿Un miembro del consejo de administración puede ser administrador?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No de manera simultánea, en nuestro criterio, porque el consejo controla al administrador y se produciría un autocontrol.&lt;/p&gt;
+&lt;p&gt;Sí puede serlo después de renunciar al consejo, pues la ley no consagra inhabilidad ni período de espera. La renuncia debe ser previa y constar en el acta.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_administrador_puede_contratar_a_un_miembro_del_consejo_de_administracion"&gt;¿El administrador puede contratar a un miembro del consejo de administración?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Depende de lo que digan el reglamento o la asamblea. La ley 675 de 2001 no lo prohíbe, y el Ministerio de Vivienda, en el concepto 2025EE0039891, remitió la definición de esas incompatibilidades al reglamento y, en su defecto, a la asamblea.&lt;/p&gt;
+&lt;p&gt;De acuerdo con nuestro criterio, el conflicto de intereses es evidente, porque el consejero que recibe el contrato es quien debe vigilar a quien se lo otorgó. Si la asamblea lo admite, el consejero debe revelar el vínculo y abstenerse en las decisiones sobre el contrato y sobre la gestión del administrador.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_administrador_puede_prohibir_las_visitas_de_los_residentes"&gt;¿El administrador puede prohibir las visitas de los residentes?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Esa decisión no le corresponde al administrador, sea o no copropietario, porque la copropiedad administra los bienes comunes y no regula la vida privada de los residentes dentro de su bien privado. Las demás dudas sobre sus funciones las respondemos en el artículo sobre el administrador de la propiedad horizontal.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Un_arrendatario_o_tenedor_puede_ser_administrador"&gt;¿Un arrendatario o tenedor puede ser administrador?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. La ley no exige ser propietario para administrar, así como tampoco lo prohíbe. Distinto es el caso del consejo de administración, que conforme al artículo 53 se integra con propietarios de las unidades privadas o sus delegados. Según el Ministerio de Vivienda, en el concepto 2025EE0039891, un tercero solo puede integrarlo si el propietario le otorga un poder especial que lo autorice expresamente.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;aside class="ads-gerencie"
+           data-producto="19"
+           aria-label="Producto de Gerencie.com"&gt;
+        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidador-de-intereses-propiedad-horizontal"&gt;Liquidador de intereses propiedad horizontal&lt;/a&gt;
+                
+                            &lt;a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/liquidador-de-intereses-propiedad-horizontal"
+               aria-label="Liquidar intereses: Liquidador de intereses propiedad horizontal"&gt;Liquidar intereses&lt;/a&gt;
+            &lt;/aside&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Calculadora de quórum y mayorías para la asamblea de copropietarios [Gerencie.com]</title>
@@ -612,53 +997,6 @@ https://www.instagram.com/karemsuarez/
             &lt;/aside&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
-  <title>El administrador de la propiedad horizontal [Gerencie.com]</title>
-  <link href="https://alvypender.github.io/feeds/articulos/gerencie_el-administrador-de-la-propiedad-horizontal.html"/>
-  <id>https://www.gerencie.com/el-administrador-de-la-propiedad-horizontal.html#v2</id>
-  <published>2026-11-04T13:18:56+00:00</published>
-  <updated>2026-11-04T13:18:56+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_el-administrador-de-la-propiedad-horizont.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_el-administrador-de-la-propiedad-horizont.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_el-administrador-de-la-propiedad-horizont.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_el-administrador-de-la-propiedad-horizont.jpg</webfeeds:featuredImage>
-  <summary>Quién elige al administrador de la propiedad horizontal, qué requisitos debe cumplir, cuáles son sus funciones según la ley 675 de 2001 y de qué responde.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_el-administrador-de-la-propiedad-horizont.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
-&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Existen_inhabilidades_para_ser_administrador_de_propiedad_horizontal"&gt;¿Existen inhabilidades para ser administrador de propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. La ley 675 de 2001 no consagró inhabilidades ni incompatibilidades para el administrador, a diferencia de lo que hizo con el revisor fiscal en el artículo 56.&lt;/p&gt;
-&lt;p&gt;Lo que sí puede hacer cada copropiedad es fijarlas en su reglamento de propiedad horizontal o por decisión de la asamblea, sin vulnerar las normas imperativas de la ley.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Que_se_necesita_para_ser_administrador_de_un_conjunto"&gt;¿Qué se necesita para ser administrador de un conjunto?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Ser designado por el órgano competente —la asamblea general o el consejo de administración— y acreditar la idoneidad que exige el parágrafo 2 del artículo 50 de la ley 675 de 2001. No se requiere título profesional, tarjeta profesional ni curso obligatorio, porque el reglamento que debía desarrollar esa idoneidad no ha sido expedido.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Quien_puede_ser_administrador_de_propiedad_horizontal"&gt;¿Quién puede ser administrador de propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Cualquier persona natural con capacidad legal que acredite la idoneidad exigida por el parágrafo 2 del artículo 50 de la ley 675 de 2001 y cumpla el perfil que fije la copropiedad. También puede serlo una persona jurídica, caso en el cual su representante legal actúa en representación del edificio o conjunto.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_administrador_debe_tener_titulo_profesional_o_ser_contador"&gt;¿El administrador debe tener título profesional o ser contador?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Ninguna norma exige título profesional, tarjeta profesional ni formación específica. El numeral 5 del artículo 51 le impone llevar la contabilidad bajo su dependencia y responsabilidad, lo que no significa que deba ser contador: puede contratar a un contador público que la lleve.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_consejo_de_administracion_puede_cambiar_al_administrador"&gt;¿El consejo de administración puede cambiar al administrador?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí, cuando es el consejo el órgano que lo eligió. La facultad de nombrar lleva consigo la de remover, y el numeral 1 del artículo 38 de la ley 675 de 2001 califica esa remoción como libre, es decir, sin necesidad de causal. En las copropiedades sin consejo de administración, la remoción le corresponde a la asamblea general de propietarios.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Como_destituir_a_un_administrador_de_propiedad_horizontal"&gt;¿Cómo destituir a un administrador de propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Se convoca al órgano competente —consejo de administración o asamblea general—, se somete la remoción a votación con las mayorías aplicables, se deja constancia en el acta, se nombra reemplazo y se inscribe el nuevo nombramiento ante la alcaldía.&lt;/p&gt;
-&lt;p&gt;No se requiere causal, pero sí debe revisarse el contrato: si se pactó un plazo determinado y no se previó la terminación por remoción, el administrador podría reclamar una indemnización.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Ante_quien_renuncia_el_administrador_de_la_propiedad_horizontal"&gt;¿Ante quién renuncia el administrador de la propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Ante el órgano que lo eligió, es decir, el consejo de administración o, si este no existe, la asamblea general de propietarios. Si acaba de posesionarse un nuevo consejo, la renuncia se presenta ante este último, que es el vigente al momento de radicarla.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Cuanto_cobra_un_administrador_de_propiedad_horizontal"&gt;¿Cuánto cobra un administrador de propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Depende. La ley no fija tarifas: la remuneración la determina la asamblea general de propietarios conforme al numeral 1 del artículo 38 de la ley 675 de 2001, y varía según el número de unidades, el uso de la copropiedad, el presupuesto administrado y la dedicación exigida.&lt;/p&gt;
-&lt;p&gt;El único piso obligatorio aparece cuando el vínculo es laboral, pues en ese caso la remuneración no puede ser inferior al salario mínimo legal mensual vigente del respectivo año.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Una_misma_persona_puede_administrar_varias_copropiedades"&gt;¿Una misma persona puede administrar varias copropiedades?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. La ley no lo limita, y es la práctica habitual de las empresas administradoras. Lo que no puede hacerse es mezclar los recursos: cada copropiedad es una persona jurídica distinta, con patrimonio propio, según el artículo 33 de la ley 675 de 2001, y debe tener su propia contabilidad y sus propias cuentas.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Que_pasa_si_el_nombramiento_del_administrador_no_se_inscribe_ante_la_alcaldia"&gt;¿Qué pasa si el nombramiento del administrador no se inscribe ante la alcaldía?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sin inscripción no se expide el certificado de existencia y representación legal, y sin ese certificado la copropiedad no puede abrir ni mover cuentas bancarias, ni demandar el cobro ejecutivo de expensas, pues el artículo 48 de la ley 675 de 2001 exige anexarlo a la demanda.&lt;/p&gt;
-&lt;p&gt;La inscripción es, además, una función a cargo del propio administrador, según el numeral 9 del artículo 51.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_administrador_puede_imponer_multas_a_los_copropietarios"&gt;¿El administrador puede imponer multas a los copropietarios?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Las sanciones las impone la asamblea general o el consejo de administración, cuando el reglamento le atribuya esa facultad, respetando el debido proceso, según el artículo 60 de la ley 675 de 2001. El administrador solo las notifica y las hace efectivas una vez ejecutoriadas.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Basta_la_firma_del_administrador_para_manejar_las_cuentas_bancarias"&gt;¿Basta la firma del administrador para manejar las cuentas bancarias?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Depende de cómo se haya abierto la cuenta y de lo que hayan dispuesto el reglamento, la asamblea o el consejo. La ley 675 de 2001 no lo regula. De acuerdo con nuestro criterio, lo recomendable es exigir doble firma o fijar un tope de valor por encima del cual se requiera la firma de un miembro del consejo de administración.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
-
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Existe_un_registro_unico_nacional_de_administradores_de_propiedad_horizontal"&gt;¿Existe un registro único nacional de administradores de propiedad horizontal?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Hoy solo existe la inscripción del nombramiento ante la alcaldía del municipio o distrito donde se ubica la copropiedad, prevista en el artículo 8 de la ley 675 de 2001.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_administrador_puede_trabajar_sin_remuneracion"&gt;¿El administrador puede trabajar sin remuneración?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. La ley no exige que el cargo sea remunerado y en copropiedades pequeñas es común que un copropietario lo ejerza sin cobrar. Tenga en cuenta que la gratuidad no reduce su responsabilidad: responde igual por dolo y por culpa, incluso leve, conforme al inciso segundo del artículo 50 de la ley 675 de 2001.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_administrador_puede_prohibir_que_una_visita_se_quede_a_dormir_en_un_apartamento"&gt;¿El administrador puede prohibir que una visita se quede a dormir en un apartamento?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Esa facultad no existe ni en cabeza del administrador ni de la copropiedad, que administra los bienes comunes pero no regula la vida privada de los residentes dentro de su bien privado.&lt;/p&gt;
-&lt;p&gt;Cosa distinta son los aspectos que afectan a terceros —ruido, mascotas, uso de zonas comunes—, que sí pueden regularse en el reglamento y sancionarse con el debido proceso del artículo 60 de la ley 675 de 2001.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;aside class="ads-gerencie"
-           data-producto="13"
-           aria-label="Producto de Gerencie.com"&gt;
-        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidador-dian-pro"&gt;Liquidador de intereses moratorios Dian&lt;/a&gt;
-                
-                            &lt;a class="ads-gerencie__enlace"
-               href="https://www.gerencie.com/liquidador-dian-pro"
-               aria-label="Liquidar intereses: Liquidador de intereses moratorios Dian"&gt;Liquidar intereses&lt;/a&gt;
-            &lt;/aside&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
   <title>Cómo encontrar contenido comercial en Actualícese [Actualícese Video]</title>
   <link href="https://alvypender.github.io/feeds/articulos/actualicese_y8trPPRBjzI.html"/>
   <id>https://www.youtube.com/watch?v=y8trPPRBjzI#v2</id>
@@ -718,267 +1056,6 @@ https://t.me/+HdGos0-etwcxYWNh
 
 SÍGUEME EN TIKTOK:
 https://www.tiktok.com/@corcobein&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Remuneración en el trabajo por turnos rotativos por equipos [Gerencie.com]</title>
-  <link href="https://alvypender.github.io/feeds/articulos/gerencie_remuneracion-en-el-trabajo-por-turnos-rotatorios-por-equipos.html"/>
-  <id>https://www.gerencie.com/remuneracion-en-el-trabajo-por-turnos-rotatorios-por-equipos.html#v2</id>
-  <published>2026-11-03T16:24:19+00:00</published>
-  <updated>2026-11-03T16:24:19+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_remuneracion-en-el-trabajo-por-turnos-rot.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_remuneracion-en-el-trabajo-por-turnos-rot.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_remuneracion-en-el-trabajo-por-turnos-rot.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_remuneracion-en-el-trabajo-por-turnos-rot.jpg</webfeeds:featuredImage>
-  <summary>Salario uniforme en turnos rotativos por equipos: requisitos, cómo verificar que compensa el recargo nocturno, calculadora y modelo de cláusula.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_remuneracion-en-el-trabajo-por-turnos-rot.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
-&lt;div class="gcal-tabs" role="tablist" aria-label="Forma de indicar las horas nocturnas"&gt;
-								&lt;button type="button" class="gcal-tab" role="tab" data-tab="turnos" aria-controls="sun1-form" aria-selected="true" tabindex="0"&gt;&lt;b&gt;Por turnos&lt;/b&gt;&lt;small&gt;Horario de cada turno del ciclo&lt;/small&gt;&lt;/button&gt;
-								&lt;button type="button" class="gcal-tab" role="tab" data-tab="horas" aria-controls="sun1-form" aria-selected="false" tabindex="-1"&gt;&lt;b&gt;Horas al mes&lt;/b&gt;&lt;small&gt;Horas nocturnas del mes&lt;/small&gt;&lt;/button&gt;
-								&lt;button type="button" class="gcal-tab" role="tab" data-tab="proporcion" aria-controls="sun1-form" aria-selected="false" tabindex="-1"&gt;&lt;b&gt;Proporción&lt;/b&gt;&lt;small&gt;Porcentaje nocturno de la jornada&lt;/small&gt;&lt;/button&gt;
-							&lt;/div&gt;
-
-			&lt;form class="gcal-form" id="sun1-form" autocomplete="off" novalidate&gt;
-				&lt;div class="gcal-sec"&gt;
-					&lt;div class="gcal-sec-t"&gt;&lt;span class="gcal-nsec"&gt;&lt;/span&gt;Salarios y jornada&lt;/div&gt;
-					&lt;div class="gcal-grid"&gt;
-						&lt;label class="gcal-campo"&gt;&lt;span&gt;Salario del comparador diurno&lt;/span&gt;&lt;input type="text" inputmode="decimal" id="sun1-comp" class="gcal-in gcal-pesos sun-comp" placeholder="Ej: 2.000.000"&gt;&lt;small class="gcal-ayuda"&gt;Lo que gana quien hace la misma labor solo de día.&lt;/small&gt;&lt;/label&gt;
-						&lt;label class="gcal-campo"&gt;&lt;span&gt;Salario uniforme pactado (opcional)&lt;/span&gt;&lt;input type="text" inputmode="decimal" id="sun1-pact" class="gcal-in gcal-pesos sun-pact" placeholder="Opcional"&gt;&lt;small class="gcal-ayuda"&gt;Déjelo en blanco para obtener solo el mínimo.&lt;/small&gt;&lt;/label&gt;
-						&lt;label class="gcal-campo"&gt;&lt;span&gt;Fecha de referencia&lt;/span&gt;&lt;input type="date" id="sun1-fecha" class="gcal-in sun-fecha" value="2026-11-04" min="2019-01-01" max="2030-12-31"&gt;&lt;small class="gcal-ayuda"&gt;Define la jornada, la franja nocturna y el recargo dominical.&lt;/small&gt;&lt;/label&gt;
-						&lt;div class="gcal-campo"&gt;
-							&lt;span&gt;Jornada semanal&lt;/span&gt;
-							&lt;div class="gcal-seg" role="radiogroup" aria-label="Jornada semanal"&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-jt" class="sun-jt" value="legal" checked&gt;&lt;span class="sun-jl"&gt;Máxima legal: 42 horas&lt;/span&gt;&lt;/label&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-jt" class="sun-jt" value="otra"&gt;&lt;span&gt;Otra jornada&lt;/span&gt;&lt;/label&gt;
-							&lt;/div&gt;
-							&lt;small class="gcal-ayuda"&gt;La máxima legal depende de la fecha de referencia (ley 2101 de 2021).&lt;/small&gt;
-						&lt;/div&gt;
-						&lt;label class="gcal-campo sun-w-jh" hidden&gt;&lt;span&gt;Horas semanales de la jornada&lt;/span&gt;&lt;input type="text" inputmode="decimal" id="sun1-jh" class="gcal-in sun-jh" placeholder="Ej: 24"&gt;&lt;small class="gcal-ayuda sun-jh-ayuda"&gt;Para medio tiempo u otra jornada menor que la máxima legal de 42 horas.&lt;/small&gt;&lt;/label&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-
-				&lt;div class="gcal-sec"&gt;
-					&lt;div class="gcal-sec-t"&gt;&lt;span class="gcal-nsec"&gt;&lt;/span&gt;Horas nocturnas&lt;/div&gt;
-					&lt;div class="sun-w-turnos"&gt;
-						&lt;div class="sun-tcab" aria-hidden="true"&gt;&lt;span&gt;Turno&lt;/span&gt;&lt;span&gt;Inicia&lt;/span&gt;&lt;span&gt;Termina&lt;/span&gt;&lt;span&gt;Veces en el ciclo&lt;/span&gt;&lt;/div&gt;
-												&lt;div class="sun-turno"&gt;
-							&lt;span class="sun-tn"&gt;1&lt;/span&gt;
-							&lt;input type="time" class="gcal-in sun-ini" value="06:00" aria-label="Inicio del turno 1"&gt;
-							&lt;input type="time" class="gcal-in sun-fin" value="14:00" aria-label="Fin del turno 1"&gt;
-							&lt;input type="text" inputmode="numeric" class="gcal-in sun-veces" value="1" aria-label="Veces del turno 1 en el ciclo"&gt;
-						&lt;/div&gt;
-												&lt;div class="sun-turno"&gt;
-							&lt;span class="sun-tn"&gt;2&lt;/span&gt;
-							&lt;input type="time" class="gcal-in sun-ini" value="14:00" aria-label="Inicio del turno 2"&gt;
-							&lt;input type="time" class="gcal-in sun-fin" value="22:00" aria-label="Fin del turno 2"&gt;
-							&lt;input type="text" inputmode="numeric" class="gcal-in sun-veces" value="1" aria-label="Veces del turno 2 en el ciclo"&gt;
-						&lt;/div&gt;
-												&lt;div class="sun-turno"&gt;
-							&lt;span class="sun-tn"&gt;3&lt;/span&gt;
-							&lt;input type="time" class="gcal-in sun-ini" value="22:00" aria-label="Inicio del turno 3"&gt;
-							&lt;input type="time" class="gcal-in sun-fin" value="06:00" aria-label="Fin del turno 3"&gt;
-							&lt;input type="text" inputmode="numeric" class="gcal-in sun-veces" value="1" aria-label="Veces del turno 3 en el ciclo"&gt;
-						&lt;/div&gt;
-												&lt;div class="sun-turno"&gt;
-							&lt;span class="sun-tn"&gt;4&lt;/span&gt;
-							&lt;input type="time" class="gcal-in sun-ini" value="" aria-label="Inicio del turno 4"&gt;
-							&lt;input type="time" class="gcal-in sun-fin" value="" aria-label="Fin del turno 4"&gt;
-							&lt;input type="text" inputmode="numeric" class="gcal-in sun-veces" value="" aria-label="Veces del turno 4 en el ciclo"&gt;
-						&lt;/div&gt;
-												&lt;small class="gcal-ayuda"&gt;Registre los turnos que rotan y cuántas veces se trabaja cada uno en un ciclo completo. Si el turno termina al día siguiente, indique la hora de salida (por ejemplo, de 22:00 a 06:00). Un turno que inicia y termina a la misma hora se toma como de 24 horas.&lt;/small&gt;
-					&lt;/div&gt;
-					&lt;div class="gcal-grid sun-w-horas"&gt;
-						&lt;label class="gcal-campo"&gt;&lt;span&gt;Horas nocturnas al mes&lt;/span&gt;&lt;input type="text" inputmode="decimal" id="sun1-hn" class="gcal-in sun-hn" placeholder="Ej: 70"&gt;&lt;small class="gcal-ayuda"&gt;Dentro de la jornada ordinaria, sin horas extras.&lt;/small&gt;&lt;/label&gt;
-					&lt;/div&gt;
-					&lt;div class="gcal-grid sun-w-proporcion"&gt;
-						&lt;label class="gcal-campo"&gt;&lt;span&gt;Proporción de horas nocturnas (%)&lt;/span&gt;&lt;input type="text" inputmode="decimal" id="sun1-prop" class="gcal-in sun-prop" placeholder="Ej: 33,33"&gt;&lt;small class="gcal-ayuda"&gt;Porcentaje de la jornada que cae de noche.&lt;/small&gt;&lt;/label&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-
-				&lt;div class="gcal-sec"&gt;
-					&lt;div class="gcal-sec-t"&gt;&lt;span class="gcal-nsec"&gt;&lt;/span&gt;Requisitos de la sentencia SL5432-2019&lt;/div&gt;
-					&lt;div class="gcal-grid"&gt;
-												&lt;div class="gcal-campo"&gt;
-							&lt;span&gt;¿El trabajo se organiza por equipos?&lt;/span&gt;
-							&lt;div class="gcal-seg" role="radiogroup" aria-label="¿El trabajo se organiza por equipos?"&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-req-equipos" class="sun-req" data-req="equipos" value="si" checked&gt;&lt;span&gt;Sí&lt;/span&gt;&lt;/label&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-req-equipos" class="sun-req" data-req="equipos" value="no"&gt;&lt;span&gt;No&lt;/span&gt;&lt;/label&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-												&lt;div class="gcal-campo"&gt;
-							&lt;span&gt;¿Los turnos diurnos y nocturnos rotan sucesivamente?&lt;/span&gt;
-							&lt;div class="gcal-seg" role="radiogroup" aria-label="¿Los turnos diurnos y nocturnos rotan sucesivamente?"&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-req-rotacion" class="sun-req" data-req="rotacion" value="si" checked&gt;&lt;span&gt;Sí&lt;/span&gt;&lt;/label&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-req-rotacion" class="sun-req" data-req="rotacion" value="no"&gt;&lt;span&gt;No&lt;/span&gt;&lt;/label&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-												&lt;div class="gcal-campo"&gt;
-							&lt;span&gt;¿El contrato dice expresamente que el salario compensa el recargo nocturno?&lt;/span&gt;
-							&lt;div class="gcal-seg" role="radiogroup" aria-label="¿El contrato dice expresamente que el salario compensa el recargo nocturno?"&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-req-clausula" class="sun-req" data-req="clausula" value="si" checked&gt;&lt;span&gt;Sí&lt;/span&gt;&lt;/label&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-req-clausula" class="sun-req" data-req="clausula" value="no"&gt;&lt;span&gt;No&lt;/span&gt;&lt;/label&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-												&lt;div class="gcal-campo"&gt;
-							&lt;span&gt;¿Hay turnos continuos de 24 horas?&lt;/span&gt;
-							&lt;div class="gcal-seg" role="radiogroup" aria-label="¿Hay turnos continuos de 24 horas?"&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-req-turno24" class="sun-req" data-req="turno24" value="si"&gt;&lt;span&gt;Sí&lt;/span&gt;&lt;/label&gt;
-								&lt;label&gt;&lt;input type="radio" name="sun1-req-turno24" class="sun-req" data-req="turno24" value="no" checked&gt;&lt;span&gt;No&lt;/span&gt;&lt;/label&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-											&lt;/div&gt;
-				&lt;/div&gt;
-
-				&lt;details class="gcal-sec gcal-plegable sun-mas"&gt;
-					&lt;summary class="gcal-sec-t"&gt;&lt;span class="gcal-nsec"&gt;&lt;/span&gt;Conceptos que se pagan aparte &lt;span class="gcal-opc"&gt;(opcional)&lt;/span&gt;&lt;span class="gcal-chev"&gt;&lt;/span&gt;&lt;/summary&gt;
-					&lt;div class="gcal-plegable-c"&gt;
-						&lt;div class="gcal-grid"&gt;
-							&lt;label class="gcal-campo"&gt;&lt;span&gt;Horas extras diurnas del mes&lt;/span&gt;&lt;input type="text" inputmode="decimal" id="sun1-hed" class="gcal-in sun-hed" placeholder="0"&gt;&lt;/label&gt;
-							&lt;label class="gcal-campo"&gt;&lt;span&gt;Horas extras nocturnas del mes&lt;/span&gt;&lt;input type="text" inputmode="decimal" id="sun1-hen" class="gcal-in sun-hen" placeholder="0"&gt;&lt;/label&gt;
-							&lt;label class="gcal-campo"&gt;&lt;span&gt;Horas en domingo o festivo&lt;/span&gt;&lt;input type="text" inputmode="decimal" id="sun1-hdom" class="gcal-in sun-hdom" placeholder="0"&gt;&lt;/label&gt;
-							&lt;label class="gcal-campo"&gt;&lt;span&gt;Meses laborados bajo el pacto&lt;/span&gt;&lt;input type="text" inputmode="numeric" id="sun1-meses" class="gcal-in sun-meses" value="1"&gt;&lt;small class="gcal-ayuda"&gt;Para estimar lo adeudado si el pacto no es válido (máximo 36).&lt;/small&gt;&lt;/label&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-				&lt;/details&gt;
-
-				&lt;div class="gcal-err" data-sun-err role="alert" hidden&gt;&lt;/div&gt;
-				&lt;div class="gcal-acc"&gt;
-					&lt;button type="submit" class="gcal-btn gcal-btn-pri"&gt;&lt;svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"&gt;&lt;rect x="5" y="2" width="14" height="20" rx="2"/&gt;&lt;path d="M8 6h8M8 11h2M14 11h2M8 15h2M14 15h2M8 19h2M14 19h2"/&gt;&lt;/svg&gt;&lt;span&gt;Calcular salario uniforme&lt;/span&gt;&lt;/button&gt;
-				&lt;/div&gt;
-			&lt;/form&gt;
-
-			&lt;div class="gcal-res" data-sun-res aria-live="polite" hidden&gt;&lt;/div&gt;
-
-			&lt;div class="sun-notas"&gt;
-				&lt;p&gt;El artículo &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr005.html#170" target="_blank" rel="noopener"&gt;170&lt;/a&gt; del Código Sustantivo del Trabajo permite pactar un salario igual para el día y la noche cuando el trabajo por equipos rota turnos diurnos y nocturnos, siempre que ese salario, comparado con el de la misma labor en horas diurnas, compense el recargo nocturno del &lt;strong&gt;35&amp;nbsp;%&lt;/strong&gt; del artículo &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr005.html#168" target="_blank" rel="noopener"&gt;168&lt;/a&gt;.&lt;/p&gt;
-				&lt;p&gt;La calculadora toma la jornada máxima de la ley &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/ley_2101_2021.html" target="_blank" rel="noopener"&gt;2101&lt;/a&gt; de 2021, la franja nocturna del artículo &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr005.html#160" target="_blank" rel="noopener"&gt;160&lt;/a&gt; y el recargo dominical del artículo &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr005.html#179" target="_blank" rel="noopener"&gt;179&lt;/a&gt;, ambos modificados por la ley &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/ley_2466_2025.html" target="_blank" rel="noopener"&gt;2466&lt;/a&gt; de 2025, según la fecha de referencia. Los requisitos son los de la sentencia &lt;a href="https://www.gerencie.com/wp-content/uploads/sentencias/SL5432-2019.pdf" target="_blank" rel="noopener"&gt;SL5432-2019&lt;/a&gt; de la Sala Laboral de la Corte Suprema.&lt;/p&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-		
-&lt;p&gt;A continuación explicamos cómo diligenciarla y cómo leer su resultado.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Como_diligenciar_la_calculadora"&gt;Cómo diligenciar la calculadora.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;El formulario tiene cuatro bloques, y solo el salario del comparador y las horas nocturnas son obligatorios:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Salarios y jornada.&lt;/strong&gt; El salario del comparador diurno, el salario uniforme pactado (si se deja en blanco, se obtiene solo el mínimo), la fecha de referencia y la jornada semanal, que por defecto es la máxima legal en esa fecha.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Horas nocturnas.&lt;/strong&gt; Por turnos, registrando la hora de inicio y de terminación de cada turno y cuántas veces se trabaja en un ciclo; o directamente como horas nocturnas del mes o como porcentaje. Un turno que termina al día siguiente se registra con su hora de salida, por ejemplo de 22:00 a 06:00.&lt;/li&gt;
-&lt;li&gt;Cuatro preguntas: si hay trabajo por equipos, si los turnos rotan, si el contrato tiene la cláusula expresa y si hay turnos de 24 horas.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conceptos que se pagan aparte.&lt;/strong&gt; Las horas extras diurnas y nocturnas, las horas en domingo o festivo, y los meses laborados bajo el pacto, que sirven para estimar lo adeudado.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;La fecha de referencia importa porque tres reglas cambian con ella: la jornada máxima de la ley 2101 de 2021; el inicio de la franja nocturna, que desde el &lt;strong&gt;25 de diciembre de 2025&lt;/strong&gt; es a las 7:00 p.m. por la modificación que la ley &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/ley_2466_2025.html" target="_blank" rel="noopener noreferrer"&gt;2466&lt;/a&gt; de 2025 hizo al artículo &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr005.html#160" target="_blank" rel="noopener noreferrer"&gt;160&lt;/a&gt;; y el porcentaje del recargo dominical del artículo &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr005.html#179" target="_blank" rel="noopener noreferrer"&gt;179&lt;/a&gt;. La forma por turnos es la más precisa, porque la calculadora cuenta las horas nocturnas de cada turno y comprueba que haya rotación real.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Como_leer_el_resultado"&gt;Cómo leer el resultado.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;El resultado se presenta por bloques, que aparecen según los datos registrados:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;En verde, si el pacto cumple y con qué margen; en rojo, si no cumple, con la lista de los requisitos que fallan; y en azul, si no se indicó salario pactado, con el mínimo que habría que pactar.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Salario uniforme mínimo.&lt;/strong&gt; El cálculo paso a paso: valor de la hora del comparador, horas nocturnas, recargo y salario mínimo, con el margen o el faltante del salario pactado.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Horas nocturnas por turno.&lt;/strong&gt; Si se usaron turnos, las horas totales y nocturnas de cada uno y la proporción nocturna del ciclo.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Recargos que se deben si el pacto no es válido.&lt;/strong&gt; El recargo mensual liquidado sobre el salario pactado y el total por los meses indicados.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Conceptos que se pagan aparte.&lt;/strong&gt; Las horas extras y el recargo dominical, liquidados sobre la hora del salario pactado.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Referencia y avisos.&lt;/strong&gt; El salario mínimo para las proporciones típicas y las advertencias, como una jornada superior a la legal o un turno de más de 12 horas.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;El total de recargos adeudados es una estimación: supone el mismo salario y la misma proporción nocturna en todos los meses, y no incluye su incidencia en &lt;a href="https://www.gerencie.com/prestaciones-sociales.html" title="Prestaciones sociales"&gt;prestaciones sociales&lt;/a&gt;, aportes ni indexación. El resultado puede guardarse en PDF para conservarlo junto al contrato.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Ejemplo_con_tres_turnos_rotativos"&gt;Ejemplo con tres turnos rotativos.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Supongamos que, frente al mismo comparador de $5.000.000, el equipo rota tres turnos de 6:00 a.m. a 2:00 p.m., de 2:00 p.m. a 10:00 p.m. y de 10:00 p.m. a 6:00 a.m., con un salario uniforme pactado de $5.700.000 en noviembre de 2026.&lt;/p&gt;
-&lt;p&gt;El primer turno no tiene horas nocturnas, el segundo tiene tres y el tercero ocho. De las 24 horas del ciclo, 11 son nocturnas, el 45,83 %, y la calculadora arroja:&lt;/p&gt;
-&lt;div class="tabla-scroll"&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Concepto&lt;/th&gt;
-&lt;th&gt;Valor&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Horas nocturnas al mes (45,83 % de 210)&lt;/td&gt;
-&lt;td&gt;96,25&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Recargo nocturno (23.810 × 35 % × 96,25)&lt;/td&gt;
-&lt;td&gt;$802.083&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Salario uniforme mínimo&lt;/td&gt;
-&lt;td&gt;$5.802.083&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Salario uniforme pactado&lt;/td&gt;
-&lt;td&gt;$5.700.000&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Faltante&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;$102.083&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;El pacto no cumple, y el recargo se liquida sobre el salario pactado: una hora de $27.143, por el 35 % y por 96,25 horas, da &lt;strong&gt;$914.375&lt;/strong&gt; al mes, y &lt;strong&gt;$10.972.500&lt;/strong&gt; si el equipo laboró así 12 meses. Con un salario de $5.900.000, en cambio, el pacto habría cumplido con un margen de $97.917 al mes.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Lo_que_el_salario_uniforme_no_cubre"&gt;Lo que el salario uniforme no cubre.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;El alcance del artículo 170 se limita al recargo nocturno de la jornada ordinaria. Nada más, y por eso la calculadora liquida aparte los dos conceptos que siguen.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="El_trabajo_dominical_y_festivo_se_paga_aparte"&gt;El trabajo dominical y festivo se paga aparte.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Si el trabajador labora en un día de descanso obligatorio, se le debe el recargo correspondiente, hoy del 90%, porque no está incluido en el salario uniforme.&lt;/p&gt;
-&lt;p&gt;La norma habla de «salarios uniformes para el trabajo diurno y nocturno», y el trabajo dominical no es una franja horaria sino un día de descanso que se sacrifica. Son conceptos distintos con causas distintas, como explicamos en el artículo sobre el &lt;a href="https://www.gerencie.com/trabajo-dominical-y-festivo.html"&gt;recargo dominical y festivo&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Las_horas_extras_se_pagan_aparte"&gt;Las horas extras se pagan aparte.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;En los turnos rotativos por equipos rige la jornada máxima legal, de modo que las horas que la excedan son &lt;a href="https://www.gerencie.com/trabajo-extra-o-suplementario.html"&gt;trabajo suplementario&lt;/a&gt; y se liquidan con su recargo. Lo confirma la misma sentencia SL5432-2019: el salario del artículo 170 cubre el recargo nocturno, no el trabajo suplementario.&lt;/p&gt;
-&lt;p&gt;De acuerdo con nuestro criterio, y por la misma razón, una hora extra laborada de noche bajo esta figura debe llevar el recargo de &lt;a href="https://www.gerencie.com/hora-extra-nocturna.html" title="Hora extra nocturna"&gt;hora extra nocturna&lt;/a&gt; completo: el salario uniforme absorbió el recargo de la jornada ordinaria, no el de lo que la excede.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="El_articulo_170_no_ampara_los_turnos_de_24_horas"&gt;El artículo 170 no ampara los turnos de 24 horas.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Es la exclusión más importante y la que más se intenta forzar en la práctica.&lt;/p&gt;
-&lt;p&gt;No cabe invocar esta figura cuando se laboran turnos de 24 horas seguidas con 24 de descanso, aunque en ese lapso se cubran franjas diurnas y nocturnas. Así lo señaló la Corte en la sentencia SL5432-2019:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;«Si en el caso litigioso, el actor prestó servicios en jornadas continuas de 24 horas al día, con descanso compensatorio durante las 24 horas del día siguiente, como lo afirma el Tribunal, ya no se está dentro de la hipótesis que contempla el artículo 170 en estudio, porque cada turno comprendería el trabajo diurno y el nocturno de doce horas cada uno, en exceso de la jornada máxima legal.»&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;La diferencia está en la rotación.&lt;/strong&gt; El artículo 170 supone que el trabajador hace un turno diurno un día y uno nocturno otro día, alternándolos. En el turno de 24 horas no hay alternancia: hace los dos de corrido, en una sola jornada que excede con creces el máximo legal.&lt;/p&gt;
-&lt;p&gt;El turno de 24 horas está prohibido por otra vía, además: implica dos turnos en el mismo día, que el parágrafo 1 del artículo &lt;a href="https://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr005.html#161" target="_blank" rel="noopener noreferrer"&gt;161&lt;/a&gt; del Código Sustantivo del Trabajo prohíbe aun con el consentimiento del trabajador, como explicamos en el artículo sobre la &lt;a href="https://www.gerencie.com/jornada-laboral-por-turnos.html"&gt;jornada laboral por turnos&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="No_confundir_con_los_turnos_de_6_horas"&gt;No confundir con los turnos de 6 horas.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Es la confusión más frecuente entre nuestros lectores, y las consecuencias económicas son opuestas:&lt;/p&gt;
-&lt;div class="tabla-scroll"&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Figura&lt;/th&gt;
-&lt;th&gt;Recargo nocturno&lt;/th&gt;
-&lt;th&gt;Recargo dominical y festivo&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Literal d) del artículo 161&lt;/td&gt;
-&lt;td&gt;No se causa&lt;/td&gt;
-&lt;td&gt;No se causa&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Artículo 165&lt;/td&gt;
-&lt;td&gt;Se paga&lt;/td&gt;
-&lt;td&gt;Se paga&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Artículo 170&lt;/td&gt;
-&lt;td&gt;Absorbido por el salario&lt;/td&gt;
-&lt;td&gt;Se paga&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;En la jornada de 36 horas no hay recargo de ninguna clase; aquí solo se absorbe el nocturno.&lt;/strong&gt; Y la contrapartida también es distinta: allá el trabajador labora menos horas, aquí recibe un salario mayor.&lt;/p&gt;
-&lt;p&gt;El desarrollo de esa modalidad está en el artículo sobre la &lt;a href="https://www.gerencie.com/jornada-laboral-de-36-horas-semanales.html"&gt;jornada laboral de 36 horas semanales&lt;/a&gt;.&lt;/p&gt;
-&lt;div class="pf"&gt;&lt;h2&gt;&lt;span id="Preguntas_frecuentes"&gt;Preguntas frecuentes.&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;
-&lt;p&gt;A continuación respondemos las preguntas frecuentes de nuestros lectores.&lt;/p&gt;
-&lt;div class="faq-container" itemscope itemtype="https://schema.org/FAQPage"&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Que_es_el_salario_uniforme_del_articulo_170"&gt;¿Qué es el salario uniforme del artículo 170?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Es el que se pacta igual para los turnos diurnos y nocturnos de un equipo que rota entre ambos, de modo que no se liquida el recargo nocturno por separado. El recargo no desaparece: queda incluido en ese salario, que por eso debe ser mayor.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Se_puede_dejar_de_pagar_el_recargo_nocturno"&gt;¿Se puede dejar de pagar el recargo nocturno?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Lo que permite el artículo 170 es pagarlo por anticipado dentro del salario, y solo si se cumplen los tres requisitos que fijó la sentencia SL5432-2019. Si no se cumplen, el recargo se debe íntegro.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Cuanto_debe_ser_mayor_el_salario_uniforme"&gt;¿Cuánto debe ser mayor el salario uniforme?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Lo suficiente para cubrir el recargo del 35 % sobre las horas que se laboren de noche. Si un tercio de las horas son nocturnas, el salario debe superar al de una labor diurna comparable en cerca de un 11,67 %. La calculadora lo obtiene para cualquier programación de turnos.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_salario_uniforme_puede_ser_el_salario_minimo"&gt;¿El salario uniforme puede ser el salario mínimo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No, si hay horas nocturnas. Como ningún trabajador puede ganar menos del salario mínimo, el comparador diurno gana como mínimo esa suma, y el salario uniforme debe superarla en el recargo nocturno. Pactar el salario mínimo como salario uniforme no compensa nada, y el recargo se debe íntegro.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Que_se_debe_si_el_salario_pactado_no_compensa_el_recargo"&gt;¿Qué se debe si el salario pactado no compensa el recargo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Todos los recargos nocturnos, liquidados sobre el salario pactado, y no solo la diferencia frente al salario uniforme mínimo, porque al fallar el tercer requisito el artículo 170 no aplica.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_salario_uniforme_cubre_los_domingos_y_festivos"&gt;¿El salario uniforme cubre los domingos y festivos?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. El artículo 170 se refiere a turnos diurnos y nocturnos, que son franjas horarias. El trabajo en día de descanso obligatorio tiene causa distinta y se paga con su propio recargo.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
-
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Y_las_horas_extras"&gt;¿Y las horas extras?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Se pagan aparte. En los turnos rotativos por equipos rige la jornada máxima legal, y lo que la exceda es trabajo suplementario. De acuerdo con nuestro criterio, la hora extra nocturna lleva su recargo completo, porque el salario uniforme absorbió el de la jornada ordinaria y no el de lo que la excede.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Aplica_a_un_trabajador_con_turno_nocturno_fijo"&gt;¿Aplica a un trabajador con turno nocturno fijo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. La norma exige rotación sucesiva de turnos diurnos y nocturnos. Quien tiene horario nocturno fijo no rota, de modo que le corresponde el recargo nocturno liquidado de forma corriente.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Aplica_a_los_turnos_de_24_horas"&gt;¿Aplica a los turnos de 24 horas?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. La Corte Suprema de Justicia lo descartó expresamente: en el turno de 24 horas no hay alternancia entre un turno diurno y otro nocturno, sino ambos de corrido en una sola jornada que excede el máximo legal.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Debe_constar_en_el_contrato"&gt;¿Debe constar en el contrato?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. El contrato debe estipular expresamente que el salario compensa el recargo nocturno. De acuerdo con nuestro criterio, sin esa cláusula no se cumple el tercer requisito y el recargo se debe aunque el salario hubiera sido suficiente.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;aside class="ads-gerencie"
-           data-producto="4"
-           aria-label="Producto de Gerencie.com"&gt;
-        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidador-de-intereses"&gt;Liquidador de intereses moratorios&lt;/a&gt;
-                
-                            &lt;a class="ads-gerencie__enlace"
-               href="https://www.gerencie.com/liquidador-de-intereses"
-               aria-label="Liquidar intereses: Liquidador de intereses moratorios"&gt;Liquidar intereses&lt;/a&gt;
-            &lt;/aside&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Dejé Que la IA Invirtiera Por Mí, Y Estos Son Los Resultados… [FinanzasPlus]</title>
@@ -1083,335 +1160,6 @@ El Dr. Diego Guevara explica qué impuesto al patrimonio seguirá vigente en 202
 • LinkedIn: https://www.linkedin.com/company/actualicese/
 • Tik Tok: https://www.tiktok.com/@actualicese
 • Canal de WhastApp: https://whatsapp.com/channel/0029Va6YVzN4NVii6A6JBp1a&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>El consejo de administración en la propiedad horizontal [Gerencie.com]</title>
-  <link href="https://alvypender.github.io/feeds/articulos/gerencie_consejo-de-administracion-en-la-propiedad-horizontal.html"/>
-  <id>https://www.gerencie.com/consejo-de-administracion-en-la-propiedad-horizontal.html#v2</id>
-  <published>2026-11-03T11:38:58+00:00</published>
-  <updated>2026-11-03T11:38:58+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_consejo-de-administracion-en-la-propiedad.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_consejo-de-administracion-en-la-propiedad.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_consejo-de-administracion-en-la-propiedad.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_consejo-de-administracion-en-la-propiedad.jpg</webfeeds:featuredImage>
-  <summary>Qué es el consejo de administración en la propiedad horizontal, quiénes lo integran, cómo decide, qué funciones tiene y cómo se remueve o renuncia un consejero.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_consejo-de-administracion-en-la-propiedad.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
-&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Un_arrendatario_puede_ser_miembro_del_consejo_de_administracion"&gt;¿Un arrendatario puede ser miembro del consejo de administración?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Solo como delegado de un propietario. Por sí mismo no puede, porque la ley exige que los consejeros sean propietarios de las unidades privadas o sus delegados. Si asistió a la asamblea con poder del propietario y este lo postula, puede ser elegido como su delegado.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Un_apoderado_o_delegado_puede_integrar_el_consejo"&gt;¿Un apoderado o delegado puede integrar el consejo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. Un propietario puede delegar en otra persona su participación en el consejo mediante poder, y esa persona actúa en su representación.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Como_se_saca_a_un_miembro_del_consejo_de_administracion"&gt;¿Cómo se saca a un miembro del consejo de administración?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Debe convocarse a la asamblea de copropietarios, que es el órgano elector; ni el administrador ni el propio consejo pueden retirar a un miembro. La remoción se hace de la misma forma en que se hizo la elección.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_consejo_de_administracion_puede_coadministrar"&gt;¿El consejo de administración puede coadministrar?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. El consejo no ejecuta ni suplanta al administrador ni ejerce la representación legal; su papel es orientar y vigilar para que se cumplan las directrices de la asamblea.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Quien_nombra_al_presidente_del_consejo_y_firma_las_actas"&gt;¿Quién nombra al presidente del consejo y firma las actas?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Al presidente lo nombra el propio consejo, y es él quien firma las actas y convoca las reuniones. El consejo puede rotar la presidencia entre sus miembros durante el período.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Los_suplentes_deben_asistir_a_todas_las_reuniones_del_consejo"&gt;¿Los suplentes deben asistir a todas las reuniones del consejo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. El suplente solo actúa ante la ausencia del principal; si asiste estando presente el principal, no tiene derecho a voto.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Cuanto_dura_el_cargo_de_un_consejero"&gt;¿Cuánto dura el cargo de un consejero?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;El que fije el reglamento de propiedad horizontal y, si este no dice nada, un año, según el numeral 5 del artículo 38 de la ley 675 de 2001.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Un_consejero_queda_reelegido_si_nadie_se_postula_para_reemplazarlo"&gt;¿Un consejero queda reelegido si nadie se postula para reemplazarlo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. El cargo es voluntario y nadie puede ser elegido sin aceptarlo. Si el consejero no quiere continuar, basta con que lo manifieste en la asamblea y conste en el acta; si su silla queda vacía, el consejo funciona con los demás, siempre que sean por lo menos tres.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Se_escribe_consejo_o_concejo_de_administracion"&gt;¿Se escribe consejo o concejo de administración?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Consejo, con s. Concejo es la corporación que gobierna un municipio. La ley 675 de 2001 usa siempre la expresión consejo de administración.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Puede_el_reglamento_impedir_que_un_delegado_integre_el_consejo"&gt;¿Puede el reglamento impedir que un delegado integre el consejo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. El artículo 53 de la ley 675 de 2001 permite que el consejo lo integren los propietarios o sus delegados, y una cláusula del reglamento que lo prohíba se entiende no escrita. El delegado puede ser la cónyuge o compañera permanente del propietario, o el arrendatario, si tiene poder.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_consejo_puede_declarar_retirado_a_un_consejero_que_no_renuncio_por_escrito"&gt;¿El consejo puede declarar retirado a un consejero que no renunció por escrito?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No, salvo que pruebe que renunció. Retirar a un consejero sin renuncia equivale a removerlo, y esa facultad es exclusiva de la asamblea de copropietarios.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_consejo_elige_al_administrador"&gt;¿El consejo elige al administrador?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. Donde existe consejo de administración, el artículo 50 de la ley 675 de 2001 le asigna la elección del administrador, y el presidente del consejo firma su contrato.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_consejo_de_administracion_puede_ser_demandado"&gt;¿El consejo de administración puede ser demandado?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No de forma independiente. Al ser un órgano de la copropiedad, es la persona jurídica de la propiedad horizontal la que debe ser demandada por las acciones u omisiones del consejo.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Puede_el_consejo_nombrar_al_comite_de_convivencia"&gt;¿Puede el consejo nombrar al comité de convivencia?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. El comité de convivencia lo elige la asamblea general de copropietarios, según el artículo 58 de la ley 675 de 2001.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Ante_quien_se_presenta_la_renuncia_de_un_consejero"&gt;¿Ante quién se presenta la renuncia de un consejero?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Ante el consejo de administración, radicándola con su presidente y con copia al administrador. No se requiere esperar a una asamblea ni dirigirle a ella la carta; la asamblea interviene después, para proveer la vacante cuando no hay suplente.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Puede_el_consejo_negarse_a_aceptar_la_renuncia"&gt;¿Puede el consejo negarse a aceptar la renuncia?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Es un acto unilateral que no requiere aceptación y produce efectos desde la fecha señalada en la carta. El consejo no puede condicionarla a que el renunciante consiga reemplazo.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
-
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Que_pasa_si_el_consejo_queda_con_numero_par_de_miembros"&gt;¿Qué pasa si el consejo queda con número par de miembros?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sigue funcionando. La exigencia de número impar del artículo 53 de la ley 675 de 2001 se refiere a la integración del consejo por la asamblea, no al número que queda tras una vacante. El consejo delibera y decide con la mayoría de sus miembros, y lo procedente es proveer la vacante.&lt;/p&gt;
-&lt;p&gt;De acuerdo con nuestro criterio, si se presenta un empate y el reglamento no da voto dirimente al presidente, la proposición se entiende negada y conviene dejar constancia en el acta.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Y_si_quedan_menos_de_tres_consejeros"&gt;¿Y si quedan menos de tres consejeros?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;El consejo no puede sesionar válidamente, porque tres es el mínimo legal. Debe convocarse la asamblea para reintegrarlo, y mientras tanto los asuntos que requieran decisión del consejo quedan en suspenso, salvo los actos urgentes de conservación que corresponden al administrador.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Puede_el_consejo_nombrar_al_reemplazo_del_renunciante"&gt;¿Puede el consejo nombrar al reemplazo del renunciante?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;De acuerdo con nuestro criterio, no, salvo que el reglamento lo autorice. Si el reglamento previó suplentes, el suplente asume automáticamente; en su defecto, la designación corresponde a la asamblea general de propietarios.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;aside class="ads-gerencie"
-           data-producto="7"
-           aria-label="Producto de Gerencie.com"&gt;
-        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/arrendamiento-sin-riesgo"&gt;Guía de arrendamiento sin riesgo&lt;/a&gt;
-                
-                            &lt;a class="ads-gerencie__enlace"
-               href="https://www.gerencie.com/arrendamiento-sin-riesgo"
-               aria-label="Ver la guía: Guía de arrendamiento sin riesgo"&gt;Ver la guía&lt;/a&gt;
-            &lt;/aside&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Calculadora de la reducción de semanas por hijos para la pensión [Gerencie.com]</title>
-  <link href="https://alvypender.github.io/feeds/articulos/finanzas_calculadora-reduccion-de-semanas-por-hijos-html.html"/>
-  <id>https://www.gerencie.com/calculadora-reduccion-de-semanas-por-hijos-html.html#v2</id>
-  <published>2026-11-01T13:25:21+00:00</published>
-  <updated>2026-11-01T13:25:21+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-reduccion-de-semanas-por-hijo.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-reduccion-de-semanas-por-hijo.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-reduccion-de-semanas-por-hijo.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-reduccion-de-semanas-por-hijo.jpg</webfeeds:featuredImage>
-  <summary>Calcule si puede pensionarse con la reducción de semanas por hijos en Colpensiones y cuántos hijos necesita, hoy o al cumplir la edad de pensión.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-reduccion-de-semanas-por-hijo.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
-&lt;/details&gt;&lt;/div&gt;&lt;p&gt;El artículo &lt;a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_2381_2024.html#36"&gt;36&lt;/a&gt; de la ley 2381 de 2024 permite a las mujeres de Colpensiones reducir en 50 semanas por hijo, hasta tres, las semanas que les falten para pensionarse, como explicamos en el artículo sobre la &lt;a href="https://www.gerencie.com/reduccion-de-semanas-por-hijos-pension-para-mujeres.html"&gt;reducción de semanas por hijos&lt;/a&gt;. Con esta calculadora puede saber si el beneficio le sirve y cuántos hijos necesita, tanto si ya tiene 57 años como si los cumplirá más adelante. ¿Qué datos necesita y cómo se leen los resultados?&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Calcule_si_puede_usar_la_reduccion"&gt;Calcule si puede usar la reducción.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Indique su fecha de nacimiento, las semanas que tiene cotizadas hoy, si sigue cotizando, el número de hijos y el fondo al que está afiliada:&lt;/p&gt;
-		&lt;div class="gcal rsh" id="rsh1" data-regimen="rpm"&gt;
-			&lt;div class="gcal-head"&gt;
-				&lt;div class="gcal-head-t"&gt;
-					&lt;span class="gcal-titulo"&gt;Reducción de semanas por hijos&lt;/span&gt;
-					&lt;span class="gcal-sub"&gt;Artículo 36 de la Ley 2381 de 2024 · mujeres afiliadas a Colpensiones&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class="gcal-head-b"&gt;
-					&lt;button type="button" class="gcal-btn gcal-btn-sec gcal-btn-sm" data-rsh="ejemplo"&gt;&lt;svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"&gt;&lt;path d="M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z"/&gt;&lt;/svg&gt;&lt;span&gt;Cargar ejemplo&lt;/span&gt;&lt;/button&gt;
-					&lt;button type="button" class="gcal-btn gcal-btn-link gcal-btn-sm" data-rsh="limpiar"&gt;&lt;svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"&gt;&lt;path d="M3 12a9 9 0 1 0 3-6.7"/&gt;&lt;path d="M3 4v5h5"/&gt;&lt;/svg&gt;&lt;span&gt;Limpiar&lt;/span&gt;&lt;/button&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-
-			&lt;p class="gcal-info"&gt;La &lt;a href="https://www.gerencie.com/sentencia-c-264-de-2026-reforma-pensional.html"&gt;sentencia C-264 de 2026&lt;/a&gt; devolvió el artículo 36 a la Cámara: la reducción no rige mientras no se subsane el trámite, y nunca antes del &lt;b&gt;1 de abril de 2027&lt;/b&gt;. La calculadora muestra el texto aprobado y el resultado si se aprueba la proposición pendiente.&lt;/p&gt;
-
-			&lt;div class="gcal-tabs" role="tablist" aria-label="Fondo de pensiones"&gt;
-				&lt;button type="button" class="gcal-tab" role="tab" data-tab="rpm" aria-controls="rsh1-form" aria-selected="true" tabindex="0"&gt;&lt;b&gt;Colpensiones&lt;/b&gt;&lt;small&gt;Régimen de prima media&lt;/small&gt;&lt;/button&gt;
-				&lt;button type="button" class="gcal-tab" role="tab" data-tab="rais" aria-controls="rsh1-form" aria-selected="false" tabindex="-1"&gt;&lt;b&gt;Fondo privado&lt;/b&gt;&lt;small&gt;Ahorro individual&lt;/small&gt;&lt;/button&gt;
-			&lt;/div&gt;
-			&lt;p class="gcal-ayuda gcal-ayuda-tipo"&gt;&lt;/p&gt;
-
-			&lt;form class="gcal-form" id="rsh1-form" autocomplete="off" novalidate&gt;
-				&lt;input type="hidden" class="gcal-regimen" value="rpm"&gt;
-				&lt;div class="gcal-sec"&gt;
-					&lt;div class="gcal-sec-t"&gt;&lt;span class="gcal-nsec"&gt;&lt;/span&gt;Fecha de nacimiento&lt;/div&gt;
-					&lt;div class="gcal-grid"&gt;
-						&lt;label class="gcal-campo"&gt;&lt;span&gt;Año de nacimiento&lt;/span&gt;
-							&lt;select id="rsh1-anio" class="gcal-in gcal-anio"&gt;
-								&lt;option value=""&gt;Año&lt;/option&gt;
-																	&lt;option value="2008"&gt;2008&lt;/option&gt;
-																	&lt;option value="2007"&gt;2007&lt;/option&gt;
-																	&lt;option value="2006"&gt;2006&lt;/option&gt;
-																	&lt;option value="2005"&gt;2005&lt;/option&gt;
-																	&lt;option value="2004"&gt;2004&lt;/option&gt;
-																	&lt;option value="2003"&gt;2003&lt;/option&gt;
-																	&lt;option value="2002"&gt;2002&lt;/option&gt;
-																	&lt;option value="2001"&gt;2001&lt;/option&gt;
-																	&lt;option value="2000"&gt;2000&lt;/option&gt;
-																	&lt;option value="1999"&gt;1999&lt;/option&gt;
-																	&lt;option value="1998"&gt;1998&lt;/option&gt;
-																	&lt;option value="1997"&gt;1997&lt;/option&gt;
-																	&lt;option value="1996"&gt;1996&lt;/option&gt;
-																	&lt;option value="1995"&gt;1995&lt;/option&gt;
-																	&lt;option value="1994"&gt;1994&lt;/option&gt;
-																	&lt;option value="1993"&gt;1993&lt;/option&gt;
-																	&lt;option value="1992"&gt;1992&lt;/option&gt;
-																	&lt;option value="1991"&gt;1991&lt;/option&gt;
-																	&lt;option value="1990"&gt;1990&lt;/option&gt;
-																	&lt;option value="1989"&gt;1989&lt;/option&gt;
-																	&lt;option value="1988"&gt;1988&lt;/option&gt;
-																	&lt;option value="1987"&gt;1987&lt;/option&gt;
-																	&lt;option value="1986"&gt;1986&lt;/option&gt;
-																	&lt;option value="1985"&gt;1985&lt;/option&gt;
-																	&lt;option value="1984"&gt;1984&lt;/option&gt;
-																	&lt;option value="1983"&gt;1983&lt;/option&gt;
-																	&lt;option value="1982"&gt;1982&lt;/option&gt;
-																	&lt;option value="1981"&gt;1981&lt;/option&gt;
-																	&lt;option value="1980"&gt;1980&lt;/option&gt;
-																	&lt;option value="1979"&gt;1979&lt;/option&gt;
-																	&lt;option value="1978"&gt;1978&lt;/option&gt;
-																	&lt;option value="1977"&gt;1977&lt;/option&gt;
-																	&lt;option value="1976"&gt;1976&lt;/option&gt;
-																	&lt;option value="1975"&gt;1975&lt;/option&gt;
-																	&lt;option value="1974"&gt;1974&lt;/option&gt;
-																	&lt;option value="1973"&gt;1973&lt;/option&gt;
-																	&lt;option value="1972"&gt;1972&lt;/option&gt;
-																	&lt;option value="1971"&gt;1971&lt;/option&gt;
-																	&lt;option value="1970"&gt;1970&lt;/option&gt;
-																	&lt;option value="1969"&gt;1969&lt;/option&gt;
-																	&lt;option value="1968"&gt;1968&lt;/option&gt;
-																	&lt;option value="1967"&gt;1967&lt;/option&gt;
-																	&lt;option value="1966"&gt;1966&lt;/option&gt;
-																	&lt;option value="1965"&gt;1965&lt;/option&gt;
-																	&lt;option value="1964"&gt;1964&lt;/option&gt;
-																	&lt;option value="1963"&gt;1963&lt;/option&gt;
-																	&lt;option value="1962"&gt;1962&lt;/option&gt;
-																	&lt;option value="1961"&gt;1961&lt;/option&gt;
-																	&lt;option value="1960"&gt;1960&lt;/option&gt;
-																	&lt;option value="1959"&gt;1959&lt;/option&gt;
-																	&lt;option value="1958"&gt;1958&lt;/option&gt;
-																	&lt;option value="1957"&gt;1957&lt;/option&gt;
-																	&lt;option value="1956"&gt;1956&lt;/option&gt;
-																	&lt;option value="1955"&gt;1955&lt;/option&gt;
-																	&lt;option value="1954"&gt;1954&lt;/option&gt;
-																	&lt;option value="1953"&gt;1953&lt;/option&gt;
-																	&lt;option value="1952"&gt;1952&lt;/option&gt;
-																	&lt;option value="1951"&gt;1951&lt;/option&gt;
-															&lt;/select&gt;
-						&lt;/label&gt;
-						&lt;label class="gcal-campo"&gt;&lt;span&gt;Mes de nacimiento&lt;/span&gt;
-							&lt;select id="rsh1-mes" class="gcal-in gcal-mes"&gt;
-								&lt;option value=""&gt;Mes&lt;/option&gt;
-																	&lt;option value="1"&gt;enero&lt;/option&gt;
-																	&lt;option value="2"&gt;febrero&lt;/option&gt;
-																	&lt;option value="3"&gt;marzo&lt;/option&gt;
-																	&lt;option value="4"&gt;abril&lt;/option&gt;
-																	&lt;option value="5"&gt;mayo&lt;/option&gt;
-																	&lt;option value="6"&gt;junio&lt;/option&gt;
-																	&lt;option value="7"&gt;julio&lt;/option&gt;
-																	&lt;option value="8"&gt;agosto&lt;/option&gt;
-																	&lt;option value="9"&gt;septiembre&lt;/option&gt;
-																	&lt;option value="10"&gt;octubre&lt;/option&gt;
-																	&lt;option value="11"&gt;noviembre&lt;/option&gt;
-																	&lt;option value="12"&gt;diciembre&lt;/option&gt;
-															&lt;/select&gt;
-						&lt;/label&gt;
-					&lt;/div&gt;
-					&lt;small class="gcal-ayuda"&gt;Con ella se calcula cuándo cumple 57 años, la edad de pensión de las mujeres.&lt;/small&gt;
-				&lt;/div&gt;
-				&lt;div class="gcal-sec"&gt;
-					&lt;div class="gcal-sec-t"&gt;&lt;span class="gcal-nsec"&gt;&lt;/span&gt;Semanas cotizadas&lt;/div&gt;
-					&lt;div class="gcal-grid"&gt;
-						&lt;label class="gcal-campo"&gt;&lt;span&gt;Semanas cotizadas a hoy&lt;/span&gt;&lt;input type="text" inputmode="decimal" id="rsh1-semanas" class="gcal-in gcal-semanas" placeholder="Ej: 1.120"&gt;&lt;small class="gcal-ayuda"&gt;Según la historia laboral. Admite decimales: 1.120,57.&lt;/small&gt;&lt;/label&gt;
-						&lt;div class="gcal-campo"&gt;
-							&lt;span&gt;¿Sigue cotizando?&lt;/span&gt;
-							&lt;div class="gcal-seg" role="radiogroup" aria-label="¿Sigue cotizando?"&gt;
-								&lt;label&gt;&lt;input type="radio" name="rsh1-cotiza" class="gcal-cotiza" value="1" checked&gt;&lt;span&gt;Sí, de forma continua&lt;/span&gt;&lt;/label&gt;
-								&lt;label&gt;&lt;input type="radio" name="rsh1-cotiza" class="gcal-cotiza" value="0"&gt;&lt;span&gt;No&lt;/span&gt;&lt;/label&gt;
-							&lt;/div&gt;
-							&lt;small class="gcal-ayuda"&gt;Si sigue cotizando, se proyectan 30 días por mes.&lt;/small&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-				&lt;div class="gcal-sec" data-regimenes="rpm"&gt;
-					&lt;div class="gcal-sec-t"&gt;&lt;span class="gcal-nsec"&gt;&lt;/span&gt;Hijos&lt;/div&gt;
-					&lt;div class="gcal-grid"&gt;
-						&lt;label class="gcal-campo"&gt;&lt;span&gt;Hijos nacidos vivos o adoptados&lt;/span&gt;
-							&lt;select id="rsh1-hijos" class="gcal-in gcal-hijos"&gt;
-																	&lt;option value="0"&gt;0&lt;/option&gt;
-																	&lt;option value="1"&gt;1&lt;/option&gt;
-																	&lt;option value="2"&gt;2&lt;/option&gt;
-																	&lt;option value="3"&gt;3&lt;/option&gt;
-																	&lt;option value="4"&gt;4&lt;/option&gt;
-																	&lt;option value="5"&gt;5&lt;/option&gt;
-																	&lt;option value="6"&gt;6 o más&lt;/option&gt;
-															&lt;/select&gt;
-							&lt;small class="gcal-ayuda"&gt;Se reducen 50 semanas por hijo, hasta tres.&lt;/small&gt;
-						&lt;/label&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-				&lt;div class="gcal-err" data-gcal-err role="alert" hidden&gt;&lt;/div&gt;
-				&lt;div class="gcal-acc"&gt;
-					&lt;button type="submit" class="gcal-btn gcal-btn-pri"&gt;&lt;svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"&gt;&lt;rect x="5" y="2" width="14" height="20" rx="2"/&gt;&lt;path d="M8 6h8M8 11h2M14 11h2M8 15h2M14 15h2M8 19h2M14 19h2"/&gt;&lt;/svg&gt;&lt;span&gt;Calcular reducción&lt;/span&gt;&lt;/button&gt;
-				&lt;/div&gt;
-			&lt;/form&gt;
-
-			&lt;div class="gcal-res" data-gcal-res aria-live="polite" hidden&gt;&lt;/div&gt;
-
-			&lt;details class="gcal-sec gcal-plegable gcal-notas"&gt;
-				&lt;summary class="gcal-sec-t"&gt;Cómo calcula y normas aplicadas&lt;span class="gcal-chev"&gt;&lt;/span&gt;&lt;/summary&gt;
-				&lt;div class="gcal-plegable-c"&gt;
-					&lt;p&gt;&lt;b&gt;Cómo calcula.&lt;/b&gt; Los requisitos se verifican cuando se solicita la pensión, con la edad cumplida: si ya tiene 57 años, a la fecha de hoy; si no, al cumplirlos, con las semanas que tendrá entonces si sigue cotizando de forma continua (30 días por mes). Las semanas mínimas de las mujeres en Colpensiones son 1.250 en 2026 y bajan 25 por año hasta 1.000 en 2036, según la &lt;a href="https://www.corteconstitucional.gov.co/relatoria/2023/C-197-23.htm" target="_blank" rel="noopener"&gt;sentencia C-197 de 2023&lt;/a&gt;.&lt;/p&gt;
-					&lt;p&gt;&lt;b&gt;La reducción.&lt;/b&gt; El &lt;a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_2381_2024.html#36" target="_blank" rel="noopener"&gt;artículo 36 de la Ley 2381 de 2024&lt;/a&gt; reduce 50 semanas por cada hijo nacido vivo o adoptado, hasta tres, solo para completar las semanas mínimas en Colpensiones. No aumenta la tasa de reemplazo.&lt;/p&gt;
-					&lt;p&gt;&lt;b&gt;Vigencia.&lt;/b&gt; La &lt;a href="https://www.gerencie.com/sentencia-c-264-de-2026-reforma-pensional.html"&gt;sentencia C-264 de 2026&lt;/a&gt; devolvió el artículo 36 a la Cámara, de modo que la reducción no rige mientras no se subsane el trámite, y nunca antes del 1 de abril de 2027. La calculadora muestra el texto aprobado y el resultado si se aprueba la proposición pendiente, que sube el piso a 1.000 semanas y excluye a la transición.&lt;/p&gt;
-					&lt;p&gt;&lt;b&gt;Transición.&lt;/b&gt; Las mujeres con 750 semanas o más al 1 de abril de 2027 quedan en el &lt;a href="https://www.gerencie.com/regimen-de-transicion-en-la-reforma-pensional.html"&gt;régimen de transición&lt;/a&gt; y, en principio, no pueden usar la reducción. El resultado es informativo y no reemplaza el estudio de la historia laboral.&lt;/p&gt;
-				&lt;/div&gt;
-			&lt;/details&gt;
-		&lt;/div&gt;
-		
-&lt;p&gt;El resultado empieza con una conclusión y sigue con dos tablas: la primera muestra las semanas que tendría al pedir la pensión frente a las exigidas, y la segunda, qué pasaría con la reducción.&lt;/p&gt;
-&lt;aside class="ads-gerencie"
-           data-producto="3"
-           aria-label="Producto de Gerencie.com"&gt;
-        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidadores-laborales"&gt;Liquidadores Laborales&lt;/a&gt;
-                
-                            &lt;a class="ads-gerencie__enlace"
-               href="https://www.gerencie.com/liquidadores-laborales"
-               aria-label="Calcular ahora: Liquidadores Laborales"&gt;Calcular ahora&lt;/a&gt;
-            &lt;/aside&gt;&lt;h2&gt;&lt;span id="Que_datos_pide_la_calculadora"&gt;Qué datos pide la calculadora.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Cada dato cambia el resultado, así que conviene tomarlos de fuentes confiables:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Fecha de nacimiento.&lt;/strong&gt; Con el año y el mes se calcula cuándo cumple 57 años, que es la edad de pensión de las mujeres.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Semanas cotizadas a hoy.&lt;/strong&gt; Tómelas de la &lt;a href="https://www.gerencie.com/guia-pensiones/historia-laboral-de-colpensiones"&gt;historia laboral de Colpensiones&lt;/a&gt;, no de un cálculo propio. Si la historia tiene errores o periodos sin reportar, corríjala primero, porque la diferencia puede decidir si necesita o no la reducción.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;¿Sigue cotizando?&lt;/strong&gt; Si responde que sí, la calculadora suma las semanas de cada mes, de forma continua, hasta la fecha en que evalúa la solicitud. Si cotiza solo algunos meses del año, el resultado será optimista.&lt;/li&gt;
-&lt;li&gt;Cuentan los hijos nacidos vivos y los adoptivos. Puede indicar más de tres, pero la reducción solo llega a tres.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fondo de pensiones.&lt;/strong&gt; La reducción solo opera en Colpensiones. Si está en un fondo privado, la calculadora se lo indica.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Si ya cumplió 57 años y dejó de cotizar, basta indicar las semanas que tiene. Si quiere saber primero cuándo cumplirá la edad y las semanas sin contar los hijos, use la calculadora de &lt;a href="https://www.gerencie.com/guia-pensiones/cuando-me-pensiono"&gt;¿cuándo me pensiono?&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Como_leer_los_resultados"&gt;Cómo leer los resultados.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;La calculadora aplica varias reglas que no siempre son evidentes. Conviene conocerlas para interpretar bien el resultado.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="La_fecha_en_que_se_evalua"&gt;La fecha en que se evalúa.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Los requisitos se verifican cuando se solicita la pensión, con la &lt;a href="https://www.gerencie.com/calculadora-de-edad.html" title="Calculadora de edad"&gt;edad&lt;/a&gt; cumplida. Si ya tiene 57 años, la calculadora evalúa a la fecha de hoy; si no, a la fecha en que los cumplirá, con las semanas que tendrá entonces.&lt;/p&gt;
-&lt;p&gt;Pero la reducción no puede pedirse antes de que entre a regir el artículo 36, que en ningún caso será antes del &lt;strong&gt;1 de abril de 2027&lt;/strong&gt;. Si cumple la edad antes, la calculadora evalúa el beneficio a esa fecha y se lo advierte en una nota.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Las_semanas_minimas_del_ano"&gt;Las semanas mínimas del año.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Las semanas que se exigen a las mujeres bajan cada año: son &lt;strong&gt;1.250&lt;/strong&gt; en 2026 y bajan 25 por año hasta &lt;strong&gt;1.000&lt;/strong&gt; en 2036, como explicamos en &lt;a href="https://www.gerencie.com/con-cuantas-semanas-se-pensiona-una-mujer-en-colombia.html"&gt;¿con cuántas semanas se pensiona una mujer?&lt;/a&gt;. La calculadora usa el mínimo del año en que pediría la pensión. Por eso, aunque no siga cotizando, puede que más adelante complete las semanas sin la reducción, y el resultado le indica en qué mes ocurriría.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
-
-
-&lt;/div&gt;
-&lt;h3&gt;&lt;span id="Cuantos_hijos_necesita"&gt;Cuántos hijos necesita.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Cada hijo reduce 50 semanas, de modo que los hijos necesarios resultan de dividir las semanas que faltan entre 50 y redondear hacia arriba. Si le faltan 70 semanas, necesita dos hijos, aunque tenga tres: la reducción solo se usa en la medida necesaria. Si le faltan más de 150, ni con tres hijos completaría, y el resultado le indica cuándo lo lograría si sigue cotizando.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="El_regimen_de_transicion"&gt;El régimen de transición.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;La calculadora estima las semanas que tendrá al 1 de abril de 2027. Si son &lt;strong&gt;750 o más&lt;/strong&gt;, queda en el &lt;a href="https://www.gerencie.com/regimen-de-transicion-en-la-reforma-pensional.html"&gt;régimen de transición&lt;/a&gt;, al que en principio no se le aplica la reducción. Aun así, como el artículo 36 no la excluye expresamente, le muestra cómo quedaría si el beneficio se le reconoce por favorabilidad.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="La_vigencia_del_articulo_36"&gt;La vigencia del artículo 36.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;La &lt;a href="https://www.gerencie.com/sentencia-c-264-de-2026-reforma-pensional.html"&gt;sentencia C-264 de 2026&lt;/a&gt; devolvió el artículo 36 a la Cámara por un vicio de trámite, y la Cámara lo subsanó el 28 de octubre de 2026 sin cambiar su texto. Falta que la Corte verifique la subsanación. Por eso la calculadora aplica el texto vigente de la ley 2381 de 2024, en el que la reducción máxima es de 150 semanas y el requisito no puede bajar de 850, piso que solo se alcanza en 2036, cuando el mínimo general sea de 1.000. Antes, el requisito reducido es el mínimo del año menos la reducción. Además, la calculadora no evalúa el beneficio antes del 1 de abril de 2027.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Ejemplos"&gt;Ejemplos.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Los siguientes casos muestran cómo cambian los resultados según las semanas, los hijos y la transición.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mujer en el régimen de transición.&lt;/strong&gt; Supongamos que nació en junio de 1975, tiene 1.040 semanas, ya no cotiza y tiene dos hijos. Cumple 57 años en junio de 2032, cuando el mínimo es de 1.100 semanas, de modo que le faltan 60. Como tiene más de 750 semanas al 1 de abril de 2027, queda en la transición.&lt;/p&gt;
-&lt;div class="tabla-scroll"&gt;&lt;table width="650"&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;td width="280"&gt;&lt;strong&gt;Escenario&lt;/strong&gt;&lt;/td&gt;
-&lt;td width="370"&gt;&lt;strong&gt;Resultado en junio de 2032&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td width="280"&gt;Sin la reducción&lt;/td&gt;
-&lt;td width="370"&gt;Le faltan 60 semanas; completaría en enero de 2035, cuando el mínimo baje a 1.025&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width="280"&gt;Con la reducción, si se le reconoce en la transición&lt;/td&gt;
-&lt;td width="370"&gt;Se pensiona con la reducción por dos hijos: el requisito baja a 1.000&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;Aunque no vuelva a cotizar, esta mujer se pensionaría en 2035 sin necesidad de la reducción. El beneficio solo le adelantaría la pensión.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mujer que no queda en la transición.&lt;/strong&gt; Supongamos que nació en enero de 1985, que tenía menos de 750 semanas al 1 de abril de 2027 y que, siguiendo cotizando, llegará a los 57 años, en enero de 2042, con 930 semanas. Tiene dos hijos y el mínimo será de 1.000 semanas.&lt;/p&gt;
-&lt;div class="tabla-scroll"&gt;&lt;table width="650"&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;td width="280"&gt;&lt;strong&gt;Escenario&lt;/strong&gt;&lt;/td&gt;
-&lt;td width="370"&gt;&lt;strong&gt;Resultado en enero de 2042&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td width="280"&gt;Sin la reducción&lt;/td&gt;
-&lt;td width="370"&gt;Le faltan 70 semanas; si sigue cotizando, completaría en junio de 2043&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width="280"&gt;Con la reducción&lt;/td&gt;
-&lt;td width="370"&gt;Se pensiona con la reducción por dos hijos: el requisito baja a 900&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;En este caso la reducción le adelanta la pensión 17 meses.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Que_no_calcula"&gt;Qué no calcula.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;La calculadora responde una sola pregunta: si la reducción le permite completar las semanas y con cuántos hijos. Por eso tiene límites que conviene tener presentes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;No calcula el valor de la pensión. La reducción no aumenta la &lt;a href="https://www.gerencie.com/guia-pensiones/tasa-de-reemplazo"&gt;tasa de reemplazo&lt;/a&gt;, que corresponde a las semanas mínimas.&lt;/li&gt;
-&lt;li&gt;No corrige la historia laboral: trabaja con las semanas que usted indique.&lt;/li&gt;
-&lt;li&gt;Supone que sigue cotizando todos los meses, si así lo indica. Las interrupciones retrasan las fechas.&lt;/li&gt;
-&lt;li&gt;No evalúa a las afiliadas a fondos privados, que se pensionan por capital. Si está en uno, revise si todavía puede hacer el &lt;a href="https://www.gerencie.com/traslado-de-un-fondo-privado-a-colpensiones.html"&gt;traslado a Colpensiones&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;El resultado es informativo y no reemplaza el estudio de su caso, en especial si está cerca de las 750 semanas al 1 de abril de 2027 o de cumplir la edad.&lt;/p&gt;
-&lt;div class="pf"&gt;&lt;h2&gt;&lt;span id="Preguntas_frecuentes"&gt;Preguntas frecuentes.&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;
-&lt;p&gt;A continuación respondemos las preguntas frecuentes de nuestros lectores.&lt;/p&gt;
-&lt;div class="faq-container" itemscope itemtype="https://schema.org/FAQPage"&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="La_calculadora_sirve_si_ya_cumpli_57_anos"&gt;¿La calculadora sirve si ya cumplí 57 años?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. Evalúa a la fecha de hoy con las semanas que tiene, y si la reducción todavía no rige, a la fecha más temprana en que podría pedirla.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Por_que_evalua_en_abril_de_2027_y_no_hoy"&gt;¿Por qué evalúa en abril de 2027 y no hoy?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Porque la reducción no puede pedirse antes de que entre a regir el artículo 36, que en ningún caso será antes del 1 de abril de 2027.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
-
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Que_pasa_si_tengo_mas_de_tres_hijos"&gt;¿Qué pasa si tengo más de tres hijos?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;La reducción máxima es de 150 semanas, por tres hijos. Los demás no cuentan.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Por_que_dice_que_quedo_en_el_regimen_de_transicion"&gt;¿Por qué dice que quedo en el régimen de transición?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Porque estima que tendrá 750 semanas o más al 1 de abril de 2027. En ese caso, en principio, la reducción no le aplica, aunque podría extenderse por favorabilidad.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Si_no_sigo_cotizando_puedo_completar_las_semanas"&gt;¿Si no sigo cotizando puedo completar las semanas?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Depende. Como el mínimo de las mujeres baja cada año hasta 2036, puede que lo alcance esperando. La calculadora le indica el mes en que ocurriría.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_resultado_es_definitivo"&gt;¿El resultado es definitivo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. Depende de que la Corte avale la subsanación del artículo 36 y de que su historia laboral esté correcta.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;aside class="ads-gerencie"
-           data-producto="24"
-           aria-label="Producto de Gerencie.com"&gt;
-        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/calculadora-de-embargos-y-libranzas"&gt;Calculadora de embargos y libranzas sobre el salario&lt;/a&gt;
-                
-                            &lt;a class="ads-gerencie__enlace"
-               href="https://www.gerencie.com/calculadora-de-embargos-y-libranzas"
-               aria-label="Calcular: Calculadora de embargos y libranzas sobre el salario"&gt;Calcular&lt;/a&gt;
-            &lt;/aside&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>¿Cuántos MILLONARIOS hay en COLOMBIA? [Simón Gómez]</title>
@@ -1543,350 +1291,6 @@ En esta Capacitación, el Dr. German Torres explica el método para practicar la
 • LinkedIn: https://www.linkedin.com/company/actualicese/
 • Tik Tok: https://www.tiktok.com/@actualicese
 • Canal de WhastApp: https://whatsapp.com/channel/0029Va6YVzN4NVii6A6JBp1a&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Liquidador de contrato de trabajo: salario mensual, por días o integral [Gerencie.com]</title>
-  <link href="https://alvypender.github.io/feeds/articulos/finanzas_liquidador-de-contrato-de-trabajo-en-linea.html"/>
-  <id>https://www.gerencie.com/liquidador-de-contrato-de-trabajo-en-linea.html#v2</id>
-  <published>2026-10-29T21:55:21+00:00</published>
-  <updated>2026-10-29T21:55:21+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/finanzas_gerencie_liquidador-de-contrato-de-trabajo-en-line.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_liquidador-de-contrato-de-trabajo-en-line.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/finanzas_gerencie_liquidador-de-contrato-de-trabajo-en-line.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/finanzas_gerencie_liquidador-de-contrato-de-trabajo-en-line.jpg</webfeeds:featuredImage>
-  <summary>Liquide un contrato de trabajo con salario mensual, por días o integral: salario pendiente, cesantías, intereses, prima, vacaciones y aportes, con el detalle de cada cálculo.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_liquidador-de-contrato-de-trabajo-en-line.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Fuente: Gerencie.com · Tributaria, Laboral y Contabilidad&lt;/em&gt;&lt;/p&gt;
-&lt;/details&gt;&lt;/div&gt;&lt;p&gt;Al terminar un &lt;a href="https://www.gerencie.com/contrato-de-trabajo.html" title="Contrato de trabajo"&gt;contrato de trabajo&lt;/a&gt;, cualquiera que sea la causa, el empleador debe pagar el salario pendiente y las prestaciones causadas: cesantías, intereses sobre cesantías, prima de servicios y vacaciones no disfrutadas. Este liquidador las calcula para trabajadores con salario mensual, para quienes trabajan por días, como el servicio doméstico, y para el salario integral, conforme al Código Sustantivo del Trabajo. ¿Cuánto le corresponde de liquidación?&lt;/p&gt;
-		&lt;div class="glc" id="glc1" data-tipo="mensual"&gt;
-			&lt;div class="glc-cab"&gt;
-				&lt;div class="glc-cab-t"&gt;
-					&lt;span class="glc-titulo"&gt;Liquidación del contrato de trabajo&lt;/span&gt;
-					&lt;span class="glc-sub"&gt;Prestaciones sociales, vacaciones, salario pendiente y aportes&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class="glc-cab-b"&gt;
-					&lt;button type="button" class="glc-btn glc-btn-sec glc-btn-sm" data-glc="ejemplo"&gt;&lt;svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"&gt;&lt;circle cx="12" cy="8" r="4"/&gt;&lt;path d="M4 21a8 8 0 0 1 16 0"/&gt;&lt;/svg&gt;&lt;span&gt;Cargar ejemplo&lt;/span&gt;&lt;/button&gt;
-					&lt;button type="button" class="glc-btn glc-btn-link glc-btn-sm" data-glc="limpiar"&gt;&lt;svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"&gt;&lt;path d="M3 12a9 9 0 1 0 3-6.7"/&gt;&lt;path d="M3 4v5h5"/&gt;&lt;/svg&gt;&lt;span&gt;Limpiar&lt;/span&gt;&lt;/button&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-
-			&lt;div class="glc-tabs" role="tablist" aria-label="Forma de pago del salario"&gt;
-									&lt;button type="button" class="glc-tab" role="tab" data-tab="mensual" aria-selected="true"&gt;
-						&lt;b&gt;Salario mensual&lt;/b&gt;&lt;small&gt;Tiempo completo&lt;/small&gt;
-					&lt;/button&gt;
-									&lt;button type="button" class="glc-tab" role="tab" data-tab="dias" aria-selected="false"&gt;
-						&lt;b&gt;Por días&lt;/b&gt;&lt;small&gt;Algunos días a la semana o al mes&lt;/small&gt;
-					&lt;/button&gt;
-									&lt;button type="button" class="glc-tab" role="tab" data-tab="integral" aria-selected="false"&gt;
-						&lt;b&gt;Salario integral&lt;/b&gt;&lt;small&gt;Desde 13 salarios mínimos&lt;/small&gt;
-					&lt;/button&gt;
-							&lt;/div&gt;
-
-			&lt;form class="glc-form" data-glc-form autocomplete="off" novalidate&gt;
-
-				&lt;div class="glc-sec"&gt;
-					&lt;div class="glc-sec-t"&gt;&lt;span class="glc-num"&gt;1&lt;/span&gt;Salario&lt;/div&gt;
-					&lt;div class="glc-grid"&gt;
-						&lt;label class="glc-campo" data-solo="mensual integral"&gt;
-							&lt;span data-glc-lsal&gt;Salario mensual&lt;/span&gt;
-							&lt;input type="text" inputmode="decimal" class="glc-in" data-f="sal" data-num placeholder="Ej: 3.000.000"&gt;
-							&lt;small class="glc-ayuda" data-solo="mensual"&gt;Incluya el salario en especie. Si es variable, el promedio mensual.&lt;/small&gt;
-							&lt;small class="glc-ayuda" data-solo="integral"&gt;Mínimo 13 salarios mínimos: 10 de salario y 30 % de factor prestacional.&lt;/small&gt;
-						&lt;/label&gt;
-						&lt;label class="glc-campo" data-solo="dias"&gt;
-							&lt;span&gt;Salario por día trabajado&lt;/span&gt;
-							&lt;input type="text" inputmode="decimal" class="glc-in" data-f="sd" data-num placeholder="Ej: 100.000"&gt;
-						&lt;/label&gt;
-						&lt;div class="glc-campo" data-solo="dias"&gt;
-							&lt;span&gt;Días que trabaja&lt;/span&gt;
-							&lt;div class="glc-fila"&gt;
-								&lt;input type="text" inputmode="numeric" class="glc-in" data-f="nd" placeholder="Ej: 2" aria-label="Días que trabaja"&gt;
-								&lt;select class="glc-in" data-f="ndu" aria-label="Unidad"&gt;
-									&lt;option value="sem"&gt;por semana&lt;/option&gt;
-									&lt;option value="mes"&gt;por mes&lt;/option&gt;
-								&lt;/select&gt;
-							&lt;/div&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-					&lt;label class="glc-check" data-solo="dias"&gt;&lt;input type="checkbox" data-f="dom" checked&gt;&lt;span&gt;Pagar el descanso dominical proporcional (1/6 por día trabajado, num. 5 del art. 173 CST). Desmárquelo solo si el salario diario ya lo incluye.&lt;/span&gt;&lt;/label&gt;
-					&lt;label class="glc-check" data-solo="mensual dias"&gt;&lt;input type="checkbox" data-f="aux" checked&gt;&lt;span&gt;Tiene derecho al auxilio de transporte (solo si el salario no supera dos salarios mínimos)&lt;/span&gt;&lt;/label&gt;
-				&lt;/div&gt;
-
-				&lt;div class="glc-sec"&gt;
-					&lt;div class="glc-sec-t"&gt;&lt;span class="glc-num"&gt;2&lt;/span&gt;Contrato&lt;/div&gt;
-					&lt;div class="glc-grid"&gt;
-						&lt;label class="glc-campo" for="glc1-ini"&gt;
-							&lt;span&gt;Fecha de inicio&lt;/span&gt;
-							&lt;input type="date" id="glc1-ini" class="glc-in" data-f="ini" value="2026-01-01"&gt;
-						&lt;/label&gt;
-						&lt;label class="glc-campo" for="glc1-fin"&gt;
-							&lt;span&gt;Fecha de terminación&lt;/span&gt;
-							&lt;input type="date" id="glc1-fin" class="glc-in" data-f="fin" value="2026-11-02"&gt;
-						&lt;/label&gt;
-						&lt;label class="glc-campo glc-ancho"&gt;
-							&lt;span&gt;Causa de la terminación&lt;/span&gt;
-							&lt;select class="glc-in" data-f="causa"&gt;
-								&lt;option value="renuncia"&gt;Renuncia del trabajador&lt;/option&gt;
-								&lt;option value="justa"&gt;Despido con justa causa&lt;/option&gt;
-								&lt;option value="injusta"&gt;Despido sin justa causa&lt;/option&gt;
-								&lt;option value="plazo"&gt;Vencimiento del plazo o terminación de la obra&lt;/option&gt;
-								&lt;option value="mutuo"&gt;Mutuo acuerdo&lt;/option&gt;
-							&lt;/select&gt;
-						&lt;/label&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-
-				&lt;div class="glc-sec"&gt;
-					&lt;div class="glc-sec-t"&gt;&lt;span class="glc-num"&gt;3&lt;/span&gt;Fechas de corte y pendientes&lt;/div&gt;
-					&lt;div class="glc-seg" role="radiogroup" aria-label="Fechas de corte"&gt;
-						&lt;label&gt;&lt;input type="radio" name="glc1-modo" value="simple" data-f="modo" checked&gt;&lt;span&gt;Deducidas por el liquidador&lt;/span&gt;&lt;/label&gt;
-						&lt;label&gt;&lt;input type="radio" name="glc1-modo" value="avanzado" data-f="modo"&gt;&lt;span&gt;Indicar cada fecha&lt;/span&gt;&lt;/label&gt;
-					&lt;/div&gt;
-					&lt;p class="glc-ayuda" data-av="0"&gt;Se asume salario pagado hasta el mes anterior, cesantías liquidadas al 31 de diciembre, prima al 30 de junio si corresponde y vacaciones desde el inicio del contrato.&lt;/p&gt;
-					&lt;div data-av="1"&gt;
-						&lt;p class="glc-ayuda"&gt;En cada campo escriba el &lt;b&gt;último día ya liquidado y pagado&lt;/b&gt;. Si nunca se liquidó, la víspera del inicio del contrato.&lt;/p&gt;
-						&lt;div class="glc-grid"&gt;
-							&lt;label class="glc-campo" data-solo="mensual integral"&gt;&lt;span&gt;Último día de salario pagado&lt;/span&gt;&lt;input type="date" class="glc-in" data-f="csal"&gt;&lt;/label&gt;
-							&lt;label class="glc-campo" data-solo="mensual dias"&gt;&lt;span&gt;Corte de cesantías&lt;/span&gt;&lt;input type="date" class="glc-in" data-f="cces"&gt;&lt;/label&gt;
-							&lt;label class="glc-campo" data-solo="mensual dias"&gt;&lt;span&gt;Corte de intereses sobre cesantías&lt;/span&gt;&lt;input type="date" class="glc-in" data-f="cint"&gt;&lt;/label&gt;
-							&lt;label class="glc-campo" data-solo="mensual dias"&gt;&lt;span&gt;Corte de la última prima pagada&lt;/span&gt;&lt;input type="date" class="glc-in" data-f="cpri"&gt;&lt;/label&gt;
-							&lt;label class="glc-campo"&gt;&lt;span&gt;Corte de vacaciones (fin del último periodo disfrutado)&lt;/span&gt;&lt;input type="date" class="glc-in" data-f="cvac"&gt;&lt;/label&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-					&lt;div class="glc-grid"&gt;
-						&lt;label class="glc-campo" data-solo="dias"&gt;&lt;span&gt;Días trabajados aún no pagados&lt;/span&gt;&lt;input type="text" inputmode="numeric" class="glc-in" data-f="dp" placeholder="0"&gt;&lt;/label&gt;
-						&lt;label class="glc-campo"&gt;&lt;span&gt;Días hábiles de vacaciones ya disfrutados&lt;/span&gt;&lt;input type="text" inputmode="decimal" class="glc-in" data-f="vd" placeholder="0"&gt;&lt;small class="glc-ayuda"&gt;Desde el corte de vacaciones.&lt;/small&gt;&lt;/label&gt;
-					&lt;/div&gt;
-				&lt;/div&gt;
-
-				&lt;details class="glc-sec glc-plegable" data-glc-mas&gt;
-					&lt;summary class="glc-sec-t"&gt;&lt;span class="glc-num"&gt;4&lt;/span&gt;Aportes y descuentos&lt;span class="glc-chev" aria-hidden="true"&gt;&lt;/span&gt;&lt;/summary&gt;
-					&lt;div class="glc-plegable-c"&gt;
-						&lt;label class="glc-check" data-solo="mensual"&gt;&lt;input type="checkbox" data-f="exo" checked&gt;&lt;span&gt;El empleador está exonerado de SENA, ICBF y salud del empleador (art. 114-1 E.T.)&lt;/span&gt;&lt;/label&gt;
-						&lt;div class="glc-grid"&gt;
-							&lt;label class="glc-campo" data-solo="mensual integral"&gt;
-								&lt;span&gt;Riesgo de ARL&lt;/span&gt;
-								&lt;select class="glc-in" data-f="arl"&gt;
-									&lt;option value="0.00522"&gt;I (0,522 %)&lt;/option&gt;
-									&lt;option value="0.01044"&gt;II (1,044 %)&lt;/option&gt;
-									&lt;option value="0.02436"&gt;III (2,436 %)&lt;/option&gt;
-									&lt;option value="0.0435"&gt;IV (4,350 %)&lt;/option&gt;
-									&lt;option value="0.0696"&gt;V (6,960 %)&lt;/option&gt;
-								&lt;/select&gt;
-							&lt;/label&gt;
-							&lt;label class="glc-campo"&gt;
-								&lt;span&gt;Otros descuentos autorizados&lt;/span&gt;
-								&lt;input type="text" inputmode="decimal" class="glc-in" data-f="otros" data-num placeholder="0"&gt;
-								&lt;small class="glc-ayuda"&gt;Préstamos, libranzas, embargos.&lt;/small&gt;
-							&lt;/label&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-				&lt;/details&gt;
-
-				&lt;details class="glc-sec glc-plegable" data-glc-per&gt;
-					&lt;summary class="glc-sec-t"&gt;&lt;span class="glc-num"&gt;5&lt;/span&gt;Trabajador y empleador &lt;small class="glc-opc"&gt;para el comprobante&lt;/small&gt;&lt;span class="glc-chev" aria-hidden="true"&gt;&lt;/span&gt;&lt;/summary&gt;
-					&lt;div class="glc-plegable-c"&gt;
-						&lt;div class="glc-grid"&gt;
-							&lt;label class="glc-campo"&gt;&lt;span&gt;Nombre del trabajador&lt;/span&gt;&lt;input type="text" class="glc-in" data-f="nt" maxlength="120"&gt;&lt;/label&gt;
-							&lt;label class="glc-campo"&gt;&lt;span&gt;Documento del trabajador&lt;/span&gt;&lt;input type="text" class="glc-in" data-f="dt" maxlength="30"&gt;&lt;/label&gt;
-							&lt;label class="glc-campo"&gt;&lt;span&gt;Cargo&lt;/span&gt;&lt;input type="text" class="glc-in" data-f="cargo" maxlength="80"&gt;&lt;/label&gt;
-							&lt;label class="glc-campo"&gt;&lt;span&gt;Nombre del empleador&lt;/span&gt;&lt;input type="text" class="glc-in" data-f="ne" maxlength="120"&gt;&lt;/label&gt;
-							&lt;label class="glc-campo"&gt;&lt;span&gt;NIT o documento del empleador&lt;/span&gt;&lt;input type="text" class="glc-in" data-f="nit" maxlength="30"&gt;&lt;/label&gt;
-						&lt;/div&gt;
-					&lt;/div&gt;
-				&lt;/details&gt;
-
-				&lt;div class="glc-err" data-glc-err role="alert" hidden&gt;&lt;/div&gt;
-				&lt;div class="glc-acc"&gt;
-					&lt;button type="submit" class="glc-btn glc-btn-pri"&gt;&lt;svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"&gt;&lt;rect x="5" y="2" width="14" height="20" rx="2"/&gt;&lt;path d="M8 6h8M8 11h2M14 11h2M8 15h2M14 15h2M8 19h2M14 19h2"/&gt;&lt;/svg&gt;&lt;span&gt;Calcular liquidación&lt;/span&gt;&lt;/button&gt;
-				&lt;/div&gt;
-			&lt;/form&gt;
-
-			&lt;div class="glc-res" data-glc-res aria-live="polite" hidden&gt;&lt;/div&gt;
-		&lt;/div&gt;
-		
-&lt;h2&gt;&lt;span id="Como_usar_el_liquidador"&gt;Cómo usar el liquidador.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;El primer dato es la forma de pago del salario, porque cambia la base de la liquidación:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Salario mensual.&lt;/strong&gt; Para el trabajador de tiempo completo. Si el salario es variable, se escribe el promedio mensual.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Por días.&lt;/strong&gt; Para quien trabaja solo algunos días de la semana o del mes, como la empleada del servicio doméstico por días. Se escribe el salario por día trabajado y cuántos días trabaja.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Salario integral.&lt;/strong&gt; Para quien devenga al menos 13 salarios mínimos con el factor prestacional incluido. Solo se liquidan el salario pendiente y las vacaciones.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Luego se escriben las fechas de inicio y de terminación. El auxilio de transporte se aplica solo, con el valor del año de la terminación, si el salario no supera dos salarios mínimos; las condiciones están en &lt;a href="https://www.gerencie.com/auxilio-de-transporte.html"&gt;auxilio de transporte&lt;/a&gt;.&lt;/p&gt;
-&lt;aside class="ads-gerencie"
-           data-producto="24"
-           aria-label="Producto de Gerencie.com"&gt;
-        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/calculadora-de-embargos-y-libranzas"&gt;Calculadora de embargos y libranzas sobre el salario&lt;/a&gt;
-                
-                            &lt;a class="ads-gerencie__enlace"
-               href="https://www.gerencie.com/calculadora-de-embargos-y-libranzas"
-               aria-label="Calcular: Calculadora de embargos y libranzas sobre el salario"&gt;Calcular&lt;/a&gt;
-            &lt;/aside&gt;&lt;h3&gt;&lt;span id="Modo_simple_y_modo_avanzado"&gt;Modo simple y modo avanzado.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;El liquidador funciona de dos maneras:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Deduce las fechas de corte de cada prestación a partir de las fechas legales: cesantías e intereses liquidados al 31 de diciembre anterior, prima pagada al 30 de junio o al 31 de diciembre, y salario pagado hasta el mes anterior. Es el modo indicado para quien no sabe cuándo le liquidaron por última vez, que es la mayoría de los casos.&lt;/li&gt;
-&lt;li&gt;Pide una fecha de corte por cada concepto. Es el indicado cuando la empresa liquidó prestaciones en fechas distintas de las habituales.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;En los dos modos se pueden escribir los &lt;a href="https://www.gerencie.com/dia-habil-laboral.html" title="¿Qué son los días hábiles?"&gt;días hábiles&lt;/a&gt; de vacaciones ya disfrutados, que se descuentan de los causados. Si no se escriben, el modo simple supone que nunca se disfrutaron vacaciones, y el liquidador lo advierte cuando hay más de un año acumulado.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Las_fechas_de_corte"&gt;Las fechas de corte.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;En el modo avanzado, en cada campo de corte se escribe el &lt;strong&gt;último día ya liquidado y pagado&lt;/strong&gt; de ese concepto, no el primer día del periodo pendiente: el liquidador cuenta desde el día siguiente.&lt;/p&gt;
-&lt;div class="tabla-scroll"&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Campo&lt;/th&gt;
-&lt;th&gt;Qué fecha va&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Último día de salario pagado&lt;/td&gt;
-&lt;td&gt;El último día cubierto por el pago de nómina&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Corte de cesantías&lt;/td&gt;
-&lt;td&gt;El 31 de diciembre anterior, o la víspera del inicio del contrato si nunca se liquidaron&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Corte de intereses&lt;/td&gt;
-&lt;td&gt;Normalmente el mismo del corte de cesantías&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Corte de prima&lt;/td&gt;
-&lt;td&gt;El 30 de junio o el 31 de diciembre anterior, según corresponda&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Corte de vacaciones&lt;/td&gt;
-&lt;td&gt;El último día del periodo de vacaciones ya disfrutado o compensado&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;Si una fecha de corte es posterior a la terminación o anterior al inicio del contrato, el liquidador lo advierte en lugar de devolver un resultado.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Liquidacion_de_trabajadores_por_dias"&gt;Liquidación de trabajadores por días.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Quien trabaja solo algunos días de la semana tiene derecho a todas las &lt;a href="https://www.gerencie.com/prestaciones-sociales.html" title="Prestaciones sociales"&gt;prestaciones sociales&lt;/a&gt;, en proporción a lo que devenga. Lo que cambia es la forma de obtener la base mensual, que se construye a partir del salario diario. Veamos sus tres componentes.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Dias_trabajados_en_el_mes"&gt;Días trabajados en el mes.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Si se trabaja un número fijo de días a la semana, los días del mes se obtienen multiplicando por 30/7, es decir, por 4,286 semanas en un mes laboral de 30 días. Quien trabaja dos días a la semana labora en promedio 8,57 días al mes. Se usa 30/7 y no 4,33, porque las prestaciones se liquidan en año de 360 días. Si los días varían, se pueden escribir directamente los días trabajados en el mes.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Descanso_dominical_proporcional"&gt;Descanso dominical proporcional.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;El numeral 5 del artículo &lt;a href="http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr005.html#173" target="_blank" rel="noopener noreferrer"&gt;173&lt;/a&gt; del Código Sustantivo del Trabajo reconoce el descanso dominical «en proporción al tiempo laborado» a quien trabaja menos de la semana completa. En la práctica, por cada día trabajado se causa un sexto de día adicional, de modo que el salario diario se multiplica por 7/6. Lo explicamos en &lt;a href="https://www.gerencie.com/descanso-dominical-remunerado.html"&gt;descanso dominical remunerado&lt;/a&gt;. El liquidador lo incluye por defecto, salvo que el salario diario pactado ya lo comprenda.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Auxilio_de_transporte_por_dia_trabajado"&gt;Auxilio de transporte por día trabajado.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;El auxilio de transporte se paga por los días efectivamente trabajados: el auxilio mensual dividido entre 30, por cada día laborado. Entra en la base de las cesantías, los intereses y la prima, pero no en la de las &lt;a href="https://www.gerencie.com/vacaciones-laborales.html" title="Vacaciones laborales"&gt;vacaciones&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;&lt;span id="Ejemplo_de_liquidacion_por_dias"&gt;Ejemplo de liquidación por días.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Supongamos una empleada del servicio doméstico que gana &lt;strong&gt;$100.000&lt;/strong&gt; por día, trabaja 5 días al mes y se retira después de 180 días, en 2026, sin que le hayan liquidado nada:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Salario mensual con dominical: $100.000 × 7/6 × 5 = &lt;strong&gt;$583.333&lt;/strong&gt;, que es la base de las vacaciones.&lt;/li&gt;
-&lt;li&gt;Base de prima y cesantías: $583.333 más el auxilio de transporte de 5 días ($249.095 ÷ 30 × 5 = $41.516), es decir, $624.849.&lt;/li&gt;
-&lt;li&gt;Prima y cesantías: base × 180 ÷ 360, la mitad de la base mensual cada una; intereses: cesantías × 180 × 12 % ÷ 360.&lt;/li&gt;
-&lt;li&gt;Vacaciones: $583.333 ÷ 30 × 7,5 días hábiles = &lt;strong&gt;$145.833&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;La prima y las cesantías son de $312.425 cada una, los intereses de $18.745 y el total, de &lt;strong&gt;$789.428&lt;/strong&gt;. Un error frecuente es liquidar las prestaciones sobre los días efectivamente trabajados en el periodo (30 en seis meses) y además sobre la base mensual, lo que aplica la proporcionalidad dos veces. El método completo está en &lt;a href="https://www.gerencie.com/liquidacion-de-prestaciones-sociales-cuando-se-trabaja-por-dias.html"&gt;liquidación de prestaciones sociales cuando se trabaja por días&lt;/a&gt;.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
-
-
-&lt;/div&gt;
-&lt;h3&gt;&lt;span id="Aportes_del_trabajador_por_dias"&gt;Aportes del trabajador por días.&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Cuando el trabajador por días devenga menos de un &lt;a href="https://www.gerencie.com/salario.html" title="Salario: qué es y qué pagos lo constituyen"&gt;salario&lt;/a&gt; mínimo al mes, sus aportes a pensión y caja de compensación se liquidan por semanas cotizadas, y la ARL sobre un salario mínimo, según los artículos 2.2.1.6.4.5 y siguientes del Decreto 1072 de 2015 y la Circular 093 de 2025 del Ministerio del Trabajo. Por eso el liquidador no descuenta aportes en este modo.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Cuanto_es_la_liquidacion_de_un_mes_de_trabajo"&gt;Cuánto es la liquidación de un mes de trabajo.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Es una de las consultas más frecuentes. Supongamos un trabajador con salario de &lt;strong&gt;$5.000.000&lt;/strong&gt;, sin auxilio de transporte, que trabajó un mes completo y se retira sin que le hayan pagado ese mes:&lt;/p&gt;
-&lt;div class="tabla-scroll"&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Concepto&lt;/th&gt;
-&lt;th&gt;Valor&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Salario del mes (30 días)&lt;/td&gt;
-&lt;td&gt;$5.000.000&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Cesantías: 5.000.000 × 30 ÷ 360&lt;/td&gt;
-&lt;td&gt;$416.667&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Intereses: 416.667 × 30 × 12 % ÷ 360&lt;/td&gt;
-&lt;td&gt;$4.167&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Prima: 5.000.000 × 30 ÷ 360&lt;/td&gt;
-&lt;td&gt;$416.667&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Vacaciones: 5.000.000 ÷ 30 × 1,25 días&lt;/td&gt;
-&lt;td&gt;$208.333&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Total&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;$6.045.833&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;Sin contar el salario, las prestaciones de un mes equivalen a cerca del 21 % del salario mensual, más el auxilio de transporte en las cesantías y la prima cuando aplica. Del total se descuentan los aportes del trabajador sobre el salario del mes.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Salario_integral"&gt;Salario integral.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;El salario integral compensa de antemano las prestaciones sociales, según el artículo &lt;a href="http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr003.html#132" target="_blank" rel="noopener noreferrer"&gt;132&lt;/a&gt; del Código Sustantivo del Trabajo, de modo que al terminar el contrato solo se liquidan el salario pendiente y las vacaciones no disfrutadas, sobre el total del salario integral. Los aportes se calculan sobre el 70 % del salario.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Los_intereses_sobre_cesantias"&gt;Los intereses sobre cesantías.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Es el concepto que más errores genera, incluso en liquidaciones hechas por profesionales.&lt;/p&gt;
-&lt;p&gt;Los intereses no se calculan sobre el salario, sino sobre las &lt;strong&gt;cesantías ya causadas&lt;/strong&gt;. Así lo dispone el artículo 1 de la Ley 52 de 1975, que reconoce al trabajador un &lt;strong&gt;12 % anual&lt;/strong&gt; sobre el saldo de cesantías, o proporcional por fracción:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Intereses = cesantías × días × 12 % ÷ 360&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Supongamos un trabajador con salario de $3.000.000 más auxilio de transporte de $200.000, que trabajó seis meses sin que le liquidaran nada:&lt;/p&gt;
-&lt;div class="tabla-scroll"&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Paso&lt;/th&gt;
-&lt;th&gt;Cálculo&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Base&lt;/td&gt;
-&lt;td&gt;3.000.000 + 200.000 = 3.200.000&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Cesantías (180 días)&lt;/td&gt;
-&lt;td&gt;3.200.000 × 180 ÷ 360 = 1.600.000&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Intereses&lt;/td&gt;
-&lt;td&gt;1.600.000 × 180 × 12 % ÷ 360 = 96.000&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;
-&lt;p&gt;El error frecuente consiste en aplicar el 12 % directamente al salario, lo que arrojaría $192.000 en este ejemplo: &lt;strong&gt;el doble de lo debido&lt;/strong&gt;. La desviación crece cuanto más corto es el periodo, porque en un año completo ambas fórmulas coinciden y el error pasa inadvertido.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Como_se_cuentan_los_dias"&gt;Cómo se cuentan los días.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;El liquidador usa el año comercial de 360 días que emplean las normas laborales: cada mes vale 30 días, el día 31 no se cuenta y el último día de febrero vale 30. Quien trabaja febrero completo causa el mismo tiempo que quien trabaja marzo, como lo explicamos en &lt;a href="https://www.gerencie.com/para-efectos-laborales-el-mes-se-entiende-de-30-dias.html"&gt;para efectos laborales el mes se entiende de 30 días&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Las fechas de corte no se cuentan como día causado, porque corresponden a un periodo ya liquidado: el conteo empieza al día siguiente.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Aportes_y_exoneracion"&gt;Aportes y exoneración.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;La casilla de exoneración se refiere al artículo &lt;a href="https://normograma.dian.gov.co/dian/compilacion/docs/estatuto_tributario.htm#114-1" target="_blank" rel="noopener noreferrer"&gt;114-1&lt;/a&gt; del Estatuto Tributario, que &lt;a href="https://www.gerencie.com/exoneracion-de-aportes-a-seguridad-social-y-parafiscales.html"&gt;exonera del pago de SENA, ICBF y del aporte patronal en salud&lt;/a&gt; respecto de los trabajadores que devenguen menos de 10 salarios mínimos. La caja de compensación no está exonerada.&lt;/p&gt;
-&lt;p&gt;El nivel de riesgo de la ARL determina la tarifa del empleador; los porcentajes del liquidador son los valores iniciales de cada clase. Los &lt;a href="https://www.gerencie.com/aportes-a-seguridad-social.html" title="Aportes a seguridad social"&gt;aportes a seguridad social&lt;/a&gt; (salud, pensión y ARL) se calculan sobre el salario del último periodo. Sobre las vacaciones compensadas se pagan aportes parafiscales (caja de compensación, SENA e ICBF), pero no aportes a seguridad social, y el liquidador los incluye. Las cesantías, los intereses y la prima no son base de aportes, y el auxilio de transporte tampoco.&lt;/p&gt;
-&lt;p&gt;Al trabajador se le descuentan el &lt;strong&gt;4 %&lt;/strong&gt; de salud, el &lt;strong&gt;4 %&lt;/strong&gt; de pensión y, si su salario llega a cuatro salarios mínimos, el aporte al fondo de solidaridad pensional. Por eso el neto es menor que el total.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Revisar_descontar_e_imprimir"&gt;Revisar, descontar e imprimir.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Cada concepto del resultado tiene un enlace «Ver cálculo» con la operación exacta, para contrastarla con la liquidación de la empresa. Si hay diferencias, revise en este orden: los días, que dependen de las fechas de corte; la base, para verificar si el auxilio de transporte entra o no; y el divisor.&lt;/p&gt;
-&lt;p&gt;El campo de otros descuentos permite restar préstamos, libranzas y embargos. Esos descuentos requieren autorización escrita del trabajador u orden judicial, según los artículos &lt;a href="http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo_pr004.html#149" target="_blank" rel="noopener noreferrer"&gt;149&lt;/a&gt; y siguientes del Código Sustantivo del Trabajo.&lt;/p&gt;
-&lt;p&gt;El resultado se puede imprimir o guardar en PDF, con el nombre del trabajador y del empleador si se escriben. Es una estimación y no reemplaza la liquidación del empleador, pero sirve para sustentar una reclamación.&lt;/p&gt;
-&lt;h2&gt;&lt;span id="Que_no_calcula_el_liquidador"&gt;Qué no calcula el liquidador.&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;No calcula la indemnización por despido sin justa causa, porque depende del tipo de contrato y del tiempo servido; si se marca esa causa, el resultado remite a la &lt;a href="https://www.gerencie.com/calculadora-indemnizacion-por-despido-sin-justa-causa.html"&gt;calculadora de indemnización por despido sin justa causa&lt;/a&gt;. Tampoco calcula la indemnización moratoria, las horas extras y recargos pendientes ni los pagos extralegales.&lt;/p&gt;
-&lt;div class="pf"&gt;&lt;h2&gt;&lt;span id="Preguntas_frecuentes"&gt;Preguntas frecuentes.&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;
-&lt;p&gt;A continuación respondemos las preguntas frecuentes de nuestros lectores.&lt;/p&gt;
-&lt;div class="faq-container" itemscope itemtype="https://schema.org/FAQPage"&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_liquidador_sirve_para_renuncia_y_para_despido"&gt;¿El liquidador sirve para renuncia y para despido?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. Los conceptos son los mismos cualquiera que sea la causa. Lo único que cambia es la indemnización, que solo se causa en el &lt;a href="https://www.gerencie.com/terminacion-del-contrato-de-trabajo-sin-justa-causa.html" title="Despido sin justa causa"&gt;despido sin justa causa&lt;/a&gt; y se calcula aparte.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Si_trabajo_por_dias_tengo_derecho_a_liquidacion"&gt;¿Si trabajo por días tengo derecho a liquidación?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Sí. Quien trabaja por días tiene derecho a cesantías, intereses, prima y vacaciones, en proporción a lo que devenga.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Como_se_liquida_a_una_empleada_domestica_por_dias"&gt;¿Cómo se liquida a una empleada doméstica por días?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Con el salario diario multiplicado por los días trabajados en el mes, más el dominical proporcional y el auxilio de transporte de los días trabajados. Use el modo «Por días» del liquidador.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Cuanto_es_la_liquidacion_de_un_mes_de_trabajo-2"&gt;¿Cuánto es la liquidación de un mes de trabajo?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Además del salario del mes, cerca del 21 % del salario en prestaciones: con $5.000.000, unos $1.045.833.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Que_fecha_pongo_si_nunca_me_han_liquidado_las_cesantias"&gt;¿Qué fecha pongo si nunca me han liquidado las cesantías?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;En el modo simple no hace falta. En el avanzado, la víspera de la fecha de inicio del contrato.&lt;/p&gt;&lt;div class ="vb-ads"&gt;
-
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Por_que_me_da_menos_de_lo_que_esperaba"&gt;¿Por qué me da menos de lo que esperaba?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Depende. Las causas más frecuentes son una fecha de corte posterior a la real, olvidar que el auxilio de transporte no entra en las vacaciones o no tener en cuenta los aportes que se descuentan.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="El_resultado_incluye_la_indemnizacion_por_despido"&gt;¿El resultado incluye la indemnización por despido?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;No. La indemnización tiene su propia calculadora.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="Me_pueden_descontar_un_prestamo_de_la_liquidacion"&gt;¿Me pueden descontar un préstamo de la liquidación?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;Solo con su autorización escrita o con orden judicial.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"&gt;&lt;h3 class="faq-question" itemprop="name"&gt;&lt;span id="En_cuanto_tiempo_me_deben_pagar_la_liquidacion"&gt;¿En cuánto tiempo me deben pagar la liquidación?&lt;/span&gt;&lt;/h3&gt;&lt;div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"&gt;&lt;div itemprop="text"&gt;&lt;p&gt;El día en que termina el contrato. El retardo puede generar la &lt;a href="https://www.gerencie.com/liquidador-indemnizacion-moratoria-por-no-pagar-la-liquidacion.html"&gt;indemnización moratoria&lt;/a&gt; del artículo 65 del Código Sustantivo del Trabajo.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;aside class="ads-gerencie"
-           data-producto="19"
-           aria-label="Producto de Gerencie.com"&gt;
-        &lt;a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidador-de-intereses-propiedad-horizontal"&gt;Liquidador de intereses propiedad horizontal&lt;/a&gt;
-                
-                            &lt;a class="ads-gerencie__enlace"
-               href="https://www.gerencie.com/liquidador-de-intereses-propiedad-horizontal"
-               aria-label="Liquidar intereses: Liquidador de intereses propiedad horizontal"&gt;Liquidar intereses&lt;/a&gt;
-            &lt;/aside&gt;&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Cómo encontrar contenido laboral en Actualícese [Actualícese Video]</title>
