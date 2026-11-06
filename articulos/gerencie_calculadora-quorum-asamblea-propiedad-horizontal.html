@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calculadora de quórum y mayorías para la asamblea de copropietarios [Gerencie.com] — Finanzas y Contabilidad</title>
+  <meta name="description" content="Calculadora gratuita de quórum y mayorías para la asamblea de copropietarios: cargue las unidades en Excel y sepa si cada decisión quedó aprobada.">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Calculadora de quórum y mayorías para la asamblea de copropietarios [Gerencie.com]">
+  <meta property="og:description" content="Calculadora gratuita de quórum y mayorías para la asamblea de copropietarios: cargue las unidades en Excel y sepa si cada decisión quedó aprobada.">
+  <meta property="og:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-quorum-asamblea-propiedad-hor.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/gerencie_calculadora-quorum-asamblea-propiedad-horizontal.html">
+  <meta property="og:site_name" content="Finanzas y Contabilidad">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Calculadora de quórum y mayorías para la asamblea de copropietarios [Gerencie.com]">
+  <meta name="twitter:description" content="Calculadora gratuita de quórum y mayorías para la asamblea de copropietarios: cargue las unidades en Excel y sepa si cada decisión quedó aprobada.">
+  <meta name="twitter:image" content="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-quorum-asamblea-propiedad-hor.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/gerencie_calculadora-quorum-asamblea-propiedad-horizontal.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.1rem;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .action-bar {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .action-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .action-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    .article-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+    }
+    .article-content th, .article-content td {
+      padding: 8px 12px;
+      border: 1px solid #30363d;
+    }
+    .article-content th {
+      background: #161b22;
+      color: #f0f6fc;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="brand">
+        <span>💼 Finanzas y Contabilidad</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Calculadora de quórum y mayorías para la asamblea de copropietarios [Gerencie.com]</h1>
+        <div class="metadata">
+          <span>Por <strong>Gerencie.com</strong></span>
+          <time datetime="2026-11-05T13:06:41+00:00">2026-11-05</time>
+        </div>
+
+        <p><img src="https://alvypender.github.io/feeds/posters/finanzas_gerencie_calculadora-quorum-asamblea-propiedad-hor.jpg" alt="Calculadora de quórum y mayorías para la asamblea de copropietarios [Gerencie.com]"></p>
+
+        <div class="action-bar">
+  <a href="https://www.gerencie.com/calculadora-quorum-asamblea-propiedad-horizontal.html" target="_blank" rel="noopener noreferrer" class="action-button">▶ Leer artículo completo en Gerencie.com ↗</a>
+</div>
+
+        <div class="article-content">
+          <div class="gcal-tabs" role="tablist" aria-label="Pasos de la calculadora">
+                                <button type="button" class="gcal-tab" role="tab" id="gph-quorum-1-tab-config" data-tab="config" aria-controls="gph-quorum-1-panel-config" aria-selected="true" tabindex="0"><b>1. Reunión</b><small>Tipo y modalidad</small></button>
+                                <button type="button" class="gcal-tab" role="tab" id="gph-quorum-1-tab-unidades" data-tab="unidades" aria-controls="gph-quorum-1-panel-unidades" aria-selected="false" tabindex="-1"><b>2. Unidades</b><small>Coeficientes y asistencia</small></button>
+                                <button type="button" class="gcal-tab" role="tab" id="gph-quorum-1-tab-quorum" data-tab="quorum" aria-controls="gph-quorum-1-panel-quorum" aria-selected="false" tabindex="-1"><b>3. Quórum</b><small>Para sesionar</small></button>
+                                <button type="button" class="gcal-tab" role="tab" id="gph-quorum-1-tab-votos" data-tab="votos" aria-controls="gph-quorum-1-panel-votos" aria-selected="false" tabindex="-1"><b>4. Votaciones</b><small>Mayoría de cada decisión</small></button>
+                                <button type="button" class="gcal-tab" role="tab" id="gph-quorum-1-tab-reporte" data-tab="reporte" aria-controls="gph-quorum-1-panel-reporte" aria-selected="false" tabindex="-1"><b>5. Reporte</b><small>Resumen y descargas</small></button>
+                            </div>
+            <div class="gcal-aviso gph-msg" data-gph-msg role="status" aria-live="polite" hidden></div>
+                        <div class="gph-panel" role="tabpanel" id="gph-quorum-1-panel-config" aria-labelledby="gph-quorum-1-tab-config" data-panel="config">
+                <p class="gcal-txt">Cargando la calculadora…</p>            </div>
+                        <div class="gph-panel" role="tabpanel" id="gph-quorum-1-panel-unidades" aria-labelledby="gph-quorum-1-tab-unidades" data-panel="unidades" hidden>
+                            </div>
+                        <div class="gph-panel" role="tabpanel" id="gph-quorum-1-panel-quorum" aria-labelledby="gph-quorum-1-tab-quorum" data-panel="quorum" hidden>
+                            </div>
+                        <div class="gph-panel" role="tabpanel" id="gph-quorum-1-panel-votos" aria-labelledby="gph-quorum-1-tab-votos" data-panel="votos" hidden>
+                            </div>
+                        <div class="gph-panel" role="tabpanel" id="gph-quorum-1-panel-reporte" aria-labelledby="gph-quorum-1-tab-reporte" data-panel="reporte" hidden>
+                            </div>
+                        <p class="gcal-pie-t">Los datos se procesan solo en su navegador y se guardan temporalmente en este equipo para que no pierda el trabajo. No se envían a Gerencie.com.</p>
+        </div>
+        
+<aside class="ads-gerencie"
+           data-producto="19"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/liquidador-de-intereses-propiedad-horizontal">Liquidador de intereses propiedad horizontal</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/liquidador-de-intereses-propiedad-horizontal"
+               aria-label="Liquidar intereses: Liquidador de intereses propiedad horizontal">Liquidar intereses</a>
+            </aside><h2><span id="Que_hace_la_calculadora">Qué hace la calculadora.</span></h2>
+<p>La calculadora reproduce el ejercicio que deben hacer el presidente y el secretario de la asamblea: contar quién está presente, verificar si hay quórum y aplicar a cada votación la mayoría que exige la ley.</p>
+<p>Para ello aplica estas reglas:</p>
+<ul>
+<li>El quórum para sesionar de la primera convocatoria y de la segunda convocatoria o la reunión por derecho propio.</li>
+<li>La mayoría ordinaria del artículo 45, calculada sobre los coeficientes representados en cada votación.</li>
+<li>La regla de una unidad, un voto para las decisiones sin contenido económico en copropiedades de vivienda, que proviene de la sentencia C-522 de 2002.</li>
+<li>La mayoría calificada del 70 % de las diez decisiones del artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#46" target="_blank" rel="noopener noreferrer">46</a>, y la prohibición de adoptarlas en reuniones no presenciales.</li>
+<li>El tope del 70 % para las mayorías especiales que fije el reglamento, salvo la extinción de la propiedad horizontal.</li>
+</ul>
+<p>Todos los cálculos se hacen en su navegador. No necesita registrarse y la información que digite no se envía a Gerencie.com. El trabajo queda guardado en su equipo, de modo que si recarga la página no lo pierde.</p>
+<p>El fundamento de cada regla lo explicamos en detalle en el artículo sobre <a href="https://www.gerencie.com/quorum-y-mayorias-en-la-propiedad-horizontal.html">quórum y mayorías en la propiedad horizontal</a>.</p>
+<h2><span id="Como_usar_la_calculadora">Cómo usar la calculadora.</span></h2>
+<p>La calculadora está organizada en cinco pestañas que se recorren en orden. Cada una tiene un botón al final para pasar a la siguiente.</p>
+<h3><span id="Paso_1_Datos_de_la_reunion">Paso 1. Datos de la reunión.</span></h3>
+<p>En la primera pestaña se definen las condiciones de la asamblea, porque de ellas depende qué quórum se exige y qué decisiones pueden adoptarse:</p>
+<ul>
+<li><strong>Uso de la copropiedad.</strong> Vivienda, comercial o mixto. Si es de vivienda, la calculadora aplica la regla de una unidad, un voto a las decisiones sin contenido económico.</li>
+<li><strong>Tipo de reunión.</strong> Primera convocatoria, ordinaria o extraordinaria; segunda convocatoria del artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#41" target="_blank" rel="noopener noreferrer">41</a>, o reunión por derecho propio del artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#39" target="_blank" rel="noopener noreferrer">39</a>.</li>
+<li>Presencial, mixta o no presencial. En la no presencial la calculadora no permite aprobar las decisiones del artículo 46.</li>
+<li><strong>Total de coeficientes.</strong> Por regla general es 100 %. Solo cámbielo si el reglamento expresa los coeficientes sobre otra base.</li>
+</ul>
+<p>El nombre de la copropiedad y la fecha son opcionales y sirven para identificar el reporte.</p>
+<h3><span id="Paso_2_Unidades_y_asistencia">Paso 2. Unidades y asistencia.</span></h3>
+<p>En la segunda pestaña se registran todas las unidades privadas con su coeficiente, y no solo las que asisten. Sin el listado completo no es posible verificar que los coeficientes sumen el 100 %.</p>
+<p>Hay dos formas de hacerlo. La primera es agregar las unidades una a una con el botón «Agregar unidad». La segunda, más práctica en conjuntos grandes, es usar la plantilla de Excel:</p>
+<ol>
+<li>Haga clic en «Descargar plantilla de Excel».</li>
+<li>En la hoja «Unidades» registre una fila por cada unidad: apartamento, casa, local, parqueadero o depósito que tenga coeficiente propio.</li>
+<li>Escriba el coeficiente en porcentaje, por ejemplo 1,2345. La celda R1 suma los coeficientes para que verifique que dan 100.</li>
+<li>En la columna «Asistencia» elija Presencial, Virtual o No asiste. Quien asiste con poder se marca como presente y se anota el nombre del apoderado.</li>
+<li>Si ya conoce los votos, regístrelos en las columnas D1 a D10. Si no, déjelas vacías y regístrelos después en la calculadora.</li>
+<li>En la hoja «Decisiones» describa cada decisión y elija su tipo de la lista.</li>
+<li>Guarde el archivo y cárguelo con el botón «Cargar archivo de Excel».</li>
+</ol>
+<p>La plantilla acepta también coeficientes expresados como fracción, por ejemplo 0,012345: si la suma da 1, la calculadora los convierte a porcentaje. No cambie los nombres de las hojas ni de las columnas, porque la calculadora los usa para leer el archivo.</p><div class ="vb-ads">
+
+
+</div>
+<p>Recordemos quiénes suman para el quórum: los propietarios y quienes asisten con poder de ellos. El arrendatario sin poder no vota ni suma coeficientes, aunque puede asistir y ser oído.</p>
+<h3><span id="Paso_3_Verificacion_del_quorum">Paso 3. Verificación del quórum.</span></h3>
+<p>La tercera pestaña indica si hay quórum para sesionar y muestra las cifras que lo soportan: unidades presentes, propietarios distintos presentes y coeficientes representados.</p>
+<p>Además, advierte de antemano si con los asistentes es posible aprobar una decisión del artículo 46. Si están presentes menos del 70 % de los coeficientes, esa decisión no podrá aprobarse aunque todos voten a favor, y conviene no incluirla en la votación.</p>
+<h3><span id="Paso_4_Votaciones">Paso 4. Votaciones.</span></h3>
+<p>En la cuarta pestaña se registra cada decisión. Para cada una debe elegir el tipo, porque el tipo determina la mayoría:</p>
+<div class="tabla-scroll"><table>
+<thead>
+<tr>
+<th>Tipo de decisión</th>
+<th>Ejemplos</th>
+<th>Mayoría que aplica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ordinaria con contenido económico</td>
+<td>Presupuesto, estados financieros, cuotas ordinarias</td>
+<td>Mitad más uno de los coeficientes representados</td>
+</tr>
+<tr>
+<td>Ordinaria sin contenido económico</td>
+<td>Elección del consejo, reglas de convivencia, horarios</td>
+<td>En vivienda, mitad más uno de las unidades representadas; en lo demás, de los coeficientes</td>
+</tr>
+<tr>
+<td>Artículo 46</td>
+<td>Reforma del reglamento, cuota extraordinaria que supera cuatro veces las expensas mensuales, desafectación de bienes comunes</td>
+<td>70 % del total de coeficientes del edificio o conjunto</td>
+</tr>
+<tr>
+<td>Mayoría especial del reglamento</td>
+<td>La que fije el reglamento para ciertos asuntos</td>
+<td>La del reglamento, con un tope del 70 %</td>
+</tr>
+<tr>
+<td>Extinción de la propiedad horizontal</td>
+<td>Disolución por las causales del artículo 9</td>
+<td>La que fije el reglamento</td>
+</tr>
+</tbody>
+</table></div>
+<p>Luego registre el voto de cada unidad presente: a favor, en contra, abstención o retirado. Los botones «Todos a favor» y «Todos en contra» agilizan las votaciones casi unánimes; después basta corregir las excepciones.</p>
+<p>Conviene distinguir dos opciones que parecen iguales y no lo son. La <strong>abstención</strong> mantiene la unidad dentro de la base de la votación, de modo que en la práctica cuenta como un voto que no suma a favor. El <strong>retiro</strong> saca la unidad de la base, porque quien abandonó la reunión ya no está representado cuando se vota.</p>
+<p>Puede agregar tantas decisiones como necesite con el botón «+ Decisión». Cada una aparece como una etiqueta de color: verde si fue aprobada y roja si no lo fue.</p>
+<h3><span id="Paso_5_Reporte">Paso 5. Reporte.</span></h3>
+<p>La última pestaña resume la reunión y el resultado de cada decisión. Puede imprimirlo o guardarlo en PDF, y descargar un archivo de Excel con tres hojas: quórum, decisiones y voto de cada unidad.</p>
+<p>Ese archivo es un buen soporte para el secretario, porque el artículo <a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001_pr001.html#47" target="_blank" rel="noopener noreferrer">47</a> de la ley 675 de 2001 exige que el acta deje constancia del nombre y la calidad de los asistentes, su unidad privada, su coeficiente y los votos emitidos en cada caso. El contenido completo del acta lo explicamos en el artículo sobre las <a href="https://www.gerencie.com/actas-de-la-asamblea-general-de-copropietarios.html">actas de la asamblea general de copropietarios</a>.</p>
+<h2><span id="Como_interpretar_los_resultados">Cómo interpretar los resultados.</span></h2>
+<p>La calculadora entrega dos tipos de resultado: el del quórum y el de cada decisión, acompañados de alertas cuando hay algo que revisar.</p>
+<h3><span id="El_resultado_del_quorum">El resultado del quórum.</span></h3>
+<p><strong>Hay quórum para sesionar.</strong> La asamblea puede instalarse y deliberar. En primera convocatoria significa que están presentes o representados más de la mitad de los coeficientes y al menos dos propietarios distintos.</p>
+<p><strong>No hay quórum para sesionar.</strong> La reunión no puede instalarse. La calculadora indica cuántos coeficientes faltaron. En ese caso procede la reunión de segunda convocatoria el tercer <a href="https://www.gerencie.com/dia-habil-laboral.html" title="¿Qué son los días hábiles?">día hábil</a> siguiente al de la convocatoria inicial, a las 8:00 p. m., siempre que esa advertencia figurara en la primera convocatoria.</p>
+<p>En segunda convocatoria y por derecho propio basta un número plural de propietarios, cualquiera que sea el porcentaje que representen, de modo que el resultado solo será negativo si asiste un único propietario.</p>
+<h3><span id="El_resultado_de_cada_decision">El resultado de cada decisión.</span></h3>
+<p>Cada decisión puede quedar en uno de cuatro estados:</p>
+<ul>
+<li>Obtuvo la mayoría exigida. La calculadora muestra los coeficientes o las unidades a favor frente a lo requerido.</li>
+<li><strong>No aprobada.</strong> No alcanzó la mayoría. La calculadora indica cuánto faltó, en coeficientes o en unidades, lo que permite saber si la diferencia fue estrecha.</li>
+<li><strong>No permitida en esta modalidad.</strong> Es una decisión del artículo 46 que se intentó adoptar en una reunión no presencial, lo que prohíbe el parágrafo de ese artículo.</li>
+<li><strong>Sin quórum.</strong> La reunión no estaba válidamente instalada, de modo que no hay decisión de la asamblea.</li>
+</ul>
+<p>Tenga en cuenta que la mayoría ordinaria exige superar la mitad: si los coeficientes representados son 60 %, se necesita más del 30 %, no exactamente el 30 %. Un empate es, por lo tanto, una decisión no aprobada.</p>
+<h3><span id="Las_alertas">Las alertas.</span></h3>
+<p>Debajo de cada resultado pueden aparecer alertas en un recuadro amarillo. No cambian el resultado, pero señalan riesgos que conviene atender antes de cerrar el acta:</p>
+<ul>
+<li><strong>La suma de coeficientes no da 100 %.</strong> Falta alguna unidad o hay un coeficiente mal digitado. Mientras no se corrija, los porcentajes pueden estar errados.</li>
+<li><strong>Hay unidades presentes sin voto registrado.</strong> Se cuentan como representadas que no votaron a favor. Si en realidad se retiraron, márquelas como retiradas.</li>
+<li><strong>Las unidades presentes no superan la mitad del total.</strong> Aplica a las decisiones sin contenido económico en vivienda. De acuerdo con nuestro criterio, en esas decisiones el quórum también debería verificarse por unidades.</li>
+<li><strong>Los coeficientes presentes son inferiores al 70 %.</strong> La decisión del artículo 46 no puede aprobarse con los asistentes.</li>
+<li><strong>El voto presencial no alcanza el 70 % en reunión mixta.</strong> La decisión cumple la mayoría, pero parte de los votos fueron virtuales. De acuerdo con nuestro criterio, lo prudente es que el 70 % vote estando presente, para que no se discuta que la decisión se tomó en reunión no presencial.</li>
+<li><strong>El reglamento exige más del 70 %.</strong> Esa mayoría se tiene por no escrita y la calculadora aplica el 70 %, conforme al artículo 45.</li>
+</ul>
+<p>Si una decisión se aprueba con una diferencia mínima y hay votos dudosos —un poder sin firma, un propietario que ya vendió—, conviene revisarlos antes de cerrar el acta, porque son el tipo de defecto que da pie a una <a href="https://www.gerencie.com/impugnacion-de-las-decisiones-de-la-asamblea-de-copropietarios.html">impugnación</a>.</p>
+<h2><span id="Ejemplo_de_uso">Ejemplo de uso.</span></h2>
+<p><strong>Supongamos que…</strong> un conjunto de vivienda tiene 20 apartamentos, cada uno con un coeficiente del <strong>5 %</strong>, y celebra su asamblea ordinaria en primera convocatoria y de forma mixta. Asisten 12 apartamentos: 10 de manera presencial y 2 de manera virtual.</p>
+<p><strong>Quórum.</strong> Los presentes representan el <strong>60 %</strong> de los coeficientes, que supera la mitad. La calculadora indica que hay quórum para sesionar y advierte que no se podrá aprobar ninguna decisión del artículo 46, porque los asistentes no llegan al 70 %.</p>
+<p><strong>Decisión 1: aprobación del presupuesto.</strong> Votan 7 apartamentos a favor, 3 en contra y 1 se abstiene. El apartamento restante se retiró antes de la votación.</p>
+<div class="tabla-scroll"><table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Unidades</th>
+<th>Coeficientes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A favor</td>
+<td>7</td>
+<td>35 %</td>
+</tr>
+<tr>
+<td>En contra</td>
+<td>3</td>
+<td>15 %</td>
+</tr>
+<tr>
+<td>Abstención</td>
+<td>1</td>
+<td>5 %</td>
+</tr>
+<tr>
+<td>Representados en la votación</td>
+<td>11</td>
+<td>55 %</td>
+</tr>
+</tbody>
+</table></div>
+<p>Como el retirado sale de la base, la mayoría se calcula sobre el 55 %: se requiere más del <strong>27,5 %</strong>, y el 35 % a favor lo supera. La decisión queda aprobada.</p>
+<p><strong>Decisión 2: elección del consejo de administración.</strong> Es una decisión sin contenido económico en un conjunto de vivienda, de modo que se cuenta una unidad, un voto. De las 12 unidades presentes, 6 votan a favor y 6 en contra. Se requieren más de 6 votos favorables, de manera que la decisión no queda aprobada y la calculadora indica que faltó 1 unidad.</p>
+<p><strong>Decisión 3: reforma del reglamento.</strong> Las 12 unidades votan a favor, pero suman el 60 % y el artículo 46 exige el <strong>70 %</strong> del total. La decisión no queda aprobada, aunque nadie votó en contra.</p>
+<h2><span id="Criterios_que_aplica_la_calculadora">Criterios que aplica la calculadora.</span></h2>
+<p>En algunos puntos la ley no es explícita y la calculadora sigue la posición de Gerencie.com. Conviene conocerlos, porque el reglamento de cada copropiedad puede regularlos de otra manera:</p>
+<ul>
+<li>La abstención se mantiene en la base de cálculo de la mayoría ordinaria, y el retiro la reduce.</li>
+<li>La regla de una unidad, un voto se aplica a las decisiones sin contenido económico en copropiedades de vivienda. En las mixtas, la calculadora cuenta por coeficientes y advierte que la regla podría aplicarse a las decisiones que solo afecten la vivienda.</li>
+<li>Los propietarios en mora votan y suman al quórum, salvo que el reglamento haya limitado ese derecho.</li>
+<li>Para el quórum se cuentan propietarios distintos, de modo que quien tiene varias unidades suma los coeficientes de todas, pero cuenta como un solo propietario para el número plural.</li>
+</ul>
+<p>La calculadora es una herramienta de apoyo. La calificación del tipo de cada decisión y la validez de los poderes corresponden al presidente de la asamblea, y el resultado debe quedar en el acta.</p>
+<div class="pf"><h2><span id="Preguntas_frecuentes">Preguntas frecuentes.</span></h2></div>
+<p>A continuación respondemos las preguntas frecuentes sobre el uso de la calculadora.</p>
+<div class="faq-container" itemscope itemtype="https://schema.org/FAQPage"><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Necesito_registrarme_para_usar_la_calculadora">¿Necesito registrarme para usar la calculadora?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No. Es de uso libre y todos los cálculos se hacen en su navegador. La información no se envía a Gerencie.com.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Se_guardan_los_datos_que_digito">¿Se guardan los datos que digito?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Sí, pero solo en su equipo, para que no pierda el trabajo si recarga la página. Si usa un computador compartido, borre los datos al terminar con el botón «Borrar todo».</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Debo_registrar_las_unidades_que_no_asistieron">¿Debo registrar las unidades que no asistieron?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Sí. La calculadora necesita el listado completo para verificar que los coeficientes sumen 100 % y para calcular las mayorías del artículo 46, que se miden sobre el total del edificio o conjunto.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Como_registro_a_quien_asiste_con_poder">¿Cómo registro a quien asiste con poder?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Marque la unidad como presente y escriba el nombre del apoderado en la columna correspondiente. El voto se registra a nombre de la unidad representada.</p><div class ="vb-ads">
+
+
+</div>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Que_diferencia_hay_entre_abstencion_y_retirado">¿Qué diferencia hay entre abstención y retirado?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Depende de si la persona sigue en la reunión. Quien se abstiene sigue representado y su coeficiente cuenta en la base de la votación; quien se retiró sale de la base.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Puedo_usar_la_calculadora_en_una_asamblea_virtual">¿Puedo usar la calculadora en una asamblea virtual?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Sí. Elija la modalidad no presencial y marque a los asistentes como virtuales. La calculadora no permitirá aprobar las decisiones del artículo 46, que no pueden adoptarse en esas reuniones.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="Por_que_no_se_aprobo_una_decision_que_nadie_voto_en_contra">¿Por qué no se aprobó una decisión que nadie votó en contra?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>Porque las decisiones del artículo 46 exigen el voto favorable del 70 % de los coeficientes de todo el edificio o conjunto, no de los asistentes. Si los presentes suman menos de ese porcentaje, no alcanzan la mayoría aunque voten todos a favor.</p>
+</div></div></div><div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 class="faq-question" itemprop="name"><span id="El_resultado_de_la_calculadora_reemplaza_el_acta">¿El resultado de la calculadora reemplaza el acta?</span></h3><div class="faq-answer" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><div itemprop="text"><p>No. El reporte es un soporte para elaborarla, pero el acta debe firmarla quien presidió la asamblea y el secretario, con el contenido que exige el artículo 47 de la ley 675 de 2001.</p>
+</div></div></div></div>
+<aside class="ads-gerencie"
+           data-producto="14"
+           aria-label="Producto de Gerencie.com">
+        <a class="ads-gerencie__titulo" href="https://www.gerencie.com/guia-laboral">Guía Laboral 2026</a>
+                
+                            <a class="ads-gerencie__enlace"
+               href="https://www.gerencie.com/guia-laboral"
+               aria-label="Ver la guía: Guía Laboral 2026">Ver la guía</a>
+            </aside></p>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Finanzas y Contabilidad</span>
+      <a href="https://alvypender.github.io/feeds/articulos/gerencie_calculadora-quorum-asamblea-propiedad-horizontal.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
