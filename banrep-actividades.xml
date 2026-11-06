@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>Banrep Cultural – Actividades en Bogotá</title>
 <link href="https://www.banrepcultural.org/actividades"/>
 <id>https://www.banrepcultural.org/actividades</id>
@@ -63,11 +63,12 @@
   <id>https://www.banrepcultural.org/bogota/actividad/oficios-que-sostienen-el-mundo-2</id>
   <published>2026-11-04T14:48:16.451333-05:00</published>
   <updated>2026-11-04T14:48:16.451333-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp" medium="image"/>
-  <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp"/>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_oficios-que-sostienen-el-mundo-2_604701.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/aud_oficios-que-sostienen-el-mundo-2_604701.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_oficios-que-sostienen-el-mundo-2_604701.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_oficios-que-sostienen-el-mundo-2_604701.jpg</webfeeds:featuredImage>
   <summary>Visita guiada por la exposición Y pertenecíamos solo a nosotras mismas. Archivos de mujeres en la BLAA 👤 A cargo de: Por: Manuela Medina Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de exposiciones Categoría: Talleres y clubes, Talleres y clubes » Visita guiada Modalidad: Presencial Público: Jóvenes, Adultos, Investigadores Entrada: Gratuita, </summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp" alt="Visita Guiada a la expo YNPANM BLAA 2026 640x400" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_oficios-que-sostienen-el-mundo-2_604701.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp" alt="Visita Guiada a la expo YNPANM BLAA 2026 640x400" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Visita guiada por la exposición Y pertenecíamos solo a nosotras mismas. Archivos de mujeres en la BLAA&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Por: Manuela Medina&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Lugar:&lt;/strong&gt; Bogotá, Biblioteca Luis Ángel Arango, Sala de exposiciones&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Categoría:&lt;/strong&gt; Talleres y clubes, Talleres y clubes » Visita guiada&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Modalidad:&lt;/strong&gt; Presencial&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Público:&lt;/strong&gt; Jóvenes, Adultos, Investigadores&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Entrada:&lt;/strong&gt; Gratuita, aforo limitado&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Horario:&lt;/strong&gt; Jueves, 3:00 pm - 4:00 pm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fechas de sesiones:&lt;/strong&gt; 2026-12-03 (3:00pm - 4:00pm)&lt;/li&gt;&lt;/ul&gt;
@@ -137,11 +138,12 @@
   <id>https://www.banrepcultural.org/bogota/actividad/mujeres-que-desafiaron-su-tiempo-0</id>
   <published>2026-11-04T14:47:59.451333-05:00</published>
   <updated>2026-11-04T14:47:59.451333-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp" medium="image"/>
-  <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp"/>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_mujeres-que-desafiaron-su-tiempo-0_417868.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/aud_mujeres-que-desafiaron-su-tiempo-0_417868.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_mujeres-que-desafiaron-su-tiempo-0_417868.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_mujeres-que-desafiaron-su-tiempo-0_417868.jpg</webfeeds:featuredImage>
   <summary>Un recorrido por historias de resistencia y autonomía 👤 A cargo de: Visita guiada por la exposición Y pertenecíamos solo a nosotras mismas. Archivos de mujeres en la BLAA Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de exposiciones Categoría: Talleres y clubes, Talleres y clubes » Visita guiada Modalidad: Presencial Público: Jóvenes, Adultos, </summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp" alt="Visita Guiada a la expo YNPANM BLAA 2026 640x400" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_mujeres-que-desafiaron-su-tiempo-0_417868.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp" alt="Visita Guiada a la expo YNPANM BLAA 2026 640x400" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Un recorrido por historias de resistencia y autonomía&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Visita guiada por la exposición Y pertenecíamos solo a nosotras mismas. Archivos de mujeres en la BLAA&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Lugar:&lt;/strong&gt; Bogotá, Biblioteca Luis Ángel Arango, Sala de exposiciones&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Categoría:&lt;/strong&gt; Talleres y clubes, Talleres y clubes » Visita guiada&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Modalidad:&lt;/strong&gt; Presencial&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Público:&lt;/strong&gt; Jóvenes, Adultos, Investigadores&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Entrada:&lt;/strong&gt; Gratuita, aforo limitado&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Horario:&lt;/strong&gt; Viernes, 11:30 am - 12:30 pm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fechas de sesiones:&lt;/strong&gt; 2027-01-22 (11:30am - 12:30pm)&lt;/li&gt;&lt;/ul&gt;
@@ -1029,11 +1031,12 @@
   <id>https://www.banrepcultural.org/bogota/actividad/iconicas-y-al-mando-mujeres-mas-alla-del-sufragio-1</id>
   <published>2026-10-24T09:00:04.686906-05:00</published>
   <updated>2026-10-24T09:00:04.686906-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp" medium="image"/>
-  <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp"/>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_iconicas-y-al-mando-mujeres-mas-al_459925.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/aud_iconicas-y-al-mando-mujeres-mas-al_459925.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_iconicas-y-al-mando-mujeres-mas-al_459925.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_iconicas-y-al-mando-mujeres-mas-al_459925.jpg</webfeeds:featuredImage>
   <summary>En apoyo a la exposición Y pertenecíamos solo a nosotras mismas. Archivos de mujeres en la BLAA 👤 A cargo de: Por: Manuela Medina Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de exposiciones Categoría: Talleres y clubes, Talleres y clubes » Visita guiada Modalidad: Presencial Público: Jóvenes, Adultos, Maestros y mediadores, Investigadores Ent</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp" alt="Visita Guiada a la expo YNPANM BLAA 2026 640x400" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_iconicas-y-al-mando-mujeres-mas-al_459925.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Visita_guiada_Expo_YNPANM_BLAA_640x400.webp" alt="Visita Guiada a la expo YNPANM BLAA 2026 640x400" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;En apoyo a la exposición Y pertenecíamos solo a nosotras mismas. Archivos de mujeres en la BLAA&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Por: Manuela Medina&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Lugar:&lt;/strong&gt; Bogotá, Biblioteca Luis Ángel Arango, Sala de exposiciones&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Categoría:&lt;/strong&gt; Talleres y clubes, Talleres y clubes » Visita guiada&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Modalidad:&lt;/strong&gt; Presencial&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Público:&lt;/strong&gt; Jóvenes, Adultos, Maestros y mediadores, Investigadores&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Entrada:&lt;/strong&gt; Gratuita, aforo limitado&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Horario:&lt;/strong&gt; Martes, 3:00 pm - 4:00 pm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Fechas de sesiones:&lt;/strong&gt; 2026-11-24 (3:00pm - 4:00pm)&lt;/li&gt;&lt;/ul&gt;

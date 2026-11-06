@@ -248,8 +248,12 @@
   <id>https://www.eltiempo.com/bogota/arriba-bogota-de-este-viernes-6-de-noviembre-3598915</id>
   <published>2026-11-06T11:21:55+00:00</published>
   <updated>2026-11-06T11:21:55+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_arriba-bogota-de-este-viernes-6-de_961278.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/aud_arriba-bogota-de-este-viernes-6-de_961278.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_arriba-bogota-de-este-viernes-6-de_961278.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_arriba-bogota-de-este-viernes-6-de_961278.jpg</webfeeds:featuredImage>
   <summary>Siga las noticias más destacadas de Bogotá, Colombia y el mundo.</summary>
-  <content type="html">&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Siga las noticias más destacadas de Bogotá, Colombia y el mundo.&lt;/em&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_arriba-bogota-de-este-viernes-6-de_961278.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Siga las noticias más destacadas de Bogotá, Colombia y el mundo.&lt;/em&gt;&lt;/p&gt;
 &lt;h3 style="margin: 1.5em 0 0.5em 0; font-size: 1.25em; color: #0f172a;"&gt;Episodios&lt;/h3&gt;
 &lt;h3 style="margin: 1.5em 0 0.5em 0; font-size: 1.25em; color: #0f172a;"&gt;Citynoticias de las 8 p. m. de este 26 de octubre: Muerte de Donovan Balanta: cuatro policías, a la cárcel&lt;/h3&gt;
 &lt;h3 style="margin: 1.5em 0 0.5em 0; font-size: 1.25em; color: #0f172a;"&gt;Carlos Fernando Galán: Cómo le apuesta Bogotá a la vivienda y la infraestructura&lt;/h3&gt;
