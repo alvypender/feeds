@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Antigravity 2.0: tutorial completo para crear apps, juegos y motion graphics sin saber programar — Frame &amp; Prompt</title>
+  <meta name="description" content="Google Antigravity 2.0 convierte prompts en lenguaje natural en aplicaciones funcionales, juegos y motion graphics sin escribir una línea de código. En este tutorial práctico, Paul J Lipsky demuestra que se puede crear una app de notas tipo Notion con archivos Markdown locales en 15 minutos, un jueg">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Google Antigravity 2.0: tutorial completo para crear apps, juegos y motion graphics sin saber programar">
+  <meta property="og:description" content="Google Antigravity 2.0 convierte prompts en lenguaje natural en aplicaciones funcionales, juegos y motion graphics sin escribir una línea de código. En este tutorial práctico, Paul J Lipsky demuestra que se puede crear una app de notas tipo Notion con archivos Markdown locales en 15 minutos, un jueg">
+  <meta property="og:image" content="https://i.ytimg.com/vi/oBaT-wo9RTY/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-oBaT-wo9RTY.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Google Antigravity 2.0: tutorial completo para crear apps, juegos y motion graphics sin saber programar">
+  <meta name="twitter:description" content="Google Antigravity 2.0 convierte prompts en lenguaje natural en aplicaciones funcionales, juegos y motion graphics sin escribir una línea de código. En este tutorial práctico, Paul J Lipsky demuestra que se puede crear una app de notas tipo Notion con archivos Markdown locales en 15 minutos, un jueg">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/oBaT-wo9RTY/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-oBaT-wo9RTY.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Google Antigravity 2.0: tutorial completo para crear apps, juegos y motion graphics sin saber programar</h1>
+        <div class="metadata">
+          <span>Por <strong>Paul J Lipsky</strong></span>
+          <time datetime='2026-11-05T17:07:04.572594-05:00'>2026-11-05</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/oBaT-wo9RTY" title="Google Antigravity 2.0: tutorial completo para crear apps, juegos y motion graphics sin saber programar" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=oBaT-wo9RTY" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Google Antigravity 2.0 convierte prompts en lenguaje natural en aplicaciones funcionales, juegos y motion graphics sin escribir una línea de código. En este tutorial práctico, Paul J Lipsky demuestra que se puede crear una app de notas tipo Notion con archivos Markdown locales en 15 minutos, un juego runner con Godot y Blender instalados automáticamente, y gráficos animados sorprendentes. La clave está en configurar permisos automáticos, elegir Gemini 4 Argon con esfuerzo alto y priorizar la calidad visual en cada prompt.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Paul J Lipsky</strong>: <a href="https://www.youtube.com/watch?v=oBaT-wo9RTY" target="_blank" rel="noopener">Google Antigravity Explained for Normal People (Full Tutorial)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Una app de escritorio que programa por ti</h3>
+<p>Google Antigravity 2.0 ha eliminado la interfaz de editor de código para convertirse en una aplicación de escritorio limpia, similar a Gemini, donde el usuario describe lo que quiere y el sistema lo construye. A diferencia de otras herramientas de generación de código, Antigravity puede lanzar las aplicaciones directamente en el ordenador, lo que elimina la fricción de tener que ejecutar comandos o abrir terminales. El tutorial de Paul J Lipsky, pensado para personas sin experiencia en programación, recorre desde la configuración inicial hasta la creación de proyectos completos, incluyendo una app de notas, un juego estilo runner y motion graphics generados únicamente con código.</p>
+<p>El primer paso es descargar la aplicación desde el sitio oficial de Antigravity y configurar los permisos. Lipsky recomienda usar el preset <strong>&#x27;auto&#x27;</strong> para que la herramienta no pregunte constantemente por aprobación, o el modo <strong>&#x27;turbo&#x27;</strong> (también conocido como modo YOLO) que elimina todas las confirmaciones. Además, sugiere activar la opción de envío inmediato de mensajes (<em>&#x27;send immediately&#x27;</em>) para poder corregir prompts sobre la marcha sin esperar a que termine la tarea anterior, y la función <em>&#x27;prevent sleep&#x27;</em> para que el ordenador no se duerma y detenga las tareas en curso. Para quienes quieran controlar el proceso desde el móvil, existe la opción <em>&#x27;enable remote control&#x27;</em> que permite escanear un código QR y supervisar la generación desde otro dispositivo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Elegir el modelo y crear el primer proyecto</h3>
+<p>Antigravity permite seleccionar entre varios modelos, incluyendo Gemini 4 Argon, Claude y GPT. Lipsky aconseja usar <strong>Gemini 4 Argon con nivel de esfuerzo &#x27;high&#x27;</strong> para obtener los mejores resultados, aunque consume más cuota. Si se paga por Google Gemini, al iniciar sesión con esa cuenta se obtiene uso adicional dentro de Antigravity. La organización es fundamental: se debe crear un proyecto nuevo por cada app o juego, y cada proyecto se guarda como una carpeta local en el ordenador, lo que facilita el control y la portabilidad.</p>
+<p>El tutorial muestra la creación de una app de notas llamada <strong>&#x27;Local Notes&#x27;</strong> con un solo prompt. El autor pidió una aplicación que use archivos Markdown locales como Obsidian pero con una interfaz limpia tipo Notion. Antigravity generó la app en aproximadamente 15 minutos, y el resultado fue muy satisfactorio: funciona como app web local con opción de abrir en un navegador externo. Este experimento demuestra que se puede obtener una herramienta funcional y estéticamente agradable sin conocimientos de programación, simplemente describiendo con precisión el comportamiento y la apariencia deseada.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Juegos con Godot y Blender instalados automáticamente</h3>
+<p>Para el segundo experimento, Lipsky solicitó un juego estilo runner con un personaje tipo malvavisco en un mundo colorido. Antigravity no solo generó el código, sino que <strong>instaló automáticamente Godot y Blender</strong> para construir el juego con mejores gráficos. El resultado fue visualmente atractivo y jugable, aunque la mecánica de salto necesitaba ajustes; el autor concluyó que se puede refinar con prompts adicionales. La clave está en pedir explícitamente que se instalen las herramientas necesarias y luego solicitar <em>&#x27;launch the game for me&#x27;</em> para ejecutarlo sin usar la terminal.</p>
+<p>Este caso ilustra el potencial de Antigravity para prototipar videojuegos de forma rápida. Al integrar motores como Godot y software de modelado como Blender, la herramienta puede generar entornos tridimensionales y personajes con relativa facilidad. Sin embargo, el ajuste fino de la jugabilidad requiere iteraciones adicionales, lo que confirma que el proceso es colaborativo: el usuario describe, la IA construye y luego se pule con nuevos prompts.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Imágenes y motion graphics generados solo con código</h3>
+<p>El tercer experimento consistió en subir una foto real de una caminata y pedir a Antigravity que la recreara usando únicamente código. El resultado fue sorprendente: la imagen generada incluía detalles como un control deslizante para ajustar el brillo del sol en las gafas y la posibilidad de ver una animación del proceso de pintado. Este tipo de generación demuestra que Antigravity no se limita a aplicaciones funcionales, sino que también puede producir arte digital interactivo y visualizaciones creativas.</p>
+<p>Finalmente, el tutorial aborda los motion graphics. Lipsky solicitó un título animado con una lista de capacidades de Antigravity y un diseño minimalista, y otro motion graphic educativo sobre la formación de nubes en estilo claymation de 30 segundos. Ambos fueron generados exitosamente solo con código. Para lograr buenos resultados, recomienda describir la animación deseada, la duración y el estilo con precisión, por ejemplo: <em>&#x27;animated title card&#x27;</em>, <em>&#x27;claymation style&#x27;</em>, <em>&#x27;30 seconds&#x27;</em>. Estas creaciones abren la puerta a la producción de contenido audiovisual sin necesidad de software especializado de animación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Consejos para mejorar los resultados y evitar comportamientos no deseados</h3>
+<p>A lo largo del tutorial, Lipsky comparte varias recomendaciones prácticas. Una de las más importantes es incluir en el prompt una instrucción explícita para que la calidad visual sea prioritaria, por ejemplo: <strong>&#x27;Visual Quality Is a Top Priority...&#x27;</strong> (el texto completo está en la descripción del video). También sugiere especificar si se quiere una app nativa (por ejemplo, <em>&#x27;build this as a native Mac app&#x27;</em>) o una app web local (<em>&#x27;build this as a local web app&#x27;</em>) para evitar que por defecto se cree una app web. Para imágenes, se puede subir una imagen de referencia y pedir <em>&#x27;recreate this image using only code&#x27;</em>.</p>
+<p>El video también menciona el patrocinio de <strong>Fish Audio</strong>, una plataforma de voz AI que convierte texto en habla emotiva. Su modelo <strong>Drama 3</strong> permite dirigir la entrega con instrucciones en lenguaje natural y ofrece una API para integrar en proyectos. El precio de la API es de pago por uso, sin mínimos mensuales, y tiene un 80% de descuento hasta el 12 de noviembre. Aunque no es el foco principal del tutorial, esta mención añade contexto sobre las posibilidades de integrar voces generadas por IA en las aplicaciones creadas con Antigravity.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para priorizar la calidad visual, incluye en el prompt: &#x27;Visual Quality Is a Top Priority...&#x27; (texto completo en la descripción del video).</li>
+<li>Especifica el tipo de app: &#x27;build this as a native Mac app&#x27; o &#x27;build this as a local web app&#x27; para evitar que se cree una app web por defecto.</li>
+<li>Para juegos, pide a Antigravity que instale Godot y Blender si no están presentes, y luego solicita &#x27;launch the game for me&#x27;.</li>
+<li>Para imágenes con código, sube una imagen de referencia y pide &#x27;recreate this image using only code&#x27;.</li>
+<li>Para motion graphics, describe la animación, duración y estilo: &#x27;animated title card&#x27;, &#x27;claymation style&#x27;, &#x27;30 seconds&#x27;.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://antigravity.google/download" target="_blank" rel="noopener"><strong>Google Antigravity</strong></a> — Aplicación de escritorio de Google para crear apps, juegos, imágenes y motion graphics mediante prompts en lenguaje natural, con capacidad de lanzar las apps localmente.</li>
+<li><a href="https://fish.audio/?fpr=paulj" target="_blank" rel="noopener"><strong>Fish Audio</strong></a> — Plataforma de voz AI que convierte texto en habla emotiva; su modelo Drama 3 permite dirigir la entrega con instrucciones en lenguaje natural y ofrece API para integrar en proyectos.</li>
+<li><strong>Godot</strong> — Motor de videojuegos que Antigravity puede instalar y utilizar para construir juegos con mejores gráficos.</li>
+<li><strong>Blender</strong> — Software de modelado 3D que Antigravity puede instalar y utilizar para mejorar los gráficos de los juegos.</li>
+<li><strong>Obsidian</strong> — App de notas local con archivos Markdown, mencionada como referencia para crear una app similar con mejor interfaz.</li>
+<li><strong>Notion</strong> — App de notas en la nube, mencionada como inspiración para la interfaz limpia de la app creada.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-oBaT-wo9RTY.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

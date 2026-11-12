@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Realismo cinematográfico en IA: el sistema de 3 pasos con personajes consistentes, draft mode y prompts detallados — Frame &amp; Prompt</title>
+  <meta name="description" content="Kaye Creates demuestra que la IA puede emocionar con un cortometraje de un minuto sobre un robot y una anciana, pero el verdadero hallazgo es su método: hojas de personaje y localización para consistencia, draft mode a 480p para ahorrar créditos y prompts que integran iluminación y física. El proyec">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Realismo cinematográfico en IA: el sistema de 3 pasos con personajes consistentes, draft mode y prompts detallados">
+  <meta property="og:description" content="Kaye Creates demuestra que la IA puede emocionar con un cortometraje de un minuto sobre un robot y una anciana, pero el verdadero hallazgo es su método: hojas de personaje y localización para consistencia, draft mode a 480p para ahorrar créditos y prompts que integran iluminación y física. El proyec">
+  <meta property="og:image" content="https://i.ytimg.com/vi/Q1FM14f1DBI/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-Q1FM14f1DBI.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Realismo cinematográfico en IA: el sistema de 3 pasos con personajes consistentes, draft mode y prompts detallados">
+  <meta name="twitter:description" content="Kaye Creates demuestra que la IA puede emocionar con un cortometraje de un minuto sobre un robot y una anciana, pero el verdadero hallazgo es su método: hojas de personaje y localización para consistencia, draft mode a 480p para ahorrar créditos y prompts que integran iluminación y física. El proyec">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/Q1FM14f1DBI/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-Q1FM14f1DBI.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Realismo cinematográfico en IA: el sistema de 3 pasos con personajes consistentes, draft mode y prompts detallados</h1>
+        <div class="metadata">
+          <span>Por <strong>Kaye Creates</strong></span>
+          <time datetime='2026-10-29T17:15:59.339174-05:00'>2026-10-29</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/Q1FM14f1DBI" title="Realismo cinematográfico en IA: el sistema de 3 pasos con personajes consistentes, draft mode y prompts detallados" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=Q1FM14f1DBI" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Kaye Creates demuestra que la IA puede emocionar con un cortometraje de un minuto sobre un robot y una anciana, pero el verdadero hallazgo es su método: hojas de personaje y localización para consistencia, draft mode a 480p para ahorrar créditos y prompts que integran iluminación y física. El proyecto costó 1.641 créditos, y el 90% de los espectadores no está suscrito al canal, lo que subraya que la emoción humana sigue siendo el diferenciador.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Kaye Creates</strong>: <a href="https://www.youtube.com/watch?v=Q1FM14f1DBI" target="_blank" rel="noopener">How I Master Perfect AI Realism in 3 Steps (Full Breakdown)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema real: consistencia y emoción en un minuto</h3>
+<p>La creadora Kaye Creates invirtió más de 100 horas y generó cientos de videos para probar que la IA puede contar una historia emotiva. Su cortometraje, de aproximadamente un minuto, sigue a un robot y a una anciana llamada Karima, y el reto no era solo lograr ultra realismo, sino mantener la identidad de los personajes y la coherencia de los escenarios a lo largo de múltiples tomas. La conclusión es contundente: la emoción proviene del ser humano, no de la IA, y las marcas pagan por emoción real, ultra realismo y consistencia de personajes.</p>
+<p>Para resolverlo, diseñó un flujo de tres pasos que combina <strong>Higgsfield</strong> como plataforma de generación, <strong>Claude</strong> como asistente de prompts y modelos especializados como <strong>Kling 5.0 Pro</strong> para imágenes hiperrealistas, <strong>Seedance 2.5</strong> para video y <strong>Soul Cinema</strong> para entornos cinematográficos. El desglose de costos es igual de relevante: el proyecto completo consumió aproximadamente <strong>1.641 créditos</strong>, de los cuales solo <strong>51.125 créditos</strong> se destinaron a la generación de assets (personajes y localizaciones).</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 1: hojas de personaje y localización, la base olvidada</h3>
+<p>El primer paso consiste en crear <strong>character sheets</strong> con múltiples ángulos (frontal, lateral, perfil) para mantener la consistencia facial y corporal. Para personajes que envejecen, Kaye recomienda generar varias hojas para diferentes edades y usar la misma referencia facial para preservar la identidad. Este detalle es crucial en narrativas con saltos temporales, como el cortometraje, donde el robot permanece inmutable mientras Karima envejece.</p>
+<p>El paso más olvidado, según la creadora, es la <strong>hoja de localización</strong> (location sheet) para cada escenario. Sin ella, los personajes aparecen en habitaciones diferentes en cada toma, rompiendo la ilusión. Generar estas hojas con <strong>Soul Cinema</strong> resulta ideal por su iluminación arquitectónica, grano de película y profundidad natural, además de ser el modelo más barato de la plataforma para entornos. Aquí se invirtieron la mayor parte de los 51.125 créditos de assets, una fracción mínima del total.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 2: draft mode y prompts que integran iluminación y física</h3>
+<p>Para el video, Kaye utiliza <strong>Seedance 2.5</strong> con un <strong>draft mode a 480p</strong> que permite probar movimiento y composición antes de upscalear a alta resolución. La regla es tajante: nunca generar un prompt nuevo directamente en alta resolución o en lotes grandes; siempre probar primero en draft mode. Esta iteración rápida ahorra créditos y evita gastar en tomas fallidas. El modo borrador es más económico que la generación directa en alta calidad, y el upscaling se reserva solo para las tomas exitosas.</p>
+<p>Los prompts deben incluir la iluminación integrada en el entorno para que el personaje pertenezca a la escena, y añadir <strong>física de viento y ropa</strong> (wind and cloth physics) para aumentar el realismo en exteriores. Para tomas POV desde un objeto cerrado, como una caja, el modelo no entendía el cambio de perspectiva; la solución fue especificar <em>&#x27;static extreme low angle perspective looking straight up from the box&#x27;</em>. Este ajuste forzó la perspectiva correcta y demuestra que los prompts deben ser explícitos sobre la geometría de la cámara.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 3: narrativa, match cuts y el arte de evitar clichés</h3>
+<p>La estructura narrativa se apoya en <strong>Claude</strong> para generar prompts detallados por toma, incluyendo ángulos de cámara, iluminación y acciones. Kaye escribe un brief simple y pide al modelo que desarrolle cada escena. Para el paso del tiempo, emplea un <strong>match cut</strong> que mantiene la acción centrada mientras el entorno cambia: el robot inmóvil en el cobertizo mientras las estaciones pasan, transmitiendo décadas en segundos. También mezcla escenas de diferentes emociones (tristeza, felicidad, momentos cotidianos) para mejorar el ritmo narrativo.</p>
+<p>El final es quizá la decisión más instructiva. Kaye consideró un cierre trágico con el robot visitando a Karima en su lecho de muerte, pero lo descartó por cliché. Optó por un final sutil: una mano envejecida tocando la mano del robot, que resultó más emotivo. Esta elección refuerza la tesis de que la emoción no depende de la IA, sino de la sensibilidad del creador. El cortometraje completo puede verse en el blog de Higgsfield, y la creadora ofrece una guía gratuita con una herramienta personalizada de generación de prompts para agilizar el proceso.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Costos, experimentos y conclusiones para creadores</h3>
+<p>El desglose económico es una de las partes más valiosas: el proyecto total costó <strong>1.641 créditos</strong>, con solo <strong>51.125 créditos</strong> para assets. El draft mode a 480p de Seedance 2.5 y Soul Cinema como modelo económico para entornos explican gran parte del ahorro. Kaye generó más de <strong>1.000 videos de IA</strong> para aprender las técnicas, y su conclusión es que la emoción en la historia proviene del ser humano. Las marcas pagan por emoción real, ultra realismo y consistencia de personajes, no solo por imágenes bonitas.</p>
+<p>Entre los aprendizajes técnicos destacan: la física de viento y ropa mejora notablemente el realismo; el match cut funciona para saltos temporales; y los prompts deben especificar la perspectiva de cámara de forma literal. Además, el dato de que el <strong>90% de los espectadores no están suscritos</strong> al canal subraya la importancia de crear contenido que retenga y convierta, más allá de la calidad técnica. Para quien quiera replicar el flujo, la recomendación es empezar con las hojas de personaje y localización, iterar en draft mode y reservar el upscaling para las tomas finales.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para tomas POV desde una caja: prompt exacto &#x27;static extreme low angle perspective looking straight up from the box&#x27;.</li>
+<li>Regla de ahorro: nunca generar un prompt nuevo en alta resolución; probar siempre en draft mode 480p de Seedance 2.5.</li>
+<li>Incluir en cada prompt la iluminación integrada en el entorno y la física de viento y ropa para realismo.</li>
+<li>Crear character sheets con múltiples ángulos y, si hay envejecimiento, varias hojas por edad con la misma referencia facial.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://higgsfield.ai" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma de generación de imágenes y video con IA; aloja el flujo completo y los modelos.</li>
+<li><strong>Claude</strong> — Modelo de lenguaje usado para generar prompts detallados y estructurar la historia.</li>
+<li><strong>Kling 5.0 Pro</strong> — Modelo de imágenes hiperrealistas dentro de Higgsfield, especializado en texturas de piel.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video con draft mode a 480p para pruebas y upscaling posterior.</li>
+<li><strong>Soul Cinema</strong> — Modelo de entornos con iluminación arquitectónica y grano de película; el más económico para escenarios.</li>
+<li><a href="https://higgsfield.ai/@kaye_creatives/blogs/lifelong-friend" target="_blank" rel="noopener"><strong>Blog del cortometraje</strong></a> — Página oficial con el cortometraje &#x27;Lifelong Friend&#x27; y recursos adicionales.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-Q1FM14f1DBI.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo crear una serie de microdramas con IA y personajes 100% consistentes usando OpenArt y el Microdrama Kit — Frame &amp; Prompt</title>
+  <meta name="description" content="La clave para producir microdramas con IA que parezcan profesionales no está en generar clips al azar, sino en planificar toda la serie y construir una &#x27;biblia&#x27; de assets reutilizables: hojas de personaje, localizaciones, props y un look visual definido. Youri van Hofwegen demuestra con &#x27;The Veil In">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo crear una serie de microdramas con IA y personajes 100% consistentes usando OpenArt y el Microdrama Kit">
+  <meta property="og:description" content="La clave para producir microdramas con IA que parezcan profesionales no está en generar clips al azar, sino en planificar toda la serie y construir una &#x27;biblia&#x27; de assets reutilizables: hojas de personaje, localizaciones, props y un look visual definido. Youri van Hofwegen demuestra con &#x27;The Veil In">
+  <meta property="og:image" content="https://i.ytimg.com/vi/N9-5yy56zww/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-N9-5yy56zww.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo crear una serie de microdramas con IA y personajes 100% consistentes usando OpenArt y el Microdrama Kit">
+  <meta name="twitter:description" content="La clave para producir microdramas con IA que parezcan profesionales no está en generar clips al azar, sino en planificar toda la serie y construir una &#x27;biblia&#x27; de assets reutilizables: hojas de personaje, localizaciones, props y un look visual definido. Youri van Hofwegen demuestra con &#x27;The Veil In">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/N9-5yy56zww/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-N9-5yy56zww.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo crear una serie de microdramas con IA y personajes 100% consistentes usando OpenArt y el Microdrama Kit</h1>
+        <div class="metadata">
+          <span>Por <strong>Youri van Hofwegen</strong></span>
+          <time datetime='2026-10-31T17:04:01.069522-05:00'>2026-10-31</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/N9-5yy56zww" title="Cómo crear una serie de microdramas con IA y personajes 100% consistentes usando OpenArt y el Microdrama Kit" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=N9-5yy56zww" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La clave para producir microdramas con IA que parezcan profesionales no está en generar clips al azar, sino en planificar toda la serie y construir una &#x27;biblia&#x27; de assets reutilizables: hojas de personaje, localizaciones, props y un look visual definido. Youri van Hofwegen demuestra con &#x27;The Veil Inheritance&#x27;, una serie de tres episodios, que es posible mantener rostros, vestuarios y voces idénticos entre episodios usando el Microdrama Kit de OpenArt y el modelo Seedance 2.5 Omni, con un flujo de 31 pasos que va desde el guion hasta el montaje en CapCut.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Youri van Hofwegen</strong>: <a href="https://www.youtube.com/watch?v=N9-5yy56zww" target="_blank" rel="noopener">How to Make Long Micro Dramas with AI (Consistent Characters)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Planificar la serie antes de gastar un solo crédito</h3>
+<p>El primer error que cometen muchos creadores es lanzarse a generar video sin tener una historia completa. Youri van Hofwegen invierte el orden: antes de tocar ningún modelo, escribe toda la serie en el <strong>Script Maker</strong> del Microdrama Kit, una herramienta gratuita que no consume créditos y permite reescribir tantas veces como sea necesario. Allí define el género, en su caso un <em>Billionaire Romance</em>, y el número de episodios, cinco en total, cada uno de dos a tres minutos. Lo fundamental es decidir de antemano dónde estará el <strong>cliffhanger de pago</strong>: el episodio tres será el último gratuito y debe terminar en un momento de máxima tensión para incentivar la suscripción en plataformas como ReelShort o DramaBox.</p>
+<p>La planificación incluye también limitar el reparto principal a dos o tres personajes con diálogo; los extras deben ser solo fondo y no tener líneas, para evitar inconsistencias. Además, el autor recomienda crear una <strong>&#x27;biblia de la serie&#x27;</strong> que contenga los secretos de los personajes y el arco de la temporada. Este documento será la referencia para que cada episodio tenga coherencia narrativa y visual. Con la historia y los personajes definidos, recién entonces se pasa a la generación de assets.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Hojas de personaje: el ADN visual que se reutiliza en cada prompt</h3>
+<p>Para que un personaje no cambie de rostro entre episodios, el autor crea una <strong>hoja de personaje</strong> (character sheet) una sola vez y la reutiliza en todos los prompts. Cada hoja debe incluir tres paneles: una vista frontal sin cabeza (para ver el vestuario completo), una vista trasera y un primer plano del rostro. La descripción debe ser extremadamente precisa: color de ojos, forma de la cara, peinado, y detalles como pendientes o cicatrices. Esa descripción se convierte en el <strong>&#x27;ADN&#x27;</strong> del personaje y se pega textualmente en cada prompt de shot. Si el personaje cambia de vestuario, se crea una hoja adicional con el nuevo outfit pero manteniendo el mismo rostro y los detalles invariables.</p>
+<p>El modelo utilizado para generar estas hojas es <strong>GPT Image 2.5</strong>, que produce imágenes de alta calidad con consistencia. El autor insiste en que este paso es el que marca la diferencia: sin una hoja de personaje clara, Seedance 2.5 Omni tenderá a inventar variaciones en cada clip. Con la hoja adjunta, el modelo respeta el aspecto y la ropa. En la serie de ejemplo, se generaron hojas para los tres personajes principales y para los cambios de vestuario relevantes, lo que permitió que en los tres episodios los rostros fueran idénticos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Localizaciones y props: construir el mundo una sola vez</h3>
+<p>Las localizaciones también requieren hojas de referencia. Por cada habitación que aparezca en la serie, el autor crea una imagen amplia del espacio vacío, generada con GPT Image 2.5, y describe su disposición de forma simple: por ejemplo, &#x27;ventanas a la izquierda, sofá en el centro, una puerta a la derecha&#x27;. Esa descripción se incluye en cada prompt para que el modelo mantenga la coherencia espacial. Si una habitación se ve a través de una puerta, se debe describir lo que se ve para que coincida con la habitación contigua. En total, la serie de ejemplo utilizó seis localizaciones, cada una con su hoja.</p>
+<p>Los props recurrentes, como un contrato o una fotografía, también necesitan hojas con múltiples ángulos. El autor advierte que los objetos en primer plano deben cuidarse al detalle: si aparece una fotografía de los personajes, los rostros en esa foto deben coincidir con sus hojas de personaje. Para generar estos assets se puede usar GPT Image 2.5 o Nano Banana 2.1, que resultó útil para probar el look visual de la serie con una imagen estática antes de pasar al video. En la serie se emplearon tres props principales, y todos fueron referenciados en los prompts correspondientes.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El look de la serie y la generación de prompts por episodio</h3>
+<p>Antes de generar cualquier clip, el autor define un <strong>&#x27;look de serie&#x27;</strong>: una descripción del estilo visual y un texto de estilo que se añadirá al final de cada prompt de shot. Para probarlo, genera una imagen estática con Nano Banana 2.1 y ajusta hasta que el resultado le convence. Ese look se convierte en una capa fija que garantiza que todos los episodios compartan la misma paleta, iluminación y textura. Una vez definido, se pasa al generador de prompts de episodios del Microdrama Kit, donde se selecciona la serie y los personajes; el kit añade automáticamente las hojas y descripciones correspondientes a cada prompt.</p>
+<p>Cada episodio se divide en partes de 30 segundos, el máximo que permite Seedance 2.5 Omni. Un episodio de dos minutos y cuarenta segundos requiere de cuatro a seis partes. A cada prompt se le añaden reglas fijas: posiciones de los personajes, que nadie mire a cámara, que el diálogo sea en inglés (especificarlo evita que el modelo cambie a mandarín), que el diálogo termine unos segundos antes del final y que cada parte termine en silencio sin música. Para la primera parte de cada episodio, se usa un <strong>&#x27;position frame&#x27;</strong>: una imagen inicial que establece la habitación y las posiciones de los personajes. Las partes siguientes deben continuar desde los últimos cinco segundos de la parte anterior y generarse en orden para mantener la continuidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Generación con Seedance 2.5 Omni: consistencia en cada clip</h3>
+<p>Con los prompts listos, el autor genera cada parte en OpenArt usando <strong>Seedance 2.5 Omni</strong>, adjuntando las hojas de personaje, localización y props correspondientes. El modelo respeta las referencias y mantiene la coherencia visual entre clips. La voz de cada personaje también se describe de la misma manera en cada prompt para lograr consistencia sonora. El autor verificó que al especificar &#x27;diálogo en inglés&#x27; se evita que el modelo cambie a mandarín, un fallo común en modelos multilingües. La generación de un episodio completo consume créditos, pero el hecho de tener los assets predefinidos reduce las iteraciones y el gasto.</p>
+<p>En total, la serie de ejemplo consta de cinco episodios planificados, de los cuales se produjeron tres. Cada episodio tiene un guion de cinco escenas y una duración aproximada de dos minutos cuarenta segundos. El autor concluye que la clave para un resultado profesional es construir todos los assets una sola vez y reutilizarlos en cada prompt; así, Seedance 2.5 Omni puede mantener la identidad visual a lo largo de toda la serie.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Montaje en CapCut: ritmo, música y subtítulos</h3>
+<p>La edición final se realiza en <strong>CapCut</strong>. El autor corta las pausas largas, usa cortes planos dentro de la misma habitación y fundidos suaves al cambiar de habitación. Añade música que construye hacia la línea final, con volumen bajo para que el diálogo se entienda. Los subtítulos automáticos en inglés deben revisarse contra el guion, ya que errores como &#x27;fiance&#x27; en lugar de &#x27;fiancé&#x27; son frecuentes. Además, muestra el nombre y rol del personaje la primera vez que aparece, y añade un título de lugar y tiempo (por ejemplo, &#x27;That night, the Veil Mansion&#x27;) para los cambios de localización dentro de un episodio.</p>
+<p>Para cerrar cada episodio, se añade &#x27;To be continued&#x27; sobre los últimos segundos en el rostro del personaje mientras la música se desvanece. El autor también utiliza el generador de portadas del Microdrama Kit para crear y testear ideas de portada, lo que ayuda a atraer clics en las plataformas. Con este flujo de 31 pasos, que abarca desde la planificación hasta el montaje, se obtiene una serie de microdramas con calidad consistente y lista para publicar.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para evitar que el modelo cambie de idioma, incluye siempre &#x27;diálogo en inglés&#x27; en el prompt.</li>
+<li>Cada parte de 30 segundos debe terminar en silencio, sin música, para facilitar el montaje.</li>
+<li>La primera parte de un episodio usa un &#x27;position frame&#x27; que fija la habitación y las posiciones.</li>
+<li>Las partes siguientes se generan en orden y continúan desde los últimos 5 segundos de la anterior.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://microdramabonus.com/yvh2" target="_blank" rel="noopener"><strong>OpenArt</strong></a> — Plataforma todo en uno para generación de imágenes y video con IA; aloja el Microdrama Kit y permite usar Seedance 2.5 Omni, GPT Image 2.5 y Nano Banana 2.1.</li>
+<li><a href="https://microdramabonus.com/yvh" target="_blank" rel="noopener"><strong>Microdrama Kit</strong></a> — Conjunto de herramientas (script maker, sheet maker, episode prompts, covers) para planificar y producir microdramas con consistencia; gratis al registrarse en OpenArt.</li>
+<li><strong>Seedance 2.5 Omni</strong> — Modelo de generación de video de ByteDance que permite clips de hasta 30 segundos; se usa para animar cada parte del episodio con las hojas de referencia adjuntas.</li>
+<li><strong>GPT Image 2.5</strong> — Modelo de generación de imágenes usado para crear las hojas de personaje, localización y props.</li>
+<li><strong>Nano Banana 2.1</strong> — Modelo de generación de imágenes usado para probar el look visual de la serie con una imagen estática.</li>
+<li><strong>CapCut</strong> — Editor de video para unir las partes, cortar pausas, añadir música, subtítulos automáticos y títulos.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-N9-5yy56zww.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

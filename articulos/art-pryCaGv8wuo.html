@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DeepSeek v4.1 Flash 1017: el auto-feedback dispara la programación y el uso de terminal con pesos abiertos y precio ultra bajo — Frame &amp; Prompt</title>
+  <meta name="description" content="DeepSeek ha lanzado la versión 4.1 Flash 1017, una actualización que, sin cambiar la arquitectura, logra mejoras notables en programación y operación de terminal gracias al aprendizaje por auto-feedback: la IA se critica y corrige a sí misma sin datos externos. El modelo es de pesos abiertos y cuest">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DeepSeek v4.1 Flash 1017: el auto-feedback dispara la programación y el uso de terminal con pesos abiertos y precio ultra bajo">
+  <meta property="og:description" content="DeepSeek ha lanzado la versión 4.1 Flash 1017, una actualización que, sin cambiar la arquitectura, logra mejoras notables en programación y operación de terminal gracias al aprendizaje por auto-feedback: la IA se critica y corrige a sí misma sin datos externos. El modelo es de pesos abiertos y cuest">
+  <meta property="og:image" content="https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-pryCaGv8wuo.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="DeepSeek v4.1 Flash 1017: el auto-feedback dispara la programación y el uso de terminal con pesos abiertos y precio ultra bajo">
+  <meta name="twitter:description" content="DeepSeek ha lanzado la versión 4.1 Flash 1017, una actualización que, sin cambiar la arquitectura, logra mejoras notables en programación y operación de terminal gracias al aprendizaje por auto-feedback: la IA se critica y corrige a sí misma sin datos externos. El modelo es de pesos abiertos y cuest">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-pryCaGv8wuo.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">DeepSeek v4.1 Flash 1017: el auto-feedback dispara la programación y el uso de terminal con pesos abiertos y precio ultra bajo</h1>
+        <div class="metadata">
+          <span>Por <strong>Two Minute Papers</strong></span>
+          <time datetime='2026-10-28T17:02:19.626254-05:00'>2026-10-28</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/pryCaGv8wuo" title="DeepSeek v4.1 Flash 1017: el auto-feedback dispara la programación y el uso de terminal con pesos abiertos y precio ultra bajo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=pryCaGv8wuo" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">DeepSeek ha lanzado la versión 4.1 Flash 1017, una actualización que, sin cambiar la arquitectura, logra mejoras notables en programación y operación de terminal gracias al aprendizaje por auto-feedback: la IA se critica y corrige a sí misma sin datos externos. El modelo es de pesos abiertos y cuesta poco más de 1 dólar por millón de tokens de salida, unas 15 veces menos que Claude Opus 5.5, aunque su mayor consumo de tokens (2-3 veces) eleva el costo real por tarea. La competencia acelera la innovación y beneficia a los usuarios.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Two Minute Papers</strong>: <a href="https://www.youtube.com/watch?v=pryCaGv8wuo" target="_blank" rel="noopener">Deepseek&#x27;s New AI Has A Secret</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un salto de capacidades en solo cinco semanas</h3>
+<p>La versión 4.1 Flash 1017 llega apenas cinco semanas después de la 4.1 Flash, un intervalo récord que evidencia el ritmo vertiginoso de la competencia en inteligencia artificial. A pesar de ser una actualización menor en numeración, el modelo muestra una mejora sustancial en la generación de software funcional y en la operación de terminales, tareas que hasta ahora requerían intervención humana constante. El creador del video, Two Minute Papers, atribuye este avance a una técnica denominada <strong>aprendizaje por auto-feedback</strong>, que no implica cambios en la arquitectura del modelo ni un aumento en la cantidad de datos de entrenamiento.</p>
+<p>El mecanismo consiste en que la propia IA evalúa sus respuestas, identifica errores y se corrige de manera iterativa. Este bucle de autocrítica permite que el modelo refine su código y comandos de terminal sin necesidad de supervisión externa, lo que se traduce en una mayor precisión y autonomía. La consecuencia práctica es que DeepSeek v4.1 Flash 1017 puede abordar tareas de programación complejas, como generar un script, probarlo, detectar fallos y corregirlos automáticamente, todo dentro de un mismo flujo de trabajo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Precio imbatible por token, pero cuidado con el consumo</h3>
+<p>Uno de los aspectos más llamativos es el costo de la API: <strong>poco más de 1 dólar por millón de tokens de salida</strong>, lo que lo sitúa aproximadamente <strong>15 veces más barato que Claude Opus 5.5</strong> por la misma métrica. Además, los pesos del modelo son abiertos y gratuitos, lo que permite descargarlos y ejecutarlos localmente, aunque el hardware necesario para un uso doméstico típico no está especificado y se sugiere que requiere capacidades considerables.</p>
+<p>Sin embargo, el análisis del video advierte que el costo real por tarea puede ser mayor de lo que parece. DeepSeek tiende a consumir <strong>2 o 3 veces más tokens que Claude Opus</strong> para completar una misma tarea, debido a su enfoque iterativo de auto-feedback. Por lo tanto, aunque el precio por token sea muy bajo, el gasto final por tarea sigue siendo favorable pero no tan extremo como la simple comparación por millón de tokens podría sugerir. La recomendación es evaluar el costo por tarea completa en lugar de solo el precio unitario.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Competencia feroz y beneficios para el usuario</h3>
+<p>La irrupción de DeepSeek v4.1 Flash 1017 se enmarca en una competencia cada vez más intensa entre modelos abiertos y propietarios. El video destaca que la velocidad de mejora es tal que en solo cinco semanas se ha logrado un avance significativo en capacidades prácticas, lo que presiona a otros actores a innovar. Para los usuarios, esto se traduce en más inteligencia a menor costo, con opciones que van desde el uso vía API hasta la descarga de pesos para experimentación local.</p>
+<p>El creador concluye que el aprendizaje por auto-feedback representa un cambio de paradigma en la forma de entrenar y mejorar modelos, ya que permite ganancias sustanciales sin necesidad de más datos. No obstante, también señala que el mayor consumo de tokens es un factor a considerar en la planificación de costos. En definitiva, DeepSeek v4.1 Flash 1017 se posiciona como una alternativa muy atractiva para desarrolladores y empresas que buscan automatizar tareas de programación y terminal con un presupuesto ajustado.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para tareas de programación iterativa, aprovecha el auto-feedback: genera código, pruébalo, detecta fallos y corrige automáticamente en un solo flujo.</li>
+<li>Evalúa el costo por tarea completa, no solo por millón de tokens: DeepSeek puede consumir 2-3 veces más tokens que Claude Opus para la misma tarea.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://api-docs.deepseek.com/news/news261017/" target="_blank" rel="noopener"><strong>DeepSeek v4.1 Flash 1017</strong></a> — Modelo de lenguaje con mejoras en programación y terminal, disponible vía API y con pesos abiertos.</li>
+<li><a href="https://lambda.ai/papers" target="_blank" rel="noopener"><strong>Lambda GPU Cloud</strong></a> — Plataforma para ejecutar experimentos de IA, entrenar modelos y hacer inferencia con GPUs NVIDIA.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-pryCaGv8wuo.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

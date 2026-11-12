@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Relighting con IA: cambia la iluminación de tus videos en postproducción con Runway y Seedance 2.5 — Frame &amp; Prompt</title>
+  <meta name="description" content="El relighting con IA ya es una realidad en postproducción: Curious Refuge demuestra cómo transformar la iluminación y el color grading de metraje live-action y escenas de graybox usando GPT Image 2.5 para generar referencias y Seedance 2.5 para aplicarlas al video. Los resultados son sorprendentemen">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Relighting con IA: cambia la iluminación de tus videos en postproducción con Runway y Seedance 2.5">
+  <meta property="og:description" content="El relighting con IA ya es una realidad en postproducción: Curious Refuge demuestra cómo transformar la iluminación y el color grading de metraje live-action y escenas de graybox usando GPT Image 2.5 para generar referencias y Seedance 2.5 para aplicarlas al video. Los resultados son sorprendentemen">
+  <meta property="og:image" content="https://i.ytimg.com/vi/19ngvIWpK_U/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-19ngvIWpK_U.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Relighting con IA: cambia la iluminación de tus videos en postproducción con Runway y Seedance 2.5">
+  <meta name="twitter:description" content="El relighting con IA ya es una realidad en postproducción: Curious Refuge demuestra cómo transformar la iluminación y el color grading de metraje live-action y escenas de graybox usando GPT Image 2.5 para generar referencias y Seedance 2.5 para aplicarlas al video. Los resultados son sorprendentemen">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/19ngvIWpK_U/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-19ngvIWpK_U.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Relighting con IA: cambia la iluminación de tus videos en postproducción con Runway y Seedance 2.5</h1>
+        <div class="metadata">
+          <span>Por <strong>Curious Refuge</strong></span>
+          <time datetime='2026-10-30T17:01:34.727634-05:00'>2026-10-30</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/19ngvIWpK_U" title="Relighting con IA: cambia la iluminación de tus videos en postproducción con Runway y Seedance 2.5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=19ngvIWpK_U" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El relighting con IA ya es una realidad en postproducción: Curious Refuge demuestra cómo transformar la iluminación y el color grading de metraje live-action y escenas de graybox usando GPT Image 2.5 para generar referencias y Seedance 2.5 para aplicarlas al video. Los resultados son sorprendentemente realistas, aunque con limitaciones clave: banding diagonal, pérdida de resolución a 1080p y desviaciones creativas que exigen refinar la imagen de referencia. En el 95% de los casos, evita un reshoot.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Curious Refuge</strong>: <a href="https://www.youtube.com/watch?v=19ngvIWpK_U" target="_blank" rel="noopener">The NEW Lighting Workflow Changing Filmmaking (Full AI Tutorial)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El nuevo flujo de trabajo: de la imagen de referencia al video relighteado</h3>
+<p>La técnica parte de un principio simple pero potente: primero se genera una imagen fija con la iluminación deseada y luego se aplica esa referencia al video original. El proceso comienza extrayendo un frame del clip y llevándolo a <strong>Runway</strong>, donde el modelo <strong>GPT Image 2.5 Sunburst</strong> —considerado por el autor como el más inteligente del mercado— crea una nueva versión con la luz y el color grading buscados. Para ello se proporciona una imagen de referencia estilística y un prompt como <em>“Change the lighting and time of day in image number one to be nighttime and use image 2 as a lighting and style reference”</em>. El resultado es una guía visual que servirá de ancla para el siguiente paso.</p>
+<p>Una vez validada la imagen, se sube el video original y la referencia generada a la pestaña de video de Runway. Allí entra en juego <strong>Seedance 2.5</strong>, el modelo que aplica la iluminación y el estilo al metraje en movimiento con un prompt del tipo <em>“Change the lighting and style in video one and use image one as the lighting and style reference”</em>. La clave está en refinar la imagen de referencia hasta que coincida exactamente con la visión creativa, porque Seedance puede tomar libertades y desviarse del objetivo. Este paso es el que marca la diferencia entre un resultado utilizable y uno que requiere iteraciones.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Pruebas reales: de oficina nocturna a acantilados y desiertos post-apocalípticos</h3>
+<p>El tutorial pone a prueba el flujo con tres escenarios distintos. En el primero, un clip de un hombre en una oficina se transforma de día a noche. El resultado general es bueno, pero se observa una variación en la exposición —el sujeto se vuelve más brillante— y un <strong>banding diagonal</strong> notable, un artefacto que el autor también detectó en <strong>Google Veo 3</strong>. Además, la salida de Seedance 2.5 está limitada a <strong>1080p</strong>, por lo que si el material original es 4K habrá una pérdida de resolución inevitable. Para distribución en streaming u online, sin embargo, el compromiso es aceptable.</p>
+<p>El segundo experimento lleva una escena de graybox —una mujer corriendo en un acantilado, previamente generada con Seedance— a tres variaciones de iluminación: luz de linterna, luz de día y atardecer. Las tres se ven realistas, con un buen detalle en el cabello y una integración convincente de la luz. No obstante, aparecen ligeras desviaciones entre tomas que podrían ser problemáticas en producciones que exigen un control preciso. El autor estima que en el <strong>95% de los casos</strong> esas diferencias no justificarían un reshoot, lo que convierte a la técnica en una alternativa viable para ajustes de última hora.</p>
+<p>El tercer caso es el más ambicioso: una escena post-apocalíptica con un coche descompuesto, originalmente en graybox con cajas azules. Aquí Seedance se usa primero para reemplazar el entorno y luego se aplican dos estilos de color grading, uno naranja tipo Marte y otro nocturno. Ambos lucen bien y preservan detalles en la piel, el cabello y la textura del coche. El modelo maneja bien múltiples generaciones, aunque no es perfecto. Para escenas de graybox, la recomendación es usar Seedance para transportar al sujeto a un entorno completamente nuevo y después aplicar el relighting con IA, lo que multiplica las posibilidades creativas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Limitaciones, trucos y cuándo merece la pena</h3>
+<p>El banding diagonal y la pérdida de resolución son las dos limitaciones más citadas. El primero puede mitigarse con el <strong>camera shake</strong> en las generaciones, que ayuda a ocultar artefactos e inconsistencias. La segunda es estructural: Seedance 2.5 solo exporta en 1080p, así que para proyectos 4K el relighting con IA no reemplaza al metraje original, pero sí puede servir para previz, versiones de distribución o pruebas de concepto. Otra recomendación es apilar múltiples generaciones —una o dos— para mejorar detalles y calidad, aunque con cuidado de no perder realismo. El autor también señala que esta técnica puede mitigar el problema de la baja profundidad de color en videos generados por IA, facilitando el color grading posterior.</p>
+<p>En cuanto a las herramientas, el flujo se apoya en <strong>Runway</strong> como plataforma central, <strong>GPT Image 2.5 Sunburst</strong> para las imágenes de referencia y <strong>Seedance 2.5</strong> para la aplicación al video. También se menciona <strong>ChatGPT 2.5</strong> para cambiar la iluminación y el color grading de imágenes fijas en el ejemplo de la escena post-apocalíptica, y <strong>Google Veo 3</strong> como referencia del problema de banding. No se detallan precios ni planes específicos, pero el tutorial completo y los cursos de Curious Refuge están disponibles en su web para quien quiera profundizar.</p>
+<p>La conclusión es clara: el relighting con IA ofrece una flexibilidad en postproducción que antes era impensable, especialmente cuando la iluminación deseada no se pudo lograr en set. Requiere refinar las imágenes de referencia para evitar desviaciones creativas y asumir ciertas limitaciones técnicas, pero en la mayoría de los casos evita un reshoot costoso. Para producciones que necesitan control absoluto, todavía no es una solución definitiva; para el resto, es una herramienta que cambia las reglas del juego.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Prompt para imagen de referencia: “Change the lighting and time of day in image number one to be nighttime and use image 2 as a lighting and style reference”.</li>
+<li>Prompt para video: “Change the lighting and style in video one and use image one as the lighting and style reference”.</li>
+<li>Refina la imagen de referencia hasta que coincida exactamente con tu visión antes de aplicarla al video; Seedance 2.5 puede desviarse.</li>
+<li>Usa camera shake en las generaciones para ocultar banding diagonal y otras inconsistencias.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Runway</strong> — Plataforma de generación de imágenes y video con IA; usada para crear la referencia y aplicar el relighting con Seedance 2.5.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video que cambia la iluminación y el estilo de un clip usando una imagen de referencia; exporta solo en 1080p.</li>
+<li><strong>GPT Image 2.5 Sunburst</strong> — Modelo de imagen de Runway para generar la referencia con nueva iluminación y color grading.</li>
+<li><strong>Google Veo 3</strong> — Modelo mencionado por presentar problemas de banding diagonal similares a los de Seedance 2.5.</li>
+<li><strong>ChatGPT 2.5</strong> — Usado para cambiar iluminación y color grading en imágenes fijas (stills) del ejemplo post-apocalíptico.</li>
+<li><a href="https://curiousrefuge.com/blog/how-to-relight-videos-using-ai" target="_blank" rel="noopener"><strong>Tutorial completo de Curious Refuge</strong></a> — Guía paso a paso del flujo de relighting con IA.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-19ngvIWpK_U.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

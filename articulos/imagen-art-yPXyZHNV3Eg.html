@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kling 4.0 vs Seedance 2.5: la prueba de la pelota revela fallos de consistencia y física que debes conocer — Frame &amp; Prompt</title>
+  <meta name="description" content="La prueba de la pelota de tenis confirma que Kling 4.0 logra un rebote realista pero las líneas del objeto hacen morphing y desaparecen, mientras Seedance 2.5 mantiene la integridad texturizada a costa de un bote con impulso artificial. Ninguno es perfecto, pero ambos modelos demuestran una calidad ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Kling 4.0 vs Seedance 2.5: la prueba de la pelota revela fallos de consistencia y física que debes conocer">
+  <meta property="og:description" content="La prueba de la pelota de tenis confirma que Kling 4.0 logra un rebote realista pero las líneas del objeto hacen morphing y desaparecen, mientras Seedance 2.5 mantiene la integridad texturizada a costa de un bote con impulso artificial. Ninguno es perfecto, pero ambos modelos demuestran una calidad ">
+  <meta property="og:image" content="https://i.ytimg.com/vi/yPXyZHNV3Eg/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-yPXyZHNV3Eg.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Kling 4.0 vs Seedance 2.5: la prueba de la pelota revela fallos de consistencia y física que debes conocer">
+  <meta name="twitter:description" content="La prueba de la pelota de tenis confirma que Kling 4.0 logra un rebote realista pero las líneas del objeto hacen morphing y desaparecen, mientras Seedance 2.5 mantiene la integridad texturizada a costa de un bote con impulso artificial. Ninguno es perfecto, pero ambos modelos demuestran una calidad ">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/yPXyZHNV3Eg/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-yPXyZHNV3Eg.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Kling 4.0 vs Seedance 2.5: la prueba de la pelota revela fallos de consistencia y física que debes conocer</h1>
+        <div class="metadata">
+          <span>Por <strong>Wide Silvente</strong></span>
+          <time datetime='2026-11-08T17:03:25.083716-05:00'>2026-11-08</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/yPXyZHNV3Eg" title="Kling 4.0 vs Seedance 2.5: la prueba de la pelota revela fallos de consistencia y física que debes conocer" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=yPXyZHNV3Eg" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La prueba de la pelota de tenis confirma que Kling 4.0 logra un rebote realista pero las líneas del objeto hacen morphing y desaparecen, mientras Seedance 2.5 mantiene la integridad texturizada a costa de un bote con impulso artificial. Ninguno es perfecto, pero ambos modelos demuestran una calidad general sólida y dejan claro qué prioriza cada uno cuando la física y la consistencia chocan.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Wide Silvente</strong> (Short): <a href="https://www.youtube.com/shorts/yPXyZHNV3Eg" target="_blank" rel="noopener">La prueba de la pelota: Kling 4.0 vs Seedance 2.5</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Una prueba mínima para revelar el interior de los modelos</h3>
+<p>Los modelos de generación de video por IA han mejorado en calidad, velocidad y precio, pero evaluar su comportamiento real requiere algo más que prompts llamativos. El creador Wide Silvente recurre a una prueba de física controlada: una pelota de tenis empujada por manos que debe botar y mantener sus líneas características durante el movimiento. No es una prueba artística ni práctica, pero expone cómo cada modelo maneja la coherencia temporal y las leyes físicas.</p>
+<p>El experimento es deliberadamente simple para aislar dos variables críticas: el realismo del rebote y la consistencia de los detalles texturizados. Con un objeto cotidiano como la pelota, cualquier desviación se hace evidente: desde un bote con energía inexplicable hasta la desaparición de las costuras. Así, la prueba se convierte en un test de estrés para los motores de generación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Kling 4.0: física convincente, texturas que se desvanecen</h3>
+<p>Kling 4.0 supera la prueba en el apartado físico: el rebote de la pelota resulta realista, con una trayectoria y una pérdida de energía que respetan la intuición. Sin embargo, la consistencia del objeto falla. Durante el bote, las líneas de la pelota hacen <strong>morphing</strong> y terminan desapareciendo, un artefacto que delata la dificultad del modelo para mantener detalles finos en movimiento. Es un fallo visual que, en una producción profesional, obligaría a repetir la toma o a recurrir a retoques.</p>
+<p>Este comportamiento sugiere que Kling 4.0 prioriza la simulación dinámica sobre la retención de texturas complejas. Para escenas donde la física es protagonista y el objeto no requiere un detalle minucioso, el modelo puede ser suficiente; pero si la integridad del objeto es crucial, el resultado no es aceptable sin correcciones.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Seedance 2.5: integridad perfecta, impulso sospechoso</h3>
+<p>Seedance 2.5 invierte el resultado. La pelota conserva sus líneas sin alteraciones, demostrando una capacidad notable para mantener la coherencia de objetos texturizados a lo largo del tiempo. No hay morphing ni desaparición: la integridad visual es impecable. El problema aparece en la física: el bote parece tener un <strong>impulso artificial</strong>, como si la pelota llevara energía extra en cada rebote, lo que rompe la sensación de realismo.</p>
+<p>Esta combinación indica que Seedance 2.5 está optimizado para preservar la identidad visual de los objetos, pero su motor físico no logra reproducir con fidelidad la disipación de energía. En aplicaciones donde la consistencia del producto es prioritaria —por ejemplo, anuncios de artículos con logos o patrones—, este modelo podría ser la mejor opción, aunque habría que controlar el movimiento para que no resulte antinatural.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un empate técnico con lecciones para elegir modelo</h3>
+<p>La conclusión es que ninguno de los dos modelos es perfecto: Kling 4.0 gana en física pero pierde en consistencia; Seedance 2.5 hace lo contrario. Ambos se defienden bien en calidad general, y la elección dependerá del caso de uso. Si el proyecto exige un movimiento realista y el objeto no tiene texturas críticas, Kling 4.0 puede ser suficiente. Si la prioridad es mantener la integridad de un producto con detalles distintivos, Seedance 2.5 ofrece mayores garantías, aunque el movimiento pueda requerir ajustes.</p>
+<p>Esta prueba de la pelota se complementa con otras evaluaciones del creador, como la comparativa de anuncios de producto, donde se ponen a prueba la velocidad, el costo y la calidad final. Los resultados refuerzan la idea de que los modelos de video por IA avanzan rápido, pero aún presentan compensaciones entre física, consistencia y control. Conocer estas limitaciones es clave para integrarlos en flujos de trabajo reales sin frustraciones.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para detectar morphing, usa objetos con patrones geométricos claros (líneas, cuadrículas) y observa su continuidad durante el movimiento.</li>
+<li>Evalúa la física con rebotes simples: si la pelota gana energía en cada bote, el modelo está simulando un impulso artificial.</li>
+<li>Elige Kling 4.0 cuando la física realista sea prioritaria y el objeto no requiera texturas detalladas.</li>
+<li>Elige Seedance 2.5 cuando la integridad visual del objeto sea crítica, aunque el movimiento pueda parecer menos natural.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Kling 4.0</strong> — Modelo de generación de video por IA, evaluado en prueba de física y consistencia de objetos.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video por IA, evaluado en prueba de física y consistencia de objetos.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-yPXyZHNV3Eg.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

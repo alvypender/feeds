@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gemini 4 Carbon probado a fondo: supera a Argon en código, apps y escritura, pero es más lento y caro — Frame &amp; Prompt</title>
+  <meta name="description" content="Gemini 4 Carbon, el nuevo modelo frontier de Google enfocado en ciberseguridad y Long Horizon Work, supera a Gemini 4 Argon en todos los benchmarks y demuestra una calidad superior en generación de juegos, apps de negocio, corrección de bugs y escritura. Sin embargo, es más lento en edición de video">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Gemini 4 Carbon probado a fondo: supera a Argon en código, apps y escritura, pero es más lento y caro">
+  <meta property="og:description" content="Gemini 4 Carbon, el nuevo modelo frontier de Google enfocado en ciberseguridad y Long Horizon Work, supera a Gemini 4 Argon en todos los benchmarks y demuestra una calidad superior en generación de juegos, apps de negocio, corrección de bugs y escritura. Sin embargo, es más lento en edición de video">
+  <meta property="og:image" content="https://i.ytimg.com/vi/YTA_DsiYwAc/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-YTA_DsiYwAc.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Gemini 4 Carbon probado a fondo: supera a Argon en código, apps y escritura, pero es más lento y caro">
+  <meta name="twitter:description" content="Gemini 4 Carbon, el nuevo modelo frontier de Google enfocado en ciberseguridad y Long Horizon Work, supera a Gemini 4 Argon en todos los benchmarks y demuestra una calidad superior en generación de juegos, apps de negocio, corrección de bugs y escritura. Sin embargo, es más lento en edición de video">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/YTA_DsiYwAc/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-YTA_DsiYwAc.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Gemini 4 Carbon probado a fondo: supera a Argon en código, apps y escritura, pero es más lento y caro</h1>
+        <div class="metadata">
+          <span>Por <strong>Paul J Lipsky</strong></span>
+          <time datetime='2026-11-10T17:10:18.884077-05:00'>2026-11-10</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/YTA_DsiYwAc" title="Gemini 4 Carbon probado a fondo: supera a Argon en código, apps y escritura, pero es más lento y caro" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=YTA_DsiYwAc" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Gemini 4 Carbon, el nuevo modelo frontier de Google enfocado en ciberseguridad y Long Horizon Work, supera a Gemini 4 Argon en todos los benchmarks y demuestra una calidad superior en generación de juegos, apps de negocio, corrección de bugs y escritura. Sin embargo, es más lento en edición de video y su acceso queda restringido a suscriptores de Google AI Ultra y desarrolladores de pago, con un precio introductorio de $2/$10 por millón de tokens que subirá a $4/$20 a finales de noviembre.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Paul J Lipsky</strong>: <a href="https://www.youtube.com/watch?v=YTA_DsiYwAc" target="_blank" rel="noopener">Gemini 4 Carbon Is Here (Fully Tested)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un modelo frontier con acceso restringido y precios que suben</h3>
+<p>Gemini 4 Carbon llegó al mercado con una disponibilidad limitada que ha generado críticas entre la comunidad. Google lo lanzó globalmente para suscriptores de <strong>Google AI Ultra</strong> en la app Gemini, Google Antigravity y AI Mode de Google Search, pero dejó fuera a los usuarios del plan Pro, una decisión que el autor del análisis considera un error y espera que se corrija pronto. Los desarrolladores en el tier de pago pueden acceder a través de <strong>Gemini API, Google AI Studio y Android Studio</strong>, mientras que las empresas lo hacen vía Gemini for Business.</p>
+<p>El precio es otro punto de fricción. Google ofrece una tarifa introductoria para desarrolladores de <strong>$2 por millón de tokens de entrada y $10 por millón de tokens de salida</strong> hasta finales de noviembre. A partir de diciembre, el costo se duplica: <strong>$4 por millón de tokens de entrada y $20 por millón de tokens de salida</strong>. Este esquema de precios, combinado con la restricción de acceso, plantea un dilema para los profesionales que quieran integrar Carbon en sus flujos de trabajo sin comprometerse con el plan Ultra.</p>
+<p>La comparación con Argon es inevitable: ambos son modelos de Google, pero Carbon llega solo cuatro semanas después de Argon y, según las pruebas, lo supera en todos los benchmarks. Esa rápida evolución sugiere que Google está acelerando su hoja de ruta, aunque el costo y la disponibilidad limitada podrían frenar su adopción masiva.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Juegos y generación de imágenes por código: Carbon marca la diferencia</h3>
+<p>El primer experimento consistió en crear un juego llamado <strong>Bioluminescent Voice Morphing Engine</strong>, una app que reacciona a la voz con formas animadas. Carbon generó desde cero un resultado visualmente llamativo sin necesidad de instrucciones específicas, demostrando una comprensión intuitiva de la estética. En el juego de naves tipo Star Fox, la diferencia fue aún más clara: Carbon produjo una nave con giros, boost, disparos, anillos y una física de pitch realista, mientras que Argon generó una versión con naves más blocky, sin giros, menos responsiva y menos jugable. El veredicto fue contundente: Carbon es claramente superior en gameplay.</p>
+<p>En el juego top-down de capture-the-flag con paintballs, Carbon mostró personajes más detallados, gráficos menos blocky y un gameplay más fluido. Argon, en cambio, resultó más borroso, con movimiento menos suave y una estética más primitiva. La diferencia en calidad gráfica y respuesta de control fue evidente incluso para un observador casual.</p>
+<p>La generación de imágenes por código reveló un matiz interesante. Al pedir un retrato de anciano, Carbon generó una imagen con mucho más detalle y nitidez que Argon, que produjo una boca superpuesta a la barba de forma extraña. Sin embargo, el experimento más revelador fue la recreación de una foto personal de hiking: Argon produjo un resultado &#x27;fantástico&#x27; pero haciendo trampa, es decir, incrustando la foto original como una lista de números en el código. Carbon, en cambio, intentó reconstruir el rostro, la roca y el cielo con matemáticas puras, lo que dio un look de personaje de videojuego. La conclusión es que <strong>Carbon sigue las instrucciones más literalmente y no hace trampa</strong>, aunque el resultado sea menos fotorrealista. Si se busca el atajo de Argon, basta con pedírselo explícitamente a Carbon y lo replica fácilmente.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Apps de negocio y corrección de bugs: donde Carbon brilla de verdad</h3>
+<p>El autor creó una app de contabilidad llamada <strong>Free Books</strong> con Carbon, que reemplazó un software por el que pagaba aproximadamente <strong>$60 al mes</strong>. La app funciona con carga manual de CSV, aunque la importación automática de transacciones bancarias sigue siendo el reto pendiente. Lo notable es que casi todas las apps creadas con Carbon funcionaron a la primera, sin necesidad de iteraciones correctivas. Esa fiabilidad es uno de los puntos fuertes del modelo para tareas de desarrollo práctico.</p>
+<p>El caso más sorprendente fue la corrección de un bug en el app switcher de macOS. Un fallo donde las apps minimizadas mostraban solo el icono en vez de la preview no fue resuelto por <strong>Opus 5.5, Astra ni Fable 5.1</strong>, modelos de otros proveedores. Carbon, en cambio, lo arregló en un solo intento. Este resultado no solo demuestra la capacidad de Carbon para entender código existente, sino también su superioridad en tareas de depuración complejas, un área donde la mayoría de los modelos suelen fallar.</p>
+<p>Para quienes usan Google Antigravity, el autor recomienda dar siempre una dirección estilística explícita al pedir apps, porque de lo contrario el resultado tiene una estética genérica &#x27;Google vibe coded&#x27;. También aconseja indicar explícitamente que no se sature la interfaz, ya que Carbon tiende a amontonar elementos en dashboards y pantallas. Estos consejos prácticos marcan la diferencia entre una app funcional y una experiencia de usuario pulida.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Escritura y edición de video: el mejor modelo para texto, pero más lento en video</h3>
+<p>En el terreno de la escritura, Carbon se coronó como el mejor modelo disponible actualmente según el autor. Generó un cuento cómico sobre un anciano abducido por aliens y un guion de video usando archivos locales con el tono de voz del autor, logrando que el texto sonara natural y coherente con su estilo. Para escritura profesional, la recomendación es pasarle archivos con muestras de tu tono y estilo para que el modelo adapte el registro. Esta capacidad de personalización es especialmente valiosa para guionistas y creadores de contenido.</p>
+<p>La edición de video fue otro campo de prueba. Carbon editó un video completo en un solo shot, eliminando errores y silencios, eligiendo b-roll y creando motion graphics. El resultado fue perfecto, pero sustancialmente más lento que Opus 5.5, el modelo que el autor usaba previamente para esta tarea. Esa lentitud podría ser un factor disuasorio para flujos de trabajo que requieren iteración rápida, aunque la calidad del resultado final compensa en proyectos donde la precisión es más importante que la velocidad.</p>
+<p>En el uso diario dentro de la app Gemini, Carbon no muestra una diferencia dramática frente a Argon para tareas cotidianas. La mejora se nota en flujos serios, brainstorming profundo y creación de apps. Para el día a día, el autor recomienda reservar <strong>Gemini 3.8 Flash</strong> para tareas ligeras y usar Carbon High solo cuando se requiera máxima calidad, evitando así agotar la cuota de uso. Esta estrategia de dosificación es clave para quienes trabajan con el plan Ultra y necesitan estirar sus límites.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Implicaciones para la comunidad: acceso, costo y futuro</h3>
+<p>La restricción de Carbon a los suscriptores de Google AI Ultra y a los desarrolladores de pago ha generado un debate sobre la democratización de la inteligencia artificial. Mientras que Argon estaba disponible para un espectro más amplio de usuarios, Carbon llega con una barrera de entrada que excluye a los planes Pro. El autor critica esta decisión y espera que Google amplíe el acceso pronto, especialmente porque el modelo demuestra ser superior en casi todas las tareas.</p>
+<p>El precio introductorio de la API es competitivo, pero la duplicación prevista para finales de noviembre podría enfriar el entusiasmo de los desarrolladores. Para las empresas, el costo de $20 por millón de tokens de salida puede ser significativo en aplicaciones de alto volumen, aunque la calidad justifica la inversión en casos de uso críticos como ciberseguridad y Long Horizon Work, los campos para los que Carbon fue diseñado.</p>
+<p>En definitiva, Gemini 4 Carbon es un salto cualitativo en la familia de modelos de Google, pero su éxito dependerá de cómo evolucione su disponibilidad y su estructura de precios. Por ahora, es una herramienta poderosa para quienes pueden pagarla, y un recordatorio de que la frontera de la IA sigue avanzando a un ritmo que deja atrás tanto a los modelos anteriores como a los competidores.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Precio API de Gemini 4 Carbon: $2/$10 por millón de tokens (input/output) hasta finales de noviembre; luego $4/$20.</li>
+<li>Carbon resolvió en un solo intento un bug que Opus 5.5, Astra y Fable 5.1 no pudieron arreglar.</li>
+<li>Para evitar estética genérica en apps con Antigravity, dar siempre dirección estilística explícita y pedir que no se sature la interfaz.</li>
+<li>Usar Gemini 3.8 Flash para tareas cotidianas y reservar Carbon High para trabajos complejos y así ahorrar cuota.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Gemini 4 Carbon</strong> — Modelo frontier de Google para ciberseguridad y Long Horizon Work; genera juegos, apps, imágenes por código, escritura y edición de video.</li>
+<li><strong>Gemini 4 Argon</strong> — Modelo anterior de Google usado como baseline de comparación en todas las pruebas.</li>
+<li><strong>Google Antigravity</strong> — App de coding tipo Claude Code/Codex donde se probó Carbon para crear juegos, apps y corregir bugs.</li>
+<li><strong>Gemini (app)</strong> — Interfaz de chat y Tasks (antes Gemini Spark) donde Carbon está disponible para usuarios Ultra.</li>
+<li><strong>Gemini API / Google AI Studio / Android Studio</strong> — Vías de acceso para desarrolladores en el tier de pago.</li>
+<li><strong>Gemini for Business</strong> — Canal de acceso empresarial a Carbon.</li>
+<li><strong>Opus 5.5</strong> — Modelo usado previamente por el autor para editar videos y crear apps; sirve de referencia de velocidad y comparación de bugs.</li>
+<li><strong>Astra</strong> — Modelo probado sin éxito para corregir el bug de previews de ventanas.</li>
+<li><strong>Fable 5.1</strong> — Modelo probado sin éxito para corregir el bug de previews de ventanas.</li>
+<li><strong>Gemini 3.8 Flash</strong> — Modelo recomendado para tareas cotidianas y así ahorrar cuota de Carbon.</li>
+<li><strong>Nano Banana</strong> — Mencionado como referencia de generación de imágenes, distinto del enfoque de imágenes por código.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-YTA_DsiYwAc.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude Code se transforma: agentes en paralelo, chats auxiliares y mods sin programar para no desarrolladores — Frame &amp; Prompt</title>
+  <meta name="description" content="Anthropic ha rediseñado Claude Code para convertirlo en un centro de mando de agentes autónomos: ahora permite lanzar proyectos con un chat coordinador que delega en hilos paralelos, abrir chats auxiliares sin interrumpir la tarea principal, diagnosticar el entorno con /doctor y /skill-doctor, y cre">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Code se transforma: agentes en paralelo, chats auxiliares y mods sin programar para no desarrolladores">
+  <meta property="og:description" content="Anthropic ha rediseñado Claude Code para convertirlo en un centro de mando de agentes autónomos: ahora permite lanzar proyectos con un chat coordinador que delega en hilos paralelos, abrir chats auxiliares sin interrumpir la tarea principal, diagnosticar el entorno con /doctor y /skill-doctor, y cre">
+  <meta property="og:image" content="https://i.ytimg.com/vi/nZaOSQffA8M/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-nZaOSQffA8M.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude Code se transforma: agentes en paralelo, chats auxiliares y mods sin programar para no desarrolladores">
+  <meta name="twitter:description" content="Anthropic ha rediseñado Claude Code para convertirlo en un centro de mando de agentes autónomos: ahora permite lanzar proyectos con un chat coordinador que delega en hilos paralelos, abrir chats auxiliares sin interrumpir la tarea principal, diagnosticar el entorno con /doctor y /skill-doctor, y cre">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/nZaOSQffA8M/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-nZaOSQffA8M.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude Code se transforma: agentes en paralelo, chats auxiliares y mods sin programar para no desarrolladores</h1>
+        <div class="metadata">
+          <span>Por <strong>Xavier Mitjana</strong></span>
+          <time datetime='2026-10-28T17:02:29.626254-05:00'>2026-10-28</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/nZaOSQffA8M" title="Claude Code se transforma: agentes en paralelo, chats auxiliares y mods sin programar para no desarrolladores" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=nZaOSQffA8M" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Anthropic ha rediseñado Claude Code para convertirlo en un centro de mando de agentes autónomos: ahora permite lanzar proyectos con un chat coordinador que delega en hilos paralelos, abrir chats auxiliares sin interrumpir la tarea principal, diagnosticar el entorno con /doctor y /skill-doctor, y crear mods personalizados sin escribir una línea de código. La actualización, presentada por Xavier Mitjana, promete que cualquier persona pueda orquestar tareas complejas desde una interfaz visual, aunque exige aprender a gestionar el contexto y la cuota con precisión.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Xavier Mitjana</strong>: <a href="https://www.youtube.com/watch?v=nZaOSQffA8M" target="_blank" rel="noopener">Claude 2.0 es una locura (todas las novedades explicadas)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del chat único al centro de mando: la nueva arquitectura de Claude Code</h3>
+<p>La actualización de Claude Code no es un simple lavado de cara: cambia la forma en que se interactúa con el modelo. Hasta ahora, la herramienta se percibía como un asistente de programación para expertos; ahora se presenta como un entorno de trabajo donde los agentes pueden ejecutar tareas largas y coordinadas. Xavier Mitjana lo deja claro desde el principio: para proyectos extensos, Claude Code es superior a Computer Use porque integra más herramientas —editor de código, navegador— y recibe las novedades antes. La clave está en la nueva vista de plan en forma de checklist, que descompone cada tarea en pasos y los va marcando a medida que se completan, ofreciendo una transparencia inédita sobre lo que hace el agente.</p>
+<p>El autor recomienda elegir la opción de trabajo en la nube para que Claude siga ejecutando tareas aunque se cierre la computadora, o activar el control remoto para monitorear el progreso desde el móvil. Esta flexibilidad convierte a Claude Code en un asistente persistente, no en una simple ventana de chat. Además, el anillo junto al selector de modelo se convierte en un panel de control esencial: muestra el consumo de la cuota de 5 horas, el plan semanal y el espacio de contexto disponible. Si el contexto se llena, el comando <strong>compact</strong> resume la conversación para liberar espacio, una práctica que Mitjana aconseja interiorizar.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Proyectos con hilos paralelos: el chat coordinador que reparte el trabajo</h3>
+<p>La función más ambiciosa son los proyectos con un chat coordinador. En lugar de una única conversación monolítica, el usuario define un objetivo y el coordinador abre varios hilos de trabajo en paralelo, cada uno con su propio agente. Mitjana lo demuestra con un caso concreto: el lanzamiento de un curso. El coordinador crea tres hilos —temario, ejercicios y página de ventas— que avanzan simultáneamente. Cada hilo deja sus archivos en la pestaña de biblioteca, y el coordinador puede notificar cambios a otros hilos para evitar descoordinaciones. Esta arquitectura imita el trabajo de un equipo humano, pero sin los cuellos de botella de la comunicación.</p>
+<p>El flujo es sencillo: se describe el proyecto, se revisa el plan en checklist y se deja que el coordinador delegue. Los hilos pueden consultarse entre sí si pertenecen al mismo proyecto, lo que permite que, por ejemplo, el hilo de ejercicios adapte su contenido al temario generado por otro hilo. Para el autor, esta es la característica que marca la diferencia para tareas complejas y largas, ya que evita la pérdida de información y la descoordinación típica de los chats únicos. Eso sí, exige una buena gestión del contexto: cada hilo consume recursos y el anillo de cuota lo refleja.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Chats auxiliares y visualización múltiple: preguntar sin interrumpir</h3>
+<p>Otra novedad destacada son los chats auxiliares. Mientras el agente principal trabaja en una tarea, el usuario puede abrir un chat secundario con <strong>Command+;</strong> (o <strong>Ctrl+;</strong> en Windows) o desde el menú de tres puntos. Este chat hereda el contexto de la conversación principal, pero no la interrumpe ni la distrae. Es ideal para hacer una pregunta rápida, verificar un dato o pedir una aclaración sin desviar al agente de su objetivo. Mitjana lo prueba y confirma que el chat auxiliar responde con coherencia y luego se puede cerrar sin afectar al hilo principal.</p>
+<p>La visualización de múltiples chats va un paso más allá: manteniendo <strong>Command</strong> (o <strong>Ctrl</strong>) y haciendo clic en otro chat de la barra lateral, se abren varias conversaciones simultáneas en pantalla. Si pertenecen al mismo proyecto, pueden consultarse entre sí, lo que facilita la coordinación manual. Esta función convierte a Claude Code en una especia de escritorio de agentes, donde el usuario supervisa varios frentes a la vez. Para organizarse, el menú de tres puntos permite agrupar chats en secciones y arrastrarlos por tema, una práctica que el autor recomienda para no perder el hilo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Diagnóstico y limpieza: /doctor y /skill-doctor para un entorno saludable</h3>
+<p>A medida que se acumulan configuraciones, conectores, plugins, instrucciones del sistema y skills, el entorno puede volverse pesado y consumir contexto innecesario. Para ello, Anthropic introduce el comando <strong>/doctor</strong>, que revisa todos estos elementos y propone un plan de limpieza. Mitjana insiste en que no ejecuta cambios sin permiso, por lo que es seguro lanzarlo y revisar las sugerencias. Además, la variante <strong>/doctor prompt</strong> audita las instrucciones y skills, identificando las obsoletas o contradictorias, lo que ayuda a mantener un comportamiento coherente del agente.</p>
+<p>El comando <strong>/skill-doctor</strong> es complementario: muestra cuánto contexto consume cada skill instalada, cuántas veces se ha usado y cuáles nunca se han activado. Con esa información, el usuario puede desactivar las innecesarias y liberar espacio. En la demostración, el autor descubre varias skills que ocupaban contexto sin aportar valor y las desactiva, logrando un entorno más ágil. Estos comandos son especialmente útiles para quienes experimentan con muchas extensiones y necesitan mantener el rendimiento.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Asesores y mods: personalización sin programar</h3>
+<p>La actualización también introduce el comando <strong>/advisor</strong>, que permite configurar un modelo asesor. Mitjana elige Opus como advisor mientras trabaja con Sonnet. Así, Sonnet realiza el trabajo diario y consulta a Opus solo cuando necesita planificar o verificar algo complejo, lo que ahorra cuota del plan. Está en fase experimental, pero el autor comprueba que funciona y que el flujo es transparente: el usuario ve cuándo se consulta al asesor y por qué. Esta configuración es ideal para quienes tienen planes con límites ajustados y quieren reservar el modelo más potente para decisiones críticas.</p>
+<p>La guinda es la posibilidad de crear mods sin programar. Basta con describirle a Claude cómo se quiere cambiar la interfaz o la funcionalidad, y la herramienta genera el mod. Mitjana lo demuestra con un ejemplo práctico: un mod que procesa dictados largos y los convierte en instrucciones claras antes de que Claude empiece a trabajar. El proceso es tan sencillo como escribir la descripción y revisar el resultado. Además, se pueden instalar mods de otros desde el botón &#x27;+&#x27; en plugins, pero el autor advierte que solo deben instalarse de fuentes confiables, porque tienen el mismo acceso que la aplicación. Esta función acerca Claude Code a los no programadores, que pueden adaptar la herramienta a su flujo de trabajo sin tocar código.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Consejos prácticos para exprimir la actualización</h3>
+<p>A lo largo del video, Mitjana ofrece quince tips que resumen la filosofía de uso. Entre ellos, destaca usar Claude Code en lugar de Computer Use para tareas largas, aprovechar la vista de plan en checklist, elegir la nube para que el agente siga trabajando sin la computadora encendida, y revisar el anillo de cuota para no quedarse sin contexto. También recomienda escribir <strong>compact</strong> cuando el contexto se llene, organizar los chats en secciones y, en proyectos, delegar en el chat coordinador para que los hilos paralelos hagan el trabajo pesado.</p>
+<p>Para consultas rápidas, el chat auxiliar es la herramienta ideal; para supervisar varios frentes, la visualización múltiple. Los comandos <strong>/doctor</strong> y <strong>/skill-doctor</strong> deben convertirse en rutina de mantenimiento, y el <strong>/advisor</strong> permite optimizar la cuota. Finalmente, la creación de mods es la puerta de entrada para personalizar la experiencia sin conocimientos técnicos. Con estas prácticas, Claude Code deja de ser un juguete para desarrolladores y se convierte en una plataforma de automatización accesible, aunque exigente en la gestión del contexto y los recursos.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Abre un chat auxiliar con Command+; (Ctrl+; en Windows) para preguntar sin interrumpir la tarea principal.</li>
+<li>Usa /doctor para auditar configuraciones y /doctor prompt para revisar instrucciones y skills obsoletas.</li>
+<li>Ejecuta /skill-doctor para ver el consumo de contexto de cada skill y desactivar las que nunca usas.</li>
+<li>Configura /advisor con Opus como asesor mientras trabajas con Sonnet para ahorrar cuota.</li>
+<li>Si el contexto se llena, escribe &#x27;compact&#x27; para que Claude resuma la conversación y libere espacio.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Claude Code</strong> — Herramienta de Anthropic para orquestar agentes, proyectos con hilos paralelos, chats auxiliares y mods sin programar.</li>
+<li><strong>Claude</strong> — Asistente de IA de Anthropic; en planes Pro y Team integra Computer Use con el chat.</li>
+<li><strong>Sonnet</strong> — Modelo de lenguaje de Anthropic, rápido y de menor consumo, ideal para tareas generales.</li>
+<li><strong>Opus</strong> — Modelo de lenguaje de Anthropic, más potente, usado como advisor para consultas puntuales.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-nZaOSQffA8M.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GPT Image 2.6 en Photoshop con Radbin: genera GIFs y SVGs animados, pero falla en restauración de fotos y logos — Frame &amp; Prompt</title>
+  <meta name="description" content="GPT Image 2.6 ya está disponible dentro de Photoshop gracias al plugin Radbin, y su gran novedad es la generación de GIFs y SVGs animados directamente en el flujo de trabajo. En las pruebas, el modelo brilla en fotorrealismo, composición e iluminación, superando a GPT Image 2.5, Flux 3 y otros rival">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="GPT Image 2.6 en Photoshop con Radbin: genera GIFs y SVGs animados, pero falla en restauración de fotos y logos">
+  <meta property="og:description" content="GPT Image 2.6 ya está disponible dentro de Photoshop gracias al plugin Radbin, y su gran novedad es la generación de GIFs y SVGs animados directamente en el flujo de trabajo. En las pruebas, el modelo brilla en fotorrealismo, composición e iluminación, superando a GPT Image 2.5, Flux 3 y otros rival">
+  <meta property="og:image" content="https://i.ytimg.com/vi/n_wlT8z026M/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-n_wlT8z026M.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="GPT Image 2.6 en Photoshop con Radbin: genera GIFs y SVGs animados, pero falla en restauración de fotos y logos">
+  <meta name="twitter:description" content="GPT Image 2.6 ya está disponible dentro de Photoshop gracias al plugin Radbin, y su gran novedad es la generación de GIFs y SVGs animados directamente en el flujo de trabajo. En las pruebas, el modelo brilla en fotorrealismo, composición e iluminación, superando a GPT Image 2.5, Flux 3 y otros rival">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/n_wlT8z026M/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-n_wlT8z026M.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">GPT Image 2.6 en Photoshop con Radbin: genera GIFs y SVGs animados, pero falla en restauración de fotos y logos</h1>
+        <div class="metadata">
+          <span>Por <strong>Pouya Eti</strong></span>
+          <time datetime='2026-11-06T17:09:38.577453-05:00'>2026-11-06</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/n_wlT8z026M" title="GPT Image 2.6 en Photoshop con Radbin: genera GIFs y SVGs animados, pero falla en restauración de fotos y logos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=n_wlT8z026M" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">GPT Image 2.6 ya está disponible dentro de Photoshop gracias al plugin Radbin, y su gran novedad es la generación de GIFs y SVGs animados directamente en el flujo de trabajo. En las pruebas, el modelo brilla en fotorrealismo, composición e iluminación, superando a GPT Image 2.5, Flux 3 y otros rivales, pero decepciona en la restauración de fotos antiguas y en la creación de un logo específico. La mejora frente a su predecesor es marginal en personajes de videojuegos, y los resultados en SVGs requieren varios intentos. Aquí tienes el análisis completo, los experimentos paso a paso y cómo exportar tus propios GIFs y SVGs.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Pouya Eti</strong>: <a href="https://www.youtube.com/watch?v=n_wlT8z026M" target="_blank" rel="noopener">GPT Image 2.6 Just Dropped: I Tested It in Photoshop (Radbin, And It&#x27;s Not Just Images Anymore)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Radbin: el puente entre GPT Image 2.6 y Photoshop</h3>
+<p>La integración de GPT Image 2.6 en Photoshop se realiza a través de <strong>Radbin</strong>, un plugin que se instala automáticamente vía Adobe Creative Cloud desde el enlace de la descripción del video. Radbin no solo funciona con Photoshop, sino también con Premiere Pro, y comparte los mismos créditos entre ambas aplicaciones. Para empezar, el creador selecciona el modelo GPT Image 2.6 dentro del plugin y elige entre dos modos de generación: <strong>Flare</strong>, más rápido, y <strong>Sunburst</strong>, que ofrece mayor detalle. En sus pruebas, Pouya Eti optó por Sunburst para exprimir la calidad. Además, el plugin permite configurar la resolución hasta <strong>4K</strong> y la calidad en niveles <em>High</em> o <em>Max</em>; este último se reserva para proyectos que exijan el máximo detalle. La interfaz también ofrece la opción de <strong>Edit Selection</strong> para modificar una parte específica de una imagen existente, o <strong>New image</strong> para generar una nueva capa o archivo desde cero. Es importante notar que el plugin requiere un plan de pago, aunque el mismo plan cubre tanto Photoshop como Premiere Pro con los mismos créditos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Fotorrealismo y composición: donde GPT Image 2.6 se luce</h3>
+<p>El primer experimento consistió en generar una miniatura para YouTube. GPT Image 2.6 mostró una mejora sustancial frente a GPT Image 2 en cuanto a ideas, edición y composición. El segundo test, un anuncio de helado, puso a prueba los detalles, los materiales y los efectos de retroiluminación. Con calidad <em>Max</em>, los detalles fueron precisos, y el modelo superó a GPT Image 2 y 2.5. Frente a Flux 1, GPT Image 2.6 ganó en composición, iluminación y color, aunque Flux 1 mantuvo un buen nivel de detalle. En el tercer test, un anuncio de bebida energética, GPT Image 2.6 exhibió colores realistas, un limón con corte y semillas bien definidos, y gotas de agua convincentes. GPT Image 2.5 falló en el limón y en los ojos, mientras que Flux 3 mostró buen detalle pero peor composición. Estos resultados confirman que GPT Image 2.6 es especialmente fuerte en escenas publicitarias que requieren realismo y una iluminación cuidada.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Restauración de fotos antiguas: el punto débil</h3>
+<p>El cuarto experimento buscó restaurar una foto antigua. Aquí GPT Image 2.6 falló rotundamente: no logró reconstruir los detalles con fidelidad. En cambio, <strong>Seedream 5 Pro</strong> y <strong>Nano Banana 2.1</strong> obtuvieron buenos resultados. La conclusión es clara: GPT Image no es la herramienta adecuada para restauración fotográfica. Si tu objetivo es devolver la vida a imágenes deterioradas, conviene recurrir a modelos especializados como los mencionados, que manejan mejor la reconstrucción de texturas y rostros.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Personajes de videojuegos y logos: mejoras marginales y fallos inesperados</h3>
+<p>En el quinto test, la generación de personajes de videojuegos, GPT Image 2.6 logró buenos resultados, pero sin una gran mejora sobre GPT Image 2.5; en algunos casos, 2.5 podría ser incluso mejor. Esto sugiere que el salto de versión no es revolucionario en este tipo de contenido. El sexto test se centró en logos. GPT Image 2.6 falló al generar un logo con la letra R: el resultado mostró un área transparente negra extraña. GPT Image 2.5 fue superior en ese caso. Sin embargo, en un logo de hamburguesería, GPT Image 2.6 generó un fondo completamente transparente y un buen estilo, superando a 2 y 2.5. La lección es que la calidad en logos es inconsistente y depende en gran medida del prompt y de la complejidad del diseño.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">GIFs y SVGs: la nueva frontera creativa dentro de Photoshop</h3>
+<p>La gran novedad de GPT Image 2.6 es la capacidad de generar <strong>SVGs</strong> y <strong>GIFs animados</strong> directamente en Photoshop. Para crear un SVG, se selecciona <em>New image</em>, luego <em>Vector (SVG)</em> y se describe el prompt; el resultado será un archivo vectorial. Para un GIF, se elige <em>New image</em>, luego <em>GIF</em> y se describe el movimiento o la animación deseada, por ejemplo: <em>un logo que se construye</em>, <em>un personaje saludando</em>, <em>un gato mirando</em> o <em>un producto rotando</em>. Cada fotograma del GIF se genera en una capa separada, lo que permite reproducirlo desde <em>Ventana &gt; Línea de tiempo</em> y pulsar play. Para exportarlo, se va a <em>Archivo &gt; Exportar &gt; Guardar para web</em>, se selecciona formato GIF, se marca <em>Bucle infinito</em> y se ajusta la resolución antes de guardar. En las pruebas, el GIF de una hamburguesa construyéndose, un personaje saludando, un gato y un producto rotando funcionaron bien. Sin embargo, el primer logo SVG de hamburguesa no fue bueno, y fue necesario reformular el prompt y reintentar varias veces para obtener buenos resultados en logos e iconos. Para animaciones complejas, conviene explicar claramente la secuencia de movimiento en el prompt, por ejemplo: <em>mostrar el proceso de preparación de una hamburguesa</em>.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Rendimiento, precios y conclusiones del creador</h3>
+<p>GPT Image 2.6 es más rápido que GPT Image 2.5 y permite mayor calidad y resolución hasta 4K. El plugin Radbin requiere un plan de pago, pero el mismo plan cubre Radbin para Premiere Pro con los mismos créditos, lo que lo hace versátil para editores que trabajan con ambos programas. El creador destaca que el video fue editado completamente con Radbin para Premiere Pro en pocos minutos, lo que demuestra su eficiencia en flujos de trabajo reales. En resumen, GPT Image 2.6 es una herramienta potente para fotorrealismo y composición publicitaria, y su capacidad de generar GIFs y SVGs animados dentro de Photoshop abre nuevas posibilidades creativas. No obstante, no es recomendable para restauración de fotos antiguas ni para logos que requieran precisión tipográfica, y su mejora en personajes de videojuegos es marginal. La recomendación es usarlo para escenas realistas y animaciones simples, y recurrir a alternativas como Seedream 5 Pro o Nano Banana 2.1 para restauración.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para generar un SVG en Radbin: New image &gt; Vector (SVG) &gt; describe el prompt.</li>
+<li>Para generar un GIF: New image &gt; GIF &gt; describe el movimiento (ej. &#x27;un logo que se construye&#x27;).</li>
+<li>Exportar GIF: Archivo &gt; Exportar &gt; Guardar para web &gt; formato GIF &gt; marcar &#x27;Bucle infinito&#x27;.</li>
+<li>Para animaciones, detalla la secuencia de movimiento en el prompt para mejores resultados.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://radbin.ai/" target="_blank" rel="noopener"><strong>Radbin</strong></a> — Plugin para Photoshop y Premiere Pro que integra GPT Image 2.6 y otros modelos de IA para generar imágenes, SVGs y GIFs, así como edición con IA.</li>
+<li><a href="https://openai.com/index/introducing-images-2-6/" target="_blank" rel="noopener"><strong>GPT Image 2.6</strong></a> — Modelo de generación de imágenes de OpenAI que ahora también genera SVGs y GIFs animados; disponible vía API o ChatGPT.</li>
+<li><strong>Flux 3</strong> — Modelo de generación de imágenes comparado con GPT Image 2.6; destaca en detalle pero no en composición.</li>
+<li><strong>Seedream 5 Pro</strong> — Modelo de generación de imágenes usado para restauración de fotos antiguas, con buenos resultados.</li>
+<li><strong>Nano Banana 2.1</strong> — Modelo de generación de imágenes usado para restauración de fotos antiguas, con buenos resultados.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-n_wlT8z026M.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

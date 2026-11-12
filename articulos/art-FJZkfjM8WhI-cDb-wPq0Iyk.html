@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude Opus 5.5 vs diseñador humano: dos pruebas reales de motion graphics automáticos con Blender, ElevenLabs y Suno — Frame &amp; Prompt</title>
+  <meta name="description" content="Claude Opus 5.5, combinado con habilidades personalizadas y conectores como Higgsfield, ElevenLabs o Blender, iguala en velocidad y consistencia a un diseñador de motion graphics humano, aunque carece de intuición creativa y control manual fino. Los experimentos de Kaye Creates y Rourke Heath demues">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Opus 5.5 vs diseñador humano: dos pruebas reales de motion graphics automáticos con Blender, ElevenLabs y Suno">
+  <meta property="og:description" content="Claude Opus 5.5, combinado con habilidades personalizadas y conectores como Higgsfield, ElevenLabs o Blender, iguala en velocidad y consistencia a un diseñador de motion graphics humano, aunque carece de intuición creativa y control manual fino. Los experimentos de Kaye Creates y Rourke Heath demues">
+  <meta property="og:image" content="https://i.ytimg.com/vi/FJZkfjM8WhI/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-FJZkfjM8WhI-cDb-wPq0Iyk.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude Opus 5.5 vs diseñador humano: dos pruebas reales de motion graphics automáticos con Blender, ElevenLabs y Suno">
+  <meta name="twitter:description" content="Claude Opus 5.5, combinado con habilidades personalizadas y conectores como Higgsfield, ElevenLabs o Blender, iguala en velocidad y consistencia a un diseñador de motion graphics humano, aunque carece de intuición creativa y control manual fino. Los experimentos de Kaye Creates y Rourke Heath demues">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/FJZkfjM8WhI/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-FJZkfjM8WhI-cDb-wPq0Iyk.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude Opus 5.5 vs diseñador humano: dos pruebas reales de motion graphics automáticos con Blender, ElevenLabs y Suno</h1>
+        <div class="metadata">
+          <span>Por <strong>Kaye Creates + Rourke Heath</strong></span>
+          <time datetime='2026-11-08T07:07:35.824796-05:00'>2026-11-08</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/FJZkfjM8WhI" title="Claude Opus 5.5 vs diseñador humano: dos pruebas reales de motion graphics automáticos con Blender, ElevenLabs y Suno" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=FJZkfjM8WhI" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Claude Opus 5.5, combinado con habilidades personalizadas y conectores como Higgsfield, ElevenLabs o Blender, iguala en velocidad y consistencia a un diseñador de motion graphics humano, aunque carece de intuición creativa y control manual fino. Los experimentos de Kaye Creates y Rourke Heath demuestran que se pueden producir reels y anuncios en menos de una hora por unos pocos dólares, frente a las 5,5 horas y 200-500 USD de un freelancer. La calidad es suficiente para redes sociales, pero el toque humano sigue marcando la diferencia en proyectos de alta gama.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Kaye Creates</strong>: <a href="https://www.youtube.com/watch?v=FJZkfjM8WhI" target="_blank" rel="noopener">How To Make Insane Video Editing With Opus 5.5 (Claude Motion)</a> · <strong>Rourke Heath</strong>: <a href="https://www.youtube.com/watch?v=cDb-wPq0Iyk" target="_blank" rel="noopener">Claude Opus 5.5: How To Make Motion Graphics</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El experimento que mide la brecha entre IA y talento humano</h3>
+<p>Kaye Creates, creadora de contenido especializada en flujos de trabajo con IA, se propuso cuantificar algo que muchos intuyen pero pocos han medido: ¿qué tan cerca está Claude de un diseñador de motion graphics profesional? Para ello diseñó dos pruebas idénticas en las que un humano y la IA partían del mismo material. La primera consistía en editar un <em>talking-head reel</em> —un video de una persona hablando a cámara— y la segunda en crear desde cero un video completo de motion graphics a partir únicamente de la voz. El objetivo no era solo comparar el resultado estético, sino también el tiempo, el coste y el grado de control creativo.</p>
+<p>Para la prueba con IA, Kaye utilizó <strong>Claude</strong> con dos extensiones clave: la skill <strong>Claude Motion</strong> —un archivo de reglas de diseño, espaciado y curvas de animación— y el <strong>MCP de Higgsfield</strong>, que permite generar imágenes y clips de video directamente dentro de la conversación. El diseñador humano, por su parte, trabajó con su flujo habitual y cobró su tarifa estándar de mercado: entre <strong>200 y 500 USD</strong> por un talking-head reel y más de <strong>500 USD</strong> por un motion graphic completo. La IA, en cambio, requería una suscripción a Claude más créditos de Higgsfield, con un coste estimado de <strong>2 a 3 USD</strong> por pieza.</p>
+<p>El primer asalto consistió en editar el mismo clip sin editar. Claude eliminó automáticamente silencios y tomas malas, sincronizó los subtítulos con la voz y añadió motion graphics y B-roll generado por IA. El resultado inicial era sorprendentemente cercano al del humano, aunque con un <em>pacing</em> más lento y algunos textos demasiado pequeños. Tras varias iteraciones en las que Kaye aportó referencias visuales adicionales y corrigió detalles mediante prompting, la calidad mejoró hasta difuminar la frontera. El tiempo empleado por Claude fue de unos <strong>50 minutos</strong>, incluyendo la recolección de referencias y las iteraciones, frente a las <strong>5,5 horas</strong> del diseñador humano.</p>
+<p>El segundo asalto fue más ambicioso: crear un video completo de motion graphics partiendo solo del audio de la voz. Kaye subió el archivo de sonido y proporcionó referencias de estilo de motion design. Claude generó un video con tipografía sincronizada, transiciones y clips generados. El primer intento adolecía de los mismos problemas —texto pequeño y animaciones lentas—, que se corrigieron con instrucciones específicas. El resultado final fue tan pulido que la propia creadora dudó de que fuera obra de una IA. El humano, en cambio, destacó por transiciones 3D personalizadas y un acabado más orgánico. El tiempo de Claude fue inferior a <strong>una hora</strong>, mientras que el humano probablemente habría necesitado un día completo. El veredicto de Kaye es claro: para contenido social, la calidad de Claude es más que suficiente; el humano aporta un toque personal y creatividad única que la IA aún no replica.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Claude Motion y Higgsfield: el kit de herramientas para editar sin salir del chat</h3>
+<p>La clave para que Claude pueda editar video y generar motion graphics no está solo en el modelo, sino en las extensiones que le dan capacidades específicas. <strong>Claude Motion</strong> es una skill personalizada —un archivo que se adjunta a la conversación— que contiene reglas de diseño, espaciado, curvas de animación y buenas prácticas para que los resultados tengan un acabado profesional. Sin ella, Claude tiende a producir animaciones genéricas y desalineadas. Kaye la ha publicado en &lt;a href=&quot;https://higgsfield.ai/s/claude-motion-2-kaye-creatives-zJgoqE&quot;&gt;este enlace&lt;/a&gt; para que otros creadores puedan usarla.</p>
+<p>El <strong>MCP de Higgsfield</strong> es un conector que otorga a Claude acceso directo a modelos de generación de imágenes y video. Esto permite crear B-roll personalizado sin salir de la conversación, evitando depender de clips de stock repetidos. En el experimento, Claude generó clips de apoyo que se integraron en la edición de forma coherente con el estilo visual. El coste de estos créditos es bajo: unos pocos dólares por reel, lo que hace que el flujo sea accesible para creadores individuales.</p>
+<p>El proceso de trabajo que propone Kaye es iterativo y conversacional. Primero se sube el clip original sin editar y se proporciona el guion exacto de lo que se dice para que Claude sincronice cortes y subtítulos. Luego se incluyen dos o tres referencias visuales —estilos de edición, fuentes, paletas de colores— y se adjunta la skill de Claude Motion. El brief se escribe en lenguaje natural, sin tecnicismos, describiendo el estilo, el ritmo y los assets deseados. La primera generación es un borrador; a partir de ahí se itera agregando más referencias y corrigiendo detalles como el tamaño del texto o la velocidad de las animaciones. Para el segundo test, el de motion graphics desde voz, se sube solo el audio y se usa una skill específica para motion graphics, diferente a la de edición de talking head, lo que produce resultados más pulidos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Tres niveles de complejidad: de un anuncio básico a la iluminación cinematográfica</h3>
+<p>Rourke Heath, por su parte, aborda el mismo reto desde una perspectiva más técnica y estructurada en tres niveles de complejidad. En el <strong>nivel 1</strong>, se le pide a Claude que cree un storyboard numerado y luego genere la animación directamente. El ejemplo es un anuncio de Spotify. La comparación entre una versión sin sonido y otra con diseño sonoro revela una diferencia abismal en la percepción de calidad: el audio es crucial. En este nivel, Claude puede producir un anuncio funcional en <strong>8 a 12 minutos</strong>, pero la falta de referencias de alta calidad puede dar lugar a logos borrosos o inexactos, como ocurrió con un anuncio de Candy Crush en el que se usó una captura de pantalla recortada como logo. Al sustituirla por una referencia de alta resolución, el resultado mejoró notablemente.</p>
+<p>El <strong>nivel 2</strong> incorpora herramientas de IA especializadas. Para un anuncio de GenHQ, Rourke utilizó imágenes generadas por IA y la herramienta <em>puppet tool</em> para animar personajes. Integró una voz en off generada con <strong>ElevenLabs</strong> y música personalizada creada con <strong>Suno</strong>. El conector de ElevenLabs dentro de Claude permite generar una voz que se ajuste exactamente a la duración del video, mientras que Claude puede pedir a Suno una pista de la duración exacta. El resultado es un anuncio profesional con un coste muy bajo: el video de Spotify tomó de 8 a 12 minutos, y el de AirPods con Blender se creó en <strong>30 minutos por 2 USD</strong>.</p>
+<p>El <strong>nivel 3</strong> es el más avanzado: la conexión de Claude con <strong>Blender</strong> para crear anuncios 3D con iluminación cinematográfica, sin necesidad de abrir Blender manualmente. La diferencia entre una animación de AirPods hecha solo con Claude —con luces planas y poco realismo— y una hecha con Blender es drástica. En el primer intento con Blender, el estuche de AirPods no se parecía al real y los tallos de los auriculares atravesaban el estuche; se corrigió comparando con el producto físico y dando instrucciones específicas. Para lograr un look cinematográfico, Rourke recomienda pedir un efecto de profundidad de campo shallow (fondo desenfocado) y usar una sola fuente de luz de referencia en lugar de luces múltiples. Además, para transicionar de la animación a footage real, se proporciona una imagen de referencia del último fotograma y se indica a Claude que la animación debe terminar exactamente en esa imagen.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Consejos prácticos para exprimir Claude en motion graphics</h3>
+<p>A lo largo de ambos experimentos se destilan una serie de prácticas que marcan la diferencia entre un resultado amateur y uno profesional. La primera es <strong>usar referencias de assets reales de alta calidad</strong>: logos, capturas de pantalla o imágenes del producto. Claude tiende a inventar versiones falsas si no se le proporcionan materiales auténticos, y la calidad de estos determina la fidelidad del resultado. La segunda es <strong>crear un storyboard numerado y aprobarlo antes de animar</strong>, para evitar gastar créditos en animaciones no deseadas. Rourke insiste en que cada plano se transforme en el siguiente sin usar cross-dissolves, empleando transformaciones de formas y movimiento continuo, y en mantener el foco de la animación en el centro del encuadre para que la vista no se disperse.</p>
+<p>Otro consejo recurrente es <strong>asegurar que siempre haya movimiento en la escena</strong>, ya sea de cámara o de objetos, para evitar que el video se vea estático. En cuanto al texto, se recomienda evitar rebotes y desvanecimientos y optar por un estilo premium en el que cada palabra se desliza hacia arriba en su lugar, una tras otra. El orden de trabajo también importa: primero se hacen los visuales y luego el diseño de sonido, porque cambios en la animación pueden desincronizar el audio. Para el diseño sonoro, Rourke recomienda bibliotecas de alta calidad como <strong>Ocular Sounds</strong> —en la que gastó alrededor de <strong>500 £</strong> para comprar todos sus efectos— o alternativas más económicas como <strong>Artlist</strong>.</p>
+<p>La iteración es parte esencial del flujo. La primera generación de Claude es un borrador; se debe refinar con prompting y referencias adicionales. En el caso de Blender, comparar la animación con el producto físico real es imprescindible para corregir detalles. Para quienes quieran empezar, Rourke ofrece un <strong>skill gratuito</strong> a través de <strong>GenHQ</strong>, una plataforma de educación y bolsa de trabajo para creativos de IA que ha generado más de un millón de dólares en ingresos documentados para sus estudiantes y que actualmente ofrece más de medio millón de dólares en trabajos disponibles. El skill contiene conocimientos de dos semanas de pruebas y está diseñado para mejorar los resultados de animación con Claude.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Costes, tiempos y el veredicto: ¿puede la IA sustituir al freelancer?</h3>
+<p>La comparación económica es contundente. Mientras que un diseñador de motion graphics freelance cobra entre <strong>200 y 500 USD</strong> por un talking-head reel y más de <strong>500 USD</strong> por un motion graphic completo, el coste con IA se reduce a unos <strong>2 o 3 USD</strong> por pieza, sumando la suscripción a Claude y los créditos de Higgsfield. En cuanto al tiempo, Claude completó el primer test en unos <strong>50 minutos</strong> y el segundo en menos de <strong>una hora</strong>, frente a las <strong>5,5 horas</strong> del humano en el primer caso y probablemente un día completo en el segundo. Para Rourke, el anuncio de AirPods con Blender se creó en <strong>30 minutos por 2 USD</strong>, y el de Spotify tomó de 8 a 12 minutos.</p>
+<p>Sin embargo, la calidad no es idéntica. Claude carece de intuición creativa: depende de las referencias que se le proporcionen y no puede tomar decisiones estéticas por sí mismo. Tampoco ofrece control manual fino; no se puede arrastrar un elemento en la línea de tiempo, solo prompt. El humano, en cambio, aporta transiciones 3D personalizadas, un sentido del ritmo más orgánico y la capacidad de improvisar soluciones creativas. Para contenido social —reels, anuncios para redes—, la calidad de Claude es más que suficiente y la brecha es menor de lo que se admite. Para proyectos de alta gama o con una identidad de marca muy específica, el toque humano sigue siendo determinante.</p>
+<p>El veredicto de ambos creadores coincide en lo esencial: la IA no sustituye al diseñador, pero transforma radicalmente el flujo de producción. Permite a creadores individuales o pequeños equipos producir motion graphics de calidad profesional en una fracción del tiempo y del coste, reservando al humano para las tareas de dirección creativa y los detalles que marcan la diferencia. La combinación de Claude con habilidades personalizadas, conectores como Higgsfield, ElevenLabs o Blender, y una buena biblioteca de sonido, configura un ecosistema completo que está redefiniendo los límites de la producción audiovisual automatizada.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para editar un talking-head: sube el clip sin editar, proporciona el guion exacto, adjunta la skill Claude Motion y 2-3 referencias visuales; itera sobre el primer borrador.</li>
+<li>Para motion graphics desde voz: sube solo el audio, usa la skill específica de motion graphics y referencias de estilo; corrige tamaño de texto y velocidad de animación en el segundo intento.</li>
+<li>Para animaciones 3D cinematográficas: conecta Claude con Blender, pide profundidad de campo shallow, usa una sola luz de referencia y compara con el producto físico real.</li>
+<li>Para transiciones a footage real: proporciona una imagen de referencia del último fotograma e indica que la animación debe terminar exactamente en esa imagen.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://claude.ai" target="_blank" rel="noopener"><strong>Claude</strong></a> — Modelo de IA para edición de video y generación de motion graphics mediante lenguaje natural.</li>
+<li><a href="https://higgsfield.ai/s/claude-motion-2-kaye-creatives-zJgoqE" target="_blank" rel="noopener"><strong>Claude Motion (skill personalizada)</strong></a> — Archivo con reglas de diseño, espaciado y curvas de animación para resultados profesionales.</li>
+<li><a href="https://higgsfield.ai/s/claude-motion-2-kaye-creatives-zJgoqE" target="_blank" rel="noopener"><strong>Higgsfield MCP</strong></a> — Conector que da a Claude acceso a generación de imágenes y video para B-roll personalizado.</li>
+<li><a href="https://www.blender.org/download/" target="_blank" rel="noopener"><strong>Blender</strong></a> — Programa gratuito de 3D que Claude puede controlar para animaciones con iluminación realista.</li>
+<li><a href="https://elevenlabs.io" target="_blank" rel="noopener"><strong>ElevenLabs</strong></a> — Generación de voces en off realistas; se integra con Claude para ajustar la duración.</li>
+<li><a href="https://suno.com" target="_blank" rel="noopener"><strong>Suno</strong></a> — Generación de música personalizada; Claude puede solicitar una pista de duración exacta.</li>
+<li><a href="https://ocularsounds.com" target="_blank" rel="noopener"><strong>Ocular Sounds</strong></a> — Biblioteca de efectos de sonido de alta calidad recomendada para diseño sonoro.</li>
+<li><a href="https://artlist.io" target="_blank" rel="noopener"><strong>Artlist</strong></a> — Alternativa más económica para efectos de sonido y música de fondo.</li>
+<li><a href="https://join.genhq.io/" target="_blank" rel="noopener"><strong>GenHQ</strong></a> — Plataforma de educación y bolsa de trabajo para creativos de IA; ofrece un skill gratuito para animaciones con Claude.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-FJZkfjM8WhI-cDb-wPq0Iyk.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

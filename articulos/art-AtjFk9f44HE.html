@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude Code automatiza la edición de 20 Reels, debate ideas de negocio con un panel de expertos IA y gestiona Instagram en piloto automático — Frame &amp; Prompt</title>
+  <meta name="description" content="Nate Herk ha creado tres flujos de trabajo con Claude Code que multiplican la productividad creativa: un editor de video que replica el estilo humano tras analizar 27 reels exitosos, un panel de expertos IA que debate y vota ideas de negocio, y una cuenta de Instagram 99% automatizada que logró casi">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Code automatiza la edición de 20 Reels, debate ideas de negocio con un panel de expertos IA y gestiona Instagram en piloto automático">
+  <meta property="og:description" content="Nate Herk ha creado tres flujos de trabajo con Claude Code que multiplican la productividad creativa: un editor de video que replica el estilo humano tras analizar 27 reels exitosos, un panel de expertos IA que debate y vota ideas de negocio, y una cuenta de Instagram 99% automatizada que logró casi">
+  <meta property="og:image" content="https://i.ytimg.com/vi/AtjFk9f44HE/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-AtjFk9f44HE.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude Code automatiza la edición de 20 Reels, debate ideas de negocio con un panel de expertos IA y gestiona Instagram en piloto automático">
+  <meta name="twitter:description" content="Nate Herk ha creado tres flujos de trabajo con Claude Code que multiplican la productividad creativa: un editor de video que replica el estilo humano tras analizar 27 reels exitosos, un panel de expertos IA que debate y vota ideas de negocio, y una cuenta de Instagram 99% automatizada que logró casi">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/AtjFk9f44HE/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-AtjFk9f44HE.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude Code automatiza la edición de 20 Reels, debate ideas de negocio con un panel de expertos IA y gestiona Instagram en piloto automático</h1>
+        <div class="metadata">
+          <span>Por <strong>Matt Wolfe (mreflow)</strong></span>
+          <time datetime='2026-10-28T17:02:49.626254-05:00'>2026-10-28</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/AtjFk9f44HE" title="Claude Code automatiza la edición de 20 Reels, debate ideas de negocio con un panel de expertos IA y gestiona Instagram en piloto automático" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=AtjFk9f44HE" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Nate Herk ha creado tres flujos de trabajo con Claude Code que multiplican la productividad creativa: un editor de video que replica el estilo humano tras analizar 27 reels exitosos, un panel de expertos IA que debate y vota ideas de negocio, y una cuenta de Instagram 99% automatizada que logró casi 2.000 seguidores en 30 días con solo 4-5 horas de trabajo manual. La clave está en la ingeniería inversa de ejemplos exitosos y el uso de sub-agentes para optimizar costes.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Matt Wolfe (mreflow)</strong>: <a href="https://www.youtube.com/watch?v=AtjFk9f44HE" target="_blank" rel="noopener">His AI Made 20 Reels Before Breakfast</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El sistema que edita 20 reels antes del desayuno</h3>
+<p>Nate Herk, creador de automatizaciones con IA, se propuso replicar su propio estilo de edición de video mediante Claude Code. Para ello, aplicó una técnica de <strong>ingeniería inversa</strong> sobre un <em>conjunto de datos dorado</em> compuesto por 27 reels editados por humanos que habían funcionado bien. La IA analizó cuadro por cuadro patrones de escenas, fuentes, efectos, transiciones, niveles de audio y diseño de sonido. Con esa información, construyó una <strong>skill</strong> personalizada que imita su forma de editar.</p>
+<p>El flujo resultante es capaz de generar 20 reels antes del desayuno, incluyendo ideación, scripting, selección de B-roll y videos generados por IA. Para el B-roll y la creación visual, Claude Code utiliza herramientas como <strong>key.AI</strong> y <strong>Hicksfield</strong>, e incluso puede generar escenas 3D en <strong>Blender</strong> sin intervención manual del usuario. La transcripción precisa se obtiene mediante la <strong>API de ElevenLabs</strong>, que resulta <em>súper barata</em> y proporciona marcas de tiempo exactas para sincronizar gráficos y cortes.</p>
+<p>Uno de los hallazgos más interesantes es que la IA puede <em>ver</em> los videos mediante un bucle de captura de pantalla a intervalos regulares. Esto le permite analizar visualmente el contenido y entender señales como <strong>apuntar</strong> en pantalla para colocar logos o elementos gráficos en la posición correcta. Además, al analizar la forma de onda del audio, la IA evita cortes abruptos al final de las palabras, logrando transiciones naturales. Para videos de formato largo en YouTube, el sistema aprende a alternar entre la vista de cámara y la de pantalla, y a hacer zooms automáticos cuando el texto es pequeño, mejorando la legibilidad desde la perspectiva del espectador.</p>
+<p>A pesar de los avances, Nate concluye que la IA aún tiene trabajo por hacer en <strong>diseño de sonido y música</strong>. Sin embargo, está mejorando gracias a un <em>Herkit kit</em> de audios y reglas de uso que entrena al modelo. La retroalimentación continua se gestiona con un <strong>LLM como juez</strong>, que evalúa y refina las habilidades de la IA con el tiempo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">The Roast Room: un panel de expertos IA que debate y vota</h3>
+<p>El segundo flujo de trabajo es <strong>The Roast Room</strong>, un panel de expertos IA que debate ideas de negocio y ofrece planes de acción. Para construir cada agente, Nate definió tres componentes: una <strong>pregunta clave</strong> que debe considerar, una <strong>lente</strong> (cómo piensa, habla y debate) y un <strong>cerebro</strong> con su cosmovisión, libros, marcos, posiciones y anécdotas extraídas de fuentes reales. Por ejemplo, el cerebro de Alex Hormozi se construyó a partir de <strong>1,5 millones de palabras</strong> extraídas de 123 videos, libros, artículos y posts.</p>
+<p>Para probar el sistema, Matt Wolfe planteó una pregunta real: el futuro de las newsletters. Su newsletter tiene <strong>260.000 suscriptores</strong> y se monetiza puramente a través de patrocinios, pero le preocupa que los agentes IA lean el contenido sin hacer clic en los anuncios. La IA generó cinco opciones y un panel de seis expertos (incluyendo a Naval, Gary Vee y Alex Hormozi) debatió y votó. La conclusión fue clara: <em>reconstruir para humanos y vender patrocinios por resultados</em>. El sistema genera un PDF con el resumen, las puntuaciones y un plan de acción detallado.</p>
+<p>Una decisión técnica importante fue usar <strong>sub-agentes</strong> en lugar de <em>equipos de agentes</em>. Nate descubrió que los sub-agentes son más económicos y la ganancia en valor es mínima en comparación. Para obtener mejores resultados, recomienda proporcionar al menos dos o más opciones para que los agentes puedan votar y debatir sobre ellas. Las imágenes de perfil de los miembros del panel se generan con <strong>GPT Image 2</strong>.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Instagram en piloto automático: investigación, creación y publicación</h3>
+<p>El tercer flujo automatiza casi por completo la gestión de Instagram. Nate demostró una cuenta que en <strong>30 días</strong> obtuvo casi <strong>2.000 seguidores</strong> con solo <strong>4-5 horas de trabajo manual</strong> en total. El sistema investiga posts virales en X, crea carruseles con imágenes o videos generados (o encontrados), y los publica siguiendo pautas de marca, tono de voz y activos visuales previamente entrenados. La IA guarda los videos e imágenes generadas para reutilizarlas y verifica la veracidad de la información antes de publicar, especialmente si se trata de noticias de última hora.</p>
+<p>Para la publicación y automatización de mensajes directos, utiliza <strong>Look for Everything (Blot)</strong>, una herramienta de Sabrina Ramanov que gestiona múltiples cuentas de redes sociales (X, LinkedIn, Instagram, TikTok) y permite automatizar respuestas, incluyendo la solicitud de <em>seguir</em> para desbloquear recursos. Cada publicación se registra en una <strong>Google Sheet</strong> para evitar duplicación de temas y, en el futuro, para analizar el rendimiento y crear un bucle de mejora continua.</p>
+<p>El tiempo promedio para crear un carrusel de video a partir de un post de X es de aproximadamente <strong>5 minutos</strong>. Nate planea una mejora futura: que la IA analice las estadísticas de rendimiento de las publicaciones y se auto-mejore. Todo el código y las <em>skills</em> de los tres flujos están disponibles en el <strong>repositorio de GitHub de Nate Herk</strong> para que otros usuarios puedan clonarlos e implementarlos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Lecciones transversales: ingeniería inversa, sub-agentes y verificación</h3>
+<p>Los tres sistemas comparten principios clave. El primero es la <strong>ingeniería inversa</strong> de trabajo probado: usar ejemplos exitosos (humanos) como conjunto de datos dorado para entrenar a la IA. El segundo es la <strong>perspectiva del espectador</strong>: la IA debe entender qué necesita quien ve el contenido, ya sea un zoom en texto pequeño o un cambio de plano. El tercero es la <strong>verificación de hechos</strong> antes de publicar, fundamental para mantener la credibilidad.</p>
+<p>En cuanto a costes, la API de ElevenLabs es <em>súper barata</em> para transcripción, y el uso de sub-agentes en Claude Code resultó más económico que los equipos de agentes. La automatización de Instagram con Blot permite gestionar múltiples cuentas y automatizar DMs sin intervención manual. Nate enfatiza que estas herramientas no eliminan el trabajo humano, pero lo reducen drásticamente: de horas a minutos por pieza de contenido.</p>
+<p>El impacto es medible: 20 reels antes del desayuno, un panel de expertos que debate en segundos y una cuenta de Instagram que crece con mínima supervisión. La conclusión es que la combinación de Claude Code con habilidades personalizadas, datos de entrenamiento de calidad y herramientas especializadas (Hyperframes, key.AI, Hicksfield, Blender, ElevenLabs, GPT Image 2, Blot) permite multiplicar la productividad creativa sin sacrificar el estilo personal.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para entrenar una IA de edición, reúne 20-30 ejemplos exitosos y analízalos cuadro por cuadro: escenas, fuentes, efectos, transiciones, audio y diseño sonoro.</li>
+<li>En el panel de expertos, define para cada agente: pregunta clave, lente (cómo piensa/habla) y cerebro (cosmovisión extraída de fuentes reales).</li>
+<li>Usa sub-agentes en lugar de equipos de agentes para optimizar costes; la ganancia en valor es mínima.</li>
+<li>Implementa un bucle de captura de pantalla a intervalos para que la IA &#x27;vea&#x27; videos e interfaces.</li>
+<li>Registra cada publicación en una hoja de cálculo para evitar duplicados y sentar las bases de un análisis futuro.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Claude Code</strong> — Plataforma principal para construir y ejecutar los flujos de trabajo de IA, incluyendo edición de video, panel de expertos y gestión de redes sociales.</li>
+<li><strong>Hyperframes</strong> — Backend para el flujo de trabajo de edición de video con Claude Code.</li>
+<li><strong>key.AI</strong> — Generador de videos de IA para B-roll y contenido visual.</li>
+<li><strong>Hicksfield</strong> — Generador de videos de IA para B-roll y contenido visual.</li>
+<li><strong>Blender</strong> — Software de modelado 3D; Claude Code puede generar escenas 3D sin intervención manual.</li>
+<li><strong>ElevenLabs API</strong> — API de transcripción de audio rápida y económica, con marcas de tiempo precisas.</li>
+<li><strong>GPT Image 2</strong> — Generador de imágenes de IA para avatares del panel y carruseles de Instagram.</li>
+<li><strong>Look for Everything (Blot)</strong> — Herramienta para gestionar múltiples cuentas de redes sociales y automatizar publicaciones y DMs.</li>
+<li><a href="https://github.com/nateherk" target="_blank" rel="noopener"><strong>GitHub Repo de Nate Herk</strong></a> — Contiene las skills y configuraciones de los flujos de trabajo para clonar e implementar.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-AtjFk9f44HE.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

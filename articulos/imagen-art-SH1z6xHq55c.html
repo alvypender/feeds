@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenArt y Microdrama Kit: el flujo completo para producir una serie de microdramas con IA y personajes consistentes — Frame &amp; Prompt</title>
+  <meta name="description" content="El creador Youri van Hofwegen demuestra cómo producir una serie de microdramas de 10 episodios con IA usando OpenArt y el Microdrama Kit, una herramienta que automatiza guiones, hojas de personajes y prompts. La clave está en construir primero un emblema unificador, luego vestuarios y finalmente per">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="OpenArt y Microdrama Kit: el flujo completo para producir una serie de microdramas con IA y personajes consistentes">
+  <meta property="og:description" content="El creador Youri van Hofwegen demuestra cómo producir una serie de microdramas de 10 episodios con IA usando OpenArt y el Microdrama Kit, una herramienta que automatiza guiones, hojas de personajes y prompts. La clave está en construir primero un emblema unificador, luego vestuarios y finalmente per">
+  <meta property="og:image" content="https://i.ytimg.com/vi/SH1z6xHq55c/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-SH1z6xHq55c.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="OpenArt y Microdrama Kit: el flujo completo para producir una serie de microdramas con IA y personajes consistentes">
+  <meta name="twitter:description" content="El creador Youri van Hofwegen demuestra cómo producir una serie de microdramas de 10 episodios con IA usando OpenArt y el Microdrama Kit, una herramienta que automatiza guiones, hojas de personajes y prompts. La clave está en construir primero un emblema unificador, luego vestuarios y finalmente per">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/SH1z6xHq55c/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-SH1z6xHq55c.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">OpenArt y Microdrama Kit: el flujo completo para producir una serie de microdramas con IA y personajes consistentes</h1>
+        <div class="metadata">
+          <span>Por <strong>Youri van Hofwegen</strong></span>
+          <time datetime='2026-11-05T17:07:14.572594-05:00'>2026-11-05</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/SH1z6xHq55c" title="OpenArt y Microdrama Kit: el flujo completo para producir una serie de microdramas con IA y personajes consistentes" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=SH1z6xHq55c" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El creador Youri van Hofwegen demuestra cómo producir una serie de microdramas de 10 episodios con IA usando OpenArt y el Microdrama Kit, una herramienta que automatiza guiones, hojas de personajes y prompts. La clave está en construir primero un emblema unificador, luego vestuarios y finalmente personajes, para lograr consistencia visual en todas las escenas. El flujo incluye renderizado con Seedance 2.5 y edición en CapCut, con un modelo de negocio que coloca el muro de pago tras el episodio 3. El kit es gratuito al registrarse en OpenArt mediante el enlace del creador.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Youri van Hofwegen</strong>: <a href="https://www.youtube.com/watch?v=SH1z6xHq55c" target="_blank" rel="noopener">Best AI Micro Drama Generator in 2026</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El auge del microdrama y la promesa de producirlo con IA</h3>
+<p>Los microdramas, esas series de episodios cortos de 2 a 3 minutos con giros dramáticos y cliffhangers adictivos, han explotado en plataformas como YouTube, donde acumularon más de 6.500 millones de vistas en la primera mitad del año. Su producción tradicional es costosa y lenta, pero la inteligencia artificial generativa promete democratizarla. Youri van Hofwegen, creador de contenido especializado en herramientas de IA, presenta en su video una solución integral: la combinación de <strong>OpenArt</strong>, una plataforma de generación de imágenes y video, con el <strong>Microdrama Kit</strong>, un conjunto de herramientas complementario que automatiza las partes más tediosas del proceso.</p>
+<p>El Microdrama Kit no es un software independiente, sino una capa de automatización que se integra en OpenArt. Incluye un <em>Script Maker</em> para convertir una idea simple en una biblia de serie completa, un <em>Sheet Maker</em> para generar hojas de personajes y vestuarios, y un generador de prompts de episodios que asegura la continuidad visual. El kit se ofrece gratis al registrarse en OpenArt a través del enlace de afiliado del creador, aunque la suscripción a la plataforma tiene un costo normal (con un 10% de descuento usando el código YOURI10). Escribir prompts en el kit no consume créditos; solo los renderizados los consumen.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La biblia de serie: el punto de partida para una historia coherente</h3>
+<p>El primer paso es definir la historia. El Script Maker del Microdrama Kit guía al usuario a través de una serie de preguntas sobre la trama, los personajes, el conflicto y el giro final. El creador elige un género dramático predefinido (como <em>Revenge</em>, <em>Billionaire Romance</em> o <em>Mafia</em>) o uno personalizado, lo que determina el tono y el tamaño de los cliffhangers. Para su demostración, van Hofwegen optó por una historia de fantasía y acción titulada <strong>Aurora Academy</strong>, ambientada en una academia de magia y criaturas.</p>
+<p>La planificación de la temporada es crucial. El creador recomienda que los primeros episodios sean gratuitos y que el último episodio gratuito termine en el cliffhanger más impactante para incentivar la suscripción. En su caso, el muro de pago se colocó al final del episodio 3, tras tres episodios gratuitos. Cada episodio dura aproximadamente 2-3 minutos; el episodio 1 se dividió en 5 partes con duraciones específicas (15, 30, 30, 30 y 25 segundos, totalizando 2 minutos y 10 segundos). Esta estructura permite mantener la atención del espectador y facilitar la producción por segmentos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El emblema como ancla visual: uniformes, accesorios y locaciones</h3>
+<p>Para lograr consistencia visual, el creador establece un orden de creación de assets: primero el emblema de la academia, luego los uniformes y finalmente los personajes. El emblema se genera en OpenArt Image Generation con el modelo <strong>GPT Image 2.5</strong> en formato 1x1. Este emblema se utiliza como referencia para todos los uniformes, accesorios y edificios de la academia, asegurando que aparezca en banners, puertas y detalles. A partir del emblema, se crean hojas de vestuario (<em>outfit sheets</em>) describiendo la ropa en el campo de texto para lo que la imagen no muestre, lo que garantiza que todos los personajes vistan de manera coherente.</p>
+<p>El Sheet Maker del kit permite generar hojas de personaje seleccionando la opción <em>character</em>, partiendo de una descripción y colocando el uniforme en el slot correspondiente. La herramienta genera tres paneles (frente, espalda y primer plano) y permite especificar el estilo artístico (por ejemplo, <em>live action</em>) y el modelo (GPT Image 2.5) antes de renderizar. Para los monstruos, también se crean hojas de personaje, incluyendo una figura humana pequeña al lado para mostrar escala. Los accesorios se generan con seis paneles (todos los lados más un primer plano del detalle) y se mantienen simples, ya que los efectos de brillo o poder se añaden en los prompts de video. Las locaciones que pertenecen a la academia parten del emblema para incluirlo en banners y puertas; las demás pueden partir de una descripción.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Series Look y Episode Prompts: el motor de la consistencia</h3>
+<p>La pestaña <strong>Series Look</strong> es fundamental para unificar el estilo visual. El creador define un bloque de texto que describe el aspecto general de la serie, por ejemplo: <em>live action fantasía fotorrealista con grano de película suave</em>. Este bloque se aplica a todos los prompts de shot, asegurando coherencia de color y luz en todos los episodios. Luego, en la pestaña <strong>Episode Prompts</strong>, se selecciona la serie creada en el Script Maker y se agregan las hojas del episodio 1 al elenco, al pool de locaciones y a los accesorios. Las descripciones de los personajes se incluyen palabra por palabra en cada prompt, lo que ayuda al modelo a mantener la identidad.</p>
+<p>El pool de locaciones permite agregar todos los lugares una vez y la herramienta elige el correcto para cada parte, enviando su hoja como referencia. Cada episodio tiene por defecto 5 generaciones de 30 segundos en formato vertical 9x16, pero se puede personalizar la duración de cada parte. Es importante que los diálogos terminen antes del segundo 12 de cada parte para evitar cortes; la herramienta describe las voces (por ejemplo, <em>Ryan fuerte y arrogante, Leo callado pero firme</em>) para mantener consistencia. El sonido generado es ambiental, sin música, ya que esta se añade en la edición. Cada parte después de la primera continúa desde los últimos 5 segundos de la anterior para lograr continuidad narrativa.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Renderizado con Seedance 2.5 y edición final en CapCut</h3>
+<p>El renderizado se realiza con el modelo <strong>Seedance 2.5</strong>, adjuntando las hojas de personajes, locaciones y accesorios para que el modelo sepa qué cara corresponde a cada personaje. En la demostración, la parte 2 del episodio 1 tuvo 10 shots en 30 segundos y 11 hojas adjuntas (incluyendo 3 monstruos y 2 uniformes), lo que resultó en escenas que coincidían con los assets creados y lograron una apariencia de proyecto unificado. El episodio 1 completo incluyó 10 personajes y 3 monstruos, todos con hojas de personaje para consistencia.</p>
+<p>La edición final se lleva a cabo en <strong>CapCut</strong>. Allí se unen las partes, se añaden subtítulos, tarjetas de nombre y rango de personajes, tarjetas de locación, música y efectos de sonido. Para episodios posteriores, se incluye un recap al inicio para recordar los eventos anteriores. Este paso es esencial para darle un acabado profesional y mantener la atención del espectador. El creador concluye que el Microdrama Kit facilita la producción de microdramas a escala, reduciendo el trabajo manual y manteniendo la consistencia, lo que lo hace adecuado para creadores que quieran incursionar en este formato.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Monetización y distribución: del muro de pago a las plataformas</h3>
+<p>El modelo de negocio del microdrama se basa en un muro de pago tras los primeros episodios gratuitos. En el ejemplo, se ofrecen tres episodios gratis y el cuarto requiere suscripción. El kit incluye guías para publicar en TikTok y YouTube Shorts, así como para presentar pitches a plataformas especializadas como <strong>ReelShort</strong> y <strong>DramaBox</strong>. Además, el kit proporciona herramientas para crear portadas y tráileres, lo que completa el paquete de producción y marketing.</p>
+<p>El creador recibe una comisión por las suscripciones realizadas a través de su enlace, sin costo extra para el usuario. El Microdrama Kit es gratuito al registrarse en OpenArt mediante ese enlace, y se puede obtener un 10% de descuento en la suscripción con el código YOURI10. Con este flujo, van Hofwegen demuestra que es posible producir una serie de 10 episodios con calidad profesional y consistencia visual, abriendo la puerta a creadores que buscan aprovechar el auge del microdrama sin incurrir en los altos costos de la producción tradicional.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Orden de creación de assets: emblema → uniformes → personajes → accesorios → locaciones.</li>
+<li>Duración recomendada por episodio: 2-3 minutos; episodio 1 dividido en 5 partes (15, 30, 30, 30, 25 segundos).</li>
+<li>Diálogos deben terminar antes del segundo 12 de cada parte para evitar cortes.</li>
+<li>Renderizar con Seedance 2.5 adjuntando hojas de personajes, locaciones y accesorios para consistencia.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://openart.ai" target="_blank" rel="noopener"><strong>OpenArt</strong></a> — Plataforma de generación de imágenes y video con IA para crear personajes, escenarios y animar escenas.</li>
+<li><a href="https://microdramabonus.com/yvh" target="_blank" rel="noopener"><strong>Microdrama Kit</strong></a> — Kit complementario que automatiza guiones, hojas de personajes, prompts de episodios y guías de monetización.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video usado para renderizar las escenas a partir de prompts e imágenes de referencia.</li>
+<li><strong>GPT Image 2.5</strong> — Modelo de generación de imágenes para crear el emblema, hojas de personajes y otros assets con alta consistencia.</li>
+<li><strong>CapCut</strong> — Editor de video para unir partes, añadir subtítulos, tarjetas, música y efectos de sonido.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-SH1z6xHq55c.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -3,19 +3,113 @@
 <title>Rest of World (Completo)</title>
 <link href="https://restofworld.org/"/>
 <id>https://restofworld.org/</id>
-<updated>2026-11-09T08:30:00+00:00</updated>
+<updated>2026-11-12T11:00:00+00:00</updated>
+<entry>
+  <title>The promise and peril of AI in government</title>
+  <link href="https://restofworld.org/2026/ai-government-ethics-bias-risk/"/>
+  <id>https://restofworld.org/2026/ai-government-ethics-bias-risk/</id>
+  <published>2026-11-12T11:00:00+00:00</published>
+  <updated>2026-11-12T11:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/11/illo_ai_democracy_sketch.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/11/illo_ai_democracy_sketch.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/11/illo_ai_democracy_sketch.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/11/illo_ai_democracy_sketch.jpg</webfeeds:featuredImage>
+  <summary>In her new book “Reboot: AI and the Race to Save Democracy,” writer Beth Simone Noveck warns that while AI can increase efficiency, predictive models pose significant ethical and societal risks.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/11/illo_ai_democracy_sketch.jpg" alt="The promise and peril of AI in government" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Beth Simone Noveck&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;In her new book “Reboot: AI and the Race to Save Democracy,” writer Beth Simone Noveck warns that while AI can increase efficiency, predictive models pose significant ethical and societal risks.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;In Taoyuan, Taiwan’s bustling industrial hub where 200 &lt;a href="https://restofworld.org/2025/taiwan-semiconductor-migrant-labor/"&gt;semiconductor manufacturing&lt;/a&gt; facilities are based, Mayor San-Cheng Chang is using AI to orchestrate an ambitious transformation. He brings a unique blend of technical expertise and government experience to the challenge of running the country’s fastest-growing city. Before becoming mayor, he served as Taiwan’s first nonpartisan premier and held leadership positions at both Google and Acer. As a former director of Taiwan’s National Center for High-Performance Computing, Chang embodies the intersection of technology and governance that helps explain Taoyuan’s embrace of AI.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;As the home of Taiwan’s international airport as well as 2.2 million residents, Taoyuan must manage heavy truck traffic, air pollution, &lt;a href="https://restofworld.org/2024/taiwan-semiconductor-jobs-tech-workers/"&gt;rapid population growth&lt;/a&gt;, and constant construction. Since March 2023, Taoyuan has run an AI-powered lung cancer screening initiative targeting citizens over 40 with risk factors that include occupational exposure and family history. Two years later, Taoyuan’s program had screened over 400,000 residents, detecting 233 lung cancer cases (90% in early stage), and achieving cost savings of NT$500 million ($17 million) through AI-aided diagnostics. To manage this volume without overwhelming local hospitals, the city deployed advanced AI software, which can predict cancer risk from a single low-dose CT scan without requiring additional clinical data, helping doctors to efficiently triage cases and focus resources on those most at risk.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--inline pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Modern AI-powered predictive models are being dangerously relied on in more decision-making arenas, including the delivery of government services, without justification.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;When residents complained about noise from illegally modified vehicle exhaust pipes, Taoyuan developed an AI system that analyzes exhaust pipe images and matches them against a database of legal configurations. Patrol cars equipped with cameras can now identify violations on sight, and complaints are down 20% over last year. Other AI-powered cameras monitor construction sites and factory chimneys for pollution, automatically triggering water sprays when dust levels rise too high, or alerting inspectors when chimney emissions change suspiciously. AI now optimizes traffic-light cycles at busy intersections, shaving about 10 seconds off each wait. More dramatically, when ambulances approach, electronic fences detect their presence and create green-light corridors, cutting the ambulances’ average travel times from four minutes to just over two — a difference that can save lives.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;While Taoyuan exemplifies the opportunities to use AI to develop practical solutions to &lt;a href="https://restofworld.org/2025/taiwan-birth-rate-hsinchu-semiconductor-hub/"&gt;urban problems&lt;/a&gt;, Mayor Chang is circumspect in his choice of projects. He will not sanction the use of generative AI chatbots that could hallucinate, and he carefully distinguishes between using machine learning to detect existing conditions and employing it to predict future outcomes. His administration embraces AI tools that can spot patterns — like identifying an existing cancer or finding vehicles with illegal modifications. Taoyuan uses AI to pinpoint potholes for faster road maintenance or identify train station elevator passengers in wheelchairs so that assistance can await them when the doors open. In these cases, AI sees what is already there faster than human eyes can, but it does not automate away human decision making.&lt;/p&gt;
+
+
+
+&lt;h2 id='black-box-of-algorithms' class="wp-block-heading"&gt;&lt;strong&gt;“Black box” of algorithms&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Unfortunately, governments and companies are increasingly turning to machine learning algorithms to anticipate future occurrences such as the risk of recidivism and relying on these predictive algorithms for life-changing decisions, from sentencing and parole to credit scoring and &lt;a href="https://restofworld.org/2026/ai-jobs-economy-impact/"&gt;access to employment&lt;/a&gt;. In some cases, institutions are automating decision making. Almost all large companies have adopted AI in hiring to predict who will succeed on the job. Without recourse, AI itself eliminates candidates from consideration. Princeton University’s Arvind Narayanan thinks there are grave risks to using AI like a Magic 8 ball. “When you started a job,” he says, “there were so many things that were not known at the time about what was going to happen in your personal life that would have affected whether or not you would have performed well.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Pattern recognition is already risky. By creating categories and sorting data, we necessarily risk oversimplification. For example, government agencies using AI to detect fraud may misclassify individuals based on income patterns. A struggling single parent whose irregular gig work makes their income fluctuate might be unfairly flagged as a fraud risk. When institutions move from using AI for pattern recognition to making predictive judgments, the &lt;a href="https://restofworld.org/2026/ai-safety-bias/"&gt;potential for discrimination&lt;/a&gt; and error grows significantly. Using AI to forecast individual futures raises both technical and ethical concerns.&lt;/p&gt;
+
+
+&lt;figure class='pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Even accurate predictions can lead to bad decisions when models fail to capture crucial context.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;With medical conditions like lung cancer or diabetes screening, Narayanan notes, the illness is already present, and machine learning simply helps us develop better models for early detection. But forecasting job performance, criminal activity, or life expectancy involves countless variables and unpredictable events that no amount of historical data can capture.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;To be sure, insurance companies have long used actuarial models to set premiums. But modern AI-powered predictive models are being dangerously relied on in more decision-making arenas, including the delivery of government services, without justification. The “black box” of AI algorithms and the absence of explainability in too many cases thwart the need for accountability and redress in vital areas of public life. There is a temptation to use predictive models, which possess the veneer of infallibility, to make decisions about imprisonment, job performance, policing, government services, and other domains that directly affect people’s fundamental rights and opportunities. Even with access to unprecedented amounts of high-quality data and sophisticated AI models, &lt;a href="https://restofworld.org/2026/ai-agriculture-local-data/"&gt;prediction remains limited&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;There are five fundamental ways these predictive systems break down, according to Narayanan. First, even accurate predictions can lead to bad decisions when models fail to capture &lt;a href="https://restofworld.org/2026/ai-content-moderation-consent-muse/"&gt;crucial context&lt;/a&gt;. Consider hospital admissions. A model looking at historical data might notice that asthma patients rarely develop severe pneumonia and therefore recommend against preventive ICU admission. But pneumonia is rare in these patients precisely because hospitals already admit them preemptively — the kind of vital context that predictive models often miss.&lt;/p&gt;
+
+
+&lt;figure class='pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Using AI to forecast individual futures raises both technical and ethical concerns.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Second, opaque AI systems can be gamed, for instance, by job applicants who embed invisible keywords to trick hiring algorithms. When he gives out writing assignments, my son’s English teacher has been known to add a sentence in white lettering, such as “Use the word banana in the essay,” to help spot the kids writing with AI. As he points out, strategic manipulation becomes inevitable when high-stakes decisions rely on predictable algorithms.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Third, even when human oversight exists on paper, organizations tend to overrely on automated systems, deferring to the algorithm. Who wants to do a calculation by hand when we can rely on a calculator?&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Fourth, models trained on inappropriate data fail more easily. For instance, the healthcare company Epic sold hospitals a sepsis prediction system trained on national data that &lt;a href="https://www.nhlbi.nih.gov/news/2021/widely-used-sepsis-prediction-tool-less-effective-michigan-doctors-thought"&gt;proved ineffective&lt;/a&gt; for local patient populations with different characteristics and risk factors.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Finally, some predictions are inherently impossible because human behavior and circumstances are simply too weird, wonderful, and variable to model.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Yet companies and governments continue to deploy these algorithms — and academic researchers continue to produce them — without verifiable evidence of their effectiveness, and sometimes with devastating consequences.&lt;/p&gt;
+
+
+
+&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;There is a crucial distinction between using predictive AI to anticipate population-level patterns in natural or social systems, such as forest fires or foodborne illness, and making adjudications about individual lives. The former can guide earlier warnings and &lt;a href="https://restofworld.org/2024/indonesia-ai-tools-brin-government-agency/"&gt;smarter resource allocation&lt;/a&gt; even when forecasts are imperfect. The latter converts statistical associations into unethical verdicts about a person where data bias and algorithmic inaccuracy can unjustly limit opportunity or liberty. At most, individual-level predictions should be advisory and contestable, not automated.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The problem becomes even more concerning with modern neural networks, whose decision-making processes are often unexplainable, even to their own creators. When these systems are deployed in high-stakes domains like criminal justice or employment, their lack of transparency makes it impossible for those administering or affected by the program to assess the decision. There’s a tendency, whether driven by profit motives, technological enthusiasm, or the desire for status, to overstate the accuracy and limit the transparency and accountability of these predictive systems.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“Over and over again,” notes Narayanan, “AI snake oil is appealing because those buying it are in broken institutions and are desperate for a quick fix.” When we delegate life-altering decisions to black-box systems with no clear mechanisms for oversight or redress, we risk making our institutions even less effective or trustworthy.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Adapted from “Reboot: AI and the Race to Save Democracy” by Beth Simone Noveck published by Yale University Press © 2026 by Beth Simone Noveck, and reprinted with permission.&lt;/em&gt;&lt;br&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy</title>
   <link href="https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/"/>
   <id>https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/</id>
   <published>2026-11-09T08:30:00+00:00</published>
   <updated>2026-11-09T08:30:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_chinese-ai-labs-hire-silicon-valley-engi.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/aud_chinese-ai-labs-hire-silicon-valley-engi.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_chinese-ai-labs-hire-silicon-valley-engi.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_chinese-ai-labs-hire-silicon-valley-engi.jpg</webfeeds:featuredImage>
   <summary>Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_chinese-ai-labs-hire-silicon-valley-engi.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/Chinese-Silicon-Valley.jpg" alt="Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/Chinese-Silicon-Valley.jpg" alt="Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Kinling Lo and Viola Zhou&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;Chinese AI companies are hiring Silicon Valley-based engineers to work on their models, potentially tapping into the talent at American labs like OpenAI and Anthropic.&lt;/p&gt;
@@ -412,12 +506,12 @@
   <id>https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/</id>
   <published>2026-10-26T10:00:22+00:00</published>
   <updated>2026-10-26T10:00:22+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_ai-tokenizer-tax-non-english-langu_894246.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/aud_ai-tokenizer-tax-non-english-langu_894246.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_ai-tokenizer-tax-non-english-langu_894246.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_ai-tokenizer-tax-non-english-langu_894246.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/png" href="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png" medium="image" type="image/png"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png</webfeeds:featuredImage>
   <summary>Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_ai-tokenizer-tax-non-english-langu_894246.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png" alt="AI models cost more when you don’t use English" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png" alt="AI models cost more when you don’t use English" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Ananya Bhattacharya&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;People who use less widely spoken languages could end up paying more to use artificial intelligence than those who speak English or other dominant languages.&lt;/p&gt;
@@ -513,12 +607,12 @@
   <id>https://restofworld.org/2026/ai-datacenters-water-resistance-global/</id>
   <published>2026-10-22T10:00:00+00:00</published>
   <updated>2026-10-22T10:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_ai-datacenters-water-resistance-gl_325239.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/aud_ai-datacenters-water-resistance-gl_325239.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_ai-datacenters-water-resistance-gl_325239.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_ai-datacenters-water-resistance-gl_325239.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg</webfeeds:featuredImage>
   <summary>In his new book “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires,” writer Paris Marx examines how local communities are resisting the growing demand for water to cool data centers.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_ai-datacenters-water-resistance-gl_325239.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg" alt="Big Tech’s thirst for water is sparking a global resistance" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/GettyImages-2299069237_small.jpg" alt="Big Tech’s thirst for water is sparking a global resistance" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Paris Marx&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;In his new book “Hyperscale: The Ambition and Excess of Big Tech’s Data Empires,” writer Paris Marx examines how local communities are resisting the growing demand for water to cool data centers.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;After ChatGPT was released in November 2022, the tech industry was quick to herald the chatbot as the marker of a new wave of technological progress. As companies pushed to create more powerful AI models, the water demand of their ambitions took a while to become clear. In April 2023, a &lt;a href="https://arxiv.org/abs/2304.03271"&gt;research paper&lt;/a&gt; out of the University of California estimated that training the large language model behind the initial version of ChatGPT had required 185,000 gallons of water. For every extended conversation someone had with the chatbot or every time they asked it to write an email, they were effectively pouring a bottle of water down the drain.&lt;/p&gt;
@@ -769,12 +863,12 @@
   <id>https://restofworld.org/2026/china-open-weight-models/</id>
   <published>2026-10-16T10:00:00+00:00</published>
   <updated>2026-10-16T10:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_china-open-weight-models_665974.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/aud_china-open-weight-models_665974.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_china-open-weight-models_665974.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_china-open-weight-models_665974.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg</webfeeds:featuredImage>
   <summary>Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_china-open-weight-models_665974.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg" alt="Western open-weight models still can’t beat China" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg" alt="Western open-weight models still can’t beat China" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Rina Chandran&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Chinese open-weight AI models offer high capability at significantly lower costs than U.S. frontier systems, but face monetization and compute challenges, experts said at a Rest of World event in San Francisco.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;A slew of new open-weight artificial intelligence models from American and European companies aim to convert users of Chinese open models who are concerned about security, but fall short of the dominant Chinese systems on performance despite having greater resources, experts said at a &lt;em&gt;Rest of World&lt;/em&gt; event in San Francisco.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
@@ -1219,154 +1313,5 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Additional reporting by Aarti Jhurani in Dubai.&lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>As U.S. blocks DJI, Insta360 races to win American creators</title>
-  <link href="https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/"/>
-  <id>https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/</id>
-  <published>2026-10-09T10:00:00+00:00</published>
-  <updated>2026-10-09T10:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_insta360-us-dji-sanctions-drones-c_872862.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/aud_insta360-us-dji-sanctions-drones-c_872862.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_insta360-us-dji-sanctions-drones-c_872862.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_insta360-us-dji-sanctions-drones-c_872862.jpg</webfeeds:featuredImage>
-  <summary>Regulatory clarity and market timing are a boon for smaller Chinese smart-camera maker Insta360 and its independent Antigravity drone brand.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_insta360-us-dji-sanctions-drones-c_872862.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/INSTA360-13.jpg" alt="As U.S. blocks DJI, Insta360 races to win American creators" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Viola Zhou&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Regulatory clarity and market timing are a boon for smaller Chinese smart-camera maker Insta360 and its independent Antigravity drone brand.&lt;/em&gt;&lt;/p&gt;
-&lt;p class="wp-block-paragraph"&gt;On a Saturday morning in September, dozens of people lined up in New York City’s Times Square to check out pocket-sized cameras made by Chinese camera maker Insta360. YouTubers flew in to promote the products. As part of the marketing campaign, cyclists prepared to bike around the city in bright yellow shirts emblazoned with the Insta360 logo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Shenzhen-based company was opening its first flagship store in the U.S., a high-profile push to market its smart cameras to content creators, travelers, and sports enthusiasts. It was also a statement of confidence in a market where Chinese technology companies are facing growing scrutiny.&lt;/p&gt;
-
-
-&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;There are restrictions, but it’s better to have a clear no than maybe in business.”&lt;cite&gt;Chris Pereira, founder of consultancy iMpact&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;“The U.S. is a super high potential market for us,” Max Richter, Insta360’s co-founder, told &lt;em&gt;Rest of World&lt;/em&gt; at the store opening. The U.S. accounts for 30% to 40% of the company’s revenue, he said. “You have an amazing outdoor sports community, you have a huge influencer economy, and I think Insta360 really gathers both of these audiences.”&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Insta360’s optimism and U.S. expansion stand in sharp contrast to the experience of DJI, the dominant Chinese player it’s trying to challenge in the global drone and handheld camera market. DJI dominates the global civilian drone market, while Insta360 last year announced a separate company to make drones. In handheld smart cameras, DJI accounted for 73% of the global shipments, while Insta360 accounted for 20%. California-based GoPro, the pioneer of action cameras, has been largely &lt;a href="https://restofworld.org/2026/chinese-consumer-tech-brands/"&gt;pushed out of the market&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;figure class="unloaded embed embed--datawrapper "&gt;&lt;div class="embed__wrapper"&gt;
-&lt;iframe data-src="https://datawrapper.dwcdn.net/5sHbv/4/" title='DJI and Insta360 lead handheld smart camera market'  height='283'   aria-label='Stacked Bars' scrolling='no' frameborder='0'&gt;&lt;/iframe&gt;
-&lt;/div&gt;	&lt;div class="datawrapper__explore"&gt;
-		&lt;div class="datawrapper__explore-link explore-more-link meta"&gt;
-			&lt;a href="https://restofworld.org/charts/?utm_medium=row-charts-link" target="_blank" rel="noopener noreferrer"&gt;Explore charts &amp;gt;&amp;gt;&lt;/a&gt;
-		&lt;/div&gt;
-		
-		&lt;/button&gt;
-	&lt;/div&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Washington has increasingly treated DJI as a national security risk. The U.S. Department of Defense has labeled DJI a Chinese military company, a decision the company has been &lt;a href="https://www.scmp.com/news/us/diplomacy/article/3364118/chinese-drone-maker-dji-gets-another-shot-pentagon-blacklist-removal"&gt;fighting for years&lt;/a&gt;. The Federal Communications Commission has blocked DJI from selling new drones as well as cameras in the U.S. In the meantime, Insta360 is racing to win American consumers.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Both companies are based in Shenzhen, but they took different paths to becoming rivals. DJI was founded in 2006 and quickly became the global leader in consumer drones, with most of its sales coming from overseas. It expanded into handheld stabilized cameras in 2016.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Insta360 was founded in 2015 as a camera company. Its early success came from 360-degree cameras, which capture a panoramic view, before the company expanded into stabilized cameras and microphones. Its founder JK Liu &lt;a href="https://www.bilibili.com/video/BV1DaMgzSERu/"&gt;had said&lt;/a&gt; the company aimed at the global market from “day one,” with a particular emphasis on America. Richter, a German native, first &lt;a href="https://www.forbes.com/sites/omaidhomayun/2025/10/03/how-insta360-engineered-the-viral-memory-capturing-machine/"&gt;moved to China&lt;/a&gt; with a German company. He then worked for DJI before joining Insta360.&lt;/p&gt;
-
-
-
-&lt;h2 id='arrival-of-antigravity' class="wp-block-heading"&gt;&lt;strong&gt;Arrival of Antigravity&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Insta360 recently entered the drone business. The company &lt;a href="https://www.insta360.com/blog/introducing-antigravity.html"&gt;announced&lt;/a&gt; the launch of an independent drone brand, Antigravity, in 2025, which it said was incubated in collaboration with third parties. The move could help insulate Insta360’s camera business from any future restrictions targeting Chinese drones, Chris Pereira, founder of consultancy iMpact, which helps Chinese companies sell abroad, told &lt;em&gt;Rest of World.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The FCC has banned new foreign-made drones from entering the U.S. market, though companies can apply for waivers if they plan to move manufacturing to America. Antigravity obtained FCC’s approval for its drone, A1, just before the rule took effect.&lt;/p&gt;
-
-
-		&lt;figure class="image--wide  image image--landscape unloaded" &gt;
-			&lt;div class="image__container"&gt;
-				&lt;div class="image__wrapper"&gt;
-					
-					&lt;img
-						src="https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
-						srcset="https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1900&amp;amp;dpr=2 3800w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1700&amp;amp;dpr=2 3400w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1500&amp;amp;dpr=2 3000w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/10/viola_insta360.jpg?width=100&amp;amp;dpr=2 200w, " 
-						sizes="(min-width: 1320px) 960px, (min-width: 1140px) calc(100vw - (50vw - 280px)), (min-width: 992px) calc(100vw - 290px), calc(100vw - 40px)"
-						alt="Crowd gathered outside the Insta360 store, with a digital sign displaying &amp;quot;THINK BOLD&amp;quot; and promotions for capturing moments"
-						 style='aspect-ratio: 4/3'
-						loading="lazy"
-					/&gt;
-					
-				&lt;/div&gt;
-			&lt;/div&gt;
-				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
-		&lt;span class='figcaption__caption'&gt;The opening of the Times Square location of Insta360.&lt;/span&gt;
-		&lt;span class='figcaption__credit' itemprop='copyrightHolder'&gt;Viola Zhou/Rest of World&lt;/span&gt;
-	&lt;/figcaption&gt;
-		&lt;/figure&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Michael Shabun, the Los Angeles-based chief executive of Antigravity, told &lt;em&gt;Rest of World&lt;/em&gt; at the store opening that the company was planning to move its manufacturing from Asia to the U.S. in the coming years.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Antigravity is positioning the A1 drone, with a 360-degree camera, firmly as a consumer-facing product. Shabun said the company stores all U.S. user data locally and has designed the drone so that it cannot carry more than 50 grams of additional weight, a restriction intended to prevent misuse of the drone for purposes beyond leisure. “They’re built for fun; they’re built for content creation; they’re built for exploration,” he said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;DJI drones have been widely used by commercial operators and law enforcement agencies, making their potential cybersecurity and data-security risks a particular concern in Washington.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“People in the U.S. are more excited about our product than any other region. And the drone market in the U.S. is very sophisticated and developed,” Shabun said, adding that the A1 would be put on the shelves of the Insta360 store.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;h2 id='lure-of-the-american' class="wp-block-heading"&gt;&lt;strong&gt;Lure of the American consumer&lt;/strong&gt;&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Even as the U.S. government ramps up scrutiny of Chinese businesses, Chinese companies are eager to bring their products to America, especially at a time of slowing consumer spending and rising competition at home. Over the past two years, New York City has seen a number of Chinese brands open new shops, from clothing brand Urban Revivo to bubble tea chain Mixue. DJI opened a store on Fifth Avenue in 2024.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In China, DJI and Insta360 have fought a fierce price war over their handheld camera products. The rising costs of memory chips have weighed on their profitability. In the first half of 2026, Insta360’s net profit dropped by 94% compared with a year ago. The two companies have also &lt;a href="https://www.thewirechina.com/2026/08/02/dji-gets-into-a-fight-in-the-u-s-with-another-chinese-dronemaker/"&gt;sued each other&lt;/a&gt; over intellectual property infringements.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In the U.S. market, Insta360 might enjoy an advantage. Pereira said the first batch of Chinese companies to gain prominence in America, such as telecoms equipment maker Huawei, social media platform TikTok, and DJI, had attracted intense scrutiny.&amp;nbsp;&lt;/p&gt;
-
-
-&lt;figure class='pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;One of the big deciding factors was availability. I can go into a store and buy [Insta360].”&lt;cite&gt;Lars Kappler, a real estate consultant in San Diego&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;He said the “second wave” of Chinese brands — like Xiaomi and Xiaohongshu — enjoyed more clarity. “There are restrictions, but it’s better to have a clear no than maybe in business,” Pereira said.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;DJI can still sell its existing drones and cameras in the U.S., but its future in the market is unclear. The 2024 &lt;a href="https://www.congress.gov/118/plaws/publ159/PLAW-118publ159.pdf"&gt;National Defense Authorization Act&lt;/a&gt; passed by Congress required the FCC to add communications and video surveillance equipment made by DJI and another Chinese drone maker, Autel Robotics, to its Covered List, effectively barring the agency from authorizing new products from the companies. The FCC has not approved new DJI products since November.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In an email to &lt;em&gt;Rest of World&lt;/em&gt;, an FCC spokesperson said DJI’s products were banned in accordance with 2024 law, while Insta360’s products were not added to the Covered List.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Insta360 has been able to &lt;a href="https://fccid.io/2AWWH"&gt;register new products&lt;/a&gt; with the FCC while DJI is blocked. Asked whether the company could avoid the pressures facing DJI, Insta360 co-founder Richter said he was confident it would be able to stay in America. “There is no sensitive technology,” he said. “We fully comply with all regulators. There’s nothing to hide.”&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Some of DJI’s loyal American users are already switching sides. Lars Kappler, a real estate consultant in San Diego, has been using a DJI camera for a year. He told &lt;em&gt;Rest of World&lt;/em&gt; he recently bought three Insta360 cameras and a microphone for his social media videos, because DJI’s latest products were not released in the U.S. “One of the big deciding factors was availability,” Kappler said. “I can go into a store and buy [Insta360].”&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Michael Alvarado, an auto-body technician in Minnesota, also recently switched from DJI to Insta360’s latest handheld vlogging camera, Luna Ultra, to film his everyday life and family trips. He liked Insta360’s new features, such as the detachable screen, and was also worried about DJI’s long-term prospects in the U.S.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“As much as I’m pissed about the whole ban,” Alvarado told &lt;em&gt;Rest of World&lt;/em&gt;, “I’m going to focus on who has the win right now, and unfortunately that’s Insta360.”&lt;/p&gt;</content>
 </entry>
 </feed>

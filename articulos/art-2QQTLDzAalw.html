@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Domina escenas de acción complejas en IA: tutorial de Blender graybox con ChatGPT y Seedance 2.5 en OpenArt — Frame &amp; Prompt</title>
+  <meta name="description" content="La generación de video con IA alcanza un nuevo nivel de control creativo gracias a un flujo de trabajo que combina animaciones graybox de Blender, refinadas mediante ChatGPT, con la potencia de Seedance 2.5 y Nano Banana 2.1 en OpenArt. Este método permite previsualizar coreografías complejas, ajust">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Domina escenas de acción complejas en IA: tutorial de Blender graybox con ChatGPT y Seedance 2.5 en OpenArt">
+  <meta property="og:description" content="La generación de video con IA alcanza un nuevo nivel de control creativo gracias a un flujo de trabajo que combina animaciones graybox de Blender, refinadas mediante ChatGPT, con la potencia de Seedance 2.5 y Nano Banana 2.1 en OpenArt. Este método permite previsualizar coreografías complejas, ajust">
+  <meta property="og:image" content="https://i.ytimg.com/vi/2QQTLDzAalw/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-2QQTLDzAalw.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Domina escenas de acción complejas en IA: tutorial de Blender graybox con ChatGPT y Seedance 2.5 en OpenArt">
+  <meta name="twitter:description" content="La generación de video con IA alcanza un nuevo nivel de control creativo gracias a un flujo de trabajo que combina animaciones graybox de Blender, refinadas mediante ChatGPT, con la potencia de Seedance 2.5 y Nano Banana 2.1 en OpenArt. Este método permite previsualizar coreografías complejas, ajust">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/2QQTLDzAalw/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-2QQTLDzAalw.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Domina escenas de acción complejas en IA: tutorial de Blender graybox con ChatGPT y Seedance 2.5 en OpenArt</h1>
+        <div class="metadata">
+          <span>Por <strong>AI Video School</strong></span>
+          <time datetime='2026-11-06T17:06:34.017086-05:00'>2026-11-06</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/2QQTLDzAalw" title="Domina escenas de acción complejas en IA: tutorial de Blender graybox con ChatGPT y Seedance 2.5 en OpenArt" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=2QQTLDzAalw" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La generación de video con IA alcanza un nuevo nivel de control creativo gracias a un flujo de trabajo que combina animaciones graybox de Blender, refinadas mediante ChatGPT, con la potencia de Seedance 2.5 y Nano Banana 2.1 en OpenArt. Este método permite previsualizar coreografías complejas, ajustar el timing y el movimiento de cámara antes de gastar créditos, y luego generar el video final con alta fidelidad. La comparativa de upscaling revela que la versión nativa de Seedance 2.5 ofrece la mejor calidad, mientras que Topaz Starlight 2.5 se acerca con un costo menor. El veredicto: el graybox es indispensable para escenas de acción, aunque requiere dirección creativa en actuación y entorno.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>AI Video School</strong>: <a href="https://www.youtube.com/watch?v=2QQTLDzAalw" target="_blank" rel="noopener">821</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El desafío de las escenas de acción: cuando los prompts no bastan</h3>
+<p>La generación de video mediante IA ha avanzado a pasos agigantados, pero las escenas de acción complejas, con múltiples elementos moviéndose en direcciones opuestas y coreografías precisas, siguen siendo un desafío. El creador de AI Video School lo comprobó al intentar generar una escena de góndolas y una avalancha utilizando únicamente prompts en Seedance 2.5, incluso optimizándolos con ChatGPT. El resultado fue insatisfactorio: las góndolas no se movían en direcciones opuestas ni a velocidades consistentes, y el entorno carecía de realismo. Este fracaso inicial evidenció la necesidad de un método que permitiera controlar el timing y la composición antes de invertir créditos en generaciones costosas.</p>
+<p>La solución llegó de la mano de un flujo de trabajo que combina animaciones graybox de Blender con la capacidad de ChatGPT para refinar la previsualización. La idea es sencilla pero poderosa: crear una animación básica en 3D que sirva como guía de movimiento y blocking, y luego usar esa referencia para que el modelo de IA genere el video final con mayor precisión. Este enfoque no solo ahorra créditos al reducir el número de intentos, sino que también otorga un control creativo sin precedentes sobre la coreografía y la cámara.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Blender sin abrir Blender: ChatGPT como director de escena</h3>
+<p>El primer paso del flujo consiste en instalar Blender, el software gratuito de modelado 3D, y configurar ChatGPT en su versión de escritorio. Para ello, se debe activar la pestaña &#x27;work&#x27; y la opción &#x27;run this on your computer&#x27;, lo que permite que ChatGPT utilice Blender localmente para generar y modificar animaciones. El creador utilizó el modelo &#x27;6.1 soul medium thinking&#x27; por defecto, con la posibilidad de aumentar el esfuerzo de pensamiento para tareas más complejas.</p>
+<p>A través de instrucciones en lenguaje natural, ChatGPT crea un &#x27;review room&#x27;, una interfaz similar a Frame.io que permite dar feedback en marcas de tiempo específicas y descargar frames o videos MP4 con o sin personaje. La clave está en generar la animación graybox sin el personaje, solo el entorno y el movimiento de cámara, para evitar animaciones blocky. El personaje se añade después mediante referencias visuales. El video graybox resultante, de unos 30 segundos de duración (con una variante de 27 segundos), sirve como guía precisa para la generación final.</p>
+<p>Este método permite iterar rápidamente sobre la coreografía: se puede pedir a ChatGPT que ajuste la velocidad de un elemento, cambie el ángulo de cámara o modifique la trayectoria de los objetos. Una vez conforme, se descarga el video graybox y se procede a la creación de referencias visuales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Nano Banana 2.1: hojas de referencia y entornos realistas</h3>
+<p>Con el graybox listo, el siguiente paso es crear una hoja de referencia del personaje utilizando Nano Banana 2.1 en OpenArt. Esta herramienta de edición de imágenes permite modificar vestuario, mantener la consistencia del personaje y generar variaciones. Además, a partir de un frame del graybox, se puede generar una imagen de entorno realista que servirá como referencia adicional para el modelo de video. El creador destaca que, en la primera prueba en Seedance 2.5 usando solo la hoja de personaje y el graybox sin referencia de entorno, el entorno se renderizó de forma geométrica y poco realista, con rocas como bloques y montañas como pirámides. Al añadir la imagen de referencia del entorno generada con Nano Banana 2.1, la calidad mejoró significativamente.</p>
+<p>OpenArt ofrece un código de descuento del 15% (AIVS15) para los interesados en probar estas herramientas. La plataforma integra tanto la generación de imágenes como la de video, lo que simplifica el flujo de trabajo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Seedance 2.5: generación final con control creativo</h3>
+<p>La generación final se realiza en Seedance 2.5, donde se suben la hoja de referencia del personaje, la imagen de referencia del entorno y el video graybox (sin personaje) junto con un prompt detallado. Para mejorar la actuación, es crucial describir el estado emocional y las acciones físicas del personaje en el prompt, por ejemplo, &#x27;esforzándose por subir, luchando por sobrevivir&#x27;. En la primera generación, la actuación no transmitía esfuerzo; al dirigir la emoción, se obtuvo un resultado más convincente.</p>
+<p>Seedance 2.5 ofrece un modo borrador económico que produce videos en 480p, y una versión final en 1080p. El creador menciona que en aproximadamente una semana se puede generar la versión 1080p a partir del borrador. Este enfoque de dos etapas permite resolver la coreografía en la previsualización y ahorrar créditos antes de la generación final de alta resolución. Además, es posible reemplazar el personaje en el video final manteniendo la misma actuación y movimiento de cámara, lo que resulta útil para insertar otra persona en la escena.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Upscaling a examen: Seedance nativo vs. BytePlus VQ vs. Topaz Starlight 2.5</h3>
+<p>El creador realizó una comparativa exhaustiva de métodos de upscaling para mejorar la resolución de los clips generados. La versión nativa de Seedance 2.5 en alta resolución mostró el mayor detalle realista, con especial atención al pelo, el casco, los guantes, los crampones y los cristales de nieve. Sin embargo, su costo es elevado. BytePlus VQ, el upscaler de ByteDance (mismo creador de Seedance), resultó económico pero produjo un aspecto plástico y pictórico, menos realista. Topaz con configuración predeterminada fue ligeramente mejor, y Topaz Starlight 2.5 con mejora generativa se acercó más a la calidad de Seedance, aunque sin igualarla.</p>
+<p>Topaz Starlight 2.5 tiene un límite de 20 segundos por clip, por lo que clips más largos deben dividirse en dos y luego unirse en edición. El costo de upscaling con Topaz Starlight 2.5 para 20 segundos es de 500 créditos en OpenArt. La conclusión es que, si bien el upscaling nativo de Seedance ofrece la mejor calidad, Topaz Starlight 2.5 representa un buen equilibrio entre costo y resultado, especialmente para proyectos con presupuesto limitado.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Conclusiones: control creativo y ahorro de créditos</h3>
+<p>El flujo de trabajo con graybox de Blender y ChatGPT demuestra ser valioso para escenas de acción complejas. Reduce el número de generaciones necesarias y proporciona un control creativo preciso sobre la coreografía, el timing y el movimiento de cámara. No obstante, no es perfecto: requiere dirección creativa en la actuación y el entorno, y el proceso de previsualización añade tiempo. Para quienes buscan resultados profesionales sin gastar fortunas en créditos, este método ofrece un camino sólido. La combinación de herramientas gratuitas como Blender con plataformas como OpenArt y modelos como Seedance 2.5 y Nano Banana 2.1 permite a los creadores materializar ideas complejas con una fidelidad sorprendente.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para escenas de acción complejas, usa animación graybox de Blender como guía en lugar de solo prompts; permite control preciso de timing y coreografía.</li>
+<li>Instala Blender y usa ChatGPT en versión de escritorio con la pestaña &#x27;work&#x27; y la opción &#x27;run this on your computer&#x27; para que ChatGPT utilice Blender localmente.</li>
+<li>Solicita a ChatGPT que cree un &#x27;review room&#x27; para dar feedback en marcas de tiempo específicas y descargar frames o videos MP4 con o sin personaje.</li>
+<li>En Seedance 2.5, sube la hoja de referencia del personaje, una imagen de referencia del entorno y el video graybox (sin personaje) junto con un prompt detallado que describa el estado emocional y las acciones físicas.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.blender.org/download/" target="_blank" rel="noopener"><strong>Blender</strong></a> — Programa gratuito de modelado 3D para crear animaciones graybox.</li>
+<li><strong>ChatGPT (versión escritorio)</strong> — Interfaz de lenguaje natural para generar y refinar animaciones graybox en Blender.</li>
+<li><a href="https://tolt.link/aivideoschool-previz" target="_blank" rel="noopener"><strong>OpenArt</strong></a> — Plataforma que integra generación de imágenes (Nano Banana 2.1) y video (Seedance 2.5).</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video a partir de imágenes de referencia y video graybox.</li>
+<li><strong>Nano Banana 2.1</strong> — Modelo de edición de imágenes para crear hojas de referencia y entornos realistas.</li>
+<li><strong>Topaz Starlight 2.5</strong> — Upscaler de video con mejora generativa, límite de 20 segundos por clip.</li>
+<li><strong>BytePlus VQ</strong> — Upscaler de video de ByteDance, económico pero con aspecto plástico.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-2QQTLDzAalw.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

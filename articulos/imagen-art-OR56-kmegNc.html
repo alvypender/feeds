@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo insertar tu propio rostro en películas IA y lograr realismo cinematográfico con Nano Banana 2.1 y Seedance 2.5 — Frame &amp; Prompt</title>
+  <meta name="description" content="Clonar tu identidad en escenas generadas por IA ya no es ciencia ficción: con un puñado de fotos bien iluminadas, un character sheet de Nano Banana 2.1 y el modo draft de Seedance 2.5, el parecido facial alcanza niveles sorprendentes. El truco clave es añadir un video de ti mismo girando la cabeza c">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo insertar tu propio rostro en películas IA y lograr realismo cinematográfico con Nano Banana 2.1 y Seedance 2.5">
+  <meta property="og:description" content="Clonar tu identidad en escenas generadas por IA ya no es ciencia ficción: con un puñado de fotos bien iluminadas, un character sheet de Nano Banana 2.1 y el modo draft de Seedance 2.5, el parecido facial alcanza niveles sorprendentes. El truco clave es añadir un video de ti mismo girando la cabeza c">
+  <meta property="og:image" content="https://i.ytimg.com/vi/OR56-kmegNc/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-OR56-kmegNc.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo insertar tu propio rostro en películas IA y lograr realismo cinematográfico con Nano Banana 2.1 y Seedance 2.5">
+  <meta name="twitter:description" content="Clonar tu identidad en escenas generadas por IA ya no es ciencia ficción: con un puñado de fotos bien iluminadas, un character sheet de Nano Banana 2.1 y el modo draft de Seedance 2.5, el parecido facial alcanza niveles sorprendentes. El truco clave es añadir un video de ti mismo girando la cabeza c">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/OR56-kmegNc/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-OR56-kmegNc.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo insertar tu propio rostro en películas IA y lograr realismo cinematográfico con Nano Banana 2.1 y Seedance 2.5</h1>
+        <div class="metadata">
+          <span>Por <strong>AI Video School</strong></span>
+          <time datetime='2026-11-10T17:09:58.884077-05:00'>2026-11-10</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/OR56-kmegNc" title="Cómo insertar tu propio rostro en películas IA y lograr realismo cinematográfico con Nano Banana 2.1 y Seedance 2.5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=OR56-kmegNc" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Clonar tu identidad en escenas generadas por IA ya no es ciencia ficción: con un puñado de fotos bien iluminadas, un character sheet de Nano Banana 2.1 y el modo draft de Seedance 2.5, el parecido facial alcanza niveles sorprendentes. El truco clave es añadir un video de ti mismo girando la cabeza como referencia adicional, al estilo Sora, y combinarlo con muestras de voz y vestuario. El resultado se acerca al realismo de Sora 2, aunque la voz clonada aún no es idéntica.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>AI Video School</strong>: <a href="https://www.youtube.com/watch?v=OR56-kmegNc" target="_blank" rel="noopener">How to Put Yourself in AI Movies... and Actually Look Like YOU</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La base de todo: capturar tu rostro como si fuera un casting</h3>
+<p>Antes de pensar en modelos de video, el tutorial de AI Video School insiste en una fase que muchos subestiman: la captura de referencias. No sirve cualquier selfie. La recomendación es usar una cámara profesional o, en su defecto, la cámara trasera de un iPhone —nunca la frontal— para evitar distorsiones de perspectiva. La iluminación debe ser natural y difusa, sin sombras duras que fragmenten el rostro, y la expresión ha de ser neutra, sin sonrisas forzadas ni gestos que el modelo pueda malinterpretar.</p>
+<p>El set mínimo son cuatro ángulos: frontal, tres cuartos, perfil y cuerpo completo. Cada imagen debe recortarse para que el rostro ocupe la mayor parte del encuadre, eliminando distracciones como pliegues de ropa o fondos cargados. En OpenArt, la plataforma que integra todo el flujo, se suben en ese orden exacto: frontal, tres cuartos, perfil y cuerpo completo. Ese orden no es caprichoso: ayuda al modelo a priorizar la vista frontal como ancla de identidad y a usar las demás como validación geométrica.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Nano Banana 2.1 y el arte del character sheet sin degradación</h3>
+<p>Con las fotos cargadas, el siguiente paso es generar un <strong>character sheet</strong> con Nano Banana 2.1. El prompt exacto está disponible en la descripción del video y produce una hoja de personaje con múltiples vistas coherentes. Aquí surge uno de los consejos más valiosos del tutorial: <em>evita editar repetidamente la imagen generada</em>. Cada iteración sobre una imagen ya procesada acumula artefactos y degrada la calidad. Si algo falla, lo correcto es modificar el prompt y volver a generar desde cero, no insistir con retoques sobre el resultado anterior.</p>
+<p>Este principio se aplica también al vestuario. El tutorial compara dos métodos para integrar ropa: generar un character sheet y un costume sheet por separado, o bien un character sheet combinado que ya incluya el vestuario. La conclusión es que ambos funcionan, pero el método separado preserva mejor detalles finos como las manos y los anillos. En la prueba, el enfoque combinado perdió un anillo real y añadió guantes no deseados; el separado mantuvo la mano original. Si se opta por el combinado, el prompt debe especificar que las manos se vean a través de los puños de la nueva prenda para forzar al modelo a respetar esa zona.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La batalla de modelos: por qué Seedance 2.5 se lleva la corona</h3>
+<p>Antes de comprometerse con un modelo de video, AI Video School realiza un test comparativo con un clip de estilo documental en el que el personaje mueve la cabeza. La lista de contendientes es amplia: <strong>Seedance 2.5 en modo draft</strong>, Kling 4, MiniMax H3 Max, Gemini Omni Flash, Wan 3 y Flux 3. El criterio no es solo la calidad visual, sino el equilibrio entre realismo y consumo de créditos.</p>
+<p>El veredicto es claro: Seedance 2.5 en modo draft ofrece la mejor relación calidad-créditos. Por eso se convierte en el caballo de batalla para todas las generaciones posteriores. El modo draft permite iterar sin desplomar el saldo de créditos, algo crucial cuando se hacen pruebas de vestuario, voz y múltiples versiones del personaje. Además, Seedance 2.5 tiene una ventaja diferencial: acepta múltiples referencias visuales y de audio en una misma generación, lo que lo convierte en el pegamento del flujo completo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El truco estilo Sora: un video girando la cabeza lo cambia todo</h3>
+<p>Aquí llega el hallazgo más interesante del tutorial. Para mejorar el parecido facial, se graba un video breve de uno mismo hablando y girando la cabeza —el mismo tipo de referencia que popularizó Sora— y se sube como referencia visual adicional en Seedance 2.5. El resultado es un salto cualitativo: el parecido facial se dispara, incluyendo detalles como las gafas, que el modelo reproduce con fidelidad sorprendente.</p>
+<p>Este video de giro no sustituye al character sheet, lo complementa. Mientras las fotos estáticas aportan la geometría del rostro, el video aporta información dinámica sobre cómo se mueve la cabeza, cómo cambia la iluminación sobre la piel y cómo se comportan los rasgos en movimiento. Esa combinación es la que permite que el personaje generado no solo se parezca a ti, sino que <em>se mueva</em> como tú. La voz generada en esta prueba fue cercana pero no idéntica, un matiz importante que se aborda en el siguiente apartado.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Voz clonada: seis segundos para un parecido razonable</h3>
+<p>Para que el personaje hable con tu tono, el tutorial proporciona una muestra de audio de <strong>6 segundos</strong> y lo indica en el prompt: que use la voz del audio para el diálogo. El resultado se asemeja bastante, pero no es exacto. Si se quiere que el personaje diga exactamente el mismo diálogo del audio, se puede usar el audio como referencia y escribir ese mismo texto en el prompt, lo que mejora la sincronización.</p>
+<p>La recomendación final es honesta: si se busca máxima fidelidad, lo mejor es grabar el propio diálogo. La clonación de voz de 6 segundos es suficiente para escenas donde el personaje habla poco o donde el parecido no es crítico, pero no para primeros planos sonoros. En escenas con múltiples versiones de uno mismo —el tutorial prueba con un aristócrata, un guerrero nórdico y la versión original en una habitación con un dispositivo cuántico— se combinan character sheet, video de referencia, muestra de audio, vestuario y locación. El resultado es de alta calidad y realismo, comparable a lo que ofrecía Sora 2.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Locaciones, reshoots y el flujo completo en OpenArt</h3>
+<p>El flujo se cierra con la integración de locaciones. Si no se dispone de una imagen del lugar, se puede usar una referencia de un lugar desde varios ángulos para que Seedance la reinterprete. En la prueba final, el androide de &#x27;Discarded Companion&#x27; aparece en un club gracias a una imagen de la locación desde múltiples perspectivas. La integración es buena y el realismo se mantiene, aunque la voz sigue sin ser idéntica.</p>
+<p>Un último truco técnico: en Seedance, forzar un <strong>reshoot</strong> de la escena puede mejorar la calidad de la imagen resultante. Es una especie de segunda pasada que el modelo usa para refinar detalles. Todo este proceso ocurre dentro de OpenArt, la plataforma que unifica la generación de imágenes y video con múltiples modelos. El tutorial incluye un código de descuento, <em>AIVS15</em>, para un 15% de descuento en OpenArt, y recomienda encarecidamente usar el modo draft de Seedance 2.5 en las generaciones iniciales para no malgastar créditos. Con estas piezas —fotos bien capturadas, character sheet sin ediciones destructivas, video de giro, muestra de voz y referencias de vestuario y locación— el parecido con la persona real deja de ser una lotería.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Código de descuento OpenArt: AIVS15 (15% off).</li>
+<li>Muestra de audio para clonar voz: 6 segundos.</li>
+<li>Para forzar detalles en vestuario combinado: especificar en el prompt que las manos se vean a través de los puños.</li>
+<li>Si una imagen generada falla, no la edites: cambia el prompt y regenera desde cero.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://tolt.link/aivideoschool-moviestar" target="_blank" rel="noopener"><strong>OpenArt</strong></a> — Plataforma que integra generación de imágenes y video con múltiples modelos; usada para todo el flujo.</li>
+<li><strong>Nano Banana 2.1</strong> — Modelo de imágenes para crear el character sheet a partir de fotos de referencia.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video con múltiples referencias visuales y de audio; elegido por su equilibrio calidad-créditos en modo draft.</li>
+<li><strong>Kling 4</strong> — Modelo de video comparado en el test de manejo de rostros reales.</li>
+<li><strong>MiniMax H3 Max</strong> — Modelo de video comparado en el test de manejo de rostros reales.</li>
+<li><strong>Gemini Omni</strong> — Modelo de video comparado en el test de manejo de rostros reales.</li>
+<li><strong>Wan 3</strong> — Modelo de video comparado en el test de manejo de rostros reales.</li>
+<li><strong>Flux 3</strong> — Modelo de video comparado en el test de manejo de rostros reales.</li>
+<li><strong>GPT Image 2.5</strong> — Modelo de imágenes usado para crear vestuario; comparado con Nano Banana 2.1.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-OR56-kmegNc.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

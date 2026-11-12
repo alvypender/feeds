@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NotebookLM renace como Gemini Notebook: guía completa para dominar cualquier tema con 25 conceptos y 5 pasos — Frame &amp; Prompt</title>
+  <meta name="description" content="El renovado NotebookLM, ahora Gemini Notebook, se consolida como la herramienta definitiva para comprender a fondo cualquier tema a partir de fuentes propias. Con un caso práctico sobre el Reglamento Europeo de IA, Xavier Mitjana demuestra cómo exprimir sus 25 conceptos clave en 5 pasos: cargar, com">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="NotebookLM renace como Gemini Notebook: guía completa para dominar cualquier tema con 25 conceptos y 5 pasos">
+  <meta property="og:description" content="El renovado NotebookLM, ahora Gemini Notebook, se consolida como la herramienta definitiva para comprender a fondo cualquier tema a partir de fuentes propias. Con un caso práctico sobre el Reglamento Europeo de IA, Xavier Mitjana demuestra cómo exprimir sus 25 conceptos clave en 5 pasos: cargar, com">
+  <meta property="og:image" content="https://i.ytimg.com/vi/O0WXsGLxM4A/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-O0WXsGLxM4A.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="NotebookLM renace como Gemini Notebook: guía completa para dominar cualquier tema con 25 conceptos y 5 pasos">
+  <meta name="twitter:description" content="El renovado NotebookLM, ahora Gemini Notebook, se consolida como la herramienta definitiva para comprender a fondo cualquier tema a partir de fuentes propias. Con un caso práctico sobre el Reglamento Europeo de IA, Xavier Mitjana demuestra cómo exprimir sus 25 conceptos clave en 5 pasos: cargar, com">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/O0WXsGLxM4A/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-O0WXsGLxM4A.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">NotebookLM renace como Gemini Notebook: guía completa para dominar cualquier tema con 25 conceptos y 5 pasos</h1>
+        <div class="metadata">
+          <span>Por <strong>Xavier Mitjana</strong></span>
+          <time datetime='2026-11-09T17:01:34.657368-05:00'>2026-11-09</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/O0WXsGLxM4A" title="NotebookLM renace como Gemini Notebook: guía completa para dominar cualquier tema con 25 conceptos y 5 pasos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=O0WXsGLxM4A" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El renovado NotebookLM, ahora Gemini Notebook, se consolida como la herramienta definitiva para comprender a fondo cualquier tema a partir de fuentes propias. Con un caso práctico sobre el Reglamento Europeo de IA, Xavier Mitjana demuestra cómo exprimir sus 25 conceptos clave en 5 pasos: cargar, comprender, organizar, autoevaluarse y explicar. La conclusión es contundente: preguntar a los documentos y verificar las citas evita los errores costosos de otras IA, aunque el plan gratuito impone límites que conviene conocer.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Xavier Mitjana</strong>: <a href="https://www.youtube.com/watch?v=O0WXsGLxM4A" target="_blank" rel="noopener">Cómo usar el NUEVO NotebookLM para DOMINAR cualquier TEMA</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Gemini Notebook: el arma secreta para no depender de la memoria de la IA</h3>
+<p>NotebookLM ha mutado. Ahora se llama <strong>Gemini Notebook</strong> y ha dejado de ser un simple cuaderno de notas para convertirse en un entorno de trabajo intelectual donde la IA no inventa: responde exclusivamente con base en las fuentes que tú le proporcionas. Xavier Mitjana lo deja claro desde el principio: la herramienta está diseñada para <em>comprender a fondo un tema</em>, no para charlar de trivialidades. Y para demostrarlo, se embarca en un caso real: responder tres preguntas críticas sobre el Reglamento Europeo de IA para un cliente imaginario. ¿Les afecta? ¿Qué cambió con la reforma de julio? ¿Qué deben hacer? La respuesta no la dará la IA de memoria, sino los 13 documentos que el autor carga meticulosamente.</p>
+<p>El flujo de trabajo se estructura en <strong>cinco pasos</strong> que el autor desgrana con precisión: cargar información, comprender, organizar, autoevaluarse y explicar. Cada paso se apoya en un conjunto de funciones que, en conjunto, suman <strong>25 conceptos</strong> o trucos. La promesa es ambiciosa: dominar cualquier tema. Y la herramienta, según se ve, está a la altura si se usa con criterio. La primera lección es clara: <em>un cuaderno por tema</em> para evitar la contaminación entre fuentes dispares. Dentro de cada cuaderno, la variedad de formatos aceptados es enorme: PDFs, páginas web, videos de YouTube, audio, fotos de notas manuscritas, libros de Google Play e incluso libros de texto gratuitos. La función de descubrimiento de fuentes sugiere documentos relevantes a partir de una descripción, y el grabador de cuadernos permite capturar hasta una hora de conversación o notas de voz desde el móvil, que se transcriben automáticamente como fuente. Añadir notas personalizadas, como el perfil de la empresa, enriquece el contexto.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Cargar y comprender: cuando la IA se alimenta de tus documentos, no de internet</h3>
+<p>El caso práctico arranca con la carga de <strong>13 fuentes</strong>: el texto completo de la ley (144 páginas), la reforma de julio, guías oficiales, artículos de prensa, un video de un abogado, notas manuscritas, el perfil de la empresa y una nota de voz con las preguntas. Esta diversidad es clave para obtener una visión completa. Una vez cargadas, el chat de Gemini Notebook responde <em>solo con base en esas fuentes</em> y proporciona citas exactas que permiten verificar cada afirmación. Esa es la primera gran diferencia frente a ChatGPT, Claude o Gemini en modo conversacional: aquí no hay alucinaciones porque cada respuesta está anclada a un documento tangible.</p>
+<p>La guía del cuaderno ofrece un resumen general y preguntas clave sugeridas, lo que acelera la comprensión inicial. Pero el verdadero poder se despliega al <strong>seleccionar solo las fuentes relevantes</strong> para cada pregunta. El autor insiste en desmarcar las demás para evitar respuestas basadas en información desactualizada o contradictoria. Y aquí llega uno de los momentos más reveladores del video: al comparar la respuesta usando solo un artículo de prensa frente a usar la ley y su reforma, se evidencia que el artículo estaba desactualizado y daba una interpretación incorrecta. La ley reformada aclaraba que <em>no se exige certificar un nivel específico de formación</em>, sino tomar medidas para que el equipo sepa usar la IA juiciosamente. Esa es la clase de error costoso que la herramienta ayuda a evitar.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Organizar el caos: podcasts interactivos, mapas mentales e informes ejecutivos</h3>
+<p>El tercer paso, organizar, es donde Gemini Notebook despliega su artillería de formatos. El <strong>resumen de audio tipo podcast</strong> con dos voces es una de las funciones estrella. Se puede elegir el enfoque (por ejemplo, un debate) y luego interactuar en vivo para preguntar dudas. El podcast generado en el ejemplo duró <strong>25 minutos</strong>, una herramienta ideal para repasar mientras se conduce o se camina. Los <strong>mapas mentales</strong> permiten visualizar la estructura de la información a partir de todas las fuentes o de una selección, y navegar por conceptos clave como los sistemas de alto riesgo. Es una forma de ver el bosque sin perder de vista los árboles.</p>
+<p>Los <strong>informes</strong> aceptan instrucciones específicas: el autor pide un resumen de obligaciones, fechas y costos de incumplimiento en lenguaje sencillo, y obtiene una guía ejecutiva con acciones inmediatas. Las <strong>tablas de datos</strong> extraen y organizan datos estructurados, como fechas, y luego se exportan a Google Sheets. En el ejemplo, la tabla reveló un dato crucial: la fecha para las obligaciones de sistemas de alto riesgo se retrasó a <strong>diciembre de 2027</strong> (antes agosto de 2026), y el cambio se anunció solo seis días antes del plazo original. Ese hallazgo, imposible de detectar hojeando 144 páginas, demuestra el valor de la herramienta para el análisis legal y normativo. El resumen de aprendizaje interactivo añade infografías y tarjetas de repaso dentro del documento, y las infografías personalizadas con orientación y estilo visual convierten un calendario legal en una imagen clara con las tres fases y el retraso hasta diciembre de 2027.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Autoevaluarse y explicar: flashcards, quizzes y presentaciones con guion revisable</h3>
+<p>El cuarto paso, autoevaluarse, es donde el aprendizaje se consolida. Gemini Notebook genera <strong>flashcards personalizadas</strong> (cantidad, dificultad, con o sin imágenes). En el ejemplo se crearon <strong>63 tarjetas</strong> para repasar los conceptos del reglamento. Los <strong>quizzes</strong> van más allá de las preguntas de opción múltiple: incluyen respuesta corta y rellenar espacios en blanco, lo que evita adivinar. El autor realizó un quiz de 5 preguntas y acertó 2 (un 40%), lo que evidencia que aún había lagunas. La clave está en que, tras el quiz, se puede pedir al cuaderno que explique las respuestas y cite las fuentes, cerrando el círculo de aprendizaje.</p>
+<p>El quinto paso, explicar, se materializa en presentaciones, infografías y videos. Para las presentaciones, la función <strong>&#x27;revisar esquema de diapositivas&#x27;</strong> permite ver y modificar el guion antes de generar las diapositivas, un control editorial que evita sorpresas. Las infografías ya se han mencionado, pero los <strong>videos explicativos</strong> merecen atención: se generan en tres formatos, incluido un explicador clásico y un vertical de 1 minuto con estilo cinematográfico. El video del ejemplo se centró en la obligación de formación y mencionó la reforma de julio. Además, el cuaderno se puede compartir en modo solo lectura para que otros consulten sin modificar las fuentes, lo que facilita el trabajo colaborativo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Límites del plan gratuito y veredicto frente a ChatGPT, Claude y Gemini</h3>
+<p>Ninguna herramienta es infinita. El <strong>plan gratuito</strong> de Gemini Notebook permite <strong>50 fuentes por cuaderno</strong> y ofrece acceso a casi todas las funciones, pero impone una cuota de uso que se recarga cada 5 horas con un límite semanal. Los planes Plus y Pro aumentan la capacidad y el volumen de uso, pero <em>no desbloquean funciones adicionales</em>: todas las capacidades están disponibles en la versión gratuita. Esa es una política generosa que contrasta con otros servicios, aunque obliga a planificar las generaciones pesadas. El autor sugiere aprovechar la <strong>generación automática diferida</strong>: dejar algunas generaciones para más tarde cuando no se esté usando la herramienta, para no agotar la cuota en un arranque de entusiasmo.</p>
+<p>La conclusión del video es una advertencia y una recomendación. Frente a ChatGPT, Claude o Gemini en modo conversacional, la gran ventaja de Gemini Notebook es la <strong>verificación de información</strong>: cada respuesta viene con citas exactas, lo que permite comprobar la fuente y evitar errores costosos. El autor insiste en que no se debe confiar ciegamente en la IA, sino preguntar a los documentos y comprobar las fuentes. En un entorno profesional donde una interpretación errónea de una ley puede costar caro, esa capacidad de auditoría marca la diferencia. La herramienta no sustituye el criterio humano, pero lo equipa con un rastro documental sólido. Los cinco pasos (cargar, comprender, organizar, autoevaluarse y explicar) se revelan como un método replicable para dominar cualquier tema, desde una normativa compleja hasta un manual técnico.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Crea un cuaderno por tema y selecciona solo las fuentes relevantes para cada pregunta; desmarca las demás para evitar respuestas contaminadas.</li>
+<li>Para comparar fuentes contradictorias, haz preguntas separadas usando solo un documento a la vez e identifica cuál está obsoleto.</li>
+<li>Aprovecha la generación diferida: deja podcasts, videos o infografías para cuando no uses la herramienta y así no agotar la cuota gratuita.</li>
+<li>En presentaciones, activa &#x27;revisar esquema de diapositivas&#x27; para editar el guion antes de generar las diapositivas.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://notebook.google.com" target="_blank" rel="noopener"><strong>Gemini Notebook (antes NotebookLM)</strong></a> — Herramienta de IA para organizar y comprender información a partir de fuentes propias, con chat, podcasts, mapas mentales, informes, tablas, flashcards, quizzes, presentaciones, infografías y videos.</li>
+<li><a href="https://clickhubspot.com/184af4" target="_blank" rel="noopener"><strong>HubSpot Smart CRM</strong></a> — CRM con función Notetaker que se une a videollamadas, transcribe, sugiere cambios en oportunidades y redacta correos de seguimiento.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-O0WXsGLxM4A.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Design Mode: el editor vectorial que transforma After Effects en una herramienta de diseño completa — Frame &amp; Prompt</title>
+  <meta name="description" content="Design Mode es una extensión para After Effects que añade un editor vectorial completo para diseñar directamente en la aplicación, sin saltar a Illustrator o Figma. Permite extraer capas de forma, máscaras y texto al lienzo, editarlos con precisión y devolverlos a la composición. Incluye herramienta">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Design Mode: el editor vectorial que transforma After Effects en una herramienta de diseño completa">
+  <meta property="og:description" content="Design Mode es una extensión para After Effects que añade un editor vectorial completo para diseñar directamente en la aplicación, sin saltar a Illustrator o Figma. Permite extraer capas de forma, máscaras y texto al lienzo, editarlos con precisión y devolverlos a la composición. Incluye herramienta">
+  <meta property="og:image" content="https://i.ytimg.com/vi/2M_ake-zgWs/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-2M_ake-zgWs.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Design Mode: el editor vectorial que transforma After Effects en una herramienta de diseño completa">
+  <meta name="twitter:description" content="Design Mode es una extensión para After Effects que añade un editor vectorial completo para diseñar directamente en la aplicación, sin saltar a Illustrator o Figma. Permite extraer capas de forma, máscaras y texto al lienzo, editarlos con precisión y devolverlos a la composición. Incluye herramienta">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/2M_ake-zgWs/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-2M_ake-zgWs.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Design Mode: el editor vectorial que transforma After Effects en una herramienta de diseño completa</h1>
+        <div class="metadata">
+          <span>Por <strong>Jake In Motion</strong></span>
+          <time datetime='2026-11-11T17:06:34.488463-05:00'>2026-11-11</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/2M_ake-zgWs" title="Design Mode: el editor vectorial que transforma After Effects en una herramienta de diseño completa" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=2M_ake-zgWs" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Design Mode es una extensión para After Effects que añade un editor vectorial completo para diseñar directamente en la aplicación, sin saltar a Illustrator o Figma. Permite extraer capas de forma, máscaras y texto al lienzo, editarlos con precisión y devolverlos a la composición. Incluye herramientas de dibujo, edición de trazados, transformaciones, alineación, degradados y soporte para keyframes y expresiones. Está en oferta de lanzamiento por $48 (antes $58).</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Jake In Motion</strong>: <a href="https://www.youtube.com/watch?v=2M_ake-zgWs" target="_blank" rel="noopener">You Can Now Design in After Effects</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un puente entre el diseño vectorial y la animación</h3>
+<p>After Effects ha sido durante mucho tiempo el estándar para la animación y los efectos visuales, pero su conjunto de herramientas de diseño vectorial siempre ha estado rezagado en comparación con aplicaciones dedicadas como Illustrator o Figma. Los animadores a menudo se ven obligados a saltar entre programas para crear o editar gráficos, lo que interrumpe el flujo de trabajo y añade fricción. Design Mode, una extensión desarrollada por Jake In Motion, busca cerrar esa brecha al incorporar un editor vectorial completo directamente en After Effects.</p>
+<p>La extensión, que se instala como un archivo ZXP y aparece en el menú Window &gt; Extensions, permite a los usuarios extraer capas de forma, máscaras y texto de una composición al lienzo de Design Mode, editarlos con herramientas precisas y luego devolverlos a la composición con un solo clic. Esto significa que los diseñadores pueden permanecer dentro de After Effects para tareas de diseño, evitando la necesidad de cambiar de aplicación. La extensión es 100% vectorial y responsive, y es compatible con keyframes y propiedades controladas por expresiones, lo que la hace adecuada tanto para el diseño estático como para la animación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Funcionalidades clave: dibujo, edición y transformación</h3>
+<p>Design Mode incluye un conjunto robusto de herramientas de dibujo y edición. Los usuarios pueden crear formas paramétricas como círculos, estrellas y líneas, que se traducen a After Effects con controles interactivos o rigs de expresiones. La edición de trazados es particularmente precisa: con la herramienta de selección directa (A), se pueden ajustar puntos de trazado, longitudes de manejador y ángulos con exactitud numérica. Una función destacada es la posibilidad de mantener presionada la tecla Control y arrastrar con la herramienta de selección directa para deslizar un punto entre sus manejadores sin moverlos, lo que facilita ajustes finos.</p>
+<p>Las transformaciones también son flexibles. Al presionar R dos veces, se puede rotar con precisión ingresando un ángulo exacto; de manera similar, presionar S dos veces permite escalar con un valor específico. El panel de transformación ofrece modos Combined Transform, Individual Comp e Individual Object, lo que permite escalar grupos de manera diferente según sea necesario. Además, la herramienta de degradado (G) permite editar paradas de color y opacidad, y la herramienta de ancho (Width Tool) posibilita aplicar trazos cónicos y ajustar valores de inicio y fin. Los operadores de capa de forma, como el repetidor y el trazado de recorte, son compatibles y se muestran en el panel de propiedades.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Flujo de trabajo e integración con After Effects</h3>
+<p>La integración con After Effects es profunda. La función &#x27;Pull All&#x27; trae todas las capas de forma, máscaras y texto de la composición al lienzo de Design Mode, lo que permite editar múltiples elementos a la vez. Los paneles separados de Layers y Properties se pueden organizar para crear un espacio de trabajo flexible, y es posible guardar un espacio de trabajo personalizado con Window &gt; Workspace &gt; Save as New Workspace. Para cambiar entre modos de selección, se utiliza Shift+V, que alterna entre selección de capa, grupo o trazado. Un doble clic entra en modo aislamiento para editar solo esa capa o grupo.</p>
+<p>El panel &#x27;Last Action&#x27; es especialmente útil para ajustar valores después de una acción, como el radio de esquina o la posición. En el panel de capas, hacer clic derecho permite dividir grupos en capas o trazados en grupos, lo que facilita la organización. La extensión también ofrece alineación y distribución, con opciones para alinear a un objeto clave o a la composición, y modos &#x27;each&#x27; vs &#x27;together&#x27;. La edición global de colores desde el panel de propiedades permite seleccionar todos los elementos de un mismo color y cambiarlos simultáneamente.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Personalización y compatibilidad</h3>
+<p>Design Mode es altamente personalizable. Los atajos de teclado se pueden adaptar: por defecto utiliza los de Illustrator, pero se pueden importar los de After Effects o Figma, o crear un preset propio. En Mac, es importante tener en cuenta que la tecla Command no funciona con extensiones CEP; se debe usar Control en su lugar. La escala de la interfaz y el tamaño de los botones de la barra de herramientas se ajustan en Preferences. Además, se incluye un formulario integrado para enviar feedback y solicitar nuevas funciones.</p>
+<p>La extensión es compatible con el sistema nativo de trazos cónicos de After Effects y con los operadores de capa de forma. Los keyframes y las expresiones son totalmente soportados, lo que significa que los diseños creados en Design Mode se pueden animar posteriormente sin problemas. Un truco para crear un &#x27;squircle&#x27; (cuadrado con esquinas redondeadas) es dibujar un círculo, seleccionar sus puntos y aumentar la longitud de entrada de los manejadores.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Precio, disponibilidad y veredicto</h3>
+<p>Design Mode está disponible por un precio de lanzamiento de $48, con un descuento de $10 sobre el precio completo de $58. La extensión se puede adquirir a través del sitio web de Jake In Motion. En el video de presentación, el autor demuestra su uso con una composición compleja de una Game Boy Color, extrayendo todas las capas y editándolas con herramientas vectoriales precisas. También prueba la creación de formas paramétricas, la edición de puntos de trazado y la alineación y distribución de elementos.</p>
+<p>La conclusión es clara: Design Mode permite a los usuarios mantenerse dentro de After Effects para ediciones de diseño, evitando saltar a otras aplicaciones. Si bien no reemplaza por completo a Illustrator o Figma para diseños complejos, ofrece un conjunto de herramientas sorprendentemente completo para ajustes y creaciones directamente en el contexto de la animación. Para animadores y diseñadores de movimiento que buscan agilizar su flujo de trabajo, esta extensión representa una adición valiosa.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Design Mode cuesta $48 en oferta de lanzamiento (precio normal $58).</li>
+<li>En Mac, usar Control en lugar de Command para atajos con la extensión.</li>
+<li>Para rotar con precisión: presionar R dos veces e ingresar el ángulo; para escalar: S dos veces e ingresar el valor.</li>
+<li>Truco para &#x27;squircle&#x27;: dibujar un círculo, seleccionar sus puntos y aumentar la longitud de entrada de los manejadores.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://jkinmo.com/01u5kg" target="_blank" rel="noopener"><strong>Design Mode</strong></a> — Extensión para After Effects que añade un editor vectorial completo para diseñar directamente en la aplicación.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-2M_ake-zgWs.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

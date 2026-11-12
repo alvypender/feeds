@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude con MCP de Higgsfield genera un videoclip completo desde un MP3 y una foto, con consistencia facial y montaje automático — Frame &amp; Prompt</title>
+  <meta name="description" content="Claude, conectado al MCP de Higgsfield, produce un videoclip entero a partir de una canción en MP3 y una foto del protagonista, manteniendo la consistencia facial y corporal, cambiando el outfit según su criterio y montando el resultado en Premiere o After Effects. El experimento de Wide Silvente de">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude con MCP de Higgsfield genera un videoclip completo desde un MP3 y una foto, con consistencia facial y montaje automático">
+  <meta property="og:description" content="Claude, conectado al MCP de Higgsfield, produce un videoclip entero a partir de una canción en MP3 y una foto del protagonista, manteniendo la consistencia facial y corporal, cambiando el outfit según su criterio y montando el resultado en Premiere o After Effects. El experimento de Wide Silvente de">
+  <meta property="og:image" content="https://i.ytimg.com/vi/7nbrXVO7-C0/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-7nbrXVO7-C0.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude con MCP de Higgsfield genera un videoclip completo desde un MP3 y una foto, con consistencia facial y montaje automático">
+  <meta name="twitter:description" content="Claude, conectado al MCP de Higgsfield, produce un videoclip entero a partir de una canción en MP3 y una foto del protagonista, manteniendo la consistencia facial y corporal, cambiando el outfit según su criterio y montando el resultado en Premiere o After Effects. El experimento de Wide Silvente de">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/7nbrXVO7-C0/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-7nbrXVO7-C0.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude con MCP de Higgsfield genera un videoclip completo desde un MP3 y una foto, con consistencia facial y montaje automático</h1>
+        <div class="metadata">
+          <span>Por <strong>Wide Silvente</strong></span>
+          <time datetime='2026-11-08T07:10:06.362193-05:00'>2026-11-08</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/7nbrXVO7-C0" title="Claude con MCP de Higgsfield genera un videoclip completo desde un MP3 y una foto, con consistencia facial y montaje automático" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=7nbrXVO7-C0" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Claude, conectado al MCP de Higgsfield, produce un videoclip entero a partir de una canción en MP3 y una foto del protagonista, manteniendo la consistencia facial y corporal, cambiando el outfit según su criterio y montando el resultado en Premiere o After Effects. El experimento de Wide Silvente demuestra que la IA puede asumir toda la cadena creativa y técnica sin intervención humana, con un modo automático y &#x27;esfuerzo extra&#x27; que maximiza la calidad. El veredicto: la automatización es viable y el resultado se puede ver en el video completo enlazado en la descripción.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Wide Silvente</strong> (Short): <a href="https://www.youtube.com/shorts/7nbrXVO7-C0" target="_blank" rel="noopener">Así le pedí a Claude un videoclip completo</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El experimento: delegar el videoclip completo a Claude</h3>
+<p>Wide Silvente planteó un desafío radical: entregar a Claude, asistente de IA de Anthropic, la producción íntegra de un videoclip. Para ello, conectó el <strong>MCP (Model Context Protocol) de Higgsfield</strong>, una plataforma que genera visuales y realiza tareas de producción audiovisual. La entrada fue mínima: un archivo de audio en <strong>MP3</strong> con la canción y una <strong>foto de referencia del protagonista</strong>. A partir de ahí, Claude debía crear todos los assets, escenas y el montaje final, sin que el humano interviniera en ninguna decisión creativa.</p>
+<p>El creador dejó claro que no haría &#x27;absolutamente nada&#x27; durante el proceso. El objetivo era evaluar hasta dónde llega la IA cuando se le da control total. La prueba no solo mide la capacidad de generar imágenes coherentes, sino también la de <strong>mantener la consistencia facial y corporal</strong> del personaje a lo largo de las distintas escenas, un reto técnico habitual en la generación de video con IA.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El prompt y la configuración: esfuerzo extra para un resultado profesional</h3>
+<p>El prompt exacto que Silvente introdujo en Claude fue: <em>&#x27;Utilizando Higgsfield Production, quiero que crees un videoclip completo. Te doy la canción en MP3 y el protagonista de referencia. Quiero que mantengas su consistencia facial y corporal, pero puedes cambiarle el outfit bajo tu criterio. Quiero que crees todos los visuales y me entregues un montaje completo o profesional. Genera todos los assets necesarios, escenas y móntalo en Premiere o After Effects utilizando tu habilidad.&#x27;</em> Esta instrucción condensa la esencia del experimento: libertad creativa para la IA (cambio de outfit incluido) y una entrega final en formato de montaje profesional.</p>
+<p>Además, el creador seleccionó el <strong>modo automático</strong> y activó la opción de <strong>&#x27;esfuerzo extra&#x27;</strong>, un ajuste que, según se muestra, maximiza la calidad del resultado al permitir que el sistema dedique más recursos computacionales a la tarea. Con esta configuración, Claude orquestó la generación de visuales a través de Higgsfield y el montaje en <strong>Premiere</strong> o <strong>After Effects</strong>, demostrando que la integración vía MCP permite encadenar herramientas de edición sin intervención manual.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Decisiones creativas autónomas y montaje final</h3>
+<p>Uno de los aspectos más llamativos es que la IA tomó decisiones creativas sin supervisión: eligió los outfits del protagonista, definió las escenas y ensambló el montaje. El resultado, según el autor, es un videoclip completo que se puede ver en el enlace proporcionado en la descripción (&lt;a href=&#x27;https://www.youtube.com/watch?v=RqueNBILfVU&#x27;&gt;https://www.youtube.com/watch?v=RqueNBILfVU&lt;/a&gt;). Aunque el short no detalla métricas de calidad ni fallos específicos, la prueba de concepto queda establecida: la combinación de Claude con el MCP de Higgsfield es capaz de producir un videoclip desde cero con una sola orden.</p>
+<p>Este flujo de trabajo sugiere un cambio de paradigma en la producción audiovisual: en lugar de encadenar manualmente generación de imágenes, edición y montaje, un solo agente de IA puede coordinar todo el proceso. La clave está en la <strong>conexión MCP</strong>, que actúa como puente entre el modelo de lenguaje y las herramientas de generación y edición. Para quienes deseen replicarlo, basta con descargar Claude en el ordenador, conectar el MCP de Higgsfield y lanzar un prompt similar, activando el modo automático y el &#x27;esfuerzo extra&#x27; para obtener la máxima calidad posible.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Prompt exacto: &#x27;Utilizando Higgsfield Production, quiero que crees un videoclip completo. Te doy la canción en MP3 y el protagonista de referencia. Quiero que mantengas su consistencia facial y corporal, pero puedes cambiarle el outfit bajo tu criterio. Quiero que crees todos los visuales y me entregues un montaje completo o profesional. Genera todos los assets necesarios, escenas y móntalo en Premiere o After Effects utilizando tu habilidad.&#x27;</li>
+<li>Configuración: modo automático + opción &#x27;esfuerzo extra&#x27; para maximizar la calidad.</li>
+<li>Requisito: descargar Claude en el ordenador y conectar el MCP de Higgsfield.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Claude</strong> — Asistente de IA que orquesta la generación de visuales y el montaje del videoclip.</li>
+<li><strong>Higgsfield</strong> — Plataforma conectada vía MCP que genera los visuales y realiza la producción del videoclip.</li>
+<li><strong>Premiere</strong> — Software de edición de video donde se monta el videoclip final.</li>
+<li><strong>After Effects</strong> — Software de postproducción y efectos visuales donde se puede montar el videoclip final.</li>
+<li><a href="https://www.youtube.com/watch?v=RqueNBILfVU" target="_blank" rel="noopener"><strong>Video completo del resultado</strong></a> — Enlace al videoclip producido por la IA.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-7nbrXVO7-C0.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

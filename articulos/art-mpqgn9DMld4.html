@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simulon: personajes IA en tu entorno real con AR y renderizado consciente, integración con Kling 4.0 y Genie 4 — Frame &amp; Prompt</title>
+  <meta name="description" content="Simulon convierte una imagen de personaje en un activo 3D neuronal y lo coloca en el mundo real a través de la cámara del teléfono, generando videos donde el personaje reacciona a tu entorno y acciones. La app, disponible en iOS con planes desde $14.99 al mes, demuestra interacciones no solicitadas ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Simulon: personajes IA en tu entorno real con AR y renderizado consciente, integración con Kling 4.0 y Genie 4">
+  <meta property="og:description" content="Simulon convierte una imagen de personaje en un activo 3D neuronal y lo coloca en el mundo real a través de la cámara del teléfono, generando videos donde el personaje reacciona a tu entorno y acciones. La app, disponible en iOS con planes desde $14.99 al mes, demuestra interacciones no solicitadas ">
+  <meta property="og:image" content="https://i.ytimg.com/vi/mpqgn9DMld4/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-mpqgn9DMld4.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Simulon: personajes IA en tu entorno real con AR y renderizado consciente, integración con Kling 4.0 y Genie 4">
+  <meta name="twitter:description" content="Simulon convierte una imagen de personaje en un activo 3D neuronal y lo coloca en el mundo real a través de la cámara del teléfono, generando videos donde el personaje reacciona a tu entorno y acciones. La app, disponible en iOS con planes desde $14.99 al mes, demuestra interacciones no solicitadas ">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/mpqgn9DMld4/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-mpqgn9DMld4.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Simulon: personajes IA en tu entorno real con AR y renderizado consciente, integración con Kling 4.0 y Genie 4</h1>
+        <div class="metadata">
+          <span>Por <strong>Theoretically Media</strong></span>
+          <time datetime='2026-10-29T17:16:09.339174-05:00'>2026-10-29</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/mpqgn9DMld4" title="Simulon: personajes IA en tu entorno real con AR y renderizado consciente, integración con Kling 4.0 y Genie 4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=mpqgn9DMld4" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Simulon convierte una imagen de personaje en un activo 3D neuronal y lo coloca en el mundo real a través de la cámara del teléfono, generando videos donde el personaje reacciona a tu entorno y acciones. La app, disponible en iOS con planes desde $14.99 al mes, demuestra interacciones no solicitadas que evidencian conciencia espacial, y su integración con Kling 4.0 y Genie 4 abre un abanico de posibilidades creativas. El veredicto: una herramienta disruptiva que, pese a fallos de consistencia física, marca un hito en la producción audiovisual con IA.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Theoretically Media</strong>: <a href="https://www.youtube.com/watch?v=mpqgn9DMld4" target="_blank" rel="noopener">AI Video Just Stepped Into the Real World!</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Simulon: de la imagen al set virtual en tu bolsillo</h3>
+<p>Simulon es una aplicación móvil que transforma una imagen de referencia de un personaje en un activo 3D neuronal, para luego integrarlo en el mundo real mediante realidad aumentada (AR). El proceso es sorprendentemente sencillo: subes una imagen, la app la convierte en un modelo 3D y, usando la cámara del teléfono, colocas, escalas y rotas el personaje en tu espacio físico. La versión 2.0 se lanzó el 9 de octubre, y el 28 de octubre se añadió la función <strong>Reality-Aware Rendering</strong>, que permite que los personajes reaccionen a lo que haces y dices en la toma.</p>
+<p>La app ofrece una versión gratuita en iPhone con 100 créditos iniciales, limitada a personajes de la biblioteca de Simulon. Para usar tus propios personajes desde imágenes o texto, y obtener uso comercial, existe el plan <strong>Plus por $14.99 al mes</strong>. El plan <strong>Pro, por $39.99 al mes</strong>, triplica el uso y permite uso empresarial. Actualmente solo está disponible en iOS; la versión para Android espera la aprobación de Google.</p>
+<p>El flujo de trabajo es flexible: puedes promptear la acción del personaje o grabar primero tu toma y dejar que la app renderice la escena con el personaje reaccionando. Para obtener movimientos de cámara específicos, graba tu propia toma con el teléfono; Simulon respeta tu movimiento y ubicación sin las alucinaciones típicas de los modelos de mundo. Esta capacidad de &#x27;bloquear&#x27; personajes en el set y la interactividad en tiempo real (aunque no en renderizado) diferencian a Simulon de otras herramientas de referencia a video.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Pruebas de campo: colocación, escala y primeras impresiones</h3>
+<p>El autor de Theoretically Media probó la app con varios personajes, comenzando con una mini &#x27;Flamethrower Girl&#x27; en su escritorio. La colocación y escala funcionaron bien, aunque la rotación con dos dedos resultó complicada al principio. Luego, llevó a la Flamethrower Girl a tamaño real en un bar: el movimiento de cámara y la ubicación fueron reales, sin alucinaciones del modelo de mundo; incluso se notaba que la bola en el suelo era real. Esta prueba demostró que Simulon es capaz de integrar personajes en entornos complejos manteniendo la coherencia espacial.</p>
+<p>En otra prueba, dos personajes (Renfield y Flamethrower Girl) jugaron tenis. La consistencia espacial y de escala fue buena, pero la interacción física resultó defectuosa: los movimientos no eran realistas. Esto evidencia una limitación actual en la simulación de físicas complejas, aunque el potencial es enorme. También se probó a la Flamethrower Girl paseando al tigre de la biblioteca de Simulon; los personajes interactuaron sin que se les indicara, lo que demuestra una capacidad de interacción no solicitada que sugiere cierta conciencia del entorno.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Reality-Aware Rendering: cuando los personajes te responden</h3>
+<p>La función estrella, Reality-Aware Rendering, permite que los personajes reaccionen a lo que haces y dices. En una demostración, el autor tocó con el dedo a un tigre y a la mini Flamethrower Girl, y ambos reaccionaron. En otro caso, un mech reaccionó agresivamente a la gata Astro, que permaneció indiferente. También probó a Renfield como bartender: el personaje reaccionó a la voz del usuario, aunque a veces el modelo de video falló en la consistencia, como un recorte que no existía en la realidad.</p>
+<p>Estas interacciones no solicitadas son clave: los personajes no solo están superpuestos, sino que parecen conscientes del entorno y de las acciones del usuario. Esto se logra mediante un backend que, según el autor, es similar a MiniMax (con un 90% de certeza). La capacidad de reaccionar a estímulos externos abre posibilidades narrativas enormes, desde cortometrajes interactivos hasta experiencias de marketing personalizadas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Kitbash: Simulon + Kling 4.0 + Genie 4</h3>
+<p>La integración con otros modelos de IA potencia aún más las capacidades de Simulon. El autor exportó un video de Simulon y lo llevó a <strong>Kling 4.0</strong> en modo video-a-video para cambiar la ubicación; el resultado fue exitoso. También lo llevó a <strong>Genie 4</strong> para explorar el entorno generado; el resultado fue extraño pero interesante, con habitaciones y pasillos generados. Esta técnica de &#x27;kitbash&#x27; permite combinar las fortalezas de cada herramienta: Simulon para la captura en AR, Kling para la transformación de escenarios y Genie para la exploración de mundos.</p>
+<p>Para mejorar la consistencia en modelos de video, el autor recomienda generar videos de turnaround 360 de tus personajes como referencia. Además, sugiere considerar el uso de activos 3D generados con herramientas como <strong>Tripo, Hunyuan 3D o Meshy</strong> para tener control total sobre ángulos y evitar que el modelo de video alucine. La herramienta open-source <strong>Cozy Clay</strong> corre en el navegador y permite visualizar y editar modelos 3D sin necesidad de una GPU potente, lo que facilita la iteración.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El ecosistema 3D: Artlist y la generación de activos</h3>
+<p>El autor menciona que <strong>Artlist 3D</strong> ahora incluye generación de modelos 3D a partir de texto o imagen, con modelos como <strong>Hunyuan 3D, Tripo H3.1 y Meshy v7</strong>. Tripo H3.1 es rápido y bueno para assets de juegos, mientras que Meshy v7 ofrece múltiples formatos de exportación, incluidos para impresión 3D. Esta integración amplía el flujo de trabajo: puedes generar un activo 3D, importarlo a Simulon (aunque la app actualmente se enfoca en imágenes) y luego colocarlo en AR.</p>
+<p>En la presentación de Alibaba Apsara se mostraron los modelos Wan, Happy Horse y Happy Shrimp; se especula que Qwen se lanzará en noviembre. Estos avances en generación 3D y video prometen un futuro donde la creación de contenido audiovisual será cada vez más accesible y versátil.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Roadmap, precios y veredicto final</h3>
+<p>Simulon tiene un roadmap ambicioso: próximamente permitirá asignar personalidades a los personajes y dar comandos de voz para dirigir sus acciones. Esto convertiría a los personajes en entes más autónomos y expresivos. La versión gratuita incluye 100 créditos iniciales, suficiente para probar la tecnología. Los planes de pago, Plus y Pro, ofrecen más créditos y derechos comerciales, con precios de $14.99 y $39.99 al mes respectivamente.</p>
+<p>El veredicto del autor es que Simulon es esencialmente reference-to-video, pero la capacidad de bloquear personajes en el set y la interactividad en tiempo real (aunque no en renderizado) lo diferencian. El backend parece similar a MiniMax, lo que sugiere una base sólida. A pesar de fallos en la interacción física, la herramienta es disruptiva y marca un paso importante hacia la integración de IA en el mundo real. La combinación con Kling 4.0 y Genie 4 multiplica su potencial creativo.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para usar Simulon: sube una imagen de referencia, la app la convierte en activo 3D neuronal; colócalo, escala y rota en tu espacio real con la cámara del teléfono.</li>
+<li>Puedes promptear la acción del personaje o grabar primero tu toma y dejar que la app renderice la escena con el personaje reaccionando.</li>
+<li>Para movimientos de cámara específicos, graba tu propia toma con el teléfono; Simulon respeta tu movimiento y ubicación sin alucinaciones.</li>
+<li>Para kitbash: exporta el video de Simulon y llévalo a Kling 4.0 en modo video-a-video para cambiar la ubicación, o a Genie 4 para explorar el entorno generado.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://simulon.com/" target="_blank" rel="noopener"><strong>Simulon</strong></a> — App móvil que convierte imágenes de personajes en activos 3D neuronales y los coloca en el mundo real mediante AR para generar videos con reacciones al entorno.</li>
+<li><strong>Kling 4.0</strong> — Modelo de video a video para cambiar la ubicación de un video generado con Simulon.</li>
+<li><strong>Genie 4</strong> — Modelo de mundo que permite explorar entornos generados a partir de un video de Simulon.</li>
+<li><a href="https://artlist.io/artlist-70446/?artlist_aid=TheoreticallyMedia_4024&amp;utm_source=affiliate_p&amp;utm_medium=TheoreticallyMedia_4024&amp;utm_campaign=TheoreticallyMedia_4024" target="_blank" rel="noopener"><strong>Artlist 3D</strong></a> — Plataforma que ahora incluye generación de modelos 3D a partir de texto o imagen, con modelos como Hunyuan 3D, Tripo H3.1 y Meshy v7.</li>
+<li><strong>Hunyuan 3D</strong> — Modelo de generación de activos 3D disponible en Artlist.</li>
+<li><strong>Tripo H3.1</strong> — Modelo de generación de activos 3D rápido y bueno para assets de juegos, disponible en Artlist.</li>
+<li><strong>Meshy v7</strong> — Modelo de generación de activos 3D con múltiples formatos de exportación, incluidos para impresión 3D, disponible en Artlist.</li>
+<li><strong>Cozy Clay</strong> — Herramienta open-source que corre en el navegador para visualizar y editar modelos 3D sin necesidad de GPU potente.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-mpqgn9DMld4.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

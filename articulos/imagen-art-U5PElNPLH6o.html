@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fish Audio Drama 3: voces emotivas, clonación en 10 segundos y ejecución local gratuita — Frame &amp; Prompt</title>
+  <meta name="description" content="Fish Audio Drama 3 se consolida como el modelo de voz más emotivo del mercado: permite diseñar personajes ficticios con descripciones textuales, controlar su interpretación con etiquetas de emoción y clonar cualquier voz con solo 10 segundos de audio. Además, sus pesos abiertos pueden ejecutarse en ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Fish Audio Drama 3: voces emotivas, clonación en 10 segundos y ejecución local gratuita">
+  <meta property="og:description" content="Fish Audio Drama 3 se consolida como el modelo de voz más emotivo del mercado: permite diseñar personajes ficticios con descripciones textuales, controlar su interpretación con etiquetas de emoción y clonar cualquier voz con solo 10 segundos de audio. Además, sus pesos abiertos pueden ejecutarse en ">
+  <meta property="og:image" content="https://i.ytimg.com/vi/U5PElNPLH6o/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-U5PElNPLH6o.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Fish Audio Drama 3: voces emotivas, clonación en 10 segundos y ejecución local gratuita">
+  <meta name="twitter:description" content="Fish Audio Drama 3 se consolida como el modelo de voz más emotivo del mercado: permite diseñar personajes ficticios con descripciones textuales, controlar su interpretación con etiquetas de emoción y clonar cualquier voz con solo 10 segundos de audio. Además, sus pesos abiertos pueden ejecutarse en ">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/U5PElNPLH6o/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-U5PElNPLH6o.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Fish Audio Drama 3: voces emotivas, clonación en 10 segundos y ejecución local gratuita</h1>
+        <div class="metadata">
+          <span>Por <strong>Wide Silvente</strong></span>
+          <time datetime='2026-11-10T17:10:38.884077-05:00'>2026-11-10</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/U5PElNPLH6o" title="Fish Audio Drama 3: voces emotivas, clonación en 10 segundos y ejecución local gratuita" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=U5PElNPLH6o" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Fish Audio Drama 3 se consolida como el modelo de voz más emotivo del mercado: permite diseñar personajes ficticios con descripciones textuales, controlar su interpretación con etiquetas de emoción y clonar cualquier voz con solo 10 segundos de audio. Además, sus pesos abiertos pueden ejecutarse en local sin coste de créditos, y su integración con ChatGPT/Codex mediante skills abre la puerta a asistentes personales con memoria. La oferta de lanzamiento incluye un 50% de descuento en planes y un precio de API de 10 USD por millón de caracteres.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Wide Silvente</strong>: <a href="https://www.youtube.com/watch?v=U5PElNPLH6o" target="_blank" rel="noopener">Esta IA hace ACTUAR a tus personajes con la VOZ | Fish Audio</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Diseño de voces ficticias: de la descripción al personaje</h3>
+<p>El proceso comienza en la interfaz de Fish Audio, donde el usuario describe con lenguaje natural las características de la voz que desea. Por ejemplo, una descripción típica sería: <em>«Una voz de un joven con acento español peninsular, estilo animación de dibujos con mucha energía y expresividad»</em>. El modelo interpreta esos atributos y genera varias muestras de audio. La clave está en la iteración: se pueden regenerar tantas veces como sea necesario hasta dar con el timbre exacto. Una vez seleccionada, la voz se asigna a un personaje con nombre y categoría (por ejemplo, «animación»), lo que permite organizar múltiples voces dentro de un mismo proyecto.</p>
+<p>Más allá de los rasgos básicos, Drama 3 acepta condiciones específicas que modifican el timbre y la textura. Frases como <strong>«hablando bajo el agua»</strong> o <strong>«hablando por detrás de una radio»</strong> actúan como filtros creativos y añaden realismo a la escena. Esta flexibilidad convierte al modelo en una herramienta versátil para doblaje, audiolibros o videojuegos, donde cada personaje requiere una identidad sonora única.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Etiquetas de emoción: el actor detrás de la voz</h3>
+<p>La verdadera potencia de Drama 3 reside en su capacidad para actuar. El modelo permite insertar etiquetas de emoción entre corchetes para modular la interpretación de una misma frase. En las pruebas realizadas, se utilizó la frase <em>«Oye, esto es real, parece un sueño»</em> con tres etiquetas distintas: <strong>asombro/incredulidad</strong>, <strong>enfado</strong> y <strong>susurro</strong>. El resultado fue notable: el tono, la velocidad y la intensidad cambiaron de forma coherente con cada emoción, demostrando que el modelo no se limita a leer texto, sino que lo interpreta.</p>
+<p>El etiquetado automático también funciona bien, lo que simplifica el flujo de trabajo para quienes no quieren escribir manualmente cada indicación. Esta funcionalidad es especialmente útil en producciones largas, donde mantener la consistencia emocional de un personaje a lo largo de varios diálogos es crucial. La combinación de descripciones detalladas y etiquetas emocionales permite crear actuaciones vocales ricas y matizadas sin necesidad de un director de doblaje.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Clonación de voz: 10 segundos para replicar tu timbre</h3>
+<p>La clonación de voz es otro de los pilares del tutorial. El proceso requiere únicamente un audio de referencia de al menos 10 segundos, aunque se recomienda disponer de 30 segundos para obtener mejores resultados. Según el plan contratado, se pueden utilizar muestras de hasta 210 segundos. En la demostración, el autor subió un fragmento de su propia voz y generó la misma frase con su timbre clonado. La conclusión fue clara: la calidad del resultado depende en gran medida del registro y del entrenamiento proporcionado; muestras variadas y limpias mejoran notablemente el doblaje.</p>
+<p>Este sistema democratiza la creación de doblajes personalizados, pero también plantea consideraciones éticas y legales que el usuario debe tener presentes. Fish Audio no especifica restricciones adicionales en el video, pero es responsabilidad del creador asegurarse de contar con los derechos necesarios sobre la voz original.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Ejecución local con pesos abiertos: cero créditos, control total</h3>
+<p>Para quienes prefieren evitar la nube y el consumo de créditos, Drama 3 ofrece pesos abiertos en Hugging Face. La instalación puede automatizarse pidiendo a ChatGPT: <em>«Este es el repositorio oficial de Hugging Face de Fish Audio Drama 3 para instalar la versión Drama 3 de pesos abiertos para local. Quiero que cojas toda la documentación e instales en mi ordenador de forma local el modelo para poder utilizarlo mediante ChatGPT»</em>. Tras la instalación, el modelo se ejecuta en la máquina del usuario y genera audio sin coste por carácter. En la prueba realizada, se produjo un audio de 4.9 segundos que funcionó correctamente.</p>
+<p>Para agilizar el uso recurrente, se puede crear una <strong>skill</strong> en ChatGPT que invoque el modelo local sin necesidad de buscar la instalación cada vez. Basta con pedir <em>«créame una skill de esto»</em> y el asistente configurará el acceso directo. Esta integración convierte a ChatGPT en una interfaz natural para generar voces bajo demanda, combinando la potencia del modelo local con la comodidad de un asistente conversacional.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Integración con video y asistentes personales: el siguiente nivel</h3>
+<p>La voz generada no se queda en el audio. El tutorial muestra cómo combinar las voces de Drama 3 con imágenes de referencia y la skill gratuita de Seedance 2.5 para crear escenas de video con voz de referencia. El flujo consiste en generar primero la voz del personaje o la propia voz clonada, luego utilizar Seedance 2.5 para producir prompts de video que sincronicen labios y expresiones, y finalmente unir ambos resultados. Esta sinergia permite crear contenido audiovisual completo sin salir del ecosistema de herramientas gratuitas o de bajo coste.</p>
+<p>La visión a futuro que plantea el autor va más allá: combinar un modelo de lenguaje como Qwen, un modelo de voz como Drama 3 y una memoria con contexto personalizado para construir asistentes personales. En este escenario, muchas tareas se resolverían localmente y solo se recurriría a la nube cuando fuera necesario, reduciendo costes y mejorando la privacidad. La clonación de voz y las etiquetas emocionales serían claves para que estos asistentes suenen humanos y empáticos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Precios, licencias y oferta de lanzamiento</h3>
+<p>Fish Audio ha lanzado una oferta con un <strong>50% de descuento</strong> en los nuevos planes Plus, Pro y Max, aplicable al primer mes en modalidad mensual o al primer año en modalidad anual. La promoción estará vigente hasta el 30 de noviembre de 2026. Además, el precio de la API de Drama 3 se ha reducido a <strong>10 USD por millón de caracteres</strong>, frente a los 50 USD habituales, lo que supone un 80% de descuento. Para quienes optan por los pesos abiertos, el uso es gratuito para fines comerciales siempre que la facturación anual sea inferior a 500,000 USD; por encima de esa cifra o si se ofrece como servicio de TTS/clonación, se requiere una licencia aparte.</p>
+<p>La ejecución local con pesos abiertos no consume créditos de la plataforma, lo que la convierte en una opción atractiva para proyectos intensivos en generación de audio. Sin embargo, es importante revisar los términos de la licencia para asegurarse de cumplir con las condiciones de uso comercial.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Clonación: mínimo 10 segundos de audio; 30 segundos recomendados; hasta 210 segundos según plan.</li>
+<li>API Drama 3: 10 USD por millón de caracteres (80% de descuento).</li>
+<li>Pesos abiertos: gratis para uso comercial si facturación anual &lt; 500,000 USD; de lo contrario, requiere licencia.</li>
+<li>Oferta de lanzamiento: 50% de descuento en planes Plus, Pro y Max hasta el 30 de noviembre de 2026.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://fish.audio/?fpr=wide" target="_blank" rel="noopener"><strong>Fish Audio Drama 3</strong></a> — Modelo de texto a voz emotivo para diseño de voces, clonación y generación de audio con etiquetas de emoción.</li>
+<li><a href="https://huggingface.co/fishaudio/drama-3" target="_blank" rel="noopener"><strong>Drama 3 pesos abiertos (Hugging Face)</strong></a> — Repositorio oficial para descargar y ejecutar el modelo localmente sin coste de créditos.</li>
+<li><a href="https://widesilvente.es/skill-seedance-2-5" target="_blank" rel="noopener"><strong>Skill Seedance 2.5</strong></a> — Skill gratuita para generar prompts de video con Seedance 2.5, útil para combinar con voces generadas.</li>
+<li><strong>ChatGPT/Codex</strong> — Asistente para instalar el modelo localmente y crear skills que automaticen su uso.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-U5PElNPLH6o.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

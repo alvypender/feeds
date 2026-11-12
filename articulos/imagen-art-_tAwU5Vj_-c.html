@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude Opus 5.5 crea motion graphics profesionales desde capturas y referencias sin escribir código — Frame &amp; Prompt</title>
+  <meta name="description" content="Claude Opus 5.5, integrado en la pestaña Code de la app de Claude y combinado con Remotion, es capaz de generar motion graphics animados de calidad profesional a partir de simples capturas de pantalla, grabaciones o videos de referencia, sin necesidad de programar ni tocar un keyframe. El creador Po">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Opus 5.5 crea motion graphics profesionales desde capturas y referencias sin escribir código">
+  <meta property="og:description" content="Claude Opus 5.5, integrado en la pestaña Code de la app de Claude y combinado con Remotion, es capaz de generar motion graphics animados de calidad profesional a partir de simples capturas de pantalla, grabaciones o videos de referencia, sin necesidad de programar ni tocar un keyframe. El creador Po">
+  <meta property="og:image" content="https://i.ytimg.com/vi/_tAwU5Vj_-c/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-_tAwU5Vj_-c.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude Opus 5.5 crea motion graphics profesionales desde capturas y referencias sin escribir código">
+  <meta name="twitter:description" content="Claude Opus 5.5, integrado en la pestaña Code de la app de Claude y combinado con Remotion, es capaz de generar motion graphics animados de calidad profesional a partir de simples capturas de pantalla, grabaciones o videos de referencia, sin necesidad de programar ni tocar un keyframe. El creador Po">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/_tAwU5Vj_-c/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-_tAwU5Vj_-c.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude Opus 5.5 crea motion graphics profesionales desde capturas y referencias sin escribir código</h1>
+        <div class="metadata">
+          <span>Por <strong>Pouya Eti</strong></span>
+          <time datetime='2026-10-31T17:03:51.069522-05:00'>2026-10-31</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/_tAwU5Vj_-c" title="Claude Opus 5.5 crea motion graphics profesionales desde capturas y referencias sin escribir código" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=_tAwU5Vj_-c" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Claude Opus 5.5, integrado en la pestaña Code de la app de Claude y combinado con Remotion, es capaz de generar motion graphics animados de calidad profesional a partir de simples capturas de pantalla, grabaciones o videos de referencia, sin necesidad de programar ni tocar un keyframe. El creador Pouya Eti lo demuestra con tres proyectos —una vista general de software, un video promocional vertical para una app y un anuncio de 20 segundos para un plugin de Premiere— y revela el truco clave: terminar cada prompt con &#x27;Ask me as many questions as you need to deliver the best result&#x27;. Además, presenta Radbin, un plugin que edita un video de 30 minutos en 2-3 minutos con IA.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Pouya Eti</strong>: <a href="https://www.youtube.com/watch?v=_tAwU5Vj_-c" target="_blank" rel="noopener">Claude Opus 5.5 Animated Every Motion Graphic in This Video (And You Don&#x27;t Need to Code)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El flujo de trabajo: Claude Code, Remotion y el prompt que lo cambia todo</h3>
+<p>La base de todo el proceso es la integración de <strong>Claude Opus 5.5</strong> dentro de la aplicación oficial de Claude, concretamente en la pestaña <strong>Code</strong>. Para empezar, se necesita un plan de pago —el plan Pro es suficiente, mientras que el gratuito no incluye Claude Code—, instalar la app de Claude, tener Node.js y crear un nuevo proyecto seleccionando una carpeta local. A continuación, se pega un comando de configuración que instala <strong>Remotion</strong>, un framework de React para crear videos programáticamente, junto con las habilidades de IA necesarias. Si Claude pregunta si se desean añadir habilidades de IA, basta con responder que sí; en caso contrario, se puede escribir &#x27;add AI skills&#x27; en el prompt.</p>
+<p>El truco fundamental que recorre los tres experimentos es una única frase que se añade al final de cada instrucción: <em>&#x27;Ask me as many questions as you need to deliver the best result&#x27;</em>. Esta fórmula hace que Claude, en lugar de ejecutar a ciegas, solicite detalles sobre el objetivo, el estilo, la duración o el formato antes de animar. Esa interacción es la que marca la diferencia entre un resultado genérico y uno verdaderamente profesional. Los videos generados se exportan como MP4 y pueden importarse después en Premiere, CapCut o Final Cut Pro para un retoque final.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Proyecto 1: de una grabación de pantalla a una vista general animada</h3>
+<p>El primer experimento parte de una grabación rápida de la pantalla de un software. El prompt utilizado fue: <em>&#x27;Attached is a quick screen recording of [tu app/software]. I want this turned into a cool motion graphic. Use the same design, but animated using Remotion with advanced effects. Ask me as many questions as you need to deliver the best result.&#x27;</em> Claude analizó la grabación, identificó qué características del software merecía la pena mostrar y cómo animarlas, y generó una vista general con transiciones y efectos avanzados. El resultado, según el autor, es profesional y sin necesidad de ajustar keyframes manualmente.</p>
+<p>Este caso demuestra que la herramienta puede leer una interfaz real y traducirla a un lenguaje audiovisual atractivo, algo que tradicionalmente requería horas de trabajo en After Effects. El proceso de generación tarda varios minutos, dependiendo de la complejidad, pero no exige conocimientos de programación ni de edición.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Proyecto 2: un video promocional vertical para la App Store a partir de cinco capturas</h3>
+<p>El segundo proyecto consistió en crear un video promocional vertical para la app <strong>Radbit</strong> (una aplicación de productividad para iOS con Pomodoro y hábitos). El prompt fue: <em>&#x27;Now I want you to create a promotional video vertical for an app called [nombre] to upload this video on App Store. I have attached five screenshots from the app. Use advanced and professional motion graphics, effects, and animations with text and titles in this promotional video. [link a la App Store]. Ask me as many questions as you need to create a cool and professional motion graphic.&#x27;</em> Además de las cinco capturas, se adjuntó el logo de la app.</p>
+<p>Claude no se limitó a animar las imágenes: leyó la página de la App Store, hizo preguntas para comprender mejor la aplicación e incluso <strong>ejecutó la app en dos simuladores</strong> para entender su funcionamiento. Con esa información, generó un video vertical con títulos, efectos y animaciones profesionales. Cuando se le pidió, añadió también efectos de sonido. La música generada por Claude, sin embargo, no alcanza un nivel profesional, por lo que el autor recomienda sustituirla por una pista propia en la edición final.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Proyecto 3: un anuncio de 20 segundos inspirado en una referencia de Pinterest</h3>
+<p>El tercer experimento buscaba replicar el estilo de un video de motion graphics encontrado en <strong>Pinterest</strong> (buscando &#x27;professional motion graphics advertisement videos&#x27;). Se descargó el video de referencia y se adjuntó junto con capturas del producto —en este caso, el plugin Radbin para Premiere—. El prompt fue: <em>&#x27;This video contains amazing animation and motion design. I would like a video like this for [tu producto]. Ask me as many questions as you need in order to get this right. The final output should be 20 seconds and 16:9 aspect ratio. I&#x27;m also attaching some screenshots of [tu producto]. [link a tu producto]&#x27;</em>.</p>
+<p>Claude generó un anuncio de 20 segundos en formato 16:9 que seguía el estilo, los títulos y los efectos del video de referencia, incluyendo una llamada a la acción final. Los efectos de sonido funcionaron bien, aunque la música generada volvió a quedarse corta. Este caso evidencia la capacidad de la herramienta para adaptar un lenguaje visual concreto a un producto distinto, manteniendo la coherencia estética.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Radbin: edición automática en Premiere Pro con Claude Opus 5.5</h3>
+<p>El video también presenta <strong>Radbin</strong>, un plugin para Premiere Pro que utiliza Claude Opus 5.5 para editar automáticamente. El flujo es sencillo: se instala el plugin, se selecciona la sección del timeline que se quiere editar y se pide &#x27;make cuts and create shots&#x27;. Radbin analiza la escena y, con la opción &#x27;Edit with Claude&#x27;, realiza cortes, transiciones, títulos y efectos de sonido de forma automática. El autor asegura que editó un video de 30 minutos en solo 2-3 minutos, frente a las 3-4 horas que le llevaba antes. El video completo que se muestra en el tutorial fue editado con este plugin.</p>
+<p>Radbin ofrece <strong>40 créditos gratuitos sin necesidad de tarjeta de crédito</strong>. Para añadir subtítulos destinados a Shorts, se accede a la sección &#x27;captions&#x27;, se elige un estilo y se hace clic en &#x27;add captions&#x27;. Esta herramienta complementa perfectamente el flujo de generación de motion graphics, ya que permite integrar los clips generados por Claude en un proceso de edición profesional sin fricción.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Conclusiones y recursos adicionales</h3>
+<p>La conclusión general es que <strong>Claude Opus 5.5 con Remotion</strong> permite crear motion graphics profesionales en minutos, sin necesidad de saber programar ni de dominar software de edición. Los resultados son sorprendentemente buenos y se integran sin problemas en flujos de trabajo tradicionales. Eso sí, se requiere un plan de pago de Claude (Pro es suficiente) y la música generada no es profesional, por lo que conviene añadir una pista propia después.</p>
+<p>Para quien quiera profundizar, el autor ofrece un <strong>kit de motion graphics gratuito</strong> (descargable con email) que incluye prompts para crear lower thirds (como &#x27;subscribe&#x27; o &#x27;follow me&#x27;) y ajustes de exportación. También comparte enlaces a sus cursos y comunidad, aunque el foco principal es la demostración práctica de que la barrera técnica para producir animaciones de calidad ha caído.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Prompt comodín para cualquier proyecto: termina siempre con &#x27;Ask me as many questions as you need to deliver the best result&#x27;.</li>
+<li>Para video vertical de app: adjunta 5 capturas + logo + enlace a la App Store y pide &#x27;advanced and professional motion graphics, effects, and animations with text and titles&#x27;.</li>
+<li>Para replicar un estilo: adjunta el video de referencia (descargado de Pinterest) + capturas de tu producto y especifica duración y relación de aspecto (ej. 20 segundos, 16:9).</li>
+<li>Para añadir efectos de sonido, incluye &#x27;Please add sound effects as well&#x27; en el prompt o pídelo después de generar el video.</li>
+<li>En Radbin: selecciona la sección, pide &#x27;make cuts and create shots&#x27;, analiza la escena y usa &#x27;Edit with Claude&#x27; para cortes, transiciones, títulos y efectos automáticos.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://claude.ai" target="_blank" rel="noopener"><strong>Claude Opus 5.5</strong></a> — Modelo de IA que genera y anima motion graphics a partir de prompts, capturas y videos de referencia.</li>
+<li><strong>Claude Code</strong> — Entorno dentro de la app de Claude para ejecutar comandos y configurar proyectos de Remotion con habilidades de IA.</li>
+<li><a href="https://www.remotion.dev/" target="_blank" rel="noopener"><strong>Remotion</strong></a> — Framework de React para crear videos programáticamente; Claude lo usa como motor de renderizado.</li>
+<li><a href="https://radbin.ai/premiere/" target="_blank" rel="noopener"><strong>Radbin for Premiere Pro</strong></a> — Plugin de edición automática con IA para Premiere Pro que realiza cortes, títulos, transiciones y efectos de sonido.</li>
+<li><a href="https://apps.apple.com/us/app/radbit-pomodoro-habits/id6763946267" target="_blank" rel="noopener"><strong>Radbit</strong></a> — App de productividad para iOS (Pomodoro y hábitos) usada como ejemplo para el video promocional vertical.</li>
+<li><a href="https://www.pinterest.com/" target="_blank" rel="noopener"><strong>Pinterest</strong></a> — Plataforma para buscar y descargar videos de referencia de motion graphics.</li>
+<li><a href="https://radbin.ai/claude-motion-graphics/" target="_blank" rel="noopener"><strong>Kit de motion graphics (PDF)</strong></a> — Guía gratuita con prompts para lower thirds y ajustes de exportación.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-_tAwU5Vj_-c.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

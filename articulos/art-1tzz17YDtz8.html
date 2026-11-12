@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude en acción: 15 experimentos reales que van de hackear el router para duplicar el WiFi a reconstruir Call of Duty con 17 agentes — Frame &amp; Prompt</title>
+  <meta name="description" content="Claude y sus agentes autónomos ya resuelven problemas cotidianos con resultados medibles: multiplicaron por tres la velocidad del WiFi, detectaron un minero de criptomonedas que quemaba el procesador a 112 grados y hasta reconstruyeron el 99% del código de Call of Duty en tres meses. La recopilación">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude en acción: 15 experimentos reales que van de hackear el router para duplicar el WiFi a reconstruir Call of Duty con 17 agentes">
+  <meta property="og:description" content="Claude y sus agentes autónomos ya resuelven problemas cotidianos con resultados medibles: multiplicaron por tres la velocidad del WiFi, detectaron un minero de criptomonedas que quemaba el procesador a 112 grados y hasta reconstruyeron el 99% del código de Call of Duty en tres meses. La recopilación">
+  <meta property="og:image" content="https://i.ytimg.com/vi/1tzz17YDtz8/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-1tzz17YDtz8.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude en acción: 15 experimentos reales que van de hackear el router para duplicar el WiFi a reconstruir Call of Duty con 17 agentes">
+  <meta name="twitter:description" content="Claude y sus agentes autónomos ya resuelven problemas cotidianos con resultados medibles: multiplicaron por tres la velocidad del WiFi, detectaron un minero de criptomonedas que quemaba el procesador a 112 grados y hasta reconstruyeron el 99% del código de Call of Duty en tres meses. La recopilación">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/1tzz17YDtz8/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-1tzz17YDtz8.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude en acción: 15 experimentos reales que van de hackear el router para duplicar el WiFi a reconstruir Call of Duty con 17 agentes</h1>
+        <div class="metadata">
+          <span>Por <strong>Xavier Mitjana</strong></span>
+          <time datetime='2026-11-05T17:03:52.085878-05:00'>2026-11-05</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/1tzz17YDtz8" title="Claude en acción: 15 experimentos reales que van de hackear el router para duplicar el WiFi a reconstruir Call of Duty con 17 agentes" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=1tzz17YDtz8" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Claude y sus agentes autónomos ya resuelven problemas cotidianos con resultados medibles: multiplicaron por tres la velocidad del WiFi, detectaron un minero de criptomonedas que quemaba el procesador a 112 grados y hasta reconstruyeron el 99% del código de Call of Duty en tres meses. La recopilación de Xavier Mitjana demuestra que la IA puede trazar el camino hacia la solución, pero solo si se le da un objetivo claro, contexto y un mecanismo de verificación independiente. El veredicto es contundente: sin supervisión humana, el agente puede fallar o tomar atajos peligrosos.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Xavier Mitjana</strong>: <a href="https://www.youtube.com/watch?v=1tzz17YDtz8" target="_blank" rel="noopener">15 formas de usar IA que cambiarán tu vida en 2027</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del televisor al Kindle: cuando el agente limpia lo que el fabricante ensucia</h3>
+<p>La primera tanda de experimentos ataca una molestia universal: el software preinstalado que ralentiza los dispositivos. En el caso de una televisión, el procedimiento consiste en proporcionar a <strong>Claude Code</strong> la ficha técnica del modelo y pedirle que elimine los anuncios y las aplicaciones de relleno. El agente no se limita a desinstalar: crea una interfaz nueva y limpia, lo que se traduce en un arranque más rápido y una experiencia sin interrupciones publicitarias. La misma lógica se aplica a un <strong>Kindle</strong>: conectado por USB, Claude Code elimina el software de Amazon que no se usa y lo integra en una red privada siguiendo instrucciones públicas. El resultado es un lector liberado de servicios innecesarios y con mayor control por parte del usuario.</p>
+<p>Estos casos comparten un patrón: el usuario describe el objetivo y el agente ejecuta una secuencia de acciones técnicas que, de otro modo, requerirían conocimientos de ingeniería inversa. La clave está en que Claude Code no actúa a ciegas; sigue un plan basado en la documentación disponible y en las características del hardware. Esa capacidad de adaptación es la que permite que un mismo agente pase de una TV a un lector de libros sin reprogramación manual.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">WiFi a 292 Mbps: diagnóstico y ajuste fino del router</h3>
+<p>El experimento de optimización de red es uno de los más citados por su impacto inmediato. Claude Code realizó pruebas de velocidad, analizó la señal y guió al usuario en los ajustes del router. El diagnóstico reveló tres problemas concretos: el canal estaba compartido con otras redes, la función <strong>WMM</strong> (Wi-Fi Multimedia) estaba desactivada y la banda de 5 GHz operaba a una velocidad inferior a la esperada. Tras aplicar las correcciones —cambiar el canal, activar WMM y priorizar la banda de 5 GHz—, la velocidad pasó de <strong>90 Mbps a 292 Mbps</strong>, más del triple.</p>
+<p>El valor de este caso no reside solo en la cifra, sino en el método: el agente no adivina, sino que mide, interpreta y propone cambios verificables. El usuario mantiene el control en todo momento, pero se ahorra la curva de aprendizaje de interpretar métricas de red y localizar los parámetros correctos en el panel de administración del router.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Vigilancia doméstica: mineros, pantallas de coche y aspiradoras conectadas</h3>
+<p>La seguridad y el rendimiento de los dispositivos conectados son otro filón. En un <strong>Mac</strong>, Claude detectó un proceso que utilizaba 12 núcleos y mantenía el chip a <strong>112 grados</strong>, un comportamiento típico de un minero de criptomonedas. El agente no eliminó el proceso por su cuenta: pidió permiso antes de actuar, un detalle que subraya la necesidad de supervisión humana en tareas destructivas. En el caso de una pantalla de coche, el análisis reveló servicios no deseados —localización de Baidu, asistente de voz— que consumían un tercio del procesador, lo que explica la lentitud del sistema.</p>
+<p>El episodio más llamativo es el de las aspiradoras <strong>DJI</strong>: un usuario construyó una aplicación para controlar su propio dispositivo y, sin proponérselo, accedió a casi <strong>7.000 aspiradoras de 24 países</strong>. DJI corrigió la vulnerabilidad con dos actualizaciones en febrero. Este caso ilustra el doble filo de la automatización: la misma capacidad que permite personalizar un dispositivo puede exponer fallos de seguridad a gran escala si no se valida el alcance de los permisos.</p>
+<p>Para quien se hospeda en un <strong>Airbnb</strong>, Claude Code puede escanear cámaras conectadas al WiFi, dispositivos Bluetooth y software espía en el móvil antes de la estancia. La recomendación es clara: usar estas capacidades con consentimiento y dentro de un marco legal, pero también como herramienta de autodefensa digital.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Aplicaciones sin programar: del registro de bebé a la traducción en 48 idiomas</h3>
+<p>La creación de aplicaciones personalizadas es uno de los usos más accesibles. Un padre sin experiencia en programación utilizó Claude para construir una app que registra tomas, siestas y pañales de su bebé. El agente cometió un error en el control de alergias, que fue corregido tras la verificación del usuario. La lección es que el documento de requisitos debe ser explícito y que los datos generados por el modelo necesitan revisión humana, especialmente cuando afectan a la salud o a la seguridad.</p>
+<p>El mismo enfoque sirve para escalar herramientas en el ámbito laboral. Un caso citado es la automatización de la traducción de páginas web a <strong>48 idiomas</strong> con un solo botón, reutilizando el aprendizaje de un proyecto anterior. La clave está en identificar una molestia concreta, reunir el material de contexto (correos, facturas, hojas de cálculo) y dejar que Claude analice y compare. Para proyectos largos, conviene definir de antemano cómo se comprobará el resultado y asegurar que el agente no pueda modificar esa comprobación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Agentes que negocian: Project Deal y la brecha entre Opus y Haiku</h3>
+<p>El experimento <strong>Project Deal</strong> de Anthropic llevó a los agentes al terreno de la negociación económica. Durante el proyecto, agentes de Claude compraron y vendieron artículos por encargo de 69 empleados, cerrando <strong>186 acuerdos por más de 4.000 dólares</strong>. Los agentes basados en <strong>Opus 4.5</strong> obtenían en promedio <strong>2,68 dólares más por artículo</strong> que los basados en <strong>Haiku 4.5</strong>, una diferencia notable que los participantes no percibieron. Este resultado sugiere que la capacidad del modelo influye directamente en el resultado económico, pero también que la supervisión humana es indispensable cuando se delegan decisiones con dinero.</p>
+<p>La recomendación práctica es que un humano revise y asuma la responsabilidad final en presupuestos, compras o reclamaciones. El agente puede explorar opciones y ejecutar transacciones, pero la validación de límites y la rendición de cuentas deben recaer en una persona.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Ciencia asistida: exoplanetas, distrofia muscular y enzimas desconocidas</h3>
+<p>El potencial científico de Claude se ilustra con tres casos. <strong>Pavel Rabsevich</strong> analizó datos de <strong>126.000 estrellas</strong> del telescopio TESS con Claude y otras IA, encontró un candidato a exoplaneta y programó <strong>74 pruebas</strong> para intentar refutar su hipótesis. El telescopio TESS está midiendo la estrella hasta el 26 de noviembre, lo que mantiene abierta la confirmación. En el ámbito médico, <strong>Cody Trambarger</strong> usó Claude para coordinar contratos y experimentos en <strong>11 laboratorios</strong>, logrando un posible tratamiento para la distrofia muscular en <strong>18 meses</strong>; Anthropic compró la empresa en julio.</p>
+<p>El tercer caso es una demostración de escala: Anthropic puso <strong>950 agentes de Claude</strong> a trabajar durante <strong>21 horas seguidas</strong> y encontraron un sistema de enzimas desconocido. La mayoría de las propuestas se descartaron y se desconoce su utilidad práctica, pero el experimento evidencia que los agentes pueden generar hipótesis masivas que luego deben filtrarse con criterios científicos rigurosos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Aprender con IA: el manual de 40 horas y la trampa de delegar demasiado</h3>
+<p>El uso de Claude para sintetizar conocimiento es tentador: <strong>Aditya Umale</strong> pasó transcripciones de <strong>83 episodios de podcasts</strong> (40 horas) y obtuvo un manual paso a paso. Sin embargo, un estudio de Anthropic con <strong>52 programadores</strong> reveló una brecha preocupante: quienes delegaron en la IA obtuvieron un <strong>50% en promedio</strong>, frente al <strong>67%</strong> de quienes no delegaron, con una diferencia aún mayor en la detección de errores. La conclusión es que la IA acelera la producción, pero puede erosionar el criterio si se usa como sustituto de la práctica.</p>
+<p>El consejo es complementar el aprendizaje asistido con práctica sin IA. Leer un manual generado por el modelo no reemplaza la experiencia de resolver problemas por cuenta propia; la herramienta debe ser un acelerador, no una muleta.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Reconstruir Call of Duty: 17 agentes y una prueba automática como árbitro</h3>
+<p>El caso más ambicioso es la reconstrucción del código de <strong>Call of Duty</strong> por <strong>Maurice Human</strong>, quien utilizó <strong>17 agentes de Claude y Codex</strong> para descompilar el juego. Los primeros intentos de supervisión manual fracasaron; el punto de inflexión llegó al implementar una <strong>prueba automática</strong> que validaba cada parte sin intervención del agente. Con ese árbitro independiente, logró reconstruir el <strong>99% del código en 3 meses</strong>. La lección es doble: los agentes pueden abordar tareas de ingeniería inversa de gran escala, pero necesitan un mecanismo de verificación que no puedan modificar.</p>
+<p>Este patrón —objetivo claro, contexto suficiente y prueba automática— se repite en todos los casos exitosos. Para empezar con agentes, la recomendación es identificar una molestia concreta, reunir el material de contexto y designar un revisor humano o una prueba automática que valide el resultado.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para eliminar anuncios de una TV: proporciona la ficha del modelo a Claude Code y pídele que cree una interfaz limpia sin aplicaciones de relleno.</li>
+<li>Para optimizar el WiFi: solicita pruebas de velocidad, análisis de canal y revisión de WMM y banda de 5 GHz; el caso documentado pasó de 90 a 292 Mbps.</li>
+<li>Para delegar decisiones con dinero: exige que un humano revise y asuma la responsabilidad final; los agentes con Opus 4.5 superaron a los de Haiku 4.5 en 2,68 dólares por artículo, pero nadie notó la diferencia.</li>
+<li>Para proyectos largos con agentes: define una prueba automática que valide cada parte y asegúrate de que el agente no pueda modificarla.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Claude</strong> — Modelo de lenguaje de Anthropic para automatización, análisis y creación de aplicaciones.</li>
+<li><strong>Claude Code</strong> — Agente de Claude para interactuar con dispositivos, analizar software y realizar ingeniería inversa.</li>
+<li><strong>Claude Opus 4.5</strong> — Versión más capaz de Claude, usada en agentes de negociación y tareas complejas.</li>
+<li><strong>Claude Haiku 4.5</strong> — Versión más pequeña y económica de Claude, empleada en agentes con menor capacidad de negociación.</li>
+<li><strong>Codex</strong> — Agente de OpenAI para generación y reconstrucción de código.</li>
+<li><a href="https://internxt.com/es/xavier" target="_blank" rel="noopener"><strong>Internxt</strong></a> — Servicio de nube cifrada y privada para almacenamiento y backup.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-1tzz17YDtz8.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

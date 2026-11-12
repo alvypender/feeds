@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenAI afirma refutar la Hipótesis del Tiempo Exponencial con un algoritmo subexponencial para 3-SAT — Frame &amp; Prompt</title>
+  <meta name="description" content="Un preprint de OpenAI sostiene haber encontrado un algoritmo con cota subexponencial para 3-SAT, lo que refutaría la Hipótesis del Tiempo Exponencial, uno de los pilares de la informática teórica. Si supera la revisión por pares, el hallazgo se trasladaría vía reducciones de Karp a problemas como ru">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="OpenAI afirma refutar la Hipótesis del Tiempo Exponencial con un algoritmo subexponencial para 3-SAT">
+  <meta property="og:description" content="Un preprint de OpenAI sostiene haber encontrado un algoritmo con cota subexponencial para 3-SAT, lo que refutaría la Hipótesis del Tiempo Exponencial, uno de los pilares de la informática teórica. Si supera la revisión por pares, el hallazgo se trasladaría vía reducciones de Karp a problemas como ru">
+  <meta property="og:image" content="https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-CWdTBLsbaQs.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="OpenAI afirma refutar la Hipótesis del Tiempo Exponencial con un algoritmo subexponencial para 3-SAT">
+  <meta name="twitter:description" content="Un preprint de OpenAI sostiene haber encontrado un algoritmo con cota subexponencial para 3-SAT, lo que refutaría la Hipótesis del Tiempo Exponencial, uno de los pilares de la informática teórica. Si supera la revisión por pares, el hallazgo se trasladaría vía reducciones de Karp a problemas como ru">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-CWdTBLsbaQs.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">OpenAI afirma refutar la Hipótesis del Tiempo Exponencial con un algoritmo subexponencial para 3-SAT</h1>
+        <div class="metadata">
+          <span>Por <strong>Two Minute Papers</strong></span>
+          <time datetime='2026-10-30T17:01:24.727634-05:00'>2026-10-30</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/CWdTBLsbaQs" title="OpenAI afirma refutar la Hipótesis del Tiempo Exponencial con un algoritmo subexponencial para 3-SAT" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=CWdTBLsbaQs" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Un preprint de OpenAI sostiene haber encontrado un algoritmo con cota subexponencial para 3-SAT, lo que refutaría la Hipótesis del Tiempo Exponencial, uno de los pilares de la informática teórica. Si supera la revisión por pares, el hallazgo se trasladaría vía reducciones de Karp a problemas como rutas de reparto, asignación de frecuencias o cobertura con sensores. No resuelve P vs NP y la validación experta aún no está completa.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Two Minute Papers</strong>: <a href="https://www.youtube.com/watch?v=CWdTBLsbaQs" target="_blank" rel="noopener">OpenAI Claims It Just Did The Impossible</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Qué es la Hipótesis del Tiempo Exponencial y por qué importa</h3>
+<p>La <strong>Hipótesis del Tiempo Exponencial (ETH)</strong> postula que ciertos problemas computacionales no pueden resolverse de forma eficiente y que, en el peor caso, el coste crece exponencialmente con el tamaño de la instancia. No es una ley matemática demostrada, sino un supuesto ampliamente aceptado que durante décadas ha guiado el diseño de algoritmos y la investigación en complejidad. El problema canónico para probarla es <strong>3-SAT</strong>: dada una fórmula compuesta por cláusulas de tres literales unidos por OR y evaluados globalmente con AND, determinar si existe una asignación de verdad que la satisfaga.</p>
+<p>El vídeo de Two Minute Papers ilustra la escala del desafío con un ejemplo cotidiano: una cláusula como «el gato duerme» OR «el perro ladra» OR «el robot baila» se satisface trivialmente haciendo dormir al gato; con dos cláusulas que se contradicen en gato y perro, la variable robot que coincide en ambas resuelve el sistema. Pero al escalar el número de variables y cláusulas, la búsqueda por fuerza bruta explota: un procesador que pruebe mil millones de combinaciones por segundo tardaría del orden de un cuatrillón (10^15) de años en resolver una instancia grande. Existen algoritmos mejores que la fuerza bruta, pero ninguno había logrado romper la barrera exponencial en el caso general, que es precisamente lo que postula la ETH.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El paper: no solo prueba la existencia, entrega el algoritmo</h3>
+<p>El preprint de OpenAI, titulado <em>The Exponential Time Hypothesis is False</em>, afirma una cota subexponencial para 3-SAT y, según el análisis del canal, no se limita a demostrar la existencia del algoritmo: lo proporciona explícitamente y además computa el número exacto de soluciones. Ese doble resultado es relevante porque, en la práctica, muchos problemas de optimización no solo requieren una solución, sino cuantificar cuántas existen o comparar alternativas.</p>
+<p>El propio resumen del paper citado en el vídeo es tajante: «A subexponential bound has been claimed for 3-SAT, refuting the Exponential Time Hypothesis». El autor de Two Minute Papers admite que no esperaba ver algo así en su vida y lo califica de momento histórico, aunque insiste en un matiz crucial: la refutación de la ETH <strong>no resuelve P vs NP</strong>, que sigue abierto. La revisión por pares no está completada al 100%, pero el resultado parece cada vez más convincente.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del 3-SAT a la vida real: reducciones de Karp y aplicaciones</h3>
+<p>La razón por la que un avance en 3-SAT trasciende la teoría es la existencia de las <strong>reducciones de Karp</strong>, una técnica que transforma problemas distintos en instancias de 3-SAT y permite transferir mejoras algorítmicas. El vídeo enumera casos concretos: rutas eficientes de reparto de medicinas con poco combustible, asignación de frecuencias de radio a miles de transmisores, colocación mínima de sensores para monitorizar un sistema o selección del equipamiento científico más valioso para una nave espacial. Un algoritmo subexponencial para 3-SAT se trasladaría a todos ellos, no siempre pero a menudo.</p>
+<p>Para quien quiera experimentar o reproducir investigación de IA, el creador recomienda usar GPUs en la nube de <strong>Lambda</strong>, útiles para entrenar, hacer fine-tuning, inferencia o ejecutar chatbots y agentes como DeepSeek en minutos. También cita su propio trabajo sobre <em>Adaptive Metropolis</em>, un ejemplo de algoritmos humanos ingeniosos aplicados al renderizado por ray tracing, como recordatorio de que la creatividad algorítmica sigue siendo un territorio fértil.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Qué falta para dar el resultado por definitivo</h3>
+<p>El entusiasmo debe moderarse por el estado de validación. El propio autor del vídeo señala que la revisión experta no está completa, aunque el resultado parece cada vez más convincente. Hasta que la comunidad verifique la prueba, la ETH sigue siendo el supuesto de trabajo. Si se confirma, caería uno de los supuestos más importantes de la informática teórica y se abriría una nueva era para los problemas NP-completos reducibles a 3-SAT. El canal anuncia además una posible entrevista con Spencer Huang en futuros episodios, lo que podría arrojar más luz sobre los detalles técnicos.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>3-SAT: fórmula de cláusulas con tres literales unidos por OR y evaluados con AND; determinar si existe asignación de verdad que la satisfaga.</li>
+<li>La ETH postula que en el peor caso el coste crece exponencialmente con el tamaño de la instancia; refutarla no implica P = NP.</li>
+<li>Las reducciones de Karp permiten trasladar un algoritmo subexponencial para 3-SAT a rutas, frecuencias, sensores o carga de equipamiento.</li>
+<li>El paper de OpenAI no solo prueba la existencia: entrega el algoritmo y computa el número exacto de soluciones.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf" target="_blank" rel="noopener"><strong>Preprint de OpenAI sobre la refutación de la ETH</strong></a> — Paper que afirma una cota subexponencial para 3-SAT e incluye el algoritmo y el conteo exacto de soluciones</li>
+<li><a href="https://lambda.ai/papers" target="_blank" rel="noopener"><strong>Lambda GPU Cloud</strong></a> — Infraestructura de GPUs NVIDIA para reproducir papers de IA, entrenar, hacer fine-tuning o ejecutar agentes como DeepSeek</li>
+<li><a href="https://users.cg.tuwien.ac.at/zsolnai/gfx/adaptive_metropolis/" target="_blank" rel="noopener"><strong>Adaptive Metropolis</strong></a> — Trabajo del canal sobre renderizado por ray tracing con muestreo adaptativo, citado como ejemplo de algoritmos ingeniosos</li>
+<li><strong>3-SAT</strong> — Problema NP-completo canónico usado como banco de pruebas de la ETH y destino de reducciones de Karp</li>
+<li><strong>Reducciones de Karp</strong> — Técnica para transformar problemas distintos en instancias de 3-SAT y transferir mejoras algorítmicas</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-CWdTBLsbaQs.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

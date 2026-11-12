@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radbin Studio Portrait: cómo recrear un retrato de baja resolución en 4K dentro de Photoshop conservando textura de piel, pelo y desenfoque natural — Frame &amp; Prompt</title>
+  <meta name="description" content="El plugin Radbin estrena Studio Portrait, una herramienta dentro de Photoshop que reconstruye retratos de baja resolución en 4K sin perder textura de piel, pelo ni el desenfoque natural de las zonas fuera de foco. Con cuatro ejemplos prácticos, su creador demuestra que el resultado es indistinguible">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Radbin Studio Portrait: cómo recrear un retrato de baja resolución en 4K dentro de Photoshop conservando textura de piel, pelo y desenfoque natural">
+  <meta property="og:description" content="El plugin Radbin estrena Studio Portrait, una herramienta dentro de Photoshop que reconstruye retratos de baja resolución en 4K sin perder textura de piel, pelo ni el desenfoque natural de las zonas fuera de foco. Con cuatro ejemplos prácticos, su creador demuestra que el resultado es indistinguible">
+  <meta property="og:image" content="https://i.ytimg.com/vi/cR8ANoLhmjY/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-cR8ANoLhmjY.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Radbin Studio Portrait: cómo recrear un retrato de baja resolución en 4K dentro de Photoshop conservando textura de piel, pelo y desenfoque natural">
+  <meta name="twitter:description" content="El plugin Radbin estrena Studio Portrait, una herramienta dentro de Photoshop que reconstruye retratos de baja resolución en 4K sin perder textura de piel, pelo ni el desenfoque natural de las zonas fuera de foco. Con cuatro ejemplos prácticos, su creador demuestra que el resultado es indistinguible">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/cR8ANoLhmjY/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-cR8ANoLhmjY.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Radbin Studio Portrait: cómo recrear un retrato de baja resolución en 4K dentro de Photoshop conservando textura de piel, pelo y desenfoque natural</h1>
+        <div class="metadata">
+          <span>Por <strong>Pouya Eti</strong></span>
+          <time datetime='2026-11-03T17:05:11.781470-05:00'>2026-11-03</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/cR8ANoLhmjY" title="Radbin Studio Portrait: cómo recrear un retrato de baja resolución en 4K dentro de Photoshop conservando textura de piel, pelo y desenfoque natural" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=cR8ANoLhmjY" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El plugin Radbin estrena Studio Portrait, una herramienta dentro de Photoshop que reconstruye retratos de baja resolución en 4K sin perder textura de piel, pelo ni el desenfoque natural de las zonas fuera de foco. Con cuatro ejemplos prácticos, su creador demuestra que el resultado es indistinguible de una foto original y que también sirve para recortar retratos nítidos sobre fondos limpios con iluminación adaptada. La clave está en elegir bien el fondo y decidir entre &#x27;Resize to match&#x27; o &#x27;Keep size&#x27; sobre un smart object.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Pouya Eti</strong>: <a href="https://www.youtube.com/watch?v=cR8ANoLhmjY" target="_blank" rel="noopener">How to Upscale a Low Res Portrait to 4K in Photoshop With AI (And You Can&#x27;t Tell It Was Generated)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Qué es Studio Portrait y por qué importa</h3>
+<p>Radbin, el plugin de IA para Photoshop, acaba de incorporar <strong>Studio Portrait</strong>, una herramienta dentro de la pestaña <em>Enhance</em> que recrea retratos de baja resolución a 4K conservando los detalles más delicados: la textura de la piel, el pelo y el desenfoque natural de las zonas que estaban fuera de foco. No se trata de un simple upscaling: el modelo analiza la imagen durante unos segundos y genera un nuevo retrato con una calidad que, en las comparaciones antes/después mostradas, resulta indistinguible de una fotografía original.</p>
+<p>El flujo es sencillo: se abre el panel Radbin en Photoshop, se selecciona el sujeto y se elige entre las opciones de fondo disponibles: <strong>original, negro sólido, gris, blanco o degradados</strong> en azul oscuro, verde oscuro y marrón oscuro. Después se decide si el documento debe crecer hasta el tamaño 4K generado (<em>Resize to match</em>) o si el resultado se coloca en un smart object al tamaño actual del documento (<em>Keep size</em>). Esta segunda opción permite ampliar después con <em>Image &gt; Image Size</em> sin perder calidad, algo especialmente útil para conservar el tamaño de trabajo.</p>
+<p>La herramienta no solo rescata retratos antiguos o de baja calidad: también funciona como un recorte rápido de retratos ya nítidos para colocarlos sobre fondos limpios con una iluminación coherente. Y todo ello sin salir de Photoshop, con la ventaja de que el mismo plan y los mismos créditos cubren tanto la versión para Photoshop como la de Premiere Pro.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Instalación y primeras impresiones</h3>
+<p>Instalar Radbin es tan simple como hacer doble clic sobre el archivo descargado: se abre Adobe Creative Cloud y el plugin se instala automáticamente en Photoshop. Las actualizaciones se aplican con un solo clic desde el aviso de nueva versión que aparece dentro del panel, sin necesidad de reinstalar nada. Una vez dentro, la pestaña <em>Enhance</em> concentra las herramientas de mejora, y ahí convive Studio Portrait con el upscaling general que amplía cualquier foto hasta 10x.</p>
+<p>Antes de aplicar la herramienta conviene hacer una selección precisa del sujeto, porque de ello depende la calidad del recorte. En el vídeo, el creador insiste en este paso previo y en la importancia de ajustar el documento a 4000 px si se quiere comparar correctamente con la salida 4K. La herramienta tarda unos segundos en analizar la imagen y generar el nuevo retrato, un tiempo que se antoja razonable teniendo en cuenta la reconstrucción que realiza.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Cuatro ejemplos, cuatro lecciones</h3>
+<p>El primer ejemplo parte de un retrato de baja resolución mal recortado. Tras aplicar Studio Portrait con fondo negro y <em>Resize to match</em>, la herramienta recuperó la textura de piel y pelo y mantuvo el desenfoque natural en las zonas que estaban fuera de foco. El veredicto es claro: el resultado es muy superior al original y demuestra que el modelo entiende la profundidad de campo de la escena.</p>
+<p>El segundo ejemplo utiliza un retrato sin recortar y la opción <em>Keep size</em>. El resultado 4K se coloca en un smart object al mismo tamaño del documento; al ampliar después con <em>Image Size</em>, la imagen mantiene la nitidez. Esta opción es ideal para quien prefiera conservar el tamaño de trabajo y ampliar solo cuando sea necesario, sin perder calidad en el proceso.</p>
+<p>El tercer ejemplo es un retrato de mujer en la calle, ya nítido, que se prueba sobre seis fondos: negro, gris, degradado azul oscuro, verde oscuro, marrón oscuro y blanco. La herramienta adapta la iluminación al fondo elegido; en el fondo negro, por ejemplo, conserva el sol en el pelo. Funciona bien como recorte rápido incluso con fotos que no necesitan rescate, lo que amplía su utilidad más allá del upscaling.</p>
+<p>El cuarto ejemplo vuelve a un retrato de baja resolución y lo prueba sobre todos los fondos, incluido el original. En la comparación antes/después, el resultado es indistinguible de una foto original: la calidad y el detalle de la piel son impresionantes y no se nota que fue generado. La conclusión general es que Studio Portrait sirve tanto para rescatar retratos antiguos o de baja calidad como para recortar retratos nítidos y colocarlos sobre fondos limpios con iluminación coherente.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Precios, créditos y ecosistema Radbin</h3>
+<p>Radbin funciona con un único plan que cubre tanto la versión para Photoshop como la de Premiere Pro, compartiendo los mismos créditos entre ambas aplicaciones. Los créditos se pueden gastar indistintamente dentro de Photoshop o dentro de Premiere Pro, lo que simplifica la gestión para quienes trabajan con imagen fija y vídeo. El vídeo no especifica cifras concretas de precio ni la cantidad exacta de créditos por generación, pero sí deja claro que el mismo plan y los mismos créditos funcionan en ambas versiones.</p>
+<p>Además de Studio Portrait, Radbin ofrece una herramienta de upscaling general que amplía cualquier foto hasta 10x, no solo retratos. La guía de instalación oficial y la página de la herramienta están disponibles para quien quiera probarla. El ecosistema se completa con una versión para Premiere Pro que comparte licencia y créditos, lo que permite abordar proyectos de vídeo con las mismas herramientas de mejora.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Consejos para exprimir Studio Portrait</h3>
+<p>Para conservar el fondo original del retrato, selecciona la opción <em>Original</em> como primer ajuste dentro de Studio Portrait. Si el documento no está a 4000 px, ajústalo antes con <em>Image Size</em> para comparar correctamente los resultados 4K. Y si trabajas con retratos ya nítidos, aprovecha la herramienta como recorte rápido sobre fondo blanco o negro con iluminación adaptada al fondo: el resultado es limpio y coherente.</p>
+<p>La combinación de una selección precisa del sujeto, la elección consciente del fondo y la decisión entre <em>Resize to match</em> y <em>Keep size</em> determina la calidad final. Con estos mimbres, Studio Portrait se posiciona como una herramienta versátil tanto para rescatar recuerdos como para preparar retratos profesionales listos para catálogo o redes sociales.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para conservar el fondo original del retrato, seleccionar la opción &#x27;Original&#x27; como primer ajuste dentro de Studio Portrait.</li>
+<li>Usar &#x27;Resize to match&#x27; si quieres que el documento crezca hasta el tamaño 4K generado; usar &#x27;Keep size&#x27; si prefieres que el resultado 4K se coloque en un smart object al tamaño actual y ampliar después con Image &gt; Image Size.</li>
+<li>Ajustar el documento a 4000 px antes de comparar resultados 4K para evaluar correctamente la calidad.</li>
+<li>Hacer una selección precisa del sujeto antes de aplicar la herramienta para que el recorte sea limpio.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://radbin.ai/" target="_blank" rel="noopener"><strong>Radbin (plugin para Photoshop)</strong></a> — Plugin de IA para Photoshop con herramientas de mejora, retoque y upscaling; incluye Studio Portrait para recrear retratos en 4K.</li>
+<li><a href="https://radbin.ai/tools/upscale/" target="_blank" rel="noopener"><strong>Radbin Studio Portrait</strong></a> — Herramienta dentro de la pestaña Enhance que recrea retratos de baja resolución en 4K conservando textura de piel, pelo y desenfoque natural.</li>
+<li><a href="https://radbin.ai/premiere/" target="_blank" rel="noopener"><strong>Radbin para Premiere Pro</strong></a> — Versión del plugin para edición de vídeo con funciones avanzadas; comparte licencia y créditos con la versión de Photoshop.</li>
+<li><a href="https://radbin.ai/guides/install/" target="_blank" rel="noopener"><strong>Guía de instalación de Radbin</strong></a> — Instrucciones oficiales para instalar el plugin en Photoshop.</li>
+<li><a href="https://radbin.ai/tools/upscale/" target="_blank" rel="noopener"><strong>Radbin Upscale Tool</strong></a> — Herramienta de upscaling general que amplía cualquier foto hasta 10x, no solo retratos.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-cR8ANoLhmjY.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

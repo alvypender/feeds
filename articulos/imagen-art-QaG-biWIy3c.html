@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Higgsfield AI: cómo crear un anuncio cinematográfico de 30 segundos con personajes consistentes usando Seedance 2.5, Wan 3.0 Prime y GPT Image 2.5 — Frame &amp; Prompt</title>
+  <meta name="description" content="La consistencia de personajes en video con IA no se logra con prompts milagrosos, sino planificando cada asset como imagen de referencia numerada. Youri van Hofwegen demuestra en Higgsfield un flujo que combina Seedance 2.5 para realismo y diálogos, Wan 3.0 Prime para anime y Minimax H3 para 2K, log">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Higgsfield AI: cómo crear un anuncio cinematográfico de 30 segundos con personajes consistentes usando Seedance 2.5, Wan 3.0 Prime y GPT Image 2.5">
+  <meta property="og:description" content="La consistencia de personajes en video con IA no se logra con prompts milagrosos, sino planificando cada asset como imagen de referencia numerada. Youri van Hofwegen demuestra en Higgsfield un flujo que combina Seedance 2.5 para realismo y diálogos, Wan 3.0 Prime para anime y Minimax H3 para 2K, log">
+  <meta property="og:image" content="https://i.ytimg.com/vi/QaG-biWIy3c/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-QaG-biWIy3c.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Higgsfield AI: cómo crear un anuncio cinematográfico de 30 segundos con personajes consistentes usando Seedance 2.5, Wan 3.0 Prime y GPT Image 2.5">
+  <meta name="twitter:description" content="La consistencia de personajes en video con IA no se logra con prompts milagrosos, sino planificando cada asset como imagen de referencia numerada. Youri van Hofwegen demuestra en Higgsfield un flujo que combina Seedance 2.5 para realismo y diálogos, Wan 3.0 Prime para anime y Minimax H3 para 2K, log">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/QaG-biWIy3c/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-QaG-biWIy3c.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Higgsfield AI: cómo crear un anuncio cinematográfico de 30 segundos con personajes consistentes usando Seedance 2.5, Wan 3.0 Prime y GPT Image 2.5</h1>
+        <div class="metadata">
+          <span>Por <strong>Youri van Hofwegen</strong></span>
+          <time datetime='2026-11-09T17:05:05.436373-05:00'>2026-11-09</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/QaG-biWIy3c" title="Higgsfield AI: cómo crear un anuncio cinematográfico de 30 segundos con personajes consistentes usando Seedance 2.5, Wan 3.0 Prime y GPT Image 2.5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=QaG-biWIy3c" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La consistencia de personajes en video con IA no se logra con prompts milagrosos, sino planificando cada asset como imagen de referencia numerada. Youri van Hofwegen demuestra en Higgsfield un flujo que combina Seedance 2.5 para realismo y diálogos, Wan 3.0 Prime para anime y Minimax H3 para 2K, logrando un anuncio de 30 segundos con dos capitanes piratas, botella y localización perfectamente coherentes. El veredicto: Seedance 2.5 es el mejor para tomas profesionales pese a su costo, y el paquete de bonos acelera drásticamente la creación de hojas de personaje y prompts detallados.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Youri van Hofwegen</strong>: <a href="https://www.youtube.com/watch?v=QaG-biWIy3c" target="_blank" rel="noopener">How to Make Your First AI Video with Higgsfield AI!</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Elegir el modelo correcto: realismo, anime o alta resolución</h3>
+<p>El primer paso en Higgsfield no es escribir un prompt, sino seleccionar el modelo de video adecuado según la escena. La plataforma integra múltiples generadores bajo una sola suscripción, lo que evita pagar por separado a cada proveedor. Para escenas que requieren realismo fotográfico y diálogos sincronizados, <strong>Seedance 2.5</strong> es la opción principal: puede generar hasta 30 segundos de video con diálogo en una sola generación, una hazaña técnica que lo posiciona como el modelo más avanzado del ecosistema. Sin embargo, su costo es elevado, por lo que el creador recomienda usarlo solo en tomas profesionales donde la calidad justifique el gasto. Para pruebas rápidas, existe una versión draft que renderiza a 480p y permite iterar prompts sin consumir créditos de la versión final.</p>
+<p>Cuando el objetivo es anime o acción rápida, <strong>Wan 3.0 Prime</strong> toma el relevo. Este modelo mantiene la coherencia estilística incluso en secuencias complejas con explosiones y movimientos de cámara vertiginosos. En la demostración, un prompt de 25 segundos sobre un mensajero en moto voladora perseguido por drones en una ciudad neón produjo un resultado notable: la eyección de la moto ocurrió exactamente donde se indicó y el estilo anime se mantuvo intacto. El único fallo menor fue que dos drones se convirtieron en uno al estrellarse, un detalle que evidencia que los modelos aún pierden consistencia en objetos secundarios durante acciones rápidas.</p>
+<p>Para resoluciones superiores a 1080p, <strong>Minimax H3</strong> es la alternativa más económica. Permite generar hasta 2K y en la prueba de 15 segundos con un astronauta en Marte que encuentra huellas, la iluminación al atardecer y la revelación del segundo astronauta funcionaron con eficacia. La conclusión es clara: no hay un modelo único, sino una caja de herramientas donde cada uno cubre un nicho específico. La clave está en identificar qué necesita la escena antes de gastar créditos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La arquitectura de la consistencia: hojas de personaje, logos y escenarios</h3>
+<p>El verdadero desafío de un video con IA no es generar una toma aislada, sino mantener la coherencia visual a lo largo de múltiples escenas. La solución que propone el creador es construir primero un conjunto de imágenes de referencia con <strong>GPT Image 2.5 Sunburst</strong>, configurado a calidad máxima y resolución 4K. Este modelo es más caro y lento que otros, pero se justifica porque las imágenes resultantes se usarán en todo el proyecto. Para un anuncio de 30 segundos de la marca ficticia <em>Salt Crown Logger</em>, se generaron cinco assets: el logo, la botella, dos capitanes piratas y una localización.</p>
+<p>La hoja de personaje (character sheet) es la pieza central. Debe incluir tres vistas: cuerpo entero frontal, cuerpo entero trasero y primer plano del rostro. Un truco fundamental es dejar el panel frontal sin cabeza para que el modelo tome el rostro únicamente del primer plano y no lo modifique a mitad del video. Además, se debe usar un fondo gris plano y sin sombras para evitar que la iluminación de la hoja se transfiera a las escenas. En el caso del Capitán Rosa, el prompt para la hoja tuvo aproximadamente 2600 caracteres, de los cuales solo dos oraciones describían al personaje; el resto eran instrucciones técnicas sobre las vistas y el formato.</p>
+<p>El logo requiere una precisión extrema. Se debe especificar letra por letra el texto y aclarar que es el único texto permitido en toda la botella, de lo contrario el modelo inventará inscripciones en cada aparición. Para la localización, es crucial indicar explícitamente qué excluir, por ejemplo: &#x27;sin personas, sin banderas, sin texto&#x27;, para que esos elementos no se filtren en todas las tomas. Finalmente, todas las imágenes deben compartir una línea de estilo común, como &#x27;película animada en 3D&#x27;, para que al unirlas en el video final no haya saltos visuales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del prompt a la toma: estructura, referencias numeradas y diálogos exactos</h3>
+<p>Con los assets listos, el siguiente paso es construir el prompt de video. La estructura recomendada es una sola frase que incluya estilo e historia, seguida de una división en tomas (shots) con movimiento de cámara y una acción concreta por toma. Los diálogos deben ir entre comillas y se debe añadir una línea de sonido al final para que el audio coincida con la escena. Si se omite alguna parte, el modelo inventará lo que falte, lo que suele resultar en un video deficiente. Para el anuncio de piratas, el prompt final tuvo aproximadamente 5000 caracteres dividido en 8 tomas, y se usó Seedance 2.5 con las cinco imágenes como referencias numeradas.</p>
+<p>El uso de referencias numeradas es el secreto de la consistencia. Al asignar múltiples imágenes en Seedance 2.5, se debe indicar en el prompt explícitamente qué tomar de cada una: por ejemplo, &#x27;toma el rostro y vestuario de la imagen 3&#x27;. Además, se debe especificar el número exacto de líneas de diálogo y quién las dice para evitar que el modelo invente líneas extra. En escenas de anime o acción, es útil describir primero cómo funciona el mundo, por ejemplo &#x27;todos los vehículos vuelan&#x27;, para evitar que el modelo genere elementos genéricos no deseados. Para un estilo retro, se debe especificar &#x27;estrictamente blanco y negro&#x27; y ajustar la relación de aspecto: 16:9 para moderno, 21:9 para cinematográfico y 4:3 para TV antigua.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El anuncio de 30 segundos: un caso práctico de principio a fin</h3>
+<p>La prueba de fuego fue el anuncio de <em>Salt Crown Logger</em>, una marca ficticia de ron con dos capitanes piratas. Se generaron las cinco imágenes con GPT Image 2.5 Sunburst y luego se construyó un prompt de 8 tomas para Seedance 2.5. El resultado fue un anuncio coherente: los personajes mantuvieron sus rostros y vestuarios, la botella apareció con el logo correcto en todo momento y los diálogos se ejecutaron exactamente como se especificó. La conclusión es que la consistencia no surge de la casualidad, sino de planificar todos los assets como imágenes primero y luego referenciarlos ordenadamente en el prompt de video.</p>
+<p>Este flujo también revela una economía de créditos: aunque Seedance 2.5 es costoso, al usarlo solo en la generación final con referencias bien definidas se evitan iteraciones innecesarias. La versión draft a 480p permite probar la estructura del prompt y la secuencia de tomas antes de comprometer créditos en la versión completa. Para el creador, este equilibrio entre planificación y ejecución es lo que separa un video amateur de un anuncio profesional.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Automatización con el paquete de bonos: sheet maker y prompt generator</h3>
+<p>Para acelerar el proceso, Youri van Hofwegen ofrece un paquete de bonos que no está a la venta, sino que se obtiene al registrarse en Higgsfield a través de su enlace de afiliado, pagando lo mismo que sin el enlace. El paquete incluye un <strong>generador de prompts</strong>, un <strong>creador de hojas de personaje</strong>, una biblioteca de prompts y acceso a un grupo privado. En la demostración, se usó el sheet maker para crear hojas de personaje de Rocky, Peggy y un coche con descripciones de solo 190 caracteres, en lugar de los 2600 que requería el proceso manual. Luego, el prompt generator transformó una idea de 290 caracteres en un prompt de 1800 caracteres, asegurando que incluyera todos los elementos necesarios: estilo, tomas, diálogos y sonido.</p>
+<p>El resultado fue un video de 20 segundos en estilo cartoon de los años 60. Los personajes coincidieron con las hojas generadas, aunque se produjo un fallo menor: los personajes intercambiaron posiciones al ser levantados por el UFO. Aun así, la conclusión es que estas herramientas reducen drásticamente la fricción técnica y permiten que el creador se enfoque en la narrativa. El paquete también incluye una biblioteca de prompts para distintos géneros y estilos, lo que facilita la experimentación sin partir de cero.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Lecciones de los experimentos: fallos, aciertos y reglas de oro</h3>
+<p>Las pruebas con los tres modelos de video dejan lecciones claras. Seedance 2.5 demostró un realismo excepcional en la prueba de la pastora que encuentra un dragón bebé: las texturas de nieve, granero y escamas de dragón fueron creíbles, y los rostros humanos no cayeron en el valle inquietante. Sin embargo, su costo obliga a reservarlo para tomas donde el realismo sea imprescindible. Wan 3.0 Prime brilló en la secuencia de acción anime, manteniendo el estilo a pesar de las explosiones, pero falló en la consistencia de objetos secundarios (los drones). Minimax H3 ofreció la mejor relación calidad-precio para 2K, con una iluminación convincente en Marte.</p>
+<p>La regla de oro que atraviesa todo el flujo es: <em>si no lo especificas, el modelo lo inventa</em>. Esto aplica a los diálogos, a los elementos del escenario, al texto del logo y hasta al número de tomas. Por eso, prompts detallados y referencias numeradas son la base de un resultado profesional. Además, la planificación previa de las tomas y la asignación de cada imagen de referencia solo a la toma donde se usa evitan confusiones y ahorran créditos. Para un anuncio de 30 segundos, el creador recomienda dedicar la mayor parte del tiempo a la preproducción de assets y a la escritura del prompt, y solo unos minutos a la generación final.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para consistencia de personaje: genera una hoja con tres vistas (cuerpo entero frontal, trasero y primer plano del rostro), deja el panel frontal sin cabeza y usa fondo gris plano sin sombras.</li>
+<li>En el prompt de video, asigna las imágenes de referencia en orden y especifica qué tomar de cada una: &#x27;toma el rostro y vestuario de la imagen 3&#x27;.</li>
+<li>Especifica el número exacto de líneas de diálogo y quién las dice para evitar que el modelo invente líneas extra.</li>
+<li>Para estilo retro, escribe &#x27;estrictamente blanco y negro&#x27; y ajusta la relación de aspecto: 16:9 moderno, 21:9 cinematográfico, 4:3 TV antigua.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://youricreates.com/Higgsfield" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma todo en uno con acceso a múltiples modelos de video e imagen bajo una suscripción.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video realista con diálogo, hasta 30 segundos por generación; incluye versión draft a 480p.</li>
+<li><strong>Wan 3.0 Prime</strong> — Modelo especializado en anime y acción rápida con coherencia estilística.</li>
+<li><strong>Minimax H3</strong> — Modelo de video económico para resoluciones de hasta 2K.</li>
+<li><strong>GPT Image 2.5 Sunburst</strong> — Generador de imágenes de alta calidad (hasta 4K) para hojas de personaje, logos y escenarios.</li>
+<li><a href="https://higgsbonuspackage.com" target="_blank" rel="noopener"><strong>Paquete de bonos de Youri</strong></a> — Incluye generador de prompts, creador de hojas de personaje, biblioteca de prompts y grupo privado; se obtiene al registrarse en Higgsfield con el enlace del creador.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-QaG-biWIy3c.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NVIDIA DGX Spark en portátil: la prueba definitiva de IA local con modelos de 120B, generación de vídeo, voz y música sin nube — Frame &amp; Prompt</title>
+  <meta name="description" content="Un portátil con NVIDIA DGX Spark y 128 GB de memoria unificada demuestra que la IA local ya es viable: ejecuta Nemotron 3.5 Super (120B) para analizar informes de 100 páginas, genera imágenes con Flux 1 Schnell, vídeo con LTX 2.5, clona voz con Qwen 3 TTS y crea música con MiniMax Music 3, todo grat">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="NVIDIA DGX Spark en portátil: la prueba definitiva de IA local con modelos de 120B, generación de vídeo, voz y música sin nube">
+  <meta property="og:description" content="Un portátil con NVIDIA DGX Spark y 128 GB de memoria unificada demuestra que la IA local ya es viable: ejecuta Nemotron 3.5 Super (120B) para analizar informes de 100 páginas, genera imágenes con Flux 1 Schnell, vídeo con LTX 2.5, clona voz con Qwen 3 TTS y crea música con MiniMax Music 3, todo grat">
+  <meta property="og:image" content="https://i.ytimg.com/vi/KiRhL4m1Yeg/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-KiRhL4m1Yeg.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="NVIDIA DGX Spark en portátil: la prueba definitiva de IA local con modelos de 120B, generación de vídeo, voz y música sin nube">
+  <meta name="twitter:description" content="Un portátil con NVIDIA DGX Spark y 128 GB de memoria unificada demuestra que la IA local ya es viable: ejecuta Nemotron 3.5 Super (120B) para analizar informes de 100 páginas, genera imágenes con Flux 1 Schnell, vídeo con LTX 2.5, clona voz con Qwen 3 TTS y crea música con MiniMax Music 3, todo grat">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/KiRhL4m1Yeg/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-KiRhL4m1Yeg.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">NVIDIA DGX Spark en portátil: la prueba definitiva de IA local con modelos de 120B, generación de vídeo, voz y música sin nube</h1>
+        <div class="metadata">
+          <span>Por <strong>Xavier Mitjana</strong></span>
+          <time datetime='2026-11-01T17:00:46.693050-05:00'>2026-11-01</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/KiRhL4m1Yeg" title="NVIDIA DGX Spark en portátil: la prueba definitiva de IA local con modelos de 120B, generación de vídeo, voz y música sin nube" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=KiRhL4m1Yeg" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Un portátil con NVIDIA DGX Spark y 128 GB de memoria unificada demuestra que la IA local ya es viable: ejecuta Nemotron 3.5 Super (120B) para analizar informes de 100 páginas, genera imágenes con Flux 1 Schnell, vídeo con LTX 2.5, clona voz con Qwen 3 TTS y crea música con MiniMax Music 3, todo gratis y sin suscripciones. El test agéntico con Hermes y Qwen 3 27B programa una web completa en 4 horas. Veredicto: excelente para texto y privacidad, pero para gráficos intensivos un sobremesa con GPU dedicada sigue siendo más rápido.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Xavier Mitjana</strong>: <a href="https://www.youtube.com/watch?v=KiRhL4m1Yeg" target="_blank" rel="noopener">Toda la IA que necesitas se puede EJECUTAR en un PORTÁTIL (IA GRATIS e ILIMITADA)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La promesa de la IA local: 128 GB de memoria unificada en un portátil</h3>
+<p>Xavier Mitjana analiza el <strong>Asus ProArt P16</strong>, un portátil equipado con el procesador <strong>NVIDIA DGX Spark</strong>, que integra <strong>128 GB de memoria unificada</strong> compartida entre CPU y GPU. Esta arquitectura permite cargar modelos de lenguaje de hasta <strong>120 mil millones de parámetros</strong>, algo imposible en una GPU convencional como la RTX 5090, que solo dispone de 32 GB de VRAM. El equipo, con pantalla OLED 4K y un diseño ligero, se posiciona como una estación de trabajo portátil para IA local.</p>
+<p>El precio del modelo probado ronda los <strong>7000 €</strong>, comparable al de una GPU 5090 de gama alta, aunque existen versiones con menos memoria desde <strong>3500 €</strong>. Mitjana destaca que este portátil puede reemplazar varias suscripciones de IA en la nube, que fácilmente superan los <strong>70 € al mes</strong>, y ofrece ventajas como privacidad, estabilidad y ausencia de límites de uso. Sin embargo, para tareas gráficas intensivas, un sobremesa con GPU dedicada sigue siendo más rápido, por lo que recomienda mantener alguna suscripción en la nube para trabajos muy exigentes.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Análisis de documentos largos: Nemotron 3.5 Super y un millón de tokens de contexto</h3>
+<p>El primer experimento consistió en procesar un <strong>informe anual de Mercadona de más de 100 páginas</strong> con el modelo <strong>Nemotron 3.5 Super</strong>, un modelo de lenguaje de <strong>120B parámetros</strong> desarrollado por NVIDIA, gratuito y de aproximadamente <strong>70 GB</strong>. Gracias a la memoria unificada, el portátil puede manejar una ventana de contexto de <strong>1 millón de tokens</strong>, lo que permite introducir documentos extensos sin fragmentación.</p>
+<p>Mitjana solicitó un análisis estructurado en <strong>ocho bloques</strong> (financiero, operativo, capital humano, sostenibilidad, etc.) y el modelo generó un informe detallado. Para verificar su precisión, utilizó <strong>Claude</strong> como auditor externo, que confirmó un <strong>100% de éxito en la extracción de datos</strong>, aunque detectó pequeñas imprecisiones en la interpretación y un desfase en la paginación. El resultado, según el autor, es impresionante para un modelo local: cientos de cifras extraídas correctamente y una capacidad de razonamiento que rivaliza con modelos en la nube.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Generación de imagen y vídeo: Flux 1 Schnell y LTX 2.5 en ComfyUI</h3>
+<p>Para la generación de imágenes, Mitjana utiliza <strong>ComfyUI</strong>, un programa gratuito que permite construir flujos de trabajo personalizados con modelos de código abierto. Con <strong>Flux 1 Schnell</strong>, de Black Forest Labs, genera una imagen de <strong>1 megapíxel en pocos segundos</strong>, con calidad realista y usable. También prueba la edición de imágenes: elimina el texto de una caja con un prompt como <em>«En la imagen de referencia, elimina el texto de la caja»</em>, obteniendo un resultado milimétrico.</p>
+<p>En vídeo, emplea <strong>LTX 2.5</strong>, un modelo rápido y de alta resolución que incluye audio. A partir de una imagen de referencia y un prompt, genera un clip de <strong>10 segundos</strong> en alta definición. El autor señala que funciona bien, aunque el portátil no es ideal para tareas gráficas intensivas; un sobremesa con GPU dedicada reduciría los tiempos de renderizado. Aun así, la calidad es suficiente para prototipos y proyectos personales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Clonación de voz y música: Qwen 3 TTS y MiniMax Music 3</h3>
+<p>La clonación de voz se realiza con <strong>Qwen 3 TTS</strong>, un modelo de texto a voz que requiere solo <strong>13 segundos de muestra</strong> de audio. Mitjana clona su propia voz y genera un archivo MP3 con el texto deseado. El resultado es muy fiel y útil para borradores de voz en off, aunque para calidad final sugiere recurrir a plataformas especializadas. El proceso se ejecuta íntegramente en ComfyUI, sin conexión a internet.</p>
+<p>Para la música, utiliza <strong>MiniMax Music 3</strong>, que a partir de una descripción de género (por ejemplo, <em>rock español</em>) y una letra genera una canción completa en aproximadamente <strong>un minuto</strong>. El resultado es utilizable y demuestra la versatilidad del portátil para tareas creativas. Ambos modelos son gratuitos y de código abierto, lo que refuerza la propuesta de IA local sin costes recurrentes.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Test agéntico: Hermes y Qwen 3 27B programan una web completa</h3>
+<p>El experimento más ambicioso es un <strong>test agéntico de programación</strong>. Mitjana emplea <strong>Hermes</strong>, un agente de IA gratuito compatible con cualquier modelo, junto con <strong>Qwen 3 27B</strong>, un modelo denso de 27 mil millones de parámetros. El objetivo: crear una web completa para una aplicación ficticia llamada <strong>Fridflow</strong> en un solo prompt. El agente debía diseñar la web, escribir el copy de marketing, generar imágenes mediante <strong>Magnific MCP</strong> (un servicio externo de generación de imágenes vía MCP) y auditar su propio trabajo.</p>
+<p>El proceso tardó aproximadamente <strong>4 horas</strong> y el resultado fue una web funcional con página de precios, recetas y una demo interactiva. Sin embargo, presentó pequeños fallos de diseño, como que solo se podían seleccionar los días lunes y martes. Para ser un modelo local pequeño y en una sola iteración, el autor considera que el resultado es muy bueno, aunque requeriría más iteraciones para pulir la funcionalidad. Este test demuestra que los agentes locales pueden automatizar tareas complejas de desarrollo web con mínima intervención humana.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Balance: ¿reemplaza la nube o es un complemento?</h3>
+<p>La conclusión de Mitjana es matizada. El portátil con DGX Spark es <strong>excelente para modelos de lenguaje grandes</strong> (hasta 120B) y permite una IA local sin suscripciones, con ventajas de privacidad y estabilidad. Para generación gráfica (imagen y vídeo) no es tan rápido como un sobremesa con GPU dedicada, pero es funcional y suficiente para muchos casos. El precio de 7000 € es alto, pero comparable a una GPU 5090; las versiones desde 3500 € amplían el acceso.</p>
+<p>El autor recomienda <strong>mantener alguna suscripción en la nube</strong> para tareas muy exigentes y por la comodidad de acceso desde cualquier dispositivo. No obstante, para quienes priorizan la privacidad, la ausencia de límites o el trabajo desconectado, este portátil representa un salto cualitativo: la IA local ya no es un juguete, sino una herramienta productiva capaz de analizar documentos, generar contenido multimedia y programar aplicaciones con agentes autónomos.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para cargar modelos de 120B en el Spark, asegúrate de ajustar la memoria reservada para la GPU en la aplicación de NVIDIA (por defecto Windows reserva solo una parte).</li>
+<li>Prompt para eliminar texto en una imagen: «En la imagen de referencia, elimina el texto de la caja».</li>
+<li>Para clonar voz con Qwen 3 TTS: proporciona una muestra de audio de 13 segundos y luego el texto deseado; el resultado es un MP3.</li>
+<li>Para un test agéntico de programación: usa Hermes con Qwen 3 27B y un prompt único que incluya diseño, copy, generación de imágenes vía MCP y auditoría; puede tardar horas pero funciona sin intervención.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://es.asus.click/p16spark_2026" target="_blank" rel="noopener"><strong>NVIDIA DGX Spark</strong></a> — Procesador con memoria unificada de 128 GB que permite ejecutar modelos de IA grandes en un portátil.</li>
+<li><a href="https://es.asus.click/p16spark_2026" target="_blank" rel="noopener"><strong>Asus ProArt P16</strong></a> — Portátil equipado con NVIDIA DGX Spark, pantalla OLED 4K, ligero y potente para IA local.</li>
+<li><strong>Nemotron 3.5 Super</strong> — Modelo de lenguaje de 120B parámetros de NVIDIA, gratuito, para razonamiento y generación de texto local.</li>
+<li><strong>ComfyUI</strong> — Programa gratuito para construir flujos de trabajo personalizados con modelos de IA de código abierto.</li>
+<li><strong>Flux 1 Schnell</strong> — Modelo de generación de imágenes de Black Forest Labs, rápido y de alta calidad.</li>
+<li><strong>LTX 2.5</strong> — Modelo de generación de vídeo rápido y de alta resolución, con audio.</li>
+<li><strong>Qwen 3 TTS</strong> — Modelo de texto a voz que permite clonar la voz con una muestra de 13 segundos.</li>
+<li><strong>MiniMax Music 3</strong> — Modelo de generación de música a partir de descripción de género y letra.</li>
+<li><strong>Hermes</strong> — Agente de IA gratuito que se puede usar con cualquier modelo para tareas agénticas.</li>
+<li><strong>Qwen 3 27B</strong> — Modelo de lenguaje denso de 27B parámetros, usado con Hermes para programar una web completa.</li>
+<li><strong>Magnific MCP</strong> — Servicio externo de generación de imágenes vía MCP, utilizado por el agente para crear imágenes en el proyecto web.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-KiRhL4m1Yeg.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude Fable 5.2 construye un shooter 3D zombi jugable desde un solo prompt por menos de 8 dólares — Frame &amp; Prompt</title>
+  <meta name="description" content="Un solo prompt bastó para que Claude Fable 5.2 orquestara herramientas externas vía MCP y creara un juego 3D funcional con oleadas, cartas de mejora y compra de armas. El coste: 99 imágenes por 4,43 dólares, 1.770 créditos de Meshy y 3,45 dólares en audio. El resultado impresiona pese a sonidos de d">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Fable 5.2 construye un shooter 3D zombi jugable desde un solo prompt por menos de 8 dólares">
+  <meta property="og:description" content="Un solo prompt bastó para que Claude Fable 5.2 orquestara herramientas externas vía MCP y creara un juego 3D funcional con oleadas, cartas de mejora y compra de armas. El coste: 99 imágenes por 4,43 dólares, 1.770 créditos de Meshy y 3,45 dólares en audio. El resultado impresiona pese a sonidos de d">
+  <meta property="og:image" content="https://i.ytimg.com/vi/6B5ivj6nKyo/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-6B5ivj6nKyo.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude Fable 5.2 construye un shooter 3D zombi jugable desde un solo prompt por menos de 8 dólares">
+  <meta name="twitter:description" content="Un solo prompt bastó para que Claude Fable 5.2 orquestara herramientas externas vía MCP y creara un juego 3D funcional con oleadas, cartas de mejora y compra de armas. El coste: 99 imágenes por 4,43 dólares, 1.770 créditos de Meshy y 3,45 dólares en audio. El resultado impresiona pese a sonidos de d">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/6B5ivj6nKyo/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-6B5ivj6nKyo.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude Fable 5.2 construye un shooter 3D zombi jugable desde un solo prompt por menos de 8 dólares</h1>
+        <div class="metadata">
+          <span>Por <strong>Pouya Eti</strong></span>
+          <time datetime='2026-11-11T17:09:30.974577-05:00'>2026-11-11</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/6B5ivj6nKyo" title="Claude Fable 5.2 construye un shooter 3D zombi jugable desde un solo prompt por menos de 8 dólares" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=6B5ivj6nKyo" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Un solo prompt bastó para que Claude Fable 5.2 orquestara herramientas externas vía MCP y creara un juego 3D funcional con oleadas, cartas de mejora y compra de armas. El coste: 99 imágenes por 4,43 dólares, 1.770 créditos de Meshy y 3,45 dólares en audio. El resultado impresiona pese a sonidos de disparo débiles, y demuestra que la IA ya puede asumir proyectos que antes llevarían meses.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Pouya Eti</strong>: <a href="https://www.youtube.com/watch?v=6B5ivj6nKyo" target="_blank" rel="noopener">Claude Fable 5.2 Built This 3D Zombie Shooter Game From One Prompt (And Here&#x27;s What It Cost)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Tres pruebas de fuego para un modelo que planifica solo</h3>
+<p>El creador Pouya Eti sometió a <strong>Claude Fable 5.2</strong> a tres encargos de complejidad creciente, cada uno con una única instrucción inicial. El primero fue una <strong>web de portafolio para un arquitecto</strong>, con el requisito de ser «único y especial en diseño UI/UX, sorprendentemente bueno y memorable». Claude no solo generó el código: ideó un concepto visual, solicitó a la aplicación <strong>Rangy</strong> —conectada mediante MCP— la creación de todas las imágenes necesarias (fotografías, planos, bocetos) usando <strong>GPT Image 2</strong>, y construyó un sitio con efectos de scroll y páginas individuales por proyecto. El creador quedó impresionado por la originalidad y la calidad de las imágenes, que resultaron realistas gracias a los prompts que el propio modelo redactó.</p>
+<p>El segundo experimento consistió en un <strong>showreel de motion graphics de 15 segundos</strong>. El prompt fue deliberadamente escueto: «Make a dynamic 15 second motion graphic video that shows what an incredible motion designer you are like it&#x27;s your showreel for resume go all out». Claude animó la pieza, renderizó y verificó cada plano, la sincronizó con música y la completó en unos <strong>30 minutos</strong>. El resultado, con detalles como pájaros volando, fue muy elogiado por su calidad y cohesión.</p>
+<p>El tercer desafío, el más ambicioso, fue un <strong>shooter 3D en primera persona</strong> con zombis y monstruos que atacan en oleadas, habilidades, armas y una ubicación concreta. El prompt pedía que fuera aterrador y desafiante pero que mantuviera al jugador enganchado, y autorizaba explícitamente a Claude a conectar con Rangy para imágenes, con <strong>Meshy.ai</strong> para modelos 3D y con <strong>Blender</strong> para rigging y animación. El modelo aceptó el reto y se embarcó en un flujo de trabajo autónomo que detallamos a continuación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del prompt al juego: 99 imágenes, 1.770 créditos y un presupuesto controlado</h3>
+<p>Claude Fable 5.2 comenzó generando <strong>99 imágenes</strong> —personajes desde varios ángulos, armas, pósters y texturas— a través de Rangy con GPT Image 2. El coste de esta fase fue de <strong>4,43 dólares</strong>. A continuación, convirtió esas imágenes en modelos 3D utilizando la API de <strong>Meshy</strong>, consumiendo <strong>1.770 créditos</strong> (aunque en un momento el creador menciona 1.070, la cifra final que se destaca es 1.770). Después, abrió <strong>Blender</strong> en el ordenador para riggear y animar los modelos, y añadió sonido, música y voces con <strong>fal.ai</strong> —que integra ElevenLabs para los voiceovers— por un coste aproximado de <strong>3,45 dólares</strong>. En total, menos de 8 dólares en servicios externos, además del uso intensivo de su plan Claude Max, que no generó coste adicional por tokens.</p>
+<p>Un detalle relevante es que Claude <strong>solicitó permiso antes de realizar los gastos</strong>, lo que demuestra un comportamiento responsable en la orquestación de herramientas de pago. El creador recomienda esta práctica: pedir al modelo que consulte antes de consumir créditos o dinero. También sugiere usar GPT Image 2 en lugar de versiones posteriores (2.5, 2.6) para ciertos assets, porque en algunos casos ofrece mejores resultados; la calidad final depende en gran medida de cómo Claude redacta los prompts.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un juego funcional con oleadas, cartas y algún que otro fallo</h3>
+<p>El juego resultante incluye <strong>oleadas de enemigos</strong> (zombis y payasos que esquivan), <strong>cartas de mejora</strong> entre oleadas, compra de armas, granadas y un generador que abre una nueva área. Claude probó el juego, encontró bugs y los corrigió automáticamente durante un par de horas, iterando hasta que funcionó. El creador señala que algunos <strong>sonidos de armas son débiles</strong>, pero en general el resultado es sorprendente para un solo prompt. La conclusión es clara: la IA puede crear un juego funcional complejo de forma autónoma, algo que antes llevaría meses de trabajo humano.</p>
+<p>El experimento también evidencia los límites actuales: la calidad del audio generado no está a la altura de los visuales, y la depuración automática, aunque efectiva, requiere tiempo. Sin embargo, el flujo de trabajo —planificación, generación de assets, integración, prueba y corrección— se ejecutó sin intervención humana más allá de la autorización de gastos. Esto posiciona a Claude Fable 5.2 como una herramienta viable para prototipado rápido y desarrollo asistido, no solo para código, sino para la orquestación completa de proyectos multimedia.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Qué significa este hito para el desarrollo asistido por IA</h3>
+<p>El caso de Pouya Eti no es aislado: se suma a una tendencia donde los modelos de lenguaje dejan de ser simples generadores de código para convertirse en <strong>agentes autónomos</strong> capaces de coordinar múltiples servicios. La clave está en el protocolo <strong>MCP</strong> (Model Context Protocol), que permite a Claude interactuar con aplicaciones externas como Rangy, Meshy o Blender de forma estandarizada. Esto abre la puerta a flujos de trabajo donde la IA no solo escribe el código, sino que genera los recursos, los integra y prueba el resultado.</p>
+<p>Para los desarrolladores, la lección es doble: por un lado, la importancia de <strong>definir bien los prompts y las autorizaciones</strong> (como el permiso previo para gastar); por otro, la necesidad de supervisar la calidad final, especialmente en apartados como el audio, donde la IA aún flaquea. El coste total inferior a 8 dólares para un juego 3D funcional es un dato que invita a experimentar: con una suscripción a Claude Max y unas pocas herramientas de pago por uso, un solo individuo puede materializar ideas que antes requerían un equipo.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Coste del juego: 99 imágenes con GPT Image 2 vía Rangy = $4.43; 1.770 créditos de Meshy; audio con fal.ai = $3.45. Total &lt; $8.</li>
+<li>Prompt del motion graphics: «Make a dynamic 15 second motion graphic video that shows what an incredible motion designer you are like it&#x27;s your showreel for resume go all out».</li>
+<li>Para el juego, autorizar explícitamente a Claude a usar Rangy (imágenes), Meshy (3D) y Blender (rigging) vía MCP, y pedirle que solicite permiso antes de gastar créditos.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2" target="_blank" rel="noopener"><strong>Claude Fable 5.2</strong></a> — Modelo de IA que planifica, genera prompts, orquesta herramientas vía MCP, escribe código y depura.</li>
+<li><a href="https://www.rangy.ai/" target="_blank" rel="noopener"><strong>Rangy</strong></a> — App con servidor MCP para generar imágenes con GPT Image 2 y otros modelos.</li>
+<li><a href="https://www.meshy.ai/" target="_blank" rel="noopener"><strong>Meshy</strong></a> — Plataforma para convertir imágenes en modelos 3D vía API.</li>
+<li><a href="https://www.blender.org/" target="_blank" rel="noopener"><strong>Blender</strong></a> — Software 3D gratuito usado para rigging, esqueletos y animaciones.</li>
+<li><a href="https://fal.ai/" target="_blank" rel="noopener"><strong>fal.ai</strong></a> — Plataforma de generación de audio (música, efectos, voice-over) que integra ElevenLabs.</li>
+<li><strong>GPT Image 2</strong> — Modelo de generación de imágenes usado a través de Rangy; preferido sobre versiones posteriores en algunos casos.</li>
+<li><strong>ElevenLabs</strong> — Servicio de síntesis de voz usado a través de fal.ai para los voiceovers.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-6B5ivj6nKyo.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

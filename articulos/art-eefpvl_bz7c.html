@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Carrots: el explorador de archivos para Windows que agrupa secuencias de imágenes y compara medios lado a lado, en beta gratuita — Frame &amp; Prompt</title>
+  <meta name="description" content="Carrots es un nuevo explorador de archivos para Windows diseñado para profesionales que manejan grandes volúmenes de medios. Su función estrella para animadores es el soporte de secuencias de imágenes: agrupa fotogramas numerados, detecta los que faltan y genera un video rápido para revisión. Incluy">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Carrots: el explorador de archivos para Windows que agrupa secuencias de imágenes y compara medios lado a lado, en beta gratuita">
+  <meta property="og:description" content="Carrots es un nuevo explorador de archivos para Windows diseñado para profesionales que manejan grandes volúmenes de medios. Su función estrella para animadores es el soporte de secuencias de imágenes: agrupa fotogramas numerados, detecta los que faltan y genera un video rápido para revisión. Incluy">
+  <meta property="og:image" content="https://i.ytimg.com/vi/eefpvl_bz7c/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-eefpvl_bz7c.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Carrots: el explorador de archivos para Windows que agrupa secuencias de imágenes y compara medios lado a lado, en beta gratuita">
+  <meta name="twitter:description" content="Carrots es un nuevo explorador de archivos para Windows diseñado para profesionales que manejan grandes volúmenes de medios. Su función estrella para animadores es el soporte de secuencias de imágenes: agrupa fotogramas numerados, detecta los que faltan y genera un video rápido para revisión. Incluy">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/eefpvl_bz7c/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-eefpvl_bz7c.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Carrots: el explorador de archivos para Windows que agrupa secuencias de imágenes y compara medios lado a lado, en beta gratuita</h1>
+        <div class="metadata">
+          <span>Por <strong>School of Motion</strong></span>
+          <time datetime='2026-11-03T17:03:06.270529-05:00'>2026-11-03</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/eefpvl_bz7c" title="Carrots: el explorador de archivos para Windows que agrupa secuencias de imágenes y compara medios lado a lado, en beta gratuita" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=eefpvl_bz7c" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Carrots es un nuevo explorador de archivos para Windows diseñado para profesionales que manejan grandes volúmenes de medios. Su función estrella para animadores es el soporte de secuencias de imágenes: agrupa fotogramas numerados, detecta los que faltan y genera un video rápido para revisión. Incluye navegación estilo Mac con carpetas desplegables, vista previa rápida, comparación lado a lado, conversiones por lotes, etiquetas de color y metadatos. Está en beta gratuita y planea costar unos 39 dólares al año; lo creó un animador independiente con asistencia de IA.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>School of Motion</strong> (Short): <a href="https://www.youtube.com/shorts/eefpvl_bz7c" target="_blank" rel="noopener">🥕 NEW Windows file browser for people who deal with a LOT of media! | Motion Mondays</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un explorador pensado para el flujo de trabajo con medios</h3>
+<p>Carrots nace para resolver un problema cotidiano en la producción audiovisual: la gestión de archivos en Windows cuando se acumulan cientos de imágenes, videos y recursos. A diferencia del Explorador de Windows tradicional, este software adopta una navegación inspirada en macOS que permite desplegar carpetas y mantener varias abiertas en una sola lista, evitando el constante entrar y salir de directorios. Esa disposición acelera la localización de material y reduce la fricción en proyectos con muchas carpetas anidadas.</p>
+<p>El panel de vista previa rápida es otro de sus pilares: permite revisar medios sin abrir aplicaciones externas, lo que ahorra tiempo en la selección inicial. A esto se suma la comparación lado a lado, útil para evaluar variantes de un mismo recurso, y las conversiones por lotes, que procesan múltiples archivos a la vez. Para organizar bibliotecas extensas, Carrots incorpora ratings, etiquetas de color y metadatos, herramientas que facilitan filtrar y clasificar el material según criterios propios.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Secuencias de imágenes: el diferenciador para animadores</h3>
+<p>La característica más destacada por el creador del video es el soporte de secuencias de imágenes. Carrots agrupa automáticamente los fotogramas numerados de una animación, detecta si falta alguno en la secuencia y permite generar un video rápido para revisión. Este flujo es especialmente valioso para animadores que necesitan verificar la continuidad de su trabajo sin recurrir a programas de edición o composición. La detección de fotogramas faltantes evita errores costosos y agiliza la corrección antes de exportar.</p>
+<p>El desarrollo de Carrots estuvo a cargo de un animador independiente que se apoyó en asistencia de IA, según se menciona en la presentación. Aunque no se detallan fallos ni comparaciones con otras herramientas, la demostración práctica confirma su utilidad para quienes manejan muchos medios. La herramienta se encuentra actualmente en fase beta gratuita, y se planea un precio de aproximadamente 39 dólares al año una vez que finalice ese periodo. Los interesados pueden acceder a través del enlace proporcionado por School of Motion.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para revisar una secuencia de imágenes: arrastra la carpeta a Carrots; agrupará los fotogramas numerados y marcará los faltantes.</li>
+<li>Genera un video rápido desde la secuencia agrupada para revisión sin salir de la aplicación.</li>
+<li>Usa etiquetas de color y ratings para filtrar bibliotecas grandes antes de la conversión por lotes.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://som.bz/4eKGyU5" target="_blank" rel="noopener"><strong>Carrots</strong></a> — Explorador de archivos para Windows especializado en gestión de medios, con navegación estilo Mac, vista previa rápida, comparación lado a lado, conversión por lotes, etiquetas y soporte de secuencias de imágenes.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-eefpvl_bz7c.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

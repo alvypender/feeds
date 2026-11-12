@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Web Scraping Avanzado con IA: extrae datos de cualquier web (incluido Mercado Libre) usando ChatGPT, Claude y APIs ocultas — Frame &amp; Prompt</title>
+  <meta name="description" content="La extracción de datos web ya no es territorio exclusivo de programadores: con herramientas como Monit, Firecrawl y la capacidad de los agentes de IA para manipular navegadores e identificar APIs ocultas, cualquier persona puede automatizar la recolección de información de redes sociales, sitios com">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Web Scraping Avanzado con IA: extrae datos de cualquier web (incluido Mercado Libre) usando ChatGPT, Claude y APIs ocultas">
+  <meta property="og:description" content="La extracción de datos web ya no es territorio exclusivo de programadores: con herramientas como Monit, Firecrawl y la capacidad de los agentes de IA para manipular navegadores e identificar APIs ocultas, cualquier persona puede automatizar la recolección de información de redes sociales, sitios com">
+  <meta property="og:image" content="https://i.ytimg.com/vi/2I67-dQ4Neo/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-2I67-dQ4Neo.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Web Scraping Avanzado con IA: extrae datos de cualquier web (incluido Mercado Libre) usando ChatGPT, Claude y APIs ocultas">
+  <meta name="twitter:description" content="La extracción de datos web ya no es territorio exclusivo de programadores: con herramientas como Monit, Firecrawl y la capacidad de los agentes de IA para manipular navegadores e identificar APIs ocultas, cualquier persona puede automatizar la recolección de información de redes sociales, sitios com">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/2I67-dQ4Neo/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-2I67-dQ4Neo.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Web Scraping Avanzado con IA: extrae datos de cualquier web (incluido Mercado Libre) usando ChatGPT, Claude y APIs ocultas</h1>
+        <div class="metadata">
+          <span>Por <strong>Aztec Lab</strong></span>
+          <time datetime='2026-11-06T17:06:14.017086-05:00'>2026-11-06</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/2I67-dQ4Neo" title="Web Scraping Avanzado con IA: extrae datos de cualquier web (incluido Mercado Libre) usando ChatGPT, Claude y APIs ocultas" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=2I67-dQ4Neo" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La extracción de datos web ya no es territorio exclusivo de programadores: con herramientas como Monit, Firecrawl y la capacidad de los agentes de IA para manipular navegadores e identificar APIs ocultas, cualquier persona puede automatizar la recolección de información de redes sociales, sitios complejos e incluso plataformas robustas como Mercado Libre. El tutorial de Aztec Lab demuestra que la clave está en elegir el scraper adecuado, conectar las herramientas a un agente de IA y, cuando sea necesario, intervenir las comunicaciones internas entre frontend y backend para obtener datos de forma programática y continua.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Aztec Lab</strong>: <a href="https://www.youtube.com/watch?v=2I67-dQ4Neo" target="_blank" rel="noopener">Automatiza la extracción de datos de cualquier página web con IA</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La fiebre del oro digital: por qué el scraping con IA es el nuevo petróleo</h3>
+<p>La extracción de datos de páginas web se ha convertido en una industria multimillonaria. Empresas como Clay, valorada en más de 7 billones de dólares, basan su modelo de negocio en raspar información de internet para enriquecer leads y alimentar estrategias comerciales. Aztec Lab, el canal detrás de este tutorial, revela que ellos mismos cobran a sus clientes varios miles de dólares al trimestre por servicios de extracción y procesamiento de información para generación de leads. La razón es simple: los datos son el combustible de la economía digital, y la capacidad de obtenerlos de forma automatizada y a escala marca la diferencia entre competir o quedar rezagado.</p>
+<p>El video plantea una progresión lógica: desde lo más sencillo, usando servicios pre-construidos para plataformas específicas, hasta lo más complejo, interviniendo las APIs internas de sitios que parecen blindados. La promesa es ambiciosa pero realista: con las herramientas y técnicas adecuadas, y el apoyo de agentes de IA como ChatGPT o Claude, es posible extraer información de casi cualquier rincón de la web sin escribir una línea de código desde cero. El presentador insiste en una regla de oro: antes de intentar construir un scraper desde cero, verifica si ya existe un servicio que haga el trabajo pesado.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Monit: el atajo para redes sociales sin dolores de cabeza</h3>
+<p>El primer escalón de la escalera son las redes sociales, donde el scraping directo suele violar los términos de servicio y poner en riesgo las cuentas. Monit aparece como la solución: un servicio que actúa como intermediario y permite a un agente de IA extraer información de LinkedIn, Instagram, Facebook y cientos de otras fuentes sin usar las credenciales del usuario. La instalación es tan simple como copiar el enlace <em>monit.ai/skill.md</em> y pegarlo en el agente de IA, ya sea ChatGPT Codex o Claude Code. A partir de ahí, el agente puede invocar las capacidades de Monit mediante lenguaje natural.</p>
+<p>El tutorial lo demuestra con un caso concreto: extraer la información básica del perfil de LinkedIn del presentador, junto con sus últimos 20 posts y las métricas públicas de cada uno. El prompt es directo: <em>&quot;Por favor, extrae la información básica y todos los últimos 20 posts junto con sus métricas públicas del siguiente perfil de LinkedIn: [URL]&quot;</em>. El resultado se exporta a un archivo Excel, listo para analizar. La verdadera potencia surge cuando se escala: el presentador proporciona una lista de 5 URLs de perfiles en un archivo CSV y pide a la IA que repita el ejercicio para cada uno, entregando un archivo de texto con los datos consolidados. Esta capacidad de prospección masiva es invaluable para equipos de ventas y reclutamiento.</p>
+<p>Monit ofrece $5 USD en créditos gratuitos al registrarse, que según el presentador &quot;duran muchísimo&quot; para pruebas y proyectos pequeños. Luego, el modelo es de pago por consulta, sin suscripciones mensuales, lo que lo hace accesible para uso esporádico. Para quienes prefieren una alternativa, Apify es otra plataforma con una vasta librería de scrapers pre-construidos para Instagram, Facebook, LinkedIn, Google Maps y más. Se puede conectar a un agente de IA a través de Composio, una capa de integración que centraliza el acceso a más de 1000 herramientas. Apify también regala $5 USD en créditos, pero sus planes de pago arrancan en unos $30 USD al mes y pueden escalar a $200 USD para uso intensivo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Firecrawl: el navaja suiza para casi cualquier sitio web</h3>
+<p>Cuando la plataforma no tiene un scraper dedicado, Firecrawl entra en acción. Esta herramienta es capaz de extraer información de prácticamente cualquier página web, ya sea una sola URL (operación <em>scrape</em>) o rastrear múltiples enlaces y seguir su estructura (operación <em>crawl</em>). La configuración es flexible: se puede definir el número máximo de enlaces a seguir (por ejemplo, 10 niveles de profundidad), excluir ciertos elementos no deseados y especificar el formato de salida, que puede ser markdown, un resumen, HTML o texto plano. Además, Firecrawl puede parsear PDFs y, si es necesario, utilizar su herramienta <em>Any Doc</em> (escrita en Rust) para extraer texto estructurado de documentos de forma eficiente.</p>
+<p>La conexión con el agente de IA se realiza mediante una API Key que se obtiene al registrarse. El presentador recomienda hacerlo a través de Composio para centralizar todas las herramientas en un solo lugar. Una vez integrado, el agente puede ejecutar rastreos complejos con instrucciones en lenguaje natural. El ejemplo del video es ilustrativo: se le pide a la IA que rastree el sitio web de Tigo Colombia, limitando a 20 enlaces, y que identifique promociones. El prompt podría ser: <em>&quot;Puedes usarlo vía Composio y quiero que me digas si en esas páginas encuentras promociones. Dame el listado de promociones que encuentres&quot;</em>. El agente ejecuta el crawl, analiza el contenido y devuelve un listado estructurado.</p>
+<p>Firecrawl ofrece 1000 créditos gratuitos al mes, equivalentes a 1000 páginas extraídas. Su plan Hobby cuesta aproximadamente $50,000 COP al mes (unos $12-13 USD), una tarifa plana accesible para proyectos personales o pequeños negocios. Para tareas de monitoreo continuo, como el seguimiento diario de precios, el presentador sugiere que, una vez que la IA ha generado el código de extracción, se le puede pedir que cree una tarea programada. Sin embargo, advierte que si la tarea debe ejecutarse con el computador apagado, el código debe correr en un servidor, no directamente en el entorno del agente. Para el enriquecimiento de datos de leads, tanto Monit como Firecrawl (a través de su producto Alexandria) pueden buscar información adicional de correos o teléfonos en bases de datos como Apolo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La técnica avanzada: intervenir la API oculta de Mercado Libre</h3>
+<p>El plato fuerte del tutorial es la extracción de datos de sitios robustos como Mercado Libre, que implementan defensas contra el scraping tradicional. La estrategia consiste en identificar la API interna que el frontend utiliza para comunicarse con el backend y luego llamarla directamente, saltándose la interfaz gráfica. Para ello, se utiliza la extensión de Chrome que permite a ChatGPT (o Claude) manipular el navegador. El proceso comienza abriendo las herramientas de desarrollador (F12 o clic derecho &gt; Inspeccionar &gt; Network) y recargando la página mientras se realiza una búsqueda, por ejemplo, &quot;Tesla Model 3 Performance&quot;. La IA, a través de la extensión, puede inspeccionar todas las solicitudes de red y encontrar la que devuelve los resultados de la búsqueda en formato JSON.</p>
+<p>El prompt para lograr esto es una obra maestra de instrucción detallada: <em>&quot;Quiero que me ayudes a crear un programa que pueda intervenir la API oculta de [URL] para extraer la información de [búsqueda específica], incluyendo [campos deseados]. Quiero que utilices la extensión de Google Chrome para que manipules mi navegador con el fin de identificar la API oculta entre el front end y el back end. Busca en todas las conexiones, recarga la página las veces que sea necesario, urga y encuentra la solicitud que trae como respuesta los resultados de la búsqueda. Una vez encuentres esa solicitud, necesito que el programa pueda llamar esa API y saltarse el frontend para traer de vuelta la información. Lo que quiero hacer es [tu objetivo]. Encuentra la forma, encuentra la solución.&quot;</em> Con esta guía, la IA navega, inspecciona y genera el código necesario para llamar a la API y extraer campos como imagen, precio, año y kilometraje de cada vehículo.</p>
+<p>El resultado es un script que puede ejecutarse repetidamente para monitorear precios o disponibilidad sin depender de la interacción del navegador. El presentador sugiere que, una vez generado el código, se puede pedir a la IA que lo convierta en un <em>skill</em> para que lo utilice automáticamente en futuras solicitudes. Si el sitio implementa CAPTCHAs, se puede recurrir a servicios como 2Captcha, que utilizan humanos para resolverlos automáticamente, o bien, resolver el CAPTCHA manualmente y dejar que la IA continúe con el proceso. Esta técnica de intervención de APIs ocultas es la que permite escalar la extracción a sitios que de otro modo serían inaccesibles.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Más allá del scraping: análisis de patrones y creación de contenido</h3>
+<p>La extracción de datos es solo el primer paso; el verdadero valor está en el análisis. El tutorial muestra cómo usar Monit con tareas programadas para monitorear un conjunto de perfiles de LinkedIn, extrayendo publicaciones, comentarios y métricas. Luego, se le pide a la IA que resuma lo que dicen, identifique los posts con mayor acogida y proponga ideas de contenido fresco y actualizado. Este flujo convierte datos crudos en inteligencia accionable para estrategias de marketing o desarrollo de producto.</p>
+<p>Para quienes necesitan recrear aplicaciones web, el presentador menciona dos herramientas: <em>Reverse Engineering Anything (REA)</em>, un repositorio de GitHub que permite a la IA hacer ingeniería inversa de aplicaciones instaladas (aunque no es ideal para web apps), y <em>Replica Skills</em>, que extrae información del frontend y parte del backend (stack tecnológico) para construir una aplicación similar con una metodología &quot;clean room&quot; (diferente stack tecnológico) y así evitar problemas de derechos de autor. Estas capacidades amplían el horizonte del scraping hacia la comprensión y replicación de sistemas completos.</p>
+<p>El video cierra con una nota sobre la validación de datos: la herramienta Chroma, que puede instalarse como skill en el agente, permite realizar búsquedas y cruzar información con bases de datos públicas para verificar la exactitud de los datos extraídos. En conjunto, el ecosistema presentado —Monit, Firecrawl, Composio, Apify, 2Captcha y las extensiones de navegador— demuestra que la automatización de la extracción de datos web con IA ha alcanzado un nivel de madurez que la pone al alcance de cualquier persona dispuesta a aprender los prompts y flujos adecuados.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Regla de oro: antes de construir un scraper desde cero, verifica si existe un servicio pre-construido (Monit, Apify) para la plataforma objetivo.</li>
+<li>Para redes sociales: instala Monit en tu agente copiando `monit.ai/skill.md` y usa prompts como &quot;Extrae la información básica y los últimos 20 posts con métricas públicas de [URL]&quot;.</li>
+<li>Para sitios complejos: usa la extensión de Chrome del agente para inspeccionar la pestaña Network (F12), identificar la API interna y pedirle que genere código que la llame directamente.</li>
+<li>Si hay CAPTCHA: integra 2Captcha o resuelve manualmente el desafío y deja que la IA continúe con el proceso automatizado.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://monit.ai/skill.md" target="_blank" rel="noopener"><strong>Monit</strong></a> — Servicio para extraer datos de redes sociales (LinkedIn, Instagram, Facebook) vía agente de IA sin usar credenciales propias.</li>
+<li><strong>Composio</strong> — Plataforma que conecta agentes de IA con más de 1000 herramientas y servicios, incluyendo scrapers como Apify y Firecrawl.</li>
+<li><strong>Apify</strong> — Plataforma con una gran librería de scrapers pre-construidos para sitios populares como Instagram, Facebook, LinkedIn y Google Maps.</li>
+<li><strong>Firecrawl</strong> — Herramienta para extraer información de casi cualquier página web, ya sea una sola página (scrape) o rastrear múltiples enlaces (crawl).</li>
+<li><strong>Any Doc</strong> — Herramienta de Firecrawl (escrita en Rust) para extraer texto de documentos estructurados (PDFs) y convertirlos a markdown.</li>
+<li><strong>Chroma</strong> — Skill o herramienta que puede instalarse en agentes de IA para realizar búsquedas y cruzar información, útil para validación de datos.</li>
+<li><strong>2Captcha</strong> — Servicio que utiliza humanos para resolver CAPTCHAs, permitiendo que las automatizaciones de IA continúen su proceso.</li>
+<li><strong>Google Chrome (Extensión de ChatGPT/Claude)</strong> — Permite a los agentes de IA manipular el navegador, abrir herramientas de desarrollador (F12), inspeccionar solicitudes de red e identificar APIs ocultas.</li>
+<li><strong>Reverse Engineering Anything (REA)</strong> — Repositorio de GitHub que permite a la IA realizar ingeniería inversa en aplicaciones instaladas (ejecutables) para entender su funcionamiento y recrearlas.</li>
+<li><strong>Replica Skills</strong> — Herramienta recomendada para recrear web apps. Extrae información del frontend y parte del backend (stack tecnológico) para construir una aplicación similar con una metodología &#x27;clean room&#x27;.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-2I67-dQ4Neo.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude edita tus videos: flujo completo con vidIQ, ElevenLabs y FFmpeg para crear shorts virales sin código — Frame &amp; Prompt</title>
+  <meta name="description" content="Matt Wolfe demuestra que Claude Opus 5.5 puede orquestar de principio a fin la edición de un short: investiga tendencias con vidIQ, genera guion, música y efectos con ElevenLabs, anima con HyperFrames y monta con FFmpeg. El resultado es un video aceptable en 36 minutos, con skills personalizadas que">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude edita tus videos: flujo completo con vidIQ, ElevenLabs y FFmpeg para crear shorts virales sin código">
+  <meta property="og:description" content="Matt Wolfe demuestra que Claude Opus 5.5 puede orquestar de principio a fin la edición de un short: investiga tendencias con vidIQ, genera guion, música y efectos con ElevenLabs, anima con HyperFrames y monta con FFmpeg. El resultado es un video aceptable en 36 minutos, con skills personalizadas que">
+  <meta property="og:image" content="https://i.ytimg.com/vi/ep4psgAFOqc/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-ep4psgAFOqc.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude edita tus videos: flujo completo con vidIQ, ElevenLabs y FFmpeg para crear shorts virales sin código">
+  <meta name="twitter:description" content="Matt Wolfe demuestra que Claude Opus 5.5 puede orquestar de principio a fin la edición de un short: investiga tendencias con vidIQ, genera guion, música y efectos con ElevenLabs, anima con HyperFrames y monta con FFmpeg. El resultado es un video aceptable en 36 minutos, con skills personalizadas que">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/ep4psgAFOqc/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-ep4psgAFOqc.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude edita tus videos: flujo completo con vidIQ, ElevenLabs y FFmpeg para crear shorts virales sin código</h1>
+        <div class="metadata">
+          <span>Por <strong>Matt Wolfe (mreflow)</strong></span>
+          <time datetime='2026-11-04T17:03:21.120136-05:00'>2026-11-04</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/ep4psgAFOqc" title="Claude edita tus videos: flujo completo con vidIQ, ElevenLabs y FFmpeg para crear shorts virales sin código" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=ep4psgAFOqc" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Matt Wolfe demuestra que Claude Opus 5.5 puede orquestar de principio a fin la edición de un short: investiga tendencias con vidIQ, genera guion, música y efectos con ElevenLabs, anima con HyperFrames y monta con FFmpeg. El resultado es un video aceptable en 36 minutos, con skills personalizadas que aprenden del estilo del canal. La clave está en iterar con feedback específico y actualizar las skills; para formatos largos, el editor humano sigue siendo insustituible.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Matt Wolfe (mreflow)</strong>: <a href="https://www.youtube.com/watch?v=ep4psgAFOqc" target="_blank" rel="noopener">How I Get Claude To Edit My Videos (No Code Needed)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El experimento: convertir a Claude en editor de shorts</h3>
+<p>Matt Wolfe, con 17 años de experiencia como editor, decidió probar si un modelo de lenguaje podía reemplazar el trabajo de edición de un video corto. Su herramienta central es <strong>Claude Opus 5.5</strong>, aunque también menciona que <strong>Codex de OpenAI</strong> puede ejecutar el mismo flujo. La idea no es pedirle a la IA que edite directamente, sino configurar un entorno de trabajo con instrucciones, herramientas y habilidades específicas que le permitan investigar, escribir, generar recursos y montar el video final.</p>
+<p>El proceso comienza creando un proyecto en Claude llamado <em>short form video editor</em>. Allí se definen las instrucciones generales: el rol del asistente, las herramientas disponibles y el estilo del canal. Wolfe instala la integración de <strong>vidIQ</strong> desde la sección <em>Customize</em>, lo que le da acceso a un servidor MCP que analiza videos y tendencias de YouTube. También conecta <strong>HyperFrames</strong> para animaciones tipo After Effects, <strong>ElevenLabs</strong> para música y efectos de sonido, y deja disponibles <strong>FFmpeg</strong> para el montaje y <strong>YTDLP</strong> para descargar B-roll de la web. Todo queda orquestado por el modelo, sin escribir una línea de código.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Investigación y guion: vidIQ como brújula de tendencias</h3>
+<p>Antes de editar, Claude necesita saber qué funciona. Con vidIQ integrado, el modelo puede analizar videos exitosos del mismo nicho, extraer transcripciones, revisar métricas de retención y comentarios, y detectar patrones. Wolfe le pide que investigue un tema concreto —por ejemplo, el lanzamiento de Genie 4 de Google DeepMind— y que genere un guion con puntos clave y una puntuación estimada de rendimiento. El modelo produce un script que, en su primera prueba, obtuvo una calificación de <strong>8 sobre 10</strong>.</p>
+<p>El guion no se lee textualmente: Wolfe lo usa como guía para grabar el A-roll (talking head) y sonar natural. Además, proporciona a Claude el enlace a la fuente original (blog o artículo) y, cuando dispone de él, su propio material de B-roll. Si no hay material, la IA investiga con vidIQ y descarga clips de la web mediante YTDLP. En esta fase también se pueden generar objetos 3D en <strong>Blender</strong> y animarlos para cubrir necesidades de B-roll, una opción que Wolfe menciona como recurso adicional.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Montaje automático: FFmpeg, HyperFrames y ElevenLabs en acción</h3>
+<p>Con el guion listo y el A-roll grabado, Claude pasa a la edición. La instrucción clave es que use tanto las transcripciones como las formas de onda para cortar con precisión y no partir palabras a mitad. El modelo ejecuta <strong>FFmpeg</strong> para realizar cortes, unir clips y superponer capas, mientras que <strong>HyperFrames</strong> añade animaciones y gráficos superpuestos, y <strong>ElevenLabs</strong> genera música de fondo y efectos de sonido. El resultado es un video con subtítulos, B-roll propio y descargado, música y animaciones, todo sin intervención manual.</p>
+<p>En la primera prueba, el video final fue satisfactorio, pero no perfecto. En una segunda prueba con MotionBricks de NVIDIA, el primer intento salió sin música, con audio comprimido y errores no eliminados. Wolfe dio feedback específico: pidió arreglar el audio, eliminar pausas, añadir música, usar HyperFrames para animaciones y, sobre todo, actualizar las skills para que los futuros videos incorporaran esas lecciones. Claude actualizó las habilidades y generó una nueva versión mejorada. La edición completa de ese short tomó alrededor de <strong>36 minutos</strong> en la segunda iteración.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Skills que aprenden: el ciclo de mejora continua</h3>
+<p>El corazón del sistema son las <em>skills</em> personalizadas: instrucciones y reglas que Claude guarda y aplica en futuras ediciones. Wolfe dedicó aproximadamente <strong>15 minutos</strong> a crearlas. Incluyen pautas como cortar cada 1.8 a 3.6 segundos, usar subtítulos magenta y colocar el B-roll en la mitad superior de la pantalla, entre otras. Cuando algo falla —por ejemplo, si ElevenLabs no transcribe bien—, se le pide a Claude que use una herramienta alternativa y actualice la skill correspondiente.</p>
+<p>El autor recomienda revisar una vez al mes los últimos 10 shorts, identificar los outliers (los que mejor funcionaron) y pedir a Claude que actualice las skills con esas lecciones. Este ciclo de retroalimentación convierte al modelo en un editor que mejora con el tiempo. También sugiere ser específico en el feedback: en lugar de decir &#x27;mejora el audio&#x27;, conviene indicar exactamente qué arreglar y luego ordenar que se actualicen las skills para no repetir el error.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Obstáculos técnicos y cómo sortearlos</h3>
+<p>El flujo no está exento de fricciones. Wolfe menciona que algunos sitios web bloquean el acceso de la IA. La solución está en <em>Configuración &gt; Capacidades &gt; Permitir todos los sitios</em>, y en la sección <em>Crear y editar archivos</em> activar <em>Usar internet mientras se crean archivos</em> y gestionar la lista de sitios permitidos. También advierte que si ElevenLabs falla en la transcripción, se puede pedir a Claude que use una herramienta alternativa y que actualice la skill para futuras ocasiones.</p>
+<p>Otro obstáculo es la calidad del audio: en el primer intento de la segunda prueba, el audio salió comprimido. La solución fue pedir explícitamente que se corrigiera y que se añadiera una regla a la skill para evitar que volviera a ocurrir. Wolfe insiste en que la iteración es parte del proceso: no se trata de obtener un resultado perfecto a la primera, sino de construir un sistema que aprenda de los errores.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Resultados, costos y reflexión sobre el futuro de la edición</h3>
+<p>Los resultados son prometedores. Wolfe ha publicado al menos un short diario durante siete días, algunos con casi <strong>1.8 millones de visitas</strong>. El costo de las herramientas es accesible: <strong>Claude Pro</strong> cuesta <strong>20 dólares al mes</strong> (plan mensual cancelable), y <strong>vidIQ</strong> ofrece una oferta de <strong>1 dólar por el primer mes</strong> a través de vidIQ.com/mattwolfe. El resto de las herramientas (ElevenLabs, HyperFrames, FFmpeg, YTDLP, Blender) tienen planes gratuitos o de pago según el uso, pero el flujo básico es viable con inversión mínima.</p>
+<p>A pesar del éxito, Wolfe es honesto sobre las limitaciones: para videos largos, prefiere la edición humana. Le preocupa la posible desvalorización del trabajo de los editores y la saturación de contenido, pero decide compartir el conocimiento para no quedarse atrás. Su conclusión es que la IA puede encargarse de la producción de shorts con calidad aceptable, siempre que haya supervisión y un sistema de skills que se actualice con el feedback. El editor humano sigue siendo clave para la narrativa y la creatividad en formatos más complejos.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para cortar sin partir palabras: pedir a Claude que use tanto las transcripciones como las formas de onda.</li>
+<li>Para desbloquear sitios: Configuración &gt; Capacidades &gt; Permitir todos los sitios, y en &#x27;Crear y editar archivos&#x27; activar &#x27;Usar internet mientras se crean archivos&#x27;.</li>
+<li>Para mejorar el sistema: revisar mensualmente los últimos 10 shorts, identificar outliers y pedir a Claude que actualice las skills con esas lecciones.</li>
+<li>Para feedback efectivo: ser específico (arreglar audio, eliminar pausas, añadir música, usar HyperFrames) y luego ordenar que se actualicen las skills.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Claude (Opus 5.5)</strong> — Modelo que orquesta todo el flujo de edición, desde la investigación hasta el montaje final.</li>
+<li><a href="https://vidiq.com/mattwolfe/" target="_blank" rel="noopener"><strong>vidIQ</strong></a> — Análisis de tendencias, transcripciones y métricas de retención vía MCP.</li>
+<li><strong>ElevenLabs</strong> — Generación de música, efectos de sonido y transcripción de audio.</li>
+<li><strong>HyperFrames</strong> — Animaciones y gráficos superpuestos automatizados.</li>
+<li><strong>Blender</strong> — Creación de objetos 3D y animaciones para B-roll.</li>
+<li><strong>FFmpeg</strong> — Edición de video automática: cortes, unión y superposición.</li>
+<li><strong>YTDLP</strong> — Descarga de videos de YouTube, Instagram y otras fuentes web.</li>
+<li><strong>Codex (OpenAI)</strong> — Alternativa a Claude para ejecutar el mismo flujo de trabajo.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-ep4psgAFOqc.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

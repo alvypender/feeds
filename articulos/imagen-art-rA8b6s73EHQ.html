@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Primer video con IA desde cero: flujo completo con Higgsfield, GPT Image 2.5 y Seedance 2.5 frente a Kling 4.0 — Frame &amp; Prompt</title>
+  <meta name="description" content="Un astronauta en un salar con un océano suspendido y una ballena colosal: esa es la idea que Wide Silvente convierte en un video de 15 segundos en unos cinco minutos usando dos skills de ChatGPT para generar prompts técnicos, GPT Image 2.5 para el personaje y la ficha de vistas múltiples, y Seedance">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Primer video con IA desde cero: flujo completo con Higgsfield, GPT Image 2.5 y Seedance 2.5 frente a Kling 4.0">
+  <meta property="og:description" content="Un astronauta en un salar con un océano suspendido y una ballena colosal: esa es la idea que Wide Silvente convierte en un video de 15 segundos en unos cinco minutos usando dos skills de ChatGPT para generar prompts técnicos, GPT Image 2.5 para el personaje y la ficha de vistas múltiples, y Seedance">
+  <meta property="og:image" content="https://i.ytimg.com/vi/rA8b6s73EHQ/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-rA8b6s73EHQ.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Primer video con IA desde cero: flujo completo con Higgsfield, GPT Image 2.5 y Seedance 2.5 frente a Kling 4.0">
+  <meta name="twitter:description" content="Un astronauta en un salar con un océano suspendido y una ballena colosal: esa es la idea que Wide Silvente convierte en un video de 15 segundos en unos cinco minutos usando dos skills de ChatGPT para generar prompts técnicos, GPT Image 2.5 para el personaje y la ficha de vistas múltiples, y Seedance">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/rA8b6s73EHQ/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-rA8b6s73EHQ.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Primer video con IA desde cero: flujo completo con Higgsfield, GPT Image 2.5 y Seedance 2.5 frente a Kling 4.0</h1>
+        <div class="metadata">
+          <span>Por <strong>Wide Silvente</strong></span>
+          <time datetime='2026-10-31T17:03:41.069522-05:00'>2026-10-31</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/rA8b6s73EHQ" title="Primer video con IA desde cero: flujo completo con Higgsfield, GPT Image 2.5 y Seedance 2.5 frente a Kling 4.0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=rA8b6s73EHQ" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Un astronauta en un salar con un océano suspendido y una ballena colosal: esa es la idea que Wide Silvente convierte en un video de 15 segundos en unos cinco minutos usando dos skills de ChatGPT para generar prompts técnicos, GPT Image 2.5 para el personaje y la ficha de vistas múltiples, y Seedance 2.5 en Higgsfield para el video final. El veredicto es claro: Seedance 2.5 ofrece mayor calidad y coherencia en escenas complejas, mientras que Kling 4.0, un 70% más barato, es una alternativa económica para contenido UGC donde la fidelidad no es crítica.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Wide Silvente</strong>: <a href="https://www.youtube.com/watch?v=rA8b6s73EHQ" target="_blank" rel="noopener">Crea tu primer VÍDEO con IA desde CERO (es así de fácil)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema de los prompts: por qué una skill de ChatGPT cambia las reglas</h3>
+<p>La mayoría de los tutoriales de video con IA fallan en el mismo punto: piden al usuario que escriba prompts técnicos complejos sin darle un método. Wide Silvente invierte ese orden y comienza creando dos <strong>skills personalizadas de ChatGPT</strong>: guías que fuerzan al modelo a seguir un proceso concreto para transformar una descripción natural en un prompt técnico, sin que ChatGPT genere la imagen o el video por sí mismo. La primera skill está orientada a la generación de imágenes con <strong>GPT Image 2.5</strong>; la segunda, a la generación de video con <strong>Seedance 2.5</strong>. Ambas se descargan gratis desde los enlaces de la descripción y se instalan en ChatGPT como instrucciones persistentes.</p>
+<p>El enfoque resuelve un problema práctico: el usuario describe lo que quiere ver, y la skill devuelve un prompt estructurado con parámetros que el modelo de imagen o video espera. No se trata de un simple traductor de ideas a texto, sino de un <em>sistema de control</em> que obliga a especificar formato, modelo, iluminación, composición y restricciones. Ese es el primer aprendizaje del tutorial: la calidad del resultado depende menos del modelo y más de la calidad de la instrucción.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 1: crear el personaje con GPT Image 2.5 y elegir entre Flare y Sun Burst</h3>
+<p>Con la skill de imagen activa, el creador describe a su astronauta: edad, tipo de pelo, ropa, accesorios, fondo y luz. La skill devuelve un prompt en castellano e inglés, especifica formato vertical <strong>3:4</strong> y recomienda el modelo <strong>GPT Image 2.5 Flare</strong>. Dentro de Higgsfield, la elección de modelo tiene un impacto directo en el costo: Flare es la opción económica, mientras que <strong>Sun Burst</strong> ofrece mayor acabado y consume alrededor de <strong>60 créditos</strong> por generación. Para el personaje inicial, el tutorial opta por Flare en calidad <em>extra high</em> para 4K, con un costo aproximado de <strong>7 créditos</strong> por imagen.</p>
+<p>El proceso incluye generar <strong>cuatro variantes</strong> del astronauta para comparar cara, ropa y proporciones antes de elegir la definitiva. Ese paso, que puede parecer menor, es clave: la identidad del personaje se fija en esta etapa y condiciona todo el video. Una vez seleccionada la mejor imagen, se arrastra como referencia a la caja de prompt de la siguiente generación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 2: la ficha de vistas múltiples para blindar la identidad</h3>
+<p>El siguiente movimiento es generar una <strong>ficha de personaje</strong> con exactamente tres vistas: cuerpo entero de frente, cuerpo entero de perfil y primer plano frontal. La skill de imagen produce un prompt que exige fondo gris claro, una sola imagen horizontal <strong>16:9</strong>, sin textos, conservando identidad, pelo y vestuario. Para esta fase se recomienda cambiar a <strong>Sun Burst</strong>, porque la hoja de personaje requiere un acabado más fino y el costo adicional se justifica: es la referencia que el modelo de video usará para mantener la coherencia facial y de vestuario en todos los planos.</p>
+<p>El tutorial aclara una variante útil: si el usuario ya dispone de una fotografía del personaje, puede saltarse la creación desde cero y empezar directamente en este paso. En Higgsfield, se arrastra la imagen del personaje como referencia en la caja de prompt y se ajusta el <em>aspect ratio</em> a 16:9. El resultado es una hoja de personaje que actúa como <strong>ancla de identidad</strong> para el modelo de video.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 3: el prompt de video estructurado en siete bloques</h3>
+<p>La skill de video es la pieza más elaborada del flujo. Convierte la idea narrativa en un prompt estructurado que incluye: <strong>objetivo o misión</strong>, referencia y cómo actúa, espacio, formato y cámara, <strong>secuencia temporal</strong> (por ejemplo, del segundo 0 al 4 y del 4 al 7), física y luces, audio y restricciones. Esa estructura permite describir una escena compleja con precisión: un astronauta en un salar, un océano suspendido en el cielo y una ballena gigante que emerge. La skill también recomienda entregar el prompt en <strong>inglés</strong>, porque el modelo lo entiende mejor, y especificar la duración deseada, en este caso <strong>15 segundos</strong>.</p>
+<p>Un detalle técnico importante: la ficha de personaje se usa como referencia para conservar cara y traje, pero el prompt debe indicar explícitamente que <em>no se copie el fondo ni los paneles</em> de la hoja. Esa restricción evita que el modelo de video arrastre el fondo gris de la ficha a la escena final. El prompt también incluye restricciones narrativas, como <strong>solo una astronauta y una ballena</strong>, para evitar elementos no deseados.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 4: Seedance 2.5 en Higgsfield, resolución y créditos</h3>
+<p>En Higgsfield se selecciona el modelo <strong>Seedance 2.5</strong>, se sube la imagen de referencia, se pega el prompt y se ajustan duración (15 segundos), resolución (<strong>480p, 720p o 1080p</strong>) y ratio 16:9. El costo escala con la calidad: una generación a <strong>1080p y 15 segundos consume aproximadamente 240 créditos</strong> (el tutorial menciona también 280 en otro momento), mientras que a <strong>480p baja a unos 45 créditos</strong>. Para iterar rápido, el creador recomienda usar compresión estándar y generar <strong>dos o tres variantes</strong> antes de decidir.</p>
+<p>El resultado con Seedance 2.5 es la demostración central del video: la escena compleja se resuelve con alta calidad, respetando las direcciones de cámara, la física del océano suspendido y la escala de la ballena. El creador califica el resultado de espectacular y subraya que el flujo completo, desde la idea hasta el video, tomó alrededor de <strong>cinco minutos</strong>.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Seedance 2.5 vs Kling 4.0: calidad frente a costo</h3>
+<p>La comparación directa es el momento más revelador. Con el mismo prompt y la misma referencia, <strong>Kling 4.0</strong> genera la escena a 1080p y 15 segundos por <strong>48,75 créditos</strong>, aproximadamente un <strong>70% menos</strong> que Seedance. La calidad es bastante buena, pero el creador la describe como <em>un poquito más pocha</em>, con algún fallo de coherencia o render. La conclusión práctica es matizada: Seedance 2.5 es la opción cuando la escena es compleja y la fidelidad importa; Kling 4.0 es una alternativa económica para contenido UGC donde el ahorro de créditos es prioritario.</p>
+<p>El tutorial también aterriza los costos de acceso: el plan recomendado para empezar es el <strong>Plus de Higgsfield, alrededor de 60 euros al mes</strong>, con descuentos por anualidad, y el enlace de la descripción ofrece hasta un <strong>50% de descuento</strong>. Las skills de ChatGPT son gratuitas, pero la generación de imágenes y videos requiere plan de pago. En imágenes, el rango va desde <strong>1,5 créditos</strong> hasta 60 según el modelo elegido.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Los quince tips que convierten el tutorial en un método repetible</h3>
+<p>A lo largo del video, el creador condensa su experiencia en consejos operativos que van más allá del caso concreto. Entre los más relevantes: usar las skills para evitar que ChatGPT improvise; pedir siempre el prompt en castellano e inglés; generar cuatro variantes de personaje antes de elegir; cambiar a Sun Burst para la ficha de personaje; arrastrar la referencia y ajustar el ratio a 16:9; y estructurar el prompt de video con secuencia temporal, física, luces, audio y restricciones. También recomienda probar la misma escena en Kling 4.0 para comparar calidad y costo, y descargar las skills gratuitas desde los enlaces de la descripción.</p>
+<p>El hilo conductor de todos los tips es el mismo: <strong>controlar la identidad y la estructura narrativa</strong> antes de gastar créditos en video. La ficha de vistas múltiples, la restricción de no copiar el fondo y la secuencia temporal son los tres mecanismos que hacen que el resultado sea coherente en lugar de una lotería. El tutorial no promete magia, sino un proceso replicable que convierte una idea simple en un video profesional en unos cinco minutos.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Prompt de personaje: describir edad, pelo, ropa, accesorios, fondo y luz; pedir prompt en castellano e inglés; formato vertical 3:4; modelo GPT Image 2.5 Flare.</li>
+<li>Ficha de personaje: exactamente tres vistas (cuerpo entero de frente, cuerpo entero de perfil y primer plano frontal), fondo gris claro, una sola imagen horizontal 16:9 sin textos, conservando identidad, pelo y vestuario.</li>
+<li>Prompt de video: estructura en objetivo/misión, referencia y cómo actúa, espacio, formato y cámara, secuencia temporal (ej. 0-4 s, 4-7 s), física y luces, audio y restricciones (ej. solo una astronauta y una ballena).</li>
+<li>En Higgsfield: seleccionar Seedance 2.5, subir la ficha como referencia, pegar el prompt, ajustar duración (15 s), resolución (480p, 720p, 1080p) y ratio 16:9; generar 2-3 variantes.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://higgsfield.ai/s/make-your-first-ai-video-yt-widesilvente-avnPGu" target="_blank" rel="noopener"><strong>Higgsfield AI</strong></a> — Plataforma de generación de imágenes y videos con IA; incluye GPT Image 2.5, Seedance 2.5 y Kling 4.0.</li>
+<li><a href="https://widesilvente.es/skill-gpt-image-2" target="_blank" rel="noopener"><strong>Skill de prompts de imagen (GPT Image 2.5)</strong></a> — Guía para ChatGPT que convierte ideas en prompts técnicos para imágenes.</li>
+<li><a href="https://widesilvente.es/skill-seedance-2-5" target="_blank" rel="noopener"><strong>Skill de prompts de video (Seedance 2.5)</strong></a> — Guía para ChatGPT que convierte ideas en prompts técnicos estructurados para video.</li>
+<li><strong>GPT Image 2.5 (Flare y Sun Burst)</strong> — Modelos de imagen dentro de Higgsfield; Flare más económico, Sun Burst de mayor calidad.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video dentro de Higgsfield, usado para la escena principal.</li>
+<li><strong>Kling 4.0</strong> — Modelo de video alternativo, más económico, usado para comparar resultados.</li>
+<li><strong>ChatGPT</strong> — Interfaz para usar las skills y convertir ideas en prompts; también para preparar fichas de personaje.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-rA8b6s73EHQ.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

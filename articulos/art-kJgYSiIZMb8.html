@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Genie 4: el modelo de mundo que genera videojuegos interactivos en tiempo real con Gemini 4 Argon — Frame &amp; Prompt</title>
+  <meta name="description" content="Google DeepMind ha presentado Genie 4, un modelo de mundo experimental que crea entornos 3D explorables en tiempo real a partir de texto o imágenes, con la capacidad de modificar el mundo sobre la marcha. Impulsado por Gemini 4 Argon como planificador, permite &#x27;vibe-codear&#x27; experiencias interactivas">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Google Genie 4: el modelo de mundo que genera videojuegos interactivos en tiempo real con Gemini 4 Argon">
+  <meta property="og:description" content="Google DeepMind ha presentado Genie 4, un modelo de mundo experimental que crea entornos 3D explorables en tiempo real a partir de texto o imágenes, con la capacidad de modificar el mundo sobre la marcha. Impulsado por Gemini 4 Argon como planificador, permite &#x27;vibe-codear&#x27; experiencias interactivas">
+  <meta property="og:image" content="https://i.ytimg.com/vi/kJgYSiIZMb8/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-kJgYSiIZMb8.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Google Genie 4: el modelo de mundo que genera videojuegos interactivos en tiempo real con Gemini 4 Argon">
+  <meta name="twitter:description" content="Google DeepMind ha presentado Genie 4, un modelo de mundo experimental que crea entornos 3D explorables en tiempo real a partir de texto o imágenes, con la capacidad de modificar el mundo sobre la marcha. Impulsado por Gemini 4 Argon como planificador, permite &#x27;vibe-codear&#x27; experiencias interactivas">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/kJgYSiIZMb8/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-kJgYSiIZMb8.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Google Genie 4: el modelo de mundo que genera videojuegos interactivos en tiempo real con Gemini 4 Argon</h1>
+        <div class="metadata">
+          <span>Por <strong>Theoretically Media</strong></span>
+          <time datetime='2026-10-27T17:01:54.461648-05:00'>2026-10-27</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/kJgYSiIZMb8" title="Google Genie 4: el modelo de mundo que genera videojuegos interactivos en tiempo real con Gemini 4 Argon" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=kJgYSiIZMb8" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Google DeepMind ha presentado Genie 4, un modelo de mundo experimental que crea entornos 3D explorables en tiempo real a partir de texto o imágenes, con la capacidad de modificar el mundo sobre la marcha. Impulsado por Gemini 4 Argon como planificador, permite &#x27;vibe-codear&#x27; experiencias interactivas con sonido y personajes que hablan. Aunque aún falla en coherencia y permanencia de objetos, demuestra el enorme potencial de los modelos de mundo para videojuegos, cine y narrativas experimentales.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Theoretically Media</strong>: <a href="https://www.youtube.com/watch?v=kJgYSiIZMb8" target="_blank" rel="noopener">Genie 4 Is the FUTURE of AI World Models!</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Genie 4: un modelo de mundo que rompe la barrera del video generativo</h3>
+<p>Google DeepMind ha lanzado Genie 4, un modelo de mundo experimental que supone un salto cualitativo respecto a los modelos de video generativo tradicionales. En lugar de producir un clip de duración fija, Genie 4 genera un entorno 3D interactivo en tiempo real, con cámara controlable y la posibilidad de modificar el mundo mientras se explora. El modelo está disponible como vista previa de investigación con lista de espera, y su acceso se gestiona a través de un formulario que ya está abierto.</p>
+<p>La clave técnica reside en su arquitectura: Genie 4 no solo genera píxeles, sino que construye una representación interna del espacio que permite la interacción continua. Esto se traduce en una experiencia mucho más fluida que la de otros modelos de mundo, con controles menos &#x27;laggy&#x27; y una mayor sensación de estar dentro de un entorno real. El modelo es especialmente fuerte en primera persona, aunque también puede generar vistas en tercera persona, aunque con limitaciones evidentes, como se verá más adelante.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Gemini 4 Argon: el planificador que orquesta herramientas y &#x27;vibe-codea&#x27; experiencias</h3>
+<p>Detrás de Genie 4 se encuentra Gemini 4 Argon, un modelo de lenguaje que actúa como planificador y orquestador de las distintas herramientas que intervienen en la generación del mundo. Argon no solo interpreta el prompt del usuario, sino que decide qué herramientas invocar para construir la experiencia: desde <strong>Nano Banana</strong> para la generación de texturas y elementos visuales, hasta <strong>Lyria 3 Pro</strong> para la creación de bandas sonoras y efectos de sonido. Este enfoque de &#x27;vibe-coding&#x27; permite que el usuario describa lo que quiere y el sistema construya la experiencia de forma autónoma, incluyendo sonido y personajes que pueden hablar si se les promptea adecuadamente.</p>
+<p>El modo de pensamiento de Argon es especialmente revelador: al activarlo, se puede ver cómo el modelo va construyendo la experiencia paso a paso, qué herramientas invoca y cómo resuelve los problemas que surgen. Esta transparencia es valiosa tanto para desarrolladores como para investigadores, ya que permite entender el proceso de generación y depurar posibles fallos. Además, Argon es el responsable de que Genie 4 pueda cambiar el mundo sobre la marcha: basta con dar una nueva instrucción para que el modelo modifique la escena, añada elementos o cambie las reglas de la experiencia.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Primeras pruebas: de GTA a Doom, pasando por sets de cine</h3>
+<p>Las pruebas realizadas por Theoretically Media muestran un abanico de aplicaciones sorprendente. Al pedir un juego tipo GTA, Genie 4 generó un entorno urbano con coches, pero con problemas de escala: un Mustang parecía un Mini Cooper. El autor concluye que el modelo es más fuerte en primera persona que en tercera persona, donde la coherencia espacial se resiente. Sin embargo, la experiencia resultante, aunque accidentada, tenía una ilusión de velocidad y unos controles más ágiles que otros modelos de mundo, lo que sugiere un potencial interesante para juegos de carreras o exploración urbana.</p>
+<p>La exploración de sets generados en Midjourney, como &#x27;Planet Hell&#x27;, demostró su utilidad para el cine de IA: Genie 4 permite moverse por el entorno y encontrar ángulos de cámara que antes requerían un modelado 3D costoso. En la visita a Miller Park, el modelo replicó el estadio con precisión, aunque confundió los equipos (mostró a los Oakland A&#x27;s en lugar de los Tampa Rays), lo que evidencia su capacidad para replicar lugares reales pero también sus limitaciones en detalles factuales. En Times Square en Nochevieja, la versión generada era convincente, pero al girar 360 grados los objetos detrás desaparecían o cambiaban, un fallo de permanencia que el autor sugiere aprovechar para narrativas experimentales.</p>
+<p>La escena romántica estilo Wong Kar-wai mostró que los personajes pueden hablar si se les promptea, aunque el diálogo no es muy convincente. Al añadir un kaiju, el género cambió, pero la cámara siguió enfocando a los personajes en lugar del monstruo, lo que revela que el modelo aún no comprende completamente la jerarquía visual de la escena. En el prompt &#x27;Doom&#x27;, Genie 4 generó un juego con sonido creado por Lyria 3 Pro; aunque no había &#x27;stakes&#x27; (los monstruos no morían, el jugador no recibía daño), el autor pudo modificar las reglas mediante prompts, añadiendo enemigos o cambiando los controles, demostrando el poder del &#x27;vibe-coding&#x27; interactivo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Interacción por voz y moderación: el test de Voight-Kampff y sus bloqueos</h3>
+<p>Una de las experiencias más llamativas fue el test de Voight-Kampff con micrófono. Genie 4 permitió una interacción por voz en la que el usuario respondía preguntas, pero inicialmente el modelo se bloqueó a sí mismo por usar preguntas con propiedad intelectual de Blade Runner. Tras eliminar esas preguntas, la experiencia funcionó, lo que demuestra la capacidad de interacción por voz, pero también los riesgos de la moderación automática. El autor ironiza sobre la disparidad de criterios: mientras Genie 4 aceptó generar un mundo con &#x27;Flamethrower Girl&#x27; (un personaje con traje de superhéroe), Nano Banana bloqueó la imagen por contenido inapropiado, evidenciando inconsistencias en los filtros de seguridad.</p>
+<p>Esta anécdota subraya un aspecto crucial: la moderación en los modelos de mundo aún está en pañales y puede frustrar experiencias legítimas. Para los creadores, es importante conocer estos límites y diseñar prompts que eviten activar los filtros, o bien aprovechar las restricciones como parte de la narrativa. En cualquier caso, la posibilidad de hablar con los personajes y que estos respondan añade una capa de inmersión que otros modelos no ofrecen.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Alucinaciones creativas: de un estudio ficticio a David Lynch</h3>
+<p>La exploración de un estudio ficticio a partir de una imagen del estudio real de Theoretically Media reveló la creatividad desbordante de Genie 4: el modelo alucinó un espacio enorme con múltiples estaciones de trabajo y placas de YouTube, inventando detalles que no estaban en la imagen original. El autor sugiere aprovechar estas alucinaciones para narrativas experimentales, ya que pueden dar lugar a mundos sorprendentes y únicos. En la escena &#x27;David Lynch dirige una película de terror japonesa&#x27;, Genie 4 permitió una transición de un televisor a otro mundo, algo difícil de lograr con modelos de video tradicionales. Esta capacidad de cambiar de escenario de forma fluida es ideal para narrativas no lineales y experiencias inmersivas.</p>
+<p>El autor concluye que los modelos de mundo como Genie 4 son perfectos para este tipo de experimentos, ya que permiten construir realidades que se transforman sobre la marcha. La falta de permanencia de objetos, que en otros contextos sería un fallo, aquí se convierte en una herramienta narrativa: lo que desaparece puede ser parte de la historia. Esta dualidad entre error y virtud es una constante en las tecnologías emergentes y sugiere que los creadores deben adoptar una mentalidad de exploración y adaptación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Entrevista en Google I/O y el futuro de los modelos de mundo</h3>
+<p>En la Google I/O, el autor preguntó al equipo de Gemini sobre el propósito de Genie 4. Aunque no obtuvieron una respuesta clara, la especulación apunta a que Google está explorando aplicaciones más allá de la robótica, como la generación de video futurista donde se genera un mundo entero en lugar de una sola toma. Esta visión encaja con la trayectoria de DeepMind, que lleva años investigando modelos de mundo como paso previo a la inteligencia artificial general. Genie 4 sería un primer paso hacia sistemas capaces de simular entornos complejos y interactivos, con aplicaciones en entrenamiento de robots, videojuegos, cine y educación.</p>
+<p>El veredicto del autor es claro: Genie 4 no es perfecto, pero marca el camino hacia un futuro en el que la generación de video se centre en crear mundos completos en lugar de clips aislados. Los fallos de coherencia y permanencia de objetos son recordatorios de que la tecnología aún es experimental, pero las posibilidades creativas son enormes. Para los creadores, la recomendación es empezar a experimentar con Genie 4 en cuanto esté disponible, explorar sus límites y aprovechar sus alucinaciones como material creativo. La lista de espera ya está abierta, y el autor anima a apuntarse para ser de los primeros en probarlo.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para explorar sets de cine, importa una imagen generada en Midjourney y muévete con Genie 4 para encontrar ángulos de cámara únicos.</li>
+<li>Promptear a los personajes para que hablen: añade &#x27;los personajes hablan&#x27; o describe un diálogo para activar la generación de voz.</li>
+<li>Usa el modo de pensamiento de Gemini 4 Argon para ver qué herramientas invoca (Nano Banana, Lyria 3 Pro) y cómo construye la experiencia.</li>
+<li>Evita preguntas con IP bloqueada (como Blade Runner) en interacciones por voz para prevenir bloqueos del modelo.</li>
+<li>Aprovecha la falta de permanencia de objetos para transiciones narrativas: lo que desaparece al girar puede ser parte de la historia.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/" target="_blank" rel="noopener"><strong>Genie 4</strong></a> — Modelo de mundo interactivo que genera entornos 3D explorables en tiempo real a partir de texto o imágenes.</li>
+<li><strong>Gemini 4 Argon</strong> — Modelo de lenguaje planificador que orquesta herramientas como Nano Banana y Lyria 3 Pro.</li>
+<li><strong>Nano Banana</strong> — Modelo de generación de imágenes de Google para texturas y elementos visuales.</li>
+<li><strong>Lyria 3 Pro</strong> — Modelo de generación de música y sonido de Google para bandas sonoras.</li>
+<li><strong>Midjourney</strong> — Herramienta de generación de imágenes para crear sets que luego se importan a Genie 4.</li>
+<li><a href="https://forms.gle/WQnSNEM3omF7Uruu7" target="_blank" rel="noopener"><strong>Lista de espera de Genie 4</strong></a> — Formulario para solicitar acceso a la vista previa de investigación.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-kJgYSiIZMb8.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

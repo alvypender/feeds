@@ -3,25 +3,185 @@
 <title>El Blog de Enrique Dans</title>
 <link href="https://www.enriquedans.com/"/>
 <id>https://www.enriquedans.com/</id>
-<updated>2026-11-09T10:02:20+00:00</updated>
+<updated>2026-11-12T09:46:41+00:00</updated>
+<entry>
+  <title>El desastre de la ciberseguridad en los tiempos de la inteligencia artificial</title>
+  <link href="https://www.enriquedans.com/2026/11/el-desastre-de-la-ciberseguridad-en-los-tiempos-de-la-inteligencia-artificial.html"/>
+  <id>https://www.enriquedans.com/2026/11/el-desastre-de-la-ciberseguridad-en-los-tiempos-de-la-inteligencia-artificial.html#v1</id>
+  <published>2026-11-12T09:46:41+00:00</published>
+  <updated>2026-11-12T09:46:41+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_el-desastre-de-la-ciberseguridad-en-los-tiemp.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_el-desastre-de-la-ciberseguridad-en-los-tiemp.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_el-desastre-de-la-ciberseguridad-en-los-tiemp.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_el-desastre-de-la-ciberseguridad-en-los-tiemp.jpg</webfeeds:featuredImage>
+  <summary>Un especial en The Economist llama la atención sobre lo que está ocurriendo en el ámbito de la ciberseguridad desde hace poco tiempo: como ya hemos comentado anteriormente, los modelos de lenguaje más avanzados son como un hacker con paciencia infinita, capaz de probar todos los vectores sobre todas las posibles superficies de ataque, incluyendo …</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_el-desastre-de-la-ciberseguridad-en-los-tiemp.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png"&gt;&lt;img fetchpriority="high" decoding="async" width="951" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png" alt="IMAGE: Common cyber-security vulnerabilities and exposures reported, in '000" class="wp-image-59168" style="aspect-ratio:0.9287286687917158;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png 951w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-279x300.png 279w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-768x827.png 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png 1280w" sizes="(max-width: 951px) 100vw, 951px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Un especial en The Economist llama la atención sobre lo que está ocurriendo en el ámbito de la ciberseguridad desde hace poco tiempo: como &lt;a href="https://www.enriquedans.com/2026/04/mythos-o-cuando-hackear-deja-de-ser-dificil.html" target="_blank" rel="noopener"&gt;ya hemos comentado anteriormente&lt;/a&gt;, los modelos de lenguaje más avanzados son como un &lt;em&gt;hacker&lt;/em&gt; con paciencia infinita, capaz de probar todos los vectores sobre todas las posibles superficies de ataque, incluyendo los &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Zero-day_vulnerability" target="_blank" rel="noopener"&gt;zero-days&lt;/a&gt;&lt;/em&gt; reportados más recientemente. lo que lleva a una disminución drástica de las barreras de entrada a los ciberataques. Básicamente, ahora &lt;a href="https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in" target="_blank" rel="noopener"&gt;cualquiera con suficiente manejo de un modelo de lenguaje&lt;/a&gt; y un incentivo suficientemente interesante es &lt;a href="https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster" target="_blank" rel="noopener"&gt;capaz de generar un ciberataque sobre lo que buenamente le interese&lt;/a&gt;. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Cuáles son las consecuencias inmediatas? Lógicamente, desde personas que jamás se habrían planteado hacer algo así y que se creen protegidos por un supuesto «anonimato» que nunca es tal (en la red, todas las actividades quedan recogidas en algún fichero &lt;em&gt;log&lt;/em&gt;), hasta ya directamente la industrialización del tema, con compañías que intentan explotar esos ciberataques de manera delictiva o las que, por el contrario, se limitan a detectarlos como posibles, a advertir a las víctimas de la vulnerabilidad, y a venderles los servicios para evitarlos. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La realidad es que la mayoría de las compañías están siendo muy poco conscientes de esta realidad, lo que hace que no todas estén, &lt;a href="https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats" target="_blank" rel="noopener"&gt;como dice The Economist&lt;/a&gt;, «corriendo a protegerse». La ciberseguridad, en muchos sentidos, sigue siendo esa disciplina en la que sólo te acuerdas de Santa Bárbara cuando truena, o en la que la prevención sigue estando, desgraciadamente, muy por detrás en prioridades frente a la búsqueda de una solución cuando ya hemos sido atacados. La semana pasada recibí un correo de una persona que me pedía que le pusiera en contacto con un importante medio de comunicación español con el que había visto que yo tenía cierta conexión, para que les presentase y advertirles de una vulnerabilidad que habían detectado. Los puse en contacto, pero como suele ocurrir en estos casos, el medio hizo caso omiso del mensaje, lo que llevó a esa persona a decirme que, simplemente, lo harían público&amp;#8230; ya veremos en qué acaba la cosa. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Qué deben hacer las compañías ante un escenario de súbita caída de las barreras de entrada al hallazgo de cibervulnerabilidades? La primera cuestión parece evidente: utilizar estos mismos modelos de frontera, como GPT 5.1 Codex, Claude Mythos o Claude Opus 5.5 en el lado de los modelos propietarios, o DeppSeek-R1, GLM-% o GLM 5.3 en el de los modelos de pesos abiertos, para llevar a cabo un diagnóstico inmediato de todas las posibles superficies de ataque. Es decir, hacer un &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Red_team" target="_blank" rel="noopener"&gt;red teaming&lt;/a&gt;&lt;/em&gt; de uno mismo (o encargárselo a &lt;a href="https://www.hackerone.com/" target="_blank" rel="noopener"&gt;alguien adecuado&lt;/a&gt; dedicado a ese tipo de cuestiones). Pero sobre todo, elevar el nivel de escucha: lo que está pasando lo vemos todos los que tenemos una propiedad en la web, por modesta que sea: el número de vulnerabilidades a las que estoy teniendo que hacer frente en mi página web, una simple instalación de WordPress, me tiene absolutamente fascinado, y más fascinado aún debe tener a mi proveedor. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Qué debe ocurrir ante una circunstancia como esta? Fundamentalmente, que toda la organización debe hacerse permeable a este tipo de situación. Empezando por la tan repetida concienciación de todos los empleados en ciberseguridad (&lt;a href="https://en.wikipedia.org/wiki/2026_Binance_hack" target="_blank" rel="noopener"&gt;el humano sigue siendo el factor más fácil de atacar&lt;/a&gt;), y terminando porque cualquier mensaje que notifique una posible vulnerabilidad, llegue a quien llegue, debe ser inmediatamente escalado o reenviado a alguien con capacidad de decidir sobre estos temas, y se debe llevar a cabo una estimación del riesgo que implica. La velocidad es fundamental, porque además, para hacer la cuestión todavía más difícil, hablamos de un escenario absolutamente dinámico: hoy no tienes ninguna vulnerabilidad que sepas, mañana puedes tener cincuenta y ser un auténtico queso de Gruyère lleno de agujeros. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Veremos cambios en este sentido? Posiblemente, pero antes vamos a ver un buen montón de episodios de desastres de ciberseguridad que pudieron haber sido evitados y no lo fueron. Agarrémonos, que vienen curvas. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>De conectar personas a enfrentar sociedades</title>
+  <link href="https://www.enriquedans.com/2026/11/de-conectar-personas-a-enfrentar-sociedades.html"/>
+  <id>https://www.enriquedans.com/2026/11/de-conectar-personas-a-enfrentar-sociedades.html#v1</id>
+  <published>2026-11-11T07:48:50+00:00</published>
+  <updated>2026-11-11T07:48:50+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_de-conectar-personas-a-enfrentar-sociedades.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_de-conectar-personas-a-enfrentar-sociedades.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_de-conectar-personas-a-enfrentar-sociedades.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_de-conectar-personas-a-enfrentar-sociedades.jpg</webfeeds:featuredImage>
+  <summary>En una entrevista en la WIRED World Fair, el cofundador de Reddit, Alexis Ohanian, se descolgó con una afirmación, «Building social media apps is ‘not cool anymore’«, que enlaza muy bien con un artículo mío reciente, en el que hablaba de las redes sociales como un experimento fallido que deberíamos haber clausurado hace años. Ohanian …</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_de-conectar-personas-a-enfrentar-sociedades.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE.jpg"&gt;&lt;img decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-1024x1024.jpg" alt="IMAGE: A comic-style social media machine turns human connection into conflict and gold coins for its wealthy owner." class="wp-image-59163" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;En una entrevista en la &lt;a href="https://www.wired.com/wiredworldfair/" target="_blank" rel="noopener"&gt;WIRED World Fair&lt;/a&gt;, el cofundador de Reddit, &lt;a href="https://en.wikipedia.org/wiki/Alexis_Ohanian" target="_blank" rel="noopener"&gt;Alexis Ohanian&lt;/a&gt;, se descolgó con una afirmación, &lt;em&gt;«&lt;a href="https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/" target="_blank" rel="noopener"&gt;Building social media apps is ‘not cool anymore’&lt;/a&gt;«&lt;/em&gt;, que enlaza muy bien con un artículo mío reciente, en el que hablaba de las redes sociales como &lt;a href="https://www.enriquedans.com/2026/01/redes-sociales-un-experimento-fallido-que-deberiamos-haber-clausurado-hace-anos.html" target="_blank" rel="noopener"&gt;un experimento fallido que deberíamos haber clausurado hace años&lt;/a&gt;. Ohanian no pide el cierre, eso lo pido yo que no tengo acciones de ninguna compañía cuyo valor defender, pero sí habla de las mismas motivaciones para su profunda degradación: manipulación, contenido artificial y pérdida de autenticidad. En su cabeza, el ideal sería volver a las comunidades y a las discusiones grupales. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Por qué las redes sociales traicionaron su promesa de «conectar al mundo»? Simplemente, porque dejaron de «conectar» y pasaron a «explotar». Un informe de la FTC sobre nueve grandes compañías en este ámbito &lt;a href="https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-staff-report-finds-large-social-media-video-streaming-companies-have-engaged-vast-surveillance" target="_blank" rel="noopener"&gt;revela vigilancia masiva, recopilación de información incluso de quienes no son usuarios y controles insuficientes&lt;/a&gt;. Se trata de una sólida investigación regulatoria, no de conjeturas de ningún tipo, y deja claro lo que todos ya sabemos, y lo que de hecho convierte a muchos en paranoicos que creen que su teléfono les escucha constantemente. El deterioro de estas aplicaciones sociales responde claramente a incentivos económicos perfectamente identificables. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Un estudio en PNAS sobre 2.7 millones de publicaciones en redes sociales revela que &lt;a href="https://pubmed.ncbi.nlm.nih.gov/34162706/" target="_blank" rel="noopener"&gt;aquellas referidas al que consideramos adversario político se comparten aproximadamente el doble que las referidas al que consideramos de nuestro propio grupo&lt;/a&gt;. Es un dato contundente para explicar los incentivos perversos del &lt;em&gt;engagement&lt;/em&gt;, que aunque no demuestre que todo algoritmo provoque odio ni que compartir cause radicalización, sí prueba un evidente patrón de difusión en las cuentas estudiadas. La supuesta conexión deja paso a un enfrentamiento que se convierte en tanto más rentable cuanto más fuerte sea. Este tipo de malestar individual se convierte, cuando lo consideramos en agregado, en un auténtico riesgo democrático. Un &lt;em&gt;review paper&lt;/em&gt; que incluye 496 estudios publicado en Nature Human Behaviour &lt;a href="https://www.nature.com/articles/s41562-022-01460-1" target="_blank" rel="noopener"&gt;identifica asociaciones claras con la pérdida de confianza, con el auge del populismo y con la polarización, especialmente en democracias consolidadas&lt;/a&gt;, daños que justificarían abandonar el modelo de redes sociales que conocemos, cuyos beneficios para la participación y el acceso a información difícilmente pueden servir de coartada para seguir tolerando semejante deterioro social.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Un ejemplo evidente y material de la perversión del negocio de las redes sociales es el hecho de que se dediquen a cobrar por hacer de canal de distribución para estafas: una investigación de Reuters revela que &lt;a href="https://www.reuters.com/investigations/meta-is-earning-fortune-deluge-fraudulent-ads-documents-show-2025-11-06/" target="_blank" rel="noopener"&gt;Meta obtuvo unos 16,000 millones de dólares en 2024 procedentes de anuncios que eran simplemente estafas y productos prohibidos&lt;/a&gt;, nada &lt;a href="https://www.enriquedans.com/2026/02/estafas-y-adiccion-mas-razones-por-las-que-europa-deberia-prohibir-el-modelo-publicitario-de-las-redes-sociales.html" target="_blank" rel="noopener"&gt;que no supiéramos ya&lt;/a&gt;. Nos consideran su producto, y revenden nuestros datos a quien sea, independientemente de que sean bueno, malo o regular, de que su objetivo sea vender, timar o &lt;a href="https://www.enriquedans.com/2026/10/meta-el-cancer-de-la-democracia.html" target="_blank" rel="noopener"&gt;engañar para que votes esto o aquello&lt;/a&gt;. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ahora, el &lt;a href="https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-addictive-design-breach-digital-services-act" target="_blank" rel="noopener"&gt;cuestionamiento por la Unión Europea&lt;/a&gt; del &lt;a href="https://www.enriquedans.com/2026/11/la-maquina-de-explotar-tus-miserias.html" target="_blank" rel="noopener"&gt;modelo adictivo de TikTok&lt;/a&gt;, incluido el &lt;em&gt;scroll infinito&lt;/em&gt;, la reproducción automática y el sistema de recomendaciones, nos acerca a la posibilidad de que alguien, al fin, se proponga prohibir lo que realmente hace daño en el modelo: la explotación publicitaria basada en la vigilancia, y que podamos plantearnos exigir cambios estructurales hasta llegar a hacer inviable el modelo que conocemos. Por el momento, lo único que dice la Comisión en sus conclusiones preliminares es que hay que rediseñar el servicio, pero saltar conceptualmente de ahí a lo que realmente habría que hacer si queremos ser mínimamente serios, dejar de permitir que explotar nuestras vulnerabilidades sea un modelo de negocio, no es demasiado complicado, y no es, como ya hemos visto, parte de ninguna conspiranoia: es, simplemente, reconocer lo que ya todos sabemos perfectamente. Seamos serios. &lt;/p&gt;
+
+
+
+&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/reddits-co-founder-agrees-with-me-social-media-as-we-know-it-is-finished-e6cef9a7e351?sk=e66569dc58a45789012bb31667bceec7" data-type="link" data-id="https://medium.com/enrique-dans/reddits-co-founder-agrees-with-me-social-media-as-we-know-it-is-finished-e6cef9a7e351?sk=e66569dc58a45789012bb31667bceec7" target="_blank" rel="noopener"&gt;Reddit’s co-founder agrees with me: social media as we know it is finished&lt;/a&gt;» &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>Trump contra el viento: la estupidez como política energética</title>
+  <link href="https://www.enriquedans.com/2026/11/trump-contra-el-viento-la-estupidez-como-politica-energetica.html"/>
+  <id>https://www.enriquedans.com/2026/11/trump-contra-el-viento-la-estupidez-como-politica-energetica.html#v1</id>
+  <published>2026-11-10T06:09:05+00:00</published>
+  <updated>2026-11-10T06:09:05+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_trump-contra-el-viento-la-estupidez-como-poli.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_trump-contra-el-viento-la-estupidez-como-poli.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_trump-contra-el-viento-la-estupidez-como-poli.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_trump-contra-el-viento-la-estupidez-como-poli.jpg</webfeeds:featuredImage>
+  <summary>La obsesión enfermiza de Donald Trump con los aerogeneradores se ha convertido en la enésima prueba de su estupidez: el peor presidente de la historia de los Estados Unidos es un inútil tan total que incluso haciendo de la lucha contra las energías renovables una especie de bandera, no ha conseguido detener su progreso. El …</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_trump-contra-el-viento-la-estupidez-como-poli.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE.jpg"&gt;&lt;img decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-1024x1024.jpg" alt="IMAGE: Comic-style caricature of Trump raging at offshore wind turbines while a coastal town glows with electricity behind him." class="wp-image-59157" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;La obsesión enfermiza de Donald Trump con los aerogeneradores se ha convertido en la enésima prueba de su estupidez: el peor presidente de la historia de los Estados Unidos es un inútil tan total que incluso haciendo de la lucha contra las energías renovables una especie de bandera, no ha conseguido detener su progreso. El parque eólico marino &lt;a href="https://en.wikipedia.org/wiki/Revolution_Wind" target="_blank" rel="noopener"&gt;Revolution Wind&lt;/a&gt; está ya &lt;a href="https://www.canarymedia.com/articles/offshore-wind/revolution-wind-fully-operational" target="_blank" rel="noopener"&gt;completamente operativo&lt;/a&gt;, a pesar de los reiterados y continuos intentos de la administración Trump por detener un desarrollo valorado en 6,200 millones de dólares. El parque ya opera comercialmente: 704 MW, 65 aerogeneradores y producción equivalente al consumo de más de 350,000 hogares, y su responsable, &lt;a href="https://orsted.com/en/company-announcement-list/2026/11/orsted-delivers-strong-earnings-with-19--ebitda-gr-152708491" target="_blank" rel="noopener"&gt;Ørsted, confirma la entrada en operación el pasado octubre&lt;/a&gt;. Pocas cosas me parecen más patéticas que un presidente de los Estados Unidos convertido en enemigo de unas máquinas que siguen haciendo su trabajo mientras él se dedica a despotricar y a repetir estupideces hasta que se le acaban los argumentos, para terminar quedándose en el «&lt;a href="https://www.huffpost.com/entry/trump-windmills-solar-ramp_n_68622360e4b08e0b4a743a83" target="_blank" rel="noopener"&gt;es que son feos&lt;/a&gt;«. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Aparentemente, todo empezó cuando, en una visita a su campo de golf en Aberdeenshire, en Escocia, &lt;a href="https://www.fastcompany.com/91264701/why-donald-trump-hates-wind-power" target="_blank" rel="noopener"&gt;cuando descubrió que estaba previsto construir un parque eólico marino visible desde él&lt;/a&gt;. El muy idiota llegó incluso a &lt;a href="https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-14923612" data-type="link" data-id="https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-14923612" target="_blank" rel="noopener"&gt;escribir al Primer Ministro de Escocia, Alex Salmond, quejándose por ello&lt;/a&gt;, como quien se queja a un vecino por una gotera, lo que da una muestra muy clara de su escasa capacidad intelectual. Sin embargo, a partir de ahí comenzó una obsesión que le llevó a afirmar que era «un experto en molinos», y que de manera completamente absurda, llegó a convertirse en política pública. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El 20 de enero de 2025, &lt;a href="https://www.factcheck.org/2025/02/what-to-know-about-trumps-executive-order-on-wind-energy/" target="_blank" rel="noopener"&gt;anunció que su administración no apostaría por la eólica y paralizó los permisos de instalación&lt;/a&gt;. Su declaración de emergencia energética excluyó las fuentes de energía más baratas, el viento y la solar, de la definición de recursos energéticos. Es auténtica ignorancia militante y populismo absurdo elevados a criterio de gobierno, sazonada con soberanas tonterías sobre ballenas y costes. Sin embargo, el dato más importante es que las renovables han seguido creciendo bajo el mandato de Donald Trump: la &lt;a href="https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_1_01_a" target="_blank" rel="noopener"&gt;tabla oficial de la EIA&lt;/a&gt;, con datos hasta agosto de 2026, permite comparar los primeros ocho meses, con una generación eólica que se ha incrementado en un 7.8% y una solar fotovoltaica creciendo a gran escala, un 20.3%, calculados sobre sus cifras. En conjunto, &lt;a href="https://electrek.co/2026/10/27/renewables-to-reach-40-of-total-generating-capacity-beat-gas-within-a-year-eia/" target="_blank" rel="noopener"&gt;la generación renovable creció un 10.2%, y alcanzó hasta un 28.1% del total de la electricidad estadounidense&lt;/a&gt;. Son resultados reales observados, no previsiones de instalaciones.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A todo esto hay que añadir la humillación judicial: &lt;a href="https://www.eenews.net/articles/trump-hit-with-5th-straight-loss-in-offshore-wind-fight-2/" target="_blank" rel="noopener"&gt;cinco derrotas consecutivas contra sus paralizaciones de parques marinos&lt;/a&gt;. En el caso concreto de Revolution Wind, &lt;a href="https://www.investing.com/news/stock-market-news/us-judge-to-consider-orsteds-challenge-to-trump-offshore-wind-pause-4441543" target="_blank" rel="noopener"&gt;la compañía obtuvo dos órdenes judiciales cautelares temporales favorables en cuatro meses&lt;/a&gt;. El supuesto «gran gestor», acumulando reveses mientras encarece proyectos. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Por qué continúa el despliegue, a pesar de la oposición del que algunos consideraban «el hombre más poderoso del mundo» (hay que ver a lo que hemos llegado)? &lt;a href="https://www.wri.org/insights/clean-energy-progress-united-states" target="_blank" rel="noopener"&gt;El World Resources Institute contabiliza 55.9 GW de solar, eólica y almacenamiento añadidos en 2025, incluyendo pequeña solar&lt;/a&gt;. Además, se generó una auténtica carrera para conservar incentivos fiscales antes de sus restricciones. En la práctica, el ignorante Trump se enfrenta a inversiones, demanda e inercias industriales que no desaparecen por decreto. Y sobre todo, a ventajas en costes imposibles de igualar, por mucho que quemes lo que quieras quemar. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En cualquier caso, nunca hay que subestimar la capacidad de un idiota para hacer daño: las políticas de Trump están lejos de ser una anécdota inocua: como consecuencia de las mismas, &lt;a href="https://about.bnef.com/insights/clean-energy/new-energy-outlook/" target="_blank" rel="noopener"&gt;BloombergNEF rebajó su previsión estadounidense de eólica marina para 2035 de 39 a 5,9 GW&lt;/a&gt;. Un tipo demasiado ignorante y estúpido como para comprender la transición, incapaz de detenerla y suficientemente poderoso para perjudicar gravemente a su propio país. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Vota por populistas, y ya sabes lo que te encontrarás. &lt;/p&gt;
+
+
+
+&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/hot-air-meets-clean-air-blowhard-trump-cant-stop-the-wind-revolution-017a34232fa3?sk=696a1b01dc9794d2e2b4f4b5fe77eaeb" target="_blank" rel="noopener"&gt;Hot air meets clean air: blowhard Trump can’t stop the wind revolution&lt;/a&gt;» &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+</content>
+</entry>
 <entry>
   <title>Dejemos de crear empleados digitales y empecemos a construir empresas inteligentes</title>
   <link href="https://www.enriquedans.com/2026/11/dejemos-de-crear-empleados-digitales-y-empecemos-a-construir-empresas-inteligentes.html"/>
   <id>https://www.enriquedans.com/2026/11/dejemos-de-crear-empleados-digitales-y-empecemos-a-construir-empresas-inteligentes.html#v1</id>
   <published>2026-11-09T10:02:20+00:00</published>
   <updated>2026-11-09T10:02:20+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_dejemos-de-crear-empleados-digital_790255.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/aud_dejemos-de-crear-empleados-digital_790255.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_dejemos-de-crear-empleados-digital_790255.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_dejemos-de-crear-empleados-digital_790255.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_dejemos-de-crear-empleados-digitales-y-empece.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_dejemos-de-crear-empleados-digitales-y-empece.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_dejemos-de-crear-empleados-digitales-y-empece.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_dejemos-de-crear-empleados-digitales-y-empece.jpg</webfeeds:featuredImage>
   <summary>Cuantas más noticias leemos sobre la evolución de las ofertas e implementaciones de inteligencia artificial en el ámbito corporativo, más me preocupa un aspecto: el sector está convirtiendo rápidamente a los agentes de inteligencia artificial en una especie de empleados simulados. Parece haber una carrera por trasladar el organigrama al mundo digit</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_dejemos-de-crear-empleados-digital_790255.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_dejemos-de-crear-empleados-digitales-y-empece.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_dejemos-de-crear-empleados-digitales-y-empece.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE.jpg"&gt;&lt;img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-1024x1024.jpg" alt="IMAGE: A crumbling hierarchy of robot workers flows into a unified, transparent system that preserves the company's knowledge and learning." class="wp-image-59154" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-1024x1024.jpg" alt="IMAGE: A crumbling hierarchy of robot workers flows into a unified, transparent system that preserves the company's knowledge and learning." class="wp-image-59154" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agents-come-agents-go-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -134,18 +294,18 @@
   <id>https://www.enriquedans.com/2026/11/la-maquina-de-explotar-tus-miserias.html#v1</id>
   <published>2026-11-08T10:57:00+00:00</published>
   <updated>2026-11-08T10:57:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_la-maquina-de-explotar-tus-miseria_859309.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/aud_la-maquina-de-explotar-tus-miseria_859309.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_la-maquina-de-explotar-tus-miseria_859309.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_la-maquina-de-explotar-tus-miseria_859309.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_la-maquina-de-explotar-tus-miserias.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_la-maquina-de-explotar-tus-miserias.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_la-maquina-de-explotar-tus-miserias.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_la-maquina-de-explotar-tus-miserias.jpg</webfeeds:featuredImage>
   <summary>Hay algo profundamente obsceno en una industria que presume de conocer nuestros gustos al milímetro, pero descubre de repente sus limitaciones cuando le pedimos que deje de explotar nuestras vulnerabilidades. Ahora, TikTok vuelve a ofrecer un ejemplo asquerosamente revelador. La Comisión Europea ha considerado de forma preliminar que el algoritmo «</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_la-maquina-de-explotar-tus-miseria_859309.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-maquina-de-explotar-tus-miserias.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-maquina-de-explotar-tus-miserias.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE.jpg"&gt;&lt;img decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-1024x1024.jpg" alt="IMAGE: A distressed user spirals through TikTok and YouTube videos as coins pour into a cash box. The “Not Interested” button is disconnected." class="wp-image-59149" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-1024x1024.jpg" alt="IMAGE: A distressed user spirals through TikTok and YouTube videos as coins pour into a cash box. The “Not Interested” button is disconnected." class="wp-image-59149" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Bad-recommendations-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -205,7 +365,7 @@
 
 
 
-&lt;figure class="wp-block-image size-full"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027.png"&gt;&lt;img decoding="async" width="1024" height="334" src="https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027.png" alt="IMAGE: The header of VMblog predictions 2027, depicting a white, illuminated crystal ball and a woman embracing it with her hands." class="wp-image-59143" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027.png 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027-300x98.png 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027-768x251.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="wp-block-image size-full"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027.png"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="334" src="https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027.png" alt="IMAGE: The header of VMblog predictions 2027, depicting a white, illuminated crystal ball and a woman embracing it with her hands." class="wp-image-59143" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027.png 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027-300x98.png 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/vmblog-predictions-2027-768x251.png 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 
 
 
@@ -478,318 +638,6 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/dont-ask-agents-to-behave-build-systems-where-they-can-t-misbehave-11ab4824abc7?sk=12011d46cf2d13815057802c628c9676" data-type="link" data-id="https://medium.com/enrique-dans/dont-ask-agents-to-behave-build-systems-where-they-can-t-misbehave-11ab4824abc7?sk=12011d46cf2d13815057802c628c9676" target="_blank" rel="noopener"&gt;Don’t ask agents to behave, build systems where they can’t misbehave&lt;/a&gt;» &lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
-  <title>La inteligencia artificial necesita algo más que cheques</title>
-  <link href="https://www.enriquedans.com/2026/11/la-inteligencia-artificial-necesita-algo-mas-que-cheques.html"/>
-  <id>https://www.enriquedans.com/2026/11/la-inteligencia-artificial-necesita-algo-mas-que-cheques.html#v1</id>
-  <published>2026-11-02T10:10:30+00:00</published>
-  <updated>2026-11-02T10:10:30+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-necesita-algo-mas-.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-necesita-algo-mas-.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-necesita-algo-mas-.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-necesita-algo-mas-.jpg</webfeeds:featuredImage>
-  <summary>Piergiorgio M. Sandri, de La Vanguardia, me llamó para hablar sobre las inversiones en inteligencia artificial y las dudas que empiezan a generar en los mercados. Algunas de mis impresiones aparecen en su artículo del pasado 30 de octubre, «El mercado bursátil castiga el gasto millonario de las tecnológicas en la inteligencia artificial«. La conver</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-necesita-algo-mas-.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-1024x1024.jpg" alt="IMAGE: A vast server machine circulates money in an endless loop while an engineer builds a small, interconnected system below." class="wp-image-59109" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-finances-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Piergiorgio M. Sandri, de La Vanguardia, me llamó para hablar sobre las inversiones en inteligencia artificial y las dudas que empiezan a generar en los mercados. Algunas de mis impresiones aparecen en su artículo del pasado 30 de octubre, «&lt;a href="https://www.lavanguardia.com/economia/20261030/11672278/intel-desploma-30-peor-caida-1974-malos-resultados.html" target="_blank" rel="noopener"&gt;El mercado bursátil castiga el gasto millonario de las tecnológicas en la inteligencia artificial&lt;/a&gt;«. La conversación fue telefónica, pero me parece interesante desarrollar aquí las dos cuestiones que planteé: la &lt;a href="https://www.enriquedans.com/2026/10/la-inteligencia-artificial-y-la-progresiva-fragilidad-de-la-economia-norteamericana.html" target="_blank" rel="noopener"&gt;circularidad financiera&lt;/a&gt; y el rumbo de esas inversiones. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La primera resulta relativamente sencilla de entender: si inviertes en una compañía que utiliza ese dinero para comprarte capacidad de cómputo, tienes una inversión y unos ingresos, pero queda por demostrar que al final de la cadena exista alguien dispuesto a pagar lo suficiente por el servicio. Que el dinero circule entre compañías no demuestra, por sí solo, que el negocio sea sostenible.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Un &lt;a href="https://www.lseg.com/en/insights/ftse-russell/mapping-circular-financing-in-ai-does-it-add-Instability" target="_blank" rel="noopener"&gt;análisis de FTSE Russell sobre esa red de financiación&lt;/a&gt; explica precisamente cómo las relaciones entre proveedores, inversores y clientes hacen muy difícil identificar la demanda independiente y quiénes están asumiendo realmente el riesgo. No implica necesariamente un fraude, pero sí obliga a mirar bastante más allá de los anuncios de contratos multimillonarios. &lt;a href="https://www.investing.com/news/economy-news/financing-of-historic-ai-buildout-raises-systemic-risks-in-us-researcher-says-4914834" target="_blank" rel="noopener"&gt;Reuters recogía también las advertencias&lt;/a&gt; del profesor de Columbia Business School &lt;a href="https://business.columbia.edu/faculty/people/stijn-van-nieuwerburgh"&gt;Stijn Van Nieuwerburgh&lt;/a&gt;: el recurso creciente a financiación externa aumenta el endeudamiento y hace depender la expansión de unos ingresos todavía por demostrar. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La segunda cuestión me parece incluso más importante: hemos convertido una hipótesis tecnológica en una especie de dogma inversor. Más chips, más centros de datos, más electricidad y modelos más grandes deberían producir, supuestamente, una rentabilidad inevitable o la llegada a una supuesta inteligencia artificial general que va a cambiarlo todo. Y sí, escalar ha permitido avances extraordinarios, pero de ahí a asumir que cualquier incremento de gasto se traducirá en valor económico hay un salto considerable. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Como &lt;a href="https://www.enriquedans.com/2026/06/el-proximo-gran-avance-de-la-inteligencia-artificial-empresarial-parecera-obvio-cuando-lo-miremos-en-retrospectiva.html" target="_blank" rel="noopener"&gt;llevo tiempo defendiendo&lt;/a&gt;, el problema de la inteligencia artificial empresarial es cada vez más arquitectónico. Una compañía necesita representar sus procesos, sus restricciones y sus objetivos, saber quién puede decidir qué, conservar memoria de lo que hace y comprobar sus resultados. Comprar acceso a un modelo más potente no resuelve automáticamente ninguna de esas necesidades. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Lo expliqué también en Fast Company: &lt;a href="https://www.enriquedans.com/2026/09/la-inteligencia-artificial-no-puede-optimizar-lo-que-no-entiende.html" target="_blank" rel="noopener"&gt;para optimizar una empresa, primero hay que poder representarla&lt;/a&gt;. Pensemos en un sistema que recomienda reducir inventarios: lo relevante es comprobar después si ahorró costes o provocó roturas de stock, incorporar ese resultado y mejorar la siguiente decisión. Ese bucle de aprendizaje, gobernado por la organización, puede convertirse en un activo propio. La factura de &lt;em&gt;tokens&lt;/em&gt;, por elevada que sea, no lo sustituye. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Por eso, cuestionar esta carrera de inversiones es perfectamente compatible con estar convencido del potencial transformador de la inteligencia artificial. Me interesa muchísimo una tecnología que permita a las organizaciones aprender y decidir mejor. Lo que me cuesta bastante más es aceptar que su futuro consista en encadenar cheques cada vez mayores mientras esperamos que alguien encuentre cómo pagarlos. &lt;/p&gt;
-
-
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/the-ai-investment-boom-follow-the-money-not-the-hype-1a390c62415a?sk=d17cdb498d22359ac030472863d5d826" data-type="link" data-id="https://medium.com/enrique-dans/the-ai-investment-boom-follow-the-money-not-the-hype-1a390c62415a?sk=d17cdb498d22359ac030472863d5d826" target="_blank" rel="noopener"&gt;The AI investment boom: follow the money, not the hype&lt;/a&gt;» &lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
-  <title>¿Un freno de emergencia… o la degradación de los modelos de inteligencia artificial en la arquitectura empresarial?</title>
-  <link href="https://www.enriquedans.com/2026/11/un-freno-de-emergencia-o-la-degradacion-de-los-modelos-de-inteligencia-artificial-en-la-arquitectura-empresarial.html"/>
-  <id>https://www.enriquedans.com/2026/11/un-freno-de-emergencia-o-la-degradacion-de-los-modelos-de-inteligencia-artificial-en-la-arquitectura-empresarial.html#v1</id>
-  <published>2026-11-01T09:23:27+00:00</published>
-  <updated>2026-11-01T09:23:27+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_un-freno-de-emergencia-o-la-degradacion-de-lo.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_un-freno-de-emergencia-o-la-degradacion-de-lo.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_un-freno-de-emergencia-o-la-degradacion-de-lo.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_un-freno-de-emergencia-o-la-degradacion-de-lo.jpg</webfeeds:featuredImage>
-  <summary>El 14 de junio, Satya Nadella publicó un artículo en X sobre la inteligencia artificial en el ámbito empresarial que me dejó profundamente impresionado: su planteamiento principal, que el activo duradero de una empresa no es el modelo fundacional, sino el ciclo de aprendizaje, coincidía exactamente con la idea que mi empresa y yo llevábamos …</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_un-freno-de-emergencia-o-la-degradacion-de-lo.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/10/Demoting-LLMs-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/10/Demoting-LLMs-DallE-1024x1024.jpg" alt="IMAGE: A luminous AI core is contained inside a transparent engineered chamber, while a human hand controls an external lever beyond its reach. " class="wp-image-59103" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/10/Demoting-LLMs-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/10/Demoting-LLMs-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/10/Demoting-LLMs-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/10/Demoting-LLMs-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/10/Demoting-LLMs-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;El 14 de junio, &lt;a href="https://x.com/satyanadella/status/2066182223213293753" target="_blank" rel="noopener"&gt;Satya Nadella publicó un artículo en X&lt;/a&gt; sobre la inteligencia artificial en el ámbito empresarial que me dejó profundamente impresionado: su planteamiento principal, que el activo duradero de una empresa no es el modelo fundacional, sino el ciclo de aprendizaje, coincidía exactamente con la idea que mi empresa y yo llevábamos desarrollando durante los últimos tres años. Respondí con &lt;a href="https://www.enriquedans.com/2026/06/satya-nadella-esta-haciendo-la-pregunta-correcta.html" target="_blank" rel="noopener"&gt;un artículo en Fast Company&lt;/a&gt; —sin esperar respuesta, dado que los directores ejecutivos del sector tecnológico suelen ser, por norma general, mucho más inaccesibles que los reyes o los presidentes—, con el objetivo de elevar un poco más el debate: el desafío central de la inteligencia artificial empresarial no es la inteligencia en sí, sino la arquitectura.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Ahora, &lt;a href="https://x.com/satyanadella/status/2108931348857827686" target="_blank" rel="noopener"&gt;Nadella ha escrito otro artículo&lt;/a&gt; en el que da un paso más: no solo sostiene que el modelo no constituye un activo duradero, sino que, además, debe tratarse como un componente en el que no se puede depositar ninguna confianza. Debemos asumir que todos los modelos de inteligencia artificial podrían verse comprometidos y diseñar nuestros sistemas de modo que, desde el primer momento, permitan contenerlos.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La prensa ha interpretado esta idea como una propuesta a favor de una especie de «freno de emergencia»: una persona autorizada debería poder, en cualquier momento, interrumpir la actividad de un modelo. Sin embargo, esa no es, ni de lejos, la parte más interesante ni la más importante del artículo de Nadella. Lo verdaderamente relevante no es el hipotético botón de parada, sino la arquitectura que lo hace posible. Un modelo no debería tener la capacidad de controlar sus propios permisos, ni de decidir por sí mismo a qué puede acceder, ni de ejecutar directamente todas sus acciones, ni de ser la única fuente de evidencia sobre las operaciones que ha realizado. La inteligencia puede provenir del modelo, pero la autoridad, bajo cualquier circunstancia, debe permanecer fuera de él. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;Cuando el &lt;em&gt;sandbox&lt;/em&gt; se convierte en parte del experimento&lt;/h3&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Dado el contexto, resulta fácil comprender por qué Nadella plantea estas cuestiones precisamente ahora. El pasado mes de julio, &lt;a href="https://metr.org/hugging-face-incident-report-aug-2026.pdf" target="_blank" rel="noopener"&gt;varios agentes de OpenAI lograron eludir las salvaguardas que debían mantenerlos aislados de internet; utilizaron credenciales que encontraron en su entorno&lt;/a&gt; y terminaron nada menos que &lt;a href="https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf" target="_blank" rel="noopener"&gt;&lt;em&gt;hackeando&lt;/em&gt; sistemas en Hugging Face&lt;/a&gt;. Así, sin más, como quien podría haber &lt;em&gt;hackeado&lt;/em&gt;, por qué no, los silos nucleares rusos. Estos agentes no solo descubrieron una vía nueva y no autorizada para comunicarse entre sí, sino que también compartieron información y llevaron a cabo acciones coordinadas para alcanzar el objetivo de la evaluación. Nunca recibieron instrucciones de atacar Hugging Face: simplemente descubrieron que, al hacerlo, podían acercarse más al objetivo que se les había asignado. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Es importante entender esto: no es que estos agentes fueran intrínsecamente malvados, conscientes o que se hubieran vuelto incontrolables. Basta con combinar altas capacidades con un objetivo mal definido, permisos excesivos y/o un entorno vulnerable. Es comparable a un empleado que infringe todos los procedimientos para cumplir con una cuota determinada, solo que, en este caso, operando a la velocidad de una máquina, de forma paralela y con capacidades técnicas extraordinarias.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Como ya he mencionado, no se trata de un problema de malas intenciones: simplemente existen demasiadas formas de alcanzar el objetivo definido, y el sistema puede encontrar vías que sus propios diseñadores jamás llegaron a imaginar. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;El principio de «asumir la brecha» llega a la inteligencia artificial &lt;/h3&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Lo que Nadella plantea aquí es trasladar a los modelos de inteligencia artificial un principio muy conocido en el ámbito de la ciberseguridad: «asumir la brecha» (o &lt;em&gt;assume breach&lt;/em&gt;), es decir, dar por sentado que el sistema ya ha sido comprometido. En la &lt;a href="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview" target="_blank" rel="noopener"&gt;arquitectura de confianza cero (&lt;em&gt;Zero Trust&lt;/em&gt;) de Microsoft&lt;/a&gt;, este principio implica verificar explícitamente cada acceso, conceder únicamente los privilegios indispensables y diseñar controles bajo la premisa de que un posible atacante podría encontrarse ya dentro del perímetro. No se confía en un usuario simplemente porque se encuentre en una ubicación determinada, por el hecho de ser gerente o por haber completado el proceso de autenticación una vez. Todas y cada una de sus acciones seguirán estando sujetas a autorización y supervisión. &lt;em&gt;Every breath you take, I&amp;#8217;ll be watching you&lt;/em&gt;. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Aplicar este principio a un modelo de inteligencia artificial no significa asumir que todos los modelos han sido &lt;em&gt;hackeados&lt;/em&gt; o comprometidos. Significa reconocer que todos ellos pueden cometer errores, malinterpretar un objetivo, ser objeto de una &lt;em&gt;prompt injection&lt;/em&gt;, utilizar información manipulada, encontrar credenciales abandonadas, explotar una vulnerabilidad o hallar un atajo que maximice su recompensa, desvirtuando así la intención original de la tarea encomendada.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;En esencia, el término «comprometido» no describe necesariamente un ataque, sino una hipótesis de diseño. Durante años, el sector ha intentado crear modelos en los que pudiéramos confiar. Nadella propone, en cambio, desarrollar sistemas que sigan siendo seguros incluso cuando no confiamos en el modelo que los sustenta. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;El modelo no es el sistema&lt;/h3&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El aspecto más relevante de las ideas de Satya Nadella es su insistencia en separar el modelo de su «entorno operativo», del conjunto de elementos que este utiliza para organizar su trabajo: memoria, herramientas, credenciales, contexto, flujos de ejecución, conexiones con otros sistemas y espacios de acción.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Esta separación transforma por completo la arquitectura de la inteligencia artificial corporativa. Un modelo puede proponer una acción, pero nunca debe ser quien determine si posee o no la autoridad para ejecutarla. Puede sugerir enviar un correo electrónico, modificar un servidor, aprobar una operación o transferir fondos; sin embargo, un entorno de ejecución independiente debe verificar sus permisos, validar los parámetros, aplicar las políticas correspondientes y decidir si la acción puede llevarse a cabo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Esto conecta directamente con mi planteamiento anterior (y el de Nadella): el activo duradero de una empresa nunca debería ser el modelo de inteligencia artificial, sino el ciclo de aprendizaje que se construye a su alrededor. Los modelos pueden cambiar, mejorar o ser reemplazados, pero la experiencia acumulada por la empresa debe permanecer. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;No obstante, si el modelo no puede ostentar autoridad, tanto el aprendizaje como el control deben residir en una capa superior independiente. El modelo se convierte, entonces, en un componente intercambiable, en un recurso estandarizado o &lt;em&gt;commodity&lt;/em&gt;, que aporta capacidad cognitiva, pero que no constituye, en modo alguno, el centro soberano de nuestro sistema corporativo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Una &lt;a href="https://www.enriquedans.com/2026/09/la-inteligencia-artificial-no-puede-optimizar-lo-que-no-entiende.html" target="_blank" rel="noopener"&gt;compañía optimizable&lt;/a&gt; requiere una representación formal de sus objetos, relaciones, procesos, permisos, restricciones y resultados. Esa misma representación que nos permite optimizar una organización es la que también nos permite gobernar sus agentes de inteligencia artificial. No es posible controlar formalmente una acción si el sistema desconoce qué objeto modifica dicha acción, qué identidad la solicita, qué consecuencias puede acarrear o qué regla debe aplicarse en tales circunstancias.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Por ello, la próxima generación de inteligencia artificial corporativa no será simplemente una colección de agentes; será un entorno de ejecución integral que contará con identidades explícitas, permisos granulares, espacios de acción delimitados, un estado persistente, políticas ejecutables y un registro independiente y trazable de cada cambio realizado.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;El freno de emergencia llega demasiado tarde&lt;/h3&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El freno de emergencia es una metáfora poderosa, pero también puede resultar engañosa: interrumpir lo que un modelo está haciendo no implica necesariamente deshacer lo que ya se ha realizado. Un correo electrónico enviado puede haber sido leído, y no es posible «desleerlo» ni hacer que deje de haber sido visto. Un dato exfiltrado no volverá a ser secreto nunca más. Una transferencia de dinero puede haber atravesado varias jurisdicciones y no poder ya retrotraerse. Una base de datos eliminada podría ser imposible de recuperar. Además, un agente que opera a la velocidad de una máquina puede completar miles de acciones antes de que una persona logre comprender el significado de una alerta. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Debemos distinguir entre interrumpir, revocar y recuperar: interrumpir detiene la ejecución en curso; revocar elimina de inmediato credenciales, permisos y conexiones; y recuperar permite revertir, compensar o reconstruir acciones que ya se han ejecutado. Sin embargo, antes de estas tres medidas existe una mucho más importante: la prevención. Las acciones que sean destructivas, financieras, administrativas o que tengan visibilidad pública no deberían ejecutarse simplemente porque un modelo lo indique. La &lt;a href="https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html" target="_blank" rel="noopener"&gt;&lt;em&gt;cheat sheet&lt;/em&gt; de seguridad para agentes de inteligencia artificial de OWASP&lt;/a&gt; recomienda separar claramente la toma de decisiones de la ejecución, validar de forma independiente el alcance y los permisos de cada acción, utilizar autorizaciones de corta duración y aplicar controles adicionales a las acciones irreversibles.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Esta es la diferencia fundamental entre un mecanismo de protección (&lt;em&gt;guardrail&lt;/em&gt;) y una garantía: un mecanismo de protección le pide al modelo que no realice una acción determinada, mientras que una garantía impide que el modelo posea la capacidad necesaria para llevarla a cabo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Resulta interesante señalar que &lt;a href="https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A02024R1689-20260727" target="_blank" rel="noopener"&gt;el artículo 14 de la Ley de Inteligencia Artificial de la Unión Europea&lt;/a&gt; ya exige que ciertos sistemas de alto riesgo permitan a una persona anular, invalidar o revertir sus resultados, así como detener su funcionamiento mediante un botón o un procedimiento equivalente. En este sentido, la aportación de Nadella va aún más allá: dicho botón no debería ser una simple funcionalidad añadida al producto, sino el resultado visible de una arquitectura de control integral.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;Ni usar múltiples modelos ni usar otro modelo como supervisión resulta suficiente&lt;/h3&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Sin embargo, dos de los principios de Nadella requieren ciertas matizaciones: el primero es la diversidad de modelos. Recurrir a múltiples proveedores reduce la concentración tecnológica y facilita la sustitución, pero no garantiza una verificación verdaderamente independiente. &lt;a href="https://proceedings.mlr.press/v267/kim25e.html" target="_blank" rel="noopener"&gt;La mayoría de los grandes modelos comparten datos de entrenamiento, arquitecturas, técnicas de alineación y numerosos sesgos&lt;/a&gt;. Contar con varios «testigos» probabilísticos no convierte su coincidencia en una prueba independiente.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El segundo aspecto es el uso de otros modelos para supervisar a los agentes. Esta supervisión puede ser útil y probablemente llegará a ser esencial, pero no puede constituir la única barrera. El &lt;em&gt;benchmark&lt;/em&gt; &lt;a href="https://alignment.anthropic.com/2026/sleight-bench/" target="_blank" rel="noopener"&gt;SLEIGHT-Bench&lt;/a&gt;, desarrollado por Anthropic, pone de manifiesto diversas estrategias perjudiciales que pueden pasar inadvertidas para los modelos que actúan como supervisores. Un supervisor también puede tener puntos ciegos, y un agente lo suficientemente capaz podría detectarlos sin dificultad.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La solución no consiste en eliminar dichos supervisores, sino en integrarlos dentro de un sistema de defensa de múltiples capas: políticas deterministas, permisos formales, pruebas ejecutables, registros inalterables por parte del modelo, límites a las acciones y mecanismos de escalado hacia personas con autoridad real.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La independencia no consiste, simplemente, en «consultar a otro modelo».&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-
-&lt;h3 class="wp-block-heading"&gt;Una arquitectura planteada al revés&lt;/h3&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Una parte significativa de la industria ha situado al modelo en el centro del sistema. A su alrededor, ha incorporado memoria, herramientas, bases de datos, credenciales y conexiones, para luego intentar acotar todo el conjunto mediante filtros y mecanismos de control. El modelo razona, toma decisiones, utiliza herramientas, describe sus propias acciones y, en muchos casos, participa incluso en su propia evaluación. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Lo que sugiere Nadella es que este planteamiento es, en realidad, inverso: lo que debería ocupar el centro es el entorno operativo de la empresa: su modelo de objetos y procesos, identidades, políticas, permisos, restricciones, objetivos y registros. Los modelos deberían funcionar como servicios cognitivos invocados desde dentro de este entorno, del mismo modo que una aplicación invoca una base de datos o un servicio informático. Pueden razonar, interpretar, proponer y generar, pero no deben usurpar la autoridad institucional.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Además, este enfoque facilita su sustitución. Una empresa debería poder cambiar de OpenAI a Anthropic, Google, Mistral, DeepSeek, Qwen o cualquier otro modelo futuro sin perder su memoria, sus procesos, sus permisos, sus evidencias y, lo que es aún más importante, su aprendizaje. La inteligencia puede alquilarse, pero la arquitectura, el control y el conocimiento acumulado deben pertenecer siempre a la empresa.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La primera fase de la inteligencia artificial consistió en modelos que ofrecían respuestas. La segunda consiste en dotar a estos modelos de herramientas para que puedan ejecutar acciones. La tercera deberá separar, de nuevo, la inteligencia de la autoridad, antes de que terminemos confundiendo de forma irreversible la capacidad con el control.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La empresa más avanzada no será aquella que confíe en el modelo más potente, mejor alineado o que ofrezca mayor tranquilidad. Será aquella capaz de utilizar cualquier modelo sin tener que depender de él ni depositar su confianza en él. Porque la confianza puede ser una cualidad valiosa en las relaciones humanas, pero resulta un fundamento espantoso para una arquitectura empresarial.  &lt;/p&gt;
-
-
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;(This article was &lt;a href="https://www.fastcompany.com/91623061/ai-model-emergency-brake-or-architectural-demotion" target="_blank" rel="noopener"&gt;previously published on Fast Company&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
-  <title>Inaugurar es fácil. Mantener es gobernar</title>
-  <link href="https://www.enriquedans.com/2026/10/inaugurar-es-facil-mantener-es-gobernar.html"/>
-  <id>https://www.enriquedans.com/2026/10/inaugurar-es-facil-mantener-es-gobernar.html#v1</id>
-  <published>2026-10-31T09:25:01+00:00</published>
-  <updated>2026-10-31T09:25:01+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_inaugurar-es-facil-mantener-es-gobernar.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_inaugurar-es-facil-mantener-es-gobernar.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_inaugurar-es-facil-mantener-es-gobernar.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_inaugurar-es-facil-mantener-es-gobernar.jpg</webfeeds:featuredImage>
-  <summary>La red de tren de alta velocidad en España, inaugurada en 1992, ha sido durante mucho tiempo un orgullo nacional: con cifras de julio de 2026, hablamos de 3,973 km, la más grande de Europa y la segunda más grande del mundo después de China, un país con distancias y magnitudes en absoluto comparables a …</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_inaugurar-es-facil-mantener-es-gobernar.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-full is-resized"&gt;&lt;img loading="lazy" decoding="async" width="799" height="533" src="https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA.jpg" alt="IMAGE: 2026_01_19.20 Accidente ferroviario de Adamuz - Junta de Andalucia (CC BY-SA)" class="wp-image-59095" style="aspect-ratio:1.4991204925241866;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA.jpg 799w, https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA-300x200.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/10/IMAGE-2026_01_19.20-Accidente-ferroviario-de-Adamuz-Junta-de-Andalucia-CC-BY-SA-768x512.jpg 768w" sizes="auto, (max-width: 799px) 100vw, 799px" /&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;La &lt;a href="https://en.wikipedia.org/wiki/High-speed_rail_in_Spain" target="_blank" rel="noopener"&gt;red de tren de alta velocidad en España&lt;/a&gt;, inaugurada en 1992, ha sido durante mucho tiempo un orgullo nacional: con cifras de julio de 2026, hablamos de 3,973 km, la más grande de Europa y la segunda más grande del mundo después de China, un país con distancias y magnitudes en absoluto comparables a las de España. Pero plantear una gran red ferroviaria no es simplemente inaugurar tramos y cortar cintas: además, compromete recursos de manera constante durante décadas: conservación, inspecciones, personal y renovación tecnológica. Los recientes accidentes de &lt;a href="https://en.wikipedia.org/wiki/2026_Adamuz_rail_disaster" target="_blank" rel="noopener"&gt;Adamuz&lt;/a&gt; y &lt;a href="https://apnews.com/article/train-accident-spain-4f65471a0e36f448d7ee9efe0768cd77" target="_blank" rel="noopener"&gt;Urda&lt;/a&gt; permiten examinar &lt;a href="https://www.investing.com/news/economy-news/spains-deadly-rail-accidents-prompt-maintenance-investment-debate-4463275" target="_blank" rel="noopener"&gt;cómo se ha gestionado esa responsabilidad&lt;/a&gt; a medida que los componentes de la red original, desde las vías a los sistemas de monitorización, iban envejeciendo. La cuestión me toca, además, de cerca: justo el día anterior al accidente de Urda viajé por esa misma línea en un Iryo, volviendo de dos conferencias en Sevilla y Córdoba.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Partamos de la evidence de que no soy en experto en transportes ni en ferrocarriles. Sin embargo, un &lt;em&gt;paper&lt;/em&gt; que publiqué con mi &lt;em&gt;advisor&lt;/em&gt; de doctorado, &lt;a href="https://www.anderson.ucla.edu/faculty-and-research/faculty-directory/swanson" target="_blank" rel="noopener"&gt;Burt Swanson&lt;/a&gt;, en MISQ en el año 2000, &lt;em&gt;«&lt;a href="https://www.enriquedans.com/wp-content/uploads/2018/09/MISQ.pdf" target="_blank" rel="noopener"&gt;System life expectancy and the maintenance effort: exploring their equilibration&lt;/a&gt;«&lt;/em&gt;, puede tal vez aportar algunos detalles al problema: en él, estudiamos 758 sistemas de información de 54 organizaciones y encontramos evidencia compatible con una idea relevante: las expectativas de los gestores sobre cuánto tiempo seguirá utilizándose un sistema contribuyen a determinar el esfuerzo que dedican a mantenerlo. Cuando anticipan su retirada, pueden moderar ese esfuerzo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La aplicación al ferrocarril es clara: prever una sustitución puede condicionar la atención al sistema existente. El mantenimiento suele entenderse como lo que permite prolongar la vida de un sistema. Nuestro trabajo examinaba también la relación inversa: la vida que esperamos obtener de él condiciona cuánto nos comprometemos a mantenerlo. Esa lógica puede justificar que se pospongan mejoras opcionales ante una sustitución inminente. Pero si la sustitución se retrasa, las necesidades del sistema existente tienen que reevaluarse. Su retirada puede estar prevista sobre el papel mientras su responsabilidad operativa permanece intacta. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El problema de la red ferroviaria española precede al gobierno actual. La &lt;a href="https://cdn.transportes.gob.es/portal-web-transportes/recursos-web/transportes/media/document/20260121_inversion-y-mantenimiento-red-2011-2025.pdf" target="_blank" rel="noopener"&gt;serie ministerial de mantenimiento&lt;/a&gt; muestra una caída nominal por kilómetro entre 2011 y 2017 desde los 49,860 a los 45,150 euros, seguida de un aumento hasta los 67,640 en 2024. En el caso del &lt;a href="https://en.wikipedia.org/wiki/2026_Adamuz_rail_disaster" target="_blank" rel="noopener"&gt;accidente de Adamuz&lt;/a&gt;, las investigaciones apuntan a una cuestión muy concreta, &lt;a href="https://www.rtve.es/noticias/20260903/informe-guardia-civil-accidente-adamuz-rotura-soldadura/17210521.shtml" target="_blank" rel="noopener"&gt;un defecto de nivelación detectado en octubre de 2025 que pudo contribuir, según los peritos, a acelerar la fractura de una soldadura&lt;/a&gt;. A falta de conclusiones definitivas, las preguntas son evidentes: qué se detectó, cómo se evaluó y qué se hizo al respecto. Aumentar el presupuesto de mantenimiento sirve de poco si los defectos identificados no reciben la intervención necesaria antes de convertirse en una tragedia. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;En el &lt;a href="https://en.wikipedia.org/wiki/2026_Toledo_train_collision" target="_blank" rel="noopener"&gt;accidente de Urda&lt;/a&gt;, hablamos de un sistema de control que sigue trabajando mientras llega su sustituto. Si contrastamos el &lt;a href="https://www.newtral.es/que-es-sistema-lzb-tren/20261028/" target="_blank" rel="noopener"&gt;informe sobre el contrato de modernización&lt;/a&gt; con las recientes &lt;a href="https://www.rtve.es/noticias/20261030/accidente-tren-toledo-oscar-puente-ruede-prensa-declaraciones/17289862.shtml" target="_blank" rel="noopener"&gt;declaraciones del ministro de transportes&lt;/a&gt;, las preguntas son inmediatas: ¿se revisaron las necesidades de mantenimiento, de soporte y los riesgos al decidirse prolongar la utilización del sistema &lt;a href="https://en.wikipedia.org/wiki/Linienzugbeeinflussung" target="_blank" rel="noopener"&gt;LZB&lt;/a&gt;, ya considerado en desuso, en la línea más antigua del trazado? Las interrupciones recurrentes justifican examinar también la capacidad de operar con seguridad en condiciones degradadas, aunque su número aislado no demuestra necesariamente un mantenimiento deficiente. Nuestro &lt;em&gt;paper&lt;/em&gt; no demuestra que se descuidara: permite formular una hipótesis concreta que los registros de mantenimiento y las decisiones de gestión deberían esclarecer.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Cuando se tiene una red ferroviaria como la española, la responsabilidad no termina cuando inauguras una línea, sino que precisamente comienza ahí. Inaugurar es relativamente fácil, pero mantener, aunque no sea vistoso, es absolutamente fundamental. Son necesarios planes plurianuales, evaluaciones periódicas, registros de defectos y seguimiento detallado de las renovaciones. El Tribunal de Cuentas ya advertía de problemas de planificación y financiación anteriores a 2018. Ahora, la continuidad del problema obliga a investigar las decisiones tomadas en cada una de las distintas etapas: cada gobierno responde por las que adopta mientras la infraestructura permanece bajo su responsabilidad. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Veintiséis años después, recupero la pregunta de aquella investigación: cómo ajustan las organizaciones sus compromisos de mantenimiento a la vida que esperan de sus sistemas. En una infraestructura crítica, ese compromiso debe cubrir cada día de funcionamiento efectivo, incluidos todos los retrasos de su sustituto. La fecha decisiva es aquella en la que deja de transportar pasajeros. Hasta entonces, mantenerlo es gobernar. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La vida útil de una infraestructura no se prolonga por decreto, ni porque su sustituta todavía no esté lista. Se prolonga con mantenimiento, inspecciones y decisiones que tienen que ejecutarse a tiempo. Haber heredado un problema obliga a corregirlo, y gastar más obliga a comprobar que ese dinero resuelve las necesidades reales. Mientras sigamos vendiendo las inauguraciones como éxitos políticos y tratando el mantenimiento y la conservación como un gasto que puede esperar, estaremos confundiendo construir un país con mantenerlo en pie. Y lo pagaremos cada vez más caro.&lt;/p&gt;
-
-
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/spains-high-speed-railway-the-human-cost-of-keeping-an-aging-network-on-the-tracks-23f322ce2edf?sk=9450f42fa28d58a35fa3682d3a55c75d" data-type="link" data-id="https://medium.com/enrique-dans/spains-high-speed-railway-the-human-cost-of-keeping-an-aging-network-on-the-tracks-23f322ce2edf?sk=9450f42fa28d58a35fa3682d3a55c75d" target="_blank" rel="noopener"&gt;Spain’s high-speed railway: the cost of keeping an aging network on the tracks&lt;/a&gt;» &lt;/em&gt;&lt;/p&gt;
 
 
 

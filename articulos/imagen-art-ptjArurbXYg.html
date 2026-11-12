@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>De fotos de producto a anuncio con IA: el método en 5 etapas de Wide Silvente con Artlist, GPT Image 2.5 y Seedance 2.5 — Frame &amp; Prompt</title>
+  <meta name="description" content="El creador Wide Silvente desvela en un short el flujo de trabajo que convierte simples fotos de producto en un anuncio publicitario completo generado con IA. Su tesis es contundente: generar planos al azar no es tener una idea; la clave está en un proceso de cinco etapas (idea, referencias, imágenes">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="De fotos de producto a anuncio con IA: el método en 5 etapas de Wide Silvente con Artlist, GPT Image 2.5 y Seedance 2.5">
+  <meta property="og:description" content="El creador Wide Silvente desvela en un short el flujo de trabajo que convierte simples fotos de producto en un anuncio publicitario completo generado con IA. Su tesis es contundente: generar planos al azar no es tener una idea; la clave está en un proceso de cinco etapas (idea, referencias, imágenes">
+  <meta property="og:image" content="https://i.ytimg.com/vi/ptjArurbXYg/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-ptjArurbXYg.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="De fotos de producto a anuncio con IA: el método en 5 etapas de Wide Silvente con Artlist, GPT Image 2.5 y Seedance 2.5">
+  <meta name="twitter:description" content="El creador Wide Silvente desvela en un short el flujo de trabajo que convierte simples fotos de producto en un anuncio publicitario completo generado con IA. Su tesis es contundente: generar planos al azar no es tener una idea; la clave está en un proceso de cinco etapas (idea, referencias, imágenes">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/ptjArurbXYg/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-ptjArurbXYg.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">De fotos de producto a anuncio con IA: el método en 5 etapas de Wide Silvente con Artlist, GPT Image 2.5 y Seedance 2.5</h1>
+        <div class="metadata">
+          <span>Por <strong>Wide Silvente</strong></span>
+          <time datetime='2026-11-04T17:04:50.691350-05:00'>2026-11-04</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/ptjArurbXYg" title="De fotos de producto a anuncio con IA: el método en 5 etapas de Wide Silvente con Artlist, GPT Image 2.5 y Seedance 2.5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=ptjArurbXYg" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El creador Wide Silvente desvela en un short el flujo de trabajo que convierte simples fotos de producto en un anuncio publicitario completo generado con IA. Su tesis es contundente: generar planos al azar no es tener una idea; la clave está en un proceso de cinco etapas (idea, referencias, imágenes, dirección y animación) apoyado en Artlist, las Skills de ChatGPT, GPT Image 2.5 y Seedance 2.5. El veredicto: sin dirección creativa y consistencia del producto, ningún clip espectacular salva la pieza.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Wide Silvente</strong> (Short): <a href="https://www.youtube.com/shorts/ptjArurbXYg" target="_blank" rel="noopener">De fotos de producto a un anuncio con IA</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La trampa del clip espectacular: por qué la dirección creativa manda</h3>
+<p>El short de Wide Silvente arranca con una advertencia que muchos creadores aprenden a golpes: <strong>generar planos al azar no equivale a tener una idea</strong>. La herramienta puede producir un clip visualmente deslumbrante, pero si no responde a una intención narrativa, el resultado es un ejercicio de estilo sin utilidad publicitaria. El autor insiste en que la diferencia entre un experimento y un anuncio terminado está en <em>decidir qué ocurre en el plano, cómo se mueve la cámara y cómo se mantiene la consistencia del producto</em> a lo largo de todo el vídeo.</p>
+<p>Esa filosofía se materializa en un método dividido en <strong>cinco etapas</strong>: idea, referencias, imágenes, dirección y animación. No es una lista de pasos mecánicos, sino una cadena en la que cada eslabón condiciona al siguiente. La etapa de referencias, por ejemplo, no es un trámite: consiste en <em>acumular muchas imágenes que construyan una dirección artística muy marcada</em> antes de generar nada. Sin ese corpus visual, el modelo improvisa y el anuncio pierde coherencia.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Artlist y las Skills de ChatGPT: el andamiaje invisible del proyecto</h3>
+<p>La primera herramienta que aparece en el flujo es <strong>Artlist</strong>, la plataforma que el autor utiliza como base para producir el anuncio con IA. Aunque el short no detalla cada función, su papel es el de punto de partida del proyecto: un entorno desde el que organizar y dar soporte a la producción. Junto a ella, las <strong>Skills de ChatGPT</strong> actúan como el taller donde se preparan y estructuran los prompts de cada etapa. No se trata de pedirle al modelo que improvise, sino de <em>diseñar instrucciones específicas para cada fase</em>, lo que reduce la aleatoriedad y permite repetir el proceso con otros productos.</p>
+<p>Este detalle es importante porque revela una mentalidad de producción, no de juego. El creador no se limita a escribir una frase y esperar magia: construye un sistema de prompts encadenados que sostienen la idea, las referencias y la dirección antes de llegar a la generación de imágenes y vídeo. Es la diferencia entre usar la IA como generador de ocurrencias y usarla como <strong>herramienta de realización</strong>.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">GPT Image 2.5 y Seedance 2.5: de la imagen fija al plano en movimiento</h3>
+<p>El núcleo técnico del flujo son dos modelos. <strong>GPT Image 2.5</strong> se encarga de generar las imágenes de producto y las referencias visuales; <strong>Seedance 2.5</strong> anima esas imágenes para convertirlas en los planos del anuncio. La secuencia es lógica: primero se construye el universo visual con las referencias acumuladas y las imágenes generadas, y solo después se les infunde movimiento. El short no entra en parámetros concretos como la duración de los clips o la resolución, pero sí deja claro que <em>la animación es la última etapa, no la primera</em>.</p>
+<p>La advertencia sobre la consistencia del producto cobra aquí todo su sentido. Un anuncio publicitario no se sostiene con un plano aislado, por muy espectacular que sea: el mismo producto debe reconocerse a lo largo de todo el vídeo. Eso exige que las imágenes generadas con GPT Image 2.5 mantengan una identidad visual estable y que Seedance 2.5 las anime sin traicionar esa identidad. El método de cinco etapas está diseñado precisamente para eso: <strong>controlar la narrativa y el movimiento de cámara</strong> en lugar de dejar que el modelo decida por nosotros.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un short que es la puerta a un tutorial completo</h3>
+<p>Este vídeo es, en realidad, un anticipo. El propio autor remite al <strong>tutorial largo</strong> enlazado en la descripción, donde se desarrolla el proceso completo. El short cumple la función de declaración de principios: resume el método, nombra las herramientas y advierte de los errores más comunes. Para quien quiera replicar el flujo, la recomendación implícita es clara: <em>no saltarse las etapas de referencias y dirección</em>, porque son las que convierten una colección de clips en un anuncio coherente.</p>
+<p>La conclusión que se extrae es que la calidad del resultado no depende solo de la potencia de los modelos, sino de la <strong>dirección artística</strong> que los guía. Acumular muchas imágenes de referencia, estructurar los prompts con las Skills de ChatGPT y decidir conscientemente qué ocurre en cada plano son las prácticas que separan un experimento vistoso de una pieza publicitaria terminada. El short no promete atajos: promete un método.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Estructura del proyecto en 5 etapas: 1) idea, 2) referencias, 3) imágenes, 4) dirección, 5) animación del vídeo.</li>
+<li>Antes de generar, acumula muchas imágenes de referencia para fijar una dirección artística marcada.</li>
+<li>Usa las Skills de ChatGPT para preparar y estructurar los prompts de cada etapa por separado.</li>
+<li>Define primero qué ocurre en el plano y cómo se mueve la cámara; nunca generes clips al azar.</li>
+<li>Verifica la consistencia del producto en todo el vídeo, no solo en un plano aislado.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Artlist</strong> — Plataforma usada como base del flujo para producir el anuncio con IA</li>
+<li><strong>Skills de ChatGPT</strong> — Preparación y estructuración de los prompts de cada etapa del proyecto</li>
+<li><strong>GPT Image 2.5</strong> — Generación de las imágenes de producto y referencias visuales</li>
+<li><strong>Seedance 2.5</strong> — Animación de las imágenes para convertirlas en los planos del anuncio</li>
+<li><a href="https://www.youtube.com/watch?v=7b5P24lxIB8" target="_blank" rel="noopener"><strong>Tutorial largo de Wide Silvente</strong></a> — Vídeo completo donde se desarrolla el proceso de cinco etapas</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-ptjArurbXYg.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

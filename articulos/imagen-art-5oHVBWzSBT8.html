@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Anthropic lanza Claude Fable 5.2 y Mythos 5.2: un 30% más rápidos y baratos, con mejoras en razonamiento, visión y codificación — Frame &amp; Prompt</title>
+  <meta name="description" content="Anthropic ha lanzado Claude Fable 5.2 y Mythos 5.2, dos modelos que superan a Opus 5.5, GPT6 Astra y Gemini 4 Carbon en la mayoría de benchmarks, con un 30% más de velocidad y menor costo. Destacan en codificación, ciberseguridad y trabajo del conocimiento, donde Fable 5.2 casi duplica el rendimient">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Anthropic lanza Claude Fable 5.2 y Mythos 5.2: un 30% más rápidos y baratos, con mejoras en razonamiento, visión y codificación">
+  <meta property="og:description" content="Anthropic ha lanzado Claude Fable 5.2 y Mythos 5.2, dos modelos que superan a Opus 5.5, GPT6 Astra y Gemini 4 Carbon en la mayoría de benchmarks, con un 30% más de velocidad y menor costo. Destacan en codificación, ciberseguridad y trabajo del conocimiento, donde Fable 5.2 casi duplica el rendimient">
+  <meta property="og:image" content="https://i.ytimg.com/vi/5oHVBWzSBT8/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-5oHVBWzSBT8.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Anthropic lanza Claude Fable 5.2 y Mythos 5.2: un 30% más rápidos y baratos, con mejoras en razonamiento, visión y codificación">
+  <meta name="twitter:description" content="Anthropic ha lanzado Claude Fable 5.2 y Mythos 5.2, dos modelos que superan a Opus 5.5, GPT6 Astra y Gemini 4 Carbon en la mayoría de benchmarks, con un 30% más de velocidad y menor costo. Destacan en codificación, ciberseguridad y trabajo del conocimiento, donde Fable 5.2 casi duplica el rendimient">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/5oHVBWzSBT8/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-5oHVBWzSBT8.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Anthropic lanza Claude Fable 5.2 y Mythos 5.2: un 30% más rápidos y baratos, con mejoras en razonamiento, visión y codificación</h1>
+        <div class="metadata">
+          <span>Por <strong>Paul J Lipsky</strong></span>
+          <time datetime='2026-11-09T17:05:25.436373-05:00'>2026-11-09</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/5oHVBWzSBT8" title="Anthropic lanza Claude Fable 5.2 y Mythos 5.2: un 30% más rápidos y baratos, con mejoras en razonamiento, visión y codificación" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=5oHVBWzSBT8" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Anthropic ha lanzado Claude Fable 5.2 y Mythos 5.2, dos modelos que superan a Opus 5.5, GPT6 Astra y Gemini 4 Carbon en la mayoría de benchmarks, con un 30% más de velocidad y menor costo. Destacan en codificación, ciberseguridad y trabajo del conocimiento, donde Fable 5.2 casi duplica el rendimiento de Opus 5.5 (41.3% vs 21.3%). Sin embargo, Opus 5.5 sigue siendo la mitad de caro, por lo que la decisión de cambiar dependerá de la relación costo-beneficio.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Paul J Lipsky</strong>: <a href="https://www.youtube.com/watch?v=5oHVBWzSBT8" target="_blank" rel="noopener">Fable 5.2 Just Dropped (Full Breakdown)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Dos modelos, una misma base: Fable 5.2 y Mythos 5.2</h3>
+<p>Anthropic ha presentado su nueva generación de modelos de lenguaje con una estrategia dual: <strong>Claude Fable 5.2</strong>, disponible públicamente, y <strong>Claude Mythos 5.2</strong>, restringido a organizaciones verificadas. Ambos comparten el mismo modelo subyacente y se diferencian únicamente en la capa de seguridad. Fable 5.2 mantiene salvaguardas estrictas en ciberseguridad y biología, mientras que Mythos 5.2 relaja esas restricciones para permitir usos avanzados en entornos controlados. Esta separación busca equilibrar la accesibilidad con la prevención de usos malintencionados, y según el análisis de Paul J Lipsky, Fable 5.2 reduce los bloqueos incorrectos en usos benignos en comparación con versiones anteriores, lo que mejora la experiencia de usuario.</p>
+<p>El lanzamiento llega con mejoras sustanciales en eficiencia: <strong>Fable 5.2 es un 30% más rápido y barato que Fable 5.1</strong>, su predecesor directo. Sin embargo, el precio sigue siendo un punto de fricción: Fable 5.2 cuesta el doble que Opus 5.5, el modelo anterior de la compañía. Esa diferencia económica será clave para decidir qué modelo usar en cada tarea, como veremos más adelante.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Rendimiento en benchmarks: victorias contundentes y alguna sorpresa</h3>
+<p>En la comparativa con los principales competidores, Fable 5.2 se impone en la mayoría de las pruebas. <strong>Gana en codificación, ciberseguridad, búsqueda agéntica y uso de computadora</strong>, superando a GPT6 Astra y Gemini 4 Carbon, este último aún no lanzado oficialmente. Sin embargo, no es líder absoluto: en flujos de trabajo empresariales, Gemini 4 Carbon obtiene mejores resultados, y en tareas de conocimiento, Opus 5.5 logra un rendimiento ligeramente superior en algunas métricas. Aun así, el dato más llamativo es el benchmark de trabajo del conocimiento, donde <strong>Fable 5.2 alcanza un 41.3% frente al 21.3% de Opus 5.5 y el 20% de GPT6 Astra</strong>, casi duplicando a sus rivales. Esta mejora sustancial puede justificar su uso en tareas intensivas de conocimiento, a pesar del mayor costo.</p>
+<p>La velocidad también juega un papel importante: el 30% de incremento respecto a Fable 5.1 se traduce en respuestas más ágiles, algo crítico en aplicaciones interactivas. Además, Fable 5.2 mejora la claridad de comunicación en comparación con versiones anteriores, lo que facilita interacciones complejas y reduce la necesidad de repreguntar.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Más allá del texto: diseño de hardware, control de robots y vídeo generado por código</h3>
+<p>Una de las demostraciones más impactantes del video es la capacidad de Fable 5.2 para <strong>diseñar y producir dispositivos electrónicos funcionales</strong> a partir de prompts de una sola frase. Anthropic utilizó el modelo para crear tres dispositivos completos: un hub de asistente doméstico, un altavoz USB y una mascota virtual portátil. En cada caso, el modelo generó el diseño de la placa de circuito, la carcasa para impresión 3D y el software necesario, todo integrado en un solo flujo. Este tipo de automatización podría acelerar la prototipación en entornos de hardware.</p>
+<p>El control de robots también ha dado un salto cualitativo. Fable 5.2 logró resolver un cubo de Rubik con dos brazos, desenroscar una tapa de botella, construir un sistema de engranajes y dibujar un robot en una caja, tareas para las que no fue entrenado explícitamente. Superó así a otros modelos y a sistemas especializados, lo que sugiere una capacidad de generalización notable. En el terreno audiovisual, Jeremy Burman, empleado de Anthropic, creó un vídeo completamente mediante código usando Fable 5.2, sin herramientas de generación de vídeo tradicionales, con resultados visualmente sorprendentes. Estas aplicaciones prácticas amplían el horizonte de los modelos de lenguaje más allá del texto y el código.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Coste y estrategia: ¿cuándo usar Fable 5.2 y cuándo Opus 5.5?</h3>
+<p>A pesar de las mejoras, el factor económico es determinante. <strong>Opus 5.5 cuesta la mitad que Fable 5.2</strong>, lo que lo convierte en una opción más rentable para el uso diario en tareas de conocimiento que no requieran la máxima precisión. Paul J Lipsky recomienda reservar Fable 5.2 para tareas críticas donde su superioridad en codificación, ciberseguridad o razonamiento complejo marque la diferencia. Para el trabajo del conocimiento intensivo, el casi duplicado rendimiento de Fable 5.2 (41.3% vs 21.3%) puede justificar el desembolso, pero para flujos más ligeros, Opus 5.5 sigue siendo competitivo.</p>
+<p>El análisis concluye que Fable 5.2 es un avance notable, pero no un reemplazo automático. La decisión depende de la relación costo-beneficio de cada caso de uso. El autor espera con más interés un nuevo modelo de clase Opus que equilibre inteligencia y precio, algo que aún no ha llegado. Mientras tanto, la recomendación práctica es clara: usar Opus 5.5 como modelo diario y reservar Fable 5.2 para aquellas tareas donde su precisión y velocidad extra sean determinantes.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para tareas de codificación, ciberseguridad, búsqueda agéntica y uso de computadora, Fable 5.2 supera a los competidores; úsalo cuando la precisión sea crítica.</li>
+<li>En trabajo del conocimiento, Fable 5.2 casi duplica el rendimiento de Opus 5.5 (41.3% vs 21.3%), lo que puede justificar su mayor costo en tareas intensivas.</li>
+<li>Considera Opus 5.5 como modelo diario por su menor costo (la mitad que Fable 5.2) y reserva Fable 5.2 para casos donde la máxima precisión sea imprescindible.</li>
+<li>Los prompts de una sola frase pueden bastar para que Fable 5.2 diseñe dispositivos electrónicos funcionales con placas de circuito, carcasas impresas en 3D y software.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Claude Fable 5.2</strong> — Modelo de lenguaje público de Anthropic con mejoras en codificación, razonamiento, visión y comunicación; 30% más rápido y barato que su predecesor.</li>
+<li><strong>Claude Mythos 5.2</strong> — Versión del mismo modelo subyacente que Fable 5.2 pero con capas de seguridad relajadas, disponible solo para organizaciones verificadas.</li>
+<li><strong>Claude Opus 5.5</strong> — Modelo anterior de Anthropic, más económico (la mitad del costo de Fable 5.2) y aún competitivo en algunas tareas, recomendado como modelo diario.</li>
+<li><a href="https://pepochat.com?via=paul" target="_blank" rel="noopener"><strong>PepoChat</strong></a> — Agente de soporte AI para sitios web que aprende de políticas y artículos de ayuda para responder preguntas de clientes; patrocinador del video.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-5oHVBWzSBT8.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

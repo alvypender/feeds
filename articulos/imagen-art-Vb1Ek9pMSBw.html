@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dzine AI Pipeline: el taller definitivo para dominar imagen, video, lip sync y personajes consistentes con agentes de IA — Frame &amp; Prompt</title>
+  <meta name="description" content="Dzine AI se consolida como un estudio creativo completo al integrar los mejores modelos de imagen (Nano Banana 2.1, GPT Image 2.5, Midjourney v8.2), video (Seedance 2.5) y audio (Lip Sync Pro) en una sola plataforma. Su nueva herramienta Pipeline añade agentes de IA que orquestan proyectos complejos">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Dzine AI Pipeline: el taller definitivo para dominar imagen, video, lip sync y personajes consistentes con agentes de IA">
+  <meta property="og:description" content="Dzine AI se consolida como un estudio creativo completo al integrar los mejores modelos de imagen (Nano Banana 2.1, GPT Image 2.5, Midjourney v8.2), video (Seedance 2.5) y audio (Lip Sync Pro) en una sola plataforma. Su nueva herramienta Pipeline añade agentes de IA que orquestan proyectos complejos">
+  <meta property="og:image" content="https://i.ytimg.com/vi/Vb1Ek9pMSBw/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-Vb1Ek9pMSBw.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Dzine AI Pipeline: el taller definitivo para dominar imagen, video, lip sync y personajes consistentes con agentes de IA">
+  <meta name="twitter:description" content="Dzine AI se consolida como un estudio creativo completo al integrar los mejores modelos de imagen (Nano Banana 2.1, GPT Image 2.5, Midjourney v8.2), video (Seedance 2.5) y audio (Lip Sync Pro) en una sola plataforma. Su nueva herramienta Pipeline añade agentes de IA que orquestan proyectos complejos">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/Vb1Ek9pMSBw/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-Vb1Ek9pMSBw.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Dzine AI Pipeline: el taller definitivo para dominar imagen, video, lip sync y personajes consistentes con agentes de IA</h1>
+        <div class="metadata">
+          <span>Por <strong>Wade McMaster (Creator Impact)</strong></span>
+          <time datetime='2026-11-10T17:10:28.884077-05:00'>2026-11-10</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/Vb1Ek9pMSBw" title="Dzine AI Pipeline: el taller definitivo para dominar imagen, video, lip sync y personajes consistentes con agentes de IA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=Vb1Ek9pMSBw" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Dzine AI se consolida como un estudio creativo completo al integrar los mejores modelos de imagen (Nano Banana 2.1, GPT Image 2.5, Midjourney v8.2), video (Seedance 2.5) y audio (Lip Sync Pro) en una sola plataforma. Su nueva herramienta Pipeline añade agentes de IA que orquestan proyectos complejos, desde el guion hasta la edición final, manteniendo la consistencia de personajes y escenas. El veredicto es claro: Pipeline reduce drásticamente la fricción creativa y el consumo de créditos, aunque exige prompts estructurados y ajustes manuales para resultados profesionales.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Wade McMaster (Creator Impact)</strong>: <a href="https://www.youtube.com/watch?v=Vb1Ek9pMSBw" target="_blank" rel="noopener">Dzine AI FULL Beginner Workshop (&amp; NEW Dzine Pipeline Tutorial!)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un ecosistema creativo sin precedentes: modelos de élite en una sola interfaz</h3>
+<p>Dzine AI ha evolucionado de ser una herramienta de generación de imágenes a un <strong>estudio integral de producción audiovisual</strong>. En su taller, Wade McMaster recorre las capacidades que lo convierten en un competidor directo de suites como Adobe Firefly o Runway, pero con una ventaja clave: la integración nativa de modelos de terceros líderes en cada categoría. Para imagen, la plataforma ofrece <strong>Nano Banana 2.1</strong>, el modelo más reciente y recomendado por su calidad y capacidad de seguir instrucciones complejas; <strong>GPT Image 2.5</strong> en sus variantes Flare (velocidad) y Sunburst (calidad); <strong>Midjourney v8.2</strong>; e <strong>Ideogram</strong>, especializado en texto. En video, <strong>Seedance 2.5</strong> se posiciona como el mejor modelo disponible según el creador, junto a <strong>MiniMax H3</strong> y <strong>Wan 3</strong>. Para audio y sincronización labial, <strong>Dzine Lip Sync Pro</strong> permite generar voces y ajustar expresiones. Esta diversidad evita la dependencia de un solo proveedor y permite elegir el modelo óptimo para cada tarea, aunque implica conocer sus fortalezas y costos.</p>
+<p>El taller no se limita a enumerar herramientas, sino que demuestra su aplicación práctica mediante experimentos comparativos. Por ejemplo, al probar un mismo prompt detallado (&#x27;man walking down a busy street, full body shot, golden hour lighting with purple tint, cinematic, Godzilla, purple suit, Japanese katana&#x27;) en Midjourney y Nano Banana, ambos modelos mantuvieron los elementos clave pero con estilos visuales distintos, lo que subraya la importancia de la especificidad en el prompt para lograr consistencia entre modelos. Del mismo modo, al modificar el encuadre a &#x27;close-up portrait shot&#x27;, todos los modelos ajustaron la composición, confirmando que el control del layout mediante texto es efectivo. Estos experimentos sientan las bases para un flujo de trabajo donde la experimentación y la iteración son fundamentales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del prompt al píxel: técnicas avanzadas de edición y generación de imágenes</h3>
+<p>La edición de imágenes con IA en Dzine AI va más allá de la generación desde cero. McMaster muestra cómo transformar una escena diurna en nocturna con el prompt &#x27;change this scene to a night scene with fires behind him, lighting the shot, keep the layout and details identical&#x27;, preservando la composición original. Para añadir elementos, instrucciones como &#x27;add a dark ninja cat behind the dog on the left&#x27; funcionan con precisión. La creación de fondos transparentes requiere indicar &#x27;create an image of the samurai dog alone with a transparent background&#x27; y seleccionar la opción correspondiente. En la modalidad Image to Image, los controles de <strong>Style intensity</strong> y <strong>Structure match</strong> permiten calibrar cuán fiel es la generación a la referencia y al estilo deseado, un aspecto crucial para mantener la coherencia visual en proyectos seriados.</p>
+<p>La estructura de prompts recomendada por el creador sigue un orden lógico que maximiza el control: 1) Sujeto, 2) Escena/Fondo, 3) Layout/Composición (ej. &#x27;close-up portrait shot&#x27;, &#x27;low angle&#x27;), 4) Iluminación/Color (ej. &#x27;Golden Hour Lighting But With A Slight Purple Sort Of Tint&#x27;), 5) Estilo de imagen (ej. &#x27;Cinematic Shot From A Blockbuster Film&#x27;, &#x27;in the style of a 1990s anime film screen cap&#x27;), y 6) Detalles adicionales. Esta fórmula, aplicada consistentemente, reduce la ambigüedad y mejora los resultados. Para ediciones locales, se selecciona el área con lazo o pincel y se describe el cambio, ajustando el <strong>Control method</strong> a &#x27;balanced&#x27; para equilibrar prompt e imagen. La herramienta <strong>Expand</strong> permite ampliar el fondo describiendo el nuevo entorno, por ejemplo, &#x27;a dark home office&#x27;. Para el reemplazo de caras, Face Swap funciona mejor si solo la cara deseada está en el lienzo, aislando el reemplazo. En Expression Edit, los cambios sutiles y las expresiones naturales evitan el valle inquietante y son útiles para generar fotogramas de inicio y fin de videos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Video generativo: Seedance 2.5, control de movimiento y edición inteligente</h3>
+<p>La generación de video en Dzine AI se apoya en <strong>Seedance 2.5</strong>, que el creador considera &#x27;probablemente el mejor modelo de video que existe en este momento&#x27;. Su costo es de <strong>400 créditos por una generación en 720p</strong> y <strong>1000 créditos en 1080p</strong>, un dato crítico para planificar el presupuesto creativo. Una de las funciones más potentes es <strong>Omni Reference</strong>, que permite incluir imágenes de referencia y describirlas en el prompt, por ejemplo, &#x27;he looks like the man in at image one&#x27;. Esto facilita la incorporación de rostros o elementos específicos en la escena. Para animar entre dos imágenes, se usa &#x27;Start and End Frame&#x27; y se describe el movimiento: &#x27;we follow a shell among us he walks down a bustling cyberpunk street as he walks the camera tilts up and zooms out to reveal the buildings above and a polluted sky&#x27;. Esta técnica permite controlar la narrativa visual con precisión.</p>
+<p>La edición de video también es notable. Con <strong>Video Modify</strong> (impulsado por Gemini Omni), se puede instruir &#x27;remove the mountain in the center and turn it into an ancient temple&#x27;, alterando elementos del fondo de manera convincente. Para in-painting en video, se selecciona el área con el pincel y se describe lo que se quiere añadir, como &#x27;have a monkey sitting on the Rock Eating a Banana&#x27;. La adición de efectos de sonido se logra describiéndolos en el prompt: &#x27;add the man&#x27;s footsteps as he walks subtle wildlife sounds and some subtle sounds of the monkey in the scene&#x27;. En cuanto al control de movimiento, <strong>Kling 3</strong> permite transferir el movimiento de un video de referencia a un personaje generado, aunque si la imagen de origen está muy recortada, se recomienda editarla previamente con Nano Banana 2.1 o ChatGPT para expandirla a la relación de aspecto del video (ej. 16:9). Este tipo de ajustes evita resultados insatisfactorios y ahorra créditos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Lip Sync y personajes consistentes: la clave para narrativas seriadas</h3>
+<p>La sincronización labial de <strong>Dzine Lip Sync Pro</strong> ha alcanzado un nivel de expresividad notable. El creador recomienda probar el <strong>Expressive Mode</strong> para añadir emoción a las voces generadas, y advierte que la puntuación y el uso de mayúsculas en el diálogo pueden afectar la expresión de la voz resultante. En pruebas con múltiples personajes en una misma imagen, la herramienta sincronizó los labios de los tres con sus respectivos diálogos, aunque se recomienda evitar superponer los audios en la línea de tiempo para obtener mejores resultados. Esta función es especialmente útil para doblajes, animaciones explicativas o proyectos de ficción con diálogos.</p>
+<p>La creación de personajes consistentes es otro pilar del taller. Con el <strong>Quick mode</strong>, se genera un personaje a partir de una descripción detallada, especificando &#x27;cinematic photo realistic character from a live action movie&#x27; para un estilo realista. El <strong>Pose mode</strong> permite configurar una pose 3D y luego generar la imagen del personaje en esa posición. Para insertar un personaje en una escena, se marca el área con el pincel y se describe la acción, por ejemplo, &#x27;Richie is sitting eating lunch&#x27;. La herramienta <strong>Character Sheet</strong> puede tardar entre 15 y 20 minutos en crear un modelo completo de personaje, pero garantiza consistencia a lo largo de múltiples generaciones, algo crucial en proyectos de largo aliento. Además, la posibilidad de generar arte vectorial incluyendo &#x27;vector style logo with flat colors vector style is important and flat colors is important for converting to vector afterwards&#x27; permite obtener archivos SVG limpios y escalables, ideales para logotipos o gráficos que requieren alta resolución.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Dzine AI Pipeline: agentes de IA que orquestan el caos creativo</h3>
+<p>La culminación del taller es <strong>Dzine AI Pipeline</strong>, una herramienta de flujo de trabajo que integra todos los modelos y agentes de IA de la plataforma para gestionar proyectos complejos de forma visual y colaborativa. Pipeline introduce un conjunto de <strong>AI Agents</strong> especializados: <strong>Story Architect</strong> (para generar la estructura narrativa), <strong>Character Designer</strong> (para definir personajes), <strong>Image Prompt Engineer</strong> (para crear prompts de imagen), <strong>Assistant Director</strong> (para planificar tomas) y <strong>Video Prompt Engineer</strong> (para prompts de video). Estos agentes guían al usuario a través de un proceso iterativo, generando prompts complejos de forma coherente y minimizando las inconsistencias entre tomas y elementos. En la demostración, se creó un corto de un monje contra un samurái: los agentes generaron la historia, diseñaron los personajes, produjeron los prompts para las imágenes y videos, y planificaron las tomas. El resultado fue un flujo de trabajo consistente y organizado, que permite gestionar un proyecto de principio a fin con la ayuda de la IA.</p>
+<p>Pipeline no solo automatiza la generación de prompts, sino que también facilita la organización visual del proyecto. Los usuarios pueden ver el progreso, ajustar parámetros y reutilizar elementos entre escenas. Esta aproximación agéntica reduce la carga cognitiva y permite a los creadores enfocarse en la dirección creativa. Sin embargo, el creador advierte que la calidad final depende de la especificidad de las instrucciones y de la revisión humana; los agentes son asistentes poderosos, no sustitutos del criterio artístico. La integración de Pipeline con el resto de herramientas de Dzine AI cierra el círculo: desde la idea hasta la exportación, todo ocurre en un mismo entorno, lo que se traduce en ahorro de tiempo y créditos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Costos, créditos y estrategias para optimizar el presupuesto</h3>
+<p>El taller desglosa los costos de las operaciones más relevantes. La generación de video con Seedance 2.5 consume <strong>400 créditos en 720p</strong> y <strong>1000 créditos en 1080p</strong>, lo que hace imperativo planificar cada toma y evitar iteraciones innecesarias. En contraste, el modelo <strong>GPT Image 2.5 Sunburst</strong> puede tener <strong>0 tokens de costo</strong> con beneficios de acceso ilimitado en ciertos planes, lo que lo convierte en una opción atractiva para pruebas y desarrollos conceptuales. La creación de un modelo de personaje completo mediante Character Sheet puede tardar entre 15 y 20 minutos, un tiempo que debe considerarse en la planificación. Las imágenes escaladas a 4x pueden alcanzar resoluciones de <strong>6000x3500 píxeles</strong>, útiles para impresión o pantallas de alta densidad.</p>
+<p>Para optimizar créditos, el creador sugiere varias prácticas: usar Nano Banana 2.1 o GPT Image 2.5 para pruebas rápidas antes de comprometer recursos en video; ajustar la relación de aspecto y el encuadre en la imagen inicial para evitar recortes que obliguen a regenerar; y aprovechar los agentes de Pipeline para generar prompts precisos que reduzcan la necesidad de reintentos. Además, recomienda no superponer audios en Lip Sync y utilizar el modo Expressive con moderación para evitar resultados artificiales. En definitiva, Dzine AI Pipeline se presenta como una solución integral que, bien utilizada, puede reducir significativamente el costo por proyecto y elevar la calidad de las producciones audiovisuales con IA.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Costo de video con Seedance 2.5: 400 créditos (720p) y 1000 créditos (1080p).</li>
+<li>Estructura de prompt recomendada: Sujeto, Escena/Fondo, Layout/Composición, Iluminación/Color, Estilo, Detalles adicionales.</li>
+<li>Para fondos transparentes: incluir &#x27;transparent background&#x27; y seleccionar la opción &#x27;transparent&#x27;.</li>
+<li>Para vectorizar: usar &#x27;vector style logo with flat colors&#x27; en el prompt y luego convertir a SVG.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.dzine.ai/?via=wade01" target="_blank" rel="noopener"><strong>Dzine AI</strong></a> — Plataforma integral de generación y edición de imagen, video y audio con IA.</li>
+<li><strong>Nano Banana 2.1</strong> — Modelo de imagen recomendado por calidad y seguimiento de instrucciones.</li>
+<li><strong>GPT Image 2.5</strong> — Modelo de imagen con variantes Flare (rápida) y Sunburst (calidad).</li>
+<li><strong>Midjourney v8.2</strong> — Modelo de imagen disponible dentro de Dzine AI.</li>
+<li><strong>Ideogram</strong> — Modelo de imagen especializado en texto.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video considerado el mejor actualmente por el creador.</li>
+<li><strong>MiniMax H3</strong> — Modelo de video alternativo.</li>
+<li><strong>Wan 3</strong> — Modelo de video alternativo.</li>
+<li><strong>Gemini Omni</strong> — Modelo para modificación de video (Video Modify).</li>
+<li><strong>Kling 3</strong> — Modelo para control de movimiento en video.</li>
+<li><strong>Dzine Lip Sync Pro</strong> — Herramienta de sincronización labial con modo expresivo.</li>
+<li><a href="https://www.dzine.ai/?via=wade01" target="_blank" rel="noopener"><strong>Dzine AI Pipeline</strong></a> — Flujo de trabajo con agentes de IA para gestionar proyectos complejos.</li>
+<li><a href="https://creatorimpact.com/free-prompt-formulas/" target="_blank" rel="noopener"><strong>25 FREE AI Art Prompt Formulas</strong></a> — Recurso con fórmulas de prompts para arte con IA.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-Vb1Ek9pMSBw.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

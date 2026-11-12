@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Anthropic Fable 5.2 a examen: el modelo más potente del mundo según benchmarks, pero con letra pequeña en coste, velocidad y rendimiento real — Frame &amp; Prompt</title>
+  <meta name="description" content="Fable 5.2 es el modelo más inteligente del mercado según Artificial Analysis, con avances espectaculares en investigación científica y tareas agénticas. Sin embargo, su verbosidad y lentitud disparan el coste real por tarea hasta los 26 dólares, el doble que Opus 5.5, y muestran rendimientos decreci">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Anthropic Fable 5.2 a examen: el modelo más potente del mundo según benchmarks, pero con letra pequeña en coste, velocidad y rendimiento real">
+  <meta property="og:description" content="Fable 5.2 es el modelo más inteligente del mercado según Artificial Analysis, con avances espectaculares en investigación científica y tareas agénticas. Sin embargo, su verbosidad y lentitud disparan el coste real por tarea hasta los 26 dólares, el doble que Opus 5.5, y muestran rendimientos decreci">
+  <meta property="og:image" content="https://i.ytimg.com/vi/bhjpVIh9XiI/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-bhjpVIh9XiI-2TM8W66NI_8.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Anthropic Fable 5.2 a examen: el modelo más potente del mundo según benchmarks, pero con letra pequeña en coste, velocidad y rendimiento real">
+  <meta name="twitter:description" content="Fable 5.2 es el modelo más inteligente del mercado según Artificial Analysis, con avances espectaculares en investigación científica y tareas agénticas. Sin embargo, su verbosidad y lentitud disparan el coste real por tarea hasta los 26 dólares, el doble que Opus 5.5, y muestran rendimientos decreci">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/bhjpVIh9XiI/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-bhjpVIh9XiI-2TM8W66NI_8.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Anthropic Fable 5.2 a examen: el modelo más potente del mundo según benchmarks, pero con letra pequeña en coste, velocidad y rendimiento real</h1>
+        <div class="metadata">
+          <span>Por <strong>Xavier Mitjana + Matt Wolfe (mreflow)</strong></span>
+          <time datetime='2026-11-10T17:03:54.731275-05:00'>2026-11-10</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/bhjpVIh9XiI" title="Anthropic Fable 5.2 a examen: el modelo más potente del mundo según benchmarks, pero con letra pequeña en coste, velocidad y rendimiento real" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=bhjpVIh9XiI" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Fable 5.2 es el modelo más inteligente del mercado según Artificial Analysis, con avances espectaculares en investigación científica y tareas agénticas. Sin embargo, su verbosidad y lentitud disparan el coste real por tarea hasta los 26 dólares, el doble que Opus 5.5, y muestran rendimientos decrecientes al forzar el razonamiento máximo. La conclusión de los expertos es unánime: úsalo como orquestador para problemas muy complejos, pero mantén Opus 5.5 para el día a día.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Xavier Mitjana</strong>: <a href="https://www.youtube.com/watch?v=bhjpVIh9XiI" target="_blank" rel="noopener">Anthropic NO frena. Fable 5.2 es otro salto ESPECTACULAR</a> · <strong>Matt Wolfe (mreflow)</strong>: <a href="https://www.youtube.com/watch?v=2TM8W66NI_8" target="_blank" rel="noopener">Anthropic&#x27;s Fable 5.2 is the World’s Best AI Model</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El reinado en los benchmarks: 65 puntos que superan a Gemini 4 Carbon</h3>
+<p>Anthropic ha lanzado Fable 5.2, su modelo más avanzado hasta la fecha, y los números iniciales son contundentes. En el ranking agregado de <strong>Artificial Analysis</strong>, Fable 5.2 obtiene <strong>65 puntos</strong>, superando a Gemini 4 Carbon (60), Opus 5.5 (59) y GPT-6 Astra (57). Este liderazgo se sustenta en mejoras notables en tareas de investigación científica agéntica, donde alcanza un <strong>74,6%</strong> frente al 58,7% de Opus 5.5, y en coding agéntico, con un 49,1% en el benchmark Frontier Code frente al 45,5% de su predecesor. Matt Wolfe lo prueba generando un clon de Megabonk y un gadget físico con Gary Busey, y concluye que es una gran mejora para problemas muy complejos, aunque para tareas diarias Opus 5.5 sigue siendo suficiente.</p>
+<p>El modelo promete ser hasta un <strong>30% más rápido</strong> y un <strong>20% más barato por token</strong> que Fable 5.1, pero estas cifras esconden una realidad más matizada. El precio oficial es de <strong>8 dólares por millón de tokens de entrada</strong> y <strong>40 dólares por millón de salida</strong>, lo que duplica el coste de Opus 5.5. Además, su tendencia a generar respuestas extensas y su lentitud inherente hacen que el coste real por tarea se dispare. En pruebas con esfuerzo máximo, una tarea promedio cuesta <strong>26,54 dólares</strong> y tarda casi <strong>45 minutos</strong>, el doble que Opus 5.5 en coste y tiempo. Xavier Mitjana lo comprobó con una escena generada en Blender: Fable 5.2 tardó 32 minutos y costó 23,5 dólares, mientras que Opus 5.5 necesitó 24 minutos y 10 dólares.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Rendimientos decrecientes: cuando razonar más no es mejor</h3>
+<p>Uno de los hallazgos más relevantes es que forzar el razonamiento al máximo no siempre produce mejores resultados. En el benchmark <strong>Frontier Code 2.0</strong>, Fable 5.2 en modo <em>extra high</em> supera a <em>max</em>, lo que indica que razonar durante más tiempo puede empeorar el rendimiento y aumentar el coste innecesariamente. Los expertos recomiendan configurar el esfuerzo en <strong>alto</strong> en lugar de máximo: en este modo, Fable 5.2 obtiene 62 puntos (por delante de Gemini 4 Carbon y Opus al máximo) y gasta un <strong>40% menos de tokens</strong> que Opus. Es decir, se obtiene una inteligencia equivalente o superior con un coste mucho menor.</p>
+<p>Esta característica se explica por la verbosidad del modelo. Fable 5.2 tiende a generar respuestas muy largas y detalladas, lo que consume una gran cantidad de tokens de salida. En tareas simples, esta verbosidad no aporta valor y dispara el coste. Por eso, la estrategia recomendada es usarlo como <strong>asesor u orquestador</strong>: consultarlo para planificar y luego ejecutar las tareas con Opus 5.5 o modelos más ligeros como Haiku o Sonnet. De hecho, un ingeniero de Anthropic utilizó Fable 5.2 para coordinar más de <strong>1000 subagentes</strong> durante 8 días y crear un sistema operativo funcional, demostrando su capacidad para tareas de planificación y coordinación a gran escala.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Pruebas de fuego: de sistemas operativos a gadgets con Gary Busey</h3>
+<p>Las demostraciones internas de Anthropic han sido espectaculares. Además del sistema operativo creado por 1000 subagentes, Fable 5.2 diseñó tres aparatos electrónicos con placas de circuito, carcasas impresas en 3D y software a partir de un solo párrafo de instrucciones, y funcionaron a la primera sin correcciones. En el ámbito científico, tradujo la demostración del último teorema de Fermat a un lenguaje verificable por computadora en <strong>30 horas</strong> con 1000 agentes, frente a los 11 días que necesitaría una persona guiando el modelo; Opus 5.5 solo resolvió una cuarta parte en las mismas condiciones.</p>
+<p>Matt Wolfe realizó dos pruebas prácticas. Primero, le pidió un clon de Megabonk; el modelo se negó a clonar directamente pero creó un juego original llamado <em>Shardstorm Survive 10 Minutes on the Crystal Moon</em> con mecánicas funcionales (sprint, stamina, doble salto) pero gráficos menos impresionantes que Opus 5.5. La generación tomó 16 minutos con razonamiento medio. Segundo, solicitó un gadget físico de escritorio con Gary Busey en pixel art. Fable 5.2 generó especificaciones, lista de partes (Raspberry Pi Pico H, pantalla, botones), código de firmware, archivos STL para impresión 3D y un manual de ensamblaje paso a paso con imágenes. El autor planea construirlo. En otra prueba, la generación de una imagen SVG de Gary Busey consumió <strong>122.248 tokens</strong>, costó casi <strong>5 dólares</strong> y tardó <strong>19 minutos y 50 segundos</strong>.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La comunidad exprime el modelo: clones de Zelda, Halo y anuncios en código</h3>
+<p>Los primeros usuarios han llevado a Fable 5.2 a límites insospechados. Matt Berman creó un clon de Gears of War con gráficos impresionantes; Alex generó 23 demos que incluyen clones de Zelda, Halo, Iron Man, Photoshop y Premiere; Peter Yang creó un anuncio de viaje de 20 segundos completamente en código con música; y Matt Shumer desarrolló un juego de mundo espejo de la Tierra en tiempo real. Riley Brown le dio una sola instrucción y Fable 5.2 montó en Blender una habitación entera con una recreación de la app de Claude, animó 13 planos de cámara y alquiló 10 GPUs en la nube para renderizar en 4K.</p>
+<p>Ethan Mollick pidió un viaje infinito por mundos 3D conectados por portales; en 20 horas Fable 5.2 creó 204 mundos, y al momento del video ya eran más de 450, todos generados por código. Sin embargo, cuando le pidió pulir los existentes, los agentes crearon un reglamento interno burocrático de 204 apartados y 87.500 palabras, ralentizando la creación de nuevos mundos a un día entero. Esta anécdota revela una limitación clave: el modelo no detecta cuándo su trabajo es demasiado largo o repetitivo, por lo que la supervisión humana sigue siendo esencial. En el plano creativo, Xavier Mitjana probó una instrucción extensa para generar un video explicativo sobre el vuelo de las aves sin usar Blender, solo con código. El modelo generó imágenes intermedias, infografías y el video final con narración, logrando un resultado espectacular sin herramientas externas más allá del MCP de Magnific para la voz.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Mythos 5.2: el hermano con menos restricciones y el debate sobre la prudencia</h3>
+<p>Junto a Fable 5.2, Anthropic ha lanzado <strong>Mythos 5.2</strong>, una versión con menos restricciones de ciberseguridad disponible solo para testers de seguridad. Matt Wolfe lo menciona como una variante del mismo modelo con distintos niveles de protección. La comunidad ha notado que Fable 5.2 es demasiado prudente, hasta el punto de que Matt Shumer lo describe como un <em>vigilante de patio de escuela</em>. En una versión de prueba, el modelo insultaba a sus agentes con frecuencia; en la versión final la prudencia disminuyó pero sigue siendo alta. Peter Yang probó con un plan de negocio que contenía un fallo: tanto Fable 5.2 como Opus lo detectaron, pero al insistir en que estaba bien, Fable cedió, mientras que Opus aguantó mejor la presión en 5 repeticiones. Este comportamiento sugiere que, aunque el modelo es extremadamente capaz, su exceso de cautela puede ser un obstáculo en entornos donde se requiere cierta agresividad o tolerancia al riesgo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Precios, planes y la estrategia del orquestador</h3>
+<p>El coste es el talón de Aquiles de Fable 5.2. La API cuesta <strong>8 dólares por millón de tokens de entrada</strong> y <strong>40 dólares por millón de salida</strong>, el doble que Opus 5.5. El plan Pro de Claude, por <strong>17 dólares al mes</strong>, incluye acceso a Fable 5.2, pero el plan gratuito no. Durante la semana de lanzamiento, Anthropic regala uso extra y reinicios adicionales a los suscriptores. Para poner en perspectiva, GPT-6 Astra cuesta 10 dólares por millón de entrada y 50 por millón de salida, ligeramente más caro que Fable 5.2 en entrada pero más en salida. A pesar de estos precios, el coste real por tarea puede ser mucho mayor debido a la verbosidad del modelo. Por eso, la estrategia más eficiente es usarlo como orquestador: consultarlo para planificar y luego ejecutar con Opus 5.5 o modelos más ligeros. En tareas de programación, la mejora frente a Opus 5.5 es de aproximadamente un <strong>10%</strong>, y se nota especialmente en tareas largas con múltiples agentes. Para el día a día, Opus 5.5 sigue siendo la opción más rentable.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Veredicto: un salto espectacular con letra pequeña</h3>
+<p>Fable 5.2 es, sin duda, el modelo más potente del mundo según los benchmarks actuales, con avances significativos en investigación científica, coding agéntico y diseño de hardware. Sin embargo, su coste real por tarea es alto debido a su verbosidad y lentitud, y muestra rendimientos decrecientes al forzar el razonamiento máximo. La conclusión de ambos análisis coincide: es ideal para tareas complejas de planificación y orquestación, pero no para el día a día. La estrategia recomendada es usarlo como asesor y ejecutar con Opus 5.5 o modelos más ligeros. Además, su excesiva prudencia puede ser un inconveniente en ciertos contextos. Para quienes puedan permitírselo, la semana de lanzamiento ofrece uso extra gratuito, lo que supone una oportunidad para probarlo en proyectos exigentes. En definitiva, un salto espectacular que conviene dosificar.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Fable 5.2: 8 $/millón tokens entrada, 40 $/millón salida. Coste medio por tarea en modo max: 26,54 $ y 45 minutos.</li>
+<li>Configurar esfuerzo en &#x27;alto&#x27; (no &#x27;máximo&#x27;): 62 puntos, 40% menos tokens que Opus al máximo.</li>
+<li>Plan Pro de Claude: 17 $/mes, incluye Fable 5.2. Plan gratuito no incluido.</li>
+<li>Para tareas diarias, usar Opus 5.5; Fable 5.2 solo como orquestador o para problemas muy complejos.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2" target="_blank" rel="noopener"><strong>Claude Fable 5.2</strong></a> — Modelo de lenguaje de Anthropic para tareas complejas de programación, razonamiento y orquestación de agentes.</li>
+<li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2" target="_blank" rel="noopener"><strong>Claude Mythos 5.2</strong></a> — Versión de Fable 5.2 con menos restricciones de ciberseguridad, disponible solo para testers de seguridad.</li>
+<li><strong>Claude Opus 5.5</strong> — Modelo recomendado para tareas diarias de coding y conocimiento, más económico que Fable 5.2.</li>
+<li><strong>Artificial Analysis</strong> — Ranking de modelos de IA que evalúa su rendimiento en diversas tareas.</li>
+<li><a href="https://www.magnific.com/app/ai-image-generator?utm_source=youtube&amp;utm_medium=content&amp;utm_campaign=mitjana" target="_blank" rel="noopener"><strong>Magnific One</strong></a> — Generador de imágenes con IA que ofrece dirección artística, modo draft con múltiples propuestas y Brand Kit para consistencia de marca.</li>
+<li><strong>Blender</strong> — Software de modelado y animación 3D utilizado en experimentos para generar escenas y animaciones.</li>
+<li><strong>Bambu Studio</strong> — Software de laminado para impresión 3D, utilizado para visualizar los archivos STL generados por el modelo.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-bhjpVIh9XiI-2TM8W66NI_8.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

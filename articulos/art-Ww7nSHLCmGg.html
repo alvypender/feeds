@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo crear una animación AI cinematográfica en 3 pasos con Higgsfield y Seedance 2.5 por solo 572 créditos — Frame &amp; Prompt</title>
+  <meta name="description" content="La clave para que una animación AI no parezca genérica no está en el modelo de video, sino en la preparación de assets: character sheets, props y localizaciones que bloquean el estilo visual antes de generar un solo fotograma. Kaye Creates demuestra un flujo de trabajo en tres pasos que combina mood">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo crear una animación AI cinematográfica en 3 pasos con Higgsfield y Seedance 2.5 por solo 572 créditos">
+  <meta property="og:description" content="La clave para que una animación AI no parezca genérica no está en el modelo de video, sino en la preparación de assets: character sheets, props y localizaciones que bloquean el estilo visual antes de generar un solo fotograma. Kaye Creates demuestra un flujo de trabajo en tres pasos que combina mood">
+  <meta property="og:image" content="https://i.ytimg.com/vi/Ww7nSHLCmGg/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-Ww7nSHLCmGg.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo crear una animación AI cinematográfica en 3 pasos con Higgsfield y Seedance 2.5 por solo 572 créditos">
+  <meta name="twitter:description" content="La clave para que una animación AI no parezca genérica no está en el modelo de video, sino en la preparación de assets: character sheets, props y localizaciones que bloquean el estilo visual antes de generar un solo fotograma. Kaye Creates demuestra un flujo de trabajo en tres pasos que combina mood">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/Ww7nSHLCmGg/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-Ww7nSHLCmGg.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo crear una animación AI cinematográfica en 3 pasos con Higgsfield y Seedance 2.5 por solo 572 créditos</h1>
+        <div class="metadata">
+          <span>Por <strong>Kaye Creates</strong></span>
+          <time datetime='2026-11-11T17:06:54.488463-05:00'>2026-11-11</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/Ww7nSHLCmGg" title="Cómo crear una animación AI cinematográfica en 3 pasos con Higgsfield y Seedance 2.5 por solo 572 créditos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=Ww7nSHLCmGg" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La clave para que una animación AI no parezca genérica no está en el modelo de video, sino en la preparación de assets: character sheets, props y localizaciones que bloquean el estilo visual antes de generar un solo fotograma. Kaye Creates demuestra un flujo de trabajo en tres pasos que combina mood boards en Higgsfield Soul, prompts detallados generados por Claude y el modo draft de Seedance 2.5 en 480p para probar física y actuación a bajo costo, con upscaling selectivo a 1080p. El proyecto completo de nueve escenas costó 572.5 créditos, una fracción de lo que cuesta un estudio tradicional, y abre la puerta a vender animaciones a marcas o construir canales faceless.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Kaye Creates</strong>: <a href="https://www.youtube.com/watch?v=Ww7nSHLCmGg" target="_blank" rel="noopener">How to Make AI Animation That Doesn&#x27;t Look Generic (Step-by-Step)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El 90% del éxito está en la preparación: assets que bloquean el estilo</h3>
+<p>La mayoría de las animaciones generadas con IA fracasan porque el creador salta directamente al prompt de video sin haber definido una identidad visual sólida. Kaye Creates, con más de un millón de seguidores en Instagram y más de un año de experiencia en contenido con IA, invierte esa lógica: <strong>el 90% del resultado final depende de la preparación de assets</strong> —character sheets, props y localizaciones— porque si esos elementos no son profesionales, el video será inconsistente sin importar cuántas veces se regenere. El primer paso consiste en recopilar entre 8 y 10 videos de referencia en el estilo deseado, en este caso animación 2D hand-drawn, y pedir a Claude que extraiga <strong>80 screenshots</strong> de esos materiales para construir un mood board en <em>Higgsfield Soul</em>. Ese tablero de referencias se convierte en el ancla estética que se usará en todas las generaciones posteriores, evitando que el modelo derive hacia un look 3D realista o genérico.</p>
+<p>Con el estilo bloqueado, el siguiente movimiento es crear el character sheet del protagonista. El proceso es deliberadamente iterativo: primero se genera el personaje sin adjuntar el rostro del creador para validar que el estilo hand-drawn se mantenga; una vez conseguido, se usa <em>ChatGPT Image</em> para transferir la cara del autor al personaje conservando la estética 2D. Para escribir el prompt descriptivo del vestuario y las facciones, Kaye proporciona a Claude una imagen de referencia y le pide que redacte en lenguaje natural, lo que produce descripciones más ricas que las que se escribirían a mano. Los props y vehículos siguen la misma lógica: hojas de assets individuales que respetan el estilo general. Las localizaciones se generan en lotes de <strong>10 fondos</strong> usando el mismo mood board y descripciones propias de cada lugar, lo que garantiza coherencia cromática y de trazo entre escenas.</p>
+<p>Un experimento revela la importancia de este anclaje: al generar un character sheet de dragón sin referencia de estilo, el modelo entregó un resultado en 3D realista, completamente ajeno al universo 2D hand-drawn. La solución fue usar el character sheet del vikingo como referencia visual para reestilizar el dragón, logrando consistencia. Este tipo de corrección temprana evita que el error se propague a las nueve escenas de video y desperdicie créditos en regeneraciones.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del storyboard a los prompts: dirección de escenas asistida por Claude</h3>
+<p>Con los assets listos, el segundo paso es dirigir cada escena con precisión cinematográfica. Kaye dibuja un esquema simple del storyboard, que puede hacerse en un iPad, y lo sube a Claude junto con un brief detallado que incluye <strong>movimiento de cámara, tipo de plano</strong> (extreme close-up, wide shot, FPV), transiciones, duración exacta de cada escena y efectos de sonido. Claude devuelve <strong>nueve prompts de video listos para usar</strong>, uno por escena, lo que elimina la fricción de escribir instrucciones técnicas desde cero y asegura que ningún detalle del brief se pierda en la traducción al lenguaje del modelo.</p>
+<p>La iteración con Claude es el motor de refinamiento. Cuando una escena no transmite la emoción deseada, Kaye vuelve al asistente con el número de escena y describe los cambios en lenguaje natural; Claude genera un nuevo prompt que se introduce en Seedance. Un caso concreto ocurrió en la escena 6, ambientada en un valle: la primera generación no lograba la calidez y el tono juguetón buscados. Tras ajustar el prompt con Claude, la versión mejorada mostró al dragón escondiéndose tras sus alas y luego asomándose con una sonrisa, lo que elevó la expresividad de la toma. Este método de dirección asistida permite refinar la actuación sin necesidad de conocimientos técnicos de animación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Draft en 480p y upscaling selectivo: la economía de los créditos</h3>
+<p>El tercer paso es donde se materializa el ahorro. En <em>Seedance 2.5</em>, dentro de Higgsfield, se utiliza el modo draft en 480p para probar física, movimiento y actuación con un costo reducido. Si el botón de draft no aparece, basta con seleccionar manualmente la resolución de 480p. Cada draft cuesta <strong>15 créditos</strong> y en el proyecto se realizaron <strong>11 drafts</strong>, lo que suma 165 créditos. Solo cuando el movimiento está validado se upscala la toma ganadora a 1080p con el botón de upscale, a un costo de <strong>45 créditos</strong> por toma. Se hicieron <strong>9 upscales</strong>, equivalentes a 405 créditos. La regla es clara: no rehacer tomas innecesariamente; primero se validan las nueve escenas en 480p y después se invierte en la calidad final solo en las ganadoras.</p>
+<p>El desglose completo del proyecto arroja un total de <strong>572.5 créditos</strong>. La generación de assets —character sheets, props y las 10 localizaciones— consumió apenas <strong>18.875 créditos</strong>, mientras que la generación de video acaparó 570 créditos entre drafts y upscales. Esta distribución demuestra que la preparación visual es extraordinariamente barata en comparación con el costo de generar video, lo que refuerza la tesis inicial: invertir tiempo en los assets es la decisión más rentable del flujo. Para quienes buscan monetizar, el autor señala que las marcas pagan a creadores por animaciones AI que generan millones de vistas, y el bajo costo por proyecto permite márgenes atractivos tanto en encargos comerciales como en canales faceless.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Edición final y el contraste con la producción tradicional</h3>
+<p>Los clips upscalados se editan en el editor de preferencia, donde se añaden música y efectos de sonido para completar la pieza. El flujo completo —desde el mood board hasta el render final— puede completarse en horas o días, en contraste con los meses y las decenas de miles de dólares que exige un estudio de animación tradicional. Esa velocidad no sacrifica calidad si se respetan los tres pasos: preparación de assets, dirección de escenas con prompts detallados y validación económica en draft antes del upscaling. La conclusión práctica es que la animación AI cinematográfica ya no depende de un modelo milagroso, sino de un proceso disciplinado que trata la generación como una cadena de producción donde cada eslabón protege la consistencia visual.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Costo por draft en 480p: 15 créditos; costo por upscale a 1080p: 45 créditos.</li>
+<li>Fórmula de ahorro: validar las 9 escenas en draft y upscalar solo las ganadoras.</li>
+<li>Los assets (character sheets, props y 10 localizaciones) cuestan menos de 19 créditos frente a los 570 del video.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://higgsfield.ai/s/kaye-ai-animation-kaye-creatives-IPncoG" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma de generación de imágenes y video con IA; incluye Soul, Seoul Cinema y Seedance 2.5.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video dentro de Higgsfield con modo draft en 480p y upscale a 1080p.</li>
+<li><strong>Claude</strong> — Asistente de IA para generar prompts de personajes, escenas y videos a partir de briefs e imágenes.</li>
+<li><strong>ChatGPT Image</strong> — Modelo de imagen usado para transferir el rostro del creador al character sheet manteniendo el estilo hand-drawn.</li>
+<li><strong>Soul</strong> — Herramienta de Higgsfield para crear mood boards y anclar el estilo visual.</li>
+<li><strong>Seoul Cinema</strong> — Herramienta de Higgsfield para generar fondos y localizaciones consistentes.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-Ww7nSHLCmGg.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

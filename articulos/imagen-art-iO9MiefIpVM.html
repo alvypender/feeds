@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Guía para principiantes: crea videos con IA en 2026 con Higgsfield, Seedance 2.5 y trucos para ahorrar créditos — Frame &amp; Prompt</title>
+  <meta name="description" content="La generación de video con IA ya no es un juguete para expertos: con el flujo correcto, cualquiera puede producir clips consistentes y profesionales. La clave está en invertir primero en imágenes de referencia baratas (hojas de personaje, localizaciones y objetos), elegir el modelo adecuado para cad">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Guía para principiantes: crea videos con IA en 2026 con Higgsfield, Seedance 2.5 y trucos para ahorrar créditos">
+  <meta property="og:description" content="La generación de video con IA ya no es un juguete para expertos: con el flujo correcto, cualquiera puede producir clips consistentes y profesionales. La clave está en invertir primero en imágenes de referencia baratas (hojas de personaje, localizaciones y objetos), elegir el modelo adecuado para cad">
+  <meta property="og:image" content="https://i.ytimg.com/vi/iO9MiefIpVM/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-iO9MiefIpVM.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Guía para principiantes: crea videos con IA en 2026 con Higgsfield, Seedance 2.5 y trucos para ahorrar créditos">
+  <meta name="twitter:description" content="La generación de video con IA ya no es un juguete para expertos: con el flujo correcto, cualquiera puede producir clips consistentes y profesionales. La clave está en invertir primero en imágenes de referencia baratas (hojas de personaje, localizaciones y objetos), elegir el modelo adecuado para cad">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/iO9MiefIpVM/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-iO9MiefIpVM.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Guía para principiantes: crea videos con IA en 2026 con Higgsfield, Seedance 2.5 y trucos para ahorrar créditos</h1>
+        <div class="metadata">
+          <span>Por <strong>Dan Kieft</strong></span>
+          <time datetime='2026-11-10T17:09:48.884077-05:00'>2026-11-10</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/iO9MiefIpVM" title="Guía para principiantes: crea videos con IA en 2026 con Higgsfield, Seedance 2.5 y trucos para ahorrar créditos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=iO9MiefIpVM" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La generación de video con IA ya no es un juguete para expertos: con el flujo correcto, cualquiera puede producir clips consistentes y profesionales. La clave está en invertir primero en imágenes de referencia baratas (hojas de personaje, localizaciones y objetos), elegir el modelo adecuado para cada tarea y exprimir modos draft y referencias para no fundir créditos. Dan Kieft demuestra que la consistencia de voz y la transferencia de movimiento con Genjutsu son los últimos obstáculos, pero tienen solución.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Dan Kieft</strong>: <a href="https://www.youtube.com/watch?v=iO9MiefIpVM" target="_blank" rel="noopener">How To Start Making AI Videos in 2026 (Beginner Guide)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La base de todo: assets consistentes antes de gastar en video</h3>
+<p>Antes de lanzarse a generar video, Dan Kieft insiste en una regla de oro: las imágenes son baratas, el video es caro. Por eso, el primer paso de cualquier proyecto es construir una biblioteca de assets visuales que sirvan como referencia. Esto incluye una hoja de personaje (character sheet), una hoja de localización y una hoja de objetos o productos. La idea es tener múltiples ángulos y expresiones del mismo sujeto para que la IA mantenga la coherencia en las distintas escenas.</p>
+<p>Para el personaje, Higgsfield ofrece la función <strong>AI Cast</strong> dentro de Cinema Studio. Con un prompt descriptivo como «mujer estadounidense de 26 años, cola de caballo rubia, complexión delgada, vestido oscuro simple, tacones altos» y resolución 2K, se obtiene una hoja con dos poses de cuerpo completo (frontal y trasera) y un primer plano del rostro. El coste es irrisorio: <strong>0.125 créditos</strong> por generación. Kieft recomienda usar un LLM para redactar el prompt detallado: se le da una plantilla (tres paneles verticales con el mismo personaje) y la descripción, y devuelve el texto listo para pegar.</p>
+<p>Para localizaciones, la función <strong>Cinematic Locations</strong> del mismo estudio es gratuita y genera resultados realistas. Basta con incluir el tipo de plano en el prompt, por ejemplo «vista amplia de 3/4», para que la IA entienda la composición. Aunque la precisión no siempre es perfecta, sirve como base y luego se puede refinar con otros modelos. Para objetos o productos, Kieft sugiere modelos como <strong>GPT Image 2.5</strong>, <strong>Nano Banana 2.1</strong> o <strong>GPT 2.5 Flare</strong>, que captan bien el contexto. Especificar múltiples vistas (frontal, lateral, superior) y un fondo gris neutro evita sobreexposiciones y facilita el recorte.</p>
+<p>La recomendación es no escatimar en créditos para imágenes: cuestan entre 1 y 5 créditos por generación y permiten probar varios modelos hasta dar con el resultado deseado. De hecho, Kieft compara hojas de personaje generadas con cuatro modelos (Nano Banana Pro, Nano Banana 2.1, GPT 2.5 Flare y GPT 2.5 Sunburst) y concluye que cada uno ofrece un estilo distinto; lo mejor es elegir el que más guste. Para la hoja de producto, probó GPT 2.5 Flare, GPT 2.5 Sunburst, Nano Banana 2.1 y GPT 2.5 Pro con una tarta de 300K suscriptores, y todos generaron múltiples vistas aceptables.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del texto al prompt: cómo pedirle a un LLM que escriba el video por ti</h3>
+<p>Con los assets listos, el siguiente paso es construir el prompt de video. Kieft propone una estructura fija que incluye: objetivo, referencias de personajes, descripción de la escena, etapas (shots), estilo visual, audio y una nota de consistencia. Para no escribir esto desde cero cada vez, implementa un LLM con una «skill» o archivo de prompt predefinido que genera automáticamente el texto a partir de una idea. Incluso se puede dictar la idea con <strong>Whisper Flow</strong>, que transcribe la voz a texto y lo inserta en el prompt.</p>
+<p>El proceso es iterativo: se le da feedback detallado al LLM sobre lo que no gusta y se le pide que ajuste el prompt hasta obtener el resultado deseado. Esta iteración es clave porque el modelo de video no entiende de intenciones, solo de instrucciones precisas. Kieft recomienda ser específico con las referencias: por ejemplo, «image one es Dan», «image two es Bruiser», para que el modelo sepa qué asset corresponde a cada elemento.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Elegir el modelo adecuado: Seedance 2.5 y alternativas</h3>
+<p>Higgsfield no ata a un solo modelo, y esa es una de sus ventajas. Para texto a video, Kieft recomienda <strong>Seedance 2.5</strong> por su calidad y control, aunque menciona alternativas como <strong>Kling 4</strong> (próximo a lanzarse), <strong>Minimax H3 Max</strong> y <strong>Flux 3</strong>. La elección depende del tipo de escena y del presupuesto de créditos. Para reference-to-video, Seedance 2.5 también funciona bien, pero requiere subir todos los assets y conectar cada referencia con su número de imagen en el prompt.</p>
+<p>Un truco fundamental para ahorrar créditos es usar el <strong>modo draft</strong> (480p) para probar la idea. Si el resultado gusta, se upscalea a 1080p. Así se evita gastar en resoluciones altas desde el principio. Kieft muestra un ejemplo de texto a video de 12 segundos en modo draft: el primer intento tuvo fallos (el sonido del timbre no coincidía con el intercomunicador, la apertura de la puerta era ilógica), pero eso es normal; se itera el prompt y se regenera. En reference-to-video, un clip de 30 segundos con múltiples assets (personaje, robot, gángsters, localización, huevo Kinder) también presentó problemas de voz: la voz generada no coincidía con la del autor y sonaba como Vin Diesel. Kieft lo atribuye al entrenamiento del modelo con películas de Hollywood.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Consistencia de voz: el truco del MP4 con fondo negro</h3>
+<p>La voz es uno de los mayores desafíos. Para solucionarlo, Kieft propone grabar las líneas de voz con el propio teléfono, convertirlas a <strong>MP4 con fondo negro</strong> (no MP3) y usarlas como referencia de audio en una nueva generación. En el prompt se indica «match video one for every spoken line» para que el modelo imite esa voz. El resultado mejoró notablemente la coincidencia. ¿Por qué MP4 y no MP3? Porque el modelo de video espera una pista de video, aunque sea un fondo estático, y así interpreta mejor la referencia.</p>
+<p>Este método es especialmente útil en escenas con diálogo. Kieft lo probó en el clip de reference-to-video y logró que la voz se pareciera más a la suya. Es un paso adicional, pero evita el efecto «voz de doblaje» que delata a los videos generados por IA.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Transferencia de movimiento con Genjutsu: viralidad con responsabilidad</h3>
+<p>La guía cierra con una introducción a <strong>Genjutsu</strong>, una herramienta de transferencia de movimiento que aplica el movimiento de un video de referencia a los personajes generados. El proceso es sencillo: se sube un video de referencia de movimiento y las hojas de personaje, y la herramienta hace el resto. Kieft lo prueba con un video propio y el resultado es convincente: los personajes cobran vida con movimientos realistas.</p>
+<p>Sin embargo, advierte sobre los derechos de autor: recomienda grabar el video uno mismo para evitar usar contenido ajeno. Esta herramienta es ideal para crear contenido viral, pero siempre con material original. Con esto, el flujo completo queda cerrado: assets consistentes, prompting asistido por LLM, elección de modelo, ahorro de créditos y trucos para voz y movimiento.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Las imágenes cuestan entre 1 y 5 créditos; las hojas de personaje con AI Cast solo 0.125 créditos. Invierte primero en imágenes.</li>
+<li>Usa modo draft (480p) para probar y upscalear a 1080p solo si el resultado convence.</li>
+<li>Para consistencia de voz, graba tus líneas y súbelas como MP4 con fondo negro, no MP3.</li>
+<li>En el prompt, referencia cada asset por su número de imagen: «image one es Dan», «image two es Bruiser».</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="http://dankieft.com/higgsfield" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma todo en uno para generación de imágenes y videos con IA, con acceso a múltiples modelos y herramientas como AI Cast, Cinematic Locations y Genjutsu.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video a partir de texto o referencias, recomendado por su calidad y control.</li>
+<li><strong>Kling 4</strong> — Modelo de video próximo a lanzarse, mencionado como alternativa.</li>
+<li><strong>Minimax H3 Max</strong> — Modelo de video alternativo con buena calidad.</li>
+<li><strong>Flux 3</strong> — Modelo de video alternativo.</li>
+<li><strong>Nano Banana Pro / Nano Banana 2.1</strong> — Modelos de imagen para generar assets con buen entendimiento de contexto.</li>
+<li><strong>GPT Image 2.5 (Sunburst/Flare)</strong> — Modelos de imagen para generar hojas de producto con múltiples vistas.</li>
+<li><strong>Genjutsu</strong> — Herramienta de transferencia de movimiento que aplica el movimiento de un video de referencia a personajes generados.</li>
+<li><strong>Whisper Flow</strong> — Herramienta de dictado por voz que transcribe y transforma la voz en texto para prompts.</li>
+<li><a href="https://www.skool.com/nextgenai" target="_blank" rel="noopener"><strong>Skool - NextGenAI</strong></a> — Comunidad gratuita donde se comparten prompts y se discute sobre IA.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-iO9MiefIpVM.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

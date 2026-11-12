@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MIT usa GPT-6 Astra para leer y reparar los pesos de otras redes neuronales: de identificar juegos a disparar el rendimiento matemático de Qwen del 8% al 48% — Frame &amp; Prompt</title>
+  <meta name="description" content="El MIT ha demostrado que GPT-6 Astra puede inspeccionar los pesos de una red neuronal y deducir en qué juego fue entrenada, editar esos pesos para corregir fallos de comportamiento y desbloquear capacidades matemáticas en Qwen, elevando su tasa de acierto del 8% al 48%. Sin embargo, el éxito no es u">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="MIT usa GPT-6 Astra para leer y reparar los pesos de otras redes neuronales: de identificar juegos a disparar el rendimiento matemático de Qwen del 8% al 48%">
+  <meta property="og:description" content="El MIT ha demostrado que GPT-6 Astra puede inspeccionar los pesos de una red neuronal y deducir en qué juego fue entrenada, editar esos pesos para corregir fallos de comportamiento y desbloquear capacidades matemáticas en Qwen, elevando su tasa de acierto del 8% al 48%. Sin embargo, el éxito no es u">
+  <meta property="og:image" content="https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-GJ6PMUm5oTA.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="MIT usa GPT-6 Astra para leer y reparar los pesos de otras redes neuronales: de identificar juegos a disparar el rendimiento matemático de Qwen del 8% al 48%">
+  <meta name="twitter:description" content="El MIT ha demostrado que GPT-6 Astra puede inspeccionar los pesos de una red neuronal y deducir en qué juego fue entrenada, editar esos pesos para corregir fallos de comportamiento y desbloquear capacidades matemáticas en Qwen, elevando su tasa de acierto del 8% al 48%. Sin embargo, el éxito no es u">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-GJ6PMUm5oTA.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">MIT usa GPT-6 Astra para leer y reparar los pesos de otras redes neuronales: de identificar juegos a disparar el rendimiento matemático de Qwen del 8% al 48%</h1>
+        <div class="metadata">
+          <span>Por <strong>Two Minute Papers</strong></span>
+          <time datetime='2026-11-08T07:07:25.824796-05:00'>2026-11-08</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/GJ6PMUm5oTA" title="MIT usa GPT-6 Astra para leer y reparar los pesos de otras redes neuronales: de identificar juegos a disparar el rendimiento matemático de Qwen del 8% al 48%" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=GJ6PMUm5oTA" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El MIT ha demostrado que GPT-6 Astra puede inspeccionar los pesos de una red neuronal y deducir en qué juego fue entrenada, editar esos pesos para corregir fallos de comportamiento y desbloquear capacidades matemáticas en Qwen, elevando su tasa de acierto del 8% al 48%. Sin embargo, el éxito no es universal: con Gemma 3 no hubo mejoras significativas. Las tres hazañas se lograron en experimentos separados y con modelos pequeños, no como un proceso unificado. La técnica, bautizada como &#x27;weight space programming&#x27;, promete una nueva forma de interactuar con modelos, pero los medios han sobredimensionado sus resultados.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Two Minute Papers</strong>: <a href="https://www.youtube.com/watch?v=GJ6PMUm5oTA" target="_blank" rel="noopener">OpenAI&#x27;s Astra Just Opened The Black Box Of AI</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Weight Space Programming: la nueva frontera de la interpretabilidad</h3>
+<p>La idea de que un modelo de lenguaje pueda inspeccionar directamente los pesos de otra red neuronal y comprender su estructura interna parecía ciencia ficción hasta hace poco. Investigadores del MIT han publicado un trabajo que demuestra que <strong>GPT-6 Astra</strong>, el modelo de OpenAI, es capaz de analizar el conjunto de pesos de una red entrenada para jugar y determinar con precisión a qué juego corresponde: <em>Breakout</em>, <em>Pong</em> o una versión simplificada de <em>Pac-Man</em>. Lo notable es que Astra no ejecuta el modelo ni observa su comportamiento; simplemente examina los números que definen las conexiones sinápticas. Esta capacidad de &#x27;leer&#x27; los pesos abre una ventana a la caja negra de la IA, permitiendo auditar y entender qué ha aprendido una red sin necesidad de inferencia.</p>
+<p>El trabajo, que el canal <em>Two Minute Papers</em> desglosa con detalle, va más allá de la mera identificación. Los investigadores lograron que Astra <strong>editara los pesos</strong> para corregir comportamientos defectuosos. En un entorno de conducción autónoma simulado, un coche se quedaba atascado en una rampa; tras la intervención de Astra, que localizó y modificó las conexiones responsables, el vehículo superó el obstáculo. Este tipo de &#x27;cirugía cerebral&#x27; selectiva sugiere que los modelos pueden ser reparados sin reentrenamiento, algo impensable hasta ahora. La técnica se ha denominado <strong>weight space programming</strong> y se está construyendo un benchmark específico para comparar su eficacia en distintos escenarios.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El experimento con Qwen: de bucles de razonamiento a un salto del 8% al 48%</h3>
+<p>El resultado más llamativo se produjo con <strong>Qwen</strong>, un modelo de lenguaje de pesos abiertos. En una prueba de resolución de problemas matemáticos, Qwen acertaba aproximadamente el <strong>8%</strong> de las tareas. Astra analizó los pesos y detectó que el modelo entraba en <em>bucles de razonamiento</em>: repetía una y otra vez los mismos pasos sin avanzar. No era un problema de falta de conocimiento, sino de un patrón de pensamiento circular. Astra identificó las rutas responsables de ese bucle y las suprimió editando los pesos. El resultado fue un aumento drástico: la tasa de acierto se elevó hasta el <strong>48%</strong>. Es importante subrayar que Astra no &#x27;enseñó&#x27; matemáticas a Qwen; simplemente desbloqueó capacidades que ya estaban latentes, eliminando un defecto de razonamiento.</p>
+<p>Este hallazgo tiene implicaciones profundas para el diseño de modelos y la depuración de sistemas de IA. En lugar de recurrir a costosos reentrenamientos con más datos, bastaría con identificar y corregir los circuitos defectuosos. Sin embargo, el proceso no es automático ni trivial: requirió probar el modelo repetidamente, observar dónde se desviaba y localizar los componentes específicos. Además, el éxito con Qwen no se replicó con <strong>Gemma 3</strong>, otro modelo de lenguaje. Astra intentó mejorar su rendimiento matemático, pero no logró avances significativos. Esto indica que la técnica funciona en casos estrechos y depende de la arquitectura y del tipo de fallo, y que aún no es una solución universal.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Tres capacidades, tres experimentos separados: leer, reparar y mejorar</h3>
+<p>Uno de los malentendidos que el video aclara es que las tres funciones demostradas —leer los pesos, reparar comportamientos y mejorar el rendimiento— se lograron en <strong>experimentos separados</strong> y con configuraciones personalizadas para cada modelo pequeño. No se trata de un proceso unificado que Astra ejecute de forma autónoma de principio a fin. En cada caso, los investigadores tuvieron que adaptar el enfoque: para identificar el juego, Astra analizó los pesos de una red entrenada con refuerzo; para reparar el coche, localizó las conexiones responsables del atasco; y para mejorar Qwen, diagnosticó los bucles de razonamiento. Esta fragmentación es crucial para entender el alcance real del trabajo: es una prueba de concepto, no un producto listo para usar.</p>
+<p>Otro punto que a menudo se pasa por alto es que Astra también puede <strong>generar desde cero</strong> una red neuronal que juega, sin necesidad de entrenamiento por refuerzo ni de prueba y error. Es decir, el modelo de lenguaje escribe directamente los pesos de una red funcional. Esto supone un cambio de paradigma potencial: en lugar de entrenar redes con algoritmos de optimización, se podrían &#x27;programar&#x27; especificando su comportamiento en lenguaje natural. No obstante, los investigadores advierten que esta capacidad también se demostró en un contexto limitado y con modelos pequeños, y que aún queda mucho camino para generalizarla a redes de gran escala.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Límites y expectativas: lo que los medios exageraron</h3>
+<p>El video de <em>Two Minute Papers</em> hace hincapié en que los titulares que afirman que Astra &#x27;enseña matemáticas&#x27; o &#x27;repara cualquier red&#x27; son exagerados. El trabajo del MIT es impresionante, pero sus resultados son acotados: se centran en redes pequeñas, en tareas específicas y con intervención humana para configurar el proceso. La falta de mejoras con Gemma 3 es un recordatorio de que la técnica no es mágica. Además, el hecho de que se esté desarrollando un <strong>benchmark específico</strong> para weight space programming sugiere que la comunidad científica quiere medir su robustez y compararla con otros métodos antes de declararla revolucionaria.</p>
+<p>A pesar de las limitaciones, el potencial es enorme. Si se lograra automatizar y generalizar, el weight space programming podría transformar la forma en que depuramos, auditamos y mejoramos los modelos de IA. Imaginemos poder corregir sesgos, eliminar comportamientos indeseados o desbloquear habilidades simplemente editando los pesos, sin necesidad de grandes conjuntos de datos ni de costosos reentrenamientos. Por ahora, es una línea de investigación emergente que merece seguimiento, pero conviene mantener los pies en la tierra: lo que se ha demostrado es una prueba de concepto fascinante, no una solución universal.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Astra identifica el juego de entrenamiento de una red (Breakout, Pong, Pac-Man simplificado) analizando solo sus pesos, sin ejecutarla.</li>
+<li>Para reparar un comportamiento defectuoso, Astra localiza las rutas responsables y edita los pesos para suprimirlas, como una cirugía selectiva.</li>
+<li>En Qwen, el problema eran bucles de razonamiento repetitivos; Astra los detectó probando el modelo y suprimió las rutas, elevando el acierto matemático del 8% al 48%.</li>
+<li>Las tres capacidades (leer, reparar, mejorar) se demostraron en experimentos separados y con modelos pequeños; no son un proceso unificado automático.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://rikiyat.github.io/blog/weight-space-programming/" target="_blank" rel="noopener"><strong>Weight Space Programming (MIT)</strong></a> — Trabajo de investigación sobre lectura, reparación y mejora de pesos de redes neuronales mediante GPT-6 Astra.</li>
+<li><a href="https://lambda.com/papers" target="_blank" rel="noopener"><strong>Lambda GPU Cloud</strong></a> — Plataforma de GPUs NVIDIA para entrenamiento e inferencia; patrocinador del video.</li>
+<li><strong>GPT-6 Astra</strong> — Modelo de OpenAI utilizado para inspeccionar y editar los pesos de otras redes.</li>
+<li><strong>Qwen</strong> — Modelo de lenguaje open weights usado como sujeto de prueba para la mejora matemática.</li>
+<li><strong>Gemma 3</strong> — Modelo de lenguaje usado como caso de prueba donde Astra no logró mejoras significativas.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-GJ6PMUm5oTA.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

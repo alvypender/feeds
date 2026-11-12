@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NVIDIA Motion Bricks: IA generativa de movimiento procedural para personajes de videojuegos y robots humanoides — Frame &amp; Prompt</title>
+  <meta name="description" content="NVIDIA ha presentado Motion Bricks, un sistema de IA que genera movimiento procedural para personajes de videojuegos y robots sin animación manual. Entrenado con 700 horas de captura de movimiento real, permite especificar destino y estilo (caminar como zombi, saltar, cojear) y produce variaciones n">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="NVIDIA Motion Bricks: IA generativa de movimiento procedural para personajes de videojuegos y robots humanoides">
+  <meta property="og:description" content="NVIDIA ha presentado Motion Bricks, un sistema de IA que genera movimiento procedural para personajes de videojuegos y robots sin animación manual. Entrenado con 700 horas de captura de movimiento real, permite especificar destino y estilo (caminar como zombi, saltar, cojear) y produce variaciones n">
+  <meta property="og:image" content="https://i.ytimg.com/vi/jKjir4-HmQI/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-jKjir4-HmQI.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="NVIDIA Motion Bricks: IA generativa de movimiento procedural para personajes de videojuegos y robots humanoides">
+  <meta name="twitter:description" content="NVIDIA ha presentado Motion Bricks, un sistema de IA que genera movimiento procedural para personajes de videojuegos y robots sin animación manual. Entrenado con 700 horas de captura de movimiento real, permite especificar destino y estilo (caminar como zombi, saltar, cojear) y produce variaciones n">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/jKjir4-HmQI/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-jKjir4-HmQI.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">NVIDIA Motion Bricks: IA generativa de movimiento procedural para personajes de videojuegos y robots humanoides</h1>
+        <div class="metadata">
+          <span>Por <strong>Matt Wolfe (mreflow)</strong></span>
+          <time datetime='2026-11-08T17:01:32.915179-05:00'>2026-11-08</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/jKjir4-HmQI" title="NVIDIA Motion Bricks: IA generativa de movimiento procedural para personajes de videojuegos y robots humanoides" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=jKjir4-HmQI" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">NVIDIA ha presentado Motion Bricks, un sistema de IA que genera movimiento procedural para personajes de videojuegos y robots sin animación manual. Entrenado con 700 horas de captura de movimiento real, permite especificar destino y estilo (caminar como zombi, saltar, cojear) y produce variaciones naturales en cada interacción. Ya se probó con éxito en el robot humanoide Unitree G1 y su código está disponible públicamente, lo que podría transformar la producción de animaciones en mundos abiertos y robótica.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Matt Wolfe (mreflow)</strong> (Short): <a href="https://www.youtube.com/shorts/jKjir4-HmQI" target="_blank" rel="noopener">This controls games characters AND robots</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Qué es Motion Bricks y cómo funciona</h3>
+<p>Motion Bricks es un sistema de inteligencia artificial desarrollado por NVIDIA que genera movimientos procedurales para personajes de videojuegos y robots humanoides. A diferencia de la animación tradicional, donde cada acción se diseña manualmente, este sistema permite especificar un destino y un estilo de movimiento —por ejemplo, caminar como zombi, saltar o cojear— y la IA calcula automáticamente la secuencia de movimiento adaptándose a cada situación. El sistema se entrenó con aproximadamente 700 horas de captura de movimiento real, lo que le permite producir animaciones realistas y variadas sin intervención humana.</p>
+<p>La clave está en su capacidad para generar variaciones naturales en las interacciones. Por ejemplo, al agarrar una espada, el personaje lo hace de forma ligeramente distinta cada vez, evitando la repetición mecánica que delata a los videojuegos. Esto se logra gracias al aprendizaje de patrones de movimiento a partir de datos reales, que luego se combinan de manera procedural para crear secuencias únicas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Aplicaciones en videojuegos y robótica</h3>
+<p>En el ámbito de los videojuegos, Motion Bricks promete revolucionar la producción de animaciones, especialmente en títulos de mundo abierto. Juegos populares como Assassin&#x27;s Creed pueden contener alrededor de 15,000 movimientos animados manualmente, un proceso costoso y lento. Con este sistema, los desarrolladores podrían generar movimientos dinámicos y variados con solo especificar parámetros, acelerando enormemente el desarrollo y permitiendo una mayor riqueza de comportamientos.</p>
+<p>Pero el alcance de Motion Bricks va más allá del entretenimiento. El mismo sistema se ha probado en el robot humanoide Unitree G1, que logró moverse por una oficina y gatear en cuatro patas, demostrando la transferencia del entorno virtual al físico. Esta capacidad de adaptación sugiere un futuro donde los robots puedan aprender y ejecutar movimientos complejos de manera autónoma, con aplicaciones en logística, asistencia doméstica y exploración.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Disponibilidad y potencial transformador</h3>
+<p>El código de Motion Bricks ya está publicado y disponible para su uso, lo que podría acelerar su adopción tanto en la industria de los videojuegos como en la robótica. La combinación de un entrenamiento masivo con datos reales y una interfaz sencilla para especificar estilo y destino lo convierte en una herramienta accesible para desarrolladores e investigadores. Aunque no se han anunciado precios ni planes comerciales, la disponibilidad abierta sugiere un enfoque colaborativo que podría impulsar rápidamente la innovación en animación procedural y control de robots.</p>
+<p>En definitiva, Motion Bricks representa un paso importante hacia la generación automática de movimiento realista, eliminando la necesidad de animación manual y abriendo posibilidades para entornos virtuales más dinámicos y robots más ágiles. Su éxito dependerá de cómo se integre en flujos de trabajo existentes y de la comunidad que se forme alrededor de su código abierto.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Especifica destino y estilo de movimiento (caminar como zombi, saltar, cojear) para que la IA genere la animación.</li>
+<li>El sistema produce variaciones naturales en interacciones como agarrar una espada, evitando repetición.</li>
+<li>Entrenado con ~700 horas de captura de movimiento real; código disponible públicamente.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Motion Bricks</strong> — Sistema de IA de NVIDIA que genera movimientos procedurales para personajes de videojuegos y robots sin animación manual.</li>
+<li><strong>Unitree G1</strong> — Robot humanoide utilizado para probar el sistema Motion Bricks en entornos reales.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-jKjir4-HmQI.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

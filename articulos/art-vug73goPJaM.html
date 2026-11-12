@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>La IA ya reconstruye software desde cero: del 15% al 100% en 9 meses y clonación de Photoshop con un 95% menos de código — Frame &amp; Prompt</title>
+  <meta name="description" content="La reconstrucción automática de software ha dejado de ser una promesa: un sistema de IA pasó de aprobar el 15% de las pruebas a casi el 100% en solo nueve meses, y otro logró replicar páginas web con una similitud visual de 0.938 usando un 95% menos de código. El avance es tan rápido que ya se plant">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="La IA ya reconstruye software desde cero: del 15% al 100% en 9 meses y clonación de Photoshop con un 95% menos de código">
+  <meta property="og:description" content="La reconstrucción automática de software ha dejado de ser una promesa: un sistema de IA pasó de aprobar el 15% de las pruebas a casi el 100% en solo nueve meses, y otro logró replicar páginas web con una similitud visual de 0.938 usando un 95% menos de código. El avance es tan rápido que ya se plant">
+  <meta property="og:image" content="https://i.ytimg.com/vi/vug73goPJaM/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-vug73goPJaM.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="La IA ya reconstruye software desde cero: del 15% al 100% en 9 meses y clonación de Photoshop con un 95% menos de código">
+  <meta name="twitter:description" content="La reconstrucción automática de software ha dejado de ser una promesa: un sistema de IA pasó de aprobar el 15% de las pruebas a casi el 100% en solo nueve meses, y otro logró replicar páginas web con una similitud visual de 0.938 usando un 95% menos de código. El avance es tan rápido que ya se plant">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/vug73goPJaM/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-vug73goPJaM.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">La IA ya reconstruye software desde cero: del 15% al 100% en 9 meses y clonación de Photoshop con un 95% menos de código</h1>
+        <div class="metadata">
+          <span>Por <strong>Two Minute Papers</strong></span>
+          <time datetime='2026-11-10T17:03:44.731275-05:00'>2026-11-10</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/vug73goPJaM" title="La IA ya reconstruye software desde cero: del 15% al 100% en 9 meses y clonación de Photoshop con un 95% menos de código" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=vug73goPJaM" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La reconstrucción automática de software ha dejado de ser una promesa: un sistema de IA pasó de aprobar el 15% de las pruebas a casi el 100% en solo nueve meses, y otro logró replicar páginas web con una similitud visual de 0.938 usando un 95% menos de código. El avance es tan rápido que ya se plantea clonar funcionalidades de Photoshop o Final Cut Pro, aunque los derechos de autor sobre assets y las restricciones de laboratorios como Anthropic marcan los límites legales. El software no ha terminado, pero el auge de aplicaciones personalizadas generadas por IA es inminente.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Two Minute Papers</strong>: <a href="https://www.youtube.com/watch?v=vug73goPJaM" target="_blank" rel="noopener">Is Software Over?</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del 15% al 100%: la curva que está redefiniendo la ingeniería inversa</h3>
+<p>El punto de partida de esta historia es <strong>MirrorCode</strong>, una investigación que aborda un problema clásico de la ingeniería de software: reconstruir un programa completo sin acceso a su código fuente. El método es tan simple como potente: se utiliza el software original como <em>oráculo de verdad fundamental</em>. La IA genera una versión candidata, se ejecuta y se compara su comportamiento con el original; las discrepancias alimentan una nueva iteración. Lo relevante no es solo el enfoque, sino la velocidad de mejora: un sistema pasó de aprobar el <strong>15% de las pruebas a casi el 100% en nueve meses</strong>, y los modelos empleados en ese salto ya se consideran antiguos. Los nuevos, según el análisis, son aún mejores.</p>
+<p>La clave de esta aceleración está en los datos de entrenamiento. Existe una fuente casi infinita de pares <em>código fuente + aplicación funcional</em> en repositorios de código abierto. Al clonar un repositorio y ejecutar la aplicación, se obtiene automáticamente un ejemplo de entrenamiento. Esa disponibilidad masiva permite que los modelos aprendan a mapear comportamiento observable a implementación, sin necesidad de entender cada línea de código original. El resultado es un ciclo de retroalimentación que convierte la reconstrucción de software en un problema de optimización iterativa, no en un ejercicio artesanal.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Modelos pequeños, precisión quirúrgica: el caso REMEND</h3>
+<p>No todo es escala masiva. <strong>REMEND</strong> demuestra que un modelo de apenas <strong>12 millones de parámetros</strong> puede recuperar ecuaciones matemáticas con una precisión cercana al <strong>90%</strong> en tests diseñados específicamente para ello. La tarea consiste en inferir reglas matemáticas a partir de observaciones del comportamiento de un software sin código fuente. Este resultado es relevante por dos motivos: primero, porque sugiere que la reconstrucción de funcionalidad no siempre requiere modelos gigantescos; segundo, porque abre la puerta a herramientas locales y eficientes para tareas de ingeniería inversa en entornos con recursos limitados.</p>
+<p>La implicación práctica es directa: si un modelo pequeño puede recuperar la lógica matemática subyacente de una aplicación, entonces la barrera para clonar funcionalidades específicas se reduce drásticamente. Ya no se trata solo de replicar la interfaz, sino de reconstruir el núcleo computacional que hace que el software sea útil. Eso es lo que separa una copia cosmética de un clon funcional.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">WebUI-95: clonar la apariencia con una fracción del código</h3>
+<p>El otro frente de avance es visual. La investigación <strong>WebUI-95</strong> logró reconstruir páginas web a partir de su apariencia con una <strong>similitud visual de 0.938</strong>, un valor que en la práctica equivale a una copia casi indistinguible para el ojo humano. Lo llamativo es que la versión generada utiliza un <strong>95% menos de código</strong> que el original. ¿Cómo se explica? La IA no replica la maraña de anuncios, rastreadores y scripts heredados; genera una implementación limpia que reproduce el resultado visual y funcional.</p>
+<p>Este enfoque tiene consecuencias inmediatas para el desarrollo web. Por un lado, permite crear versiones más ligeras y rápidas de sitios existentes. Por otro, plantea un escenario en el que la apariencia y el comportamiento observable se convierten en la especificación de facto, y el código se convierte en un detalle de implementación que la IA puede regenerar. La pregunta ya no es si se puede clonar una interfaz, sino qué queda del valor del código original cuando la funcionalidad y la estética pueden reproducirse con una fracción del esfuerzo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Photoshop, Final Cut Pro y el límite legal de los assets</h3>
+<p>El análisis lleva la extrapolación al terreno de las aplicaciones profesionales: si la IA puede reconstruir funcionalidad y apariencia, ¿por qué no clonar Photoshop o Final Cut Pro? La respuesta técnica es que la tendencia apunta en esa dirección, y el repositorio <strong>Photocraft</strong> se menciona como un ejemplo de reconstrucción visual y edición de imágenes mediante IA. Sin embargo, aquí aparece el obstáculo legal. Los tribunales han dictaminado que la <strong>funcionalidad del software no está necesariamente protegida por derechos de autor</strong>, pero los modelos, texturas y personajes sí pueden estarlo. Es decir, se puede recrear la capacidad de editar imágenes, pero no copiar los assets propietarios que hacen reconocible a una aplicación.</p>
+<p>A esto se suma la política de los laboratorios. <strong>Anthropic actualizó Claude 5.5 Opus</strong> para desalentar la recreación de juegos existentes, e incluso rechaza tareas legítimas de ingeniería inversa. Esa restricción refuerza la importancia de los <em>modelos locales y de código abierto</em> para quienes necesitan realizar estas tareas sin depender de políticas de uso que pueden cambiar. El equilibrio entre capacidad técnica y límites legales será el campo de batalla de los próximos años.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El software no ha terminado, pero el valor de las herramientas estándar se diluye</h3>
+<p>La conclusión del análisis es matizada: decir que <em>el software ha terminado</em> es dramático, pero la capacidad de la IA para recrear funcionalidad y apariencia está aumentando a un ritmo que probablemente permita crear variantes personalizadas de aplicaciones como Photoshop o Final Cut Pro. El auge del <strong>software personalizado generado por IA</strong> no implica la desaparición del software tradicional, sino la multiplicación de alternativas adaptadas a necesidades concretas.</p>
+<p>La pregunta de fondo es qué ocurre con las habilidades en herramientas estándar de la industria. Si la IA puede reconstruir la funcionalidad de una aplicación profesional con una fracción del código y del esfuerzo, el valor de dominar una herramienta concreta se desplaza hacia la capacidad de definir qué se quiere construir y cómo evaluarlo. El software no está acabado; lo que está cambiando es quién —o qué— escribe el código y cuánto tiempo se dedica a replicar lo que ya existe.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Regla de entrenamiento: cada repositorio de código abierto clonado y ejecutado se convierte en un par (código fuente + app funcional) para entrenar modelos de reconstrucción.</li>
+<li>Dato legal clave: la funcionalidad del software no está necesariamente protegida por derechos de autor; los modelos, texturas y personajes sí pueden estarlo.</li>
+<li>Métrica de referencia: similitud visual de 0.938 con un 95% menos de código en reconstrucción de páginas web (WebUI-95).</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://arxiv.org/abs/2606.30182" target="_blank" rel="noopener"><strong>MirrorCode</strong></a> — Investigación sobre reconstrucción de software completo sin código fuente (del 15% al casi 100% de pruebas en 9 meses).</li>
+<li><a href="https://huggingface.co/udiboy1209/REMEND" target="_blank" rel="noopener"><strong>REMEND</strong></a> — Modelo de 12M de parámetros que recupera ecuaciones matemáticas con ~90% de precisión a partir de observaciones de software.</li>
+<li><a href="https://tommasocalo.github.io/papers/26-webui95-chiea.pdf" target="_blank" rel="noopener"><strong>WebUI-95</strong></a> — Reconstrucción de páginas web desde su apariencia visual con similitud 0.938 y 95% menos de código.</li>
+<li><a href="https://github.com/storytold/photocraft" target="_blank" rel="noopener"><strong>Photocraft</strong></a> — Repositorio relacionado con reconstrucción visual y edición de imágenes mediante IA.</li>
+<li><a href="https://lambda.com/papers" target="_blank" rel="noopener"><strong>Lambda GPU Cloud</strong></a> — Plataforma de GPUs en la nube para entrenar modelos, hacer fine-tuning e inferencia.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-vug73goPJaM.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
