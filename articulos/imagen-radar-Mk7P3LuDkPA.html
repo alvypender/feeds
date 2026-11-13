@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo estructurar un prompt de dirección en Seedance 2.5: secuencia de 7 imágenes, macro industrial y transiciones por swipe sin morphings — Frame &amp; Prompt</title>
+  <meta name="description" content="El creador muestra en un Short cómo plantea a Seedance 2.5 un prompt de dirección de vídeo para un anuncio de producto con estética macro industrial. La clave está en describir el propósito, el estilo de cámara (vibración, movimientos rápidos, sin slow-mo, seguimiento continuo), prohibir explícitame">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo estructurar un prompt de dirección en Seedance 2.5: secuencia de 7 imágenes, macro industrial y transiciones por swipe sin morphings">
+  <meta property="og:description" content="El creador muestra en un Short cómo plantea a Seedance 2.5 un prompt de dirección de vídeo para un anuncio de producto con estética macro industrial. La clave está en describir el propósito, el estilo de cámara (vibración, movimientos rápidos, sin slow-mo, seguimiento continuo), prohibir explícitame">
+  <meta property="og:image" content="https://i.ytimg.com/vi/Mk7P3LuDkPA/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-radar-Mk7P3LuDkPA.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo estructurar un prompt de dirección en Seedance 2.5: secuencia de 7 imágenes, macro industrial y transiciones por swipe sin morphings">
+  <meta name="twitter:description" content="El creador muestra en un Short cómo plantea a Seedance 2.5 un prompt de dirección de vídeo para un anuncio de producto con estética macro industrial. La clave está en describir el propósito, el estilo de cámara (vibración, movimientos rápidos, sin slow-mo, seguimiento continuo), prohibir explícitame">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/Mk7P3LuDkPA/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-radar-Mk7P3LuDkPA.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo estructurar un prompt de dirección en Seedance 2.5: secuencia de 7 imágenes, macro industrial y transiciones por swipe sin morphings</h1>
+        <div class="metadata">
+          <span>Por <strong>Wide Silvente</strong></span>
+          <time datetime='2026-11-12T17:09:22.684842-05:00'>2026-11-12</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/Mk7P3LuDkPA" title="Cómo estructurar un prompt de dirección en Seedance 2.5: secuencia de 7 imágenes, macro industrial y transiciones por swipe sin morphings" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=Mk7P3LuDkPA" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.65; ">
+
+<div style="margin-bottom: 1.3em; padding-bottom: 0.8em; border-bottom: 1px dashed #ddd;"><p><a href="https://www.youtube.com/shorts/Mk7P3LuDkPA" target="_blank" rel="noopener">Ver en YouTube: Cómo le explico a Seedance 2.5 el anuncio que quiero (Wide Silvente [Short])</a></p><p>El creador muestra en un Short cómo plantea a Seedance 2.5 un prompt de dirección de vídeo para un anuncio de producto con estética macro industrial. La clave está en describir el propósito, el estilo de cámara (vibración, movimientos rápidos, sin slow-mo, seguimiento continuo), prohibir explícitamente morphings y disoluciones, y sustituirlos por seguimiento de cámara y swipes rápidos. Además, asigna a cada una de las 7 imágenes de referencia un momento concreto de la secuencia y añade una imagen genérica del producto para mantener la consistencia y evitar que el modelo invente partes. El resultado, según el autor, respeta la secuencia y cada proceso descrito.</p>
+<ul>
+<li>Definir primero el propósito del vídeo (creación del producto) antes de describir planos.</li>
+<li>Especificar el estilo visual: vista macro industrial con vibración y movimientos rápidos.</li>
+<li>Prohibir explícitamente lo que no se quiere: &#x27;sin slow-mo&#x27;, &#x27;no quiero morphings de plano&#x27;, &#x27;no quiero disoluciones entre planos&#x27;.</li>
+<li>Prueba de dirección por prompt largo: el autor describe propósito, estilo de cámara, transiciones permitidas y prohibidas, y una secuencia de 7 imágenes de referencia con función asignada.</li>
+<li>Resultado: Seedance 2.5 respeta la secuencia descrita y cada momento/proceso coincide con las imágenes de referencia aportadas.</li>
+</ul>
+</div>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-radar-Mk7P3LuDkPA.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

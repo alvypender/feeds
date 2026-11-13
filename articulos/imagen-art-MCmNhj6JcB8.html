@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude Opus 5.5 crea un juego completo para Steam en 2 días y por 50 dólares: código en JavaScript, arte con Rangy, modelos 3D con Meshy y audio con ElevenLabs — Frame &amp; Prompt</title>
+  <meta name="description" content="Pouya Eti ha demostrado que se puede crear un videojuego para Steam sin escribir una línea de código y sin motor de juego, usando Claude Opus 5.5 dentro de Claude Code. En solo dos días y con un gasto de unos 50 dólares, generó &#x27;Just One More Star&#x27;, un juego completo con 244 imágenes, modelos 3D, mú">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Opus 5.5 crea un juego completo para Steam en 2 días y por 50 dólares: código en JavaScript, arte con Rangy, modelos 3D con Meshy y audio con ElevenLabs">
+  <meta property="og:description" content="Pouya Eti ha demostrado que se puede crear un videojuego para Steam sin escribir una línea de código y sin motor de juego, usando Claude Opus 5.5 dentro de Claude Code. En solo dos días y con un gasto de unos 50 dólares, generó &#x27;Just One More Star&#x27;, un juego completo con 244 imágenes, modelos 3D, mú">
+  <meta property="og:image" content="https://i.ytimg.com/vi/MCmNhj6JcB8/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-MCmNhj6JcB8.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude Opus 5.5 crea un juego completo para Steam en 2 días y por 50 dólares: código en JavaScript, arte con Rangy, modelos 3D con Meshy y audio con ElevenLabs">
+  <meta name="twitter:description" content="Pouya Eti ha demostrado que se puede crear un videojuego para Steam sin escribir una línea de código y sin motor de juego, usando Claude Opus 5.5 dentro de Claude Code. En solo dos días y con un gasto de unos 50 dólares, generó &#x27;Just One More Star&#x27;, un juego completo con 244 imágenes, modelos 3D, mú">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/MCmNhj6JcB8/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-MCmNhj6JcB8.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude Opus 5.5 crea un juego completo para Steam en 2 días y por 50 dólares: código en JavaScript, arte con Rangy, modelos 3D con Meshy y audio con ElevenLabs</h1>
+        <div class="metadata">
+          <span>Por <strong>Pouya Eti</strong></span>
+          <time datetime='2026-11-12T17:10:22.684842-05:00'>2026-11-12</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/MCmNhj6JcB8" title="Claude Opus 5.5 crea un juego completo para Steam en 2 días y por 50 dólares: código en JavaScript, arte con Rangy, modelos 3D con Meshy y audio con ElevenLabs" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=MCmNhj6JcB8" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Pouya Eti ha demostrado que se puede crear un videojuego para Steam sin escribir una línea de código y sin motor de juego, usando Claude Opus 5.5 dentro de Claude Code. En solo dos días y con un gasto de unos 50 dólares, generó &#x27;Just One More Star&#x27;, un juego completo con 244 imágenes, modelos 3D, música y efectos de sonido. El flujo conecta Claude con Rangy, Meshy y ElevenLabs mediante MCP y claves API, y el resultado ya tiene una demo de 2-3 niveles lista para Steam.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Pouya Eti</strong>: <a href="https://www.youtube.com/watch?v=MCmNhj6JcB8" target="_blank" rel="noopener">How I&#x27;m Making a Steam Game With AI (Claude Code, No Game Engine, $50 So Far)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El experimento: un juego sin motor y sin código</h3>
+<p>Pouya Eti, desarrollador y creador de contenido, se propuso un reto ambicioso: construir un videojuego completo para Steam sin utilizar un motor gráfico tradicional como Unity o Unreal, y sin escribir código manualmente. Su única herramienta de programación sería <strong>Claude Opus 5.5</strong>, el modelo de lenguaje de Anthropic, ejecutándose dentro de <strong>Claude Code</strong>, la extensión de VS Code que permite al agente escribir y modificar archivos directamente en el proyecto.</p>
+<p>El juego resultante, bautizado como <em>Just One More Star</em>, es un título de acción y plataformas en el que controlamos a un personaje con un gancho y una cadena. La premisa es sencilla pero efectiva: enganchar enemigos, lanzarlos por los aires o estamparlos contra paredes y edificios. El objetivo es claro: demostrar que con las herramientas de IA actuales se puede crear un producto vendible con una inversión mínima y en tiempo récord.</p>
+<p>El proceso completo se documentó en un vídeo donde Eti muestra cada paso, desde la instalación de Claude Code hasta la generación de la demo que planea subir a Steam. La clave del éxito no fue pedirle a Claude que hiciera el juego entero de una vez, sino trabajar de forma iterativa: describir la idea, jugar cada build de prueba y dar instrucciones concretas sobre qué conservar y qué cambiar. Este enfoque de conversación continua permitió refinar el <em>game feel</em> y ajustar detalles que marcan la diferencia.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Configuración del entorno: Claude Code y el poder de MCP</h3>
+<p>El primer paso fue instalar <strong>Claude Code</strong> como extensión en Visual Studio Code. El proceso es sencillo: abrir VS Code, ir a la sección de extensiones, buscar &#x27;Claude Code&#x27;, instalarla e iniciar sesión con una cuenta de Anthropic. Una vez activa, se abre un chat lateral donde se le pueden dar instrucciones al agente. Como alternativa, Eti menciona que también se puede usar la aplicación de escritorio de Claude, aunque la integración con VS Code facilita la gestión de archivos y la ejecución del código.</p>
+<p>La verdadera potencia del flujo reside en el <strong>Model Context Protocol (MCP)</strong>, un estándar que permite a Claude conectarse a aplicaciones externas. En este caso, Eti utilizó MCP para enlazar Claude con <strong>Rangy</strong>, su propia aplicación de generación de imágenes por IA. El proceso es tan simple como instalar y abrir la app de Rangy en Mac o Windows; Claude detecta el servidor MCP y puede enviar solicitudes de generación de imágenes directamente, aprovechando los precios más bajos del mercado.</p>
+<p>Para las demás herramientas, Claude no accede directamente al código de las APIs por motivos de privacidad, pero sí puede utilizarlas si se le proporciona una clave guardada en un archivo local. Eti creó un archivo con la API key de <strong>Meshy</strong> y le indicó a Claude que podía leerlo para conectarse y generar modelos 3D. Lo mismo hizo con <strong>ElevenLabs</strong> para la generación de audio. Esta estrategia permite que el agente orqueste múltiples servicios sin exponer las credenciales en el código.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Generación de arte: 244 imágenes y el salto al 3D</h3>
+<p>Con el entorno listo, Claude comenzó a generar los assets visuales. Primero creó los conceptos de personajes, enemigos, objetos, texturas y edificios como imágenes 2D utilizando Rangy. En total, se generaron aproximadamente <strong>244 imágenes</strong>, de las cuales Eti seleccionó las mejores para convertirlas en modelos 3D. Este paso intermedio es crucial: permite iterar rápidamente sobre el diseño antes de invertir tiempo y recursos en la geometría tridimensional.</p>
+<p>La conversión a 3D se realizó con <strong>Meshy</strong>, una plataforma que transforma imágenes o prompts en modelos 3D. Claude, usando la API key almacenada, envió las imágenes seleccionadas y descargó los modelos resultantes. Eti muestra cómo el edificio principal del concepto 2D aparece en el juego con el mismo diseño, material y colores, lo que valida la fidelidad del pipeline. Además, se le indicó explícitamente a Claude que podía usar <strong>Blender</strong> si necesitaba crear o modificar modelos, y el agente abrió el software gratuito para realizar ajustes según convenía.</p>
+<p>El coste de esta fase fue de <strong>10 dólares</strong> para las imágenes con Rangy y <strong>10 dólares</strong> para el plan de Meshy. Una inversión mínima si se compara con la contratación de artistas o la compra de assets en tiendas digitales, y que además otorga una coherencia visual completa al juego.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Audio dinámico: música, efectos y páginas de revisión</h3>
+<p>La banda sonora y los efectos de sonido se generaron con <strong>ElevenLabs</strong>. Claude recibió instrucciones de crear música distinta para cada nivel, situación, batalla y pelea contra jefes. Además, se exigió que todas las pistas musicales tuvieran una parte de <em>loop</em> para que el jugador no percibiera la repetición. Los efectos incluyen sonidos como pasos sobre hierba al caminar o correr, y la voz de un <em>announcer</em> que narra los eventos del juego.</p>
+<p>Una de las innovaciones del flujo fue la generación automática de <strong>páginas de revisión de audio</strong>. Claude creó interfaces web donde Eti podía escuchar cada sonido generado y marcarlo como &#x27;keep&#x27; o &#x27;redo&#x27; antes de integrarlo en el juego. Esta funcionalidad demuestra la capacidad del agente para no solo generar contenido, sino también construir herramientas de control de calidad que facilitan la curaduría humana.</p>
+<p>El coste del audio fue de <strong>9,20 dólares</strong> para la música, <strong>1,71 dólares</strong> para los efectos y <strong>0,05 dólares</strong> para la voz del announcer. En total, menos de 11 dólares por un paquete de audio completo y personalizado.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Refinando el &#x27;game feel&#x27;: la conversación como herramienta de diseño</h3>
+<p>El primer resultado no fue el definitivo. Eti dedica una parte importante del vídeo a mostrar cómo iteró con Claude para mejorar el <em>game feel</em>. Por ejemplo, le pidió que los enemigos se destrozaran al golpear paredes, o que el gancho cambiara de aspecto y se alargara al mejorar. Estas peticiones se traducen en ajustes de código que Claude implementa y prueba en tiempo real.</p>
+<p>El diseño del juego se centra en un gancho y una cadena: enganchar enemigos, lanzarlos fuera o estamparlos contra paredes y edificios. Los enemigos disparan bombas y hay un jefe con armadura pesada que debe ser arrancada por capas. Para que el jugador pueda ajustar la experiencia, se incluyó un menú de ajustes con volúmenes separados de ambiente, efectos, música y master, además de la posibilidad de desactivar sonidos para comprobar la mezcla.</p>
+<p>Este enfoque de conversación continua es clave para obtener un resultado pulido. No se trata de pedir el juego completo de una vez, sino de construir sobre versiones funcionales y dar instrucciones específicas. Claude actúa como un programador y diseñador que responde a las indicaciones del humano, que mantiene el control creativo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Costes, lanzamiento en Steam y expectativas</h3>
+<p>El coste total del experimento fue de <strong>30,96 dólares</strong> en APIs (10 de Rangy, 10 de Meshy, 9,20 de ElevenLabs para música, 1,71 para efectos y 0,05 para la voz). Sumando el plan de Claude de 20 dólares, la inversión asciende a unos <strong>50 dólares</strong> y dos días de trabajo. Una cifra ridícula si se compara con los presupuestos habituales de desarrollo de videojuegos.</p>
+<p>El plan de lanzamiento es subir primero una <strong>demo de 2-3 niveles</strong> a Steam para captar <em>wishlists</em> y luego publicar el juego completo a un precio de <strong>2-4 dólares</strong>. Steam cobra una tasa de <strong>100 dólares</strong> por juego, que se reembolsa tras alcanzar los 1.000 dólares en ventas. Eti confía en que el juego genere ingresos suficientes para recuperar la inversión y obtener beneficios.</p>
+<p>La conclusión del vídeo es optimista: el sistema permite crear un videojuego, hacer marketing con vídeos y aspirar a miles de dólares de ingresos con una inversión de unos 50 dólares. Si bien el resultado no es un <em>AAA</em>, sí es un producto vendible y funcional que demuestra el potencial de las herramientas de IA actuales para democratizar la creación de videojuegos.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Coste total: 30,96 USD en APIs + 20 USD de plan Claude = ~50 USD; tiempo: 2 días.</li>
+<li>Steam cobra 100 USD por juego, reembolsables tras 1.000 USD en ventas.</li>
+<li>Precio previsto del juego completo: 2-4 USD; demo inicial de 2-3 niveles.</li>
+<li>Claude Code se instala como extensión de VS Code; MCP conecta Claude con Rangy; las API keys se guardan en archivos locales.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://claude.com/claude-code" target="_blank" rel="noopener"><strong>Claude Code</strong></a> — Extensión de VS Code que permite a Claude Opus 5.5 escribir y modificar el código del juego.</li>
+<li><strong>Claude Opus 5.5</strong> — Modelo de lenguaje que generó todo el código, orquestó las APIs y creó las páginas de revisión.</li>
+<li><a href="https://www.rangy.ai/" target="_blank" rel="noopener"><strong>Rangy</strong></a> — App de generación de imágenes por IA conectada vía MCP; generó 244 imágenes para el juego.</li>
+<li><a href="https://www.meshy.ai/" target="_blank" rel="noopener"><strong>Meshy</strong></a> — Plataforma de conversión de imágenes a modelos 3D; se usó vía API para crear los assets tridimensionales.</li>
+<li><a href="https://elevenlabs.io/" target="_blank" rel="noopener"><strong>ElevenLabs</strong></a> — Generación de música, efectos de sonido y voz del announcer para el juego.</li>
+<li><a href="https://www.blender.org/" target="_blank" rel="noopener"><strong>Blender</strong></a> — Software 3D gratuito que Claude puede abrir y usar para modificar modelos.</li>
+<li><strong>VS Code</strong> — Editor de código donde se instala Claude Code y se gestiona el proyecto.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-MCmNhj6JcB8.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

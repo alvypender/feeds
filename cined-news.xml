@@ -3,7 +3,117 @@
 <title>News | CineD – Completo</title>
 <link href="https://www.cined.com/news/"/>
 <id>https://www.cined.com/news/</id>
-<updated>2026-11-12T11:15:47+00:00</updated>
+<updated>2026-11-12T12:43:14+00:00</updated>
+<entry>
+  <title>Blackmagic Ambisonic Microphone Announced – 7th Order Ambisonics, 108 MEMS Microphones, Single USB-C Cable</title>
+  <link href="https://www.cined.com/blackmagic-ambisonic-microphone-announced-7th-order-ambisonics-108-mems-microphones-single-usb-c-cable/"/>
+  <id>https://www.cined.com/blackmagic-ambisonic-microphone-announced-7th-order-ambisonics-108-mems-microphones-single-usb-c-cable/</id>
+  <published>2026-11-12T12:43:14+00:00</published>
+  <updated>2026-11-12T12:43:14+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-featured-16x9-1.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-featured-16x9-1.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-featured-16x9-1.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-featured-16x9-1.jpg</webfeeds:featuredImage>
+  <summary>Blackmagic Design has announced the Blackmagic Ambisonic Microphone, a 7th order ambisonic microphone with 108 digital MEMS capsules in a faceted metal sphere. The encoding to 64-channel ambisonics happens inside the microphone, and one USB-C cable carries both audio and power to</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-featured-16x9-1.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Blackmagic Design has announced the Blackmagic Ambisonic Microphone, a 7th order ambisonic microphone with 108 digital MEMS capsules in a faceted metal sphere. The encoding to 64-channel ambisonics happens inside the microphone, and one USB-C cable carries both audio and power to the URSA Cine Immersive, a computer running Fairlight Live, or an iPhone. It ships in December for $1,695.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;So here it is, and it did not come out of nowhere. Blackmagic Design worked with Apple on the &lt;a href="https://www.cined.com/blackmagic-design-ursa-cine-immersive-camera-for-vision-pro-spacial-videos-announced/" target="_blank" rel="noopener"&gt;URSA Cine Immersive&lt;/a&gt; for Apple Immersive Video, and that camera has since been used on productions from a &lt;a href="https://www.cined.com/shooting-a-rocket-launch-in-apple-immersive-video-with-the-ursa-cine-immersive/" target="_blank" rel="noopener"&gt;rocket launch&lt;/a&gt; to the &lt;a href="https://www.cined.com/inside-debut-at-the-bbc-proms-director-ian-russell-on-filming-classical-music-for-apple-vision-pro/" target="_blank" rel="noopener"&gt;BBC Proms&lt;/a&gt;. The picture side of immersive production has had a dedicated camera for a while. The sound side has mostly relied on separate ambisonic microphones, separate recorders and a lot of post work. The new microphone is Blackmagic&amp;#8217;s answer to that gap, and it is built on Apple technology.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand-900x506.jpg" alt="" class="wp-image-447142" srcset="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-stand.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Blackmagic Ambisonic Microphone. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Apple&amp;#8217;s array, Blackmagic&amp;#8217;s hardware&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/media/release/20261111-01" target="_blank" rel="noopener"&gt;press release&lt;/a&gt;&amp;nbsp;is unusually open about who did what. &amp;#8220;Apple licensed their array geometry and the ambisonic encoding filters, we did the engineering and design,&amp;#8221; says Grant Petty, Blackmagic Design CEO. According to Grant, the idea came when he first heard high resolution spatial audio during the work on the URSA Cine Immersive: &amp;#8220;it was like hearing an acoustic reality, I was totally blown away.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The 108 MEMS microphones sit flush in a solid, faceted body. The product page calls it rugged aluminum, and Blackmagic says the microphone is small enough to fit in the palm of a hand and to mount on top of a camera. Blackmagic has not published dimensions or weight yet (Blackmagic, a full tech specs page with dimensions, self-noise and maximum SPL would help a lot here).&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product-900x506.jpg" alt="" class="wp-image-447146" srcset="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-product.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The microphone with the Blackmagic Ambisonic Microphone Mount. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Why 7th order is a big step&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Most ambisonic microphones that filmmakers know are first order. The&amp;nbsp;&lt;a href="https://www.cined.com/sony-ecm-ax10-spatial-audio-microphone-for-smartphones-announced-four-capsules-ambisonics-and-binaural-eclipsa-audio-export/" target="_blank" rel="noopener"&gt;Sony ECM-AX10&lt;/a&gt;&amp;nbsp;we covered last month uses four capsules and records four channels of first-order AmbiX, and that is also the usual format of tetrahedral location microphones. A 7th order signal has 64 channels, and the higher order gives a much more precise position for each sound source when the recording is decoded for headphones or a speaker array. The teaser on the Blackmagic website lists &amp;#8220;108 microphones, 64 channels, 32-bit audio.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The important part for me is where the encoding happens. An internal processor runs Apple&amp;#8217;s encoding filters and converts the signals from all 108 capsules to 7th order ambisonics in real time. There is no breakout box and no A-format to B-format conversion step in post. The microphone is USB class compliant, so it needs no drivers or plug-ins either.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Three ways to record&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Blackmagic names three hosts. On the URSA Cine Immersive, you mount the microphone on top of the camera, plug in the USB-C cable, and the spatial audio records directly into the camera&amp;#8217;s immersive files, in sync with the picture. On a computer,&amp;nbsp;&lt;a href="https://www.cined.com/blackmagic-design-goes-all-in-on-100g-at-nab-2026-ursa-cine-12k-lf-100g-ursa-cine-immersive-100g-fairlight-live-and-more/" target="_blank" rel="noopener"&gt;Fairlight Live&lt;/a&gt;&amp;nbsp;records and mixes the signal in real time, and the company says it supports &amp;#8220;live mixing in true 3D audio.&amp;#8221; The third option is the&amp;nbsp;&lt;a href="https://www.cined.com/blackmagic-camera-app-3-3-for-ios-apple-watch-atem-focus-zoom-control/" target="_blank" rel="noopener"&gt;Blackmagic Camera app&lt;/a&gt;, which records the microphone directly on an iPhone.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page-900x506.jpg" alt="" class="wp-image-447154" srcset="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-record-page.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The record page of Blackmagic Ambisonic Recorder. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;There is also a fourth piece of software that the press release does not mention. Blackmagic Ambisonic Recorder for macOS is already available as a beta download on the&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/products/blackmagicambisonic" target="_blank" rel="noopener"&gt;product page&lt;/a&gt;. According to Blackmagic, it records and plays back 7th order ambisonic files and has a power map, level metering, spatial monitoring, orientation settings and metadata. The screenshots show upright, inverted and endfire orientation, fields for camera, reel, shot and take, and files in 64 channels at 48kHz and 24-bit with AmbiX ACN encoding. My guess is that the &amp;#8220;32-bit audio&amp;#8221; on the teaser refers to the internal processing and not to the recorded files, but that is only a guess until Blackmagic publishes full specifications. A test recording in the same format is available on the product page too, so you can load it into your own spatial audio tools before you order.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page-900x506.jpg" alt="" class="wp-image-447150" srcset="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-recorder-playback-page.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The playback page shows a power map and head-tracked monitoring. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Broadcast and live immersive audio&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The microphone fits a strategy that Blackmagic showed at NAB this year, with the URSA Cine Immersive 100G for live Apple Immersive Video and Fairlight Live as a free software mixer for formats up to full immersive and ASAF spatial audio. A USB to SMPTE-2110 converter for broadcast workflows is also announced, but Blackmagic gives no price or date for it. For live sports or concerts in Apple Immersive, that converter is probably the missing link between a microphone on a camera and an IP mixing setup.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter-900x506.jpg" alt="" class="wp-image-447158" srcset="https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/blackmagic-fairlight-live-ambisonic-meter.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Fairlight Live with its ambisonic meter. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What we do not know yet&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;There are open questions. Blackmagic has not published self-noise, maximum SPL, frequency response, dimensions or weight. The microphone does not record on its own, so it always needs a host: a camera, a computer or a phone. Blackmagic Ambisonic Recorder is a macOS beta, and Blackmagic does not mention a Windows version. And the post-production side of 7th order audio is a separate question. The teaser names DaVinci Resolve Studio as the &amp;#8220;editor,&amp;#8221; but how far the Fairlight page in Resolve handles 64-channel ambisonics is something we want to look at when we have a unit.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The price is the surprise for me. $1,695 for a 7th order array with built-in encoding is far below what I expected for a product made with Apple&amp;#8217;s licensed technology. For URSA Cine Immersive owners, it looks like an obvious add-on. For VR producers and sound designers who work with first-order microphones today, it is a serious alternative.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Blackmagic Ambisonic Microphone will be available in December 2026 for $1,695, excluding local duties and taxes, from Blackmagic Design resellers. It includes the Blackmagic Ambisonic Microphone Mount. In Europe, Blackmagic lists €1,475, and in the UK £1,305, both before VAT. The Blackmagic Ambisonic Microphone Kit adds a windshield for location work and a locking USB-C cable. Blackmagic lists the kit for €1,925 or £1,659 before VAT, and for $2,405 on its US website, which includes duties. At the time of writing, B&amp;amp;H and CVP do not list the microphone yet.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield-900x506.jpg" alt="" class="wp-image-447162" srcset="https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-windshield.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The Blackmagic Ambisonic Microphone Kit includes a windshield. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Will you record spatial audio for your next immersive project, or does ambisonics stay a niche for VR and sound design? Let me know what you think in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>NANLITE Rapid Square, Rectangular and Octagonal Softboxes Announced – Bowens Mount, Eggcrate Included, Plus a 10cm NANLUX Diffusion Ball</title>
   <link href="https://www.cined.com/nanlite-rapid-square-rectangular-and-octagonal-softboxes-announced-bowens-mount-eggcrate-included-plus-a-10cm-nanlux-diffusion-ball/"/>
@@ -1503,131 +1613,5 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you think that XTRA&amp;#8217;s offering is actually DJI products under a different brand?  Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>DaVinci Resolve 21.2 Released – PROLED XDR Touch Support, Gen 6 Color Science LUTs, Up to 5x Faster Rendering on M5 Pro and M5 Max</title>
-  <link href="https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/"/>
-  <id>https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/</id>
-  <published>2026-11-06T10:53:45+00:00</published>
-  <updated>2026-11-06T10:53:45+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/download-2.jpg"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/11/download-2.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/download-2.jpg"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/download-2.jpg</webfeeds:featuredImage>
-  <summary>Blackmagic Design has released DaVinci Resolve 21.2, and the headline item is support for Apple’s new MacBook Pro with PROLED XDR touch screen. The update also adds support for Blackmagic Generation 6 Color Science LUTs and film looks, and Blackmagic claims up to 5x faster render</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/download-2.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Blackmagic Design has released DaVinci Resolve 21.2, and the headline item is support for Apple&amp;#8217;s new MacBook Pro with PROLED XDR touch screen. The update also adds support for Blackmagic Generation 6 Color Science LUTs and film looks, and Blackmagic claims up to 5x faster rendering on M5 Pro and M5 Max machines. Editors get multicam clips in source timelines, a shortcut to restore the last active edit points and source timecode for extracted audio, and Studio users get new AI assistant functions.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;DaVinci Resolve 21.2, DaVinci Resolve Studio 21.2 and Fusion Studio 21.2 are available now as free updates for macOS, Windows, Windows for Arm and Linux. Blackmagic published the release notes on November 4, 2026. In both editions, the update adds support for the&amp;nbsp;&lt;a href="https://www.cined.com/apple-touch-screen-macbook-pro-announced-proled-xdr-tandem-oled-display-m5-pro-and-m5-max-genlock/" target="_blank" rel="noopener"&gt;Apple MacBook Pro with PROLED XDR display&lt;/a&gt;, support for Blackmagic Gen 6 LUTs, multicam clips that open as source clips in source timelines, compound clip changes, EXIF metadata in PNG files and a long list of fixes for audio, AAF, OGraf, H.265 and XDCAM media. The Studio version adds ResolveFX False Color support for Gen 5 and Gen 6 color science, new AI assistant functions and &amp;#8220;multiple scripting API improvements&amp;#8221;. System requirements do not change.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-full"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="551" src="https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1.jpg" alt="" class="wp-image-446323" srcset="https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1.jpg 900w, https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1-300x184.jpg 300w, https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1-768x470.jpg 768w, https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1-376x230.jpg 376w, https://www.cined.com/content/uploads/2026/11/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-261028-900x551-1-260x160.jpg 260w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Apple MacBook Pro with PROLED XDR display. Image credit: Apple&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Version 21.2 follows 21.1.2 from late October, which made OGraf playback faster, refined edit point selection on the Edit page and added faster IntelliSearch analysis on M6 Macs in Studio. The larger feature release was&amp;nbsp;&lt;a href="https://www.cined.com/davinci-resolve-21-1-released-ai-assistant-integration-via-mcp-individual-hdr-trims-and-python-scripting-moves-to-studio/" target="_blank" rel="noopener"&gt;DaVinci Resolve 21.1&lt;/a&gt;in September, with the native MCP server for AI assistants and individual HDR trims. For the full picture of version 21, read our coverage of the&amp;nbsp;&lt;a href="https://www.cined.com/davinci-resolve-21-final-release-now-available-new-photo-page-expanded-ai-toolset-krokodove-in-fusion-and-wide-raw-support/" target="_blank" rel="noopener"&gt;final Resolve 21 release&lt;/a&gt;&amp;nbsp;and our&amp;nbsp;&lt;a href="https://www.cined.com/davinci-resolve-21-hands-on-at-nab-2026-photo-page-intellisearch-and-cinefocus-in-action/" target="_blank" rel="noopener"&gt;hands-on with the Photo page and IntelliSearch at NAB 2026&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Touch and the M5 Pro and M5 Max&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Apple announced the MacBook Pro with PROLED XDR display on October 28. It is the first Mac with a touch screen, and it uses a tandem OLED panel with 2000 nits peak HDR brightness. At the launch, Apple listed DaVinci Resolve among the third-party apps that would get Touch support later this year, but it did not say what the Resolve implementation would include. Resolve 21.2 now lists &amp;#8220;Support for Apple MacBook Pro with PROLED XDR touch screens.&amp;#8221; The release notes do not say which pages or controls react to touch, or whether Resolve goes beyond the standard macOS behavior that translates touches into clicks.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The PROLED XDR models use the same M5 Pro and M5 Max chips that Apple introduced in March. In the download description for 21.2, Blackmagic claims &amp;#8220;up to 5x faster rendering for M5 Pro and M5 Max Apple silicon chips&amp;#8221;. Blackmagic does not say which render formats or which earlier version it compares against, so this is a manufacturer figure without a stated baseline. The item also does not appear in the readme itself, only in the summary on the support page.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Generation 6 color science&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Both editions add support for Blackmagic Generation 6 Color Science LUTs and film looks. Blackmagic introduced Gen 6 color science to its software in September with&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/readme/cc0d658e57dd42f281e1059ae3366baf" target="_blank" rel="noopener"&gt;Blackmagic RAW 6.0&lt;/a&gt;, and Resolve 21.2 now accepts the matching LUTs and film looks. In Studio, the ResolveFX False Color tool now also supports Gen 5 and Gen 6 color science, so exposure checks with false color work with the current Blackmagic camera color pipelines.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Editing: multicam, edit points and compound clips&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Most of the editorial changes affect source timelines and edit points. Multicam clips now open as source clips in source timelines, and &amp;#8220;Open in Timeline with Source Viewer&amp;#8221; now supports both clips and multicams. A new menu action and keyboard shortcut restores the last active edit points, and a Command or Ctrl marquee selection now uses the last edit point type. This continues the trim and edit point work of 21.1, 21.1.1 and 21.1.2.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Compound clips get two changes. When you convert an in-out range to a compound clip, Resolve now replaces the clips in place in the timeline. A separate context action creates a compound clip from the in-out range without that replacement. The update also lets you conform lock multiple timeline clips to one media pool clip in one step.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Several smaller changes remove friction in daily work. The &amp;#8220;stop playback&amp;#8221; option now also applies to playhead nudges and mouse clicks, Edit menu options stay in place after a UI layout reset, and PNG files now carry their EXIF metadata into Resolve.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Audio and interchange fixes&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For sound editors, extracted audio files now keep the source timecode. Blackmagic has also improved the decoding speed of MXF audio from network storage, fixed slow renders of MP3 audio-only files and corrected the channel order of WAV files with iXML tracks. An audio input device preference no longer resets after a restart, and pasted clip EQ Q and frequency values are now correct.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;On the interchange side, 21.2 fixes missing clips in some AAF imports and wrong audio timecode in AAF files with interlaced media. Imported TTML subtitles now show italics correctly. For collaboration projects, source track changes in source timelines now work as intended.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;AI assistants and scripting in Studio&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The native MCP server that arrived in Resolve Studio 21.1 lets AI assistants such as Claude control a project with normal language. In 21.2, Blackmagic lists &amp;#8220;improved AI assistant color and Fusion capabilities&amp;#8221;. AI assistants can now download the extras that some advanced features need, and they can export frames or order thumbnails as a grid. Blackmagic gives no further detail on these functions. Studio also gets &amp;#8220;multiple scripting API improvements&amp;#8221;, and the Fusion tool and scripting reference documents are updated in both editions.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-full"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1.jpg" alt="" class="wp-image-446327" srcset="https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1.jpg 900w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/DaVinci-21.1-01-900x506-1-409x230.jpg 409w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;An AI assistant connected to DaVinci Resolve Studio through the MCP server, shown here in version 21.1. Image credit: Blackmagic Design&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Media, OGraf and render fixes&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Blackmagic lists a long series of fixes that affect camera media and delivery. They address slow loading of media from XDCAM drives, flashing media offline frames with some H.265 clips, a crash when decoding some multi-channel DNG files, file size estimates for spanned RED clips and artifacts in Sony XAVC Long GOP MXF renders. On Windows, the update fixes HE-AAC decoding of some clips and a GPU memory error with some OpenFX. ACES 2.0 artifacts on Windows and Linux are also fixed.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;OGraf templates now load from network and zipped paths, and Blackmagic has addressed render timeouts and memory use with OGraf files. Other fixes cover the data burn scaling for render resolutions, render in place handles for frame-based formats, a hang when editing MultiText keyframes during render cache, missing Text+ inspector controls in older projects, an anchoring issue with Text+ CLS box extend controls, CustomTool LUT name controls, and network paths with accented characters on macOS 27. Studio users also get fixes for OpenFX that disappeared from MultiMaster trim groups on reload and for a render crash with MainConcept H.265 CRF encoding.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The standalone&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/readme/b9f8f52968a645a7afd796524d5afb03" target="_blank" rel="noopener"&gt;Fusion Studio 21.2&lt;/a&gt;&amp;nbsp;has its own list. The OGraf inspector now shows up to 35 template properties, and the update fixes OGraf loading and render issues, a material viewer crash with software rendering, the Shake random seed, script issues with the AddTool and SetInput functions, and the reading of video files with FFmpeg.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Before you install&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The project library warning from the earlier 21.x releases still applies. Libraries stay compatible with DaVinci Resolve 20.3.2, but any project you create or open in 21.2 no longer opens in 20.3.2. Blackmagic recommends a full library backup and individual project backups before you update.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;System requirements are the same as in 21.1: macOS 15 Sequoia or later on Apple silicon, Windows 10 Creators Update, Windows 11 for Arm on Snapdragon X Elite or NVIDIA RTX Spark, and Rocky Linux 8.6. NVIDIA users need Studio driver 581.57 or newer on Windows, 616.0 or newer on RTX Spark and 580.119.02 or newer on Linux. Monitoring through Blackmagic video hardware needs Desktop Video 12.9 or later.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;DaVinci Resolve 21.2, DaVinci Resolve Studio 21.2 and Fusion Studio 21.2 are free downloads from the&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion" target="_blank" rel="noopener"&gt;Blackmagic Design support center&lt;/a&gt;. The full release notes are available for the&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/readme/801a108506a54a908ffcd497f13b60de" target="_blank" rel="noopener"&gt;free version&lt;/a&gt;&amp;nbsp;and for&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/support/readme/630fd2cb208a46df9493de661a76628a" target="_blank" rel="noopener"&gt;DaVinci Resolve Studio&lt;/a&gt;. DaVinci Resolve Studio is a one-time license at $295, which Blackmagic currently&amp;nbsp;&lt;a href="https://www.cined.com/blackmagic-design-cuts-davinci-resolve-studio-21-by-20-panels-and-editor-keyboards-also-discounted/" target="_blank" rel="noopener"&gt;sells for $239 until November 20, 2026&lt;/a&gt;. More information is on the&amp;nbsp;&lt;a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noopener"&gt;DaVinci Resolve product page&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you plan to grade or edit on a touch screen MacBook Pro, or do you stay with the keyboard and a control panel? And is Gen 6 color science already part of your workflow? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dan Kieft revela su flujo definitivo para anuncios cinematográficos con IA: Fable 5.2 y Seedance 2.5 al descubierto — Frame &amp; Prompt</title>
+  <meta name="description" content="La calidad de un anuncio generado con IA no se decide en el modelo de video, sino en los assets previos: hojas de personaje, localizaciones y objetos. Dan Kieft demuestra que invirtiendo en imágenes coherentes y realistas se pueden crear spots de hasta 30 segundos con Seedance 2.5, ahorrando crédito">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Dan Kieft revela su flujo definitivo para anuncios cinematográficos con IA: Fable 5.2 y Seedance 2.5 al descubierto">
+  <meta property="og:description" content="La calidad de un anuncio generado con IA no se decide en el modelo de video, sino en los assets previos: hojas de personaje, localizaciones y objetos. Dan Kieft demuestra que invirtiendo en imágenes coherentes y realistas se pueden crear spots de hasta 30 segundos con Seedance 2.5, ahorrando crédito">
+  <meta property="og:image" content="https://i.ytimg.com/vi/jeMl0OSwDss/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-jeMl0OSwDss.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Dan Kieft revela su flujo definitivo para anuncios cinematográficos con IA: Fable 5.2 y Seedance 2.5 al descubierto">
+  <meta name="twitter:description" content="La calidad de un anuncio generado con IA no se decide en el modelo de video, sino en los assets previos: hojas de personaje, localizaciones y objetos. Dan Kieft demuestra que invirtiendo en imágenes coherentes y realistas se pueden crear spots de hasta 30 segundos con Seedance 2.5, ahorrando crédito">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/jeMl0OSwDss/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-jeMl0OSwDss.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Dan Kieft revela su flujo definitivo para anuncios cinematográficos con IA: Fable 5.2 y Seedance 2.5 al descubierto</h1>
+        <div class="metadata">
+          <span>Por <strong>Dan Kieft</strong></span>
+          <time datetime='2026-11-12T17:05:16.060630-05:00'>2026-11-12</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/jeMl0OSwDss" title="Dan Kieft revela su flujo definitivo para anuncios cinematográficos con IA: Fable 5.2 y Seedance 2.5 al descubierto" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=jeMl0OSwDss" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La calidad de un anuncio generado con IA no se decide en el modelo de video, sino en los assets previos: hojas de personaje, localizaciones y objetos. Dan Kieft demuestra que invirtiendo en imágenes coherentes y realistas se pueden crear spots de hasta 30 segundos con Seedance 2.5, ahorrando créditos con el modo borrador y eligiendo el modelo adecuado para cada tarea: Seedream 5.5 para rostros, Soul Cinema para escenarios y Seedance 2.5 para video. El veredicto es claro: garbage in, garbage out.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Dan Kieft</strong>: <a href="https://www.youtube.com/watch?v=jeMl0OSwDss" target="_blank" rel="noopener">How I Make Cinematic AI Ads with Fable 5.2 &amp; Seedance 2.5</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La filosofía del asset primero: por qué el video es lo de menos</h3>
+<p>Dan Kieft abre su tutorial con una advertencia que rompe el sentido común de la generación de video con IA: el modelo de video es la parte secundaria del proceso. Lo que determina si un anuncio parece real o artificial es la calidad de los assets que se le entregan como referencia. Su lema es <em>garbage in, garbage out</em>: si las imágenes de personajes, localizaciones y objetos son inconsistentes o de baja calidad, ningún modelo de video podrá salvarlas. Por eso, dedica la mayor parte de su flujo de trabajo a construir una biblioteca visual sólida antes de tocar Seedance 2.5.</p>
+<p>El tutorial se apoya en <strong>Higgsfield</strong>, una plataforma que integra múltiples modelos de imagen y video (Seedream 5.5, Soul Cinema, Seedance 2.5, entre otros) y permite gestionar proyectos, elementos y referencias en un solo lugar. Kieft utiliza esta herramienta para generar hojas de personaje, escenarios y objetos con los que luego alimentará al modelo de video. La suscripción a Higgsfield tiene un descuento del 60% durante el Black Friday, un dato relevante para quienes quieran replicar el flujo sin gastar de más.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Hojas de personaje: el rostro que sostiene toda la historia</h3>
+<p>El primer paso es crear una hoja de personaje que sirva como referencia consistente en todas las escenas. Kieft recomienda usar un fondo gris neutro para evitar rebotes de luz y generar un primer plano del rostro en vista de tres cuartos, junto con dos vistas de cuerpo completo (frontal y trasera) sin cabeza para verificar proporciones. Esta combinación permite que el modelo de video entienda la identidad y las dimensiones del personaje sin ambigüedades.</p>
+<p>Para el prompting, el experto aconseja describir detalles físicos y de vestuario muy específicos en lugar de pedir a un asistente como Claude un prompt genérico. Un ejemplo que cita es: <em>hombre de 30 años, atlético, ojos amables, sonrisa, chaqueta brillante</em>. En personajes cómicos, añade detalles reales pequeños como una gorra torcida o una camisa ajustada, y especifica lo que no se quiere (por ejemplo, <em>sin caricaturas</em>) para evitar resultados deformes.</p>
+<p>La comparación de modelos de imagen es uno de los momentos más valiosos del video. Kieft prueba cuatro alternativas para la hoja de personaje: <strong>Seedream 5.5</strong>, GPT 2.6, Nano Banana 2 y Nano Banana Pro. El primero produce rostros más naturales; GPT 2.6 añade texturas extrañas en piel y cabello; Nano Banana 2 genera piel plástica y retocada en exceso; y Nano Banana Pro muestra un exceso de nitidez y una textura poco natural. La conclusión es que Seedream 5.5 es la mejor opción para hojas de personaje, a pesar de ser más caro que Soul Cinema.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Localizaciones y objetos: el escenario también se construye</h3>
+<p>Para las localizaciones, Kieft advierte contra los clichés visuales que delatan la IA: rayos de sol dramáticos, lluvia o sobreexposición. En su lugar, recomienda generar una vista de tres cuartos que muestre dos paredes y la distribución de los muebles, y revisar que no haya personas u objetos extraños en el fondo. La comparación de modelos para una montaña es reveladora: <strong>Soul Cinema</strong> destaca por su look cinematográfico, Seedream 5.5 da un resultado convincente, Nano Banana 2 se ve borroso como una foto de stock y GPT 2.6 añade una textura que arruinaría el video. La conclusión es que Soul Cinema es la mejor opción para localizaciones, además de ser extremadamente económico: genera 8 imágenes por 1 crédito, lo que permite crear aproximadamente 20 rostros por el precio de una sola imagen de Seedream.</p>
+<p>Para los objetos, el proceso es similar: fondo gris y ángulo de tres cuartos para mostrar múltiples lados. En el caso de un coche, Kieft añade una valla vertical para colocar el logo, un detalle que luego facilita la edición o la animación. La lógica es siempre la misma: generar assets lo más neutros y completos posible para que el modelo de video tenga toda la información necesaria.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Seedance 2.5: el video que lo une todo</h3>
+<p>Con los assets listos, Kieft pasa a <strong>Seedance 2.5</strong>, el modelo de video que permite generar clips de hasta 30 segundos desde un solo prompt. La clave para mantener la coherencia es usar las imágenes de localización como keyframes para fijar el ángulo de cámara. En la escena de escalada en hielo, por ejemplo, utiliza una imagen de la montaña como referencia y Seedance 2.5 genera múltiples ángulos a partir de dos referencias. Para planos múltiples en una sola generación, el modelo puede producir varios cortes dentro de un mismo prompt, lo que ahorra tiempo y créditos.</p>
+<p>El control de la cámara es fundamental. Kieft especifica posición, movimiento y timing para cada plano: <em>cámara alta en la pared de hielo, inclinarse hacia abajo y retroceder para revelar a los personajes</em>. Para diálogos y actuación, utiliza la skill de actuación de Higgsfield, que permite dar instrucciones de interpretación (qué quiere cada personaje, cómo reacciona). Un truco importante para evitar movimientos sincronizados y antinaturales es asignar acciones diferentes a cada personaje en la misma escena; en la escena de revelación en la cima, con cuatro planos rápidos (taza, letrero de taxi, conductor, águila), el resultado mejoró notablemente al hacerlo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Ahorro de créditos y animación de gráficos</h3>
+<p>El costo es una preocupación central en la generación de video con IA, y Kieft ofrece una estrategia concreta para no fundir la suscripción en un par de pruebas. Seedance 2.5 en modo borrador a 480p cuesta <strong>72 créditos por 24 segundos</strong>, mientras que la versión final en 1080p cuesta <strong>384 créditos</strong> por la misma duración. La recomendación es generar primero en modo borrador y luego recrear en 1080p solo las versiones seleccionadas. Para un video de 4 segundos, el costo es de 64 créditos por generación, lo que hace aún más importante la selección previa.</p>
+<p>En la generación de variedad, Kieft sugiere en Soul Cinema generar un lote a la vez y repetir varias veces en lugar de generar las cuatro variantes de una vez. Esto permite evaluar mejor las opciones y evitar desperdiciar créditos en imágenes que no se usarán. Para la animación de elementos gráficos, como una app en un teléfono, utiliza Seedance con video de referencia y describe el orden de la animación: primero el teléfono, luego la app, luego el texto. Planificar el plano primero y dar contexto a Claude facilita la animación y reduce la necesidad de iteraciones costosas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Veredicto: un flujo replicable con decisiones basadas en evidencia</h3>
+<p>El tutorial de Dan Kieft no es una lista de trucos, sino un método completo que prioriza la calidad de los assets sobre la potencia del modelo de video. La comparación de modelos de imagen es especialmente útil: Seedream 5.5 para hojas de personaje, Soul Cinema para localizaciones y objetos, y Seedance 2.5 para video. Los precios y la estrategia de borrador a 480p permiten experimentar sin arruinarse, y los consejos de prompting (fondo gris neutro, vista de tres cuartos, acciones distintas para cada personaje) son directamente aplicables.</p>
+<p>La conclusión principal es que la coherencia visual no se logra con un solo prompt milagroso, sino con un sistema de referencias bien construido. Quienes sigan este flujo podrán crear anuncios cinematográficos de hasta 30 segundos con un realismo que hoy parece reservado a producciones tradicionales. El mensaje final es claro: invertir tiempo en los assets es la forma más segura de ahorrar créditos y obtener resultados profesionales.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para hojas de personaje: fondo gris neutro, primer plano del rostro en vista de tres cuartos y dos vistas de cuerpo completo (frontal y trasera) sin cabeza.</li>
+<li>Para localizaciones: vista de tres cuartos que muestre dos paredes y distribución de muebles; evitar rayos de sol dramáticos, lluvia o sobreexposición.</li>
+<li>Para evitar movimientos sincronizados: asignar acciones diferentes a cada personaje en la misma escena.</li>
+<li>Costo de Seedance 2.5: modo borrador 480p = 72 créditos por 24 s; 1080p = 384 créditos por 24 s; video de 4 s = 64 créditos.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="http://dankieft.com/higgsfield" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma que integra Seedream, Soul Cinema y Seedance para gestionar proyectos y generar assets.</li>
+<li><strong>Seedream 5.5</strong> — Modelo de imagen para hojas de personaje realistas y edición de assets.</li>
+<li><strong>Soul Cinema</strong> — Modelo de imagen económico para personajes y localizaciones (8 imágenes por 1 crédito).</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video que genera clips de hasta 30 segundos desde un solo prompt.</li>
+<li><strong>Nano Banana 2</strong> — Modelo de imagen alternativo, criticado por piel plástica y retoques excesivos.</li>
+<li><strong>Nano Banana Pro</strong> — Modelo de imagen alternativo, criticado por exceso de nitidez y textura poco natural.</li>
+<li><strong>GPT 2.6</strong> — Modelo de imagen alternativo, criticado por texturas extrañas en piel y cabello.</li>
+<li><strong>Claude</strong> — Asistente de IA para generar prompts detallados y estructurar escenas.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-jeMl0OSwDss.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
