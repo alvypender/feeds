@@ -3,25 +3,137 @@
 <title>El Blog de Enrique Dans</title>
 <link href="https://www.enriquedans.com/"/>
 <id>https://www.enriquedans.com/</id>
-<updated>2026-11-14T09:50:34+00:00</updated>
+<updated>2026-11-15T08:32:48+00:00</updated>
+<entry>
+  <title>La inteligencia artificial empresarial espera su «momento PageRank»</title>
+  <link href="https://www.enriquedans.com/2026/11/la-inteligencia-artificial-empresarial-espera-su-momento-pagerank.html"/>
+  <id>https://www.enriquedans.com/2026/11/la-inteligencia-artificial-empresarial-espera-su-momento-pagerank.html#v1</id>
+  <published>2026-11-15T08:32:48+00:00</published>
+  <updated>2026-11-15T08:32:48+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_la-inteligencia-artificial-empresa_002466.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/aud_la-inteligencia-artificial-empresa_002466.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_la-inteligencia-artificial-empresa_002466.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_la-inteligencia-artificial-empresa_002466.jpg</webfeeds:featuredImage>
+  <summary>El modelo se puede alquilar. La inteligencia debe ser tuya Hagamos un pequeño experimento mental en el ámbito de la tecnología-ficción: ¿qué habría ocurrido si el PageRank de Larry Page y Sergey Brin no hubiera logrado atraer a sus primeros inversores en 1998? Google no inventó el motor de búsqueda; ya existían muchos otros, desde …</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_la-inteligencia-artificial-empresa_002466.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-inteligencia-artificial-empresarial-espera.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="alignleft size-full is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-model-switching-DallE-1.png"&gt;&lt;img fetchpriority="high" decoding="async" width="1254" height="1254" src="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-model-switching-DallE-1.png" alt="IMAGE: A hand swaps an AI module beneath a glass office building, while its golden network of accumulated intelligence remains intact." class="wp-image-59199" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-model-switching-DallE-1.png 1254w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-model-switching-DallE-1-150x150.png 150w" sizes="(max-width: 1254px) 100vw, 1254px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;h3 class="wp-block-heading"&gt;El modelo se puede alquilar. La inteligencia debe ser tuya&lt;/h3&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Hagamos un pequeño experimento mental en el ámbito de la tecnología-ficción: ¿qué habría ocurrido si &lt;a href="https://archives.iw3c2.org/www7/proceedings/1921/com1921.htm" target="_blank" rel="noopener"&gt;el PageRank de Larry Page y Sergey Brin&lt;/a&gt; no hubiera logrado atraer a sus primeros inversores en 1998? Google no inventó el motor de búsqueda; ya existían muchos otros, desde AltaVista, Excite o Lycos —que contaban la frecuencia de las palabras en las páginas y vendían su página de resultados al mejor postor— hasta conceptos de catálogo o portal como Yahoo! o AOL, que intentaban captar al máximo la atención de los usuarios para mostrarles la mayor cantidad posible de publicidad. Imaginemos qué habría pasado si estos modelos se hubieran consolidado, privándonos de la web que surgió gracias al método de búsqueda sencillo y eficiente de Google…&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿De qué se dieron cuenta Larry Page y Sergey Brin? Adaptaron y ampliaron un sistema que sabían que funcionaba en la literatura académica —¡recordemos que ambos eran estudiantes de doctorado y, por tanto, leían artículos académicos sin parar!: el &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Citation_index" target="_blank" rel="noopener"&gt;citation index&lt;/a&gt;&lt;/em&gt; (o, más concretamente, el &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Citation_impact" target="_blank" rel="noopener"&gt;citation impact&lt;/a&gt;&lt;/em&gt;). Trasladaron este concepto a un nuevo entorno: la web. Comprendieron que existía una señal poco aprovechada —las relaciones entre páginas— y la utilizaron para generar una métrica. Al ponderar los enlaces según la importancia de las páginas que los incluían, no solo lograron indexar la web, sino también definir la atención como una construcción social: una página se considera importante cuando otras páginas la enlazan utilizando un término determinado.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+
+&lt;h3 class="wp-block-heading"&gt;¿Cuál es la señal más infrautilizada hoy en día en el ámbito de la inteligencia artificial corporativa?&lt;/h3&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Como he mencionado en varias ocasiones, &lt;a href="https://www.enriquedans.com/2026/05/el-emperador-esta-desnudo-los-llm-nunca-fueron-disenados-para-dirigir-una-empresa.html" target="_blank" rel="noopener"&gt;la inteligencia artificial corporativa es radicalmente distinta a la inteligencia artificial de uso individual&lt;/a&gt;: las empresas no solo necesitan respuestas a sus preguntas; &lt;a href="https://www.enriquedans.com/2026/08/la-inteligencia-artificial-empresarial-no-necesita-otra-aplicacion-necesita-su-propio-lenguaje.html" target="_blank" rel="noopener"&gt;requieren memoria persistente y gestión de estados, bucles de aprendizaje basados ​​en retroalimentación, ciberseguridad integrada, registros (logs) trazables e inalterables&lt;/a&gt;, entre otros elementos.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Hasta ahora, las empresas han estado construyendo esta infraestructura de soporte utilizando herramientas del siglo XX, como Python. El problema es que los agentes de inteligencia artificial están demostrando ser lo suficientemente inteligentes como para escapar de estos entornos controlados y provocar todo tipo de resultados negativos. Esto no ocurre porque sean intrínsecamente malvados —algo imposible, por definición—, sino porque los objetivos y los mecanismos de seguridad están mal definidos, o bien debido a permisos excesivos, ataques de inyección de instrucciones (&lt;em&gt;prompt injection&lt;/em&gt;) o un aislamiento deficiente. En lugar de contar con una plataforma que proporcione estas capacidades de forma coherente, las empresas intentan definirlas caso por caso, aplicación por aplicación.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Por otro lado, las empresas toman constantemente decisiones sobre proveedores, clientes, inventario, precios, servicios, etc. Estas decisiones generan, de forma continua, evidencia sobre qué funciona y qué no; eso sí, siempre que la empresa sea lo suficientemente inteligente como para capturar dicha información. ¿Qué pasaría si pudiéramos evaluar la inteligencia artificial en función de si la empresa aprende y mejora, más allá de la calidad de los resultados individuales? ¿&lt;a href="https://ctomagazine.com/ai-optimization-is-more-important-than-bigger-models/"&gt;Y si la optimización mediante inteligencia artificial llegara a ser más importante que el simple acceso a modelos más capaces&lt;/a&gt;?&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+
+&lt;h3 class="wp-block-heading"&gt;La competencia se desplaza de las capacidades de los modelos al rendimiento del sistema&lt;/h3&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Una empresa no solo necesita un modelo de inteligencia artificial muy potente; requiere una arquitectura que coordine sus capacidades en función de sus objetivos. Investigadores que escriben en el blog de inteligencia artificial de Berkeley &lt;a href="https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/" target="_blank" rel="noopener"&gt;describen explícitamente el giro hacia los «sistemas de inteligencia artificial compuestos» (&lt;em&gt;compound AI systems&lt;/em&gt;)&lt;/a&gt;, en los que el diseño del sistema puede ofrecer mejores resultados que el simple escalado de los modelos.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Otros experimentos, como &lt;a href="https://arxiv.org/pdf/2305.05176" target="_blank" rel="noopener"&gt;FrugalGPT&lt;/a&gt; o &lt;a href="https://arxiv.org/pdf/2310.03714" target="_blank" rel="noopener"&gt;DSPy&lt;/a&gt;, constituyen precedentes concretos en los que la selección del modelo queda supeditada a los resultados obtenidos: FrugalGPT demostró que las «cascadas» de modelos pueden igualar el rendimiento del modelo individual más potente, reduciendo hasta en un 98% el coste de las tareas evaluadas; por su parte, DSPy mostró que los flujos de trabajo optimizados, que emplean modelos más pequeños, pueden competir con enfoques basados ​​en modelos propietarios de gran envergadura.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Qué hace que este siguiente paso sea tan relevante? La capacidad de aprender a partir de distintas ejecuciones. Si logramos que cada interacción sirva para orientar las decisiones futuras en un contexto determinado, podremos obtener una ventaja sustancial. Los &lt;a href="https://www.enriquedans.com/2026/02/por-que-todas-las-empresas-van-a-necesitar-su-propio-world-model.html" target="_blank" rel="noopener"&gt;«modelos del mundo» (&lt;em&gt;world models&lt;/em&gt;)&lt;/a&gt; aportan precisamente esta posibilidad: permiten anticipar las consecuencias antes de actuar. &lt;a href="https://www.nature.com/articles/s41586-025-08744-2" target="_blank" rel="noopener"&gt;Las investigaciones sobre Dreamer demuestran con éxito este mecanismo en diversas tareas de control&lt;/a&gt;. Una vez logrado esto, es posible recurrir al aprendizaje por refuerzo —u otro mecanismo de optimización— para aprovechar la experiencia y mejorar progresivamente la toma de decisiones.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+
+&lt;h3 class="wp-block-heading"&gt;El aprendizaje organizacional acumulado se convierte en la verdadera ventaja competitiva.&lt;/h3&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Si bien los modelos de amplia disponibilidad —ya sea a través de API comerciales o implementaciones de modelos de pesos abiertos— pueden ofrecer capacidades comunes, la experiencia específica de una empresa permite tomar decisiones verdaderamente diferenciadas; aquellas que realmente marcan la diferencia. Pensemos, por ejemplo, en las decisiones de renovación que pueden tomarse al aprender de los resultados observados en cuanto a la retención de clientes.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Sin embargo, hay que tener en cuenta que &lt;a href="https://hbr.org/2020/01/when-data-creates-competitive-advantage" target="_blank" rel="noopener"&gt;la simple acumulación de datos no garantiza automáticamente una ventaja&lt;/a&gt;: es necesario procesar la información adecuadamente, y no mediante «una inteligencia artificial» cualquiera, sino mediante «tu propia inteligencia artificial». Asegúrate de situar el entrenamiento en el nivel correcto, aquel que puedas gestionar y controlar.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;PageRank permitió extraer valor de algo que la web ya generaba: los enlaces. El próximo gran avance en la inteligencia artificial corporativa podría extraer valor de algo que las empresas ya generan a diario: la experiencia. Si esa experiencia se transforma en un aprendizaje acumulado que la empresa controla y conserva —incluso cuando los modelos cambian—, la ventaja competitiva pasa a pertenecer a la propia organización. Aquella empresa que deje de esperar a que aparezca un modelo «más inteligente» podría ser, sencillamente, la primera en comprender que su activo más valioso es la inteligencia que ella misma aprende a construir —y a mantener.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Mi criterio de adquisición propuesto se basa en la siguiente pregunta: ¿puede la empresa cambiar de proveedor de modelos conservando, al mismo tiempo, su historial operativo, sus políticas aprendidas, sus objetivos y los resultados positivos ya demostrados? ¿Es capaz tu empresa de exportar y reutilizar ese aprendizaje al cambiar de plataforma o proveedor? ¿Eres dueño de tu inteligencia corporativa, o simplemente la tienes alquilada en su totalidad? Al dejar de depender de una «inteligencia artificial genérica» y empezar a trabajar con «tu propia inteligencia artificial», pasas a controlar el activo de aprendizaje, sin necesidad de ser propietario de cada uno de los modelos subyacentes.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Es entonces cuando una empresa puede convertirse en &lt;a href="https://www.enriquedans.com/2026/07/la-proxima-frontera-de-la-inteligencia-artificial-empresarial-es-la-empresa-optimizable.html" target="_blank" rel="noopener"&gt;una organización verdaderamente optimizable&lt;/a&gt;. En definitiva, la optimización es, precisamente, lo que necesitas.&lt;/p&gt;
+
+
+
+&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;(This article was &lt;a href="https://www.fastcompany.com/91630610/enterprise-ai-waiting-pagerank-moment" target="_blank" rel="noopener"&gt;previously published on Fast Company&lt;/a&gt;)&lt;/em&gt; &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+</content>
+</entry>
 <entry>
   <title>La nube era el ordenador de otro… y se ha colgado</title>
   <link href="https://www.enriquedans.com/2026/11/la-nube-era-el-ordenador-de-otro-y-se-ha-colgado.html"/>
   <id>https://www.enriquedans.com/2026/11/la-nube-era-el-ordenador-de-otro-y-se-ha-colgado.html#v1</id>
   <published>2026-11-14T09:50:34+00:00</published>
   <updated>2026-11-14T09:50:34+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_la-nube-era-el-ordenador-de-otro-y-se-ha-colg.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_la-nube-era-el-ordenador-de-otro-y-se-ha-colg.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_la-nube-era-el-ordenador-de-otro-y-se-ha-colg.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_la-nube-era-el-ordenador-de-otro-y-se-ha-colg.jpg</webfeeds:featuredImage>
   <summary>¿Hasta qué punto depende nuestro trabajo de infraestructuras ajenas? Ayer, por lo que se ve, no fue el mejor día para hacer esa pregunta. El proveedor de informática empresarial más importante del mundo, Microsoft, experimentó una disrupción en sus servicios que ha provocado graves interrupciones que se han prolongado durante más de veinte horas y </summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-nube-era-el-ordenador-de-otro-y-se-ha-colg.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-nube-era-el-ordenador-de-otro-y-se-ha-colg.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage.jpg"&gt;&lt;img fetchpriority="high" decoding="async" width="1024" height="1021" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-1024x1021.jpg" alt="IMAGE: A screen capture of the Microsoft Service Health Status displaying service interruptions" class="wp-image-59184" style="aspect-ratio:1.0029478328673855;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-1024x1021.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-767x765.jpg 767w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-300x299.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage.jpg 1460w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage.jpg"&gt;&lt;img decoding="async" width="1024" height="1021" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-1024x1021.jpg" alt="IMAGE: A screen capture of the Microsoft Service Health Status displaying service interruptions" class="wp-image-59184" style="aspect-ratio:1.0029478328673855;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-1024x1021.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-767x765.jpg 767w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-300x299.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage.jpg 1460w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -137,7 +249,7 @@
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png"&gt;&lt;img decoding="async" width="951" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png" alt="IMAGE: Common cyber-security vulnerabilities and exposures reported, in '000" class="wp-image-59168" style="aspect-ratio:0.9287286687917158;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png 951w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-279x300.png 279w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-768x827.png 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png 1280w" sizes="(max-width: 951px) 100vw, 951px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png"&gt;&lt;img loading="lazy" decoding="async" width="951" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png" alt="IMAGE: Common cyber-security vulnerabilities and exposures reported, in '000" class="wp-image-59168" style="aspect-ratio:0.9287286687917158;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png 951w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-279x300.png 279w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-768x827.png 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png 1280w" sizes="auto, (max-width: 951px) 100vw, 951px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -586,62 +698,6 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/silenced-by-contract-why-ai-whistleblowers-need-a-right-to-warn-626d4f64598f?sk=bf3b3edae8e8307ef6d200ee58a5496d" data-type="link" data-id="https://medium.com/enrique-dans/silenced-by-contract-why-ai-whistleblowers-need-a-right-to-warn-626d4f64598f?sk=bf3b3edae8e8307ef6d200ee58a5496d" target="_blank" rel="noopener"&gt;Silenced by contract: why AI whistleblowers need a right to warn&lt;/a&gt;» &lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
-  <title>El día que las urnas enfriaron los servidores</title>
-  <link href="https://www.enriquedans.com/2026/11/el-dia-que-las-urnas-enfriaron-los-servidores.html"/>
-  <id>https://www.enriquedans.com/2026/11/el-dia-que-las-urnas-enfriaron-los-servidores.html#v1</id>
-  <published>2026-11-05T06:48:09+00:00</published>
-  <updated>2026-11-05T06:48:09+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_el-dia-que-las-urnas-enfriaron-los-servidores.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_el-dia-que-las-urnas-enfriaron-los-servidores.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_el-dia-que-las-urnas-enfriaron-los-servidores.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_el-dia-que-las-urnas-enfriaron-los-servidores.jpg</webfeeds:featuredImage>
-  <summary>El imponente castigo electoral a Donald Trump, el presidente más patético e impopular de la historia de los Estados Unidos, tiene tales dimensiones que los comentaristas políticos del país lo denominan «bluenami«: los demócratas recuperan ambas cámaras, el recuento provisional de Ballotpedia les atribuye al menos 54 senadores y siete escaños senato</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_el-dia-que-las-urnas-enfriaron-los-servidores.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Midterms-and-data-centers-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Midterms-and-data-centers-DallE-1024x1024.jpg" alt="IMAGE: A ballot unleashes an icy gust across AI servers, startling Trump and tech executives as industrial smog gives way to blue skies." class="wp-image-59130" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Midterms-and-data-centers-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Midterms-and-data-centers-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Midterms-and-data-centers-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Midterms-and-data-centers-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Midterms-and-data-centers-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;El imponente castigo electoral a Donald Trump, el presidente más patético e impopular de la historia de los Estados Unidos, tiene tales dimensiones que los comentaristas políticos del país lo denominan &lt;em&gt;«&lt;a href="https://en.wiktionary.org/wiki/bluenami" target="_blank" rel="noopener"&gt;bluenami&lt;/a&gt;«&lt;/em&gt;: los demócratas recuperan ambas cámaras, el &lt;a href="https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/" target="_blank" rel="noopener"&gt;recuento provisional de Ballotpedia&lt;/a&gt; les atribuye al menos 54 senadores y siete escaños senatoriales ganados. En Texas, &lt;a href="https://en.wikipedia.org/wiki/Gina_Hinojosa" target="_blank" rel="noopener"&gt;Gina Hinojosa&lt;/a&gt; derrota a &lt;a href="https://en.wikipedia.org/wiki/Greg_Abbott" target="_blank" rel="noopener"&gt;Greg Abbott&lt;/a&gt; y &lt;a href="https://en.wikipedia.org/wiki/James_Talarico" target="_blank" rel="noopener"&gt;James Talarico&lt;/a&gt; a &lt;a href="https://en.wikipedia.org/wiki/Ken_Paxton" target="_blank" rel="noopener"&gt;Ken Paxton&lt;/a&gt;, un vuelco histórico que interrumpe décadas de hegemonía republicana en el estado de la estrella solitaria.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Las consecuencias de semejante bofetada en la cara de Donald Trump («&lt;a href="https://www.washingtonpost.com/politics/2026/11/04/trump-told-voters-pretend-im-ballot-they-did/" target="_blank" rel="noopener"&gt;votad como si mi nombre estuviera en la papeleta&lt;/a&gt;«&amp;#8230; ¡y los votantes lo hicieron!) llegan a la inteligencia artificial, los &lt;em&gt;data centers&lt;/em&gt; y las &lt;em&gt;big tech&lt;/em&gt;. Si ya habíamos hablado de &lt;a href="https://www.enriquedans.com/2026/08/tu-apuesta-por-el-gas-y-ya-veras.html" target="_blank" rel="noopener"&gt;las aberraciones energéticas y medioambientales&lt;/a&gt; que la construcción de estas infraestructuras suponían, con la venia de un presidente negacionista de la emergencia climática, ahora &lt;a href="https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/" target="_blank" rel="noopener"&gt;MIT Tech Review detalla cómo el mercado de &lt;em&gt;data centers&lt;/em&gt; que más crecía puede ahora perder esa posición&lt;/a&gt;: Hinojosa propone una moratoria hasta aprobar protecciones para los ciudadanos, y &lt;a href="https://www.reuters.com/world/us/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race-2026-11-04/" target="_blank" rel="noopener"&gt;Reuters confirma la incertidumbre sobre proyectos de Meta, Google y Microsoft&lt;/a&gt;. Parece que los votantes no cabían en los planes de negocio de las &lt;em&gt;big tech&lt;/em&gt;. Vaya con la democracia, ese molesto límite a los centros de datos&amp;#8230; &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La rebelión desborda claramente las etiquetas partidistas: &lt;a href="https://gov.texas.gov/news/post/governor-abbott-directs-tceq-to-halt-data-center-permits" target="_blank" rel="noopener"&gt;Abbott ya había suspendido permisos el 21 de septiembre&lt;/a&gt;, exigiendo auditorías sobre electricidad y agua. Según el Financial Times, &lt;a href="https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1" target="_blank" rel="noopener"&gt;hasta 38 de las 47 votaciones locales estaban a favor de esas restricciones&lt;/a&gt; y, citando a Goldman Sachs, el cambio político podría afectar hasta al 45% de la expansión prevista. La irresponsabilidad de los CEOs era evidente: &lt;a href="https://www.investing.com/news/stock-market-news/trump-to-host-zuckerberg-anthropics-amodei-and-other-ai-titans-tuesday-4922037" target="_blank" rel="noopener"&gt;Reuters documentó su acercamiento a Trump&lt;/a&gt;, con Zuckerberg, Pichai y Huang presentes mientras defendía acelerar la construcción. El caso de Google es especialmente revelador: &lt;a href="https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/" target="_blank" rel="noopener"&gt;su infraestructura crece más deprisa que la descarbonización eléctrica, y las emisiones de su cadena de suministro aumentaron un 25%&lt;/a&gt;. La decisión consciente de acelerar, completamente incompatible con los compromisos medioambientales declarados por estas compañías antes de la llegada de Trump, las convierte en las mayores y más asquerosas hipócritas del planeta: obviamente, la emergencia climática no figuraba en sus presupuestos. Hay que ver, tanto comprar influencia para terminar perdiendo las elecciones. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El problema empeoraba con la decisión de acelerar construyendo nueva dependencia fósil, en perfecta sintonía con &lt;a href="https://www.enriquedans.com/2024/05/la-mayor-irresponsabilidad-de-la-historia.html"&gt;los compromisos de Trump con la industria petrolera&lt;/a&gt;: &lt;a href="https://www.reuters.com/business/energy/gas-plants-us-data-centers-be-major-source-climate-change-linked-emissions-2026-07-01/" target="_blank" rel="noopener"&gt;Reuters recoge 74 proyectos de centrales de gas destinadas a centros de datos, casi la mitad en Texas&lt;/a&gt;. El estudio citado estima unas emisiones potenciales de 662 millones de toneladas anuales, una auténtica barbaridad medioambiental. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;El revés, en cualquier caso, tiene límites políticos y climáticos: &lt;a href="https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/" target="_blank" rel="noopener"&gt;Trump conserva el poder de veto&lt;/a&gt;, por lo que el cambio más inmediato puede producirse en estados, municipios y reguladores eléctricos. Habrá beneficios si se evitan instalaciones fósiles o se exige energía limpia adicional, pero una simple relocalización de los proyectos podría simplemente desplazar las emisiones a otros estados. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La AIE proyecta que &lt;a href="https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary" target="_blank" rel="noopener"&gt;el consumo mundial de centros de datos casi se duplicará entre 2025 y 2030&lt;/a&gt;. Es fundamental exigir transparencia, que las compañías asuman los costes, y que esa expansión sea compatible con los objetivos de descarbonización. Ahora, la sonora derrota de Donald Trump puede abrir ese espacio de responsabilidad que sus irresponsables aliados tecnológicos estaban eludiendo. Apuntemos, en cualquier caso, la calaña de semejante gentuza capaz de vender no solo sus principios, sino la salud del planeta que habitan, al mejor postor. Qué asco.  &lt;/p&gt;
-
-
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/could-the-blunami-blow-away-trump-and-the-tech-bros-data-center-plans-6121ff02a34b?sk=f94df63bbfa7f80ab0f3d038b9603150" data-type="link" data-id="https://medium.com/enrique-dans/could-the-blunami-blow-away-trump-and-the-tech-bros-data-center-plans-6121ff02a34b?sk=f94df63bbfa7f80ab0f3d038b9603150" target="_blank" rel="noopener"&gt;Could the blunami blow away Trump and the tech bros’ data center plans&lt;/a&gt;?» &lt;/em&gt;&lt;/p&gt;
 
 
 
