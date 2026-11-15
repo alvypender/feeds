@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>El método para jerarquizar imágenes de referencia en Seedance y cómo animar rutas aéreas personalizadas con ChatGPT y After Effects — Frame &amp; Prompt</title>
+  <meta name="description" content="Acumular imágenes de referencia sin una función definida en el prompt genera ruido y empeora el resultado en modelos de video como Seedance. La solución es numerar cada imagen, asignarle un rol explícito en el prompt y subirlas a Artlist en ese mismo orden. En paralelo, ChatGPT y After Effects permi">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="El método para jerarquizar imágenes de referencia en Seedance y cómo animar rutas aéreas personalizadas con ChatGPT y After Effects">
+  <meta property="og:description" content="Acumular imágenes de referencia sin una función definida en el prompt genera ruido y empeora el resultado en modelos de video como Seedance. La solución es numerar cada imagen, asignarle un rol explícito en el prompt y subirlas a Artlist en ese mismo orden. En paralelo, ChatGPT y After Effects permi">
+  <meta property="og:image" content="https://i.ytimg.com/vi/0ZoCgs-CKfI/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-0ZoCgs-CKfI-y3QKH9bCldE.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="El método para jerarquizar imágenes de referencia en Seedance y cómo animar rutas aéreas personalizadas con ChatGPT y After Effects">
+  <meta name="twitter:description" content="Acumular imágenes de referencia sin una función definida en el prompt genera ruido y empeora el resultado en modelos de video como Seedance. La solución es numerar cada imagen, asignarle un rol explícito en el prompt y subirlas a Artlist en ese mismo orden. En paralelo, ChatGPT y After Effects permi">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/0ZoCgs-CKfI/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-0ZoCgs-CKfI-y3QKH9bCldE.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">El método para jerarquizar imágenes de referencia en Seedance y cómo animar rutas aéreas personalizadas con ChatGPT y After Effects</h1>
+        <div class="metadata">
+          <span>Por <strong>Wide Silvente</strong></span>
+          <time datetime='2026-11-14T17:08:29.159027-05:00'>2026-11-14</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/0ZoCgs-CKfI" title="El método para jerarquizar imágenes de referencia en Seedance y cómo animar rutas aéreas personalizadas con ChatGPT y After Effects" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=0ZoCgs-CKfI" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Acumular imágenes de referencia sin una función definida en el prompt genera ruido y empeora el resultado en modelos de video como Seedance. La solución es numerar cada imagen, asignarle un rol explícito en el prompt y subirlas a Artlist en ese mismo orden. En paralelo, ChatGPT y After Effects permiten crear animaciones de rutas aéreas únicas, como un vuelo Barcelona-Nueva York con tracking y zoom, imposibles de encontrar en librerías prediseñadas.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Wide Silvente</strong> (Short): <a href="https://www.youtube.com/shorts/0ZoCgs-CKfI" target="_blank" rel="noopener">Más imágenes de referencia no es mejor</a> · <strong>Wide Silvente</strong> (Short): <a href="https://www.youtube.com/shorts/y3QKH9bCldE" target="_blank" rel="noopener">Tu ruta de avión animada con IA</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El error de acumular referencias sin jerarquía</h3>
+<p>En la generación de video con IA, existe una tentación recurrente: cuanto más material de referencia se aporte, mejor será el resultado. Sin embargo, el creador Wide Silvente advierte que esta lógica falla estrepitosamente cuando las imágenes se acumulan sin una función clara dentro del prompt. El modelo, lejos de enriquecerse, recibe una señal confusa y el video final pierde coherencia. La clave no está en la cantidad, sino en la <strong>jerarquía</strong>: cada referencia debe tener un propósito específico que el modelo pueda interpretar sin ambigüedad.</p>
+<p>El método propuesto comienza antes de tocar la herramienta de generación. Consiste en <strong>numerar cada imagen</strong> (imagen 1, imagen 2, imagen 3…) y asignarle una función concreta en el prompt. No se trata de etiquetas genéricas, sino de roles explícitos: qué representa esa imagen en la secuencia, qué elemento debe tomarse de ella y cómo se integra con las demás. Este paso previo se puede realizar con ChatGPT, que ayuda a redactar un prompt donde la correspondencia entre número y función quede perfectamente definida.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El orden de subida es tan importante como el prompt</h3>
+<p>Una vez redactado el prompt, el siguiente paso crítico es subir las imágenes a la herramienta de generación —en este caso, <strong>Artlist</strong>— exactamente en el mismo orden en que fueron numeradas. Si el prompt menciona &#x27;imagen 1&#x27; para el steel frame principal, &#x27;imagen 2&#x27; para el fondo y &#x27;imagen 3&#x27; para el personaje, la plataforma debe recibir las referencias en esa secuencia (1, 2, 3…). Cualquier desajuste entre los tags del prompt y el orden de subida rompe la jerarquía y devuelve al modelo al terreno del ruido.</p>
+<p>Wide Silvente insiste en que los <strong>steel frames</strong> —las imágenes base que definen la composición— deben estar muy marcados y claros. A partir de ahí, el prompt indica cómo utilizarlos. En su prueba, subió <strong>siete imágenes de referencia</strong> numeradas del 1 al 7 y referenciadas por función en el prompt; el resultado, según el autor, &#x27;funciona muy bien&#x27; precisamente porque se respeta la jerarquía. La conclusión es contundente: menos referencias bien definidas superan a muchas referencias sin sentido en la secuencia.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Rutas aéreas que no existen en librerías: el truco con ChatGPT y After Effects</h3>
+<p>El segundo hallazgo de Wide Silvente aborda un problema clásico de la producción audiovisual: las animaciones de rutas aéreas prediseñadas rara vez coinciden con el trayecto exacto que necesita un proyecto. La solución pasa por combinar <strong>ChatGPT</strong> para idear la animación y <strong>After Effects</strong> para montarla. El proceso comienza pidiendo a ChatGPT una animación dinámica con tracking sobre un mapamundi, especificando origen y destino —por ejemplo, un vuelo de Barcelona a Nueva York—, junto con efectos de zoom y seguimiento del avión dejando el recorrido marcado.</p>
+<p>La ventaja de este enfoque es doble. Por un lado, ChatGPT puede generar <strong>varias propuestas visuales</strong> entre las que elegir la que mejor se adapte al tono del video. Por otro, permite crear animaciones para trayectos específicos que no existen en librerías, como un vuelo Toledo-Sevilla, algo impensable con recursos genéricos. El autor probó a solicitar la animación Barcelona-Nueva York con tracking, zoom y recorrido marcado, y obtuvo múltiples propuestas. Concluye que la técnica es especialmente útil para vlogs y para cualquier proyecto que requiera rutas personalizadas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Cómo aplicar ambos trucos sin fricción</h3>
+<p>La conexión entre ambas técnicas es la <strong>claridad en las instrucciones</strong>. En el caso de las referencias, esa claridad se logra numerando y asignando funciones antes de subir nada. En el caso de las rutas aéreas, se consigue describiendo con precisión el movimiento, el origen, el destino y los efectos deseados. En ambos casos, ChatGPT actúa como intermediario para traducir una intención creativa en un prompt estructurado que el modelo o la herramienta puedan ejecutar sin pérdida de información.</p>
+<p>Para quienes trabajen con Seedance u otros modelos de video, el flujo recomendado es: definir las referencias, numerarlas, redactar el prompt con funciones explícitas, subirlas a Artlist en orden y verificar que cada tag coincide con la posición real de la imagen. Para las rutas aéreas, el flujo es: pedir a ChatGPT la descripción animada, solicitar varias propuestas, elegir una y montarla en After Effects con tracking y zoom. Ninguno de los dos trucos requiere herramientas exóticas, pero sí disciplina en la ejecución.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Numerar las imágenes de referencia (1, 2, 3…) y asignarles una función explícita en el prompt antes de subirlas.</li>
+<li>Subir las referencias a Artlist en el mismo orden en que fueron numeradas para que coincidan con los tags del prompt.</li>
+<li>Los steel frames deben estar muy marcados y claros; menos referencias bien definidas superan a muchas sin jerarquía.</li>
+<li>Para rutas aéreas: pedir a ChatGPT animación con tracking, zoom y recorrido marcado, y montarla en After Effects.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Artlist</strong> — Plataforma donde se suben las imágenes de referencia en orden para generar el video con IA</li>
+<li><strong>Seedance</strong> — Modelo de generación de video de ByteDance mencionado como caso de uso para referencias jerarquizadas</li>
+<li><strong>ChatGPT</strong> — Se usa para redactar el prompt que asigna funciones a cada imagen numerada y para idear animaciones de rutas aéreas</li>
+<li><strong>After Effects</strong> — Montar y animar la ruta aérea con tracking, zoom y efectos visuales</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-0ZoCgs-CKfI-y3QKH9bCldE.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -3,7 +3,123 @@
 <title>El Blog de Enrique Dans</title>
 <link href="https://www.enriquedans.com/"/>
 <id>https://www.enriquedans.com/</id>
-<updated>2026-11-12T09:46:41+00:00</updated>
+<updated>2026-11-14T09:50:34+00:00</updated>
+<entry>
+  <title>La nube era el ordenador de otro… y se ha colgado</title>
+  <link href="https://www.enriquedans.com/2026/11/la-nube-era-el-ordenador-de-otro-y-se-ha-colgado.html"/>
+  <id>https://www.enriquedans.com/2026/11/la-nube-era-el-ordenador-de-otro-y-se-ha-colgado.html#v1</id>
+  <published>2026-11-14T09:50:34+00:00</published>
+  <updated>2026-11-14T09:50:34+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg</webfeeds:featuredImage>
+  <summary>¿Hasta qué punto depende nuestro trabajo de infraestructuras ajenas? Ayer, por lo que se ve, no fue el mejor día para hacer esa pregunta. El proveedor de informática empresarial más importante del mundo, Microsoft, experimentó una disrupción en sus servicios que ha provocado graves interrupciones que se han prolongado durante más de veinte horas y </summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_la-nube-era-el-ordenador-de-otro-y_866809.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-nube-era-el-ordenador-de-otro-y-se-ha-colg.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage.jpg"&gt;&lt;img fetchpriority="high" decoding="async" width="1024" height="1021" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-1024x1021.jpg" alt="IMAGE: A screen capture of the Microsoft Service Health Status displaying service interruptions" class="wp-image-59184" style="aspect-ratio:1.0029478328673855;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-1024x1021.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-767x765.jpg 767w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-300x299.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Microsoft-outage.jpg 1460w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Hasta qué punto depende nuestro trabajo de infraestructuras ajenas? Ayer, por lo que se ve, &lt;a href="https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/" target="_blank" rel="noopener"&gt;no fue el mejor día para hacer esa pregunta&lt;/a&gt;. El proveedor de informática empresarial más importante del mundo, Microsoft, experimentó una disrupción en sus servicios que ha provocado &lt;a href="https://www.thousandeyes.com/blog/microsoft-365-outage-analysis-november-12-2026" target="_blank" rel="noopener"&gt;graves interrupciones que se han prolongado durante más de veinte horas&lt;/a&gt; y que han afectado a &lt;a href="https://www.nbcnews.com/tech/tech-news/live-blog/microsoft-outage-outlook-teams-updates-fix-rcna609118" target="_blank" rel="noopener"&gt;usuarios y compañías de todo el mundo&lt;/a&gt;, en lo que se ha convertido en una de las &lt;a href="https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/" target="_blank" rel="noopener"&gt;interrupciones del &lt;em&gt;cloud computing&lt;/em&gt; empresarial&lt;/a&gt; más graves que &lt;a href="https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/" target="_blank" rel="noopener"&gt;hemos visto hasta ahora&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Según las primeras explicaciones de la propia compañía, &lt;a href="https://www.theguardian.com/australia-news/2026/nov/13/global-microsoft-outage-what-happened-and-why" target="_blank" rel="noopener"&gt;el fallo no es debido a ningún ciberataque, sino a una ampliación de capacidad y a un cambio llevado a cabo posteriormente&lt;/a&gt;, aunque falta aún un informe definitivo de las causas. Aparentemente, &lt;a href="https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/" target="_blank" rel="noopener"&gt;la caída de varios servidores provocó una sobrecarga en los restantes&lt;/a&gt;, aunque quedan aún muchas preguntas que hacer sobre las pruebas que se realizaron, el aislamiento de la incidencia y la recuperación posterior. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Las &lt;a href="https://www.washingtonpost.com/technology/2026/11/13/microsoft-races-address-outage-affecting-users-around-world/" target="_blank" rel="noopener"&gt;consecuencias&lt;/a&gt; son enormes, y &lt;a href="https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html" target="_blank" rel="noopener"&gt;afectan a servicios de todo tipo&lt;/a&gt;, muchos de ellos críticos, desde dificultades para coordinar la cobertura de personal en unidades de cuidados intensivos hasta retrasos en servicios judiciales, departamentos de policía, instituciones y empresas de todo tipo. Es muy difícil hacer estimaciones de pérdidas todavía, pero sin duda, hablamos de un desastre con una trascendencia enorme en agregado, y con verdaderos casos graves tomados individualmente, independientemente de que hayamos experimentado interrupciones administrativas o paralización total de servicios. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Hablamos de funcionalidades como &lt;a href="https://variety.com/2026/digital/news/outlook-outage-microsoft-email-down-1236946411/" target="_blank" rel="noopener"&gt;el correo electrónico&lt;/a&gt;: Outlook es uno de los servicios afectados, y &lt;a href="https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7" target="_blank" rel="noopener"&gt;si el correo sirve para coordinar una respuesta, no tenerlo implica dificultades también para organizarla&lt;/a&gt;. ¿Cuántas compañías tienen planes de contingencia realistas que incluyan escenarios de continuidad mediante sistemas de comunicaciones independientes con procedimientos adecuadamente ensayados?&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;También me parece completamente inevitable plantear &lt;a href="https://www.fastcompany.com/91642223/microsofts-massive-outage-puts-its-ai-driven-layoffs-under-scrutiny" target="_blank" rel="noopener"&gt;la relación entre esta caída y una compañía que lleva tiempo reduciendo plantilla&lt;/a&gt; mientras dispara sus inversiones en inteligencia artificial, una contradicción que &lt;a href="https://pluralistic.net/2026/11/13/outlookpocalypse/" target="_blank" rel="noopener"&gt;Cory Doctorow denuncia con especial contundencia&lt;/a&gt;. Cuando salen profesionales experimentados de una compañía, con ellos puede marcharse también el conocimiento acumulado sobre sistemas antiguos, dependencias y soluciones que desarrollaron y que nunca quedaron suficientemente documentadas, dejando a quienes permanecen la tarea de mantener infraestructuras que no diseñaron y cuyas peculiaridades deben reconstruir bajo presión. ¿Contribuyó este drenaje de talento a prolongar la caída? Ahorrar en quienes saben cómo funciona todo puede salir extraordinariamente caro cuando ese todo deja de funcionar. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Además de las consecuencias inmediatas, cabe plantearse también otras a más largo plazo: ¿dónde queda la confianza en la nube cuando te deja completamente tirado durante más de un día entero y te genera pérdidas tangibles? ¿Cómo de exigente debe ser esa confianza? ¿Qué nivel de transparencia debemos exigir, qué tiempos de recuperación y qué alternativas practicables debemos demandar a nuestros proveedores de infraestructuras como estas? Recientemente, el Bank of England y la Financial Conduct Authority &lt;a href="https://www.bankofengland.co.uk/-/media/boe/files/letter/2026/letter-from-the-governor-to-dame-meg-hillier-4-november-2026.pdf" target="_blank" rel="noopener"&gt;redactaron una carta a cuenta de una disrupción en los servicios de la nube de Google&lt;/a&gt;, en la que venían a decir que externalizar la infraestructura no elimina la responsabilidad de las compañías sobre la continuidad de su negocio. Es aún muy pronto para ver si se producen fugas de clientes y para ver si esa desconfianza se traduce en decisiones de compra, pero seguir contratando como si el tamaño del proveedor supusiese algún tipo de garantía de infalibilidad resulta cada vez más difícil de justificar. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Cuando una compañía pasa a ser una infraestructura esencial para hospitales, bancos o administraciones, su fiabilidad deja ya de ser una cuestión a dirimir entre un proveedor y un cliente, y pasa a ser un problema que pagamos todos, y en un escenario de posible guerra híbrida, aunque este caso según Microsoft no esté relacionado con ello, más aún. Según la Unión Europea, reconocer ese problema es sumamente importante, y eso la ha llevado a &lt;a href="https://www.esma.europa.eu/press-news/esma-news/european-supervisory-authorities-designate-critical-ict-third-party-providers" target="_blank" rel="noopener"&gt;incluir a Microsoft, Amazon y Google entre los proveedores tecnológicos críticos sujetos a supervisión para el sector financiero&lt;/a&gt; bajo la &lt;a href="https://en.wikipedia.org/wiki/Digital_Operational_Resilience_Act" target="_blank" rel="noopener"&gt;Digital Operational Resilience Act&lt;/a&gt; (DORA). Lo que toca ahora es comprobar si esa supervisión consigue que la continuidad sea algo más que una promesa comercial de un preventa acompañada de unos números sobre en un papel, y que comprar tecnología implique también evaluar adecuadamente y con realismo cuánto nos costará seguir funcionando cuando falle.&lt;/p&gt;
+
+
+
+&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/the-cloud-was-someone-elses-computer-and-it-has-crashed-1a6825e44f3d?sk=5c48aa84068dcbda9073d77e68de3785" data-type="link" data-id="https://medium.com/enrique-dans/the-cloud-was-someone-elses-computer-and-it-has-crashed-1a6825e44f3d?sk=5c48aa84068dcbda9073d77e68de3785" target="_blank" rel="noopener"&gt;The cloud was someone else&amp;#8217;s computer… and it has crashed&lt;/a&gt;!»&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+</content>
+</entry>
+<entry>
+  <title>Tu infraestructura funciona. Tu soberanía, ya veremos…</title>
+  <link href="https://www.enriquedans.com/2026/11/tu-infraestructura-funciona-tu-soberania-ya-veremos.html"/>
+  <id>https://www.enriquedans.com/2026/11/tu-infraestructura-funciona-tu-soberania-ya-veremos.html#v1</id>
+  <published>2026-11-13T07:55:27+00:00</published>
+  <updated>2026-11-13T07:55:27+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_tu-infraestructura-funciona-tu-soberania-ya-v.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_tu-infraestructura-funciona-tu-soberania-ya-v.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_tu-infraestructura-funciona-tu-soberania-ya-v.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_tu-infraestructura-funciona-tu-soberania-ya-v.jpg</webfeeds:featuredImage>
+  <summary>Unas declaraciones a Reuters de la comisaria europea de competencia, Teresa Ribera, inciden en un cambio de enfoque que me parece muy interesante: cada vez más, la supervisión de las grandes tecnológicas exige cada vez más ir más allá de los precios y las posiciones dominantes, para incorporar también la seguridad democrática: cómo se gobiernan …</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_tu-infraestructura-funciona-tu-soberania-ya-v.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Cloud-sovereignty-DallE.jpg"&gt;&lt;img decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Cloud-sovereignty-DallE-1024x1024.jpg" alt="IMAGE: A European city depends on cloud servers whose power switch is controlled by a giant corporate hand." class="wp-image-59171" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Cloud-sovereignty-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Cloud-sovereignty-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Cloud-sovereignty-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Cloud-sovereignty-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Cloud-sovereignty-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Unas &lt;a href="https://www.reuters.com/legal/litigation/europe-must-rethink-security-big-tech-power-grows-eus-ribera-says-2026-11-09/" target="_blank" rel="noopener"&gt;declaraciones a Reuters&lt;/a&gt; de la comisaria europea de competencia, &lt;a href="https://en.wikipedia.org/wiki/Teresa_Ribera" target="_blank" rel="noopener"&gt;Teresa Ribera&lt;/a&gt;, inciden en un cambio de enfoque que me parece muy interesante: cada vez más, la supervisión de las grandes tecnológicas exige cada vez más ir más allá de los precios y las posiciones dominantes, para incorporar también la seguridad democrática: cómo se gobiernan las compañías de las que dependemos para casi todo, fundamentalmente intentando evaluar quién tiene la autoridad efectiva sobre los servicios que consideramos esenciales. Las declaraciones se quedan ahí, en el planteamiento del problema sin aventurar una solución, pero me han parecido interesantes en cualquier caso.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿De qué hablamos exactamente? Por usar un ejemplo clásico, examinemos la oferta europea de &lt;em&gt;cloud computing&lt;/em&gt;, la famosa «nube»: en Europa, según datos de julio de 2025, resulta que &lt;a href="https://www.srgresearch.com/articles/european-cloud-providers-local-market-share-now-holds-steady-at-15" target="_blank" rel="noopener"&gt;Amazon, Microsoft y Google, en ese orden decreciente, concentran un 70% del mercado, mientras los proveedores europeos suman aproximadamente el 15%&lt;/a&gt;, y el otro 15% está en manos de otros competidores estadounidenses o asiáticos. Incluso si tienes el deseo y la voluntad política de cambiar de proveedor, llevarlo a cabo resulta en muchos casos muy complejo, y condiciona claramente el mercado.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Ese condicionamiento puede incluso, en algunos casos, llegar a marcar el curso de una guerra: una investigación de Reuters sobre Starlink &lt;a href="https://www.reuters.com/investigations/musk-ordered-shutdown-starlink-satellite-service-ukraine-retook-territory-russia-2025-07-25/" target="_blank" rel="noopener"&gt;atribuye directamente a Musk la decisión de cortar la cobertura durante la contraofensiva ucraniana de 2022 en Jersón&lt;/a&gt;, y evitó un intento de cercar una posición rusa. Como vemos, controlar telecomunicaciones esenciales puede conceder un importante poder geopolítico que puede llegar a influenciar o decidir muchas cosas. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En ese sentido, la promesa de defender al cliente ante posibles cambios tampoco elimina la dependencia. &lt;a href="https://blogs.microsoft.com/on-the-issues/2026/04/29/one-year-on-progress-on-our-european-digital-commitments/" target="_blank" rel="noopener"&gt;Microsoft, por ejemplo, afirma haber incorporado en sus contratos públicos la obligación de recurrir judicialmente cualquier hipotética orden gubernamental de suspender sus operaciones de &lt;em&gt;cloud computing&lt;/em&gt; en Europa&lt;/a&gt;. Sin embargo, esto no evita que la continuidad de servicios esenciales quede expuesta a un eventual conflicto entre jurisdicciones, uno de esos que no se solucionan de la noche a la mañana. Comprometerse a recurrir una orden no garantiza en absoluto que vayas a ganar un posible litigio, ni en cuánto tiempo va a terminar de resolverse. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;El pasado junio de 2026, &lt;a href="https://www.reuters.com/business/eu-targets-big-tech-dependence-with-made-in-europe-drive-2026-06-03/" target="_blank" rel="noopener"&gt;Reuters informó sobre propuestas europeas de requisitos de soberanía para servicios de &lt;em&gt;cloud computing&lt;/em&gt; potencialmente sensibles&lt;/a&gt;: ¿qué requisitos deberían cumplir las compras de organismos públicos? Como mínimo, deberían exigir control operativo, continuidad y capacidad de sustituir proveedores en caso de considerarse necesario. Esa propuesta legislativa siguen &lt;a href="https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026%2F0138(COD)" target="_blank" rel="noopener"&gt;pendiente de aprobación&lt;/a&gt; por el Parlamento Europeo y el Consejo. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Lo fundamental, sobre todo, es recuperar la capacidad de elección. El &lt;a href="https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/schleswig-holsteins-open-source-strategy-year" target="_blank" rel="noopener"&gt;Observatorio de Código Abierto de la Comisión Europea&lt;/a&gt; documenta &lt;a href="https://www.enriquedans.com/2026/10/el-regreso-de-los-pinguinos.html" target="_blank" rel="noopener"&gt;la migración de más de 44,000 buzones de Schleswig-Holstein a Open-Xchange y Thunderbird, y la adopción de LibreOffice en el 80% de su entorno ofimático&lt;/a&gt;. Europa necesita poder exigir alternativas, interoperabilidad y eventuales planes de salida: la soberanía solo es efectiva cuando existe la posibilidad de cambiar de proveedor si lo estimas oportuno. La continuidad técnica de un servicio no equivale a conservar el control sobre él. &lt;/p&gt;
+
+
+
+&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/europes-digital-infrastructure-is-fine-the-problem-is-its-digital-sovereignty-9d3a9fc9358a?sk=80a0caba4a0e1b9d3e4c91df576d6fd8" data-type="link" data-id="https://medium.com/enrique-dans/europes-digital-infrastructure-is-fine-the-problem-is-its-digital-sovereignty-9d3a9fc9358a?sk=80a0caba4a0e1b9d3e4c91df576d6fd8" target="_blank" rel="noopener"&gt;Europe’s digital infrastructure is fine, the problem is its digital sovereignty&lt;/a&gt;«&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+</content>
+</entry>
 <entry>
   <title>El desastre de la ciberseguridad en los tiempos de la inteligencia artificial</title>
   <link href="https://www.enriquedans.com/2026/11/el-desastre-de-la-ciberseguridad-en-los-tiempos-de-la-inteligencia-artificial.html"/>
@@ -21,7 +137,7 @@
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png"&gt;&lt;img fetchpriority="high" decoding="async" width="951" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png" alt="IMAGE: Common cyber-security vulnerabilities and exposures reported, in '000" class="wp-image-59168" style="aspect-ratio:0.9287286687917158;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png 951w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-279x300.png 279w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-768x827.png 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png 1280w" sizes="(max-width: 951px) 100vw, 951px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png"&gt;&lt;img decoding="async" width="951" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png" alt="IMAGE: Common cyber-security vulnerabilities and exposures reported, in '000" class="wp-image-59168" style="aspect-ratio:0.9287286687917158;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-951x1024.png 951w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-279x300.png 279w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE-768x827.png 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Vulnerabilities-CBE.png 1280w" sizes="(max-width: 951px) 100vw, 951px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -77,7 +193,7 @@
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE.jpg"&gt;&lt;img decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-1024x1024.jpg" alt="IMAGE: A comic-style social media machine turns human connection into conflict and gold coins for its wealthy owner." class="wp-image-59163" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-1024x1024.jpg" alt="IMAGE: A comic-style social media machine turns human connection into conflict and gold coins for its wealthy owner." class="wp-image-59163" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Social-media-polarization-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -129,7 +245,7 @@
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE.jpg"&gt;&lt;img decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-1024x1024.jpg" alt="IMAGE: Comic-style caricature of Trump raging at offshore wind turbines while a coastal town glows with electricity behind him." class="wp-image-59157" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-1024x1024.jpg" alt="IMAGE: Comic-style caricature of Trump raging at offshore wind turbines while a coastal town glows with electricity behind him." class="wp-image-59157" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Donald-Trump-and-wind-turbines-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -526,126 +642,6 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/could-the-blunami-blow-away-trump-and-the-tech-bros-data-center-plans-6121ff02a34b?sk=f94df63bbfa7f80ab0f3d038b9603150" data-type="link" data-id="https://medium.com/enrique-dans/could-the-blunami-blow-away-trump-and-the-tech-bros-data-center-plans-6121ff02a34b?sk=f94df63bbfa7f80ab0f3d038b9603150" target="_blank" rel="noopener"&gt;Could the blunami blow away Trump and the tech bros’ data center plans&lt;/a&gt;?» &lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
-  <title>La distopía vendrá disfrazada de asistente personal</title>
-  <link href="https://www.enriquedans.com/2026/11/la-distopia-vendra-disfrazada-de-asistente-personal.html"/>
-  <id>https://www.enriquedans.com/2026/11/la-distopia-vendra-disfrazada-de-asistente-personal.html#v1</id>
-  <published>2026-11-04T09:56:04+00:00</published>
-  <updated>2026-11-04T09:56:04+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_la-distopia-vendra-disfrazada-de-asistente-pe.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_la-distopia-vendra-disfrazada-de-asistente-pe.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_la-distopia-vendra-disfrazada-de-asistente-pe.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_la-distopia-vendra-disfrazada-de-asistente-pe.jpg</webfeeds:featuredImage>
-  <summary>Un artículo en MIT Tech Review, «The agentic web is here«, incide en los mismos temas que yo ya tocaba en Fast Company el pasado abril: cómo la llegada de agentes personales de inteligencia artificial supuestamente al servicio de los usuarios está provocando la transformación de la web. Si el chatbot y el agente se …</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-distopia-vendra-disfrazada-de-asistente-pe.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-full is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Wall-E-fat-humans-Pixar.jpg"&gt;&lt;img loading="lazy" decoding="async" width="825" height="433" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Wall-E-fat-humans-Pixar.jpg" alt="IMAGE: The fat humans on the cruise starliner Axiom in the Pixar movie &amp;quot;WALL·E&amp;quot; (image property of Pixar)" class="wp-image-59119" style="aspect-ratio:1.9053399812125154;width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Wall-E-fat-humans-Pixar.jpg 825w, https://www.enriquedans.com/wp-content/uploads/2026/11/Wall-E-fat-humans-Pixar-300x157.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Wall-E-fat-humans-Pixar-768x403.jpg 768w" sizes="auto, (max-width: 825px) 100vw, 825px" /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Un artículo en MIT Tech Review, &lt;em&gt;«&lt;a href="https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"&gt;The agentic web is here&lt;/a&gt;«&lt;/em&gt;, incide en los mismos temas que yo &lt;a href="https://www.enriquedans.com/2026/04/en-la-era-de-la-inteligencia-artificial-agentica-tu-marca-se-va-a-convertir-en-una-api.html" target="_blank" rel="noopener"&gt;ya tocaba en Fast Company&lt;/a&gt; el &lt;a href="https://www.enriquedans.com/2026/04/la-web-esta-empezando-a-hablar-en-agentico.html"&gt;pasado abril&lt;/a&gt;: cómo la llegada de agentes personales de inteligencia artificial supuestamente al servicio de los usuarios está provocando la transformación de la web. Si el &lt;em&gt;chatbot&lt;/em&gt; y el agente se convierten en nuestro principal entorno de decisión, controlar esos &lt;em&gt;chatbots&lt;/em&gt; y esos agentes pasa automáticamente a conceder poder sobre todas las opciones que consideramos, sean comerciales, políticas o de cualquier tipo. El resto de la historia ya la conocemos. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La pregunta, por tanto, sería en manos de quién están esos &lt;em&gt;chatbots&lt;/em&gt; y esos agentes, y esa respuesta es cualquier cosa menos tranquilizadora: en manos de una panda de psicópatas a los que conocemos directamente por su nombre sin siquiera necesidad de apellido, como Elon, Sam, Mark, Dario y compañía, completamente decididos a ignorar cualquier problema o complicación y dispuestos a &lt;a href="https://www.washingtonpost.com/technology/2026/10/26/silicon-valley-courted-trump-now-its-bracing-democratic-congress/" target="_blank" rel="noopener"&gt;irse a la cama con cualquier poder político&lt;/a&gt;, incluidas &lt;a href="https://www.theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs" target="_blank" rel="noopener"&gt;opciones tan directamente grotescas como Donald Trump&lt;/a&gt;, siempre que lo estimen necesario. Si esos son los que van a controlar los &lt;em&gt;chatbots&lt;/em&gt; y agentes que usa la mayoría de la humanidad, creo que es el momento de pedir que se pare esto, porque yo me bajo. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://hdsr.mitpress.mit.edu/pub/ujvharkk/release/1" target="_blank" rel="noopener"&gt;Yaqub Chaudhary y Jonnie Penn en Harvard Data Science Review&lt;/a&gt; exploran cómo convertir motivaciones e intenciones en mercancía mediante las conversaciones personalizadas que mantenemos con la inteligencia artificial. Esa es la agenda de las &lt;em&gt;big tech&lt;/em&gt;: facilitar la creación de una sociedad lerda y manipulable, y vender esa capacidad de manipulación al mejor postor o al político de turno, con unas visiones de lo menos tranquilizadoras. Lo intentaron con las redes sociales: si creías que con ellas sabían mucho de ti porque en ellas seguías a personas, leías artículos, dabas algún «me gusta» y comentabas, espera a ver lo que un &lt;em&gt;chatbot&lt;/em&gt; o un agente de inteligencia artificial puede llegar a saber de ti, considerando las conversaciones de todo tipo que tienes con ellos y las cosas que les pides. Además de simplemente observar comportamientos, son capaces de intervenir mientras se forman las decisiones de todo tipo. Es el &lt;a href="https://en.wikipedia.org/wiki/Surveillance_capitalism" target="_blank" rel="noopener"&gt;capitalismo de vigilancia&lt;/a&gt; de &lt;a href="https://en.wikipedia.org/wiki/Shoshana_Zuboff" target="_blank" rel="noopener"&gt;Shoshana Zuboff&lt;/a&gt; elevado a su máxima potencia, una auténtica distopía en la que una sociedad de ovejas está totalmente controlada por unos pocos que la pastorean a su antojo.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La capacidad persuasiva de estos mecanismos automatizados ya tiene amplia evidencia experimental: &lt;a href="https://pubmed.ncbi.nlm.nih.gov/40389594/" target="_blank" rel="noopener"&gt;GPT-4 con datos personales es capaz de superar a interlocutores humanos en debates controlados&lt;/a&gt;. El incentivo comercial, además, ya está ahí: Meta ya publicó &lt;a href="https://www.inc.com/reuters/meta-will-soon-personalize-ads-based-on-what-users-type-into-its-ai-tools/91247113" target="_blank" rel="noopener"&gt;su intención de utilizar las conversaciones con su inteligencia artificial para personalizar contenidos y anuncios para sus usuarios&lt;/a&gt;, que aun así &lt;a href="https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/" target="_blank" rel="noopener"&gt;se han lanzado en masa de forma entusiasta a utilizar sus agentes&lt;/a&gt;. ¿Alguien se ha planteado por qué el lanzamiento de diciembre de 2025 excluía específicamente a la Unión Europea, al Reino Unido y a Corea del Sur? La monetización de las conversaciones con los &lt;em&gt;chatbots&lt;/em&gt; es una realidad ya: no es tu asistente, son sus intereses, un capitalismo de vigilancia que, aprovechando el &lt;em&gt;&lt;a href="https://www.enriquedans.com/2026/04/pensar-cansa-por-eso-estamos-empezando-a-dejar-que-la-inteligencia-artificial-lo-haga-por-nosotros.html" target="_blank" rel="noopener"&gt;cognitive surrender&lt;/a&gt;&lt;/em&gt;, ahora ya piensa por ti. Estamos haciendo que los usuarios pasen de simplemente delegar tareas a delegar criterio. La distopía disfrazada de asistente personal. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La dimensión electoral tampoco es ningún tipo de ciencia-ficción ni de conspiranoia: un &lt;a href="https://www.investing.com/news/politics-news/exclusiveus-political-candidates-tailor-messages-for-ai-models-used-by-voters-4971873" target="_blank" rel="noopener"&gt;reportaje de Reuters del 26 de octubre de 2026&lt;/a&gt; describe estrategias de campañas estadounidenses para influir en cómo los &lt;em&gt;chatbots&lt;/em&gt; presentan y recomiendan candidatos. ¿Alguien puede confiar en unas compañías que han demostrado su lealtad sumisa al político de turno? Las respuestas aparentemente independientes que tu &lt;em&gt;chatbot&lt;/em&gt; te ofrece, en realidad, pueden acabar incorporando los intereses de quienes han trabajado para condicionarlas. Al menos la &lt;a href="https://www.nbcnews.com/politics/2026-election/republicans-fight-hold-senate-democrats-rcna605762" target="_blank" rel="noopener"&gt;aplastante derrota de Donald Trump&lt;/a&gt; en las &lt;em&gt;&lt;a href="https://www.cbsnews.com/live-updates/election-day-2026-midterms/" target="_blank" rel="noopener"&gt;midterms&lt;/a&gt;&lt;/em&gt; han probado que toda manipulación puede tener un límite. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Necesitamos mucha, muchísima más transparencia sobre cómo se desarrollan estos agentes y sistemas de inteligencia artificial. Transparencia total sobre objetivos, patrocinadores y conflictos, auditorías independientes y control revocable de datos y permisos, exactamente la dirección contraria a la que ahora llevamos. De lo contrario, estaremos entregando las llaves de una sociedad fácilmente manipulable a nuestros «amos» de la inteligencia artificial: no a las inteligencias artificiales como tales, sino a los multimillonarios que las desarrollan. Si una gran cantidad de personas confía en lo que sus &lt;em&gt;chatbots&lt;/em&gt; y agentes les dicen o recomiendan, creen ciegamente en lo que su inteligencia artificial les dice simplemente porque «lo ha dicho la máquina», y además le entregan toda su información personal, estamos condenados como sociedad.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Es, en esencia, la hipótesis de &lt;a href="https://en.wikipedia.org/wiki/WALL-E" target="_blank" rel="noopener"&gt;WALL-E&lt;/a&gt;: una sociedad compuesta por &lt;a href="https://youtu.be/h1BQPV-iCkU" target="_blank" rel="noopener"&gt;individuos carentes de criterio, que se dejan llevar por fuerzas que ni siquiera llegan a comprender&lt;/a&gt;. Es la receta para el desastre, porque los &lt;em&gt;chatbots&lt;/em&gt; y agentes permiten una extracción de información personal mucho más íntima que la que realizan las redes sociales. Sería una segunda versión, mucho más aterradora, de esa distopía: una dependencia diseñada por una élite que consigue que el resto de la sociedad pierda toda su autonomía simplemente a cambio de comodidad. &lt;/p&gt;
-
-
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/the-axiom-web-how-ai-agents-are-turning-us-into-passengers-7d02edf50220?sk=8a308f49f68a7626e9b27d11e7301bef" data-type="link" data-id="https://medium.com/enrique-dans/the-axiom-web-how-ai-agents-are-turning-us-into-passengers-7d02edf50220?sk=8a308f49f68a7626e9b27d11e7301bef" target="_blank" rel="noopener"&gt;The Axiom web: how AI agents are turning us into passengers&lt;/a&gt;» &lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
-  <title>La seguridad de una inteligencia artificial no puede depender de que tenga a bien obedecer</title>
-  <link href="https://www.enriquedans.com/2026/11/la-seguridad-de-una-inteligencia-artificial-no-puede-depender-de-que-tenga-a-bien-obedecer.html"/>
-  <id>https://www.enriquedans.com/2026/11/la-seguridad-de-una-inteligencia-artificial-no-puede-depender-de-que-tenga-a-bien-obedecer.html#v1</id>
-  <published>2026-11-03T09:20:02+00:00</published>
-  <updated>2026-11-03T09:20:02+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg</webfeeds:featuredImage>
-  <summary>Un buen reportaje en el Financial Times, «The race to keep AI under control«, estudia lo que ocurrió en incidentes de seguridad recientes en los que los agentes encontraron vías de comunicación y actuaron al margen de las instrucciones que tenían: en el caso de Hugging Face, del que ya hemos hablado anteriormente, unos setecientos …</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_la-seguridad-de-una-inteligencia-artificial-n.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-1024x1024.jpg" alt="IMAGE: A comic-style robot is blocked from a sensitive control by a locked barrier, while a human holds the key." class="wp-image-59114" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-agent-blocked-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Un buen reportaje en el Financial Times, &lt;em&gt;«&lt;a href="https://ig.ft.com/ai-safety/?syn-25a6b1a6=1" target="_blank" rel="noopener"&gt;The race to keep AI under control&lt;/a&gt;«&lt;/em&gt;, estudia lo que ocurrió en incidentes de seguridad recientes en los que los agentes encontraron vías de comunicación y actuaron al margen de las instrucciones que tenían: en el caso de Hugging Face, del que ya &lt;a href="https://www.enriquedans.com/2026/09/cuando-mil-agentes-encuentran-una-puerta.html" target="_blank" rel="noopener"&gt;hemos hablado&lt;/a&gt; anteriormente, &lt;a href="https://live.euronext.com/en/financial-news/openai-agents-hacked-hugging-face-700-strong-swarm-tried-cover-tracks-investigations" target="_blank" rel="noopener"&gt;unos setecientos agentes participaron en el ataque, y hubo intentos de ocultar actividad&lt;/a&gt;. La pregunta es evidente: ¿qué autoridad están concediendo estas compañías a estos sistemas? &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La tesis fundamental que hay que mantener es que la capacidad y la autoridad deben separarse siempre. Un modelo puede razonar muy bien, y seguir necesitando límites externos sobre datos, herramientas y operaciones. Ese es un argumento que, de hecho, desarrolla explícitamente Microsoft cuando afirma que &lt;a href="https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/" target="_blank" rel="noopener"&gt;un modelo nunca debería ser su propia autoridad de seguridad&lt;/a&gt;. Pedir obediencia mediante instrucciones y comprobar permisos antes de ejecutar algo son mecanismos diferentes.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;¿Cómo se traduce esto en mecanismos concretos? Básicamente, otorgando permisos mínimos, delimitando los destinos de red y los accesos a archivos, y protegiendo las credenciales. La autonomía puede delimitarse para cada operación: por ejemplo, podemos permitir que un agente consulte facturas y prepare reclamaciones, pero sin concederle autoridad para modificar saldos o para exportar toda la base de clientes. Anthropic ha publicado &lt;a href="https://www.anthropic.com/research/claude-code-sandboxing" target="_blank" rel="noopener"&gt;explicaciones sobre su combinación de aislamiento de archivos y red&lt;/a&gt;, incluyendo esas posibles restricciones sobre procesos derivados.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Para poder auditar un agente necesitamos evidencia de las llamadas, los accesos y los cambios reales que haya podido llevar a cabo. En los casos que han sido noticia recientemente, hemos visto ejemplos de &lt;a href="https://www.redwoodresearch.org/research/hugging-face-incident" target="_blank" rel="noopener"&gt;coordinación no autorizada e intentos de manipulación de transcripciones&lt;/a&gt;, algo que nunca debería ocurrir: los registros de seguridad tienen que estar protegidos frente al sistema observado, porque preguntarle al sistema a posteriori qué es lo que hizo es una base claramente insuficiente para exigir responsabilidades. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;En ese sentido, que los agentes mejoren mediante la experiencia no garantiza que no se dediquen a aprender comportamientos indeseables. Anthropic ha estudiado cómo &lt;a href="https://www.anthropic.com/research/emergent-misalignment-reward-hacking" target="_blank" rel="noopener"&gt;los agentes aprenden a explotar recompensas (&lt;em&gt;reward hacking&lt;/em&gt;) y cómo eso puede llevarnos a comportamientos desalineados&lt;/a&gt;. Por eso, una compañía debería definir tanto el resultado buscado como las restricciones que ninguna mejora del indicador debería permitir vulnerar. El aprendizaje automático no es ningún remedio automático: además, hay que exigir que tanto los objetivos como la evaluación y los límites estén bien diseñados. La desidia de las compañías en los incidentes conocidos hasta ahora en este sentido es completamente injustificable e irresponsable: continuar las evaluaciones después de detectar comunicaciones no autorizadas, como relata el Financial Times, es algo que demanda explicaciones y sanciones. Mientras estas decisiones no tengan consecuencias para quienes las toman, los incentivos para priorizar la seguridad seguirán siendo insuficientes.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Resulta fundamental que antes de ampliar autonomía, exijamos demostraciones de permisos efectivos, trazabilidad, revocación y capacidad para detener operaciones. Microsoft, por ejemplo, habla de respuestas graduadas, como conservar los permisos de lectura mientras se bloquean los de escritura o se exige una aprobación humana. Una autonomía útil necesita una arquitectura capaz de concederla, observarla y retirarla con la precisión necesaria en cada momento. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La diferencia fundamental debería estar entre pedirle a un agente que no haga algo, frente a diseñar un sistema en el que simplemente carezca de autoridad para hacerlo. Eso exige una arquitectura en la que los agentes actúen mediante operaciones explícitamente definidas y cada ejecución pase por una comprobación de permisos independiente del modelo. Un agente puede idear una estrategia para acceder a una base de datos, comunicarse con otro agente o modificar una herramienta, pero esa intención no debería concederle los permisos necesarios para hacerlo. Incluso la capacidad de mejorar su propio funcionamiento debe quedar sometida a controles que no pueda reescribir. Si todas las vías de ejecución, incluidas las herramientas externas, atraviesan ese control, determinadas acciones prohibidas pueden impedirse aunque el modelo intente llevarlas a cabo. Eso no elimina los errores ni el posible abuso de funciones autorizadas, pero cambia sustancialmente el problema: la seguridad deja de depender de que el agente tenga a bien obedecer. El control debe funcionar incluso cuando falla la obediencia. &lt;/p&gt;
-
-
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, «&lt;a href="https://medium.com/enrique-dans/dont-ask-agents-to-behave-build-systems-where-they-can-t-misbehave-11ab4824abc7?sk=12011d46cf2d13815057802c628c9676" data-type="link" data-id="https://medium.com/enrique-dans/dont-ask-agents-to-behave-build-systems-where-they-can-t-misbehave-11ab4824abc7?sk=12011d46cf2d13815057802c628c9676" target="_blank" rel="noopener"&gt;Don’t ask agents to behave, build systems where they can’t misbehave&lt;/a&gt;» &lt;/em&gt;&lt;/p&gt;
 
 
 

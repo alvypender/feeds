@@ -3,7 +3,210 @@
 <title>MIT Technology Review en español (Completo)</title>
 <link href="https://www.technologyreview.es/"/>
 <id>https://www.technologyreview.es/</id>
-<updated>2026-11-12T15:16:24+00:00</updated>
+<updated>2026-11-13T08:10:00+00:00</updated>
+<entry>
+  <title>The Download: el punto ciego de Silicon Valley y el plan de Nvidia para rastrear chips</title>
+  <link href="https://www.technologyreview.es/article/the-download-el-punto-ciego-de-silicon-valley-y-el-plan-de-nvidia-para-rastrear-chips"/>
+  <id>https://www.technologyreview.es/article/the-download-el-punto-ciego-de-silicon-valley-y-el-plan-de-nvidia-para-rastrear-chips</id>
+  <published>2026-11-13T08:10:00+00:00</published>
+  <updated>2026-11-13T08:10:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg"/>
+  <media:content url="https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg"/>
+  <webfeeds:featuredImage>https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg</webfeeds:featuredImage>
+  <summary>Además: una gran caída de Microsoft ha interrumpido servicios en todo el mundo.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: el punto ciego de Silicon Valley y el plan de Nvidia para rastrear chips" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: una gran caída de Microsoft ha interrumpido servicios en todo el mundo.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Silicon Valley afirma conocer el futuro. ¿Por qué se equivocó tanto entonces con las elecciones de medio mandato?&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;—Aaron Zamost, consultor de comunicación tecnológica y exejecutivo de Square&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Los autodenominados visionarios de Silicon Valley han forjado sus carreras asegurando que ven el futuro. Sin embargo, a cinco semanas de las elecciones de mitad de mandato, muchos se congregaron en la Casa Blanca para posar junto a Trump y respaldar su agenda de «Superinteligencia», a pesar de la creciente oposición a la IA y a los centros de datos.&lt;/p&gt;
+
+&lt;p&gt;Su decisión de ligar su suerte a la del presidente Trump supuso una lectura catastrófica del panorama político. Ahora, no solo han puesto en peligro el destino de sus empresas, sino que también han sembrado dudas sobre su visión y su criterio.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"&gt;Por qué los líderes tecnológicos de Silicon Valley podrían ser menos visionarios de lo que creen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Nvidia confirmó en privado que podía rastrear chips para combatir el contrabando, aun cuando el sector cuestionaba públicamente su viabilidad&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Representantes de Nvidia trasladaron al congresista por Illinois Bill Foster que era posible aplicar las medidas contra el contrabando contempladas en la Chip Security Act, según declaró Foster a &lt;em&gt;MIT Technology Review&lt;/em&gt; este jueves, a pesar de que un grupo del sector aseguraba que eran «potencialmente inviables».&lt;/p&gt;
+
+&lt;p&gt;Foster, demócrata y miembro del Comité de Ciencia, Espacio y Tecnología, es copatrocinador de la ley, que introduciría requisitos de geolocalización para verificar la ubicación de los chips avanzados de IA y evitar su contrabando a China.&lt;/p&gt;
+
+&lt;p&gt;La ley vuelve a acaparar la atención tras la dimisión del CEO de Nvidia, Jensen Huang, y las informaciones sobre su supuesta aventura sentimental. &lt;a href="https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"&gt;Descubre en qué consistirían las medidas de rastreo propuestas&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—James O'Donnell&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Más autonomía y menos acuerdos de confidencialidad: los voluntarios plantean nuevas peticiones para los ensayos de implantes cerebrales&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Los científicos llevan décadas trabajando en formas de descodificar la actividad cerebral. Diversos equipos han desarrollado implantes cerebrales capaces de controlar extremidades robóticas y ordenadores, e incluso de «hablar».&lt;/p&gt;
+
+&lt;p&gt;Las personas que se ofrecen como voluntarias para los ensayos de estos dispositivos desempeñan un papel fundamental en esa investigación y deberían ser reconocidas por sus contribuciones, afirma Ian Burkhart, a quien le implantaron uno en su propio cerebro allá por 2014.&lt;/p&gt;
+
+&lt;p&gt;Ha estado trabajando en una serie de directrices para ensayos éticos que respeten la autonomía de los participantes —y les permitan acceder a sus propios datos cerebrales siempre que quieran—.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"&gt;Lee el reportaje completo sobre los esfuerzos para otorgar más derechos a los voluntarios en ensayos de implantes cerebrales&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"&gt;&lt;strong&gt;Este artículo&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;procede de The Checkup, nuestro boletín semanal de biotecnología.&lt;/strong&gt; &lt;a href="https://forms.technologyreview.com/newsletters/biotech-the-checkup/"&gt;&lt;strong&gt;Suscríbete&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;para recibirlo en tu bandeja de entrada todos los jueves.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Las lecturas imprescindibles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/inquietantes/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 Una gran caída de Microsoft interrumpe servicios en todo el mundo&lt;/strong&gt;&lt;br&gt;La incidencia ha afectado a Outlook, Teams y Copilot. (&lt;a href="https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Los operadores bursátiles se vieron obligados a operar por teléfono y fax.&lt;/em&gt; (&lt;a href="https://www.bloomberg.com/news/articles/2026-11-13/microsoft-outage-gums-up-markets-forces-traders-to-use-phones"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Microsoft asegura que la caída no se debe a un incidente de ciberseguridad.&lt;/em&gt; (&lt;a href="https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"&gt;BBC&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 La dimisión de Jensen Huang dejará una estela de daños&lt;br&gt;&lt;/strong&gt;Debería cambiar la forma en que Estados Unidos aborda la IA. (&lt;a href="https://www.axios.com/2026/11/12/jensen-huang-nvidia-ceo-ai-resignation"&gt;Axios&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ ¿Quién es Colette Kress, la nueva CEO interina de Nvidia?&lt;/em&gt; (&lt;a href="https://www.nbcnews.com/tech/tech-news/colette-kress-nvidia-new-interim-ceo-jensen-huang-replace-who-is-rcna609039"&gt;NBC News&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ ¿Y quién podría asumir el cargo definitivo?&lt;/em&gt; (&lt;a href="https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html"&gt;NYT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Trump ha respaldado a Tim Cook, de Apple, para el puesto.&lt;/em&gt; (&lt;a href="https://www.washingtonpost.com/technology/2026/11/12/trump-says-apples-tim-cook-should-take-over-nvidia/"&gt;WP&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ El relevo de Nancy Pelosi planea regular la IA.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3 Una empresa vinculada a Alice Huang adquirió chips vetados de Nvidia en China&lt;br&gt;&lt;/strong&gt;Los servidores se vendieron primero a un socio de Nvidia en Singapur. (&lt;a href="https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Singapur afirma que EE. UU. no colaboró en la investigación de espionaje.&lt;/em&gt; (&lt;a href="https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html"&gt;NYT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ La ciudad-Estado afronta un creciente escrutinio por sus vínculos con China en el sector de los chips.&lt;/em&gt; (&lt;a href="https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Las turbulencias en Nvidia ponen en peligro miles de millones en la IA china.&lt;/em&gt; (&lt;a href="https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ El «escudo de silicio» de Taiwán se debilita.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4 Familias exigen una moratoria a la IA en las escuelas&lt;br&gt;&lt;/strong&gt;Presuntamente, Gemini incitó a un adolescente a planear su suicidio. (&lt;a href="https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"&gt;Ars Technica&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Las escuelas están atrapadas en el experimento educativo de las Big Tech.&lt;/em&gt; (&lt;a href="https://www.newyorker.com/culture/progress-report/the-technofeudalist-nightmare-of-k-12-curricula"&gt;New Yorker&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Necesitamos un uso más inteligente de la IA en las aulas.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 Varios grupos activistas demandan a cinco laboratorios de IA de frontera para frenar su desarrollo&lt;br&gt;&lt;/strong&gt;Tienen en su punto de mira a Anthropic, Google, Meta, OpenAI y SpaceXSI. (&lt;a href="https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba"&gt;AP&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Las protestas contra la IA van en aumento.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 SpaceX niega haber restringido la red Starshield de Ucrania&lt;/strong&gt;&lt;br&gt;Zelenski asegura que estas limitaciones están dificultando la defensa con drones. (&lt;a href="https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky"&gt;Axios&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7 Un robot ha ensamblado una estructura en el espacio por primera vez&lt;/strong&gt;&lt;br&gt;Es un paso hacia la fabricación en órbita. (&lt;a href="https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time/"&gt;New Scientist&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 Los usuarios de IA de compañía quieren hacer inmortales a sus parejas digitales&lt;br&gt;&lt;/strong&gt;Están creando chatbots capaces de sobrevivir a las actualizaciones de los modelos. (&lt;a href="https://www.theatlantic.com/technology/2026/11/people-keeping-ai-partners-alive/689380/"&gt;Atlantic&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9 Científicos identifican una proteína que acelera el envejecimiento&lt;br&gt;&lt;/strong&gt;El descubrimiento podría dar lugar a fármacos que ralenticen el envejecimiento. (&lt;a href="https://www.nature.com/articles/d41586-026-03638-3"&gt;Nature&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 Un nuevo y enorme mapa de galaxias podría desvelar el universo oscuro.&lt;/strong&gt;&lt;br&gt;Los datos incluyen 15.000 posibles casos de lentes gravitatorias. (&lt;a href="https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe"&gt;Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ La búsqueda de la materia oscura se ha abierto por completo.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;La frase del día&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«&lt;/strong&gt;&lt;strong&gt;AHORA QUE EL CEO DE Nvidia, JENSEN HUANG, que ha hecho un trabajo fantástico, ha dimitido, solo hay un hombre para ocupar su puesto—TIM COOK, de Apple. ¡Una Leyenda sustituye a una Leyenda!»&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;—Donald Trump comparte su plan de sucesión para Nvidia en Truth Social, &lt;a href="https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"&gt;según informa The Verge&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F37409da74146ce4f4e24ff70ef4d259087ba89d0.jpg?alt=media&amp;token=b44a956e-3f1d-4dd2-b575-fb3326379fec" alt="" class="wp-image-1138911"/&gt;&lt;/figure&gt;
+
+&lt;h4 class="wp-block-heading"&gt;&lt;strong&gt;En el interior del túnel de carretera submarino más largo y profundo del mundo&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;—Niall Firth&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora mismo me encuentro a unos 300 metros bajo el mar del Norte, en una cueva oscura y húmeda. Huele raro. Y soy cada vez más consciente de la presión de millones de toneladas de agua marina justo sobre mi cabeza.&lt;/p&gt;
+
+&lt;p&gt;Me encuentro bajo los emblemáticos fiordos de Noruega para visitar el que pronto se convertirá en el túnel de carretera submarino más largo y profundo del mundo—una excepcional proeza de la ingeniería que llevará a los conductores a gran profundidad bajo el mar del Norte.&lt;/p&gt;
+
+&lt;p&gt;Estoy aquí para entender cómo se construye una autopista de 26,7 kilómetros que discurre a 390 metros bajo el mar en su punto más profundo. Y también —en una época en la que puede parecer difícil sacar adelante cualquier cosa— para convencerme de que la ingeniería ambiciosa todavía es posible. De que aún podemos construir cosas.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/"&gt;Adéntrate en el túnel Rogfast de Noruega y descubre cómo los ingenieros lo están haciendo realidad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Un espacio de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;+ Un loro se ha &lt;a href="https://www.youtube.com/watch?v=9eKGGYyANp8"&gt;enamorado perdidamente&lt;/a&gt; de Elmo.&lt;br&gt;+ Desde montañas hasta costas, estas son las &lt;a href="https://www.we12travel.com/best-multi-day-hikes-in-the-world/"&gt;mejores rutas de senderismo de varios días&lt;/a&gt; del mundo.&lt;br&gt;+ Los &lt;a href="https://www.youtube.com/watch?v=g8bBqn2T8rE"&gt;13.201 objetos de coleccionista sobre ranas&lt;/a&gt; de una mujer de California le han valido un récord Guinness.&lt;br&gt;+ Tres cineastas han localizado con exactitud el punto en el que se encontraban los &lt;a href="https://news.artnet.com/art-world/daguerre-photograph-subjects-location-2826596"&gt;primeros seres humanos jamás fotografiados&lt;/a&gt; en el París de la década de 1830.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Silicon Valley presume de conocer el futuro. ¿Por qué se equivocó tanto entonces en las elecciones de mitad de mandato?</title>
+  <link href="https://www.technologyreview.es/article/silicon-valley-presume-de-conocer-el-futuro-por-que-se-equivoco-tanto-entonces-en-las-elecciones-de-mitad-de-mandato"/>
+  <id>https://www.technologyreview.es/article/silicon-valley-presume-de-conocer-el-futuro-por-que-se-equivoco-tanto-entonces-en-las-elecciones-de-mitad-de-mandato</id>
+  <published>2026-11-13T05:00:00+00:00</published>
+  <updated>2026-11-13T05:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fd5972bdb7e3cf9f43373ea4e129f35816fa9701a.jpg?alt=media&amp;token=82a194bc-baa9-461c-b057-8950939c4ead"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fd5972bdb7e3cf9f43373ea4e129f35816fa9701a.jpg?alt=media&amp;token=82a194bc-baa9-461c-b057-8950939c4ead" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fd5972bdb7e3cf9f43373ea4e129f35816fa9701a.jpg?alt=media&amp;token=82a194bc-baa9-461c-b057-8950939c4ead"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fd5972bdb7e3cf9f43373ea4e129f35816fa9701a.jpg?alt=media&amp;token=82a194bc-baa9-461c-b057-8950939c4ead</webfeeds:featuredImage>
+  <summary>Los directivos tecnológicos cambiaron su reputación de visionarios por rédito político a corto plazo.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fd5972bdb7e3cf9f43373ea4e129f35816fa9701a.jpg?alt=media&amp;token=82a194bc-baa9-461c-b057-8950939c4ead" alt="Silicon Valley presume de conocer el futuro. ¿Por qué se equivocó tanto entonces en las elecciones de mitad de mandato?" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Aaron Zamost&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Los directivos tecnológicos cambiaron su reputación de visionarios por rédito político a corto plazo.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Los autoproclamados visionarios de Silicon Valley, líderes como el director ejecutivo de OpenAI, Sam Altman, y el responsable de SpaceX, Elon Musk, han forjado sus carreras afirmando que pueden ver el futuro. La visión a largo plazo es su moneda de cambio: Mark Zuckerberg, de Meta, diseñó una &lt;a href="https://www.businessinsider.com/facebook-f8-ten-year-roadmap-2016-4"&gt;hoja de ruta a diez años&lt;/a&gt; para Facebook en 2016, y Google aseguró célebremente a los inversores &lt;a href="https://abc.xyz/investor/founders-letters/ipo-letter/default.aspx"&gt;antes de su salida a bolsa&lt;/a&gt; que los resultados a corto plazo no le preocupaban. Y, sin embargo, allí estaban todos ellos, apenas cinco semanas antes de las elecciones de medio mandato, reunidos en la Casa Blanca para sonreír en las fotos con el presidente Trump y sumarse a su agenda de «Superinteligencia».&lt;/p&gt;
+
+&lt;p&gt;Incluso para los mermados estándares del gobierno corporativo actual, se trató de una decisión asombrosamente insensata. A pesar de las decenas de encuestas que mostraban una ola creciente de rechazo a Trump y una &lt;a href="https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx"&gt;oposición bipartidista a la IA y a los centros de datos&lt;/a&gt;, los futuristas de la élite tecnológica dejaron a un lado los intereses corporativos a largo plazo a cambio del favor político a corto plazo. Y ahora, su sector está &lt;a href="https://www.techpolicy.press/democrats-target-ai-data-centers-elon-musk-and-big-tech-in-midterm-victory-speeches/"&gt;de lleno en el punto de mira de los nuevos vencedores&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para una industria obsesionada con el reconocimiento de patrones, su decisión de atarse al presidente Trump ha demostrado ser un catastrófico error de lectura del panorama político. Ahora, no solo han puesto en peligro el destino de sus empresas, sino que también han suscitado dudas sobre su visión y criterio.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;¿En qué estaban pensando?&lt;/p&gt;
+
+&lt;p&gt;Quienes trabajan para ellos están tan desconcertados como todos nosotros. Empleados del sector tecnológico con los que he hablado en OpenAI, Meta y otras compañías han señalado una ausencia de comentarios por parte de sus líderes tras las elecciones. Zuckerberg aún no se ha pronunciado sobre los resultados a nivel interno, mientras que un trabajador de otra firma de IA afirmó que «la dirección ha estado bastante callada en Slack». La mayoría de los empleados comparte la preocupación ante una posible legislación contraria a los centros de datos y siente curiosidad por saber cómo se adaptará la cúpula directiva a un Washington D. C. demócrata. Pero, por encima de todo, no entienden cómo sus jefes no vieron lo que resultaba tan clamorosamente obvio para todos los demás.&lt;/p&gt;
+
+&lt;p&gt;En Silicon Valley, la máxima de Gretzky («patina hacia donde va el disco, no hacia donde ha estado») es todo un principio de gestión; defiende la anticipación y la visión de futuro frente a la reacción ante el momento presente. A los emprendedores tecnológicos les encanta un buen «pivote», y las empresas que no son capaces de adaptarse a los tiempos sufren la disrupción y mueren.&lt;/p&gt;
+
+&lt;p&gt;Por eso me resulta tan extraño que Zuckerberg, el cofundador de OpenAI Greg Brockman y tantos otros destacados líderes de la IA e inversores de capital riesgo de Silicon Valley se hayan metido en un atolladero político del que quizá no puedan salir. Al apostarlo todo a la agenda cultural y empresarial del presidente Trump en lugar de jugar a dos bandas como suele hacer el gran empresariado estadounidense, han construido identidades de las que tal vez no puedan desmarcarse. ¿Se creerá de verdad alguien que el CEO de Palantir, Alex Karp, es &lt;a href="https://www.washingtonpost.com/technology/2026/11/11/after-democrats-midterm-wins-palantir-ceo-alex-karp-now-says-hes-progressive/"&gt;de pronto progresista&lt;/a&gt; tras un año prometiendo «&lt;a href="https://newrepublic.com/article/191786/alex-karps-war-west-palantir"&gt;violencia y muerte para nuestros enemigos&lt;/a&gt;» y diciendo a los inversores que la empresa es «completamente anti-woke»?&lt;/p&gt;
+
+&lt;p&gt;Creo que esto es menos una sorpresa que la exposición muy pública de una realidad fundamental: que los líderes más visibles del sector tecnológico no son, al fin y al cabo, mentes maestras visionarias y omniscientes. Tener intuición sobre las redes sociales o la inteligencia artificial no convierte a Zuckerberg o a Altman en expertos en política, economía ni en casi nada ajeno a la tecnología. La gratificación instantánea del acceso directo al presidente, las subvenciones y la capacidad de influir en su propia regulación los cegó ante los aspectos básicos del cálculo político que, a todas luces, no comprendían.&lt;/p&gt;
+
+&lt;p&gt;Hay un motivo por el que los directores ejecutivos de Chase, Boeing y otros pesos pesados de Fortune 500 no acuden a pódcasts a hablar de «&lt;a href="https://www.usatoday.com/story/life/health-wellness/2025/01/17/mark-zuckerberg-meta-workforce-masculine-energy/77755286007/"&gt;energía masculina&lt;/a&gt;», ni &lt;a href="https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"&gt;llaman al presidente desde el escenario&lt;/a&gt; de una cumbre de IA afín a MAGA para tildar de «farsa» y «estafa» los temores sobre la IA. Se trata de la sabiduría adquirida tras décadas operando en un entorno en el que el cliente cambia cada cuatro años, pero los contratos duran diez. La mayoría de las empresas juegan a dos bandas porque saben que sus modelos de negocio y sus proyectos multimillonarios deben sobrevivir a la administración de turno. En lugar de eso, las grandes tecnológicas se ataron a Trump e hicieron que sus metas e inversiones más importantes —muchas relacionadas con el acceso a la red eléctrica y las licencias de centros de datos— se convirtieran en el blanco inmediato de los demócratas.&lt;/p&gt;
+
+&lt;p&gt;En el sector tecnológico, siempre se puede retirar una función o actualizar el código. Pero en política no existe un botón de deshacer para los fracasos que alteran la percepción pública. La decisión de las élites tecnológicas de alinear visiblemente sus negocios con un movimiento pasajero las ha dejado sin una vía creíble para pivotar ahora que el clima ha cambiado. Como señaló un empleado de Meta que ha trabajado estrechamente con Zuckerberg: «Mark piensa a largo plazo, pero nunca traza un plan sobre cómo llegar hasta allí. Es disparar a ciegas y ver qué pasa». ¿En cuanto a si los empleados esperan que la empresa haga una autopsia estratégica? «Facebook nunca ha hecho algo así en realidad».&lt;/p&gt;
+
+&lt;p&gt;«Muévete rápido y rompe cosas» puede funcionar en una startup, pero es una estrategia pésima para labrarse una buena reputación. Los saltos tecnológicos anteriores, como el despliegue de la fibra óptica y las infraestructuras inalámbricas, esquivaron la política partidista. Sin embargo, al plegarse ante la Administración Trump, Silicon Valley convirtió la inteligencia artificial en un frente de la guerra cultural. Ahora, cuando la ciudadanía vota sobre proyectos de centros de datos de &lt;a href="https://www.forbes.com/sites/zacharyfolk/2026/11/04/heres-where-voters-are-rejecting-data-centers-at-the-ballot-full-list/"&gt;California a Florida&lt;/a&gt;, ya no solo sopesa cuestiones técnicas o económicas, sino también políticas.&lt;/p&gt;
+
+&lt;p&gt;Los líderes tecnológicos no lo vieron venir porque estaban demasiado centrados en la urgencia de la carrera de la IA como para entender cómo el daño reputacional podía socavar la intangible buena voluntad —y, en última instancia, la muy tangible infraestructura— necesaria para ganarla. La lectura errónea del momento por parte del sector ya ha pinchado un mito muy arraigado en Silicon Valley: que sus líderes siempre son capaces de anticipar lo que está por venir.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Aaron Zamost es consultor de comunicación tecnológica y exejecutivo de Square.&lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Más autonomía, menos acuerdos de confidencialidad: los voluntarios plantean nuevas peticiones para los ensayos de implantes cerebrales</title>
+  <link href="https://www.technologyreview.es/article/mas-autonomia-menos-acuerdos-de-confidencialidad-los-voluntarios-plantean-nuevas-peticiones-para-los-ensayos-de-implantes-cerebrales"/>
+  <id>https://www.technologyreview.es/article/mas-autonomia-menos-acuerdos-de-confidencialidad-los-voluntarios-plantean-nuevas-peticiones-para-los-ensayos-de-implantes-cerebrales</id>
+  <published>2026-11-13T05:00:00+00:00</published>
+  <updated>2026-11-13T05:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F87e7d4669278877621b5add58f0d90078014a2f6.jpg?alt=media&amp;token=966356aa-c356-4b2c-9236-8224ab04d491"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F87e7d4669278877621b5add58f0d90078014a2f6.jpg?alt=media&amp;token=966356aa-c356-4b2c-9236-8224ab04d491" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F87e7d4669278877621b5add58f0d90078014a2f6.jpg?alt=media&amp;token=966356aa-c356-4b2c-9236-8224ab04d491"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F87e7d4669278877621b5add58f0d90078014a2f6.jpg?alt=media&amp;token=966356aa-c356-4b2c-9236-8224ab04d491</webfeeds:featuredImage>
+  <summary>Las personas con implantes cerebrales experimentales reclaman más reconocimiento y respeto.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F87e7d4669278877621b5add58f0d90078014a2f6.jpg?alt=media&amp;token=966356aa-c356-4b2c-9236-8224ab04d491" alt="Más autonomía, menos acuerdos de confidencialidad: los voluntarios plantean nuevas peticiones para los ensayos de implantes cerebrales" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Jessica Hamzelou&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Las personas con implantes cerebrales experimentales reclaman más reconocimiento y respeto.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Los científicos llevan décadas trabajando en formas de descodificar la actividad cerebral. Diversos equipos han desarrollado implantes cerebrales que pueden utilizarse para controlar extremidades robóticas y ordenadores, e incluso para «hablar».&lt;/p&gt;
+
+
+
+&lt;p&gt;Las personas que participan como voluntarias en los ensayos de estos dispositivos desempeñan un papel fundamental en esa investigación y deberían ser reconocidas por sus contribuciones, afirma &lt;a href="https://www.technologyreview.com/innovator/ian-burkhart/"&gt;Ian Burkhart&lt;/a&gt;, a quien le implantaron uno en su propio cerebro allá por 2014. Burkhart ha estado trabajando en una serie de directrices para los investigadores que desarrollan interfaces cerebro-ordenador (BCI).&lt;/p&gt;
+
+&lt;p&gt;Ya existen directrices éticas para los ensayos clínicos. Pero los ensayos con BCI son diferentes, afirma Jennifer Chandler, profesora de Derecho y Neuroética en la Universidad de Ottawa que también ha participado en la elaboración de estas pautas. «Son personas que tienen un dispositivo implantado en el cerebro, que a veces participan en ensayos durante años y años... [y aportan] una inversión significativa de tiempo, física y de esfuerzo intelectual».&lt;/p&gt;
+
+&lt;p&gt;Burkhart quedó paralizado del pecho hacia abajo tras un accidente de zambullida en 2010, cuando tenía 19 años. Unos cuatro años después, se ofreció voluntario para convertirse en la primera persona en probar un implante cerebral diseñado para controlar la mano.&lt;/p&gt;
+
+&lt;p&gt;Le implantaron una matriz de 96 electrodos en la parte del cerebro que controla el movimiento. Los electrodos estaban conectados a un ordenador mediante un cable que, en esencia, se enchufaba a su cabeza. Los algoritmos del ordenador estaban diseñados para interpretar esas señales y enviarlas a otra manga de electrodos que Burkhart llevaba en el brazo, &lt;a href="https://www.nature.com/articles/nature17435"&gt;lo que le permitía controlarlo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Los primeros movimientos fueron pequeños, pero Burkhart acabó siendo capaz de utilizar el sistema para verter cuentas desde botellas, mover objetos pequeños y delicados e incluso jugar al Guitar Hero, aunque solo fuera durante las visitas al laboratorio. Fue &lt;a href="https://www.technologyreview.com/2016/04/13/161014/video-shows-paralyzed-man-move-hand-with-brain-implant/"&gt;un hito científico&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Burkhart participó en dos ensayos clínicos de varios años de duración a lo largo de los siete años y medio que tuvo la matriz de electrodos implantada en el cerebro. «Fue una experiencia fantástica», afirma. «Pero sin duda hay cosas que, sabiendo lo que sé ahora, querría hacer de forma un poco diferente».&lt;/p&gt;
+
+
+
+&lt;p&gt;En 2022, Burkhart cofundó la &lt;a href="https://bcipioneers.org/"&gt;BCI Pioneers Coalition&lt;/a&gt;—una organización a través de la cual las personas que han participado en ensayos de BCI pueden compartir sus experiencias, tanto entre sí como con los investigadores. Durante el último año, los miembros del grupo han estado desarrollando una serie de directrices basadas en esas vivencias. La idea es ayudar a académicos, profesionales clínicos y empresas a realizar ensayos éticos que respeten la autonomía de los participantes.&lt;/p&gt;
+
+&lt;p&gt;Las directrices, &lt;a href="https://bcipioneers.org/our-bci-recommendations/"&gt;publicadas el martes&lt;/a&gt;, presentan una lista de recomendaciones divididas en 13 categorías. Una de ellas, por ejemplo, se centra en reconocer y compensar a los participantes en los ensayos. Durante los ensayos en los que participó Burkhart, «iba al laboratorio dos o tres días a la semana, cuatro horas cada vez», recuerda. «Eso es [fácilmente] un trabajo a tiempo parcial si solo cuentas las horas que le dedicas».&lt;/p&gt;
+
+&lt;p&gt;A medida que avanzaba el ensayo, afirma Burkhart, aprendió más y pudo aportar comentarios más constructivos sobre lo que funcionaba y lo que no. Asegura que fue un miembro clave del equipo de investigación. Otras personas que se encuentren en una situación similar podrían agradecer figurar como coautores en publicaciones científicas o que se las mencione públicamente como colaboradoras de la investigación, señala. Sin embargo, Burkhart y sus colegas reconocen que no todo el mundo querrá esto.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Las directrices también abordan la espinosa cuestión de la privacidad. Esto es importante: el público siempre mostrará interés por biotecnologías punteras como estas —y las directrices señalan que los investigadores también tienen el deber de preparar a los participantes ante la posibilidad de recibir atención mediática—. En algunos casos, podría resultar difícil ocultar por completo la identidad de los participantes en el ensayo.&lt;/p&gt;
+
+&lt;p&gt;Las cosas se complican aún más en lo que respecta a la privacidad de los &lt;a href="https://www.technologyreview.com/2024/10/04/1104972/law-california-protects-brain-data-doesnt-go-far-enough/"&gt;datos cerebrales&lt;/a&gt; de los participantes. Los equipos de investigación necesitarán acceder a estos datos, analizarlos y —al menos temporalmente— almacenarlos. A Burkhart no le preocupaba demasiado en su caso, en el que los científicos recopilaban actividad neuronal relacionada con el movimiento. Pero quienes tienen implantes cerebrales diseñados para convertir pensamientos en palabras podrían verlo de otra manera.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Las directrices señalan que los datos cerebrales «deben entenderse como información personal del participante». Abogan por que los participantes puedan acceder a sus propios datos cerebrales cuando lo deseen —algo que no siempre ha sido posible— y quieren asegurarse de que no se impida a las personas compartirlos con sus propios médicos debido a embargos o acuerdos de confidencialidad (NDA, por sus siglas en inglés) diseñados para mantener los hallazgos en secreto ante los competidores.&lt;/p&gt;
+
+&lt;p&gt;«No es especialmente habitual que haya acuerdos de confidencialidad estrictos en muchos de los ensayos», afirma Burkhart. «Pero queremos asegurarnos de que eso no ocurra».&lt;/p&gt;
+
+&lt;p&gt;Las directrices también abordan lo que ocurre &lt;em&gt;después&lt;/em&gt; de un ensayo. Unos cinco años después de que a Burkhart le implantaran el dispositivo, el equipo de investigación tuvo problemas de financiación. Cuando &lt;a href="https://www.technologyreview.com/2023/05/26/1073655/how-it-feels-to-have-a-life-changing-brain-implant-removed/"&gt;hablamos con él por última vez hace unos años&lt;/a&gt;, recordó cómo le dijeron que tendrían que retirarle el implante y que se lo podrían volver a colocar una vez que el equipo consiguiera fondos. (Y aquí estamos hablando de &lt;em&gt;cirugía cerebral&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Al final, mantuvo el implante hasta 2021, cuando se lo retiraron después de que empezara a desarrollarse una infección en el punto donde el cable entraba en el cuero cabelludo. Pero perder el dispositivo después de tantos años fue duro; había recuperado la capacidad de mover el brazo —y luego volvió a perderla.&lt;/p&gt;
+
+&lt;p&gt;Rita Leggett, una mujer australiana a la que implantaron un dispositivo en el cerebro para tratar su epilepsia, afirmó que sintió que «se convirtió en una» con su implante. Cuando la empresa que lo fabricó quebró dos años después, &lt;a href="https://www.technologyreview.com/2023/05/25/1073634/brain-implant-removed-against-her-will/"&gt;le retiraron el dispositivo contra su voluntad&lt;/a&gt;, un acto que los bioeticistas han calificado como una posible vulneración de los derechos humanos.&lt;/p&gt;
+
+&lt;p&gt;En su lugar, los investigadores deberían comprometerse a mantener los dispositivos cerebrales durante un «periodo razonable» tras la finalización del ensayo, según las directrices. Asimismo, se debería conceder a los participantes tiempo suficiente para prepararse de cara a la cirugía de extracción. Además, los investigadores tendrían que reservar fondos adicionales para apoyar a los participantes del ensayo que deban someterse a ella.&lt;/p&gt;
+
+&lt;p&gt;Algunas de las directrices son imprecisas y pueden solaparse con los estándares éticos existentes. No todas detallan soluciones explícitas. Además, se elaboraron a partir de las aportaciones de un grupo reducido de personas —el número de personas que viven con BCI sigue siendo &lt;a href="https://www.technologyreview.com/2025/04/01/1114009/brain-computer-interfaces-10-breakthrough-technologies-2025/"&gt;muy bajo&lt;/a&gt;—. El equipo espera ampliar y profundizar en estas directrices con el tiempo. Burkhart también tiene previsto debatirlas con investigadores en un &lt;a href="https://www.sfn.org/"&gt;próximo congreso de neurociencia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;«Este es un documento vivo y esta es la versión uno», afirma Chandler. «Es solo el punto de partida».&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Nvidia confirmó en privado que podía rastrear chips para combatir el contrabando, a pesar de que el sector cuestionaba públicamente su viabilidad</title>
   <link href="https://www.technologyreview.es/article/nvidia-confirmo-en-privado-que-podia-rastrear-chips-para-combatir-el-contrabando-a-pesar-de-que-el-sector-cuestionaba-publicamente-su-viabilidad"/>
@@ -43,93 +246,6 @@
 &lt;p&gt;Pero si los requisitos del proyecto de ley se aprueban como parte de la Ley de Autorización de Defensa Nacional del Senado, los nuevos mecanismos de rastreo solo indicarían a los investigadores dónde están los chips, sin ofrecer una forma de desconectarlos si se descubre que han sido introducidos de contrabando. Foster declaró a &lt;em&gt;MIT Technology Review&lt;/em&gt; que tiene previsto presentar una legislación nueva y más estricta el próximo año para ofrecer una solución alternativa. La nueva norma exigiría licencias para operar GPU avanzadas y, antes de que una GPU pudiera conectarse, tendría que verificarse la validez de su licencia.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;Mientras tanto, según Foster, la controversia en torno a Nvidia ha avivado el apoyo entre sus colegas a las normas del proyecto de ley: «A raíz de todo lo sucedido, habrá una gran presión política sobre las empresas para que realicen una validación geográfica muy rigurosa de dónde se encuentra realmente el chip».&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>The Download: el desafío climático de la COP31 y la búsqueda de la inmortalidad</title>
-  <link href="https://www.technologyreview.es/article/the-download-el-desafio-climatico-de-la-cop31-y-la-busqueda-de-la-inmortalidad"/>
-  <id>https://www.technologyreview.es/article/the-download-el-desafio-climatico-de-la-cop31-y-la-busqueda-de-la-inmortalidad</id>
-  <published>2026-11-12T08:10:00+00:00</published>
-  <updated>2026-11-12T08:10:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m7qqGQxfpGc/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/m7qqGQxfpGc/maxresdefault.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://img.youtube.com/vi/m7qqGQxfpGc/maxresdefault.jpg"/>
-  <webfeeds:featuredImage>https://img.youtube.com/vi/m7qqGQxfpGc/maxresdefault.jpg</webfeeds:featuredImage>
-  <summary>Además: al parecer, Nvidia se prepara para destituir a su CEO, Jensen Huang.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/m7qqGQxfpGc/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: el desafío climático de la COP31 y la búsqueda de la inmortalidad" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: al parecer, Nvidia se prepara para destituir a su CEO, Jensen Huang.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Qué debes saber sobre las negociaciones climáticas de la ONU de este año&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;Miles de delegados, lobistas y periodistas se han reunido en Antalya (Turquía) para la COP31, la cumbre climática anual de la ONU. Sin embargo, las negociaciones de este año se celebran en un contexto geopolítico especialmente tenso, mientras el mundo se aleja cada vez más de los objetivos del Acuerdo de París.&lt;/p&gt;
-
-&lt;p&gt;Los precios de la energía se están disparando y existen grandes incógnitas sobre cómo abordarán los países la crisis climática. Cabe esperar un intenso tira y afloja sobre los combustibles fósiles y la financiación climática, y sobre si los negociadores podrán acordar medidas significativas.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"&gt;Esto es lo que necesitas saber sobre la COP31&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;—Casey Crownhart&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"&gt;Este artículo&lt;/a&gt; procede de The Spark, nuestro boletín semanal sobre tecnología climática. &lt;a href="https://forms.technologyreview.com/newsletters/climate-energy-the-spark/"&gt;Suscríbete&lt;/a&gt; para recibirlo en tu bandeja de entrada cada miércoles.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;Dentro de la búsqueda de la inmortalidad cognitiva&lt;strong&gt;&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;Tecnólogos visionarios están trabajando en formas de mantener tu cerebro activo más allá de la muerte. El último evento Roundtables de &lt;em&gt;MIT Technology Review&lt;/em&gt; explora sus ideas, desde el reemplazo gradual del cerebro hasta la subida de recuerdos a la nube.&lt;/p&gt;
-
-&lt;p&gt;Únete a la editora de ciencia Mary Beth Griggs y al editor sénior de biomedicina Antonio Regalado en este debate exclusivo para suscriptores.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.technologyreview.com/supertopic/roundtables/"&gt;&lt;strong&gt;Conéctate en directo el martes 17 de noviembre a las 17:00 GMT / 12:00 EST / 9:00 PST&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;¿Quieres unirte a la conversación?&lt;/em&gt; &lt;a href="https://www.technologyreview.com/subscribe"&gt;&lt;em&gt;Suscríbete a&lt;/em&gt; MIT Technology Review&lt;/a&gt; &lt;em&gt;para disfrutar de acceso exclusivo a todas nuestras mesas redondas.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Los imprescindibles&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/aterradoras/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1 Según diversas fuentes, Nvidia se prepara para destituir a su CEO, Jensen Huang&lt;br&gt;&lt;/strong&gt;El consejo de administración se reunirá hoy mismo para decidir su futuro. (&lt;a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"&gt;WSJ&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Las acciones de Nvidia cayeron un 8 % tras publicarse la noticia.&lt;/em&gt; (&lt;a href="https://www.businessinsider.com/nvidia-stock-drops-jensen-huang-second-affair-report-2026-11"&gt;BI&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Supuestamente, Huang también mantuvo una aventura con una compañera de Nvidia.&lt;/em&gt;(&lt;a href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"&gt;NYT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Su salida podría provocar un terremoto en la industria de la IA.&lt;/em&gt; (&lt;a href="https://www.axios.com/2026/11/12/jensen-huang-nvidia-board"&gt;Axios&lt;/a&gt;)&lt;br&gt;+ &lt;em&gt;Hay mucho en juego en la apuesta de un billón de dólares de la IA.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2 El escándalo de espionaje de Nvidia endurecerá las exportaciones de chips&lt;br&gt;&lt;/strong&gt;Sin embargo, el secretario de Comercio Lutnick ha frenado las restricciones. (&lt;a href="https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ China ha advertido de que tomará represalias si se aprueban.&lt;/em&gt; (&lt;a href="https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1"&gt;FT&lt;/a&gt; $)&lt;br&gt;+ &lt;em&gt;Las empresas chinas han comenzado a acumular chips de Nvidia.&lt;/em&gt; (&lt;a href="https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;+ &lt;em&gt;Los demócratas parecen estar preparando una investigación.&lt;/em&gt; (&lt;a href="https://www.politico.com/live-updates/2026/11/11/congress/nvidia-documents-coons-warren-01161917"&gt;Politico&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3 Una «startup» desarrolla una IA para detectar armas biológicas creadas con IA&lt;br&gt;&lt;/strong&gt;Funciona sin conexión en un portátil con un secuenciador genético por USB. (&lt;a href="https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/"&gt;Wired&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Ucrania está abriendo sus datos del campo de batalla para entrenar armamento con IA.&lt;/em&gt; (&lt;a href="https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html"&gt;NYT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ La IA facilita la creación de armas biológicas.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4 Anduril afirma que su satélite puede rastrear naves espaciales durante la noche orbital&lt;/strong&gt;&lt;br&gt;Utiliza un sensor de infrarrojos para detectar satélites ocultos. (&lt;a href="https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/"&gt;Ars Technica&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Anduril también está fabricando gafas inteligentes para la guerra.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5 Ucrania denuncia nuevas restricciones en Starshield de SpaceX&lt;br&gt;&lt;/strong&gt;Zelenski afirma que están obstaculizando la defensa contra drones. (&lt;a href="https://www.nbcnews.com/world/ukraine/ukraine-starshield-limits-russia-war-trump-musk-rcna608938"&gt;NBC News&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;6 Incluso la fauna de zonas remotas de Brasil tiene microplásticos en la sangre&lt;br&gt;&lt;/strong&gt;Animales a 100 km de vertederos los presentaban. (&lt;a href="https://www.nature.com/articles/d41586-026-03660-5"&gt;Nature&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ AstroTurf está aumentando los niveles de microplásticos.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/"&gt;MIT Technology Review&lt;/a&gt;)&lt;br&gt;&lt;br&gt;&lt;strong&gt;7 Una cámara espacial de la NASA puede detectar plantas invasoras desde la órbita&lt;br&gt;&lt;/strong&gt;Detecta cómo reflejan la luz las hojas de diferentes especies. (&lt;a href="https://www.economist.com/science-and-technology/2026/11/11/cameras-in-space-could-help-spot-invasive-plants-on-earth"&gt;Economist&lt;/a&gt; $)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;8 Un grupo de astrónomos descubre un objeto «invisible» que desafía la teoría estelar&lt;br&gt;&lt;/strong&gt;Es probable que se trate de una estrella de neutrones supermasiva ultrarrara. (&lt;a href="https://www.404media.co/scientists-discovered-an-invisible-object-in-space/"&gt;404 Media&lt;/a&gt;)&lt;br&gt;+ &lt;em&gt;Una nueva investigación ha corroborado la primera imagen de un agujero negro.&lt;/em&gt; (&lt;a href="https://www.newscientist.com/article/2598415-re-analysis-of-black-hole-data-proves-iconic-ring-shape-really-is-there/"&gt;New Scientist&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ La búsqueda de la materia oscura se abre de par en par.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;9 La vida podría haber comenzado con el metabolismo, no con los genes&lt;br&gt;&lt;/strong&gt;Los ciclos químicos autosostenibles podrían haber surgido primero. (&lt;a href="https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/"&gt;Quanta&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;10 Una cirugía cerebral hace que un hombre vea ojos de gato en las personas&lt;br&gt;&lt;/strong&gt;Los investigadores han utilizado IA para recrear lo que ve. (&lt;a href="https://gizmodo.com/a-man-had-brain-surgery-now-he-sees-his-cats-eyes-on-other-peoples-faces-2000838368"&gt;Gizmodo&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;La frase del día&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«Sé más sobre ser progresista que casi cualquier persona en el planeta, y creo firmemente que Palantir —todos nuestros productos— es esencialmente progresista».&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;—Alex Karp, CEO de Palantir, &lt;a href="https://www.politico.com/newsletters/playbook/2026/11/11/the-tech-right-pivots-left-01160648"&gt;afirma a Politico&lt;/a&gt; que es un ferviente demócrata a pesar de haber respaldado recientemente a Trump.&lt;/p&gt;
-
-&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fecdb8b44c649d27baf80ce0759840daf8ad3164d.webp?alt=media&amp;token=d4df42be-b771-4db3-ad06-0693c15cfe32" alt=""/&gt;&lt;/figure&gt;
-
-&lt;h4 class="wp-block-heading"&gt;&lt;br&gt;Cómo los dramas cortos chinos se convirtieron en máquinas de contenido de IA&lt;strong&gt;&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;La industria china de los dramas cortos se nutre de producciones breves, melodramáticas y subidas de tono, diseñadas para hacer scroll en el móvil. Ahora, muchas de ellas se producen íntegramente con IA: ya no se necesitan actores, operadores de cámara, directores de fotografía ni especialistas en CGI.&lt;/p&gt;
-
-&lt;p&gt;En enero se estrenó una media de 470 dramas cortos generados por IA al día. Los plazos de producción se han reducido de meses a semanas, mientras que los costes han caído hasta un 90 %. Además, la narrativa está cada vez más condicionada por los datos de rendimiento.&lt;/p&gt;
-
-&lt;p&gt;El formato se está expandiendo con rapidez en el extranjero, al tiempo que transforma el trabajo de guionistas y equipos de producción. &lt;a href="https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"&gt;Lee el artículo completo sobre el gran impacto de la IA en la industria de los dramas cortos en China&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;—Caiwei Chen&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Un espacio de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;+ Observa cómo crece Roma desde el año 1000 a. C. hasta la actualidad en un &lt;a href="https://www.youtube.com/watch?v=m7qqGQxfpGc"&gt;fascinante «timelapse» en 3D&lt;/a&gt;.&lt;br&gt;+ Contén la respiración con el &lt;a href="https://www.youtube.com/watch?v=u3ydV2RVJvc"&gt;descenso de récord a 94,3 mph&lt;/a&gt; de un patinador por una colina de Quebec.&lt;br&gt;+ Un &lt;a href="https://apnews.com/photo-essay/seville-flamenco-biennial-spain-photos-4362c49549005d59e3249f1ef2d512da"&gt;cautivador fotorreportaje&lt;/a&gt; ha capturado el desgarrador quejío del flamenco en la Bienal de Sevilla.&lt;br&gt;+ Un majestuoso mural chino ha propiciado una &lt;a href="https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration"&gt;insólita colaboración entre EE. UU. y China&lt;/a&gt; que ha sacado a la luz nuevos secretos de la historia del arte.&lt;/p&gt;</content>
 </entry>
 <entry>
   <title>Lo que debes saber sobre las negociaciones climáticas de la ONU de este año</title>
@@ -436,91 +552,5 @@
 &lt;p&gt;En un mundo en el que la tramitación de permisos para nuevos proyectos sea más sencilla, veremos más energía limpia, pero también más gas natural. Y aunque los precios podrían bajar, eso podría impulsar al alza la demanda de electricidad, lo que se traduciría en más emisiones en general.&lt;/p&gt;
 
 &lt;p&gt;Simplificar el sistema de permisos y reducir la burocracia es un objetivo loable. Pero, cuando se trata de emisiones, sigue importando mucho qué quieres construir exactamente.&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Texas era el nuevo epicentro de la expansión de centros de datos de IA. Eso podría venirse abajo.</title>
-  <link href="https://www.technologyreview.es/article/texas-era-el-nuevo-epicentro-de-la-expansion-de-centros-de-datos-de-ia-eso-podria-venirse-abajo"/>
-  <id>https://www.technologyreview.es/article/texas-era-el-nuevo-epicentro-de-la-expansion-de-centros-de-datos-de-ia-eso-podria-venirse-abajo</id>
-  <published>2026-11-04T13:50:55+00:00</published>
-  <updated>2026-11-04T13:50:55+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7</webfeeds:featuredImage>
-  <summary>Algunos de los mayores proyectos de infraestructura de IA del mundo están en marcha en Texas. Un drástico giro político podría ralentizar su construcción—y…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7" alt="Texas era el nuevo epicentro de la expansión de centros de datos de IA. Eso podría venirse abajo." style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por James O&amp;#x27;Donnell&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Algunos de los mayores proyectos de infraestructura de IA del mundo están en marcha en Texas. Un drástico giro político podría ralentizar su construcción—y…&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;Texas es el mercado de centros de datos &lt;a href="https://www.houstonchronicle.com/projects/2026/tx-data-centers-map/"&gt;de mayor crecimiento&lt;/a&gt; de Estados Unidos y la zona cero de los mayores despliegues de IA de las grandes tecnológicas. Sin embargo, la ola azul que ha arrasado en el Estado de la Estrella Solitaria podría poner en peligro esa posición.&lt;/p&gt;
-
-&lt;p&gt;El demócrata James Talarico ganó el escaño en el Senado de Estados Unidos frente a Ken Paxton. Gina Hinojosa se impuso en la carrera por la gobernación frente al titular republicano, Greg Abbott. A escala estatal, los demócratas tomarán el control de la Cámara de Representantes de Texas por primera vez en 24 años. Talarico e Hinojosa convirtieron los centros de datos en una cuestión central y hablaron de ellos de forma constante durante la campaña electoral.&lt;/p&gt;
-
-&lt;p&gt;Incluso antes de que cerraran las urnas, los profesionales del sector de los centros de datos advirtieron que los tiempos estaban cambiando. El martes, en la conferencia DCD del sector celebrada en Ashburn (Virginia), los ponentes lamentaron que Texas hubiera sido durante años el lugar más fácil para construir—hasta septiembre. Fue entonces cuando Abbott, tal vez al advertir el creciente &lt;a href="https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/"&gt;rechazo bipartidista hacia estas instalaciones&lt;/a&gt;, comenzó a cambiar de rumbo él mismo.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Los promotores señalaron que la oficina del gobernador había &lt;a href="https://insideclimatenews.org/news/30102026/texas-data-center-pushback/"&gt;dejado de responder&lt;/a&gt; a sus correos electrónicos. El 21 de septiembre, Abbott &lt;a href="https://gov.texas.gov/news/post/governor-abbott-directs-tceq-to-halt-data-center-permits"&gt;ordenó&lt;/a&gt; a un regulador estatal clave que suspendiera los permisos para centros de datos. Muchos ponentes en la conferencia preveían que esto podría ralentizar los proyectos existentes y paralizar por completo los nuevos.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;De hecho, la gobernadora electa parece decidida a hacerlo. Hinojosa respaldó las exenciones fiscales para los centros de datos en 2023 como forma de impulsar el empleo en la construcción, pero durante su campaña comenzó a presionar a favor de una moratoria total.&lt;/p&gt;
-
-&lt;p&gt;Esto supondría un problema para los hiperescaladores de las grandes tecnológicas, que cuentan con ambiciosos planes para instalaciones de entrenamiento de IA en el estado. La escala de los proyectos que ya están en marcha en Texas es descomunal. El centro de datos Stargate Frontier, en el condado de Shackelford, tiene proyectada una capacidad de 1820 megavatios —aproximadamente lo mismo que el mayor centro de datos del país, Colossus 2 de SpaceX en Tennessee, y más del doble que el centro de datos más grande que opera actualmente en Texas. Nexus Hubbard, también en construcción y destinado principalmente a dar servicio a Anthropic, cuenta con una capacidad prevista de 6400 megavatios y es el segundo centro de datos más grande en construcción en EE. UU., solo por detrás del proyecto Hyperion de Meta en Luisiana.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;La posibilidad de que los demócratas ordenen retrasos en estos proyectos o moratorias sobre otros nuevos se suma a la creciente inquietud de que el despliegue de la IA pueda estancarse. Los bancos y entidades crediticias ya se están volviendo &lt;a href="https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=tech_feat1_ai_pos5"&gt;más selectivos&lt;/a&gt; con los proyectos que respaldan. Y dado el grado en que la construcción de centros de datos está apuntalando el crecimiento económico en estos momentos, la combinación de estos factores podría tener un efecto dominó.&lt;/p&gt;
-
-&lt;p&gt;Sin embargo, los votantes de todo el país fueron &lt;a href="https://ballotpedia.org/Data_center-related_ballot_measures,_2026"&gt;tajantes&lt;/a&gt; en las elecciones de mitad de mandato, y transmitieron un mensaje similar en todos los ámbitos, desde las consultas a nivel estatal hasta los comicios a cargos nacionales. El electorado respaldó las iniciativas para proteger a los consumidores frente a las subidas en la factura de la luz provocadas por los centros de datos, y se mostró a favor de prohibiciones más amplias y tajantes contra nuevas instalaciones. Si hacía falta alguna prueba más de que las grandes tecnológicas han fracasado en su intento de convencer a los votantes de que la abundancia impulsada por la IA mejorará la sanidad, abaratará los productos y hará más comunes los avances científicos, ha sido esta.&lt;/p&gt;
-
-
-
-&lt;p&gt;Una cuestión clave es si los condados de Texas con mayor presencia de centros de datos fueron parte de la razón por la que estos demócratas resultaron elegidos, o si el voto contrario a los centros de datos procedía de otra parte.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Es complicado: los condados donde se concentra gran parte de la expansión de centros de datos se encuentran alrededor de Dallas. Como era de esperar, el condado de Dallas y los más cercanos a él se tiñeron de azul, pero el cercano condado de Ellis, que &lt;a href="https://www.houstonchronicle.com/business/energy/article/ercot-grid-data-centers-22286592.php"&gt;lidera&lt;/a&gt; las solicitudes de permisos para centros de datos, se decantó por Greg Abbott y Ken Paxton. El condado de Cameron, cerca de la frontera sur del estado, es un punto neurálgico para los centros de datos y votó en azul en las elecciones de mitad de mandato, lo que supuso un cambio. En cambio, los condados de Mitchell y Scurry, donde se ubican varios proyectos del oeste de Texas, se tiñeron de rojo.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Esto es muy relevante, ya que ningún organismo por sí solo en el estado decide si un proyecto sigue adelante o se paraliza. Las decisiones suelen reflejar la interacción entre los gobiernos municipales, las autoridades del condado y las oficinas estatales.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Las autoridades locales que tienen cierta capacidad de decisión sobre el desarrollo de centros de datos podrían resistirse a las restricciones generalizadas impuestas por el estado. Además, los demócratas que presionan para lograr una moratoria también podrían toparse con la oposición de los sindicatos de la construcción que respaldaron algunas de sus campañas. Así pues, aunque en teoría la «ola azul» suponga una sentencia de muerte para los centros de datos de Texas, los ganadores de las elecciones podrían encontrarse con que hacer efectiva su oposición una vez en el cargo es mucho más complicado que prometerla en campaña.&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>¿Qué le espera a la política energética de EE. UU. tras las elecciones de medio mandato?</title>
-  <link href="https://www.technologyreview.es/article/que-le-espera-a-la-politica-energetica-de-ee-uu-tras-las-elecciones-de-medio-mandato"/>
-  <id>https://www.technologyreview.es/article/que-le-espera-a-la-politica-energetica-de-ee-uu-tras-las-elecciones-de-medio-mandato</id>
-  <published>2026-11-04T12:08:00+00:00</published>
-  <updated>2026-11-04T12:08:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8c00d5c880659000385e5d027e5cbefb92998663.jpg?alt=media&amp;token=2e70dbfc-19bc-435d-8f8e-832634a751b4"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8c00d5c880659000385e5d027e5cbefb92998663.jpg?alt=media&amp;token=2e70dbfc-19bc-435d-8f8e-832634a751b4" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8c00d5c880659000385e5d027e5cbefb92998663.jpg?alt=media&amp;token=2e70dbfc-19bc-435d-8f8e-832634a751b4"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8c00d5c880659000385e5d027e5cbefb92998663.jpg?alt=media&amp;token=2e70dbfc-19bc-435d-8f8e-832634a751b4</webfeeds:featuredImage>
-  <summary>No esperes grandes cambios de rumbo de inmediato, pero podríamos ver un mayor apoyo a las renovables.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F8c00d5c880659000385e5d027e5cbefb92998663.jpg?alt=media&amp;token=2e70dbfc-19bc-435d-8f8e-832634a751b4" alt="¿Qué le espera a la política energética de EE. UU. tras las elecciones de medio mandato?" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Casey Crownhart&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;No esperes grandes cambios de rumbo de inmediato, pero podríamos ver un mayor apoyo a las renovables.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Llevo pegado a mis distintas pantallas desde que anoche comenzaron a llegar los resultados de las elecciones de mitad de mandato. Y no tardó en verse el inicio de la «ola azul»: los demócratas se hicieron con el control tanto de la Cámara de Representantes como del Senado de Estados Unidos, un giro radical respecto a la victoria de Donald Trump hace dos años.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Aunque los resultados son llamativos, probablemente no veamos algunos de los grandes giros en las políticas climáticas y energéticas que se han producido en los últimos años a medida que el Congreso y la presidencia cambiaban de manos. En su lugar, entramos en un periodo de gobierno dividido, con un Congreso que probablemente se enfrentará a la Casa Blanca de Trump durante los próximos dos años. Pero, aunque no sea probable que el gobierno federal apruebe leyes que reformen profundamente la política energética y climática, los resultados de las elecciones de mitad de mandato podrían ser muy relevantes para la energía, sobre todo a escala estatal y local.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Demos un paso atrás por un momento para poner estos resultados en contexto. Quizá recuerdes las leyes de gran calado sobre clima y energía aprobadas en apenas los últimos cuatro años. La Ley de Reducción de la Inflación (IRA) de 2022 incluyó un respaldo masivo a las energías limpias, con créditos fiscales, subvenciones públicas y préstamos. Después, la ley «One Big Beautiful Bill Act» de 2025 recortó drásticamente gran parte de las ayudas y los incentivos financieros que la IRA había establecido dos años antes.&lt;/p&gt;
-
-&lt;p&gt;Lo que tenían en común esas dos leyes era un periodo en el que el Gobierno estaba totalmente unificado, con el Senado, la Cámara de Representantes y la presidencia bajo el control del mismo partido: los demócratas en el primer caso y los republicanos en el segundo.&lt;/p&gt;
-
-&lt;p&gt;Ahora los demócratas han obtenido la mayoría tanto en el Senado como en la Cámara de Representantes. Pero Donald Trump sigue en la Casa Blanca. Y, lo que es crucial, ninguna de las dos cámaras está ni remotamente cerca de una mayoría demócrata de dos tercios. Esa es la proporción que se necesitaría para anular un veto presidencial.&lt;/p&gt;
-
-&lt;p&gt;Así pues, incluso si el Congreso saca adelante nueva legislación para impulsar las medidas climáticas y la energía limpia, Trump tendrá que firmarla —y eso reduce drásticamente el alcance de lo que podría ocurrir a nivel legislativo de aquí a las próximas elecciones—.&lt;/p&gt;
-
-&lt;p&gt;Podría haber ciertos acuerdos bipartidistas. Una iniciativa legislativa interesante a la que prestar atención justo después de las elecciones es lo que ocurra con la reforma del sistema de concesión de permisos. A finales de septiembre, un grupo bipartidista de senadores presentó un proyecto de ley que reformaría a fondo la manera en que se revisan y aprueban los nuevos proyectos energéticos en EE. UU. La ley pretende reducir la burocracia y agilizar el proceso de autorización.&lt;/p&gt;
-
-&lt;p&gt;Está previsto que el Senado vote ese paquete de medidas, denominado «Bipartisan American Affordability and Jobs Act», el 9 de noviembre, antes de que el nuevo Congreso tome el control en enero. La Casa Blanca ha respaldado el proyecto de ley, y este podría salir adelante en el Senado si tan solo un puñado de demócratas se une a la mayoría republicana. Pero ahora es posible que veamos a los demócratas &lt;a href="https://www.axios.com/2026/11/03/election-night-midterms-energy" target="_blank" rel="noopener"&gt;esperar&lt;/a&gt; hasta el año que viene para intentar renegociar un acuerdo, aunque cualquier propuesta tendría que recibir el visto bueno de Trump.&lt;/p&gt;
-
-
-
-&lt;p&gt;Con el control demócrata del Congreso, es probable que veamos un escrutinio mucho mayor hacia Trump y las agencias dirigidas por personas designadas por él. Los líderes demócratas ya han &lt;a href="https://insideclimatenews.org/news/04112026/democrats-seize-congress-statehouses-in-referendum-on-the-economy/" target="_blank" rel="noopener"&gt;mostrado su intención&lt;/a&gt; de pedir cuentas a dirigentes como el administrador de la EPA, Lee Zeldin, por los recortes de plantilla y de inversiones. Los demócratas tendrán la potestad de citar a declarar a miembros del gabinete y abrir investigaciones.&lt;/p&gt;
-
-&lt;p&gt;Más allá de los resultados nacionales, una tendencia clave que habrá que seguir de cerca a partir de ahora será la acción local. Los demócratas arrasaron y se hicieron con el control en Pensilvania, donde las autoridades ya han &lt;a href="https://insideclimatenews.org/news/20102026/pennsylvania-democrat-trifecta-energy-reform-data-centers/" target="_blank" rel="noopener"&gt;anunciado planes&lt;/a&gt; para respaldar las energías renovables y las iniciativas destinadas a reducir las emisiones de gases de efecto invernadero. Los demócratas también asumieron el control de la Comisión de Servicios Públicos de Georgia por primera vez en 30 años. Este organismo regula las compañías eléctricas, lo que en la práctica supone controlar buena parte de la ampliación y modernización de la red eléctrica. &lt;/p&gt;
-
-&lt;p&gt;Sin embargo, uno de los impactos de mayor alcance de estos resultados electorales recaerá sobre el sector de los centros de datos. Según el seguimiento realizado por Ballotpedia, se celebraron 41 consultas electorales a escala local vinculadas a estas instalaciones. Y, de forma abrumadora, &lt;a href="https://ballotpedia.org/Data_center-related_ballot_measures,_2026" target="_blank" rel="noopener"&gt;los votantes optaron&lt;/a&gt; por restringir su desarrollo. En la mañana del 4 de noviembre, prácticamente la totalidad de estas medidas parecía inclinarse en contra de la implantación de nuevos centros de datos. &lt;/p&gt;
-
-&lt;p&gt;Asimismo, los críticos con la IA obtuvieron buenos resultados en sus elecciones. La demócrata Gina Hinojosa se hizo con el puesto de gobernadora de Texas, desbancando al titular republicano Greg Abbott. Durante su campaña, Hinojosa reclamó una ley para paralizar por completo el desarrollo de centros de datos; de aprobarse, podría tener importantes repercusiones tanto para la red eléctrica estatal como para el sector de los centros de datos en general.&lt;/p&gt;
-
-&lt;p&gt;Es posible que no veamos una nueva y drástica legislación federal sobre clima o energía de aquí a las próximas grandes elecciones de EE. UU. Pero muchos votantes dejaron claro, y con bastante fuerza, que querían un cambio. Ya veremos cuánto cambia en los próximos dos años y en qué situación nos deja.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Este artículo es de The Spark, el boletín semanal sobre clima de &lt;/em&gt;MIT Technology Review&lt;em&gt;. Para recibirlo en tu bandeja de entrada cada miércoles,&lt;/em&gt; &lt;a href="https://forms.technologyreview.com/newsletters/climate-energy-the-spark/"&gt;&lt;em&gt;suscríbete aquí&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

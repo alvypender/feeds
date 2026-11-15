@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenArt + Seedance 2.5: la guía definitiva para crear videos AI con personajes consistentes y narrativas complejas — Frame &amp; Prompt</title>
+  <meta name="description" content="Seedance 2.5 ya genera escenas de 30 segundos con múltiples tomas, movimientos de cámara y sonido diegético a partir de un solo prompt, y OpenArt lo convierte en un estudio completo. La clave no es el modelo, sino el método: hojas de referencia para personajes y objetos, prompts con estructura de sh">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="OpenArt + Seedance 2.5: la guía definitiva para crear videos AI con personajes consistentes y narrativas complejas">
+  <meta property="og:description" content="Seedance 2.5 ya genera escenas de 30 segundos con múltiples tomas, movimientos de cámara y sonido diegético a partir de un solo prompt, y OpenArt lo convierte en un estudio completo. La clave no es el modelo, sino el método: hojas de referencia para personajes y objetos, prompts con estructura de sh">
+  <meta property="og:image" content="https://i.ytimg.com/vi/74_qWsIW6LI/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-74_qWsIW6LI.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="OpenArt + Seedance 2.5: la guía definitiva para crear videos AI con personajes consistentes y narrativas complejas">
+  <meta name="twitter:description" content="Seedance 2.5 ya genera escenas de 30 segundos con múltiples tomas, movimientos de cámara y sonido diegético a partir de un solo prompt, y OpenArt lo convierte en un estudio completo. La clave no es el modelo, sino el método: hojas de referencia para personajes y objetos, prompts con estructura de sh">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/74_qWsIW6LI/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-74_qWsIW6LI.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">OpenArt + Seedance 2.5: la guía definitiva para crear videos AI con personajes consistentes y narrativas complejas</h1>
+        <div class="metadata">
+          <span>Por <strong>Youri van Hofwegen</strong></span>
+          <time datetime='2026-11-13T17:09:25.320764-05:00'>2026-11-13</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/74_qWsIW6LI" title="OpenArt + Seedance 2.5: la guía definitiva para crear videos AI con personajes consistentes y narrativas complejas" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=74_qWsIW6LI" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Seedance 2.5 ya genera escenas de 30 segundos con múltiples tomas, movimientos de cámara y sonido diegético a partir de un solo prompt, y OpenArt lo convierte en un estudio completo. La clave no es el modelo, sino el método: hojas de referencia para personajes y objetos, prompts con estructura de shot y encadenado en CapCut. Aquí está el flujo exacto, con prompts completos y costos reales.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Youri van Hofwegen</strong>: <a href="https://www.youtube.com/watch?v=74_qWsIW6LI" target="_blank" rel="noopener">You&#x27;re Not Late (Yet): How to Start Making AI Videos Before 2027</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El salto de calidad que cambia las reglas: Seedance 2.5 y su ecosistema en OpenArt</h3>
+<p>La generación de video con IA ha dado un salto que muchos aún no dimensionan: los modelos actuales pueden crear escenas completas de hasta 30 segundos con calidad cinematográfica en una sola pasada, el doble de lo que lograban a principios de año. En ese contexto, <strong>Seedance 2.5</strong> se posiciona como uno de los mejores modelos disponibles, capaz de producir múltiples tomas, movimientos de cámara complejos y hasta diseño de sonido diegético dentro de un mismo clip. La plataforma <strong>OpenArt</strong> lo integra en un entorno todo en uno que va mucho más allá del generador de video: incluye creación de imágenes, audio, personajes y mundos, además de un paquete VIP con herramientas especializadas para guion, consistencia visual y planificación de tomas.</p>
+<p>El tutorial de Youri van Hofwegen desglosa cuatro métodos para dominar este flujo. El primero es la generación directa de video a partir de texto; el segundo, el vuelo continuo de dron con marcos de referencia; el tercero, la consistencia de personajes y objetos mediante hojas de referencia; y el cuarto, la combinación de clips para narrativas largas. Cada método se apoya en una configuración de salida concreta: <strong>relación de aspecto 16:9, resolución 1080p, duración de 20 segundos y audio activado</strong>. Esa combinación es el punto de partida recomendado para casi cualquier proyecto.</p>
+<p>El costo es un factor que conviene tener claro desde el inicio: un video de 20 segundos a 1080p con Seedance 2.5 consume aproximadamente <strong>6.415 créditos</strong>. OpenArt Pro se ofrece a <strong>56 dólares al mes</strong> en facturación mensual, o <strong>43,68 dólares al mes</strong> si se paga anualmente (un ahorro de 148 dólares al año). Existe un código de descuento, <strong>YOUR10</strong>, que rebaja un 10% durante un mes y deja el plan mensual en 50,40 dólares. Además, la oferta de Black Friday (del 16 al 30 de noviembre) aplica hasta un 40% de descuento en el primer año del plan anual y hasta un 50% en modelos seleccionados. Para quienes buscan el paquete VIP gratuito por referido, hay un truco: limpiar las cookies y datos del sitio de OpenArt en el navegador antes de hacer clic en el enlace de registro.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Método 1: texto a video con estructura de shot y sonido diegético</h3>
+<p>El primer experimento consistió en generar una escena de horror submarino de 20 segundos a partir de un único prompt. El resultado demostró que Seedance 2.5 puede producir una secuencia de alta calidad con múltiples tomas, movimientos de cámara complejos y diseño de sonido integrado, siempre que el prompt esté bien estructurado. La clave está en describir la escena como si fuera un guion técnico: incluir <strong>descripción fotorrealista, tipo de lente (por ejemplo, 24 mm), posición de cámara constante</strong> (&quot;camera always on the divers&#x27; left side&quot;), detalles de vestuario y objetos, y luego enumerar cada shot con su encuadre, movimiento y acción específica.</p>
+<p>El prompt completo de este experimento es una lección de ingeniería de prompts. Describe a dos buzos descendiendo hacia un carguero hundido, con la cámara sumergiéndose a 0,3 m/s y un ligero arco hacia el casco. Cada shot especifica el tipo de plano (wide shot, medium shot, close-up), la velocidad y dirección del movimiento (&quot;slow push forward at 0.5 m/s&quot;, &quot;tracks with her left to right at 1m/s&quot;), y la progresión dramática: la linterna de él parpadea y muere, ella queda sola, la linterna de él aparece flotando, el casco gime y algo enorme se desenrolla de la escotilla. El sonido se describe de forma diegética: <strong>respiración pesada del regulador, estruendo del casco, chirrido de acero, grito amortiguado, y la instrucción explícita de &quot;no score&quot;</strong> (sin música). Este nivel de detalle es lo que separa un clip genérico de una escena cinematográfica.</p>
+<p>La conclusión es contundente: un solo prompt bien estructurado puede generar una narrativa visual completa con arcos de tensión, cambios de plano y audio inmersivo. No se necesita edición posterior para obtener un resultado profesional, aunque el encadenado con otros clips amplía las posibilidades.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Método 2: vuelo continuo de dron con marcos de referencia</h3>
+<p>El segundo método aborda un desafío clásico: mantener la continuidad visual y de movimiento a través de ubicaciones distintas. La técnica consiste en generar primero una serie de imágenes de referencia —una cueva, un bosque, un desfiladero, un valle montañoso— con un prompt de imagen como &quot;A drone flight through a cave tunnel, then a forest, then a river gorge, then a mountain valley. Cinematic, photorealistic, high detail, motion blur, volumetric lighting, natural colors&quot;. Luego, en OpenArt, se cargan esas imágenes en la función <strong>Omni Reference Frames</strong>: una se establece como &quot;First Frame&quot; y las demás como &quot;References&quot;.</p>
+<p>El resultado es un video de vuelo de dron que transita entre las cuatro ubicaciones con transiciones fluidas, manteniendo una consistencia visual y un movimiento de cámara coherente. La IA interpreta las referencias como puntos de anclaje estilístico y de composición, de modo que el espectador percibe un único trayecto continuo en lugar de cuatro clips pegados. Este método es especialmente útil para secuencias de establecimiento, viajes o transiciones entre escenas que requieren un hilo visual reconocible.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Método 3: consistencia de personajes y objetos con hojas de referencia</h3>
+<p>El tercer experimento es el corazón del tutorial: lograr que un personaje y un objeto se vean iguales a lo largo de múltiples tomas y escenas. Para ello se utilizan las <strong>Omni Reference Sheets</strong>, que son hojas de referencia generadas con vistas frontal, trasera y primer plano de un personaje, y vistas equivalentes de un objeto (prop). En el ejemplo, se crearon hojas para los niños Jake y Nora, para sus go-karts de juguete (el rojo de Nora y el azul de Jake, de unos 30 cm) y para un dispositivo misterioso que aparece semienterrado en el césped.</p>
+<p>Con esas hojas cargadas como referencias, se redactó un prompt extenso que describe una secuencia de 12 shots. El prompt incluye la ubicación (el patio trasero, con la cámara siempre en el lado cercano al césped mirando hacia la valla), la dirección del movimiento (los niños cruzan de izquierda a derecha), la restricción de que nada tenga texto o logotipos legibles, y el final en un fotograma blanco sólido. Cada shot detalla el encuadre, la acción y los diálogos: Jake grita &quot;Mine&#x27;s faster, Nora. It&#x27;s got the big back wheels and you know it!&quot;, Nora responde &quot;Big wheels just make it heavier, slowpoke&quot;, luego tropieza con el dispositivo, lo destapa y descubre un anillo de luz cian que parpadea y se mantiene. La secuencia continúa con una carrera de karts, un salto y un aterrizaje en un pajar mientras los karts vacíos se estrellan y arden.</p>
+<p>El prompt también especifica el sonido: el zumbido de los motores, el chirrido de neumáticos, el golpe de los niños en el pajar y el rugido de las llamas, con voces infantiles naturales en inglés y la indicación de &quot;no score&quot;. La conclusión es que las hojas de referencia son cruciales para que los elementos visuales clave mantengan apariencia y estilo a través de las tomas. Sin ellas, la IA tiende a reinventar detalles como el color del kart o la forma del dispositivo en cada generación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Método 4: narrativas largas mediante generación y encadenado</h3>
+<p>El cuarto método resuelve la limitación de duración de una sola generación. En lugar de intentar un video de varios minutos, se generan clips separados —por ejemplo, los niños jugando con los karts y luego compitiendo— y se unen en un editor como <strong>CapCut</strong>. La técnica de transición es un <strong>crossfade de 0,16 segundos</strong>, que resulta efectivo para suavizar el corte entre clips generados por IA sin que se note el empalme.</p>
+<p>Este enfoque de &quot;generar y encadenar&quot; permite construir narrativas más largas y complejas, superando el límite de 20 o 30 segundos por generación. La clave está en mantener la consistencia visual entre clips mediante las hojas de referencia y en planificar los puntos de corte para que el crossfade funcione. Con práctica, se pueden crear historias de varios minutos con una calidad homogénea.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas VIP y flujo de trabajo completo</h3>
+<p>El paquete VIP de OpenArt añade herramientas que aceleran el flujo: <strong>AI Script Writer</strong> genera guiones a partir de una idea, género y duración; <strong>Consistent Character Maker</strong> crea personajes consistentes desde una descripción o imagen, con múltiples poses y expresiones; <strong>Scene-to-Shots Planner</strong> desglosa una escena o guion en tomas individuales con prompts y ángulos de cámara; y <strong>Style Matcher</strong> copia el estilo visual de cualquier imagen analizando sombras, tonos medios, reflejos, contraste, saturación y paleta de colores. Además, <strong>GPT Image 2.6</strong> se usa dentro de OpenArt para generar imágenes de referencia que luego alimentan al modelo de video.</p>
+<p>El flujo completo sería: idear la historia, generar un guion con AI Script Writer, desglosarlo en tomas con Scene-to-Shots Planner, crear hojas de referencia de personajes y objetos con Consistent Character Maker o GPT Image 2.6, generar cada clip con Seedance 2.5 usando Omni Reference Sheets y Frames, y finalmente unir los clips en CapCut con crossfades de 0,16 segundos. Este método combina lo mejor de la IA generativa con la edición tradicional, y es lo que permite pasar de clips aislados a narrativas profesionales.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Configuración recomendada en OpenArt: 16:9, 1080p, 20 segundos, audio activado.</li>
+<li>Costo aproximado: 6.415 créditos por un video de 20 s a 1080p con Seedance 2.5.</li>
+<li>Transición entre clips: crossfade de 0,16 segundos en CapCut.</li>
+<li>Código de descuento YOUR10: 10% por un mes en OpenArt Pro (50,40 USD/mes).</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://tolt.link/start-aivideos" target="_blank" rel="noopener"><strong>OpenArt</strong></a> — Plataforma todo en uno para creación de contenido con IA (video, imagen, audio, personajes, mundos).</li>
+<li><strong>Seedance 2.5</strong> — Modelo de IA para generación de video de alta calidad, con escenas de hasta 30 segundos, audio y múltiples tomas.</li>
+<li><strong>CapCut</strong> — Editor de video para unir y transicionar clips generados por IA.</li>
+<li><a href="https://openartvip.com/" target="_blank" rel="noopener"><strong>AI Script Writer (OpenArt VIP)</strong></a> — Genera guiones de video a partir de una idea, género y duración.</li>
+<li><a href="https://openartvip.com/" target="_blank" rel="noopener"><strong>Consistent Character Maker (OpenArt VIP)</strong></a> — Crea personajes consistentes desde una descripción o imagen, con múltiples poses y expresiones.</li>
+<li><a href="https://openartvip.com/" target="_blank" rel="noopener"><strong>Scene-to-Shots Planner (OpenArt VIP)</strong></a> — Desglosa una escena o guion en tomas individuales con prompts y ángulos de cámara.</li>
+<li><a href="https://openartvip.com/" target="_blank" rel="noopener"><strong>Style Matcher (OpenArt VIP)</strong></a> — Copia el estilo visual de cualquier imagen analizando sombras, tonos, reflejos, contraste, saturación y paleta.</li>
+<li><strong>GPT Image 2.6</strong> — Modelo de IA para generar imágenes de referencia dentro de OpenArt.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-74_qWsIW6LI.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

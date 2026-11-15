@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Probé 20 detectores de imágenes IA: solo 4 aciertan el 100% y Midjourney es el que más se les escapa — Frame &amp; Prompt</title>
+  <meta name="description" content="Solo cuatro de veinte detectores de imágenes generadas por IA —Is It AI, Sightengine, Sightova y Phrasly— lograron identificar correctamente las once imágenes de una prueba real. La mayoría de las herramientas se queda en un 70-81% de acierto, mientras que las peores caen al 27-54% y confunden arte ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Probé 20 detectores de imágenes IA: solo 4 aciertan el 100% y Midjourney es el que más se les escapa">
+  <meta property="og:description" content="Solo cuatro de veinte detectores de imágenes generadas por IA —Is It AI, Sightengine, Sightova y Phrasly— lograron identificar correctamente las once imágenes de una prueba real. La mayoría de las herramientas se queda en un 70-81% de acierto, mientras que las peores caen al 27-54% y confunden arte ">
+  <meta property="og:image" content="https://i.ytimg.com/vi/du8aiK6C7rs/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-du8aiK6C7rs.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Probé 20 detectores de imágenes IA: solo 4 aciertan el 100% y Midjourney es el que más se les escapa">
+  <meta name="twitter:description" content="Solo cuatro de veinte detectores de imágenes generadas por IA —Is It AI, Sightengine, Sightova y Phrasly— lograron identificar correctamente las once imágenes de una prueba real. La mayoría de las herramientas se queda en un 70-81% de acierto, mientras que las peores caen al 27-54% y confunden arte ">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/du8aiK6C7rs/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-du8aiK6C7rs.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Probé 20 detectores de imágenes IA: solo 4 aciertan el 100% y Midjourney es el que más se les escapa</h1>
+        <div class="metadata">
+          <span>Por <strong>Wade McMaster (Creator Impact)</strong></span>
+          <time datetime='2026-11-13T17:09:15.320764-05:00'>2026-11-13</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/du8aiK6C7rs" title="Probé 20 detectores de imágenes IA: solo 4 aciertan el 100% y Midjourney es el que más se les escapa" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=du8aiK6C7rs" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Solo cuatro de veinte detectores de imágenes generadas por IA —Is It AI, Sightengine, Sightova y Phrasly— lograron identificar correctamente las once imágenes de una prueba real. La mayoría de las herramientas se queda en un 70-81% de acierto, mientras que las peores caen al 27-54% y confunden arte humano con IA. Los modelos de lenguaje como Gemini (91%) y ChatGPT (81%) se perfilan como alternativa para un triaje rápido, pero ningún sistema es infalible: los detectores solo sirven como orientación y nunca como prueba para acusar a nadie.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Wade McMaster (Creator Impact)</strong>: <a href="https://www.youtube.com/watch?v=du8aiK6C7rs" target="_blank" rel="noopener">Is it REAL OR AI?? I Tested 20 AI Image Detectors, the results SHOCKED ME.</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El desafío: once imágenes para poner a prueba la detección</h3>
+<p>Wade McMaster, creador del canal Creator Impact, ya había probado detectores de imágenes IA hace unos años. Ahora ha repetido el experimento con veinte plataformas y once imágenes cuidadosamente seleccionadas. La muestra no es aleatoria: incluye varias generadas con <strong>Nano Banana</strong>, <strong>GPT Image</strong> y <strong>Midjourney</strong>, fotos reales que parecen IA, un dibujo a pluma hecho a mano durante diez horas y un par de casos obvios de control. El objetivo es que los detectores se enfrenten a situaciones ambiguas en ambos sentidos, tal como ocurre en el uso real.</p>
+<p>Para que un detector supere la prueba, debe acertar en las once imágenes. McMaster marca como fallo los resultados &#x27;indecisos&#x27; o a medias, porque no eligen bando y, por tanto, no son fiables. La metodología es sencilla pero exigente: cada herramienta recibe las mismas imágenes y se anota su veredicto. Con solo once imágenes la muestra no es científica —harían falta cientos para un resultado riguroso—, pero ofrece una fotografía útil de la madurez actual de esta tecnología.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Los cuatro perfectos: Is It AI, Sightengine, Sightova y Phrasly</h3>
+<p>Solo cuatro plataformas lograron el <strong>100% de acierto</strong> en las once imágenes. <strong>Is It AI</strong> destaca por su facilidad de uso: permite arrastrar y soltar la imagen y ofrece un veredicto claro. <strong>Sightengine</strong> también alcanzó la perfección, aunque limita el número de escaneos gratuitos antes de exigir pago. <strong>Sightova</strong> comparte la misma limitación y una interfaz similar de arrastrar y soltar. La sorpresa positiva fue <strong>Phrasly</strong>, que no solo acertó todas sino que permite escanear imágenes de forma ilimitada y sin registro en la prueba realizada, lo que lo convierte en la recomendación final del autor.</p>
+<p>Estos resultados contrastan con la mayoría de detectores &#x27;decentes&#x27;, que se sitúan en un rango de <strong>70-81% de acierto</strong>. Es el caso de <strong>Is This AI</strong> (81%), <strong>TruthScan</strong> (81%), <strong>iDetect.org</strong> (81%) y <strong>AI or Not</strong> (70%). Son herramientas que aciertan en la mayoría de los casos, pero fallan en imágenes clave, especialmente en las generadas con Midjourney. La perfección existe, pero es minoritaria y a menudo con limitaciones de uso gratuito.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Los peores de la clase: cuando el detector se convierte en un peligro</h3>
+<p>En el otro extremo, varias herramientas obtuvieron resultados desastrosos. <strong>AI Image Detector</strong> solo acertó el <strong>27%</strong> de las veces: puntuó bajo una imagen obviamente generada por IA y marcó como IA una foto real, además de acumular numerosos resultados indecisos. <strong>Illuminarty</strong> y <strong>Decopy</strong> se quedaron en el <strong>54%</strong>, con un sesgo claro hacia clasificar casi todo como &#x27;real&#x27;, incluyendo imágenes evidentes de ChatGPT. <strong>Reversely</strong> falla en el sentido opuesto: marca como IA muchas imágenes legítimas, lo que puede perjudicar a artistas reales que ven su obra cuestionada.</p>
+<p>Un caso llamativo es el de <strong>OpenAI Verifier</strong>. A pesar de ser una herramienta de OpenAI, no detectó la mayoría de las imágenes IA, incluso algunas generadas con ChatGPT. Su enfoque no es analizar la imagen en busca de artefactos, sino buscar marcadores o metadatos de imágenes creadas por ChatGPT, por lo que su utilidad práctica es muy limitada. Estos resultados subrayan que la detección de IA no es una ciencia exacta y que confiar en un solo detector puede llevar a conclusiones erróneas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El caso Midjourney: el generador que más se escapa</h3>
+<p>A lo largo de la prueba, un patrón se repitió: las imágenes creadas con <strong>Midjourney</strong> fueron las que más veces pasaron por reales. Dos ejemplos concretos —un Hulk y un retrato de mujer— confundieron a numerosos detectores, incluidos algunos de los mejores. Esto resulta paradójico porque Midjourney no se considera el modelo más potente técnicamente, pero al parecer oculta mejor ciertos artefactos que otros generadores como Nano Banana o GPT Image, que fueron detectados con mayor facilidad.</p>
+<p>El dibujo a pluma hecho a mano durante diez horas también fue clasificado como IA por la mayoría de los detectores. Este dato es especialmente relevante para artistas tradicionales: si una obra humana es marcada como generada por IA, la herramienta no solo falla, sino que puede generar acusaciones injustas. La conclusión es que los detectores actuales tienen sesgos sistemáticos y no comprenden la intención creativa ni el proceso manual.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Los modelos de lenguaje como alternativa: Gemini, ChatGPT y Grok</h3>
+<p>Ante la falta de fiabilidad de los detectores dedicados, McMaster probó también modelos de lenguaje de gran escala (LLM) a los que se les puede pedir un análisis de imágenes. <strong>Gemini</strong> fue el más preciso, con un <strong>91% de acierto</strong>. Permite arrastrar hasta diez imágenes por consulta y ofrece un razonamiento para cada una. Cuando duda, se declara indeciso en lugar de inventar una respuesta, lo que es una ventaja. Para la imagen restante, el autor preguntó individualmente &#x27;is this image AI generated&#x27; y, al obtener una respuesta ambigua, reformuló con &#x27;would you say it&#x27;s likely to be AI or likely to be handmade art&#x27; para forzar una clasificación.</p>
+<p><strong>ChatGPT</strong> alcanzó un <strong>81% de acierto</strong> y no cometió falsos positivos en imágenes reales, aunque no detectó una imagen generada por él mismo. Acepta varias imágenes a la vez y explica el motivo de cada clasificación, lo que lo hace útil para procesar lotes. <strong>Grok</strong> se quedó en un <strong>72%</strong> y tiende a creer que todo es real; aun así, acertó al señalar que una imagen de Transformers podría estar retocada con IA. En general, los LLM son una opción rápida para un triaje masivo, pero no sustituyen a un detector especializado cuando se necesita una segunda opinión.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema de los motores compartidos y las limitaciones gratuitas</h3>
+<p>Otro hallazgo importante es que varias plataformas comparten el mismo motor de detección. <strong>DeepAI</strong>, <strong>ZeroGPT</strong> e <strong>ImageDetector.com</strong> ofrecen resultados idénticos a <strong>TruthScan</strong>, por lo que no aportan una segunda opinión real. Si se usan varias de estas herramientas pensando que son independientes, se corre el riesgo de obtener una falsa sensación de consenso. Es fundamental verificar si los detectores son realmente distintos o si simplemente revenden la misma tecnología.</p>
+<p>Las limitaciones de uso gratuito también son un factor a considerar. <strong>ImageDetector.ai</strong> es algo más preciso que la media, pero limita mucho el número de escaneos gratuitos antes de exigir pago, y el autor no lo considera digno de pagar. <strong>Sightova</strong> y <strong>Sightengine</strong> también restringen las pruebas gratuitas. En cambio, <strong>Phrasly</strong> permite escanear imágenes ilimitadas sin registro, lo que lo convierte en la opción más práctica para un uso intensivo. El canal promociona cursos y packs de Midjourney de pago, así como enlaces de afiliado a Topaz, OpenArt y Dzine AI, pero sin dar precios concretos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Veredicto: orientación, no veredicto final</h3>
+<p>La conclusión de McMaster es clara: los detectores de imágenes IA han mejorado mucho en los últimos años, pero <strong>no son fiables al 100%</strong>. Incluso los mejores pueden fallar en imágenes concretas, y los peores son directamente peligrosos porque generan falsos positivos que pueden perjudicar a artistas. Por eso, deben usarse solo como orientación y nunca como prueba para acusar a alguien de usar IA. La tasa de error es demasiado alta para tomar decisiones basadas en un solo resultado.</p>
+<p>El flujo recomendado es un triaje rápido masivo con <strong>Gemini</strong> (hasta diez imágenes por consulta) y luego pasar solo las imágenes dudosas a un detector con mayor precisión como <strong>Phrasly</strong>, <strong>Is It AI</strong> o <strong>Sightengine</strong>. Si se necesita una segunda opinión, hay que asegurarse de que no comparten motor. En definitiva, la detección de IA es una herramienta útil para hacerse una idea, pero la decisión final siempre debe contar con criterio humano y contexto.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Solo 4 de 20 detectores lograron el 100% en la muestra: Is It AI, Sightengine, Sightova y Phrasly.</li>
+<li>Gemini: 91% de acierto (límite de 10 imágenes por consulta); ChatGPT: 81%; Grok: 72%.</li>
+<li>Phrasly permite escaneos ilimitados sin registro; Sightengine y Sightova limitan las pruebas gratuitas.</li>
+<li>DeepAI, ZeroGPT e ImageDetector.com comparten el motor de TruthScan: no son opiniones independientes.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://phrasly.ai/ai-image-detector" target="_blank" rel="noopener"><strong>Phrasly AI Image Detector</strong></a> — Detector con 100% de acierto y escaneos ilimitados sin registro; recomendado final</li>
+<li><a href="https://isitai.com" target="_blank" rel="noopener"><strong>Is It AI</strong></a> — Detector drag-and-drop con 100% de acierto en las 11 imágenes</li>
+<li><a href="https://sightengine.com/detect-ai-generated-images" target="_blank" rel="noopener"><strong>Sightengine</strong></a> — Detector con 100% de precisión en la muestra, con límite de escaneos gratuitos</li>
+<li><a href="https://sightova.com/" target="_blank" rel="noopener"><strong>Sightova</strong></a> — Detector drag-and-drop con 100% de acierto, limitado en pruebas gratuitas</li>
+<li><a href="https://gemini.google.com/" target="_blank" rel="noopener"><strong>Gemini</strong></a> — LLM para triaje rápido de hasta 10 imágenes por consulta; 91% de acierto</li>
+<li><a href="https://chatgpt.com/" target="_blank" rel="noopener"><strong>ChatGPT</strong></a> — LLM que acepta varias imágenes y explica cada clasificación; 81% de acierto</li>
+<li><a href="https://grok.com/" target="_blank" rel="noopener"><strong>Grok</strong></a> — LLM con arrastre múltiple de imágenes; 72% de acierto, tiende a clasificar como real</li>
+<li><a href="https://isthisai.com/" target="_blank" rel="noopener"><strong>Is This AI</strong></a> — Detector con 81% de acierto en la prueba</li>
+<li><a href="https://truthscan.com/ai-image-detector?ts_results_variant=a" target="_blank" rel="noopener"><strong>TruthScan</strong></a> — Detector con 81% de acierto; motor detrás de DeepAI, ZeroGPT e ImageDetector.com</li>
+<li><a href="https://gowinston.ai/" target="_blank" rel="noopener"><strong>Winston AI</strong></a> — Detector recomendado por la audiencia; acierta la IA pero confunde muchas fotos reales</li>
+<li><a href="https://www.idetect.org/image-detector" target="_blank" rel="noopener"><strong>iDetect.org</strong></a> — Detector drag-and-drop con 81% de acierto</li>
+<li><a href="https://aimagedetector.ai/" target="_blank" rel="noopener"><strong>ImageDetector.ai</strong></a> — Detector algo más preciso que la media pero con pocos escaneos gratuitos</li>
+<li><a href="https://aiornot.com" target="_blank" rel="noopener"><strong>AI or Not</strong></a> — Detector con interfaz cuidada y 70% de acierto</li>
+<li><a href="https://openai.com/research/verify/" target="_blank" rel="noopener"><strong>OpenAI Verifier</strong></a> — Herramienta de verificación de OpenAI que busca marcadores de imágenes ChatGPT; mal resultado</li>
+<li><a href="https://aiimagedetector.org" target="_blank" rel="noopener"><strong>AI Image Detector</strong></a> — Detector a evitar: 27% de acierto y muchos resultados indecisos</li>
+<li><a href="https://illuminarty.ai" target="_blank" rel="noopener"><strong>Illuminarty</strong></a> — Detector a evitar: 54% de acierto, clasifica casi todo como real</li>
+<li><a href="https://decopy.ai/ai-image-detector/" target="_blank" rel="noopener"><strong>Decopy AI</strong></a> — Detector a evitar: 54% de acierto, sesgado hacia &#x27;real&#x27;</li>
+<li><a href="https://www.reversely.ai/ai-image-detector" target="_blank" rel="noopener"><strong>Reversely</strong></a> — Detector a evitar: marca como IA muchas imágenes reales, peligroso para artistas</li>
+<li><a href="https://creatorimpact.com/topazphotoai" target="_blank" rel="noopener"><strong>Topaz Photo AI / Gigapixel</strong></a> — Upscalers de imagen recomendados por el canal (enlaces de afiliado)</li>
+<li><a href="https://www.midjourney.com" target="_blank" rel="noopener"><strong>Midjourney</strong></a> — Generador de imágenes usado para crear las muestras de prueba</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-du8aiK6C7rs.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

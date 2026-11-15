@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Face Tools de Reallusion: esculpe 13 morph targets faciales en ZBrush y devuélvelos a Character Creator con un clic — Frame &amp; Prompt</title>
+  <meta name="description" content="Face Tools de Reallusion elimina el cuello de botella de la animación facial 3D al permitir esculpir directamente las 13 expresiones base sobre la malla de Character Creator dentro de ZBrush, con un flujo round-trip que actualiza el personaje con un solo clic. El sistema genera automáticamente mapas">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Face Tools de Reallusion: esculpe 13 morph targets faciales en ZBrush y devuélvelos a Character Creator con un clic">
+  <meta property="og:description" content="Face Tools de Reallusion elimina el cuello de botella de la animación facial 3D al permitir esculpir directamente las 13 expresiones base sobre la malla de Character Creator dentro de ZBrush, con un flujo round-trip que actualiza el personaje con un solo clic. El sistema genera automáticamente mapas">
+  <meta property="og:image" content="https://i.ytimg.com/vi/3DNF5MkdSgU/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-3DNF5MkdSgU.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Face Tools de Reallusion: esculpe 13 morph targets faciales en ZBrush y devuélvelos a Character Creator con un clic">
+  <meta name="twitter:description" content="Face Tools de Reallusion elimina el cuello de botella de la animación facial 3D al permitir esculpir directamente las 13 expresiones base sobre la malla de Character Creator dentro de ZBrush, con un flujo round-trip que actualiza el personaje con un solo clic. El sistema genera automáticamente mapas">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/3DNF5MkdSgU/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-3DNF5MkdSgU.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Face Tools de Reallusion: esculpe 13 morph targets faciales en ZBrush y devuélvelos a Character Creator con un clic</h1>
+        <div class="metadata">
+          <span>Por <strong>Prompt Muse</strong></span>
+          <time datetime='2026-11-14T17:06:23.891223-05:00'>2026-11-14</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/3DNF5MkdSgU" title="Face Tools de Reallusion: esculpe 13 morph targets faciales en ZBrush y devuélvelos a Character Creator con un clic" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=3DNF5MkdSgU" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Face Tools de Reallusion elimina el cuello de botella de la animación facial 3D al permitir esculpir directamente las 13 expresiones base sobre la malla de Character Creator dentro de ZBrush, con un flujo round-trip que actualiza el personaje con un solo clic. El sistema genera automáticamente mapas de normales, rugosidad, oclusión ambiental, enrojecimiento y arrugas a partir del esculpido, y transfiere el polypaint y los materiales. Para mallas externas, Headshot 2 aplica blend shapes automáticos incluso en personajes caricaturescos. La herramienta, probada durante un par de semanas, agiliza radicalmente el refinamiento de expresiones y detalles de piel.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Prompt Muse</strong>: <a href="https://www.youtube.com/watch?v=3DNF5MkdSgU" target="_blank" rel="noopener">589</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema que resuelve Face Tools: expresiones faciales sin fricción</h3>
+<p>La animación facial en 3D suele implicar un ida y vuelta entre el software de escultura y el motor de render, con pérdida de detalles o procesos lineales que obligan a rehacer trabajo. Face Tools ataca ese problema de raíz: expone los <strong>13 morph targets de expresión facial</strong> de un personaje de Character Creator directamente en ZBrush, de modo que el artista puede esculpir cada expresión sobre la malla base sin salir de su herramienta de escultura. El flujo es <em>round-trip</em>: se transfiere el personaje a ZBrush, se editan las expresiones a cualquier nivel de subdivisión y se actualiza de vuelta a Character Creator con un solo clic, sin perder el progreso.</p>
+<p>La clave está en que no se trata de un proceso lineal. El botón <strong>Face Tools</strong> del panel de modificadores en Character Creator envía el personaje con todos sus morph targets a ZBrush; una vez allí, el panel de Face Tools muestra las 13 capas de expresión. Al hacer clic en cada capa se previsualiza la expresión que se generará al animar, lo que permite esculpir con contexto: no se trata de adivinar qué gesto se está modificando, sino de verlo y refinarlo en tiempo real. Esta retroalimentación visual inmediata es lo que convierte el esculpido de expresiones en una tarea creativa en lugar de un ejercicio de prueba y error.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Round-trip en la práctica: de Character Creator a ZBrush y de vuelta</h3>
+<p>El proceso comienza en Character Creator con la selección del personaje y el clic en el botón Face Tools del panel de modificadores. La transferencia incluye la malla y todos los morph targets, de modo que en ZBrush el artista encuentra las 13 capas de expresión listas para esculpir. El autor demuestra cómo esculpir una <strong>sonrisa estilo Jack Nicholson</strong> en la capa &#x27;mouth smile&#x27;, alternando entre alta y baja poligonización para refinar detalles: empieza en niveles bajos para definir la forma general y luego sube a alta resolución para trabajar poros, textura de piel y cicatrices. La posibilidad de saltar entre niveles de subdivisión en cualquier momento permite colocar detalles donde convenga sin penalizar el rendimiento.</p>
+<p>Para detalles finos de piel, el video recomienda usar <strong>alpha brushes</strong>, que aceleran la creación de poros y microtexturas. Además, Face Tools añade una capa extra de arrugas: el sistema genera mapas de arrugas que se suman al realismo cuando el personaje se anima. En cualquier punto del proceso se puede hacer clic en <strong>&#x27;Update to Character Creator&#x27;</strong> para revisar el progreso en el software de origen; el flujo no es lineal, sino iterativo, lo que evita quedarse atascado como ocurre con otros softwares. Esta capacidad de ida y vuelta constante es especialmente útil para ajustar expresiones que, vistas en el contexto del motor, requieren retoques adicionales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Mapas automáticos y polypaint: texturas que viajan con el esculpido</h3>
+<p>Uno de los puntos más fuertes de Face Tools es la generación automática de mapas a partir del esculpido. Al esculpir sobre la malla de alta poligonización, el sistema produce <strong>mapas de normales, rugosidad, oclusión ambiental y enrojecimiento</strong>, además de los mapas de arrugas, y los proyecta sobre la malla de baja poligonización en Character Creator. Esto significa que el detalle esculpido no se pierde al volver al modelo optimizado para tiempo real; se transfiere como textura. El autor verificó que estos mapas se generan automáticamente y que pueden editarse después si se desea un ajuste manual.</p>
+<p>El <strong>polypaint</strong> también se transfiere: se puede pintar directamente sobre el modelo en ZBrush y los materiales viajan a Character Creator con un solo clic. Esta integración elimina la necesidad de exportar e importar texturas por separado, y mantiene la coherencia entre el aspecto esculpido y el resultado final en el motor. Para proyectos de animación facial, donde los cambios de expresión pueden requerir retoques de color o de rugosidad, contar con esta transferencia automática ahorra horas de trabajo técnico y permite concentrarse en la creatividad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Headshot 2: blend shapes automáticos para mallas externas</h3>
+<p>Cuando el personaje no proviene de las mallas base de Character Creator, entra en juego <strong>Headshot 2</strong>, un plugin de Reallusion que aplica blend shapes automáticos a mallas de cabeza externas importadas. El autor menciona que funciona tanto con personajes realistas como caricaturescos, lo que amplía el alcance de la herramienta más allá de los rostros estándar. Headshot 2 analiza la malla y genera los blend shapes necesarios para que las expresiones faciales funcionen con el mismo sistema de morph targets, integrando así personajes de estilos muy diversos en el flujo de animación facial de Reallusion.</p>
+<p>Esta capacidad es relevante para estudios que trabajan con personajes estilizados o caricaturescos, donde los métodos tradicionales de captura de movimiento facial o de creación manual de blend shapes resultan costosos. Al automatizar la generación de blend shapes, Headshot 2 reduce la barrera técnica y permite que el artista se concentre en la expresividad del personaje. El video no profundiza en los detalles técnicos del algoritmo, pero sí confirma que la herramienta está diseñada para adaptarse a mallas externas sin importar su origen.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Consejos prácticos y conclusiones tras dos semanas de uso</h3>
+<p>El autor probó Face Tools durante un par de semanas y afirma haber disfrutado la experiencia. Entre los consejos que destaca están: empezar a esculpir en niveles bajos de subdivisión y luego subir a alta para refinar detalles; usar alpha brushes para detalles finos de piel; aprovechar la capa extra de arrugas para añadir realismo al animar; y hacer clic en &#x27;Update to Character Creator&#x27; en cualquier punto para revisar el progreso. También recomienda usar el botón Face Tools del panel de modificadores para transferir el personaje con todos los morph targets, y aprovechar la posibilidad de alternar entre alta y baja poligonización para colocar detalles donde convenga.</p>
+<p>La conclusión es que Face Tools agiliza el flujo de trabajo de animación facial al eliminar la fricción entre escultura y motor, y al automatizar la generación de mapas y la transferencia de polypaint. Para mallas externas, Headshot 2 completa el ecosistema al aplicar blend shapes automáticos incluso en personajes caricaturescos. Aunque el video no menciona precios ni planes, la herramienta se posiciona como una solución práctica para artistas que necesitan refinar expresiones faciales con iteración rápida y sin perder detalle. La integración con Unreal Engine 5 y Blender, aunque no se detalla en el video, es parte del ecosistema de Reallusion y amplía las posibilidades de uso en pipelines de tiempo real.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Face Tools expone 13 morph targets de expresión facial en ZBrush; cada capa se previsualiza al hacer clic.</li>
+<li>El flujo es round-trip: &#x27;Update to Character Creator&#x27; en cualquier punto actualiza el personaje sin perder progreso.</li>
+<li>Los mapas de normales, rugosidad, oclusión ambiental, enrojecimiento y arrugas se generan automáticamente desde el esculpido y se proyectan en la malla de baja poligonización.</li>
+<li>Headshot 2 aplica blend shapes automáticos a mallas externas, tanto realistas como caricaturescas.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Face Tools (Reallusion)</strong> — Herramienta para esculpir morph targets faciales en ZBrush con round-trip a Character Creator; genera mapas automáticamente.</li>
+<li><strong>Character Creator</strong> — Software de creación de personajes 3D de Reallusion; aloja las mallas base y recibe los cambios desde ZBrush.</li>
+<li><strong>Headshot 2</strong> — Plugin de Reallusion que aplica blend shapes automáticos a mallas de cabeza externas, incluyendo caricaturescas.</li>
+<li><strong>ZBrush</strong> — Herramienta de escultura digital usada para refinar expresiones, detalles de piel y polypaint.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-3DNF5MkdSgU.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

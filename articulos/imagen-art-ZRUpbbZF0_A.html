@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo crear tu propia serie de animación cartoon con IA: el flujo completo con skills de Claude, Higgsfield y Seedance para personajes, escenas y voces consistentes — Frame &amp; Prompt</title>
+  <meta name="description" content="Dan Kieft desglosa paso a paso su método para producir un show animado protagonizado por él mismo y su robot Bruiser. La clave está en construir primero una &#x27;foundation&#x27; de skills reutilizables en Claude (estilo maestro, personajes, localizaciones, props y prompts de animación) para mantener la cons">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo crear tu propia serie de animación cartoon con IA: el flujo completo con skills de Claude, Higgsfield y Seedance para personajes, escenas y voces consistentes">
+  <meta property="og:description" content="Dan Kieft desglosa paso a paso su método para producir un show animado protagonizado por él mismo y su robot Bruiser. La clave está en construir primero una &#x27;foundation&#x27; de skills reutilizables en Claude (estilo maestro, personajes, localizaciones, props y prompts de animación) para mantener la cons">
+  <meta property="og:image" content="https://i.ytimg.com/vi/ZRUpbbZF0_A/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-ZRUpbbZF0_A.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo crear tu propia serie de animación cartoon con IA: el flujo completo con skills de Claude, Higgsfield y Seedance para personajes, escenas y voces consistentes">
+  <meta name="twitter:description" content="Dan Kieft desglosa paso a paso su método para producir un show animado protagonizado por él mismo y su robot Bruiser. La clave está en construir primero una &#x27;foundation&#x27; de skills reutilizables en Claude (estilo maestro, personajes, localizaciones, props y prompts de animación) para mantener la cons">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/ZRUpbbZF0_A/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-ZRUpbbZF0_A.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo crear tu propia serie de animación cartoon con IA: el flujo completo con skills de Claude, Higgsfield y Seedance para personajes, escenas y voces consistentes</h1>
+        <div class="metadata">
+          <span>Por <strong>Dan Kieft</strong></span>
+          <time datetime='2026-11-14T17:08:49.159027-05:00'>2026-11-14</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/ZRUpbbZF0_A" title="Cómo crear tu propia serie de animación cartoon con IA: el flujo completo con skills de Claude, Higgsfield y Seedance para personajes, escenas y voces consistentes" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=ZRUpbbZF0_A" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Dan Kieft desglosa paso a paso su método para producir un show animado protagonizado por él mismo y su robot Bruiser. La clave está en construir primero una &#x27;foundation&#x27; de skills reutilizables en Claude (estilo maestro, personajes, localizaciones, props y prompts de animación) para mantener la consistencia entre episodios. Después genera los assets visuales en Higgsfield con Nano Banana 2.1, escribe los prompts de escena con Claude, y anima con Seedance usando referencias de personaje, localización y voz. Finalmente explica cómo mantener la continuidad entre clips de 17-30 segundos usando los últimos segundos del clip anterior como referencia, y cómo upscalear a 1080p solo al final.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Dan Kieft</strong>: <a href="https://www.youtube.com/watch?v=ZRUpbbZF0_A" target="_blank" rel="noopener">How To Make Your Own AI Cartoon Show - AI Animation Breakdown</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La foundation: skills de Claude para un estilo cartoon consistente</h3>
+<p>El primer paso para crear una serie de animación cartoon con IA no es generar imágenes, sino definir un estilo visual sólido. Dan Kieft recomienda buscar inspiración en Pinterest con términos como <em>animated sitcom character design</em> y <em>2D sitcom backgrounds</em>, descargando referencias de series como <em>The Simpsons</em>, <em>Futurama</em> o <em>Rick and Morty</em>. Una vez reunidas en una carpeta, se suben a Claude y se le pide que genere una descripción detallada del estilo: <strong>line work, shape language, proporciones, siluetas, expresiones faciales, relaciones de color, shading y lighting</strong>. Es fundamental leer y validar ese prompt antes de usarlo, porque será la base de todo el proyecto.</p>
+<p>Ese prompt se convierte en un <strong>skill maestro</strong> llamado <code>cartoon-master-style</code>, guardado como archivo <code>SKILL.md</code>. En Claude, los skills se invocan escribiendo <code>/</code> y seleccionando el skill correspondiente en cada generación de assets. Para mantener la estructura y consistencia, Kieft crea cuatro skills de soporte derivados del maestro: <strong>personajes, localizaciones, props y prompts de animación</strong>. Además, recomienda crear un <em>Project</em> en Claude (o en Codex/ChatGPT) llamado <em>The Animated Cartoon Show</em> para que todos los chats compartan el contexto del proyecto y no haya que repetir la información en cada conversación.</p>
+<p>La escritura de la historia también se apoya en la IA. Kieft utiliza <strong>Whisper Flow</strong> para dictar a Claude los beats iniciales, luego pide un shortlist y va iterando con feedback hasta bloquear el guion. La estructura final que propone se divide en tres partes: diálogo entre Dan y Bruiser, una segunda parte de desarrollo y un <em>ending</em> con un <em>payoff</em> claro. Este método permite que la narrativa fluya y se mantenga coherente con el estilo visual definido.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Generación de personajes, localizaciones y props en Higgsfield</h3>
+<p>Con el estilo y el guion listos, el siguiente paso es crear los assets visuales. Para el personaje principal, Kieft sube una foto real suya a Claude, invoca el skill de personaje cartoon y usa el prompt resultante en <strong>Higgsfield</strong> con el modelo <strong>Nano Banana 2.1</strong>, en formato 16:9 y resolución 4K. El primer intento no logró un parecido convincente, así que añadió la foto real como referencia de imagen en Higgsfield y describió el cambio de vestuario (por ejemplo, <em>retro bowling outfit</em>) para regenerar solo esa parte. Este truco de superponer la referencia real y describir el ajuste es clave para lograr consistencia facial.</p>
+<p>Las localizaciones se generan con el skill <code>/cartoon-location-plate</code>, que puede recibir una imagen de referencia o solo texto descriptivo, como <em>living room con sofá naranja, family home</em>. El proceso es análogo para los props: se usa el skill de props para objetos que aparecerán en escena, como una caja o una laptop. Todos estos assets se generan en Higgsfield con Nano Banana 2.1, manteniendo el mismo modelo para toda la serie, ya que cada modelo tiene sus particularidades y cambiarlo rompe la consistencia visual.</p>
+<p>Un aspecto crítico es la composición de escena. Kieft sube los character sheets, la localización y los props a Claude, le pide que lea el <code>cartoon-master-style</code> y que describa qué es cada imagen y qué debe mostrarse en la escena para obtener el prompt final. Luego, en Higgsfield, al añadir referencias, hay que verificar que cada una esté vinculada al elemento correcto del prompt; si no es así, se debe repastear el prompt para forzar el re-link. Este detalle técnico evita que el modelo confunda, por ejemplo, al personaje con un objeto.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Voces y animación con Seedance: referencias estables para cada clip</h3>
+<p>La voz es un componente esencial para la consistencia de los personajes. Kieft graba menos de 10 segundos de audio propio (o extrae un fragmento de un video) y hace lo mismo para cada personaje. Para Bruiser utilizó <strong>Fish Audio</strong>, aunque menciona <strong>ElevenLabs</strong> como alternativa. Sin una referencia de voz, Seedance genera variaciones distintas en cada clip, lo que rompe la ilusión de continuidad. Con la referencia, la voz se mantiene estable a lo largo de la serie.</p>
+<p>Para animar, se utiliza <strong>Seedance</strong> dentro de Higgsfield. El proceso consiste en subir el <em>start frame</em>, la misma imagen como referencia de localización, los character sheets de ambos personajes y ambos audios de voz. En el prompt se describe qué es cada referencia, se indica <em>camera is static as image one</em> y se detalla la performance y el diálogo. Es crucial ser explícito para que el modelo entienda el rol de cada input.</p>
+<p>Un consejo práctico muy valioso: usar el modo <strong>draft</strong> de Seedance, que genera a 480p, para no gastar créditos en tomas malas. Solo cuando el clip está aprobado se hace el upscale a 1080p. El primer clip generado duró 17 segundos y sirvió como base para probar la continuidad con el siguiente. Seedance permite clips de hasta aproximadamente 30 segundos, por lo que para un video de 60 segundos hay que encadenar dos clips con continuidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Continuidad entre clips: el truco de los últimos 3 segundos</h3>
+<p>Mantener la continuidad entre clips es uno de los mayores desafíos. Kieft explica que generar el segundo clip sin referencia del primero rompe la continuidad. La solución es exportar los <strong>últimos 3 segundos del clip anterior</strong> como un clip separado y subirlo como referencia de video en Higgsfield. Así, el modelo hereda el movimiento y la dirección de la escena. El resto de referencias (personajes, localización, voces) se mantienen idénticas, y solo se añade un close-up si se cambia el ángulo de cámara.</p>
+<p>Para continuar la historia, se dicta a Claude con Whisper Flow qué pasa después y se le pide el prompt de la siguiente escena. Este método permite escalar a episodios completos sin perder coherencia. La postproducción final consiste en unir los clips, eliminar silencios y hacer el upscale a 1080p al final. Kieft señala que el mismo método sirve para intros más complejas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas clave y conclusiones del flujo</h3>
+<p>El ecosistema de herramientas es fundamental. <strong>Higgsfield</strong> actúa como plataforma central de generación de imágenes y video, alojando Nano Banana 2.1 para imágenes y Seedance para animación. <strong>Claude</strong> (con Projects y Skills) es el cerebro del flujo: almacena el proyecto, ejecuta los skills y redacta todos los prompts. <strong>Whisper Flow</strong> permite dictar la historia y los prompts sin teclear. <strong>Fish Audio</strong> y <strong>ElevenLabs</strong> se encargan de las voces. <strong>Pinterest</strong> es la fuente de referencias visuales.</p>
+<p>Kieft concluye que el factor decisivo no es el modelo, sino la <strong>foundation de skills y referencias</strong>. Con ese setup se puede escalar a episodios y series manteniendo estilo y personajes. La consistencia se logra fijando un modelo de imagen para toda la serie, usando referencias de voz cortas pero estables, y encadenando clips con los últimos segundos del anterior. El resultado es un flujo de trabajo replicable que permite producir animación cartoon de calidad con IA.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Referencia de voz: menos de 10 segundos (una sola frase) por personaje.</li>
+<li>Continuidad entre clips: exportar los últimos 3 segundos del clip anterior como referencia de video.</li>
+<li>Modo draft de Seedance: 480p para pruebas; upscale a 1080p solo al final.</li>
+<li>Skills en Claude: 1 maestro (cartoon-master-style) + 4 de soporte (personaje, localización, props, animación).</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="http://dankieft.com/higgsfield" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma central de generación de imágenes y video; aloja Nano Banana 2.1 y Seedance.</li>
+<li><strong>Claude (Projects + Skills)</strong> — Cerebro del flujo: almacena el proyecto, ejecuta los skills y redacta todos los prompts.</li>
+<li><strong>Nano Banana 2.1</strong> — Modelo de imagen usado en Higgsfield para generar character sheets, localizaciones y escenas compuestas en 16:9 y 4K.</li>
+<li><strong>Seedance</strong> — Modelo de video usado en Higgsfield para animar escenas con referencias de imagen y audio; incluye modo draft 480p y upscale a 1080p.</li>
+<li><strong>Fish Audio</strong> — Generación/clonación de voz para el personaje Bruiser a partir de una referencia de audio.</li>
+<li><strong>ElevenLabs</strong> — Alternativa mencionada para clonar/generar voces de personajes.</li>
+<li><strong>Whisper Flow</strong> — Dictado por voz para escribir la historia y los prompts a Claude sin teclear.</li>
+<li><strong>Pinterest</strong> — Fuente de referencias visuales para definir el estilo cartoon (personajes y fondos 2D sitcom).</li>
+<li><a href="https://cartoon-show-site.vercel.app/" target="_blank" rel="noopener"><strong>Sitio de prompts del autor</strong></a> — Página con todos los prompts y assets usados en el video.</li>
+<li><a href="https://www.skool.com/nextgenai" target="_blank" rel="noopener"><strong>Comunidad Skool NextGenAI</strong></a> — Comunidad gratuita del autor con prompts y discusión sobre IA.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-ZRUpbbZF0_A.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
