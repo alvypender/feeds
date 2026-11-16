@@ -3,7 +3,232 @@
 <title>Rest of World (Completo)</title>
 <link href="https://restofworld.org/"/>
 <id>https://restofworld.org/</id>
-<updated>2026-11-13T16:24:10+00:00</updated>
+<updated>2026-11-16T11:00:23+00:00</updated>
+<entry>
+  <title>The small African lab sounding the alarm on AI bioweapons</title>
+  <link href="https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/"/>
+  <id>https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/</id>
+  <published>2026-11-16T11:00:23+00:00</published>
+  <updated>2026-11-16T11:00:23+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg"/>
+  <media:content url="https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg"/>
+  <webfeeds:featuredImage>https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg</webfeeds:featuredImage>
+  <summary>MinoHealth researchers in Ghana jailbroke their own LLM as a test. What emerged were thousands of toxin recipes—and an urgent push for regulation.</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/11/20261105_Mino-AI-Lab-29-scaled.jpg" alt="The small African lab sounding the alarm on AI bioweapons" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Danai Nesta Kupemba&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;MinoHealth researchers in Ghana jailbroke their own LLM as a test. What emerged were thousands of toxin recipes—and an urgent push for regulation.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;Out of curiosity, researchers at a small artificial intelligence lab in Accra, Ghana, removed the guardrails on their drug discovery AI model in 2024. They asked it to design toxins instead.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The model produced designs for 1,020 proteins and 5,000 small molecules. The researchers never made any of them in a lab, but software that predicts how poisonous a substance is scored all of them as likely toxic. Some of them resembled ricin, a deadly poison. The study was &lt;a href="https://arxiv.org/abs/2505.17154"&gt;uploaded to the preprint server arXiv&lt;/a&gt; in May 2025.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“We were all shocked,” Darlington Akogo, founder of MinoHealth AI Labs, told &lt;em&gt;Rest of World.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For Akogo, the results also raised a new question: If someone took designs like these to a company that makes DNA to order, would anyone stop them?&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Across Africa, the need to regulate DNA synthesis providers is now echoing through the highest levels of government, Brenda Obuya, a senior official at Kenya’s Ministry of Information, Communications and the Digital Economy, told &lt;em&gt;Rest of World.&lt;/em&gt;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Akogo has traveled the world warning that AI poses an existential bioweapons threat. He discussed it on the sidelines of the &lt;a href="https://www.linkedin.com/posts/darlington-akogo-8628b78b_we-had-a-remarkable-session-at-the-world-ugcPost-7325204361251287040-g0-b/"&gt;World Bank Group and International Monetary Fund&lt;/a&gt; Spring Meetings held in Washington, D.C., last year. He discussed the broader risk over dinner with Microsoft co-founder Bill Gates in 2023, whom he described as “on the fence” at the time. This year, Gates has issued numerous public warnings. “A.I. has crossed the threshold that its ability to empower a bioterrorist to kill hundreds of millions, that exists today,” he said on &lt;a href="https://www.youtube.com/watch?v=A_156w0aYtU"&gt;&lt;em&gt;The Ezra Klein Show&lt;/em&gt;&lt;/a&gt; in September. &lt;sup&gt;&lt;/sup&gt;The study has been discussed within Interpol, showing just how far it has reached.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“I think the fact that the Ghanaian AI lab examined this and highlighted the potential for misuse shows that African institutions are contributing to … potentially to the governance [of AI],” Adam Abdullahi, a fellow at the International Biosecurity and Biosafety Initiative for Science, told &lt;em&gt;Rest of World&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;LLMs have become even more capable since the study came out and the barrier for entry has lowered, Ayantola Alayande, a researcher at the Global Center on AI Governance, told &lt;em&gt;Rest of World.&lt;/em&gt; “It wouldn&amp;#8217;t be a surprise now to see even … [lay] users generate this sort of output via chatbots.”&lt;/p&gt;
+
+
+	&lt;figure class="gallery gallery--default gallery--double "&gt;
+		&lt;div class="gallery__images-wrapper"&gt;
+			&lt;ul class="gallery__images"&gt;
+				&lt;li class='gallery__image'&gt;		&lt;figure class="image image--landscape unloaded" &gt;
+			&lt;div class="image__container"&gt;
+				&lt;div class="image__wrapper"&gt;
+					
+					&lt;img
+						src="https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-32-scaled.jpg?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
+						srcset="https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-32-scaled.jpg?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-32-scaled.jpg?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-32-scaled.jpg?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-32-scaled.jpg?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-32-scaled.jpg?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-32-scaled.jpg?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-32-scaled.jpg?width=100&amp;amp;dpr=2 200w, " 
+						sizes="(min-width: 1320px) 1050px, 80vw"
+						alt="A gray house with a balcony, surrounded by palm trees and a paved driveway. A neighboring building is visible in the background"
+						 style='aspect-ratio: 2560/1707; --ar: 2560/1707'
+						loading="lazy"
+					/&gt;
+					
+				&lt;/div&gt;
+			&lt;/div&gt;
+				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
+		&lt;span class='figcaption__caption'&gt;A photograph of Mino AI Lab office buiilding in Accra, Ghana.&lt;/span&gt;
+		
+	&lt;/figcaption&gt;
+		&lt;/figure&gt;&lt;/li&gt;&lt;li class='gallery__image'&gt;		&lt;figure class="image image--landscape unloaded" &gt;
+			&lt;div class="image__container"&gt;
+				&lt;div class="image__wrapper"&gt;
+					
+					&lt;img
+						src="https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-21-scaled.jpg?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
+						srcset="https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-21-scaled.jpg?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-21-scaled.jpg?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-21-scaled.jpg?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-21-scaled.jpg?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-21-scaled.jpg?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-21-scaled.jpg?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-21-scaled.jpg?width=100&amp;amp;dpr=2 200w, " 
+						sizes="(min-width: 1320px) 1050px, 80vw"
+						alt="A group of people working at computers in a room, with a screen displaying a project titled &amp;quot;Moremi Co-Researcher: An Agentic Life Science Assistant"
+						 style='aspect-ratio: 2560/1707; --ar: 2560/1707'
+						loading="lazy"
+					/&gt;
+					
+				&lt;/div&gt;
+			&lt;/div&gt;
+				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
+		&lt;span class='figcaption__caption'&gt;Mino Lab team members working together in their engineering lab developing the new tech.&lt;/span&gt;
+		&lt;span class='figcaption__credit' itemprop='copyrightHolder'&gt;Agbongua Kwadwo Buenortey for Rest of World&lt;/span&gt;
+	&lt;/figcaption&gt;
+		&lt;/figure&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		
+	&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Dual use&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Scholars have long warned about AI’s bioweapons threat, but it is only recently that AI systems have truly outperformed Ph.D.-level &lt;a href="https://www.aisi.gov.uk/blog/5-key-findings-from-our-first-frontier-ai-trends-report"&gt;biologists&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In 2022, &lt;a href="https://www.nature.com/articles/s42256-022-00465-9"&gt;scientists at a US drug company&lt;/a&gt; ran a similar experiment as the MinoHealth team. They built a generative machine learning software that produced designs for possible chemical weapons.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;What is different with the minoHealth Lab study, Akogo said, is the kind of AI involved. His team used a general purpose LLM trained for biology and drug discovery.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Researchers have since gotten a number of LLMs to drop their inbuilt safeguards in a process called “jailbreaking”, and generated bioweapons advice and other kinds of hazardous content. This includes Kimi, by the Chinese company Moonshot AI; Grok; Claude; and ChatGPT, &lt;strong&gt;&lt;/strong&gt;said &lt;strong&gt;&lt;/strong&gt;Peter Garraghan, founder of AI security company Mindgard&lt;em&gt;.&lt;/em&gt; All it takes is persistence and creativity with language to learn how to phrase requests to the model, he told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“You don’t need to be a technical expert to do jailbreaking,” he said&lt;em&gt;.&lt;/em&gt; It took his team one day to &lt;a href="https://www.bbc.com/news/articles/cmrergq3j7lgo"&gt;break Kimi&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SpaceXAI, Anthropic, OpenAI, and Moonshot did not respond to a request for comment.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The latest AI models have &lt;a href="https://www.aisi.gov.uk/frontier-ai-trends-report#4-safeguards"&gt;stronger safeguards&lt;/a&gt;, particularly when it comes to biological misuse requests, but even these are not foolproof, according to the AI Security Institute, a U.K. government research organization.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The danger became more real this September when &lt;a href="https://www.anthropic.com/threat-intelligence-report-september-2026"&gt;Anthropic reported five cases&lt;/a&gt; where people tried to use its AI models in ways that could support biological weapons development. Bioweapons are now &lt;a href="https://www.mi5.gov.uk/mi5-director-general-delivers-annual-threat-update"&gt;the top AI misuse risk&lt;/a&gt;, according to Ken McCallum, director general of MI5, the U.K.’s intelligence agency. “The misuse case to which I’d attach greatest weight – is AI’s potential to change the stakes on existing or even new bioweapons,” he said.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;All-in-one health AI model&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;When Akogo founded MinoHealth Labs in 2016, he wasn’t worried about bioweapons. Rather, he wanted to make care available to all by solving Ghana&amp;#8217;s health worker shortage using AI.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;That goal took Akogo to the edge of AI development in 2022, when his team began work on an LLM named Moremi &lt;strong&gt;&lt;/strong&gt;AI. A year later, they received $149,533 &lt;a href="https://www.gatesfoundation.org/about/committed-grants/2023/12/inv-062536"&gt;from the Gates Foundation&lt;/a&gt; to build a &lt;a href="https://gcgh.grandchallenges.org/grant/foundation-model-radiology"&gt;foundation model&lt;/a&gt; that can analyze medical images for radiologists. The model would eventually process both text and images, answer medical questions, help interpret scans, and draft reports. It would also help design drugs.&amp;nbsp;&lt;/p&gt;
+
+
+		&lt;figure class="image--wide  image image--landscape unloaded" &gt;
+			&lt;div class="image__container"&gt;
+				&lt;div class="image__wrapper"&gt;
+					
+					&lt;img
+						src="https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=800&amp;amp;dpr=2&amp;amp;crop=16:9"
+						srcset="https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=1900&amp;amp;dpr=2 3800w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=1700&amp;amp;dpr=2 3400w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=1500&amp;amp;dpr=2 3000w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=1300&amp;amp;dpr=2 2600w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=1100&amp;amp;dpr=2 2200w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=900&amp;amp;dpr=2 1800w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=700&amp;amp;dpr=2 1400w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=500&amp;amp;dpr=2 1000w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=300&amp;amp;dpr=2 600w, https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-10.jpg?width=100&amp;amp;dpr=2 200w, " 
+						sizes="(min-width: 1320px) 960px, (min-width: 1140px) calc(100vw - (50vw - 280px)), (min-width: 992px) calc(100vw - 290px), calc(100vw - 40px)"
+						alt="A person with glasses sits at a desk with a laptop, looking towards the camera, in an office with other computers"
+						 style='aspect-ratio: 2000/1333; --ar: 2000/1333'
+						loading="lazy"
+					/&gt;
+					
+				&lt;/div&gt;
+			&lt;/div&gt;
+				&lt;figcaption class="figcaption" itemprop="caption description"&gt;
+		&lt;span class='figcaption__caption'&gt;Malik improving on Moremi AI voice and builing CRM components of the health OS patient APP, poses for a portrait.&lt;/span&gt;
+		&lt;span class='figcaption__credit' itemprop='copyrightHolder'&gt;Agbongua Kwadwo Buenortey for Rest of World&lt;/span&gt;
+	&lt;/figcaption&gt;
+		&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;The ambition is similar in scope to &lt;strong&gt;&lt;/strong&gt;top Silicon Valley labs such as OpenAI and Anthropic, Leo Anthony Celi, a principal research scientist at the MIT Laboratory of Computational Physiology, told &lt;em&gt;Rest of World.&lt;/em&gt; In October 2025, Anthropic launched &lt;strong&gt;&lt;/strong&gt;&lt;a href="https://www.anthropic.com/news/claude-for-life-sciences"&gt;Claude for Life Sciences&lt;/a&gt;, and this April, Open AI launched &lt;a href="https://openai.com/index/introducing-gpt-rosalind/"&gt;GPT-Rosalind&lt;/a&gt;. Both are AI tools developed to accelerate biology research and drug discovery. Investment in AI powered drug discovery reached $8.4 billion in 2025, more than double the $4.1 billion invested in 2023, according to a &lt;a href="https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most"&gt;2026 McKinsey report&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;MinoHealth has a fraction of these resources and a 20-member team working in a modest bungalow in Accra that is the &lt;a href="https://www.wallpaper.com/architecture/letter-from-silicon-valley-inside-the-finest-tech-workspaces"&gt;anti-thesis of Silicon Valley’s futuristic campuses&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In the early days, Akogo had sleepless nights. He worried his competitors were better funded, and had more talent. But he has since decided there is room for multiple companies working on specific use cases.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“I have a small team of extremely capable people so if that means we&amp;#8217;re punching above our weight, I guess … it’s just more exciting,” he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;When his team tested their model, Moremi Bio, in 2024 to see if it could be made to ignore safeguards, it took them only a few days, Akogo recalled. Few people back then knew that biology LLMs’ could have a dual purpose, so he decided to publish his findings. “To the best of our knowledge, [looking at published studies], this was the first time anyone was showing that LLMs specifically could design biological weapons,” he said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;AI models shouldn’t be able to design potential bioweapons, Abdullahi said. “The whole idea of putting guardrails is that it should never really kind of get to that stage, so to speak.”&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Synthesis&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Bad actors could potentially send the bioweapon designs to DNA synthesis labs to make the molecules. Although some labs screen orders for potentially toxic sequences, this process could be hacked by a malicious actor using AI, Akogo said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In June, the heads of OpenAI, Anthropic, and Google DeepMind joined a call for U.S. lawmakers to &lt;a href="https://prod-i.a.dj.com/public/resources/documents/dnaletter.pdf"&gt;make such checks mandatory&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Governments across Africa recognize that open-source frontier models have lowered the technical barrier to generate toxins, said Obuya from Kenya’s Ministry of Information, Communications and the Digital Economy. Cloud laboratories and AI models have created a need for regulation, she said. Intelligence agencies are setting up specialized desks to track threats at the “intersection of cyber defense and biology,” she said.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;As AI design tools develop, screening must keep pace, Sandra Roy, program manager at the International Gene Synthesis Consortium, a voluntary group of nucleic acid providers, told &lt;em&gt;Rest of World&lt;/em&gt;. They support legislation that would mandate screening across the nucleic acid supply chain, she said.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“We are also working with model developers to strengthen our ability to detect AI-designed sequences that may be engineered to evade screening, and we will keep updating our tools as the threat evolves,” she said.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&amp;nbsp;&lt;strong&gt;AI for healthcare&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Moremi Bio is currently good at a few things. For instance, it has proposed hundreds of drug candidates for diseases such as cancer, tuberculosis, and dengue. The team is now working as &lt;a href="https://nvi.gov.gh/notice/research-meets-manufacturing-eur-2-million-awarded-to-r-d-projects-for-vaccine-and-pharmaceutical-innovation-made-in-ghana"&gt;part of a European Union-funded consortium&lt;/a&gt; to develop monoclonal antibodies and diagnostics for mpox and malaria. The company is predominantly funded through sales of its AI system, Akogo said.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The promise of AI in healthcare and biology aside, Akogo continues to raise the alarm over AI risks, especially bioweapons. He believes the United Nations should set up a dedicated working group to study the risks of AI. He also suggested tighter controls over synthesis. His goal isn’t to scare people, but rather, to balance AI optimism with caution.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;“I think there&amp;#8217;s several things we can do that could limit and minimize those dangers,&amp;#8221; he said.&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain</title>
   <link href="https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/"/>
@@ -192,12 +417,12 @@
   <id>https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/</id>
   <published>2026-11-09T08:30:00+00:00</published>
   <updated>2026-11-09T08:30:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://web.archive.org/web/20261115085316/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1"/>
-  <media:content url="https://web.archive.org/web/20261115085316/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://web.archive.org/web/20261115085316/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1"/>
-  <webfeeds:featuredImage>https://web.archive.org/web/20261115085316/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/jpeg" href="https://web.archive.org/web/20261116112739/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1"/>
+  <media:content url="https://web.archive.org/web/20261116112739/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://web.archive.org/web/20261116112739/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1"/>
+  <webfeeds:featuredImage>https://web.archive.org/web/20261116112739/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1</webfeeds:featuredImage>
   <summary>Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://web.archive.org/web/20261115085316/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/Chinese-Silicon-Valley.jpg" alt="Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://web.archive.org/web/20261116112739/https://fastly.restofworld.org/uploads/2025/01/Kinling-scaled.jpg?width=160&amp;dpr=2&amp;crop=1:1" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/Chinese-Silicon-Valley.jpg" alt="Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Kinling Lo and Viola Zhou&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;Chinese AI companies are hiring Silicon Valley-based engineers to work on their models, potentially tapping into the talent at American labs like OpenAI and Anthropic.&lt;/p&gt;
@@ -1113,119 +1338,5 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;If the most powerful builders keep designing for market share while the world’s most resource-constrained builders design for survival and self-actualization, the templates that spread globally for governance, infrastructure, and who gets to participate may increasingly come from wherever necessity did the inventing. The West is warning the world about what AI might do to us. Perhaps it is time to ask what the rest of the world might teach us to do with it.&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>BYD expands EV shipping fleet as wars upend freight costs and key trade routes</title>
-  <link href="https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/"/>
-  <id>https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/</id>
-  <published>2026-10-14T10:00:00+00:00</published>
-  <updated>2026-10-14T10:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg"/>
-  <media:content url="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg"/>
-  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg</webfeeds:featuredImage>
-  <summary>China’s EV giant says a shortage of ships is holding back its exports.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2024/02/GettyImages-1926876968.jpg" alt="BYD expands EV shipping fleet as wars upend freight costs and key trade routes" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Indranil Ghosh&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;China’s EV giant says a shortage of ships is holding back its exports.&lt;/em&gt;&lt;/p&gt;
-&lt;p class="wp-block-paragraph"&gt;China’s &lt;span class='explainer-tag'&gt;&lt;mark class='term'&gt;&lt;a href='https://restofworld.org/tag/byd' aria-label='Click to learn more about BYD.'&gt;BYD&lt;span class='info-icon'&gt;i&lt;/span&gt;&lt;/a&gt;&lt;/mark&gt;&lt;span class='description'&gt;&lt;span class='explainer-title'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;BYD&lt;/a&gt;&lt;/span&gt;BYD Auto is a Chinese carmaker that became the world’s leading EV manufacturer in 2023, competing with Tesla for market share and global attention.&lt;span class='read-more'&gt;&lt;a href='https://restofworld.org/tag/byd'&gt;&lt;span&gt;READ MORE&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; is building cars faster than it can export, so it’s adding more ships.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The world’s largest electric vehicle maker will expand its fleet of car-carrying cargo ships to 18 from eight by 2029, according to &lt;a href="https://www.new-ships.com/ns/news/6281"&gt;shipping industry reports&lt;/a&gt;. Each &lt;a href="https://www.new-ships.com/ns/news/6281"&gt;new carrier&lt;/a&gt; will have the capacity to carry about 9,200 cars and will be built by China Merchants Industry.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Owning its fleet could cut BYD’s cost to ship each car abroad by as much as 40% compared with renting carriers, according to &lt;a href="https://carnewschina.com/2025/03/24/byd-will-undock-its-fifth-car-carrier-in-april/"&gt;one industry estimate&lt;/a&gt;. BYD’s increasing export capacity could help it push further into global markets, intensifying competition for automakers including Tesla and traditional U.S. brands.&lt;/p&gt;
-
-
-&lt;figure class='pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;Carmakers like BYD, which invested in the sector ahead of the surge, are reaping the rewards of that long-term strategy.”&lt;cite&gt;Andrea De Luca, maritime analyst, Veson Nautical&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;“Carmakers like BYD, which invested in the sector ahead of the surge, are reaping the rewards of that long-term strategy,” Andrea De Luca, a maritime analyst at Boston-based shipping data company Veson Nautical, told &lt;em&gt;Rest of World&lt;/em&gt;. “By owning their ships, they can save money compared with chartering at today’s elevated rates, prioritize their most important markets, enter new ones more easily, and depend less on charter market swings.”&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;BYD did not respond to &lt;em&gt;Rest of World&lt;/em&gt;’s request for comment.&lt;/p&gt;
-
-
-
-&lt;h2 id='why-byd-owns-ships' class="wp-block-heading"&gt;Why BYD owns ships&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In 2022, BYD announced &lt;a href="https://maritime-executive.com/article/chinese-ev-manufacturer-byd-takes-delivery-of-largest-capacity-car-carrier"&gt;a plan worth $687 million&lt;/a&gt; to build its own car carriers, to fix what founder Wang Chuanfu called a shortage of shipping capacity for exports. Between January 2024 and September 2025, the company put &lt;a href="https://carnewschina.com/2026/09/11/byd-orders-10-more-vessels-with-capacity-for-9200-cars-each-report-says/"&gt;eight car carriers&lt;/a&gt; into service.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Earlier this year, BYD told investors that a &lt;a href="https://cnevpost.com/2026/09/07/byd-targets-2-5-million-overseas-sales-2027/"&gt;shortage of shipping capacity&lt;/a&gt; had held back its exports. In September, the company sold 180,700 cars outside China, more than double a year ago and almost 40% of &lt;a href="https://cnevpost.com/2026/10/01/byd-sept-2026-sales/"&gt;its monthly total sales&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Wars in the Red Sea and around the &lt;a href="https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/"&gt;Strait of Hormuz&lt;/a&gt; have &lt;a href="https://www.maritime.dot.gov/msci/2026-011-persian-gulf-strait-hormuz-and-gulf-oman-iranian-attacks-commercial-vessels"&gt;pushed up freight costs&lt;/a&gt; and forced ships onto longer routes around conflict zones. Renting a car carrier with capacity of about 6,500 cars now costs $95,000 a day, up from $50,000 in February, according to shipping data and analytics firm Clarksons Research. Chinese owners account for only about 10% of global car carrier capacity, including ships on order, so carmakers from the country hire ships from international shipping companies, the research arm of shipbroker Clarksons said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;With BYD aiming to sell more than &lt;a href="https://cnevpost.com/2026/09/07/byd-targets-2-5-million-overseas-sales-2027/"&gt;2.5 million cars&lt;/a&gt; overseas next year, up from a target of 1.9 to 2 million this year, owning a fleet cushions against higher shipping bills and gives more control over space and routes, analysts said.&lt;/p&gt;
-
-
-
-&lt;blockquote class="blockquote blockquote--stat is-layout-flow blockquote-is-layout-flow"&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;2.5 million&lt;/strong&gt; Number of cars BYD aims to sell overseas next year, up from a target of 1.9 to 2 million this year.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“The very strong growth in Chinese exports, fueling strong Asia-Europe fronthaul demand growth, is the biggest single factor behind the increase in charter rates,” Stephen Gordon, managing director of Clarksons Research, told &lt;em&gt;Rest of World&lt;/em&gt;. “Additionally, conflict in the Middle East has caused regional disruption and inefficiencies, which have helped to further tighten markets after a two-year period of gradual normalization.”&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Most car carriers on Asia-Europe routes are sailing around the Cape of Good Hope to avoid the Red Sea, adding about 25% to the distance and as many as 14 days to each voyage, De Luca said. With shipping through the Strait of Hormuz disrupted, the spot rate for moving cars from China to the Middle East has jumped to $220 per cubic meter of cargo space from $65 in February, he said.&lt;/p&gt;
-
-
-
-&lt;h2 id='chinese-evs-and-exports' class="wp-block-heading"&gt;Chinese EVs and exports&lt;/h2&gt;
-
-
-&lt;figure class='pullquote--right-rail pullquote quote-treatment'&gt;&lt;blockquote&gt;&lt;p&gt;By displaying these massive carriers, it aims to project an image of power and speed to the rest of the world,”&lt;cite&gt;Felipe Munoz, founder, Car Industry Analysis&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;In China, industrywide sales of EVs and plug-in hybrids fell 12% in the first eight months of the year, after the government cut tax breaks for buyers. BYD sold 33% fewer cars at home over the same period.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Many Chinese carmakers have kept their factories busy by selling surplus cars abroad as changes to tax and subsidy incentives have cooled demand at home, George Whitcombe, a senior EV analyst at London-based battery data provider Benchmark Mineral Intelligence, told &lt;em&gt;Rest of World&lt;/em&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Exports of China-made EVs are now rising faster than their registrations overseas, pointing to a growing stock of unsold cars, he said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Control over its distribution network is a strategy BYD has long pursued,” Whitcombe said. “With other Chinese automakers left without their own fleet of ships and exposed to rising shipping costs, it potentially leaves them in a less competitive position to grow their overseas presence.”&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Tesla, BYD’s main U.S. rival, has relied on &lt;a href="https://autonews.gasgoo.com/articles/news/tesla-china-makes-first-export-shipment-after-shanghai-factory-reopens-70020324"&gt;other companies’ carriers&lt;/a&gt; to export from China. Its Shanghai plant shipped more cars abroad than it sold at home in the &lt;a href="https://carnewschina.com/2026/09/08/teslas-china-sales-fell-12-4-in-august-as-exports-rose-for-the-eighth-straight-month/"&gt;first eight months&lt;/a&gt; of the year. Carmakers that charter ships are more exposed to swings in the charter market than those that own them, De Luca said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;BYD’s giant carriers are mainly a marketing exercise, Felipe Munoz, founder of research platform Car Industry Analysis, told &lt;em&gt;Rest of World&lt;/em&gt;. Owning ships has its drawbacks and advantages, he said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“By displaying these massive carriers, it aims to project an image of power and speed to the rest of the world,” Munoz said. “It is more a political statement against the established carmakers by telling the world that BYD is moving fast and has a lot of resources to make the most advanced EVs.”&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;BYD’s fleet is about control, and extending into logistics is a natural step now that it exports millions of cars amid geopolitical volatility and cost swings, Lei Xing, founder of AutoXing, a Chinese auto industry consultancy, told &lt;em&gt;Rest of World&lt;/em&gt;. BYD ships only EVs and plug-in hybrids, which need specially configured carriers, and most of its fleet runs on liquefied natural gas as ports tighten green-fuel rules, he said.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Rival Geely began running its first car carrier in 2025, on a &lt;a href="https://www.bairdmaritime.com/shipping/dry-cargo/pcc-pctc/chinese-car-maker-geely-places-new-vehicle-carrier-into-service"&gt;long-term charter&lt;/a&gt; from London-based shipowner Zodiac Maritime. Chery set up a venture with Wuhu Shipyard in 2023 to build car carriers for &lt;a href="https://www.seatrade-maritime.com/shipyards/chery-in-shipyard-venture-to-build-its-own-car-carriers"&gt;its own fleet&lt;/a&gt; in eastern China.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;“Geely, on the other hand, will be running its own ships eventually,” Lei Xing said. “You can bet on that.”&lt;/p&gt;</content>
 </entry>
 </feed>
