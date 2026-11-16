@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simulador de CDT 2026: cómo calcular intereses con tasa efectiva o nominal, retención del 4% y rentabilidad real; ejemplo con $10 millones al 9,5% E.A. — Frame &amp; Prompt</title>
+  <meta name="description" content="Un CDT de $10 millones a 180 días al 9,5% E.A. genera $457.722 de intereses brutos, pero tras la retención del 4% y los aportes a seguridad social como rentista de capital, la rentabilidad neta baja de 9,11% a 8,32% y la real a 3,72% con inflación del 5,2%. La clave está en distinguir tasa efectiva ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Simulador de CDT 2026: cómo calcular intereses con tasa efectiva o nominal, retención del 4% y rentabilidad real; ejemplo con $10 millones al 9,5% E.A.">
+  <meta property="og:description" content="Un CDT de $10 millones a 180 días al 9,5% E.A. genera $457.722 de intereses brutos, pero tras la retención del 4% y los aportes a seguridad social como rentista de capital, la rentabilidad neta baja de 9,11% a 8,32% y la real a 3,72% con inflación del 5,2%. La clave está en distinguir tasa efectiva ">
+  <meta property="og:image" content="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/finanzas-art-web_simulador-cdt.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Simulador de CDT 2026: cómo calcular intereses con tasa efectiva o nominal, retención del 4% y rentabilidad real; ejemplo con $10 millones al 9,5% E.A.">
+  <meta name="twitter:description" content="Un CDT de $10 millones a 180 días al 9,5% E.A. genera $457.722 de intereses brutos, pero tras la retención del 4% y los aportes a seguridad social como rentista de capital, la rentabilidad neta baja de 9,11% a 8,32% y la real a 3,72% con inflación del 5,2%. La clave está en distinguir tasa efectiva ">
+  <meta name="twitter:image" content="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/finanzas-art-web_simulador-cdt.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/finanzas.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · FC</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/finanzas.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Simulador de CDT 2026: cómo calcular intereses con tasa efectiva o nominal, retención del 4% y rentabilidad real; ejemplo con $10 millones al 9,5% E.A.</h1>
+        <div class="metadata">
+          <span>Por <strong>Gerencie.com</strong></span>
+          <time datetime='2026-11-15T17:05:51.880053-05:00'>2026-11-15</time>
+        </div>
+
+        
+
+        
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+<p><a href="https://www.gerencie.com/simulador-cdt.html" target="_blank" rel="noopener"><img src="https://www.gerencie.com/wp-content/uploads/simulador-cdt.png" alt="Simulador CDT" style="max-width: 100%; height: auto; border-radius: 6px;"/></a></p>
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Un CDT de $10 millones a 180 días al 9,5% E.A. genera $457.722 de intereses brutos, pero tras la retención del 4% y los aportes a seguridad social como rentista de capital, la rentabilidad neta baja de 9,11% a 8,32% y la real a 3,72% con inflación del 5,2%. La clave está en distinguir tasa efectiva de nominal, verificar la base de días y simular el flujo periódico antes de firmar.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Gerencie.com</strong>: <a href="https://www.gerencie.com/simulador-cdt.html" target="_blank" rel="noopener">Simulador CDT</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El error que infla los intereses: tasa efectiva vs. nominal y base de cálculo</h3>
+<p>Multiplicar la tasa por los días y dividir entre 360 es el error más común al calcular los rendimientos de un CDT. Con $10 millones a 180 días y una tasa del 9,5% E.A., ese atajo arroja $475.000, pero el interés real es $457.722. La razón es que la tasa efectiva anual ya incorpora la capitalización de los rendimientos, por lo que aplicarla linealmente sobre el plazo sobreestima la ganancia. La fórmula correcta parte de convertir la tasa efectiva anual a la tasa del período: (1 + 0,095)^(180/365) - 1 = 4,5772%, que aplicada al capital produce los $457.722.</p>
+<p>La distinción entre tasa efectiva y nominal es decisive. Un CDT que ofrece 9,2% N.T.V. (nominal trimestre vencido) a 90 días paga $230.000 de intereses, pero si el inversionista asume que ese 9,2% es efectivo anual, solo recibiría $219.385. La tasa nominal del 9,2% equivale a una efectiva anual del 9,52%, y el simulador debe reflejarlo. Del mismo modo, una tasa nominal anual del 9,5% con capitalización diaria se convierte en 9,96% E.A. y eleva los intereses a $479.577 en 180 días. Verificar siempre la sigla E.A. y, en su defecto, la periodicidad de la capitalización, es el primer filtro para comparar ofertas entre bancos.</p>
+<p>El plazo también exige precisión. No es lo mismo pactar 180 días que 6 meses. Con base 365, 180 días generan $457.722, mientras que 6 meses producen $464.225 porque el segundo semestre tiene más días. A 12 meses los intereses son exactamente $950.000, y a 360 días, $936.395. La fecha de vencimiento cambia: si el CDT se abre el 1 de marzo, a 180 días vence el 28 de agosto; a 6 meses, el 1 de septiembre. Además, la base de días utilizada por la entidad (360 o 365) altera el resultado: con base 360, el mismo CDT de 180 días pasa de $457.722 a $464.225. Preguntar a la entidad cuál es su base es un paso obligatorio antes de firmar.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Retención en la fuente del 4%: un anticipo, no un costo definitivo</h3>
+<p>Sobre los intereses brutos de un CDT recae una retención en la fuente del 4%, tarifa general para rendimientos de títulos de renta fija, conforme al artículo 1.2.4.2.32 del Decreto 1625 de 2016 y el artículo 395 del Estatuto Tributario. En el ejemplo de $10 millones a 180 días al 9,5% E.A., los intereses brutos son $457.722 y la retención asciende a $18.309, dejando un neto de $439.413. El valor al vencimiento sería $10.439.413. Es crucial entender que esta retención no es un costo adicional, sino un anticipo del impuesto de renta que se abona a la declaración anual; si la tarifa marginal del inversionista es inferior al 4%, podrá solicitar la devolución o compensación.</p>
+<p>El simulador de Gerencie.com aplica automáticamente esta retención y permite ver el flujo neto. Para el inversionista independiente, sin embargo, el cálculo no termina ahí: los intereses del CDT forman parte de la base de cotización a seguridad social como rentista de capital. La Ley 2277 de 2022, en su artículo 89, establece que los independientes con ingresos netos mensuales iguales o superiores a un salario mínimo deben cotizar sobre el 40% de esos ingresos. La Resolución UGPP 532 de 2024 fija costos presuntos del 28,08% para rentistas de capital a partir de mayo de 2026, reemplazando el 27,5% del Decreto 1601 de 2022. En el ejemplo, los costos presuntos son $128.528, el ingreso neto $329.194, y el IBC (40%) $131.678. Aplicando salud (12,5%) y pensión (16%), los aportes suman $37.528, con lo que los intereses netos después de todo quedan en $401.885.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Pagos periódicos vs. al vencimiento: casi la misma rentabilidad, distinto flujo</h3>
+<p>La elección entre recibir intereses al vencimiento o en pagos periódicos depende de la necesidad de liquidez, no de una gran diferencia en rentabilidad. Si se opta por pagos trimestrales, el plazo debe ser múltiplo del período: 3, 6, 9 o 12 meses, o 90, 180, 270 o 360 días. En el CDT de $10 millones al 9,5% E.A. a 12 meses, cada trimestre paga $229.479 brutos, con retención de $9.179 y neto de $220.300. Los cuatro pagos suman $881.201 netos, frente a $912.000 netos al vencimiento. La rentabilidad efectiva anual neta es prácticamente idéntica: 9,11% con pagos trimestrales y 9,12% al vencimiento, siempre que los intereses periódicos se reinviertan a la misma tasa.</p>
+<p>El simulador permite comparar ambos escenarios y descargar el flujo en Excel para modificarlo. También advierte que, si se eligen pagos periódicos, el plazo debe ser coherente con la periodicidad; de lo contrario, el cálculo se distorsiona. Para quien necesita ingresos regulares, los pagos trimestrales ofrecen liquidez sin sacrificar rendimiento; para quien no los necesita, el vencimiento simplifica la reinversión automática. En ambos casos, la retención del 4% se aplica sobre cada pago de intereses.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Rentabilidad neta y real: el impacto de la seguridad social y la inflación</h3>
+<p>La rentabilidad neta que muestra el simulador antes de seguridad social es del 9,11% efectivo anual para el ejemplo. Al incluir los aportes a salud y pensión como rentista de capital, esa rentabilidad cae a 8,32%. El cálculo es directo: se restan los costos presuntos del 28,08% a los intereses brutos, se toma el 40% de ese ingreso neto como IBC, y se aplican las tarifas de salud (12,5%) y pensión (16%). Si el IBC alcanza 4 salarios mínimos, se suma el fondo de solidaridad pensional; el tope máximo de IBC es de 25 salarios mínimos. Para el inversionista, es fundamental incorporar estos aportes en la comparación, pues pueden reducir la rentabilidad en más de un punto porcentual.</p>
+<p>La rentabilidad real es la que verdaderamente importa. Con una inflación del 5,2%, la rentabilidad neta del 9,11% se traduce en un 3,72% real, aplicando la fórmula (1 + rentabilidad neta) / (1 + inflación) - 1. Si se incluyen los aportes a seguridad social, la rentabilidad real sería aún menor. El simulador permite ingresar la inflación esperada y obtener este indicador, que es el que debería guiar la decisión de inversión frente a otras alternativas. Comparar tasas E.A. sin ajustar por inflación puede llevar a celebrar rendimientos que en términos reales son modestos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas complementarias y el paso a la declaración de renta</h3>
+<p>El simulador de CDT de Gerencie.com no opera aislado. Se complementa con el liquidador de intereses moratorios, útil si se presentan obligaciones pendientes, y con el liquidador de renta para personas naturales, que permite incorporar los intereses del CDT en la declaración anual. La retención del 4% practicada se registra como anticipo, y el inversionista puede descontarla o solicitar devolución según su tarifa marginal. Para quienes prefieren construir su propio modelo, la fórmula para calcular intereses de CDT en Excel ofrece plantillas con hojas de pago periódico y renovaciones automáticas.</p>
+<p>El flujo de trabajo recomendado es: primero, verificar la tasa (E.A. o nominal) y la base de días; segundo, simular con el plazo exacto en días o meses; tercero, comparar el escenario al vencimiento y con pagos periódicos; cuarto, incluir los aportes a seguridad social si se es independiente; quinto, calcular la rentabilidad real con la inflación proyectada; y sexto, descargar la simulación en Excel o PDF para conservar el soporte. Con estos pasos, el inversionista evita sorpresas y puede negociar con información completa.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Fórmula de interés para el período: (1 + tasa E.A.)^(días/365) - 1. Ejemplo: 9,5% E.A. a 180 días = 4,5772%.</li>
+<li>Retención en la fuente sobre intereses de CDT: 4% (art. 1.2.4.2.32 Decreto 1625 de 2016).</li>
+<li>Aportes a seguridad social como rentista de capital: costos presuntos 28,08% (Res. UGPP 532/2024), IBC 40% del ingreso neto, salud 12,5% + pensión 16%.</li>
+<li>Rentabilidad real: (1 + rentabilidad neta) / (1 + inflación) - 1.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.gerencie.com/simulador-cdt.html" target="_blank" rel="noopener"><strong>Simulador CDT de Gerencie.com</strong></a> — Calcula intereses, retención, rentabilidad neta y real, aportes a seguridad social y genera Excel/PDF.</li>
+<li><a href="https://www.gerencie.com/liquidador-de-intereses" target="_blank" rel="noopener"><strong>Liquidador de intereses moratorios</strong></a> — Calcula intereses moratorios para obligaciones pendientes.</li>
+<li><a href="https://www.gerencie.com/liquidador-renta-personas-naturales" target="_blank" rel="noopener"><strong>Liquidador de renta personas naturales</strong></a> — Ayuda a incorporar los intereses del CDT en la declaración de renta.</li>
+<li><a href="https://www.gerencie.com/formula-para-calcular-intereses-de-cdt-en-excel.html" target="_blank" rel="noopener"><strong>Fórmula para calcular intereses de CDT en Excel</strong></a> — Plantilla y fórmulas para construir un simulador propio con pagos periódicos y renovaciones.</li>
+<li><a href="https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1625_2016_pr013.htm#1.2.4.2.32" target="_blank" rel="noopener"><strong>Decreto 1625 de 2016, artículo 1.2.4.2.32</strong></a> — Reglamenta la retención en la fuente sobre intereses (tarifa del 4% para renta fija).</li>
+<li><a href="https://normograma.dian.gov.co/dian/compilacion/docs/estatuto_tributario.htm#395" target="_blank" rel="noopener"><strong>Estatuto Tributario, artículo 395</strong></a> — Establece la retención en la fuente sobre rendimientos financieros.</li>
+<li><strong>Resolución UGPP 532 de 2024</strong> — Fija los costos presuntos para rentistas de capital (28,08%) aplicables desde mayo de 2026.</li>
+<li><strong>Ley 2277 de 2022, artículo 89</strong> — Define la base de cotización para independientes con ingresos netos ≥ 1 salario mínimo (40% de ingresos netos).</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/finanzas-art-web_simulador-cdt.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

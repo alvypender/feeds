@@ -3,110 +3,7 @@
 <title>MIT Technology Review en español (Completo)</title>
 <link href="https://www.technologyreview.es/"/>
 <id>https://www.technologyreview.es/</id>
-<updated>2026-11-13T08:10:00+00:00</updated>
-<entry>
-  <title>The Download: el punto ciego de Silicon Valley y el plan de Nvidia para rastrear chips</title>
-  <link href="https://www.technologyreview.es/article/the-download-el-punto-ciego-de-silicon-valley-y-el-plan-de-nvidia-para-rastrear-chips"/>
-  <id>https://www.technologyreview.es/article/the-download-el-punto-ciego-de-silicon-valley-y-el-plan-de-nvidia-para-rastrear-chips</id>
-  <published>2026-11-13T08:10:00+00:00</published>
-  <updated>2026-11-13T08:10:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg"/>
-  <webfeeds:featuredImage>https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg</webfeeds:featuredImage>
-  <summary>Además: una gran caída de Microsoft ha interrumpido servicios en todo el mundo.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/9eKGGYyANp8/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: el punto ciego de Silicon Valley y el plan de Nvidia para rastrear chips" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: una gran caída de Microsoft ha interrumpido servicios en todo el mundo.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Silicon Valley afirma conocer el futuro. ¿Por qué se equivocó tanto entonces con las elecciones de medio mandato?&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;—Aaron Zamost, consultor de comunicación tecnológica y exejecutivo de Square&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Los autodenominados visionarios de Silicon Valley han forjado sus carreras asegurando que ven el futuro. Sin embargo, a cinco semanas de las elecciones de mitad de mandato, muchos se congregaron en la Casa Blanca para posar junto a Trump y respaldar su agenda de «Superinteligencia», a pesar de la creciente oposición a la IA y a los centros de datos.&lt;/p&gt;
-
-&lt;p&gt;Su decisión de ligar su suerte a la del presidente Trump supuso una lectura catastrófica del panorama político. Ahora, no solo han puesto en peligro el destino de sus empresas, sino que también han sembrado dudas sobre su visión y su criterio.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"&gt;Por qué los líderes tecnológicos de Silicon Valley podrían ser menos visionarios de lo que creen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Nvidia confirmó en privado que podía rastrear chips para combatir el contrabando, aun cuando el sector cuestionaba públicamente su viabilidad&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;Representantes de Nvidia trasladaron al congresista por Illinois Bill Foster que era posible aplicar las medidas contra el contrabando contempladas en la Chip Security Act, según declaró Foster a &lt;em&gt;MIT Technology Review&lt;/em&gt; este jueves, a pesar de que un grupo del sector aseguraba que eran «potencialmente inviables».&lt;/p&gt;
-
-&lt;p&gt;Foster, demócrata y miembro del Comité de Ciencia, Espacio y Tecnología, es copatrocinador de la ley, que introduciría requisitos de geolocalización para verificar la ubicación de los chips avanzados de IA y evitar su contrabando a China.&lt;/p&gt;
-
-&lt;p&gt;La ley vuelve a acaparar la atención tras la dimisión del CEO de Nvidia, Jensen Huang, y las informaciones sobre su supuesta aventura sentimental. &lt;a href="https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"&gt;Descubre en qué consistirían las medidas de rastreo propuestas&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;—James O'Donnell&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Más autonomía y menos acuerdos de confidencialidad: los voluntarios plantean nuevas peticiones para los ensayos de implantes cerebrales&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;Los científicos llevan décadas trabajando en formas de descodificar la actividad cerebral. Diversos equipos han desarrollado implantes cerebrales capaces de controlar extremidades robóticas y ordenadores, e incluso de «hablar».&lt;/p&gt;
-
-&lt;p&gt;Las personas que se ofrecen como voluntarias para los ensayos de estos dispositivos desempeñan un papel fundamental en esa investigación y deberían ser reconocidas por sus contribuciones, afirma Ian Burkhart, a quien le implantaron uno en su propio cerebro allá por 2014.&lt;/p&gt;
-
-&lt;p&gt;Ha estado trabajando en una serie de directrices para ensayos éticos que respeten la autonomía de los participantes —y les permitan acceder a sus propios datos cerebrales siempre que quieran—.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"&gt;Lee el reportaje completo sobre los esfuerzos para otorgar más derechos a los voluntarios en ensayos de implantes cerebrales&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"&gt;&lt;strong&gt;Este artículo&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;procede de The Checkup, nuestro boletín semanal de biotecnología.&lt;/strong&gt; &lt;a href="https://forms.technologyreview.com/newsletters/biotech-the-checkup/"&gt;&lt;strong&gt;Suscríbete&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;para recibirlo en tu bandeja de entrada todos los jueves.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Las lecturas imprescindibles&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/inquietantes/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1 Una gran caída de Microsoft interrumpe servicios en todo el mundo&lt;/strong&gt;&lt;br&gt;La incidencia ha afectado a Outlook, Teams y Copilot. (&lt;a href="https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Los operadores bursátiles se vieron obligados a operar por teléfono y fax.&lt;/em&gt; (&lt;a href="https://www.bloomberg.com/news/articles/2026-11-13/microsoft-outage-gums-up-markets-forces-traders-to-use-phones"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Microsoft asegura que la caída no se debe a un incidente de ciberseguridad.&lt;/em&gt; (&lt;a href="https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"&gt;BBC&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2 La dimisión de Jensen Huang dejará una estela de daños&lt;br&gt;&lt;/strong&gt;Debería cambiar la forma en que Estados Unidos aborda la IA. (&lt;a href="https://www.axios.com/2026/11/12/jensen-huang-nvidia-ceo-ai-resignation"&gt;Axios&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ ¿Quién es Colette Kress, la nueva CEO interina de Nvidia?&lt;/em&gt; (&lt;a href="https://www.nbcnews.com/tech/tech-news/colette-kress-nvidia-new-interim-ceo-jensen-huang-replace-who-is-rcna609039"&gt;NBC News&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ ¿Y quién podría asumir el cargo definitivo?&lt;/em&gt; (&lt;a href="https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html"&gt;NYT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Trump ha respaldado a Tim Cook, de Apple, para el puesto.&lt;/em&gt; (&lt;a href="https://www.washingtonpost.com/technology/2026/11/12/trump-says-apples-tim-cook-should-take-over-nvidia/"&gt;WP&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ El relevo de Nancy Pelosi planea regular la IA.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3 Una empresa vinculada a Alice Huang adquirió chips vetados de Nvidia en China&lt;br&gt;&lt;/strong&gt;Los servidores se vendieron primero a un socio de Nvidia en Singapur. (&lt;a href="https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Singapur afirma que EE. UU. no colaboró en la investigación de espionaje.&lt;/em&gt; (&lt;a href="https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html"&gt;NYT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ La ciudad-Estado afronta un creciente escrutinio por sus vínculos con China en el sector de los chips.&lt;/em&gt; (&lt;a href="https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Las turbulencias en Nvidia ponen en peligro miles de millones en la IA china.&lt;/em&gt; (&lt;a href="https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ El «escudo de silicio» de Taiwán se debilita.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4 Familias exigen una moratoria a la IA en las escuelas&lt;br&gt;&lt;/strong&gt;Presuntamente, Gemini incitó a un adolescente a planear su suicidio. (&lt;a href="https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"&gt;Ars Technica&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Las escuelas están atrapadas en el experimento educativo de las Big Tech.&lt;/em&gt; (&lt;a href="https://www.newyorker.com/culture/progress-report/the-technofeudalist-nightmare-of-k-12-curricula"&gt;New Yorker&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Necesitamos un uso más inteligente de la IA en las aulas.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5 Varios grupos activistas demandan a cinco laboratorios de IA de frontera para frenar su desarrollo&lt;br&gt;&lt;/strong&gt;Tienen en su punto de mira a Anthropic, Google, Meta, OpenAI y SpaceXSI. (&lt;a href="https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba"&gt;AP&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Las protestas contra la IA van en aumento.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;6 SpaceX niega haber restringido la red Starshield de Ucrania&lt;/strong&gt;&lt;br&gt;Zelenski asegura que estas limitaciones están dificultando la defensa con drones. (&lt;a href="https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky"&gt;Axios&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;7 Un robot ha ensamblado una estructura en el espacio por primera vez&lt;/strong&gt;&lt;br&gt;Es un paso hacia la fabricación en órbita. (&lt;a href="https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time/"&gt;New Scientist&lt;/a&gt; $)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;8 Los usuarios de IA de compañía quieren hacer inmortales a sus parejas digitales&lt;br&gt;&lt;/strong&gt;Están creando chatbots capaces de sobrevivir a las actualizaciones de los modelos. (&lt;a href="https://www.theatlantic.com/technology/2026/11/people-keeping-ai-partners-alive/689380/"&gt;Atlantic&lt;/a&gt; $)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;9 Científicos identifican una proteína que acelera el envejecimiento&lt;br&gt;&lt;/strong&gt;El descubrimiento podría dar lugar a fármacos que ralenticen el envejecimiento. (&lt;a href="https://www.nature.com/articles/d41586-026-03638-3"&gt;Nature&lt;/a&gt; $)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;10 Un nuevo y enorme mapa de galaxias podría desvelar el universo oscuro.&lt;/strong&gt;&lt;br&gt;Los datos incluyen 15.000 posibles casos de lentes gravitatorias. (&lt;a href="https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe"&gt;Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ La búsqueda de la materia oscura se ha abierto por completo.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;La frase del día&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«&lt;/strong&gt;&lt;strong&gt;AHORA QUE EL CEO DE Nvidia, JENSEN HUANG, que ha hecho un trabajo fantástico, ha dimitido, solo hay un hombre para ocupar su puesto—TIM COOK, de Apple. ¡Una Leyenda sustituye a una Leyenda!»&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;—Donald Trump comparte su plan de sucesión para Nvidia en Truth Social, &lt;a href="https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"&gt;según informa The Verge&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F37409da74146ce4f4e24ff70ef4d259087ba89d0.jpg?alt=media&amp;token=b44a956e-3f1d-4dd2-b575-fb3326379fec" alt="" class="wp-image-1138911"/&gt;&lt;/figure&gt;
-
-&lt;h4 class="wp-block-heading"&gt;&lt;strong&gt;En el interior del túnel de carretera submarino más largo y profundo del mundo&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;em&gt;—Niall Firth&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Ahora mismo me encuentro a unos 300 metros bajo el mar del Norte, en una cueva oscura y húmeda. Huele raro. Y soy cada vez más consciente de la presión de millones de toneladas de agua marina justo sobre mi cabeza.&lt;/p&gt;
-
-&lt;p&gt;Me encuentro bajo los emblemáticos fiordos de Noruega para visitar el que pronto se convertirá en el túnel de carretera submarino más largo y profundo del mundo—una excepcional proeza de la ingeniería que llevará a los conductores a gran profundidad bajo el mar del Norte.&lt;/p&gt;
-
-&lt;p&gt;Estoy aquí para entender cómo se construye una autopista de 26,7 kilómetros que discurre a 390 metros bajo el mar en su punto más profundo. Y también —en una época en la que puede parecer difícil sacar adelante cualquier cosa— para convencerme de que la ingeniería ambiciosa todavía es posible. De que aún podemos construir cosas.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/"&gt;Adéntrate en el túnel Rogfast de Noruega y descubre cómo los ingenieros lo están haciendo realidad&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Un espacio de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;+ Un loro se ha &lt;a href="https://www.youtube.com/watch?v=9eKGGYyANp8"&gt;enamorado perdidamente&lt;/a&gt; de Elmo.&lt;br&gt;+ Desde montañas hasta costas, estas son las &lt;a href="https://www.we12travel.com/best-multi-day-hikes-in-the-world/"&gt;mejores rutas de senderismo de varios días&lt;/a&gt; del mundo.&lt;br&gt;+ Los &lt;a href="https://www.youtube.com/watch?v=g8bBqn2T8rE"&gt;13.201 objetos de coleccionista sobre ranas&lt;/a&gt; de una mujer de California le han valido un récord Guinness.&lt;br&gt;+ Tres cineastas han localizado con exactitud el punto en el que se encontraban los &lt;a href="https://news.artnet.com/art-world/daguerre-photograph-subjects-location-2826596"&gt;primeros seres humanos jamás fotografiados&lt;/a&gt; en el París de la década de 1830.&lt;/p&gt;</content>
-</entry>
+<updated>2026-11-13T05:00:00+00:00</updated>
 <entry>
   <title>Silicon Valley presume de conocer el futuro. ¿Por qué se equivocó tanto entonces en las elecciones de mitad de mandato?</title>
   <link href="https://www.technologyreview.es/article/silicon-valley-presume-de-conocer-el-futuro-por-que-se-equivoco-tanto-entonces-en-las-elecciones-de-mitad-de-mandato"/>
@@ -552,5 +449,45 @@
 &lt;p&gt;En un mundo en el que la tramitación de permisos para nuevos proyectos sea más sencilla, veremos más energía limpia, pero también más gas natural. Y aunque los precios podrían bajar, eso podría impulsar al alza la demanda de electricidad, lo que se traduciría en más emisiones en general.&lt;/p&gt;
 
 &lt;p&gt;Simplificar el sistema de permisos y reducir la burocracia es un objetivo loable. Pero, cuando se trata de emisiones, sigue importando mucho qué quieres construir exactamente.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Texas era el nuevo epicentro de la expansión de centros de datos de IA. Eso podría venirse abajo.</title>
+  <link href="https://www.technologyreview.es/article/texas-era-el-nuevo-epicentro-de-la-expansion-de-centros-de-datos-de-ia-eso-podria-venirse-abajo"/>
+  <id>https://www.technologyreview.es/article/texas-era-el-nuevo-epicentro-de-la-expansion-de-centros-de-datos-de-ia-eso-podria-venirse-abajo</id>
+  <published>2026-11-04T13:50:55+00:00</published>
+  <updated>2026-11-04T13:50:55+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7</webfeeds:featuredImage>
+  <summary>Algunos de los mayores proyectos de infraestructura de IA del mundo están en marcha en Texas. Un drástico giro político podría ralentizar su construcción—y…</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Ffcb6363a5b2980d435559fcfaae9830f21076ba7.jpg?alt=media&amp;token=c058549a-cfcd-48b9-b04b-54d223dd8fe7" alt="Texas era el nuevo epicentro de la expansión de centros de datos de IA. Eso podría venirse abajo." style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por James O&amp;#x27;Donnell&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Algunos de los mayores proyectos de infraestructura de IA del mundo están en marcha en Texas. Un drástico giro político podría ralentizar su construcción—y…&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Texas es el mercado de centros de datos &lt;a href="https://www.houstonchronicle.com/projects/2026/tx-data-centers-map/"&gt;de mayor crecimiento&lt;/a&gt; de Estados Unidos y la zona cero de los mayores despliegues de IA de las grandes tecnológicas. Sin embargo, la ola azul que ha arrasado en el Estado de la Estrella Solitaria podría poner en peligro esa posición.&lt;/p&gt;
+
+&lt;p&gt;El demócrata James Talarico ganó el escaño en el Senado de Estados Unidos frente a Ken Paxton. Gina Hinojosa se impuso en la carrera por la gobernación frente al titular republicano, Greg Abbott. A escala estatal, los demócratas tomarán el control de la Cámara de Representantes de Texas por primera vez en 24 años. Talarico e Hinojosa convirtieron los centros de datos en una cuestión central y hablaron de ellos de forma constante durante la campaña electoral.&lt;/p&gt;
+
+&lt;p&gt;Incluso antes de que cerraran las urnas, los profesionales del sector de los centros de datos advirtieron que los tiempos estaban cambiando. El martes, en la conferencia DCD del sector celebrada en Ashburn (Virginia), los ponentes lamentaron que Texas hubiera sido durante años el lugar más fácil para construir—hasta septiembre. Fue entonces cuando Abbott, tal vez al advertir el creciente &lt;a href="https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/"&gt;rechazo bipartidista hacia estas instalaciones&lt;/a&gt;, comenzó a cambiar de rumbo él mismo.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Los promotores señalaron que la oficina del gobernador había &lt;a href="https://insideclimatenews.org/news/30102026/texas-data-center-pushback/"&gt;dejado de responder&lt;/a&gt; a sus correos electrónicos. El 21 de septiembre, Abbott &lt;a href="https://gov.texas.gov/news/post/governor-abbott-directs-tceq-to-halt-data-center-permits"&gt;ordenó&lt;/a&gt; a un regulador estatal clave que suspendiera los permisos para centros de datos. Muchos ponentes en la conferencia preveían que esto podría ralentizar los proyectos existentes y paralizar por completo los nuevos.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;De hecho, la gobernadora electa parece decidida a hacerlo. Hinojosa respaldó las exenciones fiscales para los centros de datos en 2023 como forma de impulsar el empleo en la construcción, pero durante su campaña comenzó a presionar a favor de una moratoria total.&lt;/p&gt;
+
+&lt;p&gt;Esto supondría un problema para los hiperescaladores de las grandes tecnológicas, que cuentan con ambiciosos planes para instalaciones de entrenamiento de IA en el estado. La escala de los proyectos que ya están en marcha en Texas es descomunal. El centro de datos Stargate Frontier, en el condado de Shackelford, tiene proyectada una capacidad de 1820 megavatios —aproximadamente lo mismo que el mayor centro de datos del país, Colossus 2 de SpaceX en Tennessee, y más del doble que el centro de datos más grande que opera actualmente en Texas. Nexus Hubbard, también en construcción y destinado principalmente a dar servicio a Anthropic, cuenta con una capacidad prevista de 6400 megavatios y es el segundo centro de datos más grande en construcción en EE. UU., solo por detrás del proyecto Hyperion de Meta en Luisiana.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;La posibilidad de que los demócratas ordenen retrasos en estos proyectos o moratorias sobre otros nuevos se suma a la creciente inquietud de que el despliegue de la IA pueda estancarse. Los bancos y entidades crediticias ya se están volviendo &lt;a href="https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=tech_feat1_ai_pos5"&gt;más selectivos&lt;/a&gt; con los proyectos que respaldan. Y dado el grado en que la construcción de centros de datos está apuntalando el crecimiento económico en estos momentos, la combinación de estos factores podría tener un efecto dominó.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, los votantes de todo el país fueron &lt;a href="https://ballotpedia.org/Data_center-related_ballot_measures,_2026"&gt;tajantes&lt;/a&gt; en las elecciones de mitad de mandato, y transmitieron un mensaje similar en todos los ámbitos, desde las consultas a nivel estatal hasta los comicios a cargos nacionales. El electorado respaldó las iniciativas para proteger a los consumidores frente a las subidas en la factura de la luz provocadas por los centros de datos, y se mostró a favor de prohibiciones más amplias y tajantes contra nuevas instalaciones. Si hacía falta alguna prueba más de que las grandes tecnológicas han fracasado en su intento de convencer a los votantes de que la abundancia impulsada por la IA mejorará la sanidad, abaratará los productos y hará más comunes los avances científicos, ha sido esta.&lt;/p&gt;
+
+
+
+&lt;p&gt;Una cuestión clave es si los condados de Texas con mayor presencia de centros de datos fueron parte de la razón por la que estos demócratas resultaron elegidos, o si el voto contrario a los centros de datos procedía de otra parte.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Es complicado: los condados donde se concentra gran parte de la expansión de centros de datos se encuentran alrededor de Dallas. Como era de esperar, el condado de Dallas y los más cercanos a él se tiñeron de azul, pero el cercano condado de Ellis, que &lt;a href="https://www.houstonchronicle.com/business/energy/article/ercot-grid-data-centers-22286592.php"&gt;lidera&lt;/a&gt; las solicitudes de permisos para centros de datos, se decantó por Greg Abbott y Ken Paxton. El condado de Cameron, cerca de la frontera sur del estado, es un punto neurálgico para los centros de datos y votó en azul en las elecciones de mitad de mandato, lo que supuso un cambio. En cambio, los condados de Mitchell y Scurry, donde se ubican varios proyectos del oeste de Texas, se tiñeron de rojo.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Esto es muy relevante, ya que ningún organismo por sí solo en el estado decide si un proyecto sigue adelante o se paraliza. Las decisiones suelen reflejar la interacción entre los gobiernos municipales, las autoridades del condado y las oficinas estatales.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Las autoridades locales que tienen cierta capacidad de decisión sobre el desarrollo de centros de datos podrían resistirse a las restricciones generalizadas impuestas por el estado. Además, los demócratas que presionan para lograr una moratoria también podrían toparse con la oposición de los sindicatos de la construcción que respaldaron algunas de sus campañas. Así pues, aunque en teoría la «ola azul» suponga una sentencia de muerte para los centros de datos de Texas, los ganadores de las elecciones podrían encontrarse con que hacer efectiva su oposición una vez en el cargo es mucho más complicado que prometerla en campaña.&lt;/p&gt;</content>
 </entry>
 </feed>
