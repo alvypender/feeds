@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenArt despliega ocho herramientas de IA que dan control quirúrgico sobre imágenes y video: vectores SVG, capas editables, draft mode y multi-frame — Frame &amp; Prompt</title>
+  <meta name="description" content="OpenArt consolida en una sola plataforma ocho utilidades que cubren desde la generación de gráficos vectoriales SVG con GPT Image 2.6 y ReCraft 4.1 hasta el control de secuencias multi-frame con Kling 4.0, pasando por extracción de capas, verificación de propiedad intelectual, doblaje con lip sync, ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="OpenArt despliega ocho herramientas de IA que dan control quirúrgico sobre imágenes y video: vectores SVG, capas editables, draft mode y multi-frame">
+  <meta property="og:description" content="OpenArt consolida en una sola plataforma ocho utilidades que cubren desde la generación de gráficos vectoriales SVG con GPT Image 2.6 y ReCraft 4.1 hasta el control de secuencias multi-frame con Kling 4.0, pasando por extracción de capas, verificación de propiedad intelectual, doblaje con lip sync, ">
+  <meta property="og:image" content="https://i.ytimg.com/vi/_ykznD2Whew/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-_ykznD2Whew.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="OpenArt despliega ocho herramientas de IA que dan control quirúrgico sobre imágenes y video: vectores SVG, capas editables, draft mode y multi-frame">
+  <meta name="twitter:description" content="OpenArt consolida en una sola plataforma ocho utilidades que cubren desde la generación de gráficos vectoriales SVG con GPT Image 2.6 y ReCraft 4.1 hasta el control de secuencias multi-frame con Kling 4.0, pasando por extracción de capas, verificación de propiedad intelectual, doblaje con lip sync, ">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/_ykznD2Whew/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-_ykznD2Whew.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">OpenArt despliega ocho herramientas de IA que dan control quirúrgico sobre imágenes y video: vectores SVG, capas editables, draft mode y multi-frame</h1>
+        <div class="metadata">
+          <span>Por <strong>Wade McMaster (Creator Impact)</strong></span>
+          <time datetime='2026-11-17T17:07:21.818986-05:00'>2026-11-17</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/_ykznD2Whew" title="OpenArt despliega ocho herramientas de IA que dan control quirúrgico sobre imágenes y video: vectores SVG, capas editables, draft mode y multi-frame" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=_ykznD2Whew" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">OpenArt consolida en una sola plataforma ocho utilidades que cubren desde la generación de gráficos vectoriales SVG con GPT Image 2.6 y ReCraft 4.1 hasta el control de secuencias multi-frame con Kling 4.0, pasando por extracción de capas, verificación de propiedad intelectual, doblaje con lip sync, reemplazo de objetos y mapas de profundidad. El veredicto es claro: la variedad de modelos y el modo borrador de Seedance 2.5 —que reduce el costo de un video de 30 segundos de 9000 a 1800 créditos— convierten a OpenArt en una navaja suiza para creadores que necesitan precisión sin disparar el presupuesto.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Wade McMaster (Creator Impact)</strong>: <a href="https://www.youtube.com/watch?v=_ykznD2Whew" target="_blank" rel="noopener">8 HANDY AI Tools for Image &amp; Video that you need to try!</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Vectores SVG con IA: de GPT Image 2.6 a ReCraft 4.1</h3>
+<p>La primera de las ocho herramientas ataca un problema clásico: obtener gráficos vectoriales escalables sin pasar por software de diseño. OpenArt integra <strong>GPT Image 2.6</strong>, un modelo que genera directamente archivos SVG a partir de prompts de texto. El flujo es sencillo pero exige precisión: se describe el vector deseado —por ejemplo, <em>«vector graphic of a cute dog wearing sunglasses kawaii style with yellow fur»</em>—, se ajusta la calidad a <strong>«high»</strong> y se selecciona el formato SVG. El modelo produce cuatro variantes, de las que se elige la mejor y se descarga. El resultado es un gráfico que se puede escalar infinitamente sin pérdida, ideal para logotipos o ilustraciones planas. La limitación es que GPT Image 2.6 trabaja solo con texto: no acepta imágenes de referencia, por lo que la fidelidad a un estilo preexistente depende enteramente de la descripción.</p>
+<p>Para quienes necesitan partir de una imagen real, <strong>ReCraft 4.1</strong> ofrece una segunda vía. Este modelo también genera SVG, pero además permite convertir una imagen bitmap en vector ajustando el <strong>nivel de creatividad</strong>. En la prueba, el autor partió de una imagen creada con <strong>Nano Banana 2.1</strong> y fijó la creatividad en un <strong>11%</strong> para mantener la similitud. El resultado fue un vector limpio y reconocible, aunque con un estilo menos estilizado que el de GPT Image 2.6. La comparación entre ambos modelos revela una disyuntiva útil: GPT Image 2.6 prioriza la expresividad artística desde cero, mientras que ReCraft 4.1 se inclina por la fidelidad a una referencia visual. Ninguno es perfecto, pero juntos cubren el espectro de necesidades del diseñador que quiere vectores sin abrir Illustrator.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Extracción de capas: edición granular sin rehacer la imagen</h3>
+<p>La segunda herramienta es la <strong>separación de capas</strong> (layer separation), que descompone una imagen en elementos editables. OpenArt permite configurar el número de capas —desde 6 hasta un máximo de <strong>17</strong>— y luego manipular cada una de forma independiente: mover, redimensionar o incluso regenerar una capa con un prompt específico. En la demostración, el autor separó una ilustración en seis capas y cambió un emoji por otro con la instrucción <em>«change this to a heart eyes emoji»</em>, sin alterar el resto de la composición. El proceso no es perfecto: algunos cortes quedan imprecisos, especialmente en bordes complejos, pero el resultado es lo suficientemente bueno para ajustes finos y prototipado rápido.</p>
+<p>La versatilidad aumenta con la opción de <strong>separación personalizada</strong>: el usuario dibuja cajas sobre áreas específicas de la imagen para aislar objetos concretos. Esto resulta útil cuando la separación automática no captura un detalle relevante o cuando se quiere extraer un elemento pequeño sin descomponer toda la escena. En la práctica, la herramienta convierte una imagen plana en un lienzo con piezas móviles, lo que abre la puerta a ediciones no destructivas y a la reutilización de elementos en otras composiciones. Es, en esencia, una versión accesible de lo que un editor de imágenes profesional haría con máscaras y capas, pero automatizada y sin necesidad de conocimientos técnicos avanzados.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Draft mode en Seedance 2.5: producir barato y escalar después</h3>
+<p>El tercer hallazgo es una de las funciones más prácticas para el día a día: el <strong>modo borrador (draft) de Seedance 2.5</strong>. Este modelo de generación de video permite crear un clip en resolución <strong>480p</strong> por una fracción del costo y luego escalarlo a <strong>1080p o 4k</strong> si el resultado convence. La economía es contundente: un video de <strong>30 segundos a 480p cuesta 1800 créditos</strong>, mientras que el mismo metraje en 1080p directo consume <strong>9000 créditos</strong>. El upscale a 4k añade un costo adicional de aproximadamente <strong>4000 créditos</strong>, pero solo se paga si el borrador ha pasado el filtro de calidad. En la prueba, el autor generó un clip de 8 segundos de astronautas en una pelea de kung fu a 480p y luego lo escaló a 4k, obteniendo más detalle y nitidez sin haber gastado créditos en tomas descartadas.</p>
+<p>Este flujo de trabajo introduce una disciplina de producción que antes era impensable en la generación por IA: iterar barato y invertir en calidad solo cuando el contenido lo merece. Para estudios pequeños o creadores individuales, el ahorro puede ser la diferencia entre experimentar con diez ideas o limitarse a dos. La recomendación implícita es clara: usar el draft mode para explorar composiciones, movimientos de cámara y ritmo, y reservar la resolución completa para el render final. OpenArt, además, ofrece un plan <strong>Wonderplan</strong> orientado a empresas con una buena relación calidad-precio por generación, lo que refuerza la orientación de la plataforma hacia un uso profesional y sostenido.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Verificación de propiedad intelectual: útil, pero no infalible</h3>
+<p>La cuarta herramienta es el <strong>IP Safety Check</strong>, un verificador que analiza imágenes o videos en busca de posibles infracciones de propiedad intelectual. Su funcionamiento se puso a prueba con el video de astronautas generado previamente: el sistema detectó <strong>8 coincidencias</strong>, entre ellas el logotipo de la NASA y parecidos razonables con los actores Matt Damon y Tom Cruise. Una imagen sin elementos reconocibles pasó la prueba sin alertas. El caso más revelador fue el de un thumbnail con el rostro del propio autor: el verificador detectó <strong>4 coincidencias</strong>, incluyendo su propia cara, el logotipo de Kling AI, el de Creator Impact y el de Microsoft Copilot. Es decir, el sistema es sensible y puede marcar tanto infracciones reales como usos legítimos de marcas propias.</p>
+<p>La conclusión es que se trata de una guía útil pero no definitiva. Ningún verificador automático puede sustituir el criterio legal, pero esta herramienta permite detectar riesgos evidentes antes de publicar. Para creadores que trabajan con referencias a celebridades, marcas o personajes protegidos, el IP Safety Check ofrece una primera capa de defensa que puede evitar dolores de cabeza. Eso sí, conviene interpretar sus resultados con cautela: una coincidencia no implica necesariamente una violación, y una ausencia de coincidencias no garantiza inmunidad legal. Es un semáforo, no un juez.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Doblaje con lip sync y reemplazo de objetos: el video como material moldeable</h3>
+<p>La quinta y sexta herramientas amplían el concepto de edición de video. La función <strong>Dub Video</strong> dobla un video a otro idioma con sincronización labial. En la demostración, el autor dobló un clip a japonés y a alemán con resultados convincentes: los labios se movían de acuerdo con el nuevo audio. Luego dobló el japonés de vuelta al inglés y, aunque hubo una ligera pérdida de calidad, el resultado siguió siendo aceptable. Esta herramienta tiene un valor obvio para la distribución multiplataforma: permite localizar contenido sin regrabar ni recurrir a actores de doblaje, manteniendo la naturalidad visual. La sincronización labial no es perfecta en todos los idiomas —el japonés y el alemán tienen fonemas muy distintos—, pero el nivel alcanzado es suficiente para redes sociales y videos explicativos.</p>
+<p>La sexta herramienta, <strong>Swap Anything</strong>, permite reemplazar objetos en un video usando una imagen de referencia y un prompt descriptivo. En la prueba, el autor sustituyó una caja de madera sobre la que una mujer hacía box jumps por un televisor CRT. La instrucción fue precisa: <em>«image one replaces the wooden box the woman is jumping on»</em>. El resultado fue correcto: el televisor apareció en el lugar de la caja, integrado en la escena. La clave está en describir con exactitud la relación espacial entre el objeto a reemplazar y el resto de la escena. Esta función es especialmente útil para publicidad, corrección de errores en postproducción o simplemente para experimentar con variaciones creativas sin volver a rodar.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Mapas de profundidad y multi-frame con Kling 4.0: control espacial y temporal</h3>
+<p>La séptima herramienta es el <strong>Depth Map Creator</strong>, que genera mapas de profundidad en escala de grises a partir de imágenes o videos. En la demostración, se aplicó a un video de un coche y a una imagen creada con Nano Banana, mostrando con claridad la distancia relativa de cada elemento. Estos mapas tienen dos usos principales: el <strong>motion control</strong> —para mejorar la percepción de distancia y movimiento en videos generados— y la creación de <strong>alpha maps</strong> para composición. Al proporcionar una representación de la profundidad de la escena, el modelo de video puede entender mejor qué objetos están delante y cuáles detrás, lo que se traduce en movimientos de cámara más realistas y transiciones menos artificiales. Es una herramienta técnica, pero su impacto en la calidad final es notable.</p>
+<p>La octava y última herramienta es la generación <strong>multi-frame con Kling 4.0</strong>, que permite definir frames intermedios para controlar la secuencia de acciones. El flujo requiere generar primero imágenes consistentes —con Nano Banana 2.1 o GPT Image 2.5— que representen los momentos clave: un puñetazo, una patada, una patada saltando. Luego se introducen como frames intermedios en Kling 4.0 y se escribe un prompt que ordene las acciones con conectores como <em>«then»</em>: <em>«he throws some punches then a kick and then a jumping kick before landing in stance as the camera zooms in»</em>. El resultado fue una animación coherente de <strong>7 segundos</strong> de un monje shaolin ejecutando la secuencia. La conclusión es que el multi-frame ofrece un control sin precedentes sobre la narrativa visual, acercando la generación por IA a la dirección de animación tradicional.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">OpenArt como suite integral: variedad de modelos y planes</h3>
+<p>Más allá de las ocho herramientas individuales, la propuesta de valor de OpenArt reside en su capacidad de integrarlas en un solo entorno. El creador puede pasar de generar un vector SVG con GPT Image 2.6 a extraer capas de una imagen, doblar un video o crear un mapa de profundidad sin cambiar de plataforma ni de suscripción. Esa continuidad reduce la fricción y facilita flujos de trabajo complejos. La variedad de modelos —<strong>GPT Image 2.6, ReCraft 4.1, Nano Banana 2.1, Seedance 2.5 y Kling 4.0</strong>— permite elegir la herramienta adecuada para cada tarea, en lugar de depender de un único modelo todoterreno. Esa flexibilidad es, quizás, su mayor ventaja competitiva frente a soluciones más monolíticas.</p>
+<p>En cuanto a precios, OpenArt estructura su oferta en créditos y planes. El ya mencionado <strong>Wonderplan</strong> está orientado a empresas y ofrece una buena relación calidad-precio por generación. Los costos por uso son transparentes: 1800 créditos por un video de 30 segundos en draft mode, 9000 créditos por el mismo metraje en 1080p y alrededor de 4000 créditos por el upscale a 4k. Para un creador que produce contenido de forma regular, el ahorro de usar draft mode y escalar solo lo necesario puede ser significativo. La recomendación final del autor es clara: OpenArt merece la pena por su variedad y por la profundidad de sus herramientas, que cubren desde la ilustración vectorial hasta la animación multi-frame con control narrativo.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Draft mode Seedance 2.5: 30 s a 480p = 1800 créditos; 30 s a 1080p = 9000 créditos; upscale a 4k ≈ 4000 créditos.</li>
+<li>Para vectores SVG con GPT Image 2.6: prompt descriptivo, calidad &#x27;high&#x27; y formato SVG; sin referencias visuales.</li>
+<li>ReCraft 4.1: ajustar creatividad al 11% para convertir bitmap a vector manteniendo alta similitud.</li>
+<li>Multi-frame Kling 4.0: usar conectores como &#x27;then&#x27; en el prompt para ordenar acciones secuenciales.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://openart.ai/home" target="_blank" rel="noopener"><strong>OpenArt</strong></a> — Plataforma que integra múltiples herramientas de IA para generación y edición de imágenes y videos.</li>
+<li><strong>GPT Image 2.6</strong> — Modelo de generación de imágenes que crea gráficos vectoriales SVG a partir de prompts de texto.</li>
+<li><strong>ReCraft 4.1</strong> — Modelo de generación de imágenes que produce SVG y convierte bitmap a vector con control de creatividad.</li>
+<li><strong>Nano Banana 2.1</strong> — Modelo de generación de imágenes usado para crear imágenes base y frames intermedios.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video con modo draft de baja resolución para ahorrar créditos.</li>
+<li><strong>Kling 4.0</strong> — Modelo de generación de video que permite multi-frame para controlar secuencias de acciones.</li>
+<li><strong>Layer Extractor</strong> — Herramienta de OpenArt que separa una imagen en capas editables.</li>
+<li><strong>IP Safety Check</strong> — Herramienta que analiza imágenes o videos para detectar posibles infracciones de propiedad intelectual.</li>
+<li><strong>Dub Video</strong> — Herramienta que dobla videos a otros idiomas con sincronización labial.</li>
+<li><strong>Swap Anything</strong> — Herramienta que reemplaza objetos en un video usando una imagen de referencia y un prompt.</li>
+<li><strong>Depth Map Creator</strong> — Genera mapas de profundidad a partir de imágenes o videos para motion control y alpha maps.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-_ykznD2Whew.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

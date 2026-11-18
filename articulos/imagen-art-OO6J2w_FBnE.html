@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude + Blender: el método definitivo para crear referencias 3D y generar videos IA con Seedance 2.5 — Frame &amp; Prompt</title>
+  <meta name="description" content="La generación de video con IA alcanza un nuevo nivel de control gracias a la combinación de Blender, Claude y Seedance 2.5. Dan Kieft demuestra en un curso completo que crear escenas 3D low-poly como referencia visual permite dirigir la cámara con precisión milimétrica, mantener la consistencia de p">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude + Blender: el método definitivo para crear referencias 3D y generar videos IA con Seedance 2.5">
+  <meta property="og:description" content="La generación de video con IA alcanza un nuevo nivel de control gracias a la combinación de Blender, Claude y Seedance 2.5. Dan Kieft demuestra en un curso completo que crear escenas 3D low-poly como referencia visual permite dirigir la cámara con precisión milimétrica, mantener la consistencia de p">
+  <meta property="og:image" content="https://i.ytimg.com/vi/OO6J2w_FBnE/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-OO6J2w_FBnE.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude + Blender: el método definitivo para crear referencias 3D y generar videos IA con Seedance 2.5">
+  <meta name="twitter:description" content="La generación de video con IA alcanza un nuevo nivel de control gracias a la combinación de Blender, Claude y Seedance 2.5. Dan Kieft demuestra en un curso completo que crear escenas 3D low-poly como referencia visual permite dirigir la cámara con precisión milimétrica, mantener la consistencia de p">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/OO6J2w_FBnE/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-OO6J2w_FBnE.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude + Blender: el método definitivo para crear referencias 3D y generar videos IA con Seedance 2.5</h1>
+        <div class="metadata">
+          <span>Por <strong>Dan Kieft</strong></span>
+          <time datetime='2026-11-16T17:13:21.924092-05:00'>2026-11-16</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/OO6J2w_FBnE" title="Claude + Blender: el método definitivo para crear referencias 3D y generar videos IA con Seedance 2.5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=OO6J2w_FBnE" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La generación de video con IA alcanza un nuevo nivel de control gracias a la combinación de Blender, Claude y Seedance 2.5. Dan Kieft demuestra en un curso completo que crear escenas 3D low-poly como referencia visual permite dirigir la cámara con precisión milimétrica, mantener la consistencia de personajes y ahorrar créditos. El flujo básico usa el plugin de Higgsfield en Blender; el avanzado, Claude Code con MCP para construir escenas desde cero. El veredicto es claro: esta integración supera las limitaciones del prompting tradicional y se posiciona como el estándar para producciones profesionales.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Dan Kieft</strong>: <a href="https://www.youtube.com/watch?v=OO6J2w_FBnE" target="_blank" rel="noopener">Claude + Blender Is The Best Way To Make AI Videos (Full Course)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema del prompting tradicional y la solución 3D</h3>
+<p>Los generadores de video IA como Seedance 2.5 han revolucionado la creación audiovisual, pero siguen arrastrando un problema fundamental: el prompting basado solo en texto es impredecible. Describir un movimiento de cámara complejo o mantener la coherencia de un personaje a lo largo de varias tomas se convierte en una lotería que consume créditos y tiempo. Dan Kieft, experto en flujos de trabajo con IA, propone un cambio de paradigma: en lugar de escribir interminables prompts, construir una escena 3D en Blender que sirva como referencia visual exacta. Esta técnica, que él llama &#x27;previsualización 3D&#x27;, permite definir ángulos, trayectorias y composición antes de gastar un solo crédito en el generador.</p>
+<p>La clave está en la simplicidad. Kieft recomienda crear escenas low-poly, sin detalles excesivos, para que el equipo no se sobrecargue y la IA pueda interpretar la referencia sin ambigüedades. Blender, siendo gratuito y de código abierto, se convierte en el aliado perfecto. Pero el verdadero salto de calidad llega cuando se integra Claude, el modelo de lenguaje de Anthropic, para automatizar la creación de la escena. Con la versión adecuada, como Claude Opus 5.5, y el protocolo MCP (Model Context Protocol), es posible pedirle a Claude que construya la escena directamente en Blender mediante instrucciones en lenguaje natural. El resultado es un video de referencia que Seedance 2.5 puede seguir con precisión, eliminando la incertidumbre del prompting ciego.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Flujo básico: Higgsfield en Blender para escenas rápidas</h3>
+<p>El primer flujo de trabajo que Kieft presenta está diseñado para quienes quieren resultados rápidos sin sumergirse en la programación. Consiste en instalar el plugin de Higgsfield para Blender, una herramienta que permite generar escenas 3D directamente desde un prompt de texto dentro del propio Blender. El proceso es sencillo: se activa el MCP Control en el panel de Higgsfield, se escribe una descripción de la escena deseada y el plugin se encarga de crear la geometría básica. Kieft demuestra con un ejemplo: un hombre llegando a casa. La generación tomó entre 5 y 10 minutos, dependiendo de la complejidad, y produjo una animación esquemática pero funcional como referencia de cámara.</p>
+<p>Una de las ventajas de este flujo es la iteración rápida. Si se quiere añadir un detalle, como un bebé en brazos de la mujer, basta con modificar el prompt en el Scene Builder y la escena se actualiza. Para exportar la referencia, se configura la salida en formato MP4 con códec H264 y se renderiza la animación. Kieft insiste en la importancia de guardar frecuentemente el archivo con File &gt; Save As para evitar pérdidas por crashes. Aunque el resultado visual es tosco, cumple su función: proporcionar a Seedance 2.5 una guía espacial y temporal que el generador de video puede seguir con exactitud. Este método es ideal para creadores que ya tienen una suscripción a Higgsfield y buscan una solución accesible.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Flujo avanzado: Claude Code y MCP para un control total</h3>
+<p>Para quienes buscan un control absoluto y están dispuestos a configurar un entorno más técnico, Kieft desglosa el flujo avanzado con Claude Code y el protocolo MCP. El primer paso es conectar Blender MCP a Claude: en la configuración de Claude, se accede a Settings &gt; Customize &gt; Connectors, se busca &#x27;Blender&#x27; y se instala. Luego, se sigue el instructivo disponible en blender.lab para configurar el servidor MCP. En Blender, es necesario activar &#x27;Allow Online Access&#x27; en Preferences &gt; System &gt; Network, y en la sección de Add-ons, habilitar y arrancar el MCP Bridge Server. Para verificar que la conexión funciona, se le pregunta a Claude &#x27;am I connected to blender?&#x27; y este responde afirmativamente.</p>
+<p>Con la conexión establecida, el proceso creativo se acelera. Kieft muestra cómo generó un terrario con Seedream 5.0 y lo usó como referencia para que Claude MCP construyera una escena en Blender. Tras varios ajustes de escala y densidad de vegetación, obtuvo una base simplificada que luego detalló en Seedance 2.5. Este flujo permite que Claude tome decisiones de construcción, pero Kieft advierte: &#x27;No dejes que Claude tome decisiones creativas por ti; ten una idea clara antes de empezar&#x27;. Si no puedes visualizar la escena, crear un storyboard previo es fundamental. La recompensa es un control sin precedentes: la escena 3D resultante se exporta como video de referencia y Seedance 2.5 la sigue al pie de la letra, respetando ángulos, encuadre y trayectoria continua.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del 3D al video final: referencias visuales y de audio</h3>
+<p>El puente entre Blender y Seedance 2.5 no termina con el video de referencia. Kieft introduce el concepto de &#x27;visual anchors&#x27;: capturas de pantalla de la escena en Blender que se transforman en imágenes realistas con Nano Banana Pro a 2K. Estas imágenes se utilizan como referencia de estilo en Seedance 2.5, asegurando que la estética del video final coincida con la visión original. Además, para mantener la consistencia de los personajes, recomienda generar character sheets detallados y usarlos como referencia. Al promptear en Seedance 2.5, es crucial etiquetar claramente cada imagen de referencia (por ejemplo, &#x27;image 1: wife&#x27;, &#x27;image 2: hallway&#x27;) para que la IA entienda su rol. Verificar que las referencias subidas coincidan con las etiquetas del prompt antes de generar evita gastar créditos innecesariamente.</p>
+<p>La consistencia vocal también es tratada con rigor. Kieft incluye referencias de audio (su propia voz y la de otros personajes) para que Seedance 2.5 mantenga el timbre y la entonación en el video generado. Ajusta la duración del video para que coincida con la referencia de Blender (por ejemplo, 25 segundos) y utiliza la versión Draft para pruebas rápidas, upscaleando luego a 1080p. El resultado, comparado con la referencia, sigue exactamente los movimientos de cámara (overhead, descenso, paneo, tilt) y mantiene la coherencia visual. Esta meticulosidad convierte a Blender en un aliado indispensable para producciones que requieren precisión cinematográfica.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Automatización de prompts con skills personalizadas</h3>
+<p>Para agilizar aún más el flujo, Kieft muestra cómo instalar skills personalizadas en Claude o ChatGPT. En Settings &gt; Customize &gt; Skills &gt; Add &gt; Upload Skill, se puede cargar una habilidad que genere prompts automáticamente para Seedance 2.5. Él utiliza el comando &#x27;/Seedance 2.5 prompter&#x27; para obtener prompts detallados a partir de una descripción breve. Esta automatización ahorra tiempo y reduce errores, especialmente cuando se trabaja con múltiples tomas. La skill está disponible en el enlace claude-and-blender.vercel.app, y su uso se integra perfectamente con los flujos anteriores.</p>
+<p>Kieft enfatiza que estas skills no reemplazan la creatividad humana, sino que la potencian. Al tener una idea clara y un storyboard previo, la skill puede generar variaciones de prompts que exploran ángulos o estilos sin desviarse de la visión. Combinado con las referencias 3D, el prompting se vuelve una tarea de precisión, no de azar. El curso concluye que dominar estas herramientas permite a los creadores competir en la liga de la producción profesional, donde el control y la consistencia son la diferencia entre un video genérico y uno memorable.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para moverte en Blender: rueda del ratón para zoom, clic central para rotar, Shift+clic central para desplazar, tecla 0 para volver a la cámara activa.</li>
+<li>Exporta la referencia en MP4 H264 desde Output &gt; Render Animation.</li>
+<li>Verifica la conexión MCP preguntando a Claude: &#x27;am I connected to blender?&#x27;.</li>
+<li>Etiqueta cada imagen de referencia en el prompt de Seedance 2.5 (ej: &#x27;image 1: wife&#x27;) para evitar confusiones.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.blender.org/" target="_blank" rel="noopener"><strong>Blender</strong></a> — Software de creación 3D gratuito para modelar escenas y animaciones de referencia.</li>
+<li><a href="http://dankieft.com/higgsfield" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma de generación de imágenes y video IA con plugin para Blender.</li>
+<li><strong>Claude</strong> — Modelo de lenguaje usado para generar prompts y controlar Blender vía MCP.</li>
+<li><strong>Seedance 2.5</strong> — Generador de video IA que utiliza referencias de video e imágenes para producir clips con control de cámara.</li>
+<li><strong>Nano Banana Pro</strong> — Modelo de generación de imágenes para convertir capturas de Blender en imágenes realistas (visual anchors).</li>
+<li><strong>Seedream 5.0</strong> — Modelo de generación de imágenes usado para crear assets de locación.</li>
+<li><strong>Claude Opus 5.5</strong> — Modelo de lenguaje avanzado recomendado para obtener mejores resultados en la generación de escenas.</li>
+<li><a href="https://blender.lab/" target="_blank" rel="noopener"><strong>Blender MCP</strong></a> — Protocolo de comunicación que permite a Claude controlar Blender directamente.</li>
+<li><a href="https://claude-and-blender.vercel.app/" target="_blank" rel="noopener"><strong>Skills (Claude/ChatGPT)</strong></a> — Habilidades personalizadas que automatizan la generación de prompts específicos.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-OO6J2w_FBnE.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

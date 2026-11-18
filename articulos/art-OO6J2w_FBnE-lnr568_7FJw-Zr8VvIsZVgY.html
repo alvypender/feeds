@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seedance 2.5 a fondo: tres flujos profesionales para personajes consistentes, voces clonadas y referencias 3D — Frame &amp; Prompt</title>
+  <meta name="description" content="La consistencia en video IA ya no es un juego de azar: Dan Kieft, Rourke Heath y CyberJungle demuestran que combinando Blender, ElevenLabs y hojas de personaje optimizadas se puede controlar identidad, voz y cámara con precisión industrial. El veredicto es claro: las referencias visuales y de audio ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Seedance 2.5 a fondo: tres flujos profesionales para personajes consistentes, voces clonadas y referencias 3D">
+  <meta property="og:description" content="La consistencia en video IA ya no es un juego de azar: Dan Kieft, Rourke Heath y CyberJungle demuestran que combinando Blender, ElevenLabs y hojas de personaje optimizadas se puede controlar identidad, voz y cámara con precisión industrial. El veredicto es claro: las referencias visuales y de audio ">
+  <meta property="og:image" content="https://i.ytimg.com/vi/OO6J2w_FBnE/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-OO6J2w_FBnE-lnr568_7FJw-Zr8VvIsZVgY.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Seedance 2.5 a fondo: tres flujos profesionales para personajes consistentes, voces clonadas y referencias 3D">
+  <meta name="twitter:description" content="La consistencia en video IA ya no es un juego de azar: Dan Kieft, Rourke Heath y CyberJungle demuestran que combinando Blender, ElevenLabs y hojas de personaje optimizadas se puede controlar identidad, voz y cámara con precisión industrial. El veredicto es claro: las referencias visuales y de audio ">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/OO6J2w_FBnE/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-OO6J2w_FBnE-lnr568_7FJw-Zr8VvIsZVgY.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Seedance 2.5 a fondo: tres flujos profesionales para personajes consistentes, voces clonadas y referencias 3D</h1>
+        <div class="metadata">
+          <span>Por <strong>Dan Kieft + Rourke Heath + CyberJungle</strong></span>
+          <time datetime='2026-11-16T17:09:21.602771-05:00'>2026-11-16</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/OO6J2w_FBnE" title="Seedance 2.5 a fondo: tres flujos profesionales para personajes consistentes, voces clonadas y referencias 3D" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=OO6J2w_FBnE" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La consistencia en video IA ya no es un juego de azar: Dan Kieft, Rourke Heath y CyberJungle demuestran que combinando Blender, ElevenLabs y hojas de personaje optimizadas se puede controlar identidad, voz y cámara con precisión industrial. El veredicto es claro: las referencias visuales y de audio bien etiquetadas superan al prompting tradicional, y herramientas como Claude actúan como pegamento entre etapas. Aquí está el desglose completo de sus métodos, con costos, errores y ajustes exactos.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Dan Kieft</strong>: <a href="https://www.youtube.com/watch?v=OO6J2w_FBnE" target="_blank" rel="noopener">Claude + Blender Is The Best Way To Make AI Videos (Full Course)</a> · <strong>Rourke Heath</strong>: <a href="https://www.youtube.com/watch?v=lnr568_7FJw" target="_blank" rel="noopener">Seedance 2.5 Tutorial: Consistent Voices With Elevenlabs V4</a> · <strong>CyberJungle</strong>: <a href="https://www.youtube.com/watch?v=Zr8VvIsZVgY" target="_blank" rel="noopener">The Newest Method to Make Realistic Consistent AI Characters With Seedance 2.5</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Blender como plató virtual: el método de Dan Kieft para previsualizar y ahorrar créditos</h3>
+<p>Dan Kieft parte de una premisa incómoda para los puristas del prompt: generar video IA sin una referencia espacial clara es una lotería cara. Su solución es construir escenas 3D low-poly en <strong>Blender</strong>, el software gratuito de modelado, y usar el plugin de <strong>Higgsfield</strong> para poblar la escena con assets generados por IA. El flujo básico comienza instalando el plugin y activando el <em>MCP Control</em>, que permite escribir instrucciones directamente dentro de Blender. Para moverse por el entorno, el autor recomienda atajos esenciales: rueda del ratón para zoom, clic central para rotar, Shift+clic central para desplazar y tecla 0 para volver a la cámara activa. Un consejo nada menor: guardar con File &gt; Save As cada pocos minutos, porque los crashes en escenas complejas son frecuentes.</p>
+<p>La primera prueba consiste en una escena doméstica: un hombre llega a casa y su mujer lo recibe. Kieft genera la base con el Scene Builder de Higgsfield y luego itera con prompts como añadir un bebé en brazos de la mujer. La generación tarda entre <strong>5 y 10 minutos</strong> según la complejidad, y el resultado es una animación tosca pero funcional como referencia de cámara. Para exportarla, selecciona formato MP4 y códec H264 en Output, y ejecuta Render &gt; Render Animation. Ese archivo será la guía exacta de movimiento para Seedance 2.5.</p>
+<p>El salto de calidad llega con los <em>visual anchors</em>: capturas de pantalla de la escena en Blender que se convierten a imágenes realistas con <strong>Nano Banana Pro</strong> en resolución 2K. Esas imágenes, junto con hojas de personaje detalladas, se suben a Seedance 2.5 como referencias etiquetadas. La regla de oro es nombrar cada imagen en el prompt: <strong>“image 1: wife”, “image 2: hallway”</strong>, para que el modelo entienda su rol. Kieft insiste en verificar que las referencias coincidan con las etiquetas antes de generar, porque un error de emparejamiento quema créditos sin piedad.</p>
+<p>El flujo avanzado prescinde del plugin y conecta Blender con Claude mediante <strong>MCP</strong>. El proceso requiere instalar el conector desde Settings &gt; Customize &gt; Connectors, buscar “Blender” y seguir las instrucciones de <em>blender.lab</em>. En Blender hay que activar <em>Allow Online Access</em> en Preferences &gt; System &gt; Network y arrancar el MCP Bridge Server en Add-ons. Para verificar la conexión, basta preguntar a Claude: “am I connected to blender?”. Con el puente activo, Kieft genera un terrario con <strong>Seedream 5.0</strong> y pide a Claude que construya una escena simplificada. Tras ajustar escala y densidad de vegetación, obtiene una base que luego detalla en Seedance 2.5.</p>
+<p>La comparación final es contundente: el video generado por Seedance 2.5 sigue exactamente los movimientos de cámara de la referencia (overhead, descenso, paneo, tilt) y mantiene la consistencia de personajes gracias a los assets y a dos referencias de audio (la voz del autor y la de Bruiser). La duración del clip se ajusta a los 10 segundos de la referencia. Kieft advierte que Claude no debe tomar decisiones creativas: “ten una idea clara antes de empezar”. Si no puedes visualizar la escena, un storyboard previo es obligatorio. El ahorro es real: previsualizar en Blender evita “gastar créditos y ir de un lado a otro con Seedance”.</p>
+<p>El costo del flujo básico incluye una suscripción de pago a <strong>Higgsfield</strong> (con descuento de Black Friday mencionado), aunque existe un modo gratuito. Para mejores resultados, Kieft recomienda <strong>Claude Opus 5.5</strong>. Seedance 2.5 ofrece un modo <em>Draft</em> para pruebas rápidas y luego upscaling a 1080p. Blender, por supuesto, es gratuito. La combinación permite iterar sin quemar la tarjeta de crédito en generaciones a ciegas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">ElevenLabs Voice Design: el sistema de Rourke Heath para voces que no se rompen entre planos</h3>
+<p>Rourke Heath aborda el problema inverso: si la cara es difícil de mantener, la voz lo es aún más. Su proceso de cinco pasos comienza con una <strong>hoja de personaje</strong> generada en ElevenLabs con <strong>GPT Image 2 (Sunburst)</strong> en resolución 2K y aspecto 16:9. Heath desaconseja el 4K por su costo elevado. Esa hoja, con múltiples ángulos, se convierte en la referencia visual que luego se pasa a Claude para que genere un prompt detallado de voz. La descripción debe seguir una checklist: acento, edad, ritmo, volumen, timidez o confianza y contexto del personaje. Claude escribe el prompt para <strong>ElevenLabs Voice Design</strong>, que debe acortarse a <strong>500 caracteres o menos</strong> conservando la información clave.</p>
+<p>La generación de voz se hace con el modelo <strong>Eleven v4</strong>, el más actualizado de la plataforma. Un truco poco conocido: los corchetes permiten especificar el tono, por ejemplo <em>[excited]</em> o <em>[shouting]</em>. Además, los <em>Audio Effects</em> de ElevenLabs añaden filtros (radio antigua, teléfono), ruidos de fondo (cafetería, ciudad, teclado) y efectos de distancia (cerca/lejos) para simular entornos. Heath prueba dos métodos para integrar la voz en Seedance 2.5. El primero es el <strong>audio exacto</strong>: se proporciona el archivo con la línea exacta que dirá el personaje, lo que garantiza máxima fidelidad en entonación y pausas. El segundo es el <strong>pangrama fonético</strong>: una frase que contiene todos los sonidos del inglés, como <em>“The quick beige fox jumped in the air over each thin dog. Look out! I shout, for he&#x27;s foiled you again, creating chaos”</em>. Se genera el audio y se usa como referencia para que el modelo entienda la voz del personaje y luego improvise diálogos variables.</p>
+<p>Las pruebas de estrés son reveladoras. En un entorno con viento fuerte y sonido de niños jugando, la voz se mantiene consistente y se mezcla bien con el ambiente. En una escena extrema de montaña con helicóptero, nieve y un grito, la voz también aguanta, aunque aparece un error visual (una burbuja en la boca). La comparación entre métodos deja una conclusión matizada: el audio exacto da mayor control sobre entonación y pausas; el pangrama es más flexible para improvisar. Heath documenta un fallo concreto: al usar un audio de referencia con pausas, Seedance no las respetó porque el prompt no las incluía. La solución fue pedir a Claude que ajustara el prompt para que coincidiera exactamente con el audio.</p>
+<p>Para clonar la propia voz, ElevenLabs ofrece <strong>Instant Voice Clone</strong> con solo 10 segundos de audio y <strong>Professional Voice Clone</strong> con hasta 30 minutos. Heath recomienda grabar un documento largo con variaciones de tono (susurros, gritos) para mayor calidad. El plan que usa permite solo una voz personalizada; para crear más hay que eliminar voces antiguas o actualizar el plan. El prompt final para Seedance 2.5 debe incluir el diálogo exacto y subir la referencia de audio, la hoja de personaje y una referencia de locación. Si el audio generado tiene pausas no deseadas, se pide a Claude que ajuste el prompt para que coincida con el archivo de referencia.</p>
+<p>Heath ofrece dos <em>skills</em> para Claude: una gratuita con mejores prácticas de ElevenLabs y plantilla de hoja de personaje, y otra de pago con prompts cinematográficos para Seedance 2.5. La generación de imágenes en 4K es muy costosa; 2K es el equilibrio recomendado. Los videos se generaron en 480p, 720p y 1080p para comparar calidad y consumo de créditos. La conclusión práctica: para diálogos específicos, el audio exacto es superior; para explorar variaciones, el pangrama fonético es el punto de partida ideal.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Character sheets simplificados y guiones legibles para IA: el sistema de CyberJungle</h3>
+<p>CyberJungle propone una revolución silenciosa en el diseño de hojas de personaje: menos es más. Su <strong>character sheet óptimo</strong> tiene tres paneles: a la derecha, un primer plano frontal de la cara en Ultra HD; a la izquierda, una vista frontal del cuerpo y vestuario sin rostro; en el centro, una vista trasera del cuerpo completo. El fondo debe ser un estudio gris neutro y suave. La razón es empírica: múltiples ángulos de cara en el sheet confunden al modelo; simplificar a una sola cara prominente mejora la consistencia. Para generar el sheet, usa <strong>Seedream 5.5</strong> o <strong>GPT-Image 2.6</strong>, aunque el primero rinde mejor en vello facial. El prompt debe especificar: <em>“Usa las imágenes de referencia subidas como referencia visual primaria para la identidad del personaje. Preserva los detalles de la cara e ignora la ropa de la imagen de referencia”</em>, y añadir palabras clave como <strong>“apariencia fotográfica real, sin ilustración, piel plástica ni render 3D, sin CGI, grabado y fotografiado en lugar de renderizado”</strong>.</p>
+<p>La consistencia de escala es otro caballo de batalla. CyberJungle recomienda definir dimensiones relativas de objetos en el prompt: <strong>“la taza de café mide 9 cm de alto”, “la tetera mide 20 cm, dos tercios llena”, “la barra mide 60 cm y está sobre el banco opuesto a Cihan”, “Dana mide 165 cm”</strong>. Esa precisión evita que los objetos cambien de tamaño entre planos. El guion debe escribirse de forma <em>legible para IA</em>: evitar pronombres y usar siempre etiquetas de nombre (Cihan, Chaser 1) para vincular con los character sheets. Las acciones se describen paso a paso de forma visual: en lugar de “los perseguidores salen y persiguen”, escribir <em>“en el espejo, Chaser 1 y Chaser 2 salen de la entrada del club y suben a la SUV. La SUV arranca y acelera hacia el convertible”</em>.</p>
+<p>Para las voces, CyberJungle usa <strong>ElevenLabs Eleven v4</strong> desde Artlist con una voz clonada o personalizada, y luego emplea ese archivo como referencia de audio en Seedance 2.5 para lip-sync. El truco está en dividir el audio completo en segmentos por línea de diálogo con <strong>Claude Fable 5.2</strong>, que separa el archivo único en cuatro partes. Cada segmento se usa como referencia en el plano correspondiente. El resultado es un lip-sync preciso y una voz consistente en todos los planos. Para mejorar la credibilidad, describe la cámara como un operador presente en la escena: <em>“toma manual con imperfecciones, estilo documental”</em>.</p>
+<p>El comportamiento realista es el último eslabón. CyberJungle advierte que describir solo emociones genéricas produce actuaciones planas. Hay que incluir <strong>microgestos y comportamientos</strong>: pausas cortas, respiraciones, olfateos, miradas a otro lado, tragar antes de decir algo difícil, tensión en la mandíbula. Las líneas largas se dividen en unidades de pensamiento cortas y se colocan acciones físicas en puntos específicos. El video de demostración, de 30 segundos e inspirado en GTA 6, requirió dos generaciones para lograr el ritmo natural en el diálogo. La conclusión es que la naturalidad no viene del prompt grandilocuente sino de la coreografía de microacciones.</p>
+<p>El flujo completo se apoya en un <em>skill file</em> descargable desde Google Drive que contiene prompts y estructura para crear character sheets y guiones optimizados para Seedance 2.5, incluyendo la transcripción del audio directamente en el prompt. La comparación entre GPT-Image 2.6 y Seedream 5.5 para character sheets es clara: GPT-Image 2.6 mostró menor resolución en el renderizado del cabello y vello facial, mientras que Seedream 5.5 logró mejor precisión. Para personajes con vello facial visible, la elección es Seedream 5.5. No se mencionan precios específicos, pero la lógica de costo se mantiene: invertir en una buena referencia ahorra iteraciones costosas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Puntos de encuentro y divergencias: lo que los tres flujos revelan sobre el futuro del video IA</h3>
+<p>Los tres enfoques comparten una columna vertebral: la <strong>referencia visual es el nuevo prompt</strong>. Dan Kieft usa Blender para generar referencias de cámara y movimiento; Rourke Heath parte de una hoja de personaje para derivar la voz; CyberJungle simplifica el sheet a tres paneles para evitar confusión. En todos los casos, el texto por sí solo es insuficiente. La segunda coincidencia es el uso de <strong>Claude como orquestador</strong>: Kieft lo conecta vía MCP para construir escenas, Heath lo usa para redactar prompts de voz y guiones, y CyberJungle lo emplea para dividir audio y generar prompts cinematográficos. La tercera es la etiqueta explícita: cada referencia debe nombrarse en el prompt para que el modelo no adivine.</p>
+<p>Las divergencias son igual de instructivas. Kieft prioriza el <strong>control espacial</strong> y la previsualización; su flujo es el más técnico y requiere aprender Blender, pero ofrece un ahorro de créditos difícil de igualar. Heath se enfoca en la <strong>consistencia vocal</strong> y ofrece dos métodos con compensaciones claras: precisión versus flexibilidad. CyberJungle pone el acento en la <strong>simplicidad de las referencias</strong> y en la naturalidad actoral a través de microgestos. Las herramientas complementarias también difieren: Higgsfield y Nano Banana Pro para Kieft; GPT Image 2 y ElevenLabs Voice Design para Heath; Seedream 5.5 y Artlist para CyberJungle. No hay un ganador absoluto, sino una caja de herramientas según el cuello de botella de cada proyecto.</p>
+<p>El costo es un factor transversal. Kieft menciona suscripciones de pago a Higgsfield y la conveniencia de Claude Opus 5.5; Heath advierte que el 4K es caro y que el plan de ElevenLabs limita las voces personalizadas; CyberJungle no da precios pero su énfasis en la simplicidad sugiere que menos paneles equivalen a menos iteraciones. La lección económica es que la inversión debe dirigirse a la etapa que más errores genera: si la cámara es el problema, Blender; si la voz, ElevenLabs; si la identidad, un character sheet bien diseñado. Seedance 2.5, en todos los casos, actúa como el motor final que recibe referencias etiquetadas y las respeta.</p>
+<p>Para quien quiera implementar estos flujos, el orden recomendado es: definir el personaje con un sheet simplificado, escribir un guion legible para IA con etiquetas de nombre, generar referencias de cámara si la escena lo requiere, producir el audio con ElevenLabs y dividirlo por líneas, y finalmente promptear Seedance 2.5 con todas las referencias nombradas. La verificación antes de generar es obligatoria: que cada imagen y audio coincida con su etiqueta. Los errores documentados —pausas no respetadas, burbujas en la boca, caras múltiples que confunden al modelo— se evitan con revisión humana y prompts ajustados. La conclusión final es que la consistencia no es magia: es un proceso de ingeniería de referencias.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para voces consistentes en Seedance 2.5: usa ElevenLabs Eleven v4 con audio exacto (máxima fidelidad) o pangrama fonético (flexibilidad). El prompt debe incluir el diálogo exacto y la referencia de audio etiquetada.</li>
+<li>Character sheet óptimo: tres paneles (cara frontal Ultra HD, cuerpo frontal sin rostro, cuerpo trasero), fondo gris neutro, una sola cara prominente. Prompt clave: &#x27;apariencia fotográfica real, sin CGI, grabado y fotografiado&#x27;.</li>
+<li>Para escala consistente: define dimensiones relativas en el prompt (taza 9 cm, tetera 20 cm, barra 60 cm, personaje 165 cm).</li>
+<li>Regla de oro en Seedance 2.5: etiqueta cada referencia en el prompt (&#x27;image 1: wife&#x27;, &#x27;audio 1: voice&#x27;) y verifica que coincidan antes de generar para no gastar créditos.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.blender.org/" target="_blank" rel="noopener"><strong>Blender</strong></a> — Software 3D gratuito para previsualizar escenas y generar referencias de cámara.</li>
+<li><a href="http://dankieft.com/higgsfield" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma de generación IA con plugin para Blender y MCP Control.</li>
+<li><a href="https://claude.ai" target="_blank" rel="noopener"><strong>Claude</strong></a> — Asistente IA para generar prompts, guiones y controlar Blender vía MCP.</li>
+<li><strong>Seedance 2.5</strong> — Generador de video IA que usa referencias visuales y de audio etiquetadas.</li>
+<li><strong>Nano Banana Pro</strong> — Modelo de imagen para convertir capturas de Blender en visual anchors realistas 2K.</li>
+<li><strong>Seedream 5.0 / 5.5</strong> — Modelo de imagen para generar assets y character sheets con buen renderizado de vello facial.</li>
+<li><a href="https://blender.lab/" target="_blank" rel="noopener"><strong>Blender MCP</strong></a> — Protocolo para conectar Claude con Blender y construir escenas automáticamente.</li>
+<li><a href="https://claude-and-blender.vercel.app/" target="_blank" rel="noopener"><strong>Skills para Claude (Kieft)</strong></a> — Habilidades personalizadas para generar prompts de Seedance 2.5.</li>
+<li><a href="https://elevenlabs.io" target="_blank" rel="noopener"><strong>ElevenLabs</strong></a> — Plataforma de voz IA con Voice Design, Eleven v4, efectos y clonación.</li>
+<li><strong>GPT Image 2 (Sunburst)</strong> — Modelo de imagen en ElevenLabs para character sheets en 2K.</li>
+<li><a href="https://www.genhq.io" target="_blank" rel="noopener"><strong>GenHQ</strong></a> — Plataforma de educación en IA creativa y mercado de trabajo.</li>
+<li><a href="https://rourkeideas.com/downloads/elevenlabs-seedance-voices" target="_blank" rel="noopener"><strong>Skill gratuito de voces (Rourke Heath)</strong></a> — Mejores prácticas de ElevenLabs y plantilla de hoja de personaje para Claude.</li>
+<li><a href="https://go.genhq.io/seedance-25-skillclaude-genhq-638052" target="_blank" rel="noopener"><strong>Skill de pago Seedance 2.5 (Rourke Heath)</strong></a> — Genera prompts cinematográficos detallados para Seedance 2.5.</li>
+<li><a href="https://artlist.io/artlist-70446/?artlist_aid=cyberjungle_3759&amp;utm_source=affiliate_p&amp;utm_medium=cyberjungle_3759&amp;utm_campaign=cyberjungle_3759" target="_blank" rel="noopener"><strong>Artlist</strong></a> — Plataforma que integra modelos de imagen, video y voz (ElevenLabs) y stock multimedia.</li>
+<li><a href="https://drive.google.com/file/d/1VNMAP5nILjKlfGS137mgv5HXFH2Frmfn/view?usp=sharing" target="_blank" rel="noopener"><strong>Skill file de CyberJungle</strong></a> — Archivo con prompts y estructura para character sheets y guiones optimizados para Seedance 2.5.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-OO6J2w_FBnE-lnr568_7FJw-Zr8VvIsZVgY.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

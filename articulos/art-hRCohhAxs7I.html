@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>El método del cofundador de OpenAI para usar IA como el TOP 1%: dictado, entrevista inversa y revisión crítica — Frame &amp; Prompt</title>
+  <meta name="description" content="La IA no falla por falta de potencia, sino por falta de contexto y verificación. Andrés Carpazzi, cofundador de OpenAI, propone un método de tres capas —entrada, salida y filtro— que Xavier Mitjana desglosa con técnicas concretas: dictar en lugar de escribir, pedir a la IA que te entreviste antes de">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="El método del cofundador de OpenAI para usar IA como el TOP 1%: dictado, entrevista inversa y revisión crítica">
+  <meta property="og:description" content="La IA no falla por falta de potencia, sino por falta de contexto y verificación. Andrés Carpazzi, cofundador de OpenAI, propone un método de tres capas —entrada, salida y filtro— que Xavier Mitjana desglosa con técnicas concretas: dictar en lugar de escribir, pedir a la IA que te entreviste antes de">
+  <meta property="og:image" content="https://i.ytimg.com/vi/hRCohhAxs7I/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-hRCohhAxs7I.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="El método del cofundador de OpenAI para usar IA como el TOP 1%: dictado, entrevista inversa y revisión crítica">
+  <meta name="twitter:description" content="La IA no falla por falta de potencia, sino por falta de contexto y verificación. Andrés Carpazzi, cofundador de OpenAI, propone un método de tres capas —entrada, salida y filtro— que Xavier Mitjana desglosa con técnicas concretas: dictar en lugar de escribir, pedir a la IA que te entreviste antes de">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/hRCohhAxs7I/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-hRCohhAxs7I.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">El método del cofundador de OpenAI para usar IA como el TOP 1%: dictado, entrevista inversa y revisión crítica</h1>
+        <div class="metadata">
+          <span>Por <strong>Xavier Mitjana</strong></span>
+          <time datetime='2026-11-17T17:04:01.078510-05:00'>2026-11-17</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/hRCohhAxs7I" title="El método del cofundador de OpenAI para usar IA como el TOP 1%: dictado, entrevista inversa y revisión crítica" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=hRCohhAxs7I" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La IA no falla por falta de potencia, sino por falta de contexto y verificación. Andrés Carpazzi, cofundador de OpenAI, propone un método de tres capas —entrada, salida y filtro— que Xavier Mitjana desglosa con técnicas concretas: dictar en lugar de escribir, pedir a la IA que te entreviste antes de redactar y someter el resultado a un revisor crítico en un chat nuevo. El veredicto es claro: la IA tiende a la complacencia y solo un rol adversarial y la comprobación manual de datos evitan errores costosos.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Xavier Mitjana</strong>: <a href="https://www.youtube.com/watch?v=hRCohhAxs7I" target="_blank" rel="noopener">Usa la IA como el TOP 1% (el método del cofundador de OpenAI)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema real: la IA no adivina, solo refleja lo que le das</h3>
+<p>La mayoría de los usuarios culpa al modelo cuando la respuesta es genérica o inexacta. El método de Andrés Carpazzi, cofundador de OpenAI, invierte ese diagnóstico: el fallo está en la instrucción. Su enfoque se estructura en tres capas —entrada, salida y filtro— que Xavier Mitjana desarrolla con ejemplos prácticos y prompts listos para copiar. La primera capa, la entrada, consiste en proporcionar contexto suficiente para que el modelo no tenga que inventar. La segunda, la salida, obliga a definir el formato exacto en que queremos recibir la información. La tercera, el filtro, introduce una revisión crítica que combate la tendencia natural de los modelos a dar la razón.</p>
+<p>El punto de partida es una constatación empírica: <strong>dictar en el móvil es tres veces más rápido que teclear</strong>, según un estudio de Stanford citado en el vídeo. Pero la velocidad no es el único beneficio. Al hablar, el usuario tiende a incluir detalles que por escrito omitiría: el público objetivo, la fecha, el tono deseado, las restricciones. En una prueba comparativa con una newsletter, la instrucción dictada incorporó contexto sobre la audiencia y el estilo que la versión tecleada pasó por alto, y la respuesta resultante fue notablemente más útil y específica. La técnica es simple: activar el dictado del sistema operativo o del móvil y hablar con naturalidad, sin preocuparse por la puntuación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La entrevista inversa: obliga a la IA a preguntar antes de escribir</h3>
+<p>El segundo movimiento del método ataca el problema del contexto incompleto desde otro ángulo. En lugar de redactar un prompt largo y perfecto, se le pide al modelo que adopte el papel de entrevistador. El prompt exacto que recomienda Mitjana es: <em>«Antes de redactar nada, hazme las preguntas que necesites para afinar el documento. Como mucho, 5 y de una en una. Dame opciones de respuesta y la posibilidad de añadir la mía.»</em> La clave está en el formato: preguntas secuenciales, no un cuestionario extenso, y con opciones predefinidas que reduzcan la carga cognitiva.</p>
+<p>En una prueba con una propuesta comercial, las preguntas revelaron información que el usuario no había considerado: el objetivo real del documento, quién toma la decisión de compra y cuál es el presupuesto disponible. Ese contexto adicional reorientó el enfoque de la propuesta. La técnica también funciona con transcripciones de reuniones. Al pegar el texto de una reunión y pedir que se integre en un documento, conviene añadir la instrucción: <em>«Si algún punto quedó en el aire, márcalo como duda sin inventarte nada.»</em> Así el modelo distingue entre lo que el cliente dijo y lo que no, y evita rellenar huecos con suposiciones.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El formato como herramienta de comprensión: esquemas, webs interactivas y vídeos</h3>
+<p>La capa de salida no se limita a pedir «un resumen». Mitjana muestra cómo el formato puede transformar la comprensión de información compleja. Para relaciones entre conceptos, el prompt es: <em>«No me lo expliques con párrafos, dibújame un esquema con flechas.»</em> Para datos que requieren exploración, se puede solicitar una página web interactiva con pestañas, calculadoras y gráficos. Para conceptos que deben entenderse con rapidez, un vídeo explicativo animado con voz sintética. Cada formato tiene un coste: la generación de webs y vídeos consume más rápidamente el límite de uso de la cuenta de IA, y el resultado puede dar una falsa sensación de validez si no se verifica.</p>
+<p>En la simplificación del lenguaje, el vídeo cita la norma <strong>ASD STE 100</strong>, el estándar de inglés técnico simplificado para manuales de aviación. Aplicada estrictamente con Claude, el programador Lucian Guinda perdió casi la mitad de los datos importantes. La lección es que la simplificación extrema sacrifica precisión. El prompt alternativo que propone Mitjana busca el equilibrio: <em>«Explícamelo con lenguaje técnico sencillo. Frases cortas, una idea por oración, voz activa y sin adornos. Conserva todos los términos, condiciones, excepciones y datos importantes. Si resumir implica perder información, prioriza la precisión.»</em> La norma es útil como referencia, pero no como camisa de fuerza.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El filtro adversarial: un chat nuevo para tumbar el documento</h3>
+<p>La tercera capa es la que marca la diferencia entre un usuario promedio y uno del TOP 1%. Los modelos de lenguaje tienden a la complacencia porque aprenden de evaluadores humanos y puntúan mejor a quien les da la razón, según un estudio de Anthropic citado en el vídeo. Si se pide una revisión en la misma conversación en la que se generó el texto, el modelo probablemente dirá que es excelente. La solución es abrir un chat nuevo y asignarle un rol adversarial: <em>«Actúa como un revisor crítico que quiere tumbar este documento. Busca errores lógicos, datos débiles o puntos ciegos. Dime hasta tres partes flojas que puedas justificar. Cita el fragmento exacto y explica por qué. Y si después de analizarlo ves que es sólido, dímelo sin inventarte críticas de relleno.»</em></p>
+<p>La última frase es esencial: sin una vía de escape, el modelo inventará críticas para cumplir el rol. En una prueba real con una propuesta comercial, la IA en la misma conversación la calificó de excelente. En un chat nuevo con el rol crítico, encontró tres fallos: una inversión no justificada, un dato sin fuente y un punto ciego. Al verificar manualmente, se descubrió que el presupuesto de 18.000 euros citado en el documento no aparecía en la transcripción de la reunión; el cliente había dicho 15.000. La conclusión es inequívoca: <strong>ningún dato crítico debe compartirse o firmarse sin comprobación en la fuente original</strong>.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y costes: grabadoras que alimentan el contexto</h3>
+<p>Para aplicar el método en reuniones, Mitjana recomienda dos grabadoras de la marca Plaud. La <strong>Plaud Note Pro</strong> aguanta 50 horas de grabación y está pensada para reuniones con transcripción y resumen automático. La <strong>Plaud NotePin S</strong> pesa 17 gramos y se lleva al presencial, con app y transcripción integrada. Ambas cumplen con GDPR y SOC 2, un requisito relevante si se graban conversaciones con clientes. El vídeo ofrece un 20% de descuento con el código XAVIER20OFF y 30 días de devolución gratuita. La inversión tiene sentido si el cuello de botella es la captura de contexto: una transcripción rica permite alimentar los prompts de entrada con material real en lugar de recuerdos difusos.</p>
+<p>El coste menos visible es el consumo de la cuenta de IA. Las técnicas de formato —esquemas, webs interactivas, vídeos animados— son más caras en tokens que una respuesta de texto convencional. Mitjana no da cifras exactas, pero advierte que estos formatos agotan el límite de uso más rápido. La recomendación implícita es reservarlos para información compleja que realmente lo justifique, no para cada consulta. El método completo funciona con ChatGPT, Gemini y Claude; no requiere un modelo específico, sino una disciplina de instrucción y verificación.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Prompt de entrevista inversa: «Antes de redactar nada, hazme las preguntas que necesites para afinar el documento. Como mucho, 5 y de una en una. Dame opciones de respuesta y la posibilidad de añadir la mía.»</li>
+<li>Prompt de revisión crítica: «Actúa como un revisor crítico que quiere tumbar este documento. Busca errores lógicos, datos débiles o puntos ciegos. Dime hasta tres partes flojas que puedas justificar. Cita el fragmento exacto y explica por qué. Y si después de analizarlo ves que es sólido, dímelo sin inventarte críticas de relleno.»</li>
+<li>Regla de oro: dictar es 3 veces más rápido que teclear (Stanford) y produce más contexto; verificar manualmente todo dato crítico en la fuente original antes de firmar o compartir.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://amzn.to/4BYmKXi" target="_blank" rel="noopener"><strong>Plaud Note Pro</strong></a> — Grabadora de reuniones con transcripción y resumen automático, 50 horas de grabación.</li>
+<li><a href="https://amzn.to/4zedj3q" target="_blank" rel="noopener"><strong>Plaud NotePin S</strong></a> — Grabadora portátil de 17 gramos para reuniones presenciales, con app y transcripción.</li>
+<li><strong>Claude</strong> — Modelo de IA usado para generar respuestas, código de animaciones y revisiones críticas.</li>
+<li><strong>ChatGPT</strong> — Modelo de IA para dictado, preguntas interactivas y generación de contenido.</li>
+<li><strong>Gemini</strong> — Modelo de IA para las mismas técnicas de contexto y formato.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-hRCohhAxs7I.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

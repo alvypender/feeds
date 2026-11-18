@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seedance 2.5 Flash: 34% más barato pero inconsistente; solo mejora con referencias masivas y mapas de profundidad — Frame &amp; Prompt</title>
+  <meta name="description" content="La versión económica de ByteDance, Seedance 2.5 Flash, promete un 34% de ahorro frente al modelo estrella, pero las pruebas de Theoretically Media revelan fallos graves de coherencia: objetos que desaparecen, morphing y diálogos duplicados. Solo cuando se alimenta con hasta 9 referencias y se usa la">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Seedance 2.5 Flash: 34% más barato pero inconsistente; solo mejora con referencias masivas y mapas de profundidad">
+  <meta property="og:description" content="La versión económica de ByteDance, Seedance 2.5 Flash, promete un 34% de ahorro frente al modelo estrella, pero las pruebas de Theoretically Media revelan fallos graves de coherencia: objetos que desaparecen, morphing y diálogos duplicados. Solo cuando se alimenta con hasta 9 referencias y se usa la">
+  <meta property="og:image" content="https://i.ytimg.com/vi/oXlOoCIwJp8/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-oXlOoCIwJp8.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Seedance 2.5 Flash: 34% más barato pero inconsistente; solo mejora con referencias masivas y mapas de profundidad">
+  <meta name="twitter:description" content="La versión económica de ByteDance, Seedance 2.5 Flash, promete un 34% de ahorro frente al modelo estrella, pero las pruebas de Theoretically Media revelan fallos graves de coherencia: objetos que desaparecen, morphing y diálogos duplicados. Solo cuando se alimenta con hasta 9 referencias y se usa la">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/oXlOoCIwJp8/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-oXlOoCIwJp8.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Seedance 2.5 Flash: 34% más barato pero inconsistente; solo mejora con referencias masivas y mapas de profundidad</h1>
+        <div class="metadata">
+          <span>Por <strong>Theoretically Media</strong></span>
+          <time datetime='2026-11-17T17:03:51.078510-05:00'>2026-11-17</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/oXlOoCIwJp8" title="Seedance 2.5 Flash: 34% más barato pero inconsistente; solo mejora con referencias masivas y mapas de profundidad" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=oXlOoCIwJp8" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La versión económica de ByteDance, Seedance 2.5 Flash, promete un 34% de ahorro frente al modelo estrella, pero las pruebas de Theoretically Media revelan fallos graves de coherencia: objetos que desaparecen, morphing y diálogos duplicados. Solo cuando se alimenta con hasta 9 referencias y se usa la técnica de depth map ofrece resultados utilizables. El veredicto es claro: aún no está listo para producción, y los créditos baratos siguen siendo créditos desperdiciados. Además, el análisis del corto de 102.725 dólares de PJ Ace desmonta el mito de que la IA abarata la animación: el coste real por persona/día ronda los 365 dólares.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Theoretically Media</strong>: <a href="https://www.youtube.com/watch?v=oXlOoCIwJp8" target="_blank" rel="noopener">Seedance 2.5 Flash Is Cheap. But this AI Film Cost $102,000?</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La promesa del vídeo barato: qué es Seedance 2.5 Flash y por qué ByteDance insiste en recortar costes</h3>
+<p>ByteDance lleva meses librando una batalla interna por abaratar la generación de vídeo con IA. Primero llegó el <strong>Draft mode</strong>, un modo de baja resolución que no hace upscaling sino que regenera por completo el clip manteniendo detalles, y ahora se suma <strong>Seedance 2.5 Flash</strong>, una versión descafeinada de su modelo estrella que promete ser un <strong>34% más barata</strong> que el flagship. La propuesta es tentadora: misma familia, mismo ecosistema, pero con un precio que permite iterar sin arruinarse. Sin embargo, la letra pequeña importa: Flash solo genera a <strong>480p o 720p</strong> (frente a los 1080p del modelo completo) y admite un máximo de <strong>20 referencias</strong> en lugar de las 50 del flagship. En BytePlus, su precio ronda los <strong>0,15 dólares por segundo a 720p</strong>, una cifra que otros proveedores ajustan al alza o a la baja.</p>
+<p>La teoría que maneja Theoretically Media es que Seedance funciona con un LLM interno, <strong>Seed</strong>, que actúa como cerebro y &#x27;piensa&#x27; la escena antes de generarla. En Flash, ese razonamiento se habría reducido drásticamente, lo que explicaría por qué el modelo es más &#x27;tonto&#x27; y necesita instrucciones mucho más explícitas. No es una versión rápida del mismo motor, sino un motor con menos capacidad de deducción. Esa diferencia es la clave para entender todos los fallos que aparecen después.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Los mismos prompts, resultados dispares: cuando Flash pierde el hilo de la acción</h3>
+<p>Para comprobar hasta qué punto el recorte de costes afecta a la calidad, el canal sometió a Flash y al flagship a una batería de pruebas con idénticos prompts. En el primer test, un western con un bartender, Flash entregó una escena aparentemente decente, pero con un fallo de coherencia flagrante: el personaje limpia un vaso que, al posarlo, se llena mágicamente de whiskey. El flagship, con el mismo texto, produjo una salida muy similar pero sin esa inconsistencia y con texturas y color superiores gracias al 1080p. El segundo experimento, un hombre de traje azul huyendo de la policía, aguantó bien la primera mitad, pero en el clímax el coche que lo persigue (¿un Prius?) desapareció de la escena sin explicación. El modelo caro no tuvo ese problema.</p>
+<p>El tercer test, una imagen a vídeo de una francotiradora (Sniper Girl), fue el más decepcionante para Flash: el rifle aparecía y desaparecía entre frames, y la explosión final ocurría en una era completamente distinta a la del resto del clip. El flagship, en cambio, resolvió la secuencia con solvencia. El cuarto, una Jungle Girl escapando de una tumba, casi lo logra: la escena del puente colapsando quedó muy bien, pero después apareció morphing corporal y decoherencia. Estos resultados apuntan a un fallo en la traducción del prompt al modelo de vídeo: Flash no termina de entender la secuencia de acciones y pierde objetos por el camino.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La receta para que Flash no sea un desastre: muchas referencias y depth map</h3>
+<p>No todo está perdido. El quinto experimento, <strong>Mercy the Monster Hunter</strong>, demostró que Flash puede ser trabajable si se le da el contexto adecuado. El canal utilizó <strong>9 referencias</strong> —personaje, localización y storyboards detallados por escena— y el resultado fue un clip sin objetos que desaparecen ni morphing, aunque algo ruidoso y granulado (en parte por el uso de GPT-1 en el proceso). La conclusión es directa: cuantas más referencias fuertes se aporten, mejor se comporta el modelo. No se trata de escribir un prompt más largo, sino de suministrar imágenes de referencia que anclen cada elemento de la escena.</p>
+<p>A eso se suma la <strong>técnica del depth map</strong> (mapa de profundidad), que el canal ya había tutorializado y que resultó clave para generar el clip de Mercy de forma coherente. Básicamente, se proporciona al modelo un mapa de profundidad de la escena para que sepa qué está delante y qué detrás, evitando que los objetos se fusionen o desaparezcan. Con estas dos herramientas —referencias masivas y depth map— Flash deja de ser una lotería y se convierte en una opción viable, aunque exigente. El problema es que ese flujo de trabajo requiere mucho más esfuerzo y tiempo que usar el flagship directamente.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El talón de Aquiles: audio duplicado y la aleatoriedad que condena a Flash</h3>
+<p>El séptimo experimento puso a prueba la coherencia con referencias de audio. En una escena de un agente del FBI en una cafetería, Flash duplicó el diálogo: la frase <em>&#x27;it is a damn fine cup of joe&#x27;</em> se repitió dos veces aunque el doble no estaba en el audio original. Un comportamiento extraño que refuerza la sensación de que el modelo no termina de procesar bien las instrucciones multimodales. Este tipo de fallos son especialmente peligrosos en producción, porque obligan a revisar y regenerar tomas, lo que multiplica el coste real aunque el precio por segundo sea bajo.</p>
+<p>El veredicto del canal es contundente: <strong>no recomienda Seedance 2.5 Flash en su estado actual</strong>. Es demasiado aleatorio, y los créditos más baratos siguen siendo créditos desperdiciados si el clip no sirve. Eso sí, el análisis se hizo el mismo día del lanzamiento de la API, por lo que es razonable esperar mejoras en futuras actualizaciones. ByteDance ya ha demostrado que escucha y recorta costes con iteraciones sucesivas, así que Flash podría madurar. Por ahora, la recomendación es usarlo solo cuando se pueda invertir en un flujo de trabajo con muchas referencias y depth map, y nunca para acciones complejas en la segunda mitad del clip.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El mito del corto barato: desglose de los 102.725 dólares de Nexus</h3>
+<p>La segunda parte del vídeo aborda una polémica recurrente en la comunidad: ¿cuánto cuesta realmente hacer un corto animado con IA? El detonante fue el corto <strong>Nexus</strong>, de PJ Ace, cuyo tuit alcanzó 5,7 millones de visualizaciones y generó un aluvión de comentarios del tipo &#x27;yo lo haría más barato&#x27;. Los números fríos son estos: <strong>102.725 dólares</strong>, <strong>45 días de producción</strong> y un equipo de <strong>7 personas</strong> (PJ más seis). Ese presupuesto no cubre solo Nexus, sino también tres o cuatro partes adicionales que están por venir, así que el coste por entregable es menor de lo que parece. Aun así, el desglose es revelador: el <strong>80% se destinó a labor</strong> (82.180 dólares) y solo el 20% a animación y generación.</p>
+<p>Si se reparte ese labor entre 7 personas durante 45 días, sale a <strong>1.826 dólares por persona y semana</strong>, o aproximadamente <strong>365 dólares por persona y día</strong> asumiendo una semana de cinco días. Para un profesional cualificado, esa cifra es razonable, incluso algo baja. School of Motion cifra en <strong>800-1.000 dólares diarios</strong> la tarifa de un freelancer experimentado en motion graphics. Es decir, el equipo de Nexus no estaba cobrando tarifas de lujo, sino ajustando para que el proyecto fuera viable. La conclusión es que &#x27;yo lo haría más barato&#x27; es la respuesta equivocada: los clientes siempre quieren rápido, barato y bueno, pero solo pueden elegir dos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Otra vara de medir: el compute de Henry Daubrez y el coste real por minuto</h3>
+<p>Para contrastar, el vídeo recurre al caso de <strong>Henry Daubrez</strong> y su serie <em>Junkyard King</em>. Con un equipo de solo dos personas, Daubrez estima un gasto de <strong>1.000 a 1.500 dólares en compute por minuto terminado</strong>. Eso supone entre <strong>16.000 y 24.000 dólares</strong> para un episodio de 16 minutos, a lo que hay que sumar las suscripciones mensuales del stack de producción (herramientas de generación, edición, etc.). Son cifras mucho más bajas que las de Nexus, pero también reflejan una escala y un equipo distintos. La comparación no invalida el presupuesto de PJ Ace, sino que muestra que no hay un único modelo de costes: depende del alcance, del equipo y de la calidad final.</p>
+<p>El canal también menciona su propio corto, <strong>Planet Hell</strong>, hecho con menos presupuesto, como término medio. La lección es que el coste de la IA no elimina el coste del trabajo humano: lo redistribuye. La animación y la generación son solo una parte; la dirección, el diseño, la edición y la gestión consumen la mayor parte del presupuesto. Ignorar eso lleva a presupuestos irreales que luego no se sostienen.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y alternativas: dónde encaja Flash en el ecosistema actual</h3>
+<p>Más allá de Seedance, el vídeo repasa el ecosistema de herramientas que están definiendo el coste de producción. <strong>MiniMax H3</strong> se presenta como un modelo de alta calidad que reduce la brecha con Seedance 2.5 a una fracción del precio, consolidándose como alternativa económica. <strong>Dreamina</strong>, la plataforma de generación de ByteDance, fue utilizada en la producción de Nexus y probablemente sea la fuente de créditos que infló el presupuesto. Para equipos que necesitan integrar todos estos modelos con stock y control de créditos, <strong>Artlist Enterprise</strong> ofrece un partner creativo dedicado, workspace compartido y control de créditos por equipo, con integración en Premiere, After Effects, Photoshop, Figma y Blender. Según el patrocinador, permite 10 veces más proyectos y reduce los costes de producción un 80%.</p>
+<p>En el plano técnico, el canal recomienda consultar su tutorial de <strong>depth map</strong> para evitar decoherencia, y los <strong>character sheets</strong> de Mercy the Monster Hunter como ejemplo de referencias múltiples para mantener consistencia. También enlaza el tuit de PJ Ace sobre Nexus, el de Henry Daubrez y la guía de tarifas de School of Motion. Son recursos útiles para quien quiera replicar el flujo de trabajo o presupuestar su propio proyecto con datos reales.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para usar Seedance 2.5 Flash con garantías: aportar el máximo de referencias posibles (hasta 9-20) incluyendo personaje, localización y storyboards por escena, y aplicar depth map.</li>
+<li>Fórmula de coste por persona/día en un corto con IA: (presupuesto × 0,8) / (nº personas × días laborables). Para Nexus: 82.180 $ / (7 × 45) ≈ 365 $/día.</li>
+<li>Tarifa de referencia para freelancer experimentado en motion graphics: 800-1.000 $/día (School of Motion).</li>
+<li>Coste de compute orientativo para un corto con IA: 1.000-1.500 $ por minuto terminado (Henry Daubrez, equipo de 2 personas).</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://fal.ai/models/bytedance/seedance-2.5/flash/text-to-video" target="_blank" rel="noopener"><strong>Seedance 2.5 Flash</strong></a> — Versión rápida y económica del modelo de vídeo de ByteDance; 480p/720p, hasta 20 referencias, ~34% más barato.</li>
+<li><strong>Seedance 2.5 (flagship)</strong> — Modelo tope de gama de ByteDance; 1080p, hasta 50 referencias, mayor coherencia.</li>
+<li><a href="https://x.com/BytePlusGlobal/status/2102358910443401590" target="_blank" rel="noopener"><strong>Seedance Draft mode</strong></a> — Modo de baja resolución que regenera manteniendo detalles; primera iteración de recorte de costes.</li>
+<li><a href="https://www.minimax.io/blog/minimax-h3" target="_blank" rel="noopener"><strong>MiniMax H3</strong></a> — Modelo de vídeo de alta calidad a fracción del precio; alternativa económica a Seedance.</li>
+<li><strong>Dreamina</strong> — Plataforma de generación de ByteDance usada en la producción de PJ Ace.</li>
+<li><a href="https://artlist.io/artlist-70446/?artlist_aid=TheoreticallyMedia_4024&amp;utm_source=affiliate_p&amp;utm_medium=TheoreticallyMedia_4024&amp;utm_campaign=TheoreticallyMedia_4024" target="_blank" rel="noopener"><strong>Artlist Enterprise</strong></a> — Plataforma con todos los modelos líderes, stock, partner creativo y control de créditos; integrable con Adobe y Blender.</li>
+<li><a href="https://www.schoolofmotion.com/blog/charge-motion-graphics-rate" target="_blank" rel="noopener"><strong>School of Motion (tarifas)</strong></a> — Referencia de day rates para motion graphics y freelancers experimentados (800-1.000 $/día).</li>
+<li><a href="https://www.youtube.com/watch?v=oa0UO-L07mw" target="_blank" rel="noopener"><strong>Junkyard King, Chapter 3</strong></a> — Episodio de 16 minutos de Henry Daubrez usado como referencia de desglose de costes.</li>
+<li><a href="https://youtu.be/1yLAbK5F3E8" target="_blank" rel="noopener"><strong>Planet Hell</strong></a> — Corto de IA del propio creador, con menos presupuesto, usado como comparación.</li>
+<li><a href="https://youtu.be/FCXz8uyPa3Y" target="_blank" rel="noopener"><strong>Técnica de depth map</strong></a> — Tutorial para generar vídeo con mapas de profundidad y evitar decoherencia.</li>
+<li><a href="https://youtu.be/X-rlr3k-2TI" target="_blank" rel="noopener"><strong>Mercy the Monster Hunter (character sheets)</strong></a> — Ejemplo de character sheets y storyboards usados como referencias múltiples.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-oXlOoCIwJp8.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

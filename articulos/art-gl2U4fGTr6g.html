@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenAI presenta una solución parcial al problema de Yang-Mills con IA, pero el caos en el código retrasa su validación — Frame &amp; Prompt</title>
+  <meta name="description" content="OpenAI ha logrado avances en el problema de Yang-Mills, uno de los desafíos del milenio, mediante una demostración en Lean que pasa la verificación automática. Sin embargo, el código generado contiene 250.000 declaraciones, muchas innecesarias y con nombres absurdos, lo que dificulta la revisión hum">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="OpenAI presenta una solución parcial al problema de Yang-Mills con IA, pero el caos en el código retrasa su validación">
+  <meta property="og:description" content="OpenAI ha logrado avances en el problema de Yang-Mills, uno de los desafíos del milenio, mediante una demostración en Lean que pasa la verificación automática. Sin embargo, el código generado contiene 250.000 declaraciones, muchas innecesarias y con nombres absurdos, lo que dificulta la revisión hum">
+  <meta property="og:image" content="https://i.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-gl2U4fGTr6g.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="OpenAI presenta una solución parcial al problema de Yang-Mills con IA, pero el caos en el código retrasa su validación">
+  <meta name="twitter:description" content="OpenAI ha logrado avances en el problema de Yang-Mills, uno de los desafíos del milenio, mediante una demostración en Lean que pasa la verificación automática. Sin embargo, el código generado contiene 250.000 declaraciones, muchas innecesarias y con nombres absurdos, lo que dificulta la revisión hum">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-gl2U4fGTr6g.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">OpenAI presenta una solución parcial al problema de Yang-Mills con IA, pero el caos en el código retrasa su validación</h1>
+        <div class="metadata">
+          <span>Por <strong>Two Minute Papers</strong></span>
+          <time datetime='2026-11-17T17:03:41.078510-05:00'>2026-11-17</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/gl2U4fGTr6g" title="OpenAI presenta una solución parcial al problema de Yang-Mills con IA, pero el caos en el código retrasa su validación" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=gl2U4fGTr6g" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">OpenAI ha logrado avances en el problema de Yang-Mills, uno de los desafíos del milenio, mediante una demostración en Lean que pasa la verificación automática. Sin embargo, el código generado contiene 250.000 declaraciones, muchas innecesarias y con nombres absurdos, lo que dificulta la revisión humana liderada por David Gross. La brecha de masa sigue sin resolverse y la comunidad científica espera una validación completa.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Two Minute Papers</strong>: <a href="https://www.youtube.com/watch?v=gl2U4fGTr6g" target="_blank" rel="noopener">OpenAI&#x27;s New Breakthrough Is... Utter Chaos</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema del milenio y la apuesta de OpenAI</h3>
+<p>El problema de la existencia de Yang-Mills y la brecha de masa es uno de los siete desafíos del milenio, con una recompensa de un millón de dólares. Consiste en demostrar que la teoría cuántica de campos de Yang-Mills, base de la interacción fuerte, existe matemáticamente y que existe una brecha de masa positiva. OpenAI ha abordado este problema con un sistema de IA que sigue el enfoque de Balaban, utilizando múltiples grids para calcular cómo los cambios en escalas finas afectan a las gruesas y demostrar que el sistema no diverge. La IA generó una demostración en Lean, un lenguaje de programación y asistente de pruebas que verifica paso a paso la lógica matemática, y la verificación automática fue exitosa, lo que sugiere que la matemática no diverge.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un código correcto pero ilegible: 250.000 declaraciones y nombres absurdos</h3>
+<p>A pesar del éxito automático, la demostración contiene aproximadamente 250.000 declaraciones, de las cuales el 60% no se utilizan en la prueba final. Además, algunas declaraciones tienen nombres como &#x27;cake&#x27; y &#x27;cookie&#x27;, lo que hace que la revisión humana sea extremadamente difícil. Un grupo liderado por el físico ganador del Premio Nobel David Gross está revisando el trabajo; los resultados iniciales son alentadores, pero la revisión aún está en curso. El autor del video concluye que, aunque es un avance impresionante, OpenAI está &#x27;volcando un montón de espagueti&#x27; al mundo científico y el problema de la brecha de masa sigue sin resolver.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Implicaciones y herramientas para la investigación reproducible</h3>
+<p>El uso de Lean permite que los pasos lógicos sean verificables automáticamente, pero la verificación automática no garantiza que se haya probado lo deseado; se requiere revisión humana experta. Para entrenar modelos, hacer fine-tuning, inferencia y reproducir experimentos de investigación, se puede utilizar Lambda GPU Cloud, un servicio de GPUs en la nube. El problema del milenio tiene una recompensa de 1 millón de dólares, suficiente para comprar dos GPUs según el autor (comentario irónico).</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Lean es un lenguaje de demostración que permite verificación automática de pasos lógicos.</li>
+<li>La verificación automática no sustituye la revisión humana experta.</li>
+<li>El problema de Yang-Mills incluye la existencia matemática y la brecha de masa; esta última sigue sin resolver.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Lean</strong> — Asistente de pruebas para verificar demostraciones matemáticas paso a paso.</li>
+<li><a href="https://lambda.com/papers" target="_blank" rel="noopener"><strong>Lambda GPU Cloud</strong></a> — Servicio de GPUs en la nube para entrenar modelos y reproducir experimentos.</li>
+<li><a href="https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf" target="_blank" rel="noopener"><strong>Documento del grupo de trabajo sobre Yang-Mills</strong></a> — PDF con detalles del grupo de trabajo en KITP.</li>
+<li><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/" target="_blank" rel="noopener"><strong>OpenAI: Building scientific understanding with academic communities</strong></a> — Página de OpenAI sobre su enfoque de investigación abierta.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-gl2U4fGTr6g.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

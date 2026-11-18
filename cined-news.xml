@@ -3,7 +3,678 @@
 <title>News | CineD – Completo</title>
 <link href="https://www.cined.com/news/"/>
 <id>https://www.cined.com/news/</id>
-<updated>2026-11-16T12:33:11+00:00</updated>
+<updated>2026-11-17T15:04:36+00:00</updated>
+<entry>
+  <title>Panasonic LUMIX SHX1 Interview – Tsumura-san on Blackmagic RAW, Missing ND, S9 Successor, and Firmware Hacks</title>
+  <link href="https://www.cined.com/panasonic-lumix-shx1-interview-tsumura-san-on-blackmagic-raw-missing-nd-s9-successor-and-firmware-hacks/"/>
+  <id>https://www.cined.com/panasonic-lumix-shx1-interview-tsumura-san-on-blackmagic-raw-missing-nd-s9-successor-and-firmware-hacks/</id>
+  <published>2026-11-17T15:04:36+00:00</published>
+  <updated>2026-11-17T15:04:36+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/SHX1_interview_Feature_1920x1080.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/11/SHX1_interview_Feature_1920x1080.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/SHX1_interview_Feature_1920x1080.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/SHX1_interview_Feature_1920x1080.jpg</webfeeds:featuredImage>
+  <summary>During my visit to Panasonic’s headquarters in Osaka, I had the chance to sit down with Toshiyuki Tsumura-san, the man in charge of Panasonic’s imaging division. We talked about the new Panasonic LUMIX AU-SHX1 box camera, why it records Blackmagic RAW, why there is no internal ND</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/SHX1_interview_Feature_1920x1080.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;During my visit to Panasonic&amp;#8217;s headquarters in Osaka, I had the chance to sit down with Toshiyuki Tsumura-san, the man in charge of Panasonic&amp;#8217;s imaging division. We talked about the new Panasonic LUMIX AU-SHX1 box camera, why it records Blackmagic RAW, why there is no internal ND filter, and whether Panasonic had to compromise to make filmmakers and broadcasters happy. And of course, I could not leave Osaka without asking about a LUMIX S9 successor, the future of Micro Four Thirds, and the new wave of camera firmware hacks.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For complete coverage of the camera announcement, head to our &lt;a href="https://www.cined.com/panasonic-lumix-au-shx1-announced-6k-full-frame-box-camera-olpf-blackmagic-raw-recording-to-ssd-arri-logc3-pre-installed/" target="_blank" rel="noreferrer noopener"&gt;news article&lt;/a&gt;, &lt;a href="https://www.cined.com/panasonic-lumix-shx1-review-and-mini-documentary-one-box-camera-to-rule-them-all/" target="_blank" rel="noreferrer noopener"&gt;review&lt;/a&gt;, and camera &lt;a href="https://www.cined.com/panasonic-lumix-shx1-lab-test-rolling-shutter-dynamic-range-and-exposure-latitude/" target="_blank" rel="noreferrer noopener"&gt;Lab Test&lt;/a&gt;. The camera was also added to our &lt;a href="https://www.cined.com/camera-database/?camera=AU-SHX1" target="_blank" rel="noreferrer noopener"&gt;camera databases&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;NOTE: For the above video, for English translation: please turn SUBTITLES/CAPTIONS &amp;#8220;ON&amp;#8221;.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Toshiyuki Tsumura-san is Managing Executive Officer in charge of AVC Business, and Director of the Imaging Solution Business Division at Panasonic Corporation. In other words, the LUMIX cameras and Panasonic&amp;#8217;s professional video products, from cinema to live production, all report to him. This piece is about the thinking behind the camera, and about a few questions that I know many of you guys have been asking for a while.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The interview was held in Japanese. What you read below is based on the English translation, and I shortened some of the answers so they are easier to read. If you want to hear every word, the full interview is in the video above. So, sit back and make yourself comfortable.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="505" src="https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2-900x505.jpeg" alt="" class="wp-image-447847" srcset="https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2-900x505.jpeg 900w, https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2-300x168.jpeg 300w, https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2-768x431.jpeg 768w, https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2-1536x863.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2-410x230.jpeg 410w, https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/Tsumura-and-Kando-Pansonic-2.jpeg 1674w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Toshiyuki Tsumura-san, head of Panasonic imaging division (left), and Kanda Kaito from product planning (right). Credit: CineD&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;A new kind of multi-purpose camera&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: What are the core advantages of the new camera?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: For us, this is a camera with a new concept. One body covers everything from entry-level video production to full-scale cinema shooting and live streaming. It combines the technology we refined in LUMIX with the technology we refined in our professional AV business. Phase-detection autofocus and image stabilization are packed into an expandable box-style body with a vari-angle monitor, which no camera of ours had before. Add a grip, and you shoot with the freedom of a mirrorless camera, for YouTube content or lightweight cinema.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For cinema, we added Blackmagic RAW recording in addition to ProRes RAW, and for the first time, we worked with ARRI so that ARRI LogC3 comes pre-installed. On a set where ARRI cameras are the A-cameras, our camera can work as the B-camera, and in some cases, it can shoot entire scenes with the ARRI look. We also kept Open-Gate, so the camera is ready for vertical video. For live streaming, it keeps our full-frame LUMIX image quality, and our professional AV engineers added the input and output interfaces that live production needs, plus support for multi-camera setups and remote camera systems. We were also very particular about low latency, both when you pull focus and in live production.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1-900x506.jpeg" alt="" class="wp-image-447663" srcset="https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/Panasonic-HQ-Kadome-shi-Osaka-1.jpeg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Panasonic HQ, Kadoma-shi, Osaka. Credit: CineD&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Two years since the integration&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: How long does it take to develop such a camera, and how do you make sure that you build cameras for the future and not for the past?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: That is a difficult question. We could only build this concept because our professional AV business and our LUMIX business were &lt;a href="https://www.cined.com/panasonic-to-integrate-pro-and-consumer-video-divisions/" target="_blank" rel="noopener"&gt;integrated&lt;/a&gt; two years ago, in 2024. That let us hear directly from professionals in live production and on film sets, not only from consumer creators. We listened to more than 100 creators in total, and that is roughly how long it took to go from concept to product. In the end, we went far enough that the camera can be built into our own KAIROS switcher systems for live production.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;&amp;#8220;We have not compromised at all&amp;#8221;&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: Panasonic has made box cameras before, but this one has to satisfy filmmakers and broadcasters. Did you have to compromise so that both groups are happy?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: We have not compromised at all. We focused on the needs both sides share, and the box made the camera more attractive, not less. The box form gives mobility and expandability at the same time. With in-body image stabilization and a vari-angle monitor, the box plus a grip gets close to the mobility of a mirrorless camera. For professional use, we also designed it for heat dissipation and stability when the camera runs for long periods. From a professional point of view, the box style is the best form factor, and the feedback from more than 100 creators made that possible.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Blackmagic RAW, and will it ever go internal?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: Will internal Blackmagic RAW recording be possible in the future?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: Recording Blackmagic RAW on a camera that is not a Blackmagic camera is a first for the industry, and we are proud that we finished it in close cooperation with Blackmagic. Recording Blackmagic RAW directly to an SSD is also new. Proxy recording, on the other hand, goes to the internal CFexpress Type B card, which should make the editing workflow more efficient. We have received many requests to record Blackmagic RAW internally rather than to an external SSD; we are very aware of that need, and we continue to work on it for future development.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND-900x506.jpeg" alt="" class="wp-image-447646" srcset="https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/Tilta-for-focusing-and-VND.jpeg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Tilta&amp;#8217;s integrated focus and VND solution. Credit: CineD&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Why there is no internal ND filter&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: The camera looks large enough to hold an internal ND filter. Did you consider one, and if yes, why is it not here?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: Whether to include a built-in ND filter was a point we struggled with a lot. We wanted many functions in a compact body, and combining a built-in ND with in-body image stabilization was very difficult, so we had to choose one. When we interviewed our creators, they told us strongly that LUMIX image stabilization is essential on set, so we gave it priority. We also know how important an electronic ND is, so we took a new approach with a third-party partner, Tilta. Their external variable ND, announced at the same time, works from the same controls on the camera body, so you change the ND the way you change shutter speed or iris. With this collaboration, we answer both wishes: the ND and the stabilization.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;A new line, not a VARICAM or EVA successor&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: Looking at the camera name, I see that you carry on the VARICAM and EVA heritage. Should we see this as the first camera in a completely new line?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: Thank you, that is a good question. This product is a new concept and not a simple successor to earlier models such as the VARICAM or the EVA. It takes the thinking and know-how from both earlier series and combines them with the mobility and image quality of the LUMIX series. Please see it as our first step in a new initiative.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What is different from the LUMIX S1II?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: In components and recording capabilities, the new camera is very similar to the &lt;a href="https://www.cined.com/panasonic-lumix-s1ii-camera-released-partially-stacked-sensor-5-9k-60fps-open-gate-internal-prores-raw-and-more/" target="_blank" rel="noopener"&gt;LUMIX S1II&lt;/a&gt;. Can you please highlight the differences?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: On a spec sheet, the recording performance looks similar, but this is not simply that camera in a box. The main difference is the concept: it is a step-up camera for professional and semi-professional creators who want to take on work one level higher, and it is built as a serious cinema camera in image quality, reliability, connectivity, and expandability.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The image sensor is new. The resolution looks the same as the S1II at 24 megapixels, but this time we added an optical low-pass filter, and we tuned the noise reduction for V-Log and ARRI LogC3 to keep very fine detail while suppressing moiré. That know-how combines the best parts of the VARICAM and the LUMIX S1H. Blackmagic RAW was not in the S1II, and the open gate mode is improved. 12G-SDI output, timecode input, and V-mount battery support are what professional sets ask for, and low-latency output for live work and focus pulling also sets it apart. Heat is important too: the S1II had a recording time limit, while this camera has a proper heat-dissipation structure and records without a limit, including at 4K 120p. And for the first time for us, it supports 32-bit float recording from the microphone input, so the body alone gives you audio that does not clip.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout-900x506.jpeg" alt="" class="wp-image-447696" srcset="https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/SHX1-buttons-layout.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Panasonic LUMIX SHX1. Credit: CineD&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Three reasons to choose LUMIX&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: The price of the SHX1 puts it in Sony FX5 territory. Can you highlight three reasons why people should consider LUMIX over the competition?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: The concept is quite different, but I would pick three points. First, flexible workflows: V-Log, ARRI LogC3, ProRes RAW recording, and Blackmagic RAW recording, so creators can choose what fits their environment. Second, despite the compact body, the camera records without a limit at 4K 120p, and it has in-body stabilization, a vari-angle monitor and excellent autofocus, so it is as comfortable as a mirrorless camera and reliable enough for professional sets and run-and-gun work. Third, live production: it supports interfaces and protocols that drop straight into &lt;a href="https://pro-av.panasonic.net/en/products/it_ip_platform/" target="_blank" rel="noreferrer noopener"&gt;KAIROS systems&lt;/a&gt;, plus 12G-SDI and expandable multi-camera and remote operation, so it can be used in real professional live-streaming environments.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;A trigger to step up&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: Is there anything else you would like to say about the new camera?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: Our main purpose was not only high specs. Many creators are limited by their equipment or their shooting environment, and they want to make better work or try a new kind of project. We want to give those people a way to step up. We also want to stay with them after they buy the camera, through services, support, and third-party options, so they succeed in those challenges.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Is Panasonic&amp;#8217;s footprint big enough?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: Panasonic has brought innovative solutions to filmmakers for many years, yet its footprint is not as big as I would love it to be. Why do you think that is, and how do you want more people to use your very capable cameras?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: Thank you for the comment. We do not really look at the whole mirrorless market at a macro level. Seen that way, our share can look low. But as a challenger, we focus on clear customer groups: creators who enjoy both video and stills and make hybrid content, customers who carry a small, light camera every day, and customers like those for this camera, who want to make serious cinema work. Measured by the number of people who connect with the LUMIX concept and keep using their cameras, LUMIX fans have increased year by year. So rather than focusing on macro-level market share, we want to keep creating together with our customers and grow together with them.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;A LUMIX S9 successor with an EVF?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: The LUMIX S9 (and L10) is well received by the community, and you got a lot of feedback from users. Can we expect a successor soon, maybe with a built-in EVF?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: The LUMIX S9 has no viewfinder because we designed it for people stepping up from smartphones, who shoot on the monitor like on a phone. Many people support that approach, and it has been a popular model. Still, many customers tell us they want a viewfinder for serious photo and video work. More than two years have passed since the release; we have heard that voice strongly, and technology has moved on. We are working hard to meet your expectations. That is all I can say today.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD-900x506.jpeg" alt="" class="wp-image-447700" srcset="https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/BRAW-recording-to-an-SSD.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;LUMIX first. BRAW recording to an SSD.Credit: CineD&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What about Micro Four Thirds?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: The LUMIX GH7 came out more than two years ago. Is a new Micro Four Thirds flagship camera in the making?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: The GH7 was developed to be very complete, including ARRI LogC3 support, and many fans still use it. New customers keep buying it today. Micro Four Thirds has a clear appeal that is different from our full-frame L-Mount series: small, light bodies and lenses, and a wide range of lenses that are already available. For video, it also gives you unlimited recording and smaller telephoto lenses. Our position has not changed: this is a very important system for us. For today, I would prefer not to comment on any potential successor models. But offering distinctive products in both Micro Four Thirds and full frame is one of our strengths, so please look forward to it.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;AI and firmware hacks&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;CineD: AI is changing a lot, and many independent programmers are vibe coding &lt;a href="https://www.cined.com/camera-firmware-hacks-are-back-ai-assisted-mods-add-shutter-angle-open-gate-raw-and-film-looks/" target="_blank" rel="noopener"&gt;new camera firmware&lt;/a&gt; that lets people do more with the same hardware. I do not expect Panasonic to support this publicly, but what is your opinion about it, and can Panasonic take advantage of this trend?&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Tsumura-san: AI will be very important for cameras as it evolves. But we think the right way is to build AI in-house, to support our customers&amp;#8217; workflows and improve image quality, and then offer it to creators. We understand customers who hack their cameras and rewrite the firmware themselves, and it is probably difficult to stop that trend. But it is very risky for reliability, safety, and security, so we cannot recommend it. We want our customers to actively share their feedback on what they would like to see improved. It is then our responsibility to respond to those needs and continue evolving the camera through firmware updates. That relationship with our customers is the most important thing for us.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Thank you, Osaka&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;I would like to thank Tsumura-san for his time and for his very open answers, Kanda Kaito-san, and the Panasonic team in Osaka for hosting me. For full camera coverage, please read our LUMIX SHX1 &lt;a href="https://www.cined.com/panasonic-lumix-au-shx1-announced-6k-full-frame-box-camera-olpf-blackmagic-raw-recording-to-ssd-arri-logc3-pre-installed/" target="_blank" rel="noreferrer noopener"&gt;news article&lt;/a&gt;, &lt;a href="https://www.cined.com/panasonic-lumix-shx1-review-and-mini-documentary-one-box-camera-to-rule-them-all/" target="_blank" rel="noreferrer noopener"&gt;review&lt;/a&gt;, and &lt;a href="https://www.cined.com/panasonic-lumix-shx1-lab-test-rolling-shutter-dynamic-range-and-exposure-latitude/"&gt;Lab Test&lt;/a&gt;. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Guys, what do you think about the LUMIX SHX1 concept, and would you trade a built-in ND for in-body stabilization? Please share your thoughts with us in the comment section below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Panasonic LUMIX AU-SHX1 Announced – 6K Full-Frame Box Camera, OLPF, Blackmagic RAW Recording to SSD, ARRI LogC3 Pre-installed</title>
+  <link href="https://www.cined.com/panasonic-lumix-au-shx1-announced-6k-full-frame-box-camera-olpf-blackmagic-raw-recording-to-ssd-arri-logc3-pre-installed/"/>
+  <id>https://www.cined.com/panasonic-lumix-au-shx1-announced-6k-full-frame-box-camera-olpf-blackmagic-raw-recording-to-ssd-arri-logc3-pre-installed/</id>
+  <published>2026-11-17T14:10:42+00:00</published>
+  <updated>2026-11-17T14:10:42+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/SHX1-4.jpeg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/11/SHX1-4.jpeg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/SHX1-4.jpeg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/SHX1-4.jpeg</webfeeds:featuredImage>
+  <summary>Panasonic has announced the LUMIX AU-SHX1, a compact box-style cinema camera that brings its LUMIX and professional AV lines together in one body. The Panasonic LUMIX SHX1 is built around a 6K full-frame 24.1MP partially stacked CMOS sensor with an optical low-pass filter, and Pa</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/SHX1-4.jpeg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Panasonic has announced the LUMIX AU-SHX1, a compact box-style cinema camera that brings its LUMIX and professional AV lines together in one body. The Panasonic LUMIX SHX1 is built around a 6K full-frame 24.1MP partially stacked CMOS sensor with an optical low-pass filter, and Panasonic rates it at up to 15 stops of dynamic range in V-Log. This is the first LUMIX camera to record Blackmagic RAW to an external SSD and to ship with ARRI LogC3 pre-installed. The camera also offers internal ProRes RAW, 12G-SDI, timecode, unlimited 4K 120p recording, phase-detection autofocus, in-body stabilization, and a top-mounted monitor.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For complete coverage of the camera announcement, head to our &lt;a href="https://www.cined.com/panasonic-lumix-shx1-review-and-mini-documentary-one-box-camera-to-rule-them-all/"&gt;review&lt;/a&gt;, our &lt;a href="https://www.cined.com/panasonic-lumix-shx1-interview-tsumura-san-on-blackmagic-raw-the-missing-nd-an-s9-successor-and-firmware-hacks/"&gt;interview&lt;/a&gt; with Panasonic&amp;#8217;s head of the imaging division, Tsumura-san, and our camera &lt;a href="https://www.cined.com/panasonic-lumix-shx1-lab-test-rolling-shutter-dynamic-range-and-exposure-latitude/"&gt;Lab Test&lt;/a&gt;. The camera was also added to our &lt;a href="https://www.cined.com/camera-database/?camera=AU-SHX1" target="_blank" rel="noreferrer noopener"&gt;camera databases&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Panasonic &lt;a href="https://www.cined.com/panasonic-to-integrate-pro-and-consumer-video-divisions/" target="_blank" rel="noopener"&gt;merged its professional AV and consumer imaging businesses&lt;/a&gt; in 2024, and the SHX1 is the first camera that combines both. Panasonic describes it as its entry into the cinema camera market, positioned between the LUMIX hybrid cameras on one side and its PTZ and live production systems on the other. Compact cinema cameras were already a topic when we spoke with Panasonic&amp;#8217;s Toshiyuki Tsumura-san at &lt;a href="https://www.cined.com/panasonic-lumix-interview-s1h-successor-cinema-cameras-mft-commitment-and-more/" target="_blank" rel="noreferrer noopener"&gt;CP+ 2026&lt;/a&gt;, but now, we have conducted a &lt;a href="https://www.cined.com/panasonic-lumix-shx1-interview-tsumura-san-on-blackmagic-raw-the-missing-nd-an-s9-successor-and-firmware-hacks/" target="_blank" rel="noreferrer noopener"&gt;fresh interview&lt;/a&gt; with him, talking about the new camera and what the future might bring to Panasonic. According to Panasonic, the main target group is small crews of five people or fewer, often with one person operating the camera, who want to move on to larger and higher-budget productions. The company also sees the SHX1 as a compact B-camera on bigger sets.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/SHX1-2-900x506.jpeg" alt="" class="wp-image-447606" srcset="https://www.cined.com/content/uploads/2026/11/SHX1-2-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/SHX1-2-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/SHX1-2-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/SHX1-2-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/SHX1-2-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/SHX1-2-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/SHX1-2-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/SHX1-2-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/SHX1-2.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;LUMIX SHX1. Credit: Panasonic&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;A 6K full-frame sensor with an optical low-pass filter&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The SHX1 uses a 6K full-frame partially stacked CMOS sensor with 24.1MP effective for video. Panasonic places high-speed processing circuitry above and below the pixel area, and says this reduces rolling shutter distortion and supports high frame rates and fast autofocus. An optical low-pass filter in front of the sensor should suppress moiré and false color on fine patterns. A new engine with a newly developed image processing pipeline handles the high-bitrate data from the sensor, and according to Panasonic, it also reduces latency on the external video outputs.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Panasonic&amp;#8217;s Dual Native ISO switches between a low ISO and a high ISO circuit in each pixel, with Auto, Low, and High settings. The ISO range is 100 to 51,200, expandable to 50 to 204,800. Dynamic Range Boost combines both circuits per pixel, weighting a saturation-priority signal from the low ISO circuit and a low-noise signal from the high ISO circuit by the amount of light each pixel receives. Panasonic specifies 15 stops of V-Log/V-Gamut recording with Dynamic Range Boost on and more than 14 stops with it off. Keep your eyes out for our independent LUMIX SHX1 camera Lab Test. The company also notes that with Dynamic Range Boost active, ISO settings is restricted, and rolling shutter distortion increases.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For noise processing, Panasonic says the SHX1 keeps fine detail and natural texture rather than removing all noise, a philosophy it carries over from the VARICAM and the LUMIX S1H. For direct delivery, the camera offers LUMIX Photo Styles, including the Cinelike A2, Cinelike D2 and Cinelike V2 profiles.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Blackmagic RAW, ProRes RAW and ARRI LogC3 in one body&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Panasonic sums up the SHX1&amp;#8217;s recording options as &amp;#8220;3 cinema cameras in 1 body.&amp;#8221; The first is Blackmagic RAW, which the camera records directly to an external SSD over USB-C (10Gbps). These are the Blackmagic RAW SSD modes Panasonic lists:&lt;/p&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;6K 3:2 open gate (5952 x 3968) at 24.00p and 23.98p, with a slight crop&lt;/li&gt;
+
+
+
+&lt;li&gt;5.8K 17:9 (5760 x 3040) up to 29.97p&lt;/li&gt;
+
+
+
+&lt;li&gt;5.3K 3:2 (5376 x 3584) at 29.97p and 25.00p&lt;/li&gt;
+
+
+
+&lt;li&gt;4.4K 3:2 (4416 x 2944) up to 48.00p&lt;/li&gt;
+
+
+
+&lt;li&gt;3.8K 3:2 (3840 x 2560) up to 59.94p&lt;/li&gt;
+
+
+
+&lt;li&gt;C4K 17:9 (4096 x 2160) up to 59.94p&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Recording settings include constant bitrate at 3:1, 5:1, 8:1, and 12:1 and constant quality at Q0 and Q5. Panasonic gives an example of the storage savings: 6K 24p Blackmagic RAW at 12:1 runs at 599Mbps and fits about 445 minutes on a 2TB SSD, while 5.8K 29.97p ProRes RAW at 2,799Mbps fits about 95 minutes on the same drive. For monitoring and grading, users can choose between V-Log and Blackmagic Generation 5 Color Science, which should make it easier to mix the SHX1 with Blackmagic cameras on a multi-camera shoot. Over HDMI to a Blackmagic Video Assist, the SHX1 outputs RAW for Blackmagic RAW recording in 6K 3:2 (6000 x 4000) and 5.9K 16:9 up to 29.97p, 5.7K 17:9 up to 59.94p, and C4K up to 119.88p.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;ProRes RAW is the second route. The SHX1 records ProRes RAW HQ and ProRes RAW internally to a CFexpress Type B card in 5.8K 17:9 up to 29.97p and in C4K up to 59.94p. Panasonic&amp;#8217;s overview also lists ProRes RAW recording to an SSD. RAW output over HDMI for ProRes RAW on an external recorder covers 6K 3:2 and 5.9K 16:9 up to 29.97p, 5.7K 17:9 up to 59.94p, and C4K up to 119.88p. The camera also records ProRes, H.264 and H.265 in MOV, and H.264 and H.265 in MP4, with proxy recording available.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The third is ARRI LogC3 with ARRI Wide Gamut 3, which comes pre-installed on a LUMIX camera for the first time. It is available for 10-bit recording in video mode. Panasonic highlights the use of ARRI Looks and productions that combine the SHX1 with ARRI digital cinema cameras, and points out that the ALEXA 35 uses LogC4 instead. V-Log and V-Gamut remain available, with the same gamma and color characteristics as the rest of the LUMIX S and G series.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/SHX1-3-900x506.jpeg" alt="" class="wp-image-447602" srcset="https://www.cined.com/content/uploads/2026/11/SHX1-3-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/SHX1-3-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/SHX1-3-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/SHX1-3-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/SHX1-3-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/SHX1-3-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/SHX1-3-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/SHX1-3-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/SHX1-3.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Panasonic LUMIX SHX1. Credit: Panasonic&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Open gate, high frame rates and vertical anamorphic&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Panasonic says the fast readout of the sensor lets the SHX1 record open gate (3:2) in 6K up to 30p and 5.1K up to 60p in 4:2:0 10-bit, plus Blackmagic RAW 6K 24p. A new 3.8K open gate mode records up to 48p in 4:2:2 10-bit. Panasonic positions open gate as a way to deliver several aspect ratios, such as 16:9 and 9:16, from one take.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Beyond open gate, the camera records 6K 2.4:1, 5.9K 16:9 and 5.8K 17:9 up to 60p in 4:2:0 10-bit. C4K, 4K and Cs4K (2.4:1) are available up to 120p in 4:2:0 10-bit and up to 60p in 4:2:2 10-bit, and Full HD goes up to 240p in 4:2:2 10-bit. Some high frame rate modes crop the image: Panasonic lists approximately 1.17x for C4K at 120p and 100p, 1.24x for 4K at 120p and 100p, and 1.21x for Full HD at 240p.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For vertical content shot with anamorphic lenses, the SHX1 adds Vertiscope, a vertical de-squeeze display with 2.0x, 1.6x and 1.33x factors. The de-squeezed image is also available on the HDMI and SDI outputs, so an external monitor shows the correct vertical frame. Panasonic says the box design is made to work in landscape as well as portrait orientation.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Phase-detection AF and in-body stabilization&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Autofocus is handled by Phase Hybrid AF with 779 points. Panasonic says AI-based eye and face detection keeps focus even when a face is tilted or partially covered, and Tracking AF should stay on the intended subject when several people cross the frame. Real-time Recognition AF covers people, animals, cars, motorcycles, bicycles, airplanes, and trains.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The SHX1 also has a 5-axis in-body image stabilizer, and Dual I.S. 2 combines it with 2-axis optical stabilization in compatible lenses. For walking shots, Active I.S. adapts the correction for pitch, yaw, and roll, and Advanced E.I.S. reduces perspective distortion. Boost I.S. holds a static handheld composition, Cropless Mode reduces distortion at wide angles without changing the angle of view, and stabilization also works with anamorphic lenses, including roll compensation.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Body, monitor and connections&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The SHX1 is an L-Mount camera that measures 110.7 x 112.6 x 120.2mm (4.36 x 4.43 x 4.73in) and weighs about 984g (2.17lb), body only. A metal exterior spreads heat evenly, and a large cooling fan moves it out of the body. According to Panasonic, this allows unlimited recording up to 4K 120p within the guaranteed operating temperature range.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Panasonic calls the monitor the first top-mounted monitor on a LUMIX camera. It tilts up or swings out to the side and stays visible with the top handle attached. The control layout follows LUMIX conventions, with dedicated WB, ISO, and IRIS buttons and an AF ON button. Tally lamps on the front and rear are visible from four directions and can be switched on or off independently.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Power comes from a micro V-mount battery, which can also supply connected accessories. A dedicated USB-C power input accepts a USB PD AC adapter for longer sessions, which requires an adapter and cable rated at 100W (20V/5A). A second USB-C port (10Gbps) connects the SSD, and Panasonic plans to let it charge a smartphone running LUMIX Flow via USB PD with a firmware update in the first half of 2027. Two more terminals are reserved for optional accessories.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For monitoring, the SHX1 has 12G-SDI, which outputs up to 4K 60p over a locking BNC connector, and HDMI. Both outputs work at the same time, for example, to record externally over HDMI while a monitor receives the SDI feed. A TC IN/OUT BNC terminal syncs timecode with a generator or other cameras, and Bluetooth timecode generators are supported as well. On the audio side, the SHX1 is the first LUMIX camera to record 32-bit float audio internally through the 3.5mm microphone input, without an XLR adapter.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/SHX1-900x506.jpeg" alt="" class="wp-image-447610" srcset="https://www.cined.com/content/uploads/2026/11/SHX1-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/SHX1-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/SHX1-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/SHX1-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/SHX1-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/SHX1-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/SHX1-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/SHX1-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/SHX1.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Panasonic LUMIX SHX1. Credit: Panasonic&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Grip, XLR handle and live production unit&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Panasonic has three accessories for the SHX1. The AU-GRP1 control grip has dedicated WB, ISO, and IRIS buttons, a joystick, an Fn button, and a zoom rocker, and attaches to the camera via an ARRI-standard rosette. It controls the camera over a wired connection, so it also works on tripods and shoulder rigs. The zoom rocker is designed for a power zoom lens for the SHX1 that Panasonic is currently developing, and with other LUMIX lenses, it operates the crop zoom.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The AU-XHU1 XLR handle unit adds two XLR inputs with 32-bit float recording and high-resolution audio at 96kHz/24-bit. Combined with the camera&amp;#8217;s 3.5mm microphone input, it enables 4-channel audio. The handle has a cold shoe, threaded mounting points, and a REC button, and the XLR unit and the top handle can be separated.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The AU-LPU1 Live Production Unit is scheduled for the first half of 2027. It adds Genlock IN, a PoE++ LAN terminal for power, camera control, and IP video over a single cable, and support for a common IP control protocol used by Panasonic&amp;#8217;s PTZ camera systems. Panasonic shows the SHX1 with the AU-LPU1 on a remote pan/tilt head, controlled from its studio and PTZ remote panels and the Media Production Suite software, and as a point-of-view camera for esports, indoor sports and music venues. Its system diagram currently shows this setup with the &lt;a href="https://www.cined.com/panasonic-aw-ub50-and-aw-ub10-announced-a-new-generation-of-box-cameras/" target="_blank" rel="noopener"&gt;AW-UB50&lt;/a&gt; box camera.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Panasonic also worked with Tilta. Connected over USB-C, the Tilta Nucleus 2.4G Wireless Control Hub (Panasonic) lets the SHX1 control a Tilta Mirage variable ND with the same interface the camera uses for shutter speed, iris and ISO. With a Tilta controller, focus on L-Mount lenses can be pulled without a lens motor.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;LUMIX Flow 1.8.0 and LUMIX Lab 3.2.0&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Panasonic&amp;#8217;s smartphone apps get SHX1 support on December 22, 2026. &lt;a href="https://www.cined.com/panasonic-lumix-s9-firmware-2-1-now-available-4k60-in-mp4-lite-more-lens-fn-options-and-lumix-flow-support/" target="_blank" rel="noopener"&gt;LUMIX Flow&lt;/a&gt; 1.8.0 adds two functions for the SHX1 only. Smartphone Sync Recording stores a simplified copy of each take on the phone, so clips can be played back and rated without a connection to the camera. Sequential Play plays the takes marked as OK in storyboard order, which gives a quick view of the complete sequence on set without an editing application.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;LUMIX Flow 1.8.0 also introduces Frame Preview, which crops the live view to a selected frame when the phone switches between vertical and horizontal orientation. This is intended for open gate shoots that deliver 16:9 and 9:16 at the same time, and the cropped view also works on mirrored and external monitors. LUMIX Lab 3.2.0 adds SHX1 support, and both apps add support for iOS 27 and Android 17.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Panasonic LUMIX SHX1 costs $4,697.99 / €5,199 for the body only. The AU-SHX1U kit, which adds the AU-GRP1 control grip and the AU-XHU1 XLR handle unit, costs $5,497.99 / €5,999. The AU-XHU1 XLR handle unit costs $597.99, and the AU-GRP1 control grip costs $447. The euro prices include VAT. Panasonic plans to ship the camera from the factory in December 2026, so most customers should receive it in January 2027.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The AU-LPU1 Live Production Unit follows in the first half of 2027, and the power zoom lens is still in development. The LUMIX Flow and LUMIX Lab updates are scheduled for December 22, 2026.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would Blackmagic RAW to an SSD and pre-installed ARRI LogC3 make the LUMIX SHX1 your A-camera on small-crew jobs, or would it work as a B-camera on your bigger sets? And does a box camera with in-body stabilization and phase-detection AF change the way you rig for handheld work? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Nikon ZR Firmware 2.00 Reportedly Coming November 24 – High ISO NR for ProRes N-Log, Full HD Limit for LUT Over HDMI</title>
+  <link href="https://www.cined.com/nikon-zr-firmware-2-00-reportedly-coming-november-24-high-iso-nr-prores-n-log-full-hd-lut-over-hdmi/"/>
+  <id>https://www.cined.com/nikon-zr-firmware-2-00-reportedly-coming-november-24-high-iso-nr-prores-n-log-full-hd-lut-over-hdmi/</id>
+  <published>2026-11-17T10:58:44+00:00</published>
+  <updated>2026-11-17T10:58:44+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-command-dial-iso.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-command-dial-iso.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-command-dial-iso.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-command-dial-iso.jpg</webfeeds:featuredImage>
+  <summary>Nikon has published a dedicated page for firmware version 2.00 for the Nikon ZR, and it adds details that were not in the November 3 press release. The selectable High ISO NR also works in ProRes 422 HQ with N-Log, and a 3D LUT on the HDMI output limits that output to Full HD. Ni</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-command-dial-iso.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Nikon has published a dedicated page for firmware version 2.00 for the Nikon ZR, and it adds details that were not in the November 3 press release. The selectable High ISO NR also works in ProRes 422 HQ with N-Log, and a 3D LUT on the HDMI output limits that output to Full HD. Nikon still marks the download as coming soon, but a release on November 24 has been reported. Nikon has not confirmed that date.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We covered the full feature list when Nikon announced &lt;a href="https://www.cined.com/nikon-zr-firmware-2-00-detailed-log3g10-in-h-265-selectable-high-iso-nr-and-3d-lut-over-hdmi/" target="_blank" rel="noopener"&gt;firmware 2.00 for the Nikon ZR&lt;/a&gt;: Log3G10 and REDWideGamutRGB for H.265 recording, a selectable High ISO NR level, more assignable controls, focus peaking in R3D NE with a LUT applied, 3D LUT output over HDMI and reduced black-level flicker in dark scenes. The new &lt;a href="https://www.nikon.co.uk/en_GB/help-and-support/firmware/zr-firmware-2.00" target="_blank" rel="noopener"&gt;ZR firmware 2.00 page&lt;/a&gt; from Nikon Europe and a short Nikon Europe video now fill in some of the gaps. If you missed it, our &lt;a href="https://www.cined.com/nikon-zr-review-and-mini-doc-with-dzofilm-vespid-2-lenses-born-cinematic-or-maybe-not/" target="_blank" rel="noopener"&gt;Nikon ZR review&lt;/a&gt; shows how the camera handles on set.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img fetchpriority="high" decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1.jpg" alt="Nikon ZR on set with an external monitor" class="wp-image-447796" srcset="https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1.jpg 1920w, https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/nikon-zr-firmware-2-00-external-monitor-lut-featured-16x9-1-1600x900.jpg 1600w" sizes="(max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Nikon ZR on set with an external monitor. Image credit: Nikon&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;High ISO NR also for ProRes 422 HQ&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In the press release, Nikon described four [High ISO NR] levels for H.265 recording with Log3G10 or N-Log. The firmware page names the four levels (Off, Low, Normal and High) and lists three recording combinations: H.265 with Log3G10, H.265 with N-Log, and ProRes 422 HQ with N-Log. R3D NE is not on the list.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The custom controls are also more specific now. ISO sensitivity, exposure compensation, white balance and color temperature can be assigned to the command dials, and an Fn button can switch the monitor view between the selected LUT and the flat log image.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Limits of the LUT on the HDMI output&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A footnote on the page lists the limits of the new 3D LUT on the HDMI output. With a LUT applied, the HDMI output is limited to Full HD. At 60p or 50p, the output frame rate stays at 60p or 50p, but Nikon says the image refresh rate is halved. Depending on the video settings, the HDMI connection can also drop out; according to Nikon, this does not happen when the LUT is applied to the rear monitor.&lt;/p&gt;
+
+
+&lt;!-- wp:embed/video --&gt;
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe title="Nikon ZR | What&amp;amp;apos;s New: Firmware Update v2.00" width="500" height="281" src="https://www.youtube-nocookie.com/embed/y1ODaZV_CTY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;!-- /wp:embed/video --&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;For operators who need a full-resolution feed, a clean log signal over HDMI with the LUT loaded on the external monitor, or the &lt;a href="https://www.cined.com/phantom-luts-for-nikon-zr-released-arri-alexa-emulation-for-red-log3g10/" target="_blank" rel="noopener"&gt;Log3G10 LUTs&lt;/a&gt; of their choice, stays an option. Nikon also notes that [View Assist] can be switched during recording, but the 3D LUT itself cannot be turned on or off while the camera records.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front.jpg" alt="Nikon ZR cinema camera, front view" class="wp-image-447804" srcset="https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front.jpg 1920w, https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/nikon-zr-cinema-camera-front-1600x900.jpg 1600w" sizes="(max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Nikon ZR. Image credit: Nikon&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to reports, firmware 2.00 will be available for download from November 24, Japan time (the evening of November 23 in the US). Nikon has not confirmed this date. The firmware page shows &amp;#8220;Free download coming soon&amp;#8221;, and the &lt;a href="https://downloadcenter.nikonimglib.com/en/products/659/ZR.html" target="_blank" rel="noopener"&gt;Nikon Download Center&lt;/a&gt; lists version 1.11 from March 17, 2026, as the current ZR firmware. In its &lt;a href="https://www.nikonusa.com/press-room/zr-firmware-2-0" target="_blank" rel="noopener"&gt;press release&lt;/a&gt;, Nikon says firmware 2.00 is scheduled to be available before the end of the year, as a free update. The Nikon ZR body is available for &lt;a href="https://www.bhphotovideo.com/c/product/1919505-REG/nikon_zr_cinema_camera.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$2,196.95 at B&amp;amp;H&lt;/a&gt; and for &lt;a href="https://cvp.com/product/nikon-zr?aff_id=101" target="_blank" rel="noopener"&gt;€1,998.39&lt;/a&gt; / &lt;a href="https://cvp.com/product/nikon-zr?aff_id=101" target="_blank" rel="noopener"&gt;£1,999 at CVP&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Does the Full HD limit change how you plan to monitor with the Nikon ZR, or will you keep the LUT on your external monitor? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Camerimage 2026 Winners – Golden Frog for Łukasz Żal and Fatherland, Shot in Black and White on ARRI ALEXA 35</title>
+  <link href="https://www.cined.com/camerimage-2026-winners-golden-frog-for-lukasz-zal-and-fatherland-shot-in-black-and-white-on-arri-alexa-35/"/>
+  <id>https://www.cined.com/camerimage-2026-winners-golden-frog-for-lukasz-zal-and-fatherland-shot-in-black-and-white-on-arri-alexa-35/</id>
+  <published>2026-11-17T10:04:04+00:00</published>
+  <updated>2026-11-17T10:04:04+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/camerimage-2026-torun-gala-featured-16x9-1.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/11/camerimage-2026-torun-gala-featured-16x9-1.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/camerimage-2026-torun-gala-featured-16x9-1.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/camerimage-2026-torun-gala-featured-16x9-1.jpg</webfeeds:featuredImage>
+  <summary>Łukasz Żal has won the Golden Frog at Camerimage 2026 for Paweł Pawlikowski’s Fatherland, a black-and-white film shot on the ARRI ALEXA 35. The Silver Frog went to Jasper J. Spanning for Woman Unknown, and the Bronze Frog to Mikhail Krichman for Minotaur. Two of the three top fil</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/camerimage-2026-torun-gala-featured-16x9-1.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Łukasz Żal has won the Golden Frog at Camerimage 2026 for Paweł Pawlikowski&amp;#8217;s Fatherland, a black-and-white film shot on the ARRI ALEXA 35. The Silver Frog went to Jasper J. Spanning for Woman Unknown, and the Bronze Frog to Mikhail Krichman for Minotaur. Two of the three top films were shot on ARRI cameras, and one on the Sony VENICE 2.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The festival announced the winners at its Closing Gala in Toruń, Poland, on November 14, at the end of the 34th edition, which now runs under the name ToruńCAMERIMAGE. The &lt;a href="https://camerimage.pl/en/news/toruncamerimage-2026-awards" target="_blank" rel="noopener"&gt;official list of laureates&lt;/a&gt; covers all competitions, from features and documentaries to music videos and student films. A jury led by film editor Joe Walker chose the main competition winners. Before the gala, we looked at &lt;a href="https://www.cined.com/camerimage-2026-the-cameras-and-lenses-behind-the-15-golden-frog-contenders/" target="_blank" rel="noopener"&gt;the cameras and lenses behind all 15 Golden Frog contenders&lt;/a&gt;, and all three winners come from that list.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Golden Frog: Fatherland on the ALEXA 35&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Żal shot Fatherland on the ARRI ALEXA 35, according to &lt;a href="https://www.arri.com/news-en/arri-cameras-dominate-at-cannes-2026" target="_blank" rel="noopener"&gt;ARRI’s summary of the Cannes 2026 selection&lt;/a&gt;. The film is in black and white, and Pawlikowski has said that most scenes were lit with a single source. The lenses are not public. Żal and Pawlikowski worked together before on Ida and Cold War, which are also black-and-white films.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1.jpg" alt="Black-and-white frame of a woman and an older man seated at a table in Fatherland" class="wp-image-447786" srcset="https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1.jpg 1920w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-fatherland-lukasz-zal-golden-frog-1-1600x900.jpg 1600w" sizes="(max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Fatherland, shot in black and white by Łukasz Żal on the ARRI ALEXA 35. Image credit: MUBI (via ToruńCAMERIMAGE)&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Silver and Bronze Frogs&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Jasper J. Spanning shot May el-Toukhy&amp;#8217;s Woman Unknown on the ARRI ALEXA Mini LF. IndieWire&amp;#8217;s Venice camera survey lists vintage Olympus Zuiko lenses and Petzval lenses rehoused by TLS for the production.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img loading="lazy" decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1.jpg" alt="A woman in a red dress seen from behind, reflected in a mirror, in Woman Unknown" class="wp-image-447790" srcset="https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1.jpg 1920w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-woman-unknown-jasper-j-spanning-silver-frog-1-1600x900.jpg 1600w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Woman Unknown, shot by Jasper J. Spanning on the ARRI ALEXA Mini LF. Image credit: Nordisk Film (via ToruńCAMERIMAGE)&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Mikhail Krichman shot Andrey Zvyagintsev&amp;#8217;s Minotaur on the Sony VENICE 2 in 8K X-OCN XT with Cooke anamorphic lenses. The production also tested the ALEXA 35 and selected the VENICE 2 for its flexibility in dark scenes, as DIT Veronica Tiron explains in &lt;a href="https://www.a-dit.com/post/interview-adit-veronica-tiron-dit-et-%C3%A9talonneuse-sur-minotaure" target="_blank" rel="noopener"&gt;an interview with the French DIT association ADIT&lt;/a&gt;. Minotaur is the only production in the top three that did not use an ARRI camera.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img loading="lazy" decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman.jpg" alt="Three people at a dinner table at night in Minotaur" class="wp-image-447055" srcset="https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman.jpg 1920w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/camerimage-2026-minotaur-mikhail-krichman-1600x900.jpg 1600w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Minotaur, shot by Mikhail Krichman on the Sony VENICE 2. Image credit: MK Prods / CG Cinéma (via ToruńCAMERIMAGE)&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Winners of the other competitions&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The festival gave Golden Frogs and Tadpoles in these categories:&lt;/p&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;Cinematographers&amp;#8217; Debuts: Eira Wyn Jones for Effi o Blaenau, directed by Marc Evans&lt;/li&gt;
+
+&lt;li&gt;Directors&amp;#8217; Debuts: Kaifeng Zhong for Atlantic Rhapsody&lt;/li&gt;
+
+&lt;li&gt;Documentary Features: Eva Kraljević for To Hold a Mountain, directed by Biljana Tutorov and Petar Glomazić&lt;/li&gt;
+
+&lt;li&gt;Documentary Shorts: Maxim Arbugaev and Vladimir Egorov for Chuuraa, directed by Evgenia Arbugaev&lt;/li&gt;
+
+&lt;li&gt;Music Videos: cinematographer Jeff Bierman and director (LA)HORDE for “What You Want” by Angèle ft. Justice; special mention for director Romain Gavras for “Storm” by GENER8ION&lt;/li&gt;
+
+&lt;li&gt;TV Series: Maciej Sobieraj for Silent Night, directed by Jan Holoubek&lt;/li&gt;
+
+&lt;li&gt;Polish Feature Films: Alan Ruczyński for A Free Woman, directed by Eliza Godlewska and Alan Ruczyński&lt;/li&gt;
+
+&lt;li&gt;Student Etudes (Laszlo Kovacs Student Award): Golden Tadpole to Francesca Avanzini for Revolver, Silver Tadpole to Paul Ader for Nika&amp;#8217;s Room, Bronze Tadpole to Enrico Barbaro Jr. for Until We Bury Them!&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;During the festival week, Janusz Kamiński received the THR Visionary in Cinematography award, Darren Aronofsky the award for director, Joe Walker the award for film editor, and Hype Williams the award for achievements in music video. Earlier in the week, Thomas Riedel received the European Film Industry Preservation Award, &lt;a href="https://www.cined.com/thomas-riedel-honored-at-camerimage-2026-for-preserving-european-film-technology-with-arri-acquisition/" target="_blank" rel="noopener"&gt;as we reported&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;FilmLight Colour Awards 2026&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The sixth FilmLight Colour Awards were presented at the festival on November 8. The awards are for colorists, and they accept work graded on any platform. Greg Fisher of Company 3 won the Theatrical Feature category for Bugonia, his second win in this category after Poor Things. Aidan Farrell of The Farm Post Production won TV Series / Episodic for Lord of the Flies, and Andu Radu of Abator won Spotlight &amp;#038; Documentary for The President&amp;#8217;s Cake.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In the Commercial category, Nadia Khairat Gómez won for The North Face&amp;#8217;s “Defy Easy.” Imri Agmon of S EC Studio won Emerging Talent for KidSuper&amp;#8217;s fashion film “The Boy Who Jumped the Moon.” Two Golden Frog contenders were also on the Theatrical Feature shortlist: Growth of the Soil, graded by Didrik Bråthen (TMLS), and Project Hail Mary, graded by David Cole (FotoKem).&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Did the jury choose the right film for the Golden Frog, and which of the winning films do you want to see first? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>SmallRig Magnetic Phone Support Mounts the iPhone Duo on a Camera – MagSafe, Dual Rotating Shafts, 80g Aluminum Build</title>
+  <link href="https://www.cined.com/smallrig-magnetic-phone-support-mounts-the-iphone-duo-on-a-camera-magsafe-dual-rotating-shafts-80g-aluminum-build/"/>
+  <id>https://www.cined.com/smallrig-magnetic-phone-support-mounts-the-iphone-duo-on-a-camera-magsafe-dual-rotating-shafts-80g-aluminum-build/</id>
+  <published>2026-11-16T14:40:16+00:00</published>
+  <updated>2026-11-16T14:40:16+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-sony-fx5-featured-16x9-1.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-sony-fx5-featured-16x9-1.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-sony-fx5-featured-16x9-1.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-sony-fx5-featured-16x9-1.jpg</webfeeds:featuredImage>
+  <summary>SmallRig wants you to put Apple’s foldable iPhone Duo on top of your camera and use its 7.6in inner screen as an on-camera monitor, held by nothing more than a magnet. The tool for the job is the company’s existing Support with Cold Shoe Mount, and the idea is more interesting th</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-sony-fx5-featured-16x9-1.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;SmallRig wants you to put Apple&amp;#8217;s foldable iPhone Duo on top of your camera and use its 7.6in inner screen as an on-camera monitor, held by nothing more than a magnet. The tool for the job is the company&amp;#8217;s existing Support with Cold Shoe Mount, and the idea is more interesting than its small price suggests, as long as you take the warning that comes with it seriously.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SmallRig showed the setup in a short &lt;a href="https://www.instagram.com/smallrig.global/reel/DfrsGzPPaYa/" target="_blank" rel="noopener"&gt;clip on its Instagram channel&lt;/a&gt;: an unfolded iPhone Duo, attached magnetically to a small arm in the camera&amp;#8217;s cold shoe, above a cine lens. The SmallRig iPhone Duo mount in that clip is not a new product, though. The &lt;a href="https://www.smallrig.com/Support-with-Cold-Shoe-Mount-for-Phones-5156.html" target="_blank" rel="noopener"&gt;Support with Cold Shoe Mount&lt;/a&gt; has been in SmallRig&amp;#8217;s catalog for a while as a MagSafe phone holder for camera-top monitoring, and it now gets a second job with the largest screen Apple has ever put in an iPhone. I have not had one in my hands yet, so this is a look at the concept and the specs, not a hands-on.&lt;/p&gt;
+
+
+
+&lt;center&gt;&lt;blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DfrsGzPPaYa/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:16px;"&gt; &lt;a href="https://www.instagram.com/reel/DfrsGzPPaYa/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"&gt; &lt;div style=" display: flex; flex-direction: row; align-items: center;"&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 19% 0;"&gt;&lt;/div&gt; &lt;div style="display:block; height:50px; margin:0 auto 12px; width:50px;"&gt;&lt;svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"&gt;&lt;g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;&lt;g transform="translate(-511.000000, -20.000000)" fill="#000000"&gt;&lt;g&gt;&lt;path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style="padding-top: 8px;"&gt; &lt;div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"&gt;View this post on Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 12.5% 0;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"&gt;&lt;div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: 8px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: auto;"&gt; &lt;div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/reel/DfrsGzPPaYa/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;A post shared by SmallRig (@smallrig.global)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;/center&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;We covered the iPhone Duo when &lt;a href="https://www.cined.com/apple-iphone-18-pro-and-18-pro-max-announced-variable-aperture-main-camera-new-sensor-pro-controls-plus-the-foldable-iphone-duo/" target="_blank" rel="noopener"&gt;Apple announced it next to the iPhone 18 Pro&lt;/a&gt;, and SmallRig has been quick with accessories for Apple&amp;#8217;s new phones, from the &lt;a href="https://www.cined.com/smallrig-iphone-18-cinema-kit-introduced-hawklock-cage-67mm-screw-on-filters-190-all-in-one-kit/" target="_blank" rel="noopener"&gt;iPhone 18 Cinema Kit&lt;/a&gt; with its HawkLock cage to cases for the Duo itself. The Duo is not a pro video phone: it records HEVC and H.264 only, without ProRes or Apple Log 2. Its inner display is a different story, and that is exactly the part SmallRig is going after.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Why the Duo&amp;#8217;s screen makes sense on a camera&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to &lt;a href="https://www.apple.com/iphone-duo/specs/" target="_blank" rel="noopener"&gt;Apple&lt;/a&gt;, the inner panel is a 7.6in OLED with 1878 x 2670 pixels at 430ppi, a nano-texture finish, ProMotion up to 120Hz, P3 wide color, 1,000 nits typical brightness and 3,000 nits peak brightness outdoors. The panel is close to square (about 1.4:1), so a 16:9 image does not fill it. By my own rough calculation from Apple&amp;#8217;s figures, a 16:9 frame across the full width of the unfolded screen would be about 157mm / 6.2in wide, roughly 7.1in on the diagonal, with around 2670 x 1500 pixels.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;That is the image size of a typical 7in on-camera monitor, at a much higher pixel density, with space left above or below the picture for app controls. My feeling is that the matte nano-texture finish could also help outdoors, where glossy phone screens tend to lose against the sun, but that is a guess until someone tries it on a sunny set. What the Duo will not give you are the tools a dedicated monitor has built in, such as SDI or HDMI inputs, LUT handling or false color, unless the app you use for monitoring provides them.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img fetchpriority="high" decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring.jpg" alt="Attaching the iPhone Duo to the SmallRig mount on a Sony FX5, and the Duo in use as a monitor" class="wp-image-447544" srcset="https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring.jpg 1920w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-iphone-duo-attaching-and-monitoring-1600x900.jpg 1600w" sizes="(max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Attaching the iPhone Duo to the mount, and the Duo as a monitor on a Sony FX5. Image credit: SmallRig&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;How the mount works&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Support with Cold Shoe Mount is an aluminum arm with a round magnetic plate at the top and a cold shoe foot at the bottom. SmallRig lists dual rotating shafts for multi-angle adjustment, so the phone can be tilted toward the operator, and the MagSafe connection lets you turn the phone from landscape to portrait without tools. According to the B&amp;amp;H listing, the support has seven 1/4&amp;#8243;-20 threaded holes in total, and the magnetic plate itself carries two cold shoe mounts plus three of those holes with locating pins. SmallRig specifically mentions its power bank holder (item 2336) as an accessory to attach there, which makes sense with a phone that runs a monitoring app at high brightness. The cold shoe foot also has a 1/4&amp;#8243;-20 thread underneath, so the support can go on a tripod or a stabilizer instead.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;According to SmallRig&amp;#8217;s manual, the support measures 127.4 x 27.6 x 59.0mm / 5.0 x 1.0 x 2.3in and weighs 80g / 3.0oz. It is made of aluminum alloy, silicone and stainless steel, with a silicone ring around the magnetic plate, and an Allen wrench comes in the box.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1.jpg" alt="SmallRig Support with Cold Shoe Mount (5156) with its round magnetic plate and cold shoe base" class="wp-image-447529" srcset="https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1.jpg 1920w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/smallrig-support-cold-shoe-mount-5156-featured-16x9-1-1600x900.jpg 1600w" sizes="(max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The SmallRig Support with Cold Shoe Mount (5156). Image credit: SmallRig&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;The magnet is the limit&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;SmallRig is open about the trade-off. The company warns that this is a magnetic attachment and that it should not be used during vigorous or high-impact movement. The iPhone Duo weighs 254g / 8.96oz and is 164.6mm / 6.48in wide when unfolded, so a lot of phone sits on a single magnetic contact point, with a tall lever above the camera.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;On a tripod, a slider or during calm handheld work, that is probably fine. On a gimbal chasing a subject, on a car mount or in run-and-gun documentary work, I would not trust a phone that starts at $1,999 / €2,299 to a magnet alone. (SmallRig, if you are reading this: a version with a clamp or a locking plate for the Duo would let a lot of people sleep better.) Keep in mind also that the mount only holds the phone. Getting the camera image onto the Duo is a separate job, usually done with a wireless video transmitter and its companion app or with the camera maker&amp;#8217;s own remote app.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The SmallRig Support with Cold Shoe Mount (item 5156) is available now for &lt;a href="https://www.bhphotovideo.com/c/product/1887357-REG/smallrig_5156_support_with_cold_shoe.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$19.99 at B&amp;amp;H&lt;/a&gt; and for the same price in the SmallRig store. CVP does not list it at the time of writing. For more information, please visit the &lt;a href="https://www.smallrig.com/Support-with-Cold-Shoe-Mount-for-Phones-5156.html" target="_blank" rel="noopener"&gt;SmallRig website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would you put an iPhone Duo on your camera as a monitor, or is a magnet too much of a risk for a phone at that price? Let me know what you think in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>New York Closes In on California as Top US Production State – California Answers With $1 Billion Tax Credit Plan</title>
   <link href="https://www.cined.com/new-york-closes-in-on-california-as-top-us-production-state-california-answers-with-1-billion-tax-credit-plan/"/>
@@ -1065,613 +1736,5 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you grade in Premiere, and does a metered AI Assistant change how you plan to use it? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Creator Royalties Hit Record €15.5 Billion, Audiovisual Passes €750 Million – CISAC Global Collections Report 2026</title>
-  <link href="https://www.cined.com/creator-royalties-hit-record-e15-5-billion-audiovisual-passes-e750-million-cisac-global-collections-report-2026/"/>
-  <id>https://www.cined.com/creator-royalties-hit-record-e15-5-billion-audiovisual-passes-e750-million-cisac-global-collections-report-2026/</id>
-  <published>2026-11-11T08:45:04+00:00</published>
-  <updated>2026-11-11T08:45:04+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-cover-art-featured-16x9-1.jpg"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-cover-art-featured-16x9-1.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-cover-art-featured-16x9-1.jpg"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-cover-art-featured-16x9-1.jpg</webfeeds:featuredImage>
-  <summary>CISAC’s Global Collections Report 2026 is out, and the headline is a record: creators worldwide collected €15.5 billion in royalties in 2025. For filmmakers, the more interesting number is further down in the report. Collections for screenwriters and directors passed €750 million</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-cover-art-featured-16x9-1.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;CISAC&amp;#8217;s Global Collections Report 2026 is out, and the headline is a record: creators worldwide collected €15.5 billion in royalties in 2025. For filmmakers, the more interesting number is further down in the report. Collections for screenwriters and directors passed €750 million for the first time, and their income from streaming grew by almost a third. I went through the report to see what it means for people who make films and series, and how much of it is really about AI.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;CISAC, the International Confederation of Societies of Authors and Composers, is the umbrella organization for 228 authors&amp;#8217; societies in 111 countries and territories. These societies are collective management organizations: they license the use of creative works and pay the royalties to the authors. One example that many of our readers in Europe know is &lt;a href="https://www.sacd.fr/en" target="_blank" rel="noopener"&gt;SACD&lt;/a&gt;, which represents screenwriters and directors in France. The &lt;a href="https://www.cisac.org/global-collections-report-2026" target="_blank" rel="noopener"&gt;2026 report&lt;/a&gt;, which CISAC &lt;a href="https://www.cisac.org/Newsroom/news-releases/global-creator-royalties-reach-record-eur-155bn" target="_blank" rel="noopener"&gt;published on November 4&lt;/a&gt; in its 100th year, covers the 2025 collections for music, audiovisual, visual arts, literature and drama.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The 11.3% headline growth needs a footnote, and CISAC gives it in the report. For the first time, the total includes The Mechanical Licensing Collective (The MLC), the US organization that collects mechanical royalties for songwriters from streaming and download services. The MLC accounts for approximately 52% of the annual increase. Without it, global collections grew by 5.3%, after 6.4% in 2024. That is still growth, but it is a slower pace than the record number suggests.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart-900x506.png" alt="" class="wp-image-446943" srcset="https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart-900x506.png 900w, https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart-300x169.png 300w, https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart-768x432.png 768w, https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart-1536x864.png 1536w, https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart-340x190.png 340w, https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart-460x259.png 460w, https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart-409x230.png 409w, https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart-1600x900.png 1600w, https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-royalty-sources-2016-2025-chart.png 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Digital passed TV &amp;amp; Radio in 2022, and Live &amp;amp; Background followed in 2025. Image credit: CineD (data: CISAC Global Collections Report 2026)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;TV and radio drop to third place&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Digital collections rose by 27.9% to €6.57 billion, which is 42.4% of all royalties collected worldwide. In 2016, digital was only €1 billion. Live &amp;amp; Background, the category for concerts and festivals plus music played in shops, restaurants, hotels and gyms, grew to €3.87 billion. With that, it overtook TV &amp;amp; Radio, which fell by 2.6% to €3.82 billion. As recently as 2021, TV &amp;amp; Radio was the largest income source for creators.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The report gives context from Nielsen: in May 2026, streaming accounted for 48.6% of all TV viewing in the US, and YouTube alone for a record 13.8%. We wrote earlier this year that &lt;a href="https://www.cined.com/youtube-is-now-the-worlds-largest-media-company-and-soon-the-home-of-the-oscars/" target="_blank" rel="noopener"&gt;YouTube is now the world&amp;#8217;s largest media company&lt;/a&gt;. Anyone who has looked at broadcast commissioning budgets lately knows the direction. Still, it is something different to see linear TV in third place in a global royalties table.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Audiovisual collections pass €750 million&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Collections for the audiovisual repertoire, which means the authors of films and series, rose by 8.0% to €762 million. This is the fourth increase in a row, and the total is 42.3% above its 2016 level. Europe still dominates with 86.2% of the global total. France alone collected €273 million, more than a third of the world total.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Here too, part of the growth comes from new members. The Writers Guild of Japan and the Korea Television and Radio Writers Association reported to CISAC for the first time and added €64 million. My own calculation from the report&amp;#8217;s figures: without those two new members, audiovisual collections would have been about 1% lower than in 2024, not 8% higher. CISAC does not give a like-for-like number for audiovisual, so please read this as my estimate. It does show that, in the established markets, collections for screenwriters and directors did not grow in 2025.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;TV &amp;amp; Radio is still by far the largest source for audiovisual authors, with €462 million, or 60.7% of the total (up 0.5%). In France, TV &amp;amp; Radio collections fell by 9.7%. According to the report, this was because 2024 had unusually high payments and because a joint licensing agreement with TV distribution platforms was in renegotiation.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart-900x506.png" alt="" class="wp-image-446947" srcset="https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart-900x506.png 900w, https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart-768x432.png 768w, https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart-300x169.png 300w, https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart-1536x864.png 1536w, https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart-340x190.png 340w, https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart-460x259.png 460w, https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart-409x230.png 409w, https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart-1600x900.png 1600w, https://www.cined.com/content/uploads/2026/11/cisac-audiovisual-royalties-by-use-2025-chart.png 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Broadcast still pays most of the money to screenwriters and directors, but digital grows fastest. Image credit: CineD (data: CISAC Global Collections Report 2026)&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What streaming pays screenwriters and directors&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Audiovisual collections from digital use grew for the seventh year in a row, by 32.0% to €142 million. The largest single increase came from Japan, with €30.2 million of new revenue. France accounted for 44.9% of digital audiovisual collections, as SACD continued to sign and renegotiate contracts with distributors. These include retroactive deals for HBO Max for the period 2024 to 2027, and for Paramount+ from 2022. In Uruguay, the society AGADU received its first payment from Netflix, which is also the first time that collections were made for screenwriters and directors in that country.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Not every negotiation ends in an agreement. SACD started legal action against TikTok in November 2025. According to the society, negotiations had not produced acceptable terms, and TikTok had not removed works at SACD&amp;#8217;s request.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;To put €142 million in context: Futuresource estimates that consumers spent around $142 billion on subscription video services in 2025. This is not a like-for-like comparison, because the societies collect only certain rights, in certain countries. But in my opinion, the gap between those two numbers explains why authors&amp;#8217; societies are so focused on streaming deals right now. (I hope the streamers&amp;#8217; licensing departments read page 41 of this report.)&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel-900x506.jpg" alt="" class="wp-image-446951" srcset="https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/cisac-cannes-film-festival-2026-audiovisual-creators-panel.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Audiovisual creators and CISAC at the Cannes Film Festival 2026: Gadi Oron, Patrick Raude, Daniel Deorador, Bolanle Austen-Peters, Catalina Hernández and Abhishek Jain. Image credit: Joseph Caddy / CISAC&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Cinema recovers, but not to 2016&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Cinema collections across all repertoires rose by 5.3% in 2025, to their highest level since 2019. They are still 10.2% below 2016, though. CISAC quotes Gower Street Analytics, which puts the global box office for 2025 at $33.6 billion, up 12%, with another increase forecast for 2026.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Futuresource notes in the report that original productions, familiar IP and theatrical releases remain the strongest draws for streamers. It names Netflix and Apple TV+ among the services that give selected films a cinema run before they go to streaming. With the &lt;a href="https://www.cined.com/paramount-and-warner-bros-merger-closes-as-skydance-layoffs-signaled-30-theatrical-releases-a-year-promised/" target="_blank" rel="noopener"&gt;Paramount and Warner Bros. merger&lt;/a&gt; promising 30 theatrical releases per year, it will be interesting to see whether cinema collections return to the 2016 level in the next report.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Music in films and series&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For composers who write for film and TV, one detail in the report is relevant. In June 2026, CISAC launched AVR+, a machine-readable format for cue sheets based on the Global Cue Sheet Standard 2.0. Cue sheets list the music used in a film or TV program, and when that data is incomplete, societies cannot always identify the works and pay the royalties. AVR+ is meant to automate this and link the music use data more directly to payments. It also identifies the sound recordings, so performers and labels can benefit too.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The report uses Netflix&amp;#8217;s &lt;a href="https://www.cined.com/kpop-demon-hunters-the-oscar-nominated-cultural-phenomenon/" target="_blank" rel="noopener"&gt;KPop Demon Hunters&lt;/a&gt; as its example: the soundtrack song &amp;#8220;Golden&amp;#8221; generated 2.43 billion on-demand audio streams worldwide in 2025.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel-900x506.jpg" alt="" class="wp-image-446955" srcset="https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/cisac-gedar-rio2c-2026-screenwriters-panel.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Screenwriters discuss the value of audiovisual creation at the CISAC and GEDAR panel at Rio2C 2026. Image credit: JPGasparianViera / CISAC&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;The subscription boom slows down&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The section from Futuresource Consulting is, in my opinion, the most useful part of the report for anyone in production. Futuresource expects global spending on subscription video-on-demand to grow from around $142 billion in 2025 to $189 billion in 2030, and paid subscriptions from 2.2 billion to 2.6 billion. But annual growth falls from 14% in 2025 to low single digits by the end of the decade. In North America, 85% of households already subscribe to at least one service.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Platforms now earn more from each subscriber instead of finding new ones: video revenue per user in the 21 markets that Futuresource tracks was 16% higher in 2025 than in 2022. Between 2025 and 2026, at least one global streaming service raised the price of its ad-supported tier in 17 markets. Dave Watkins, Principal Analyst at Futuresource, puts it like this: &amp;#8220;The next phase of growth will be won not by acquiring new audiences, but by deepening the value of the ones platforms already have.&amp;#8221;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The report also says that bundles with telecom companies and pay-TV operators usually give up some revenue per user for scale and lower churn. When royalties depend on platform revenue, that is not good news for authors. That is my reading, not a claim from the report, but I am almost certain that the next licensing negotiations will be about exactly these bundles.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;AI is in every foreword&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;All three forewords are about AI. CISAC President and ABBA co-founder Björn Ulvaeus writes: &amp;#8220;Human creativity is not the enemy of artificial intelligence. It is the reason artificial intelligence exists.&amp;#8221; Director General Gadi Oron adds in the press release: &amp;#8220;But as we enter the age of AI, past growth cannot be taken for granted. Our priority must be to ensure that technology strengthens, rather than erodes, creators&amp;#8217; livelihoods.&amp;#8221; In June, CISAC&amp;#8217;s General Assembly in Paris adopted the Paris Commitment, which asks governments, technology companies and cultural industries to keep human creativity recognized, protected and fairly paid.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The report has one hard number on AI content, and it comes from music. Deezer reported that fully AI-generated tracks were 34% of the new tracks delivered to its service each day in November 2025, and more than half on peak days in June 2026. CISAC points out that these are upload numbers, not listening or royalty figures. According to Oron, the first licenses between authors&amp;#8217; societies and AI developers have started to appear.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;What the report does not have is any figure for AI licensing income, and Futuresource writes that the scale and direction of AI&amp;#8217;s impact on collections &amp;#8220;remain difficult to assess.&amp;#8221; For filmmakers, the debate is already concrete, from the &lt;a href="https://www.cined.com/viral-ai-fight-between-tom-cruise-and-brad-pitt-triggers-hollywood-wide-backlash-against-bytedances-seedance-2-0/" target="_blank" rel="noopener"&gt;backlash against Seedance 2.0&lt;/a&gt; to &lt;a href="https://www.cined.com/a24-defends-its-75m-google-deepmind-ai-deal-after-fan-backlash/" target="_blank" rel="noopener"&gt;A24&amp;#8217;s deal with Google DeepMind&lt;/a&gt; and the &lt;a href="https://www.cined.com/the-ai-copyright-war-just-got-real-openai-ordered-to-reveal-deleted-evidence/" target="_blank" rel="noopener"&gt;copyright case against OpenAI&lt;/a&gt;. My guess is that next year&amp;#8217;s report will have to put a number on it.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Where to get the report&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The full CISAC Global Collections Report 2026 is free to download from the &lt;a href="https://www.cisac.org/global-collections-report-2026" target="_blank" rel="noopener"&gt;CISAC website&lt;/a&gt; in English, French and Spanish. The figures are based on the 2025 gross domestic collections of 228 CISAC members in 111 countries.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you receive royalties through an authors&amp;#8217; society for your films or series, and has streaming income made a difference for you? And should AI developers pay for training on audiovisual works through the same societies? Let me know what you think in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>SIRUI Aurora 15mm F1.6 and 24mm F1.4 Launched – Fast Full-Frame Autofocus Primes for Sony E and L-Mount</title>
-  <link href="https://www.cined.com/sirui-aurora-15mm-f1-6-and-24mm-f1-4-launched-fast-full-frame-autofocus-primes-for-sony-e-and-l-mount/"/>
-  <id>https://www.cined.com/sirui-aurora-15mm-f1-6-and-24mm-f1-4-launched-fast-full-frame-autofocus-primes-for-sony-e-and-l-mount/</id>
-  <published>2026-11-10T13:55:19+00:00</published>
-  <updated>2026-11-10T13:55:19+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/sirui-aurora-15mm-f1-6-ibc-2026-featured-16x9-1.jpg"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/11/sirui-aurora-15mm-f1-6-ibc-2026-featured-16x9-1.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/sirui-aurora-15mm-f1-6-ibc-2026-featured-16x9-1.jpg"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/sirui-aurora-15mm-f1-6-ibc-2026-featured-16x9-1.jpg</webfeeds:featuredImage>
-  <summary>SIRUI has officially launched the Aurora 15mm F1.6 and 24mm F1.4, two fast full-frame autofocus primes that take its Aurora series to the wide end. Both lenses use an STM autofocus motor that works with the camera’s eye detection and subject tracking, an 11-blade aperture with a </summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/sirui-aurora-15mm-f1-6-ibc-2026-featured-16x9-1.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;SIRUI has officially launched the Aurora 15mm F1.6 and 24mm F1.4, two fast full-frame autofocus primes that take its Aurora series to the wide end. Both lenses use an STM autofocus motor that works with the camera&amp;#8217;s eye detection and subject tracking, an 11-blade aperture with a switchable click/de-click ring, an iris lock, a programmable Fn button, a USB-C port for firmware updates and a dust- and splash-resistant all-metal body. The Sony E and L-Mount versions are available for pre-order now, and Nikon Z and FUJIFILM X versions follow in Q1 2027.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;We saw pre-production samples of both lenses at SIRUI&amp;#8217;s booth in Amsterdam and reported on them in our &lt;a href="https://www.cined.com/sirui-aurora-15mm-f-1-6-and-24mm-f-1-4-full-frame-autofocus-lenses-unveiled/" target="_blank" rel="noopener"&gt;IBC 2026 first look&lt;/a&gt;. Back then, SIRUI&amp;#8217;s Sonny Liu spoke of a price of $500 to $600 per lens and of availability &amp;#8220;in the next couple of months.&amp;#8221; SIRUI kept that promise quite precisely: the final prices sit at the two ends of that range, and the launch came less than two months after the show.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="770" src="https://www.cined.com/content/uploads/2026/11/AURORA_15-1-1-edited-900x770.jpg" alt="" class="wp-image-446845" srcset="https://www.cined.com/content/uploads/2026/11/AURORA_15-1-1-edited-900x770.jpg 900w, https://www.cined.com/content/uploads/2026/11/AURORA_15-1-1-edited-300x257.jpg 300w, https://www.cined.com/content/uploads/2026/11/AURORA_15-1-1-edited-768x657.jpg 768w, https://www.cined.com/content/uploads/2026/11/AURORA_15-1-1-edited-1536x1313.jpg 1536w, https://www.cined.com/content/uploads/2026/11/AURORA_15-1-1-edited-269x230.jpg 269w, https://www.cined.com/content/uploads/2026/11/AURORA_15-1-1-edited.jpg 1600w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;SIRUI Aurora 15mm F1.6. Image credit: SIRUI&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Aurora series started in October 2024 with the&amp;nbsp;&lt;a href="https://www.cined.com/sirui-aurora-series-announced-starting-with-the-full-frame-85mm-f1-4-af-lens/" target="_blank" rel="noopener"&gt;85mm F1.4&lt;/a&gt;, which Johnnie&amp;nbsp;&lt;a href="https://www.cined.com/sirui-aurora-85mm-full-frame-autofocus-f1-4-lens-on-the-new-sony-a1-ii-review/" target="_blank" rel="noopener"&gt;reviewed on the Sony a1 II&lt;/a&gt;. The&amp;nbsp;&lt;a href="https://www.cined.com/sirui-aurora-35mm-f-1-4-full-frame-autofocus-lens-introduced-expands-hybrid-lens-portfolio/" target="_blank" rel="noopener"&gt;35mm F1.4&lt;/a&gt;&amp;nbsp;followed in September 2025. With the two new wides, the series now has four focal lengths from 15mm to 85mm. L-Mount is a launch mount this time because SIRUI&amp;nbsp;&lt;a href="https://www.cined.com/sirui-joins-the-l-mount-alliance/" target="_blank" rel="noopener"&gt;joined the L-Mount Alliance&lt;/a&gt;&amp;nbsp;in March 2025.&lt;/p&gt;
-
-
-&lt;!-- wp:embed/video --&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-&lt;iframe title="SIRUI Aurora 15mm f/1.6 and 24mm f/1.4 Full-Frame Autofocus Lenses Unveiled" width="500" height="281" src="https://www.youtube-nocookie.com/embed/_PHQetFjcIg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/figure&gt;
-&lt;!-- /wp:embed/video --&gt;
-
-
-&lt;h2 class="wp-block-heading"&gt;Aurora 15mm F1.6: wide and fast&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The 15mm F1.6 is the more unusual of the two lenses. Its optical design has 17 elements in 12 groups, with three aspherical, three ED and three HRI (high refractive index) elements. On a full-frame sensor, it covers a diagonal angle of view of 109.3°. SIRUI states that optical distortion is controlled to approximately 1.4%. The company does not say how much of this comes from the optics and how much from in-camera correction, so this is a figure I want to see in a test before I trust it for architecture work.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="630" src="https://www.cined.com/content/uploads/2026/11/AURORA_15-7-1-edited-900x630.jpg" alt="" class="wp-image-446849" srcset="https://www.cined.com/content/uploads/2026/11/AURORA_15-7-1-edited-900x630.jpg 900w, https://www.cined.com/content/uploads/2026/11/AURORA_15-7-1-edited-300x210.jpg 300w, https://www.cined.com/content/uploads/2026/11/AURORA_15-7-1-edited-768x538.jpg 768w, https://www.cined.com/content/uploads/2026/11/AURORA_15-7-1-edited-1536x1075.jpg 1536w, https://www.cined.com/content/uploads/2026/11/AURORA_15-7-1-edited-2048x1434.jpg 2048w, https://www.cined.com/content/uploads/2026/11/AURORA_15-7-1-edited-329x230.jpg 329w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The front element of the Aurora 15mm F1.6 takes 77mm screw-in filters. Image credit: SIRUI&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;SIRUI markets the F1.6 aperture against the F1.8 that many fast ultra-wides use, with about 27% more light in theory. That is one-third of a stop. It is not a large difference, but the lens is also wider than the many 16mm F1.8 options, such as the&amp;nbsp;&lt;a href="https://www.cined.com/viltrox-af-16mm-f-1-8-released-companys-first-af-lens-for-l-mount/" target="_blank" rel="noopener"&gt;Viltrox AF 16mm F1.8 for L-Mount&lt;/a&gt;. For astrophotography, night exteriors and dark interiors, every bit of light helps.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For video shooters, the most practical detail is the 77mm (M77x0.75) front filter thread. Many ultra-wides at this focal length have a bulbous front element and need a filter holder system, so a standard screw-in ND or polarizer is a real advantage on a gimbal. The minimum focus distance is 0.3m (0.98ft), with a maximum magnification of 0.08x. The lens has a maximum diameter of 82mm (3.23in). The Sony E version is 106.4mm (4.19in) long and weighs 542g (1.19lb); the L-Mount version is 104.4mm (4.11in) long and weighs 550g (1.21lb).&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Aurora 24mm F1.4: the classic wide&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The 24mm F1.4 uses 14 elements in 11 groups, with three aspherical, four ED and three HRI elements. The diagonal angle of view is 82.93°. The minimum focus distance is 0.26m (0.85ft), and the maximum magnification of 0.15x (1:6.67) is useful for close details and product shots.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="766" src="https://www.cined.com/content/uploads/2026/11/B0HR18HVPV_MAIN_jpg-edited-900x766.jpg" alt="" class="wp-image-446861" srcset="https://www.cined.com/content/uploads/2026/11/B0HR18HVPV_MAIN_jpg-edited-900x766.jpg 900w, https://www.cined.com/content/uploads/2026/11/B0HR18HVPV_MAIN_jpg-edited-300x255.jpg 300w, https://www.cined.com/content/uploads/2026/11/B0HR18HVPV_MAIN_jpg-edited-768x654.jpg 768w, https://www.cined.com/content/uploads/2026/11/B0HR18HVPV_MAIN_jpg-edited-1536x1308.jpg 1536w, https://www.cined.com/content/uploads/2026/11/B0HR18HVPV_MAIN_jpg-edited-270x230.jpg 270w, https://www.cined.com/content/uploads/2026/11/B0HR18HVPV_MAIN_jpg-edited.jpg 1600w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;SIRUI Aurora 24mm F1.4. Image credit: SIRUI&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The 24mm takes 62mm (M62x0.75) filters and has a maximum diameter of 76mm (2.99in). It is not a small lens for a 24mm F1.4: the Sony E version is 106.6mm (4.20in) long and weighs 550g (1.21lb), and the L-Mount version is 104.6mm (4.12in) long and weighs 560g (1.23lb). The two new lenses are almost the same length. My feeling is that SIRUI did this on purpose, so that you can swap them on a gimbal without a full rebalance, but that&amp;#8217;s just my guess.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The price is interesting. At $499, the 24mm F1.4 costs less than the Aurora 35mm F1.4, which SIRUI sells for $549 in its own store.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="631" src="https://www.cined.com/content/uploads/2026/11/11_7d0f1834-552f-4d0e-9d5e-863874bb9ba9-edited-900x631.jpg" alt="" class="wp-image-446869" srcset="https://www.cined.com/content/uploads/2026/11/11_7d0f1834-552f-4d0e-9d5e-863874bb9ba9-edited-900x631.jpg 900w, https://www.cined.com/content/uploads/2026/11/11_7d0f1834-552f-4d0e-9d5e-863874bb9ba9-edited-300x210.jpg 300w, https://www.cined.com/content/uploads/2026/11/11_7d0f1834-552f-4d0e-9d5e-863874bb9ba9-edited-768x539.jpg 768w, https://www.cined.com/content/uploads/2026/11/11_7d0f1834-552f-4d0e-9d5e-863874bb9ba9-edited-1536x1078.jpg 1536w, https://www.cined.com/content/uploads/2026/11/11_7d0f1834-552f-4d0e-9d5e-863874bb9ba9-edited-2048x1437.jpg 2048w, https://www.cined.com/content/uploads/2026/11/11_7d0f1834-552f-4d0e-9d5e-863874bb9ba9-edited-328x230.jpg 328w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The click on/off switch for the aperture ring on the Aurora 24mm F1.4. Image credit: SIRUI&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Same controls across the series&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Both lenses have the same set of controls as the 35mm and 85mm. There is an AF/MF switch, a click on/off switch for the aperture ring, an iris lock that holds the ring in the A position or in the manual aperture range, and an Fn button that is set to AF lock by default and can be assigned to other functions. A USB-C port on the barrel is for firmware updates. Both lenses have an all-metal build with dust-, stain- and splash-resistant protection, and each comes with a lens hood.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons-900x506.jpeg" alt="" class="wp-image-446873" srcset="https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Buttons.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Iris lock, Fn button and AF/MF switch on a pre-production Aurora 15mm F1.6 at IBC 2026. Image credit: CineD&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;According to SIRUI, the STM motor gives fast, accurate and quiet autofocus, and both lenses have low focus breathing. We have not tested this yet. SIRUI also publishes a Sony camera compatibility list: most current bodies are compatible in photo and video mode, but the a6000, for example, is only partially compatible in video mode. Check the list before you order for an older body.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera-900x506.jpeg" alt="" class="wp-image-446877" srcset="https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/SIRUI-Aurora-15mm-IBC-2026-Camera.jpeg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The Aurora 15mm F1.6 on a camera rig at IBC 2026. Image credit: CineD&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;SIRUI gives a three-year replacement warranty on both lenses: within three years of purchase, a lens with a failure that does not come from misuse is replaced free of charge. In the box, you get the lens, a lens pouch, the hood, and front and rear caps.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What about Nikon Z and FUJIFILM X?&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Aurora 35mm and 85mm are already available in Nikon Z and FUJIFILM X mount, and SIRUI says that both new lenses follow in these two mounts in Q1 2027. On an APS-C body with a 1.5x crop, the 15mm gives a field of view similar to a 23mm lens on full frame, and the 24mm one similar to a 36mm lens. (And while you are at it, SIRUI, a matching 50mm would make this a complete set.)&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="900" src="https://www.cined.com/content/uploads/2026/11/AURORA_15-4-900x900.jpg" alt="" class="wp-image-446881" srcset="https://www.cined.com/content/uploads/2026/11/AURORA_15-4-900x900.jpg 900w, https://www.cined.com/content/uploads/2026/11/AURORA_15-4-300x300.jpg 300w, https://www.cined.com/content/uploads/2026/11/AURORA_15-4-150x150.jpg 150w, https://www.cined.com/content/uploads/2026/11/AURORA_15-4-768x768.jpg 768w, https://www.cined.com/content/uploads/2026/11/AURORA_15-4-1536x1536.jpg 1536w, https://www.cined.com/content/uploads/2026/11/AURORA_15-4-2048x2048.jpg 2048w, https://www.cined.com/content/uploads/2026/11/AURORA_15-4-230x230.jpg 230w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Box contents of the Aurora 15mm F1.6. Image credit: SIRUI&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The SIRUI Aurora 15mm F1.6 costs&amp;nbsp;&lt;a href="https://www.bhphotovideo.com/c/product/2009449-REG/sirui_au15_l_aurora_15mm_f_1_6_lens.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$599&lt;/a&gt;&amp;nbsp;and the Aurora 24mm F1.4 costs&amp;nbsp;&lt;a href="https://www.bhphotovideo.com/c/product/2009453-REG/sirui_au24_l_aurora_24mm_f_1_4_lens.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$499&lt;/a&gt;. In Europe, SIRUI lists the lenses at €649 and €539, including VAT. Both are available for pre-order now in Sony E and L-Mount from retailers and from SIRUI&amp;#8217;s store (&lt;a href="https://store.sirui.com/products/aurora-series-15mm-f1-6-full-frame-autofocus-lens" target="_blank" rel="noopener"&gt;15mm F1.6&lt;/a&gt;,&amp;nbsp;&lt;a href="https://store.sirui.com/products/aurora-series-24mm-f1-4-full-frame-autofocus-lens" target="_blank" rel="noopener"&gt;24mm F1.4&lt;/a&gt;). The Nikon Z and FUJIFILM X versions are scheduled for Q1 2027.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you already shoot with the Aurora 35mm or 85mm, and will the 15mm or 24mm fill a gap in your kit? Or is a fast ultra-wide with a front filter thread more important to you than autofocus? Let me know what you think in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Flanders Scientific VP and V Series Introduced – Seven QD-OLED Monitors, Up to 4,000 Nits, 12G-SDI and 3D</title>
-  <link href="https://www.cined.com/flanders-scientific-vp-and-v-series-introduced-seven-qd-oled-monitors-up-to-4000-nits-12g-sdi-and-3d/"/>
-  <id>https://www.cined.com/flanders-scientific-vp-and-v-series-introduced-seven-qd-oled-monitors-up-to-4000-nits-12g-sdi-and-3d/</id>
-  <published>2026-11-10T10:52:30+00:00</published>
-  <updated>2026-11-10T10:52:30+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg</webfeeds:featuredImage>
-  <summary>Flanders Scientific has announced seven new QD-OLED monitors in two new lines, the VP Series and the V Series. They use the same panels, the same color engine and the same GaiaColor calibration tools as the flagship XMP monitors, but they leave out the onboard scopes, Look LUTs a</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-qd-oled-monitor-control-room-featured-16x9-1.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Flanders Scientific has announced seven new QD-OLED monitors in two new lines, the VP Series and the V Series. They use the same panels, the same color engine and the same GaiaColor calibration tools as the flagship XMP monitors, but they leave out the onboard scopes, Look LUTs and Livegrade integration. The result is a much lower price, plus one feature that the XMP never had: stereoscopic 3D.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;This launch comes about seven months after Atomos &lt;a href="https://www.cined.com/atomos-to-acquire-flanders-scientific/" target="_blank" rel="noopener"&gt;announced the acquisition of Flanders Scientific (FSI)&lt;/a&gt; in April, and I think it tells us a lot about where the two companies want to take the brand. FSI CEO Bram Desmet and Atomos CEO Peter Barber explain the new lineup together in a &lt;a href="https://youtu.be/3dv59HcgqcE" target="_blank" rel="noopener"&gt;video on the FSI channel&lt;/a&gt;. The idea is simple: many grading suites, post houses and VFX rooms pay for XMP features they never touch, because they run a standalone scope and do not need processed monitor outputs. FSI now gives those users the same image for less money. According to the company, the VP Series costs up to 30% less than the matching XMP models, and the V Series up to 48% less. The XMP and XMP C monitors stay in full production as the flagship models.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;We have covered FSI for years, from the &lt;a href="https://www.cined.com/flanders-scientific-dm160-released-lightweight-16-inch-10-bit-oled-reference-monitor/" target="_blank" rel="noopener"&gt;DM160 OLED&lt;/a&gt; to the &lt;a href="https://www.cined.com/flanders-scientific-31-5-xmp310-reference-monitor-announced/" target="_blank" rel="noopener"&gt;31.5-inch XMP310 QD-OLED&lt;/a&gt;. So the question for this launch is not the image quality. The question is which features you can live without.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="458" src="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-qd-oled-monitor-lineup-900x458.jpg" alt="" class="wp-image-446690" srcset="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-qd-oled-monitor-lineup-900x458.jpg 900w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-qd-oled-monitor-lineup-300x153.jpg 300w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-qd-oled-monitor-lineup-767x390.jpg 767w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-qd-oled-monitor-lineup-429x217.jpg 429w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-qd-oled-monitor-lineup-452x230.jpg 452w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-qd-oled-monitor-lineup.jpg 1200w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The new Flanders Scientific VP and V Series lineup. Image credit: Flanders Scientific&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Seven monitors, two lines&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The VP Series is the line with professional SDI connectivity. It has four models: the &lt;a href="https://flandersscientific.com/products/VP270" target="_blank" rel="noopener"&gt;VP270&lt;/a&gt; (26.5-inch, 1,000 nits), the &lt;a href="https://flandersscientific.com/products/VP310" target="_blank" rel="noopener"&gt;VP310&lt;/a&gt; (31.5-inch, 1,000 nits), the &lt;a href="https://flandersscientific.com/products/VP551" target="_blank" rel="noopener"&gt;VP551&lt;/a&gt; (55-inch, 4,000 nits) and the &lt;a href="https://flandersscientific.com/products/VP651" target="_blank" rel="noopener"&gt;VP651&lt;/a&gt; (65-inch, 4,000 nits). FSI says it designed this line with the post house in mind, where professional inputs and color accuracy are essential, but where a separate scope solution already does the measuring.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The V Series drops SDI completely and connects through HDMI 2.1 and DisplayPort 1.4 only. It has three models: the &lt;a href="https://flandersscientific.com/products/V270" target="_blank" rel="noopener"&gt;V270&lt;/a&gt; (26.5-inch, 1,000 nits), the &lt;a href="https://flandersscientific.com/products/V310" target="_blank" rel="noopener"&gt;V310&lt;/a&gt; (31.5-inch, 1,000 nits) and the &lt;a href="https://flandersscientific.com/products/V550" target="_blank" rel="noopener"&gt;V550&lt;/a&gt; (55-inch, 2,000 nits). FSI sees it in the rooms around the main grading suite, such as VFX, editorial, animation, game development and audio post, and as the lowest-priced entry point into FSI QD-OLED monitoring for colorists who work over HDMI or DisplayPort.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Every model uses a 3840 x 2160 10-bit QD-OLED panel with a 179-degree viewing angle, the same panel as the XMP model of the same size and peak luminance. That is the most important point of the whole announcement for me. If a facility runs an XMP in the main suite and a V Series in the edit bay next door, both screens use the same panel technology and the same color management system. According to FSI, this is what keeps the picture consistent from room to room.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What the VP Series offers&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The VP models have four 12G-SDI inputs, and each input has its own clean SDI loop output. Single, dual and quad-link connections are supported, and FSI lists signals up to 8K UHD and 8K DCI at 12-bit 4:4:4 over quad 12G or 6G links, scaled to the native UHD panel. HDMI 2.1 and DisplayPort 1.4 inputs with up to 120Hz signal support are there for secondary sources. The monitors read the SDI payload ID (VPID) and set 4:4:4 or 4:2:2, 10 or 12-bit, and RGB or YCbCr automatically, with a manual override when the payload ID is missing or wrong.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="600" src="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp551-55-inch-qd-oled-reference-monitor-900x600.jpg" alt="" class="wp-image-446694" srcset="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp551-55-inch-qd-oled-reference-monitor-900x600.jpg 900w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp551-55-inch-qd-oled-reference-monitor-300x200.jpg 300w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp551-55-inch-qd-oled-reference-monitor-768x512.jpg 768w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp551-55-inch-qd-oled-reference-monitor-1536x1024.jpg 1536w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp551-55-inch-qd-oled-reference-monitor-345x230.jpg 345w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp551-55-inch-qd-oled-reference-monitor.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The 55-inch Flanders Scientific VP551 with up to 4,000 nits peak luminance. Image credit: Flanders Scientific&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Quad View mode shows up to four inputs on screen at once, and it does not need genlock, only sources at the same frame rate. Each input can also have its own gamut, EOTF, white point and luminance settings, all visible at the same time. For multi-camera review or a side-by-side of two grades, that is a very practical tool.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The two large VP models are the ones that will get the most attention. The VP551 and VP651 reach about 4,000 nits at an 18% window, about 2,200 nits at 32% and about 400 nits full screen, with a contrast ratio of about 8,000,000:1 and about 90% coverage of Rec.2020. FSI says both qualify as Dolby Vision mastering monitors, and it pitches them as single-screen solutions where the colorist and the client look at the same display. The 26.5-inch and 31.5-inch VP models reach about 1,000 nits at an 18% window, with about 1,500,000:1 contrast and about 80% of Rec.2020, and FSI also lists them as Dolby Vision mastering monitors.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What you lose compared to the XMP&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;FSI is open about the cuts. The VP and V Series have no waveform, no vectorscope, no Look LUT support, and no Pomfort Livegrade or Assimilate Live Assist integration. The VP models also have no processed SDI outputs (only clean loops), and the front keypad and rotary knobs of the XMP are gone. Instead, there is a simple 5-way controller on the back of the monitor. If your monitor sits in a grading room and you drive it mostly through the remote software, that is probably not a big loss. On a DIT cart, where you change settings all day, I would miss the front controls.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;What stays is the core FSI feature set. That includes GaiaColor AutoCal, which profiles the panel once with a probe connected directly to the monitor and then derives all color space selections from that profile, without a computer. The GaiaColor Analyzer runs a QC check of the calibration in as little as 60 seconds and shows the report on screen, and the free IP Remote Utility exports it as a PDF. Calman and ColourSpace calibration LUTs are also supported. Then there are LUM Coloring false color with a nits-based scale in PQ mode, red, green and blue-only modes, the standard and custom markers, 1:1 pixel mapping and accurate interlaced monitoring.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="585" src="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-gaiacolor-analyzer-qc-report-900x585.jpg" alt="" class="wp-image-446698" srcset="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-gaiacolor-analyzer-qc-report-900x585.jpg 900w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-gaiacolor-analyzer-qc-report-767x498.jpg 767w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-gaiacolor-analyzer-qc-report-300x195.jpg 300w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-gaiacolor-analyzer-qc-report-1536x998.jpg 1536w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-gaiacolor-analyzer-qc-report-354x230.jpg 354w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp270-gaiacolor-analyzer-qc-report.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;A GaiaColor Analyzer QC report on the VP270 screen. Image credit: Flanders Scientific&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Remote control works over Ethernet with the IP Remote Utility for Mac, Windows and iOS (with Elgato Stream Deck support), over RS-485 serial, with the optional R-RS wireless remote, and through GPI contact closure with up to seven assignable functions. You can also save up to five configurations and switch between them with one button press.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;The V Series: QD-OLED over HDMI and DisplayPort&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For many of our readers, the V Series is probably the more interesting line. The V270 and V310 bring the XMP270 and XMP310 panels to an HDMI and DisplayPort workflow, and the V550 uses the 2,000-nit 55-inch panel of the XMP550 with about 4,000,000:1 contrast. Inputs are one HDMI 2.1 and one DisplayPort 1.4 port, plus a 3.5mm headphone output and optical S/PDIF.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite-900x506.jpg" alt="" class="wp-image-446702" srcset="https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-v310-qd-oled-monitor-editing-suite.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The V310 as FSI sees it: in an editing or audio post room without SDI. Image credit: Flanders Scientific&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Interestingly, the XMP and XMP C monitors have no HDMI input at all, so the new lines are actually the first FSI QD-OLED monitors with HDMI 2.1. My guess is that this will make the V Series attractive for colorists and editors who already monitor through an HDMI output card or interface from their grading system, but that is just my guess. The trade-off is clear: no SDI, no Quad View and no clean loop outputs.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Stereo 3D is back&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Both new lines support stereoscopic 3D, which the XMP series never did. The VP models accept 3D over HDMI and dual-link SDI. It works with an optional active 3D system: a 3D sync module that connects to the monitor and a pair of active shutter glasses, sold as a bundle for $250. FSI itself calls 3D a niche requirement, but it also says that few professional monitors still support it and that there is demand. Anyone who has to deliver or QC 3D versions of feature films or immersive content will know how short that list is.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="374" src="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-3d-sync-module-active-glasses-900x374.jpg" alt="" class="wp-image-446706" srcset="https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-3d-sync-module-active-glasses-900x374.jpg 900w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-3d-sync-module-active-glasses-768x319.jpg 768w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-3d-sync-module-active-glasses-300x125.jpg 300w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-3d-sync-module-active-glasses-1536x638.jpg 1536w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-3d-sync-module-active-glasses-553x230.jpg 553w, https://www.cined.com/content/uploads/2026/11/flanders-scientific-vp-v-series-3d-sync-module-active-glasses.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The optional 3D sync module and active 3D glasses. Image credit: Flanders Scientific&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Power, weight and mounting&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;All seven models have an aluminum chassis and a fanless design with a graphite heat sink, so they make no fan noise in the suite. The 26.5-inch and 31.5-inch models use an external 100-240V AC power supply and also have a 3-pin XLR DC input (24V, up to 36V supported), so they can run from a battery or a cart. They draw about 35W to 220W and have 100mm VESA mounting. The 26.5-inch models weigh 5.9kg (13.1 lb) without the desktop feet, the 31.5-inch models 7.2kg (16.0 lb).&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The 55-inch and 65-inch models have an internal AC supply (IEC C14), draw about 75W to 325W and use 300 x 200mm VESA mounting. The VP551 and V550 weigh 17.7kg (39 lb) without feet, and the VP651 weighs 23.0kg (50.8 lb).&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Where does this leave the XMP, and Atomos?&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The price gap is significant. The VP270 costs $3,500 less than the XMP270, and the V270 costs $5,500 less. At the top, the VP651 costs $6,500 less than the XMP651 with the same 4,000-nit panel. In my opinion, that makes the large VP models very attractive for client rooms that want a true HDR mastering display without the full XMP feature set.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Peter Barber, Managing Director and CEO of Atomos, explains the reasoning in the press release: &amp;#8220;Traditionally, the cost of high-end reference monitors has limited how widely they could be deployed across post-production facilities. By offering the same exceptional image quality, colour accuracy and calibration capabilities at a more accessible price point, we are making it possible for customers to equip more workstations, more editing suites and more production environments with professional reference monitoring.&amp;#8221; For a facility with many rooms, the savings add up per room, and I think that is the real target of this launch.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;It is also interesting to look at this from the Atomos side. When Atomos showed the &lt;a href="https://www.cined.com/atomos-studio-pro-2710-reference-monitor-debuts-with-ecosystem-updates/" target="_blank" rel="noopener"&gt;Studio Pro 2710&lt;/a&gt;, it positioned it as a reference monitor below $10,000. Now FSI, a company in the same group, sells a 26.5-inch QD-OLED with the XMP panel for $5,995. In our &lt;a href="https://www.cined.com/atomos-ceo-peter-barber-on-the-sumo-pro-19-rebuilding-the-brand-and-acquiring-flanders-scientific/" target="_blank" rel="noopener"&gt;interview with Peter Barber at NAB 2026&lt;/a&gt;, he spoke about building a monitoring ecosystem from camera to grading suite, and I am almost certain that the VP and V Series are part of that plan, but that is just my feeling. At the other end of the market, QD-OLED monitors with SDI inputs such as the &lt;a href="https://www.cined.com/asus-proart-display-oled-pa32usd-announced-31-5-inch-4k-qd-oled-with-dual-12g-sdi-and-1000-nit-hdr/" target="_blank" rel="noopener"&gt;ASUS ProArt PA32USD&lt;/a&gt; sell for much less. They do not offer FSI&amp;#8217;s calibration system, its 4,000-nit large-screen options or its facility support, but they show how fast the prices in this category are moving. (And FSI, a V310 review unit on my desk would be very welcome.)&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;According to Flanders Scientific, both series begin shipping in November 2026, and the FSI store currently lists a delivery time of two weeks after order. US prices for the VP Series are &lt;a href="https://www.bhphotovideo.com/c/product/2009674-REG/Flanders_Scientific_VP270_26_5_Vp_Ser_Qd_Oled.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$7,995&lt;/a&gt; for the VP270, &lt;a href="https://www.bhphotovideo.com/c/product/2009675-REG/Flanders_Scientific_VP310_31_5_Vp_Ser_Qd_Oled.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$8,995&lt;/a&gt; for the VP310, &lt;a href="https://www.bhphotovideo.com/c/product/2009676-REG/Flanders_Scientific_VP551_55_Vp_Ser_Qd_Oled.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$15,995&lt;/a&gt; for the VP551 and &lt;a href="https://www.bhphotovideo.com/c/product/2009677-REG/Flanders_Scientific_VP651_65_Vp_Ser_Qd_Oled.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$17,495&lt;/a&gt; for the VP651.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The V Series costs &lt;a href="https://www.bhphotovideo.com/c/product/2009671-REG/Flanders_Scientific_V270_26_5_V_Ser_3840x2160.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$5,995&lt;/a&gt; for the V270, &lt;a href="https://www.bhphotovideo.com/c/product/2009672-REG/Flanders_Scientific_V310_31_5_V_Ser_3840x2160.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$6,995&lt;/a&gt; for the V310 and &lt;a href="https://www.bhphotovideo.com/c/product/2009673-REG/Flanders_Scientific_V550_55_V_Ser_3840x2160.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$12,495&lt;/a&gt; for the V550. The optional 3D sync module and active 3D glasses bundle costs $250. FSI has its own sales and service operations in Europe and the UK, but European prices have not been announced yet, and the new models are not yet listed at CVP at the time of writing.&amp;nbsp;You can find all details on the &lt;a href="https://flandersscientific.com/news/vp-and-v-series-announcement" target="_blank" rel="noopener"&gt;Flanders Scientific website&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you need scopes and Look LUTs on your reference monitor, or does a separate scope already do that job in your suite? Would a V Series monitor over HDMI be enough for your grading work? Let me know what you think in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Deity PR-2ii Pocket Recorder Released – Dual-ADC Preamp, IP54 Sealing, and WAV File Recovery</title>
-  <link href="https://www.cined.com/deity-pr-2ii-pocket-recorder-released-dual-adc-preamp-ip54-sealing-and-wav-file-recovery/"/>
-  <id>https://www.cined.com/deity-pr-2ii-pocket-recorder-released-dual-adc-preamp-ip54-sealing-and-wav-file-recovery/</id>
-  <published>2026-11-10T08:47:45+00:00</published>
-  <updated>2026-11-10T08:47:45+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-featured-16x9-1.jpg"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-featured-16x9-1.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-featured-16x9-1.jpg"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-featured-16x9-1.jpg</webfeeds:featuredImage>
-  <summary>Deity has released the PR-2ii, the second generation of its PR-2 pocket recorder, the small two-AA box that many sound recordists hide on talent as a backup for their wireless. The new model gets a dual-ADC preamp that Deity says lowers self-noise by 5.4 dB, an IP54 dust and spla</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-featured-16x9-1.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;Deity has released the PR-2ii, the second generation of its PR-2 pocket recorder, the small two-AA box that many sound recordists hide on talent as a backup for their wireless. The new model gets a dual-ADC preamp that Deity says lowers self-noise by 5.4 dB, an IP54 dust and splash rated housing, a PSRAM buffer with WAV file recovery, a brighter color screen, and microSD support up to 1TB. It is available now at B&amp;amp;H as a bundle with Deity&amp;#8217;s Avora lavalier microphone.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Pocket recorders are not the most exciting products we cover, but they are often the ones that save the take when a wireless link drops out behind a wall or in a crowd. Deity first showed the PR-2ii with production firmware at IBC 2026 in Amsterdam in September, together with its new TC-2 timecode box and the THEOS D4RX four-channel receiver. At the same show, we gave our&amp;nbsp;&lt;a href="https://www.cined.com/winners-announced-cined-best-of-show-awards-at-ibc-2026/" target="_blank" rel="noopener"&gt;Best-of-Show award in the audio category&lt;/a&gt;&amp;nbsp;to the&amp;nbsp;&lt;a href="https://www.cined.com/deity-pr-4-detailed-six-tracks-wireless-timecode-master-and-dual-media-recording/" target="_blank" rel="noopener"&gt;Deity PR-4&lt;/a&gt;, so I was curious to see what the company would do with its smallest recorder. The answer: the concept stays the same (one 3.5mm input, two tracks, two AA batteries), but almost everything inside has been revised.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle-900x506.jpg" alt="" class="wp-image-446718" srcset="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-pocket-recorder-angle.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The Deity PR-2ii with its new color screen and dedicated record button. Image credit: Deity&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What changed from the PR-2?&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The main change is the preamp. The PR-2ii uses two acquisition paths within the analog input channel with 32-bit conversion, and Deity rates the internal-recording dynamic range at 124 dB or higher, compared with 123 dB typical for the PR-2 in 32-bit float. Equivalent input noise is specified at -117 dBV (A-weighted, 36 dB gain, 150 ohm source). The PR-2 spec sheet gives -130 dBu at a different gain setting and in a different unit, so the two EIN figures cannot be compared directly. The comparison to look at is Deity&amp;#8217;s own claim of 5.4 dB lower self-noise, and that is a manufacturer figure, not one we have measured.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Storage support goes from microSDHC cards up to 128GB on the PR-2 to microSD cards up to 1TB. The USB-C port also does more now. On the PR-2, it worked as a card reader and for firmware updates. On the PR-2ii, it adds USB Audio Class 2.0 class-compliant operation as a two-channel, 48 kHz, 24-bit sound card, plus timecode output. The screen is a 600-nit color TFT, which Deity says is 60% brighter than the one on the PR-2.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Two things have not moved forward. Recording is still 48 kHz only, and 32-bit float is still mono only, so a stereo recording (two lavs, or a stereo feed from a mixer) is 24-bit integer. I would have liked to see two-channel 32-bit float this time (Deity, if you are reading this, that is the first item on my wish list for a PR-3). Rated battery life also goes down on paper: the PR-2 was rated at up to 30 hours with lithium AA batteries, the PR-2ii at 20+ hours with Deity&amp;#8217;s AA batteries. Deity connects this figure to the brighter display. My guess is that the new preamp needs some power too, but that is only a guess.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Built for the recorder you cannot reach&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For a recorder that lives under wardrobe or inside a car, the protection features are the most practical part of the update. A PSRAM buffer holds audio on its way to the card and evens out differences in write speed, so according to Deity, the PR-2ii works with a wider range of microSD cards. If a recording stops unexpectedly or a file is corrupted, you switch the recorder back on and it writes the missing WAV file footer and recovers the file. Anyone who has lost a file because a battery lost contact in the middle of a take will understand why this matters.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass-900x506.jpg" alt="" class="wp-image-446722" srcset="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-side-usb-c-tempered-glass.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The USB-C port now works as an audio interface and as a timecode output. Image credit: Deity&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The housing is now IP54 rated against dust and splashes, with a new rubber gasket around the battery compartment. A 6H tempered-glass cover protects the screen, and the controls are buttons, which Deity says make the front stronger than on the previous model. The specified operating range is -20 to 60°C (-4 to 140°F) at 0 to 90% relative humidity, non-condensing.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Faster setup for small crews&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Deity has added gain presets for popular lavaliers: the DPA 4060/4061, Sennheiser MKE 2, Countryman B3, and Shure TL47. They give you a practical starting level without a sound check. Input gain runs from -12 dB to +36 dB in both mic and line mode, the maximum input level is -0.5 dBu (0.73 Vrms), and the 3.5mm TRS input supplies 5V plug-in power for the microphone.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen-900x506.jpg" alt="" class="wp-image-446726" srcset="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-lavalier-gain-presets-screen.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The preset gain menu with starting levels for common lavalier microphones. Image credit: Deity&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The rest of the toolset covers what a run-and-gun shooter needs: 75 Hz and 150 Hz low-cut filters, a soft-knee limiter with a fixed -6 dBFS threshold (0.75 ms attack, 1000 ms release), onboard noise reduction, pre-record, and mark points to find important moments later in post. One-touch recording uses a dedicated record button. In 32-bit float mode, the gain setting is less critical, of course, but the presets still help in 24-bit stereo mode and for the headphone feed.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Timecode and remote control&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The PR-2ii receives wireless timecode from Deity&amp;#8217;s own ecosystem, which includes the&amp;nbsp;&lt;a href="https://www.cined.com/deity-tc-1-and-tc-sl1-released-wireless-timecode-box-and-slate/" target="_blank" rel="noopener"&gt;TC-1 timecode box and TC-SL1 slate&lt;/a&gt;, the THEOS wireless system, the PR-4, and other PR-2ii units. Deity specifies the Bluetooth LE timecode range at 80 to 95 m (260 to 310 ft) and the drift at one frame every 48 hours. The 3.5mm output takes timecode in or out during recording, as LTC (3V) or ATC, and USB-C timecode output works with XTRA, DJI, and Insta360 cameras, according to Deity.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs-900x506.jpg" alt="" class="wp-image-446730" srcset="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-top-inputs-outputs.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The 3.5mm input and the 3.5mm output for headphones, line out, and LTC or ATC timecode. Image credit: Deity&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Control runs through the Sidus Audio app on iPhone, iPad, Android, and macOS. From the app, you can start and stop recording, check status, and change settings at up to 76 m (250 ft), the same control range Deity quoted for the PR-2. Over Bluetooth, the app also lets you listen to the recorder from more than 40 m (130 ft) away. For a solo shooter with the recorder hidden on talent, that means you can check the audio without walking over and reaching under a jacket.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Size, power, and what is in the box&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The PR-2ii measures 60 x 58.5 x 18.5mm (2.36 x 2.30 x 0.73in) and weighs 55g (1.9oz) without batteries; the removable back clip adds about 3.5g. Power comes from two AA batteries (1.5V maximum each) or from 5V over USB-C. Deity gives the power consumption as up to 0.53 W on AA batteries and up to 0.71 W on USB-C power. Files are recorded as BWF WAV and are split at approximately 4GB, and the headphone output delivers 62.5 mW at 16 ohms.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="900" src="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-worn-on-talent-900x900.jpg" alt="" class="wp-image-446734" srcset="https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-worn-on-talent-900x900.jpg 900w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-worn-on-talent-150x150.jpg 150w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-worn-on-talent-768x768.jpg 768w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-worn-on-talent-300x300.jpg 300w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-worn-on-talent-230x230.jpg 230w, https://www.cined.com/content/uploads/2026/11/deity-pr-2ii-worn-on-talent.jpg 1080w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The PR-2ii is designed to be worn on talent first. Image credit: Deity&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Where does this fit in the market? 32-bit float pocket recorders are not new: the&amp;nbsp;&lt;a href="https://www.cined.com/tascam-dr-10l-pro-announced-a-compact-32-bit-float-recorder/" target="_blank" rel="noopener"&gt;Tascam DR-10L Pro&lt;/a&gt;&amp;nbsp;and Zoom&amp;#8217;s F2 work in the same category, and many wireless transmitters now record internally as well. In my opinion, Deity&amp;#8217;s advantage is less the recorder itself and more the system around it. If you already use a TC-1, a PR-4, or THEOS transmitters, the PR-2ii simply joins the same timecode network and the same app.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The Deity PR-2ii is available now at B&amp;amp;H for&amp;nbsp;&lt;a href="https://www.bhphotovideo.com/c/product/2009334-REG/deity_microphones_dp050b0549_pr_2ii_32_bit_float_pocket.html/BI/7953/KBID/8488/" target="_blank" rel="noopener"&gt;$259&lt;/a&gt;, bundled with the Avora lavalier microphone. At the time of writing, CVP lists only the original PR-2, and Deity directs European buyers to its local dealers, so a euro price is not available yet. More information is on the&amp;nbsp;&lt;a href="https://deitymic.com/products/pr-2ii/" target="_blank" rel="noopener"&gt;Deity website&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you still put a pocket recorder on talent as a backup for your wireless, or do you rely on the internal recording in your transmitters now? Would file recovery and IP54 sealing make you upgrade from the original PR-2? Let me know what you think in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Thomas Riedel Honored at Camerimage 2026 for Preserving European Film Technology With ARRI Acquisition</title>
-  <link href="https://www.cined.com/thomas-riedel-honored-at-camerimage-2026-for-preserving-european-film-technology-with-arri-acquisition/"/>
-  <id>https://www.cined.com/thomas-riedel-honored-at-camerimage-2026-for-preserving-european-film-technology-with-arri-acquisition/</id>
-  <published>2026-11-09T15:52:08+00:00</published>
-  <updated>2026-11-09T15:52:08+00:00</updated>
-  <link rel="enclosure" type="image/png" href="https://www.cined.com/content/uploads/2026/04/Riedel_ARRI_140426_06.png"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/04/Riedel_ARRI_140426_06.png" medium="image" type="image/png"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/04/Riedel_ARRI_140426_06.png"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/04/Riedel_ARRI_140426_06.png</webfeeds:featuredImage>
-  <summary>ARRI owner Thomas Riedel has been honored for preserving European film technology: he received a European Film Industry Preservation Award at the opening gala of the 34th ToruńCAMERIMAGE International Film Festival in Toruń, Poland, on Saturday, November 7, 2026. According to RIE</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/04/Riedel_ARRI_140426_06.png" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;ARRI owner Thomas Riedel has been honored for preserving European film technology: he received a European Film Industry Preservation Award at the opening gala of the 34th ToruńCAMERIMAGE International Film Festival in Toruń, Poland, on Saturday, November 7, 2026. According to RIEDEL Communications, the festival honored him for his dedication to the European film industry, and the company links the award directly to his acquisition of ARRI earlier this year. For a man who comes from intercoms and live broadcast infrastructure, this is quite a welcome from the cinematography community.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;I have to admit, I did not expect to write about Thomas Riedel and Camerimage in the same headline when he bought ARRI in April. Camerimage is the festival of the art of cinematography, and its audience is DPs, camera assistants and gaffers, not broadcast engineers. But the trophy plate says it clearly: &amp;#8220;Thomas Riedel, ARRI, European Film Industry Preservation Award, CAMERIMAGE 2026&amp;#8221;. RIEDEL Communications shared the news and the photos on LinkedIn, with the comment that &amp;#8220;with this year&amp;#8217;s acquisition of ARRI, he is sending a strong signal in support of innovation and the preservation of European film technology.&amp;#8221;&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="1125" src="https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-01-900x1125.jpeg" alt="" class="wp-image-446742" srcset="https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-01-900x1125.jpeg 900w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-01-300x375.jpeg 300w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-01-768x960.jpeg 768w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-01-184x230.jpeg 184w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-01.jpeg 1080w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Thomas Riedel with the European Film Industry Preservation Award at CAMERIMAGE 2026. Image credit: RIEDEL Communications&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What the award is for&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;At the time of writing, the festival website does not list the award or give a written citation, so the information comes from RIEDEL Communications and from the trophy itself. The trophy is a golden frog statuette on a black stone base. The frog is the symbol of Camerimage, and the festival&amp;#8217;s main competition prize is the Golden Frog. My reading of the award&amp;#8217;s name is simple: the festival sees the sale of ARRI to a German entrepreneur, and not to a financial investor or a large non-European corporation, as a contribution to keeping European film technology in European hands. That is my interpretation, as the festival has not published its reasons yet.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="1125" src="https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-02-900x1125.jpeg" alt="" class="wp-image-446746" srcset="https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-02-900x1125.jpeg 900w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-02-300x375.jpeg 300w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-02-768x960.jpeg 768w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-02-184x230.jpeg 184w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-02.jpeg 1080w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Thomas Riedel on stage at the CAMERIMAGE 2026 opening gala. Image credit: RIEDEL Communications&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;That reading fits what we reported when the deal was announced. In &lt;a href="https://www.cined.com/thomas-riedel-acquires-arri-broadcast-technology-entrepreneur-takes-over-cinemas-most-iconic-brand/" target="_blank" rel="noopener"&gt;our article on the acquisition&lt;/a&gt;, we described how the Stahl family, heirs of ARRI co-founder Robert Richter, ran an international bidding process for the 109-year-old Munich company. Thomas Riedel bought ARRI as sole owner of the Riedel Group, with his own capital. ARRI kept its independent operations, its headquarters in Munich and its management team under Managing Directors Chris Richter and David Bermbach.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Seven months of ARRI under Riedel&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The award comes after a busy first half year. In May, ARRI and Riedel worked together at the Eurovision Song Contest in Vienna, where &lt;a href="https://www.cined.com/arri-alexa-35-live-at-eurovision-2026-cined-goes-behind-the-scenes-of-the-biggest-broadcast-deployment-in-arri-history/" target="_blank" rel="noopener"&gt;24 ARRI ALEXA 35 Live cameras ran on Riedel infrastructure&lt;/a&gt;, and we went behind the scenes there. In July, ARRI &lt;a href="https://www.cined.com/arri-sells-its-global-rental-business-management-buy-out-backed-by-h2-equity-partners/" target="_blank" rel="noopener"&gt;sold its global rental business&lt;/a&gt; to the division&amp;#8217;s management, backed by H2 Equity Partners. Riedel had already told us at NAB 2026 that he did not strongly believe in a model where a manufacturer sells cameras to rental houses and competes with them at the same time.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="1125" src="https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-03-900x1125.jpeg" alt="" class="wp-image-446750" srcset="https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-03-900x1125.jpeg 900w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-03-300x375.jpeg 300w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-03-768x960.jpeg 768w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-03-184x230.jpeg 184w, https://www.cined.com/content/uploads/2026/11/Thomas-Riedel-ARRI-Cameraimage-03.jpeg 1080w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Thomas Riedel during his speech at the opening gala, with the Camerimage frog statuette in his hand. Image credit: RIEDEL Communications&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Much of the first year has been about live production, which is where Riedel is strongest. That is why I find the Camerimage award interesting. It puts the focus back on the part of ARRI that cinematographers care about most: the ALEXA cameras, the lenses and the lighting used on feature films. My feeling is that this is also a message from the festival to the new owner: the cinema community expects ARRI to stay a cinema company first (Thomas, if you are reading this, I think a lot of DPs in Toruń would agree with me).&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Camerimage 2026&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The 34th edition of the festival runs from November 7 to 14, 2026 in Toruń. Last year, the festival was still called EnergaCAMERIMAGE; this year, it carries the name of its host city, ToruńCAMERIMAGE. Luca Guadagnino&amp;#8217;s &amp;#8220;Artificial&amp;#8221;, shot by Malik Hassan Sayeed, opened the festival after the gala. ARRI has been a fixture at the festival for many years; last year, it ran a daily workshop series at its booth. If you have never been to Toruń, our &lt;a href="https://www.cined.com/camerimage-2025-complete-guide-to-workshops-competition-and-the-worlds-premier-cinematography-festival/" target="_blank" rel="noopener"&gt;complete guide to Camerimage 2025&lt;/a&gt; gives a good idea of what the week looks like, from the workshops to the main competition. More information on this year&amp;#8217;s program is on the &lt;a href="https://camerimage.pl/en/" target="_blank" rel="noopener"&gt;official Camerimage website&lt;/a&gt;, and more about the company is on the &lt;a href="https://www.riedel.net/" target="_blank" rel="noopener"&gt;RIEDEL website&lt;/a&gt; and the &lt;a href="https://www.arri.com/" target="_blank" rel="noopener"&gt;ARRI website&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you see the award as recognition of a deal that kept ARRI in European hands, or is it too early to judge what Thomas Riedel will do with the company? Let me know what you think in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

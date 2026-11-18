@@ -4,7 +4,39 @@
 <link rel="alternate" href="https://framerate.tv/explore?sort=selects"/>
 <link rel="self" href="https://alvypender.github.io/feeds/framerate-selects.xml"/>
 <id>https://framerate.tv/explore?sort=selects</id>
-<updated>2026-10-29T06:00:00+00:00</updated>
+<updated>2026-11-17T15:00:00+00:00</updated>
+<entry>
+  <title>Burger King: Flame Grilled – Paul Butterworth</title>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/aI8By3Ye"/>
+  <id>https://framerate.tv/watch/aI8By3Ye</id>
+  <published>2026-11-17T15:00:00+00:00</published>
+  <updated>2026-11-17T15:00:00+00:00</updated>
+  <author><name>Paul Butterworth</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/Dw9iBHoumuX7QotHLTN54n7mePEnh02lnZx6WDBjl01N00/720p.mp4"/>
+  <media:content url="https://stream.mux.com/Dw9iBHoumuX7QotHLTN54n7mePEnh02lnZx6WDBjl01N00/720p.mp4" medium="video" type="video/mp4" duration="35" isDefault="true">
+    <media:player url="https://framerate.tv/embed/aI8By3Ye" width="1280" height="720"/>
+    <media:thumbnail url="https://image.mux.com/Dw9iBHoumuX7QotHLTN54n7mePEnh02lnZx6WDBjl01N00/thumbnail.jpg?time=21.312979646312982&amp;width=1920"/>
+    <media:title>Burger King: Flame Grilled – Paul Butterworth</media:title>
+  </media:content>
+  <media:thumbnail url="https://image.mux.com/Dw9iBHoumuX7QotHLTN54n7mePEnh02lnZx6WDBjl01N00/thumbnail.jpg?time=21.312979646312982&amp;width=1920"/>
+  <webfeeds:featuredImage>https://image.mux.com/Dw9iBHoumuX7QotHLTN54n7mePEnh02lnZx6WDBjl01N00/thumbnail.jpg?time=21.312979646312982&amp;width=1920</webfeeds:featuredImage>
+  <summary>Proyecto seleccionado por FrameRate: Burger King: Flame Grilled</summary>
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://image.mux.com/Dw9iBHoumuX7QotHLTN54n7mePEnh02lnZx6WDBjl01N00/thumbnail.jpg?time=21.312979646312982&amp;amp;width=1920" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/Dw9iBHoumuX7QotHLTN54n7mePEnh02lnZx6WDBjl01N00/720p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/Dw9iBHoumuX7QotHLTN54n7mePEnh02lnZx6WDBjl01N00.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/aI8By3Ye" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://image.mux.com/Dw9iBHoumuX7QotHLTN54n7mePEnh02lnZx6WDBjl01N00/thumbnail.jpg?time=21.312979646312982&amp;amp;width=1920" alt="Burger King: Flame Grilled" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/aI8By3Ye" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:35)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/hey_butts"&gt;Paul Butterworth&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:35&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/aI8By3Ye" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>SS#1 – CYPHER</title>
   <link rel="alternate" type="text/html" href="https://framerate.tv/watch/klzxCao1"/>
@@ -997,40 +1029,5 @@
 &lt;p&gt;We're betting on FrameRate. Not just for this project but for what they're building for everyone who works in this space. Films like this are rare opportunities in our industry and this one was a particular joy to make.&lt;/p&gt;
 &lt;p&gt;Read more and take a look behind the scenes at:&lt;br /&gt;https://framerate.tv/blog/making-the-framerate-brand-manifesto&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://framerate.tv/watch/teOWko2C" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Spotify Mixing Tools – BUCK</title>
-  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/UNjb1pQM"/>
-  <id>https://framerate.tv/watch/UNjb1pQM</id>
-  <published>2026-05-22T14:00:00+00:00</published>
-  <updated>2026-05-22T14:00:00+00:00</updated>
-  <author><name>BUCK</name></author>
-  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/4BrwUEhTKPBfeOrVKaATTJy7qdbziYPzuyETX1VkjbY/1080p.mp4"/>
-  <media:content url="https://stream.mux.com/4BrwUEhTKPBfeOrVKaATTJy7qdbziYPzuyETX1VkjbY/1080p.mp4" medium="video" type="video/mp4" duration="30" isDefault="true">
-    <media:player url="https://framerate.tv/embed/UNjb1pQM" width="1280" height="720"/>
-    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg"/>
-    <media:title>Spotify Mixing Tools – BUCK</media:title>
-  </media:content>
-  <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg"/>
-  <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg</webfeeds:featuredImage>
-  <summary>We crafted this neon-powered 2D spot to celebrate the evolution of Spotify's Mixing Tools, made in collaboration with Spotify's in-house Creative team. A spaceship takes us on a playful journey through three distinct worlds inspired by the music: an abstract club scene, an ethereal lotus flower land</summary>
-  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
-&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
-  &lt;source src="https://stream.mux.com/4BrwUEhTKPBfeOrVKaATTJy7qdbziYPzuyETX1VkjbY/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/4BrwUEhTKPBfeOrVKaATTJy7qdbziYPzuyETX1VkjbY.m3u8" type="application/x-mpegURL" /&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;div style="margin:1.2em 0; text-align:center;"&gt;
-  &lt;a href="https://framerate.tv/watch/UNjb1pQM" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
-    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/36b0823c-95d7-4e6a-9bd6-a56c23e5ac2d/296bb771-2e38-48ea-a003-e584007eb977/thumbnail.jpg" alt="Spotify Mixing Tools" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
-  &lt;/a&gt;
-  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
-    &lt;a href="https://framerate.tv/watch/UNjb1pQM" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:31)&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
-&lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/buck"&gt;BUCK&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:31&lt;/p&gt;
-&lt;p&gt;We crafted this neon-powered 2D spot to celebrate the evolution of Spotify's Mixing Tools, made in collaboration with Spotify's in-house Creative team.&lt;/p&gt;
-&lt;p&gt;A spaceship takes us on a playful journey through three distinct worlds inspired by the music: an abstract club scene, an ethereal lotus flower landscape, and a surreal city of giant faces.&lt;/p&gt;
-&lt;p&gt;The film seamlessly flows through tracks from Disclosure x Anderson .Paak, Jhené Aiko, and BLACKPINK visualizing an epic musical journey made possible by Mixing Tools.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/UNjb1pQM" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
