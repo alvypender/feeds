@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude Fable 5.2 construye un juego 3D estilo GTA en 2 horas con agentes paralelos y MCP de Higgsfield — Frame &amp; Prompt</title>
+  <meta name="description" content="Un juego 3D de parkour dreamcore con cinco niveles, creador de personajes estilo Los Sims, chat de voz y generador de avatares con IA pasó de una estimación inicial de 24 horas a solo 2 horas de construcción real. La clave no fue un prompt mágico, sino un brief con referencias visuales, la conexión ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Fable 5.2 construye un juego 3D estilo GTA en 2 horas con agentes paralelos y MCP de Higgsfield">
+  <meta property="og:description" content="Un juego 3D de parkour dreamcore con cinco niveles, creador de personajes estilo Los Sims, chat de voz y generador de avatares con IA pasó de una estimación inicial de 24 horas a solo 2 horas de construcción real. La clave no fue un prompt mágico, sino un brief con referencias visuales, la conexión ">
+  <meta property="og:image" content="https://i.ytimg.com/vi/qGiG1bpqlJw/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-qGiG1bpqlJw.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude Fable 5.2 construye un juego 3D estilo GTA en 2 horas con agentes paralelos y MCP de Higgsfield">
+  <meta name="twitter:description" content="Un juego 3D de parkour dreamcore con cinco niveles, creador de personajes estilo Los Sims, chat de voz y generador de avatares con IA pasó de una estimación inicial de 24 horas a solo 2 horas de construcción real. La clave no fue un prompt mágico, sino un brief con referencias visuales, la conexión ">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/qGiG1bpqlJw/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-qGiG1bpqlJw.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude Fable 5.2 construye un juego 3D estilo GTA en 2 horas con agentes paralelos y MCP de Higgsfield</h1>
+        <div class="metadata">
+          <span>Por <strong>Kaye Creates</strong></span>
+          <time datetime='2026-11-19T17:04:16.664298-05:00'>2026-11-19</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/qGiG1bpqlJw" title="Claude Fable 5.2 construye un juego 3D estilo GTA en 2 horas con agentes paralelos y MCP de Higgsfield" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=qGiG1bpqlJw" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Un juego 3D de parkour dreamcore con cinco niveles, creador de personajes estilo Los Sims, chat de voz y generador de avatares con IA pasó de una estimación inicial de 24 horas a solo 2 horas de construcción real. La clave no fue un prompt mágico, sino un brief con referencias visuales, la conexión de Claude Fable 5.2 a Higgsfield vía MCP y, sobre todo, la activación de múltiples agentes en paralelo. El resultado incluye texturas realistas tras una iteración, música dinámica por zonas y soporte para hasta 1000 jugadores simultáneos, aunque la visión estética y la corrección de detalles siguieron dependiendo del criterio humano.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Kaye Creates</strong>: <a href="https://www.youtube.com/watch?v=qGiG1bpqlJw" target="_blank" rel="noopener">I Built a 3D Game With Claude Fable 5.2 in 2 Hours (No Code)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El brief que vale más que mil prompts: referencias visuales y mecánicas comparadas</h3>
+<p>La primera lección del experimento es que la calidad del juego depende directamente de la calidad del primer mensaje. En lugar de pedir &#x27;hazme un juego 3D&#x27;, la creadora construyó un brief escrito detallado y lo acompañó de <strong>referencias visuales</strong>: imágenes de personajes, locaciones y el estilo dreamcore que quería replicar. Ese material se convierte en el ancla estética que el modelo usa para no derivar hacia un look genérico.</p>
+<p>El brief también traduce mecánicas abstractas a comparaciones con juegos conocidos, un truco que reduce la ambigüedad sin necesidad de especificaciones técnicas. Así, el creador de personajes se describe <em>&#x27;como en Los Sims&#x27;</em>, el parkour <em>&#x27;como Roblox pero más fácil&#x27;</em> y las estrellas flotantes <em>&#x27;como en Subway Surfers&#x27;</em>. Para cerrar, una frase que ahorra créditos y horas de retrabajo: <strong>&#x27;Si algo no está claro, hazme preguntas antes de empezar a construir para no tener que rehacerlo después&#x27;</strong>. Ese escudo conversacional evita que el modelo tome decisiones arbitrarias que luego haya que deshacer.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">MCP y Seedream 5.5: generar assets sin salir del chat</h3>
+<p>El flujo técnico se apoya en el <strong>Model Context Protocol (MCP)</strong>, el estándar que permite a Claude conectarse a herramientas externas y ejecutar acciones dentro de la misma conversación. Con Higgsfield enlazado por MCP, la creadora genera imágenes y videos directamente en el chat, sin cambiar de pestaña ni descargar archivos intermedios. Para las hojas de personaje eligió <strong>Seedream 5.5</strong> con un formato de tres paneles, porque mantiene mejor la consistencia facial y de vestuario entre vistas, algo crítico cuando el avatar debe verse igual en el creador, en el juego y en el chat de voz.</p>
+<p>La infraestructura no exige planes costosos: basta con la <strong>suscripción más básica de Claude y de Higgsfield</strong> para replicar el proceso. Aun así, cada generación consume créditos, y de ahí la importancia de invertir el presupuesto en un brief sólido y en preguntas aclaratorias antes de construir, en lugar de gastarlo en correcciones sucesivas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Agentes en paralelo: de 24 horas a 2 horas de construcción</h3>
+<p>El giro que cambió el proyecto fue una petición explícita: <strong>&#x27;¿Podemos añadir varios agentes ahora para que el juego esté listo en 2 horas?&#x27;</strong>. Claude Fable 5.2, lanzado la semana anterior al video y optimizado para espacios 3D, animación y lógica compleja, orquestó múltiples agentes que trabajaron en paralelo sobre distintas partes del juego. La estimación inicial con un solo agente era de <strong>24 horas</strong>; con el enfoque multiagente, la construcción se completó en <strong>2 horas</strong>.</p>
+<p>El juego resultante incluye <strong>cinco niveles</strong> con habilidades desbloqueables como el doble salto y la natación, un creador de personajes estilo Sims, chat de voz, música dinámica y un generador de avatares con IA. La escala técnica sorprende para un proyecto de dos horas: <strong>hasta 1000 jugadores simultáneos</strong>, organizados en <strong>12 clanes</strong> y un <strong>leaderboard de top 10</strong>. El layout se especificó en horizontal para laptops, con la condición de que los controles móviles siguieran funcionando, un detalle de usabilidad que el brief dejó claro desde el inicio.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Iterar con precisión: texturas, cámara y el bug que nadie vio</h3>
+<p>La primera versión del juego reveló el límite del modelo: los personajes, los edificios y el dragón se veían <strong>demasiado blocky y plásticos</strong>, y la cámara del mousepad no respondía. La corrección no vino de un &#x27;mejóralo&#x27; genérico, sino de una instrucción específica: <em>&#x27;El dragón, los personajes y los edificios se ven demasiado plásticos y necesitan mejores texturas 3D e iluminación&#x27;</em>. Claude respondió añadiendo texturas realistas de ladrillo, ventanas brillantes y escamas en el dragón, además de arreglar el control de cámara.</p>
+<p>El episodio más revelador fue un <strong>bug en el botón de salto en móviles</strong> que la creadora no había notado y que Claude detectó y corrigió por su cuenta. La música siguió un camino similar: la primera generación sonaba demasiado infantil, y tras pedir versiones más calmadas se obtuvo una banda sonora dreamy que cambia automáticamente según la zona del nivel. La conclusión es clara: la IA hace el trabajo pesado, pero <strong>la visión y el criterio humano</strong> siguen siendo necesarios para corregir la estética y la usabilidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Generador de avatares con IA y chat de voz: el juego como plataforma social</h3>
+<p>El generador de personajes con IA dentro del juego resuelve un problema clásico de los avatares personalizados: convertir una selfie en una descripción utilizable. El flujo es simple pero efectivo: se pulsa el <strong>botón de copiar solicitud</strong>, se pega en Claude o ChatGPT junto con una selfie, se obtiene una descripción detallada y esa descripción se pega de vuelta en el juego. Así, el avatar final conserva rasgos reconocibles sin necesidad de un editor complejo.</p>
+<p>La capa social se completa con una <strong>opción de chat de voz</strong> y un botón de <em>&#x27;jugar con amigos&#x27;</em> en la pantalla de inicio que crea salas privadas. Con 12 clanes, leaderboard y hasta 1000 jugadores simultáneos, el proyecto deja de ser una demo técnica y se acerca a una plataforma multijugador real, construida íntegramente sin escribir código.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Monetización: la habilidad como activo, no solo el juego</h3>
+<p>Más allá del juego, el video analiza las oportunidades de negocio que abre esta capacidad. La combinación de <strong>Claude Fable 5.2, MCP y generación de assets</strong> permite ofrecer servicios de prototipado rápido de juegos 3D, crear experiencias interactivas para marcas o vender plantillas y flujos de trabajo a otros creadores. El costo de entrada es bajo —suscripciones básicas— y el cuello de botella se desplaza del código a la <strong>dirección creativa</strong>: quien sepa escribir un buen brief y corregir con precisión tendrá ventaja sobre quien solo sepa pedir &#x27;un juego&#x27;.</p>
+<p>El mensaje final es que la IA no elimina al creador, sino que reubica su valor en la visión, el criterio estético y la capacidad de iterar con instrucciones quirúrgicas. Ese es el activo que se puede monetizar.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Frase clave para el brief: &#x27;Si algo no está claro, hazme preguntas antes de empezar a construir para no tener que rehacerlo después&#x27;.</li>
+<li>Para acelerar: pedir explícitamente a Claude que use múltiples agentes en paralelo (24 h → 2 h).</li>
+<li>Para corregir estética: nombrar el problema concreto (&#x27;demasiado plástico&#x27;) y pedir texturas 3D e iluminación específicas.</li>
+<li>Para avatares: copiar la solicitud del juego, pegarla en Claude o ChatGPT con una selfie y devolver la descripción generada.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Claude Fable 5.2</strong> — Modelo de IA que genera el juego 3D completo: lógica, niveles, personajes y multijugador.</li>
+<li><a href="https://higgsfield.ai/s/games-kaye-creatives-fwAEiR" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma conectada vía MCP para generar imágenes y videos desde el chat de Claude.</li>
+<li><strong>Seedream 5.5</strong> — Modelo de imágenes para hojas de personaje de tres paneles con consistencia facial.</li>
+<li><strong>MCP (Model Context Protocol)</strong> — Protocolo que conecta Claude con herramientas externas como Higgsfield dentro del chat.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-qGiG1bpqlJw.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

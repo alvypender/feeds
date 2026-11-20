@@ -3,7 +3,287 @@
 <title>Dribbble Stories – Diseño y Curaduría</title>
 <link href="https://dribbble.com/stories"/>
 <id>https://dribbble.com/stories</id>
-<updated>2026-11-09T20:23:57+00:00</updated>
+<updated>2026-11-18T13:21:05+00:00</updated>
+<entry>
+  <title>Designing an Ecommerce Store for the Second Purchase</title>
+  <link href="https://dribbble.com/stories/2026/11/18/designing-an-ecommerce-store-for-the-second-purchase"/>
+  <id>https://dribbble.com/stories/2026/11/18/designing-an-ecommerce-store-for-the-second-purchase</id>
+  <published>2026-11-18T13:21:05+00:00</published>
+  <updated>2026-11-18T13:21:05+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/73442/original/dcacc74d3f48defb333ea41a58541e57.png?1795007568"/>
+  <media:content url="https://cdn.dribbble.com/uploads/73442/original/dcacc74d3f48defb333ea41a58541e57.png?1795007568" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/73442/original/dcacc74d3f48defb333ea41a58541e57.png?1795007568"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/73442/original/dcacc74d3f48defb333ea41a58541e57.png?1795007568</webfeeds:featuredImage>
+  <summary>&lt;%= render_staff_markdown(WordPressArticle.find_by_id!(3505).content) %&gt; ⁠</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/73442/original/dcacc74d3f48defb333ea41a58541e57.png?1795007568" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;&amp;lt;%= render_staff_markdown(WordPressArticle.find_by_id!(3505).content) %&amp;gt; ⁠&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;By Quincy Samycia&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Imagine someone spending an evening choosing a coffee machine. They compare finishes, look closely at the controls, consider where it will sit, and decide whether the price makes sense. The website helps them reach a decision. They place the order.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A few weeks later, that same person returns to buy coffee for the machine or find an answer about using it. They arrive with a different level of knowledge and a more specific task. The relationship has moved forward. Has the website made room for that change?&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I think this question belongs in the original ecommerce brief. Designing for the second purchase means considering what the first purchase allows the customer to stop figuring out. It also means understanding what they may need to learn next.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A returning customer should be able to build on an earlier decision. That is a useful design standard whether the next visit leads to another order, a resolved question, or a decision to come back later.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;The product determines what comes next&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73443/original/b97fd36a7fffa388a067dbcaa0c0b63e.png?1795007580" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The phrase “second purchase” needs some care. Someone buying coffee regularly has a different relationship with the catalogue from someone choosing a machine they expect to keep for years. The same person can occupy both situations within one brand.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For a frequently consumed product, a useful next visit might involve replenishment. For equipment, it could involve setup, care, compatibility, or support. Designers should understand that ownership cycle before deciding what a returning customer needs to see.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Our work at The Branded Agency for &lt;a href="https://www.brandedagency.com/case-studies/milton-coffee-co" rel="nofollow noopener" target="_blank"&gt;Milton Coffee Co.&lt;/a&gt; offers a useful starting point. The project involved refreshing the interface and copy while retaining the existing branding and photography. We developed customized Shopify product templates, supported catalogue migration and organization, and integrated a third-party design-your-own experience for the brand’s customizable coffee machines.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Those decisions establish how products and their differences are explained. When considering how an experience like this could serve an existing owner, I would start with that structure: can the customer return to the details of the product they chose and understand what is relevant to it?&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That question gives the designer a more precise assignment. The next useful interaction may be buying a compatible consumable. It may be finding information that helps someone keep using a product they already value. The design should make room for both.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Keep earlier decisions visible&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73444/original/d5eb182b0e80908204a227e0d53e49b3.png?1795007593" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A customer may remember liking a product without remembering its exact name. They may recognize a finish but forget how the catalogue described it. They may know that a previous order worked well without recalling the quantity or configuration.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The interface can help preserve those decisions. A useful order record would show a recognizable image, the product name, the selected options, and what was included. The customer should be able to connect that record to the item they own.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This follows Nielsen Norman Group’s explanation of &lt;a href="https://www.nngroup.com/articles/recognition-and-recall/" rel="nofollow noopener" target="_blank"&gt;recognition and recall in interface design&lt;/a&gt;: making relevant information visible gives people cues they would otherwise have to retrieve from memory. The principle applies to the content we show as well as the controls we design.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For a returning shopper, this means showing the details needed to identify a previous choice. An order number alone cannot explain whether the customer selected the smaller pack, a particular finish, or an optional attachment.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That also creates a responsibility when the catalogue changes. A renamed product or updated package should remain understandable in relation to an earlier order. If an old variant has been discontinued, the interface should explain that change and identify any suitable alternative clearly.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Continuity depends on these small details remaining legible over time.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Make buying again easy to review&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73445/original/062c4912342beb242ac1b7f370bd982f.png?1795007605" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A previous purchase is a useful starting point. It does not settle every decision about the next one.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Someone may want the same product in a different quantity. They may be ordering for a different address or choosing another version for someone else. Their needs may have changed since the last order.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A repeat-order action should assemble a clear, editable selection. Before committing, the customer should be able to see the exact item, current price, quantity, availability, and any choices carried forward. The interface should make it easy to correct an assumption.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This matters especially when the offer has changed. A previous order might have included a temporary discount, a bundle, or a pack size that is no longer available. Reusing that order should never leave the customer to discover the difference only after purchase.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The same thinking applies where subscriptions are appropriate. Frequency, quantity, and the next charge belong close to the controls for managing the arrangement. Someone who needs to delay a delivery should be able to understand what that change will do.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;My standard for these interactions is whether the customer can complete the task with confidence. A short path that leaves its consequences unclear still asks the customer to do unnecessary work.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Give ownership a place in the navigation&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73446/original/aa5cff96feb1910749e4dbf33c2ecab3.png?1795007616" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The customer who already owns a product needs a clear route into the experience. Sometimes that route is an account. Sometimes it is a product page, a search result, or a link saved from an earlier order.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Useful product information should remain accessible when the customer cannot remember where they purchased or how they signed in. Someone who received the product as a gift may need the same care information as the original buyer.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Product guidance should therefore have a sensible public structure, with model names and categories that connect to the products themselves. An account can add context, such as a previous configuration or order, while the underlying information remains findable.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Within the navigation, the distinction should be practical. A person exploring a machine needs help evaluating it. An owner looking for compatible supplies or care instructions needs a direct way to reach those tasks. Both should be able to recognize their route without interpreting internal department names.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This does not require guessing the intent of every visitor. A repeat visit alone tells us little about what someone owns or wants. Clear labels and useful paths allow people to express that intent themselves.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The design challenge is to give discovery and ownership appropriate space within the same experience.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Extend the design system into everyday interactions&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73447/original/6fee6f5ffb8f1eb593fa88766ead9e4d.png?1795007628" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Once ownership is part of the brief, the scope of the interface becomes more concrete. Order details, account navigation, product guidance, and repeat-order states deserve considered layouts and content.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Including representative examples of these screens in design reviews reveals whether the typography, spacing, language, and interaction patterns can support ordinary tasks as convincingly as the main product presentation.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;An order detail page, for example, has to establish a hierarchy between the product, its selected options, delivery information, and available actions. A help page has to connect a question to the right product. A subscription screen, where relevant, has to distinguish an upcoming order from the settings that govern future ones.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These are substantial design decisions. Their value comes from making the relationship easier to manage, and they deserve attention before their appearance is determined by whichever component happens to supply them.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The underlying product information matters just as much. Names, images, selected options, and compatibility details need to mean the same thing wherever they appear. A visual system can make a clear structure easier to use; it cannot supply product relationships that the team has never defined.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For me, this is a reason to involve the people responsible for the catalogue and customer support while the interface is being shaped. They can help identify which details must survive across a purchase and which questions the design needs to answer.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Choose a specific return journey to improve&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73448/original/f27cb0671d328a104945d271aa9f1e28.png?1795007637" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;There is a practical limit to what any project can address. Designing for an ongoing relationship does not require building every possible account feature or retention mechanism at launch.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I would begin with a specific situation that matters for the product. A customer wants to find the exact item they bought. An owner needs compatible supplies. A subscriber needs to change an upcoming delivery. Each situation gives the team a task it can investigate and a result it can assess.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The next question is what makes that task difficult today. The answer might be a missing product detail, an unclear label, or a page that cannot be reached from the place someone expects. It could also require a deeper change to product data or the account experience.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That sequence makes feature decisions more disciplined. A proposed shortcut has a clear purpose. A new tool has to help complete an identified task. The team can also explain why some work should happen now and some should wait.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Review the experience with someone who already owns the product&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73449/original/43798fd5e72607a75944893113a38487.png?1795007648" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The strongest review of a return journey includes people who bring the knowledge the design is meant to support. &lt;a href="https://dribbble.com/resources/education/ux-design-process" rel="nofollow noopener" target="_blank"&gt;Usability testing&lt;/a&gt; provides a way to observe how those people complete meaningful tasks and use the difficulties they encounter to guide revisions.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For this work, I would make ownership part of the test. Ask someone to identify a product they previously purchased, check whether a related item is suitable, or change a choice before ordering again. Where possible, use the real details they remember and a realistic record of their earlier purchase.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Observe the moments when they have to reconstruct information. Do they leave the page to check a confirmation email? Can they tell which version they own? Do they understand what will happen after selecting an action? Can they reach the information they need without assistance?&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The inconvenient situations deserve attention too. Test a past item that is unavailable, an unfamiliar product name, and a customer arriving without an account. Those conditions show whether the design supports an ongoing relationship when the ideal path breaks down.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;After launch, I would assess the tasks the team intended to improve: whether people can complete them, where errors occur, and what questions remain unresolved. Repeat purchasing can be part of that assessment, but it also depends on the product, the customer’s needs, price, availability, and service. A visual refresh alone does not establish why someone returned.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For an equipment owner seeking guidance, finding the right answer may be the successful outcome of that visit.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;Give existing customers a clear place to continue&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I want ecommerce design briefs to account for the knowledge a customer brings back. Their first purchase has already involved time, attention, and a set of choices. The next interaction should make that effort useful.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This changes which details deserve space in the design process. A recognizable order record, a relevant piece of product guidance, or an editable repeat purchase can become an important part of how the brand is experienced.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A good product gives someone a reason to return. The website has a responsibility to help them continue when they do.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before calling an ecommerce experience complete, I would walk through it from the owner’s side. The person who has already chosen the brand should have a clear place in its design.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Quincy Samycia is co-founder and Head of Brand &amp;amp; Growth at The Branded Agency, where he works with teams on brand strategy and digital experiences.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>A Familiar Logo Is Not Enough: Packaging Design Lessons from Zig-Zag</title>
+  <link href="https://dribbble.com/stories/2026/11/18/a-familiar-logo-is-not-enough"/>
+  <id>https://dribbble.com/stories/2026/11/18/a-familiar-logo-is-not-enough</id>
+  <published>2026-11-18T12:45:10+00:00</published>
+  <updated>2026-11-18T12:45:10+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/73372/original/26b418a33dec6bd731cc48e6148d7898.png?1794885749"/>
+  <media:content url="https://cdn.dribbble.com/uploads/73372/original/26b418a33dec6bd731cc48e6148d7898.png?1794885749" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/73372/original/26b418a33dec6bd731cc48e6148d7898.png?1794885749"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/73372/original/26b418a33dec6bd731cc48e6148d7898.png?1794885749</webfeeds:featuredImage>
+  <summary>&lt;%= render_staff_markdown(WordPressArticle.find_by_id!(3503).content) %&gt; ⁠</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/73372/original/26b418a33dec6bd731cc48e6148d7898.png?1794885749" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;&amp;lt;%= render_staff_markdown(WordPressArticle.find_by_id!(3503).content) %&amp;gt; ⁠&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;By Quincy Samycia&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A familiar logo can identify the company without explaining the product. That distinction becomes important when an established brand introduces a new range: the identity needs to remain recognizable, but the packaging still has to communicate what is different.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For me, packaging design for a heritage brand is a negotiation between continuity and change. Preserve the signals that carry recognition. Give the new work enough room to have a purpose of its own. Neither leaving everything untouched nor making everything different is a strategy.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://zigzag-papers.net/history/" rel="nofollow noopener" target="_blank"&gt;Zig-Zag&amp;#8217;s history&lt;/a&gt; begins with a Paris paper workshop in 1879. When The Branded Agency provided &lt;a href="https://www.brandedagency.com/case-studies/zigzag" rel="nofollow noopener" target="_blank"&gt;creative direction and packaging design for its Natural Leaf range&lt;/a&gt;, we were working within an established identity, not replacing it. The assignment covered four variants: Blueberry Haze, Russian Cream, Straight Up Natural, and Cookies and Cream.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This was not a company-wide rebrand. It was a more specific design problem: how could a new range develop its own expression while remaining recognizably Zig-Zag?&lt;/p&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;a href="https://cdn.dribbble.com/uploads/73438/original/73bc52a3174c25265a1e26860276a516.jpg?1795004934" target="_blank" rel="noopener"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73438/original/73bc52a3174c25265a1e26860276a516.jpg?1795004934" alt="" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Protect recognition, not every previous design choice&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;There is a difference between respecting a brand&amp;#8217;s history and treating every existing execution as untouchable. A familiar identity may contain valuable recognition, but that does not make every surrounding layout a permanent rule.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I would begin by separating the decisions. Which elements identify the parent brand? Which establish the product family? Which distinguish the individual variant? When those jobs are unclear, every adjustment can feel like a threat to the whole identity.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That is where a useful creative brief should provide boundaries rather than vague reassurance. &amp;#8220;Keep the heritage&amp;#8221; leaves too much open to interpretation. It should identify what must remain recognizable and explain where the new assignment has freedom.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For an established brand, creative ambition is not measured only by how much changes. Sometimes the more demanding work is changing the right part without disturbing the rest.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Consistency should make variation possible&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A packaging system is the set of visual rules that connects individual packs while allowing their differences to be understood. It is not simply a template duplicated in several colours.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On the Zig-Zag project, a shared structure connected the pouches and cartons. Distinct palettes, expressive lettering and artwork gave the variants their individual character. The work moved through several rounds of concepts and refinement.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The broader lesson is to define relationships, not just ingredients. A palette and a font list do not explain how much emphasis the brand name needs, where a variant name belongs, or how illustration and information should coexist.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Too much variation can make a range feel assembled from unrelated assignments. Too little can make its distinctions difficult to read. The design question is not whether everything matches. It is whether the repeated elements make the differences easier to understand.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I would also ask what happens when the next variant arrives. If it requires inventing another set of rules, the original system may have been designed around the presentation rather than the range.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Original artwork needs a job beyond being original&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Every illustration in our Zig-Zag assignment was created specifically for the project. That matters as a description of the craft, but custom artwork is not automatically a solution. It still has to work within the composition.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;An illustration can establish a visual theme, distinguish one expression from another or create continuity across formats. It can also compete with a name, crowd essential information or become difficult to interpret at a smaller size. Originality does not excuse any of those problems.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Dribbble&amp;#8217;s &lt;a href="https://dribbble.com/stories/2014/11/12/design-can2" rel="nofollow noopener" target="_blank"&gt;Design on a Can: Part II&lt;/a&gt; offers a useful parallel. Josh Emrich explains how a restrained illustration style and colour palette helped Uinta&amp;#8217;s artwork translate between bottles and cans, while shared brand elements held the work together.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;What interests me is not borrowing that aesthetic. It is the discipline of giving expressive work a structure that survives a different format. The artwork and the system should be developed together, rather than asking one to rescue the other later.&lt;/p&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73439/original/22ec5ae75ddd31c5828baa1317f0c595.png?1795005159" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Hierarchy is a design decision, not a compromise&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Packaging brings several legitimate demands onto one surface. The brand, product family, variant and practical information cannot all receive equal emphasis. Making everything larger does not resolve the competition; it removes the order.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I think about hierarchy as an agreement about what needs to be understood first, second and on closer inspection. That agreement should guide typography, spacing, contrast and the distribution of artwork before individual preferences take over.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A presentation can hide an unresolved hierarchy. The designer explains the concept, the image fills a screen, and everyone already knows which detail they are supposed to notice. The finished package does not come with that explanation.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Aaron Swinton&amp;#8217;s Dribbble article &lt;a href="https://dribbble.com/stories/2026/09/29/cl-mavrk-studio-aaron-swinton-how-to-launch-a-brand-in-90-days" rel="nofollow noopener" target="_blank"&gt;How To Launch a Brand in 90 Days: A Proven System for Shelf-Ready CPG&lt;/a&gt; connects front-of-pack hierarchy to the broader realities of label systems, production files and operational requirements. That is a useful reminder that the design has to function beyond the mockup.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The creative challenge is not to eliminate complexity. It is to give each requirement an appropriate place without turning the package into a list.&lt;/p&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73440/original/908070ea3b93da24966d89d647897b87.png?1795005401" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Judge the range, not just its best image&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The review I would recommend moves between three views: one pack on its own, the full range together, and the design across its actual formats.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;On its own, can the package be understood without commentary? Across the range, are the common elements coherent and the variants distinguishable? Across formats, does the hierarchy remain useful, or has it merely been enlarged and reduced?&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Physical size matters to that review. So does the difference between a flat artwork file and a folded or filled package. I would check details in context rather than use a beautifully lit image as the sole basis for approval.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These are evaluation principles, not a claim that a particular study was conducted for Zig-Zag. The documented work shows a coordinated packaging range. It does not, by itself, establish a measured effect on sales or brand recognition.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Designers strengthen their argument when they distinguish what they intended, what they delivered and what has actually been measured. A clear explanation of a design decision is more credible than an unsupported performance claim.&lt;/p&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73441/original/5a646043fb18c2927b1d36aa3a846439.png?1795005480" alt="" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h2 class="wp-block-heading"&gt;The next expression should still belong to the brand&lt;/h2&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The lesson I take from this work is not that heritage brands should become louder, younger or more minimal. Those are aesthetic directions, not universal answers.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The opportunity is to make a precise change: give a new range its own expression while retaining a clear relationship to the identity behind it. That requires understanding what the existing brand contributes, what the new assignment must explain and which decisions should be shared across the range.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For designers, that is a substantial responsibility. We are not only creating the next piece of artwork. We are deciding how it belongs alongside work that already exists and how it can accommodate work that comes next.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A familiar logo is not the whole solution. It is something valuable the rest of the design should know how to work with.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For a considered review of an existing identity or packaging range, &lt;a href="https://www.brandedagency.com/contact-us" rel="nofollow noopener" target="_blank"&gt;contact The Branded Agency&lt;/a&gt; to discuss what to preserve, what to change and the scope of the design work.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;Quincy Samycia is co-founder and Head of Brand &amp;amp; Growth at The Branded Agency.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>10 Freelance Designer Tax Mistakes (and How to Fix Them)</title>
   <link href="https://dribbble.com/stories/2026/11/09/freelance-designer-tax-mistakes"/>
@@ -2105,364 +2385,6 @@
 &lt;p class="wp-block-paragraph"&gt;Opening the work to the whole team, going back into design history instead of skipping it, and being honest with ourselves about how much time a project like this actually takes were the choices that got us there, more than any single design decision on the page.&lt;/p&gt;
 
 &lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/71658/original/b33e5ab38195258aa24b98c7299048d5.jpg?1788539293" alt="" /&gt;&lt;/figure&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Before You Rebrand: How a Brand Audit Reveals What Actually Needs to Change</title>
-  <link href="https://dribbble.com/stories/2026/10/09/cl-quincy-samycia-the-branded-agency-brand-audit"/>
-  <id>https://dribbble.com/stories/2026/10/09/cl-quincy-samycia-the-branded-agency-brand-audit</id>
-  <published>2026-10-09T14:13:22+00:00</published>
-  <updated>2026-10-09T14:13:22+00:00</updated>
-  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516" medium="image" type="image/png"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516</webfeeds:featuredImage>
-  <summary>Dribbble Community Leader  and The Branded Agency Head of Brand and Growth Quincy Samycia explains how to distinguish positioning, messaging, execution and identity issues before commissioning a rebrand.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72547/original/98f0fdfcb98d540b36d88923494d7749.png?1791552516" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader  and The Branded Agency Head of Brand and Growth Quincy Samycia explains how to distinguish positioning, messaging, execution and identity issues before commissioning a rebrand.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;br /&gt;Quincy Samycia is Head of Brand and Growth at The Branded Agency, a branding, creative, website and growth agency working with ambitious companies across Canada, the United States and international markets. He helps organizations connect brand strategy with the creative, digital experiences and marketing systems responsible for measurable growth.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Before rebranding, &lt;a href="https://www.brandedagency.com/blog/brand-audit-for-rebranding" rel="nofollow noopener" target="_blank"&gt;conduct a brand audit&lt;/a&gt; to determine whether the problem is positioning, messaging, inconsistent execution, customer experience, or identity. A full rebrand becomes more defensible when the existing brand prevents the business from expressing a credible strategic direction.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A dated website, an unclear sales story, or a weaker campaign response can trigger a rebrand conversation. These observations describe discomfort, not its cause.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Moving directly to design risks replacing familiar assets without resolving the underlying problem. First establish what is broken, what still has value, and what customers already recognize.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;&amp;#8220;We need a rebrand&amp;#8221; usually describes a symptom&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72548/original/8298fb6af824b885b1c9a3fe45ba801e.png?1791552580" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A founder may mean the company has outgrown its market. Sales may mean prospects misunderstand the offer. Marketing may mean channels use conflicting assets. Customers may mean the experience doesn&amp;#8217;t justify the price.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Each needs a different response. New visuals can&amp;#8217;t differentiate an undifferentiated offer, fix a confusing checkout, or create ownership of brand guidelines. So the first job is working out which change the business can justify.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;A brand audit separates symptoms from causes&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72549/original/cc54f9a7f8915ed2e0b1243eb206418f.png?1791552600" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A brand audit is a structured review of the gap between the brand a company intends to create and the brand people actually encounter. It compares strategy, language, identity, experience, and perception to produce evidence for decisions, including what to preserve and what to improve. It has five layers:&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;1. Internal intent.&lt;/strong&gt; Agree on the priority audience, business direction, and credible advantages. If leaders disagree, the identity is being asked to express a strategy that hasn&amp;#8217;t been resolved.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;2. Public expression.&lt;/strong&gt; Review the website, social profiles, ads, sales materials, recruitment communications, and support experience. Look at what&amp;#8217;s in circulation today, not just the launch guidelines.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;3. Market perception.&lt;/strong&gt; Compare internal assumptions with customer interviews, reviews, sales conversations, employee feedback, and support questions. Find the gaps between the meaning you intended and what people actually understand.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;4. Competitive context.&lt;/strong&gt; Compare promises, visual conventions, and category language. Consistency gives little advantage if your story is interchangeable with your competitors&amp;#8217;.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;5. Experience and evidence.&lt;/strong&gt; Check whether the experience proves the promise. Simplicity requires an easy buying journey, expertise needs evidence, and premium positioning needs credible service and delivery.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Four different problems are commonly mistaken for one rebrand problem&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72550/original/6b8d33eb26725f37a6d520fc7c216ff8.png?1791552619" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Classify the findings before setting the creative scope.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;1. A positioning problem.&lt;/strong&gt; The company can&amp;#8217;t explain who it serves, what value it offers, or why customers should choose it. Generic homepage claims and inconsistent sales explanations are common symptoms. Research the audience and market, identify credible differentiation, and make strategic choices before redesigning.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;2. A messaging problem.&lt;/strong&gt; The strategy is sound, but internal terminology obscures the value or proof arrives too late. Rebuild the value proposition, message hierarchy, voice, and audience-specific language.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;3. An execution and governance problem.&lt;/strong&gt; A useful identity has fragmented: outdated logos circulate, campaigns invent their own styles, and sales materials contradict the website. Consolidate assets, improve templates, clarify approval rules, and assign ownership. Better governance may be the answer, not a new identity.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;4. A genuine identity problem.&lt;/strong&gt; The name or identity creates the wrong category expectation, undermines credibility, or can&amp;#8217;t support the business&amp;#8217;s direction. A merger, a new market, or a changed business model can expose these limits. The test is strategic usefulness, not whether the identity feels old.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;The evidence should determine the scope&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72551/original/2b01e1b9a9cc2abab8576715c2a08a55.png?1791552636" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A rebranding strategy should connect each finding to the right response: reposition, rewrite, systematize, redesign, or a combination. The audit diagnoses the problem. A rebrand changes the strategy or identity when that diagnosis supports it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;If the experience contradicts the promise, fix the experience. Communication can&amp;#8217;t hide that gap indefinitely.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Protect existing brand equity: recognition, search demand, familiar language, and trusted associations. Record what deserves to stay alongside what needs to change, then choose the project that closes the most important gap with the least unnecessary disruption.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;AI search has turned brand consistency into a visibility issue&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72552/original/d4e7fc629bcd1422c9863687f8068668.png?1791552656" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Search engines and AI assistants encounter websites, profiles, reviews, listings, and third-party references. They infer the company&amp;#8217;s identity from those public sources.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Coherent names, categories, audiences, expertise, and proof make that identity easier to interpret. Conflicting descriptions can produce ambiguity. An &amp;#8220;enterprise consultancy&amp;#8221; on the homepage, a &amp;#8220;creative studio&amp;#8221; on LinkedIn, and a &amp;#8220;software provider&amp;#8221; in directories present three different expectations.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Audit facts and positioning across sources while letting language adapt to context. Support important claims with credible evidence. Consistency can improve interpretability, though it doesn&amp;#8217;t guarantee rankings or AI citations.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Can a brand audit improve SEO, AEO, and GEO?&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;It can identify contradictory company information, unclear expertise, and missing proof. Addressing those gaps supports machine understanding without guaranteeing visibility.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Mini case study: humanizing data inside PepsiCo&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72553/original/b4329292ca0a753b0771682f76664103.png?1791552672" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Our work with PepsiCo&amp;#8217;s Data Science &amp;amp; Advanced Analytics team could have been framed as visual modernization. The diagnosis showed a perception problem. The team powered insights across major brands, yet data science could feel technical and intimidating to internal stakeholders, and potential recruits could miss its role in shaping global commerce.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We repositioned the story around what data enabled: clearer foresight, better decisions, and greater confidence. The identity balanced precision with warmth across messaging, presentations, internal communications, recruitment materials, and the team&amp;#8217;s app. The gaps in strategy and communication defined the visual system&amp;#8217;s job. Without diagnosis, the team might have received a polished version of the same inaccessible story.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://www.brandedagency.com/case-studies/pepsico-data-science-analytics" rel="nofollow noopener" target="_blank"&gt;View the PepsiCo Labs Data Science and Advanced Analytics case study&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;When a full rebrand is actually justified&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72554/original/756b010f4d9d5a786e0fb2c66f071b9e.png?1791552689" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;There&amp;#8217;s no universal threshold, but the case gets stronger when:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;The business or category has changed substantially&lt;/li&gt;
-
-
-
-&lt;li&gt;A merger requires new brand architecture&lt;/li&gt;
-
-
-
-&lt;li&gt;The name limits growth&lt;/li&gt;
-
-
-
-&lt;li&gt;Priority audiences no longer recognize themselves&lt;/li&gt;
-
-
-
-&lt;li&gt;Research shows the identity reduces trust&lt;/li&gt;
-
-
-
-&lt;li&gt;The visual system lacks the range needed across products, markets, and digital experiences&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;One issue may justify an update. Several connected constraints can support broader change.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Identify what must survive, whether a name, color, symbol, phrase, or product story. Continuity protects useful memory, and a clearer system can feel new without erasing every recognizable asset.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;How do you know whether your company needs a rebrand?&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Look for evidence that the identity or name blocks the business&amp;#8217;s direction. Messaging or governance problems may need narrower changes.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Run the audit before writing the creative brief&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72555/original/82f6173cb7714defd23fe56a6b2f4849.png?1791552714" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Use the audit to define the audience, business change, perception gap, assets to retain, required evidence, and the observable job of the new system.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Start with current touchpoints and competitor materials. Compare claims, language, identity, and proof, and ask customers and employees how they describe the company. Note confusion, friction, and overlooked strengths.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Teams that want an outside-in starting point can review public brand, website, search, reputation, and AI-visibility signals and turn them into a prioritized diagnostic, as in The Branded Agency&amp;#8217;s &lt;a href="https://audit.brandedagency.com/" rel="nofollow noopener" target="_blank"&gt;Brand Health Audit&lt;/a&gt;. This doesn&amp;#8217;t replace customer interviews or a full strategic engagement, but it can show where deeper investigation is most likely to matter.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Translate findings into decisions with priorities and owners, rather than delivering observations alone. &lt;a href="https://dribbble.com/hire/brand-designers" target="_blank" rel="noopener"&gt;Brand designers&lt;/a&gt; can then carry those decisions into the identity and system.&lt;/p&gt;
-
-&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;How often should you conduct a brand audit?&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Consider an annual review, plus additional checks before expansion, mergers, &lt;a href="https://dribbble.com/hire/web-designers" target="_blank" rel="noopener"&gt;website redesigns&lt;/a&gt;, or major audience changes.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;A good audit should make the answer smaller and clearer&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The answer may be a new identity, clearer positioning, stronger proof, or templates people can use. A company shouldn&amp;#8217;t replace its whole brand to solve every brand problem.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We audit first, preserve useful recognition, and change only what keeps the company from being easier to understand, trust, and choose.&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Why Website Redesigns Fail Before the First Screen Is Designed</title>
-  <link href="https://dribbble.com/stories/2026/10/08/cl-quincy-samycia-the-branded-agency-website-redesign-strategy"/>
-  <id>https://dribbble.com/stories/2026/10/08/cl-quincy-samycia-the-branded-agency-website-redesign-strategy</id>
-  <published>2026-10-08T14:47:10+00:00</published>
-  <updated>2026-10-08T14:47:10+00:00</updated>
-  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492" medium="image" type="image/png"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492</webfeeds:featuredImage>
-  <summary>Dribbble Community Leader  and The Branded Agency Head of Brand and Growth Quincy Samycia explains why strong redesigns begin with positioning, decision architecture, proof and measurement before the first screen is designed.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72448/original/d2e4a04d8c9950a383909b0b3e4b3571.png?1791306492" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader  and The Branded Agency Head of Brand and Growth Quincy Samycia explains why strong redesigns begin with positioning, decision architecture, proof and measurement before the first screen is designed.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;br /&gt;Quincy Samycia is Head of Brand and Growth at &lt;a href="https://www.brandedagency.com/" target="_blank" rel="noopener"&gt;The Branded Agency&lt;/a&gt;, a branding, creative, website and growth agency working with ambitious companies across Canada, the United States and international markets. He helps organizations connect brand strategy with the creative, digital experiences and marketing systems responsible for measurable growth.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Website redesigns fail when teams change the interface before they settle on audience priorities, positioning, content, customer journeys and measures of success. A strong website redesign strategy defines those foundations first, then uses &lt;a href="https://www.brandedagency.com/services/website" rel="nofollow noopener" target="_blank"&gt;UX/UI design&lt;/a&gt;, development and testing to turn them into a clearer, more useful experience.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A dated interface, crowded navigation and slow publishing are symptoms. At The Branded Agency, our website strategy, UX/UI design and development work starts with a different question: what decision should this website help the right person make?&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That question shifts the conversation from preference to purpose. It makes us define the audience, the value of the offer, the evidence needed to believe it and the path from interest to action. It also shows that many apparent design problems are unresolved business, brand or content problems.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;A website redesign brief usually describes symptoms&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72449/original/022a03a98f0fdb5da9fc42265e267371.png?1791306509" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&amp;#8220;Make it modern&amp;#8221; may signal outdated positioning. &amp;#8220;Simplify it&amp;#8221; may point to an undefined priority audience. &amp;#8220;Improve conversion&amp;#8221; may mean the offer lacks proof. &amp;#8220;Make it easier to update&amp;#8221; may mean no one owns the content.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Moving to Webflow or Shopify doesn&amp;#8217;t answer any of those questions. Platform requirements should come out of the diagnosis, not stand in for it. When we skip that step, design inherits decisions the business has avoided, and the result is a polished website that is still hard to understand.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Brand, decision and operations: the three jobs of a website&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72450/original/ed8e500b140e3eb7c04bc81a82ca84c7.png?1791306527" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We treat a website as three connected systems:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Brand: makes the company recognizable and communicates a distinct point of view.&lt;/li&gt;
-
-
-
-&lt;li&gt;Decision: helps visitors judge relevance, credibility and the next step.&lt;/li&gt;
-
-
-
-&lt;li&gt;Operations: lets marketing publish, sales share useful destinations and internal teams keep content accurate.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When one system dominates, the trade-offs are predictable: memorable but vague storytelling, interchangeable conversion tactics, or efficient but uninspiring templates. Our goal is a website strategy that links expression, action and operation in one customer experience.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Six questions every website redesign should answer&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72451/original/55a0c8da47e95eddfe7788b5318e806c.png?1791306548" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Before we sketch a wireframe, we want clear answers to these questions:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Who is the priority audience?&lt;/li&gt;
-
-
-
-&lt;li&gt;What are they trying to accomplish?&lt;/li&gt;
-
-
-
-&lt;li&gt;What makes this offer meaningfully different?&lt;/li&gt;
-
-
-
-&lt;li&gt;What must they understand before they can act?&lt;/li&gt;
-
-
-
-&lt;li&gt;What proof will reduce their doubt?&lt;/li&gt;
-
-
-
-&lt;li&gt;Which action represents real business value?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Vague answers produce generic hero copy, navigation organized by department and competing calls to action. That is why we let positioning and messaging shape the sitemap: they decide what matters, in what order and to whom.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;The website redesign process&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72452/original/ebfa14a817898e71f5221d0ebd55a914.png?1791306565" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;When copywriters fill predetermined boxes and analytics arrives near launch, teams lose the chance to shape the experience. We start the website redesign process by mapping the visitor&amp;#8217;s decision.&lt;/p&gt;
-
-&lt;ol class="wp-block-list"&gt;
-&lt;li&gt;Start from where the visitor is&lt;br /&gt;Visitors may be researching a category, comparing options, validating a recommendation or getting ready to buy, and each stage needs a different path. Someone arriving from a specific campaign may need product evidence right away, while someone researching the category may need context first. The content sequence should account for those entry points.&lt;/li&gt;
-
-
-
-&lt;li&gt;Name the decision they are trying to make&lt;br /&gt;Vague goals such as &amp;#8216;learn more&amp;#8217; become a concrete question: does this product fit my workflow? Can I justify its price? The page is then built around the answer.&lt;/li&gt;
-
-
-
-&lt;li&gt;Sequence claim, meaning and proof&lt;br /&gt;&amp;#8220;Faster&amp;#8221; invites &amp;#8220;compared with what?&amp;#8221; &amp;#8220;Trusted&amp;#8221; invites &amp;#8220;by whom?&amp;#8221; We explain what each benefit means and place supporting evidence next to the claim.&lt;/li&gt;
-
-
-
-&lt;li&gt;Remove friction and keep the character&lt;br /&gt;Clarity depends on hierarchy. Cutting words or colours alone rarely achieves it. We keep the next step visible and preserve a distinctive voice and visual identity. Then we test whether someone can identify the offer, find relevant evidence and locate the next step without help from the project team. If they can&amp;#8217;t, revisit sequence and emphasis before adding content or stripping back the identity.&lt;/li&gt;
-
-
-
-&lt;li&gt;Define success before choosing the solution&lt;br /&gt;We define the intended outcome before selecting platforms, components and analytics. What success looks like depends on the business: an enterprise site may prioritize publishing workflows, an eCommerce site may need strong product discovery, and a lead generation site may need qualification and sales follow-up. We choose Webflow, Shopify or another platform against those requirements, not the other way around.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Proof should be part of the design system&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72453/original/27f837c12bdee138cfbcf56029c28d9b.png?1791306588" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Proof belongs where visitors encounter doubt, not on a disconnected testimonial page. We match the evidence to the claim:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt;: benchmarks, results or demonstrations.&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Expertise&lt;/strong&gt;: relevant case studies, credentials or process.&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Trust&lt;/strong&gt;: reviews, recognizable clients and transparent policies.&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Usability&lt;/strong&gt;: an experience that is easy to complete.&lt;/li&gt;
-
-
-
-&lt;li&gt;&lt;strong&gt;Brand&lt;/strong&gt;: consistency between the promise and the experience.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We map proof during wireframing because evidence changes layouts and content requirements. Sometimes an unsupported claim has to change as well.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Build a content system, not a collection of pages&lt;/h2&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/72454/original/89d11bdbb0f812ed6f6840267d541005.png?1791306604" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A refined homepage must eventually support dozens of less prominent pages, and reusable components alone won&amp;#8217;t make that system scale.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A content system defines page purposes, field relationships, content limits, reusable proof patterns and rules for variation. Ownership is assigned so teams know who creates, approves and maintains content, and each element is marked as mandatory or optional, with a clear link between proof and products or services. A content model should reflect how the organization actually creates and updates information.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Whether you &lt;a href="https://dribbble.com/hire/webflow-designers" target="_blank" rel="noopener"&gt;hire Webflow designers&lt;/a&gt; or &lt;a href="https://dribbble.com/hire/shopify-website-designers" target="_blank" rel="noopener"&gt;Shopify designers&lt;/a&gt;, make sure templates are tested with real content and with the people who will publish it.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Flexibility should support informed choices without breaking hierarchy. The best handoff isn&amp;#8217;t a library of blocks; it&amp;#8217;s a set of choices the internal team can make with confidence.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;What this looked like for Milton Coffee Co.&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://www.brandedagency.com/case-studies/milton-coffee-co" target="_blank" rel="noopener"&gt;Milton Coffee Co.&lt;/a&gt; came to us with a specific eCommerce website redesign problem: the site did not communicate the value of its premium, customizable coffee machines clearly enough.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We began with discovery and creative exploration, kept the existing branding and photography, and refined the homepage and section copy. A customized Shopify template, dynamic product templates and a third-party &amp;#8220;design your own&amp;#8221; integration supported the buying journey.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Behind the screen, the templates also simplified future product uploads. The work connected what customers needed to understand with what the internal team needed to maintain, which took the project beyond a visual refresh.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Performance and accessibility are design requirements&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We treat speed, stability, responsiveness and accessibility as design inputs from the start of the project.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Google&amp;#8217;s Core Web Vitals guidance focuses on loading performance, interactivity and visual stability, because these are measurable parts of the experience real users receive. The Web Content Accessibility Guidelines are organized around content being perceivable, operable, understandable and robust.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;In practice, that means budgeting for media and animation, protecting contrast, using meaningful headings and supporting keyboard interaction. These decisions affect both comprehension and usability. A website that promises simplicity but loads slowly or excludes visitors contradicts its own message.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Treat launch as the start of learning&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Launch begins observation of the complete website; it doesn&amp;#8217;t end the redesign. Prototype testing reduces risk, but real behaviour will still raise questions the project team didn&amp;#8217;t anticipate. The Nielsen Norman Group&amp;#8217;s iterative homepage redesign case study is a useful illustration of design improving through rounds of prototyping, testing and refinement rather than a single reveal.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We set baseline measures before launch, then review:&lt;/p&gt;
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Can priority visitors find the information they need?&lt;/li&gt;
-
-
-
-&lt;li&gt;Which messages and proof encourage useful action?&lt;/li&gt;
-
-
-
-&lt;li&gt;Where do qualified visitors hesitate or leave?&lt;/li&gt;
-
-
-
-&lt;li&gt;Can the team publish without weakening the system?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The answers set improvement priorities. Qualified inquiries, completed purchases and publishing efficiency deserve a look alongside conversion rate, since not every click carries equal weight.&lt;/p&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Settle the foundations before you approve a mockup&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Before approving a mockup, confirm the audience, positioning, offer, proof, content model and success measures, and include performance, accessibility and measurement in the brief.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;A successful website redesign makes the business easier to understand, the next decision easier to make and the system easier to improve. Those outcomes begin with choices made before the first screen.&lt;/p&gt;
 
 
                 &lt;p class="find-more-prompt"&gt;&lt;em&gt;

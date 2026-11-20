@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gemini 4 Neon a prueba: el modelo rápido de Google iguala o supera a Carbon en generación de juegos y animaciones — Frame &amp; Prompt</title>
+  <meta name="description" content="Gemini 4 Neon, el nuevo modelo de razonamiento rápido de Google, ha sido sometido a pruebas ciegas frente a Carbon en la generación de juegos 3D y animaciones. Los resultados son sorprendentes: Neon no solo es aproximadamente 2,5 veces más rápido, sino que igualó o superó la calidad de Carbon en tre">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Gemini 4 Neon a prueba: el modelo rápido de Google iguala o supera a Carbon en generación de juegos y animaciones">
+  <meta property="og:description" content="Gemini 4 Neon, el nuevo modelo de razonamiento rápido de Google, ha sido sometido a pruebas ciegas frente a Carbon en la generación de juegos 3D y animaciones. Los resultados son sorprendentes: Neon no solo es aproximadamente 2,5 veces más rápido, sino que igualó o superó la calidad de Carbon en tre">
+  <meta property="og:image" content="https://i.ytimg.com/vi/AbfheTIO2Ec/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-AbfheTIO2Ec.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Gemini 4 Neon a prueba: el modelo rápido de Google iguala o supera a Carbon en generación de juegos y animaciones">
+  <meta name="twitter:description" content="Gemini 4 Neon, el nuevo modelo de razonamiento rápido de Google, ha sido sometido a pruebas ciegas frente a Carbon en la generación de juegos 3D y animaciones. Los resultados son sorprendentes: Neon no solo es aproximadamente 2,5 veces más rápido, sino que igualó o superó la calidad de Carbon en tre">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/AbfheTIO2Ec/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-AbfheTIO2Ec.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Gemini 4 Neon a prueba: el modelo rápido de Google iguala o supera a Carbon en generación de juegos y animaciones</h1>
+        <div class="metadata">
+          <span>Por <strong>Paul J Lipsky</strong></span>
+          <time datetime='2026-11-18T17:12:17.464412-05:00'>2026-11-18</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/AbfheTIO2Ec" title="Gemini 4 Neon a prueba: el modelo rápido de Google iguala o supera a Carbon en generación de juegos y animaciones" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=AbfheTIO2Ec" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Gemini 4 Neon, el nuevo modelo de razonamiento rápido de Google, ha sido sometido a pruebas ciegas frente a Carbon en la generación de juegos 3D y animaciones. Los resultados son sorprendentes: Neon no solo es aproximadamente 2,5 veces más rápido, sino que igualó o superó la calidad de Carbon en tres de cinco comparativas, incluyendo un retrato realista, un juego de paintball y una animación de 90 segundos. Carbon solo se impuso por un margen mínimo en un juego de naves, lo que plantea una conclusión clara: para la mayoría de tareas creativas, Neon es más que suficiente y mucho más eficiente.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Paul J Lipsky</strong>: <a href="https://www.youtube.com/watch?v=AbfheTIO2Ec" target="_blank" rel="noopener">Gemini Neon Is Here (Personally Tested)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El nuevo trío de Google: Hydrogen, Neon y Carbon</h3>
+<p>Google ha reorganizado su familia de modelos Gemini en tres niveles: <strong>Hydrogen</strong>, el &#x27;daily driver&#x27; para tareas cotidianas de alto volumen; <strong>Neon</strong>, un modelo de razonamiento rápido orientado a coding, reasoning y agentes de producción; y <strong>Carbon</strong>, la opción de máxima calidad para problemas de larga duración y complejidad extrema. Neon se posiciona como un punto intermedio que promete la calidad de Carbon con una velocidad y un costo significativamente menores.</p>
+<p>El acceso a Gemini 4 Neon ya está disponible en <strong>Google AI Studio</strong> y en la suscripción <strong>Google One AI Premium</strong> (20 dólares al mes), que también incluye otros beneficios. Aunque no se han publicado benchmarks oficiales, las pruebas independientes realizadas por el creador Paul J Lipsky ofrecen una primera aproximación muy valiosa a su rendimiento real en tareas creativas complejas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Metodología: pruebas ciegas y prompts desafiantes</h3>
+<p>Para evaluar ambos modelos sin sesgos, Lipsky diseñó una serie de pruebas ciegas en las que generó contenido con Carbon y con Neon usando exactamente los mismos prompts, y luego comparó los resultados sin saber cuál modelo había producido cada uno. Las tareas abarcaron desde la generación de imágenes realistas hasta la creación de juegos 3D completos y animaciones de 90 segundos con cambios de estilo.</p>
+<p>Los prompts fueron cuidadosamente redactados para exigir lo máximo de cada modelo. Por ejemplo, para un juego 3D simple se solicitó: <em>&#x27;Create a simple playable 3D game where I&#x27;m a character that walks around. I want you to wow me with the visuals and graphics showing me your full capabilities. The game should be simple to play but look absolutely stunning.&#x27;</em> Para el juego de captura la bandera con paintballs, se especificó el uso de <strong>Godot</strong> y <strong>Blender</strong>, y se configuró el modelo en modo &#x27;high&#x27; para obtener los mejores resultados. La animación de 90 segundos requería que el estilo cambiara completamente al atravesar diferentes puertas, lo que ponía a prueba la creatividad y la consistencia.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Retrato realista: Neon sorprende en piel, Carbon en textura</h3>
+<p>La primera prueba consistió en generar un retrato realista. El creador comparó ambas imágenes y encontró que la generada por Neon mostraba una piel más realista, con un nivel de detalle que superaba ligeramente a la de Carbon. Sin embargo, la imagen de Carbon destacó por una mayor textura en la ropa, con pliegues y materiales más definidos. El veredicto fue mixto: Neon demostró estar a la par o incluso superar a Carbon en un aspecto crítico como la piel, mientras que Carbon mantuvo su ventaja en la representación de tejidos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Juego 3D de recolección de frutas: correcciones simples y resultado funcional</h3>
+<p>El siguiente desafío fue un juego 3D en el que un personaje camina y recolecta frutas. Neon generó una versión inicial que presentaba errores: el personaje atravesaba un puente y desaparecía al agacharse para recoger objetos. Tras solicitar dos correcciones específicas (<em>&#x27;Fix the character walking through the bridge and disappearing when foraging&#x27;</em>), el juego funcionó correctamente. Aunque no se comparó directamente con una versión de Carbon en esta prueba, el hecho de que Neon haya producido un juego 3D funcional con solo dos iteraciones de corrección demuestra su capacidad para tareas de desarrollo interactivo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Captura la bandera con paintballs: Neon gana en cámara y nitidez</h3>
+<p>En esta prueba se generaron dos versiones completas del juego, una con Carbon y otra con Neon, utilizando Godot y Blender. El creador evaluó aspectos como movimiento de cámara, gráficos y jugabilidad. La versión de Neon destacó por un movimiento de cámara más fluido y gráficos más nítidos, lo que le valió la preferencia general. No obstante, reconoció que la jugabilidad de la versión de Carbon era ligeramente mejor, con mecánicas más pulidas. Aun así, el resultado visual de Neon fue superior, lo que evidencia que el modelo rápido puede competir en apartados estéticos exigentes.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Juego de naves estilo Star Fox: Carbon recupera terreno con un pulido superior</h3>
+<p>El juego de naves espaciales inspirado en Star Fox fue el único caso en el que Carbon se impuso claramente. Neon generó un juego con buenos gráficos y una jugabilidad fluida, pero Carbon produjo gráficos más pulidos, especialmente en efectos como el agua, que lucían más realistas. El margen fue pequeño, pero suficiente para que Carbon se llevara la victoria en esta categoría. Este resultado sugiere que, para proyectos con un enfoque visual muy detallado, Carbon aún tiene ventaja.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Animación de 90 segundos: Neon supera a Carbon en extremidades y ambición</h3>
+<p>La prueba más ambiciosa consistió en una animación de 90 segundos en la que una pareja es perseguida por un lobo y, al cruzar distintas puertas, el estilo de animación cambia por completo. La versión de Carbon presentó problemas con las extremidades de los personajes y ángulos de cámara incómodos. La de Neon, en cambio, mostró extremidades mejor definidas y movimientos más ambiciosos del lobo, aunque ninguna de las dos fue perfecta. El creador consideró que Neon ganó en calidad de animación, lo que refuerza su versatilidad en tareas creativas de largo aliento.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Velocidad y veredicto: Neon es 2,5 veces más rápido y suficiente para la mayoría</h3>
+<p>A lo largo de todas las pruebas, Gemini 4 Neon demostró ser aproximadamente <strong>2,5 veces más rápido</strong> que Carbon. Esta diferencia de velocidad, combinada con un costo menor (aunque no se especifican tarifas por uso, se indica que es más económico), lo convierte en una opción muy atractiva para la mayoría de usuarios y desarrolladores. En tres de las cinco comparativas directas (retrato, juego de paintballs y animación), Neon igualó o superó a Carbon; en una (juego de naves) Carbon ganó por poco margen, y en la restante (juego de recolección) no hubo comparación directa pero Neon demostró ser funcional con correcciones simples.</p>
+<p>La conclusión del creador es clara: <strong>Neon es más que suficiente para la mayoría de tareas</strong>, incluyendo generación de juegos 3D y animaciones complejas. Carbon solo se justifica para problemas de máxima complejidad donde cada detalle visual cuenta. Con un precio de 20 dólares al mes para la cuenta Pro de Gemini, Neon se posiciona como una herramienta accesible y potente que podría democratizar la creación de contenido interactivo de alta calidad.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Gemini 4 Neon es ~2,5 veces más rápido que Carbon y ya está disponible en Google AI Studio y en la suscripción Google One AI Premium ($20/mes).</li>
+<li>En pruebas ciegas, Neon superó o igualó a Carbon en 3 de 5 comparativas: retrato (piel más realista), juego de paintballs (mejor cámara y nitidez) y animación de 90 segundos (extremidades mejor definidas).</li>
+<li>Carbon solo se impuso en el juego de naves estilo Star Fox, por un margen mínimo gracias a un pulido visual superior (efectos de agua).</li>
+<li>Para juegos 3D simples, Neon requirió solo dos correcciones para resolver errores de colisión y desaparición del personaje.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Gemini 4 Neon</strong> — Modelo de razonamiento rápido de Google para coding, reasoning y agentes de producción, con calidad cercana a Carbon pero mayor velocidad y menor costo.</li>
+<li><strong>Gemini 4 Carbon</strong> — Modelo de alta calidad de Google para problemas de larga duración y máxima complejidad.</li>
+<li><strong>Gemini 4 Hydrogen</strong> — Modelo de Google para tareas cotidianas de alto volumen, posicionado como el &#x27;daily driver&#x27;.</li>
+<li><strong>Google AI Studio</strong> — Plataforma donde ya está disponible Gemini 4 Neon para pruebas y desarrollo.</li>
+<li><strong>Anti-Gravity</strong> — Herramienta donde también se ha integrado Gemini 4 Neon (mencionada sin detalles).</li>
+<li><strong>Godot</strong> — Motor de videojuegos 3D utilizado en la generación de juegos por los modelos.</li>
+<li><strong>Blender</strong> — Software de modelado 3D y animación usado junto a Godot en la creación de juegos.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-AbfheTIO2Ec.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

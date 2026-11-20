@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Clonación de voz y reshoot con IA: cómo cambiar ángulos de cámara en un solo plano con Seedance 2.5 y Claude — Frame &amp; Prompt</title>
+  <meta name="description" content="Grabar una escena desde múltiples ángulos ya no requiere una segunda cámara ni un equipo de producción. Con la skill gratuita Seedance Reshoot para Claude y el modelo Seedance 2.5 de ElevenLabs, es posible re-filmar una toma estática generando ángulos como órbita 360, cenital o primer plano extremo,">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Clonación de voz y reshoot con IA: cómo cambiar ángulos de cámara en un solo plano con Seedance 2.5 y Claude">
+  <meta property="og:description" content="Grabar una escena desde múltiples ángulos ya no requiere una segunda cámara ni un equipo de producción. Con la skill gratuita Seedance Reshoot para Claude y el modelo Seedance 2.5 de ElevenLabs, es posible re-filmar una toma estática generando ángulos como órbita 360, cenital o primer plano extremo,">
+  <meta property="og:image" content="https://i.ytimg.com/vi/x6eHQ-jcZZo/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-x6eHQ-jcZZo.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Clonación de voz y reshoot con IA: cómo cambiar ángulos de cámara en un solo plano con Seedance 2.5 y Claude">
+  <meta name="twitter:description" content="Grabar una escena desde múltiples ángulos ya no requiere una segunda cámara ni un equipo de producción. Con la skill gratuita Seedance Reshoot para Claude y el modelo Seedance 2.5 de ElevenLabs, es posible re-filmar una toma estática generando ángulos como órbita 360, cenital o primer plano extremo,">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/x6eHQ-jcZZo/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-x6eHQ-jcZZo.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Clonación de voz y reshoot con IA: cómo cambiar ángulos de cámara en un solo plano con Seedance 2.5 y Claude</h1>
+        <div class="metadata">
+          <span>Por <strong>CyberJungle</strong></span>
+          <time datetime='2026-11-18T17:09:40.239497-05:00'>2026-11-18</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/x6eHQ-jcZZo" title="Clonación de voz y reshoot con IA: cómo cambiar ángulos de cámara en un solo plano con Seedance 2.5 y Claude" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=x6eHQ-jcZZo" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Grabar una escena desde múltiples ángulos ya no requiere una segunda cámara ni un equipo de producción. Con la skill gratuita Seedance Reshoot para Claude y el modelo Seedance 2.5 de ElevenLabs, es posible re-filmar una toma estática generando ángulos como órbita 360, cenital o primer plano extremo, además de cambiar iluminación, fondo y vestuario, todo manteniendo el diálogo sincronizado. El flujo, que incluye clonación de voz en segundos y narración emocional con Eleven v4, promete revolucionar la postproducción de video con IA.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>CyberJungle</strong>: <a href="https://www.youtube.com/watch?v=x6eHQ-jcZZo" target="_blank" rel="noopener">NEW Way to Create Infinite Camera Angles for AI Videos (Free Claude Skill)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El desafío de re-filmar una toma sin re-grabar</h3>
+<p>La producción audiovisual tradicional exige múltiples cámaras, iluminación costosa y un equipo para capturar una misma escena desde distintos ángulos. La propuesta de CyberJungle elimina esa necesidad: a partir de una única toma estática de 60 segundos, es posible generar nuevos ángulos, cambios de iluminación, fondos y hasta vestuario utilizando inteligencia artificial. El proceso se apoya en dos herramientas clave: <strong>Seedance 2.5</strong>, un modelo de generación de video que permite re-filmar una toma existente, y <strong>Claude</strong>, que actúa como asistente de dirección mediante una skill personalizada llamada <strong>Seedance Reshoot</strong>.</p>
+<p>El primer paso es dividir la toma original en segmentos de máximo 30 segundos, ya que Seedance 2.5 tiene un límite de generación por clip. En el ejemplo, el video de un minuto se partió en dos partes de 30 segundos para mantener un ritmo natural y evitar cortes abruptos. Esta segmentación también facilita la especificación de ángulos y movimientos de cámara en cada bloque.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Claude como director de escena: la skill Seedance Reshoot</h3>
+<p>La skill <strong>Seedance Reshoot</strong> es un archivo que se adjunta a Claude y que contiene la estructura de prompt necesaria para que el modelo de lenguaje genere instrucciones precisas para Seedance 2.5. Al cargarla, Claude analiza el video original y produce un prompt detallado que incluye una línea de tiempo segundo a segundo, mapeando las referencias visuales y asegurando la alineación del diálogo. El usuario solo debe indicar los ángulos y movimientos de cámara deseados, por ejemplo: órbita 360, cenital, plano general alto o primer plano extremo.</p>
+<p>Para mantener la consistencia facial y del entorno, es crucial crear una <strong>hoja de personaje</strong> (character sheet) de tres paneles con <strong>Seedream 5.5</strong>, y generar referencias de la sala u otros espacios. En el prompt final, se mapean explícitamente las referencias: Video 1 = toma original, Imagen 1 = hoja de personaje, Imágenes 2-4 = referencias del entorno. Además, se incluye la instrucción de <em>no reescenificar, re-interpretar, re-tiempo o re-interpretar el video original</em>; solo se cambia la posición de cámara, distancia focal, encuadre y profundidad de campo. También se añade una sección de escala (altura del personaje) para que el modelo renderice correctamente cuando el sujeto se pone de pie.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Generación de los nuevos ángulos en ElevenLabs</h3>
+<p>Con el prompt listo, se accede a <strong>ElevenLabs</strong> y se selecciona el módulo <strong>ElevenCreative</strong>. Allí se elige el modelo <strong>Seedance 2.5</strong>, se sube el video de referencia, las imágenes de referencia (hoja de personaje y entorno) y se pega el prompt generado por Claude. La configuración incluye una duración máxima de 30 segundos por clip y resolución de 1080p, con posibilidad de hasta 4K. El proceso se repite para cada segmento del video original.</p>
+<p>El resultado, según la demostración, es sorprendente: los ángulos de cámara se generan con precisión y el diálogo se mantiene sincronizado. Además, el flujo permite modificar la iluminación (hora dorada, noche, luz de luna), el fondo, añadir niebla o nieve, e incluso cambiar el vestuario, todo sin necesidad de una segunda grabación. La conclusión es clara: se pueden obtener múltiples ángulos sin equipo adicional ni re-grabaciones costosas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Clonación de voz en menos de 15 minutos</h3>
+<p>El video también aborda la clonación de voz con <strong>ElevenLabs</strong>. Mediante la función <strong>Instant Voice Clone</strong>, se suben archivos de audio (se puede eliminar el ruido de fondo si es necesario) y en segundos se obtiene una réplica de la voz. En la demostración, el proceso tomó menos de 15 minutos, aunque en la práctica fue casi instantáneo. Esta voz clonada se puede usar para generar narración o diálogos adicionales sin volver a grabar.</p>
+<p>Para voces de personajes, se utiliza <strong>Voice Design</strong>, que permite describir las características de la voz, por ejemplo: <em>voz masculina grave y retumbante de un ogro malvado de mediana edad</em>. El sistema genera una voz que coincide con la descripción, ampliando las posibilidades creativas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Narración emocional con Eleven v4</h3>
+<p>El modelo de texto a voz <strong>Eleven v4</strong> lleva la narración al siguiente nivel al permitir etiquetas de audio para emociones como risa, emoción, suspiro, pausas y susurros. Esto significa que se puede cambiar el tono emocional de una grabación simplemente reescribiendo el texto y regenerando la voz, sin necesidad de volver a grabar. En el video, el autor utiliza esta función para dar vida a la narración de su proyecto, demostrando cómo pequeñas variaciones en el texto y las etiquetas producen resultados expresivos y naturales.</p>
+<p>La combinación de clonación de voz y Eleven v4 permite crear narraciones personalizadas con matices emocionales, todo dentro de la misma plataforma. Esto es especialmente útil para creadores de contenido que desean mantener una voz consistente en sus videos sin depender de sesiones de grabación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Consejos prácticos y conclusiones del flujo completo</h3>
+<p>A lo largo del video, se comparten 14 tips prácticos que optimizan el proceso. Entre ellos destacan: dividir la toma en segmentos de 30 segundos, usar la skill Seedance Reshoot para generar prompts detallados, crear hojas de personaje y referencias de entorno para mantener la consistencia, mapear explícitamente las referencias en el prompt, incluir la instrucción de no reescenificar, añadir una sección de escala, y utilizar una línea de tiempo basada en segundos para especificar los ángulos. En ElevenLabs, se recomienda configurar la duración máxima de 30 segundos y resolución 1080p, y para la clonación de voz, usar Instant Voice Clone con archivos de audio limpios.</p>
+<p>El flujo completo permite obtener múltiples ángulos de cámara, cambios de iluminación y vestuario, y diálogo sincronizado, todo en menos de 15 minutos para la clonación de voz y con un proceso de generación de video que, aunque requiere iteraciones, es accesible para creadores individuales. La conclusión es que la IA está democratizando la producción audiovisual de alta calidad, eliminando barreras técnicas y económicas.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Duración máxima por clip en Seedance 2.5: 30 segundos. Dividir tomas largas en segmentos de 30s.</li>
+<li>Resolución configurable en ElevenLabs: 1080p hasta 4K.</li>
+<li>Clonación de voz con Instant Voice Clone: menos de 15 minutos (a menudo segundos).</li>
+<li>En el prompt, mapear referencias: Video 1 = toma original, Imagen 1 = hoja de personaje, Imágenes 2-4 = entorno.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://drive.google.com/file/d/1rlR--atoomXrGEiVMOHgKBOUb-Q6kTem/view?usp=sharing" target="_blank" rel="noopener"><strong>Seedance Reshoot skill para Claude</strong></a> — Skill gratuita que se adjunta a Claude para generar prompts de re-filmación con cambios de ángulo.</li>
+<li><strong>Claude (Fable 5.2)</strong> — Asistente de dirección que analiza el video y genera el prompt detallado para Seedance 2.5.</li>
+<li><a href="https://try.elevenlabs.io/x4zfo9qk8vk0" target="_blank" rel="noopener"><strong>ElevenLabs</strong></a> — Plataforma todo en uno para generación de audio y video con IA; incluye Seedance 2.5, Seedream 5.5, clonación de voz y Eleven v4.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video que permite re-filmar una toma existente con nuevos ángulos, iluminación y vestuario.</li>
+<li><strong>Seedream 5.5</strong> — Modelo de generación de imágenes para crear hojas de personaje y referencias de entorno con alta consistencia.</li>
+<li><strong>Eleven v4</strong> — Modelo de texto a voz expresivo que permite generar narración con emociones usando etiquetas de audio.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-x6eHQ-jcZZo.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

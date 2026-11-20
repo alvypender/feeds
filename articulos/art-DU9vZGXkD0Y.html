@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude Fable 5.2 y Blender: el método de 10 pasos para animaciones 3D realistas sin experiencia previa — Frame &amp; Prompt</title>
+  <meta name="description" content="Rourke Heath demuestra que se puede crear una animación 3D hiperrealista de 30 segundos sin saber modelar, animar ni iluminar, usando Claude Fable 5.2 como director técnico y Blender como motor de render. Su flujo de 10 pasos combina metraje real restilizado con Seedance 2.5, storyboards de bajo cos">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude Fable 5.2 y Blender: el método de 10 pasos para animaciones 3D realistas sin experiencia previa">
+  <meta property="og:description" content="Rourke Heath demuestra que se puede crear una animación 3D hiperrealista de 30 segundos sin saber modelar, animar ni iluminar, usando Claude Fable 5.2 como director técnico y Blender como motor de render. Su flujo de 10 pasos combina metraje real restilizado con Seedance 2.5, storyboards de bajo cos">
+  <meta property="og:image" content="https://i.ytimg.com/vi/DU9vZGXkD0Y/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-DU9vZGXkD0Y.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude Fable 5.2 y Blender: el método de 10 pasos para animaciones 3D realistas sin experiencia previa">
+  <meta name="twitter:description" content="Rourke Heath demuestra que se puede crear una animación 3D hiperrealista de 30 segundos sin saber modelar, animar ni iluminar, usando Claude Fable 5.2 como director técnico y Blender como motor de render. Su flujo de 10 pasos combina metraje real restilizado con Seedance 2.5, storyboards de bajo cos">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/DU9vZGXkD0Y/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-DU9vZGXkD0Y.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude Fable 5.2 y Blender: el método de 10 pasos para animaciones 3D realistas sin experiencia previa</h1>
+        <div class="metadata">
+          <span>Por <strong>Rourke Heath</strong></span>
+          <time datetime='2026-11-18T17:09:50.239497-05:00'>2026-11-18</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/DU9vZGXkD0Y" title="Claude Fable 5.2 y Blender: el método de 10 pasos para animaciones 3D realistas sin experiencia previa" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=DU9vZGXkD0Y" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Rourke Heath demuestra que se puede crear una animación 3D hiperrealista de 30 segundos sin saber modelar, animar ni iluminar, usando Claude Fable 5.2 como director técnico y Blender como motor de render. Su flujo de 10 pasos combina metraje real restilizado con Seedance 2.5, storyboards de bajo coste y un render final que tarda 2,5 horas en un MacBook. El coste: unos 50 dólares semanales de Claude Max y la advertencia de que Blender no logra fotorrealismo en personas; para eso hay una ruta alternativa con IA generativa que sacrifica la precisión del texto en pantalla.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Rourke Heath</strong>: <a href="https://www.youtube.com/watch?v=DU9vZGXkD0Y" target="_blank" rel="noopener">Fable 5.2: Make 3D Animations With Claude and Blender</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema que resuelve este flujo (y lo que no resuelve)</h3>
+<p>La promesa de crear animaciones 3D realistas sin experiencia previa suena a marketing, pero Rourke Heath la acota con honestidad: Claude Fable 5.2 y Blender son excelentes para construir <strong>lugares, ubicaciones físicas, productos, materiales e iluminación</strong>, pero no para el fotorrealismo de personas y animales. La razón es técnica: Blender, incluso con Cycles, arrastra limitaciones en la simulación de piel, pelo y microexpresiones que la IA generativa resuelve con otro enfoque. Heath sugiere que para personajes hiperrealistas habría que mirar hacia Unreal Engine, aunque no desarrolla esa vía en el tutorial.</p>
+<p>El flujo que propone está pensado para <strong>productos y escenas con metraje real combinado</strong>. De hecho, uno de sus proyectos estrella, el &#x27;Robot Film&#x27;, encadena un clip real inicial, metraje CG generado en Blender y un clip real final en una toma continua. Para que el corte no se note, el metraje real se restiliza con Seedance 2.5 en Higgsfield, igualando la iluminación y el fondo. Esa es la clave: no se trata de sustituir el vídeo real, sino de <strong>integrarlo con la escena CG</strong>.</p>
+<p>Heath también advierte sobre el texto en pantalla. Blender permite interfaces de usuario y tipografía precisa, algo que la IA generativa tiende a &#x27;revolver&#x27;. Por eso, si la animación incluye pantallas de ordenador, móvil o carteles, el flujo con Blender lleva ventaja. La ruta de realismo con IA, en cambio, produce imágenes más creíbles pero <strong>estropea el texto</strong>, lo que obliga a elegir entre fotorrealismo y legibilidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Preparación: un solo chat, FFmpeg y el MCP de Higgsfield</h3>
+<p>Antes de tocar Blender, Heath insiste en una regla de oro: <strong>mantener toda la conversación y las generaciones en un único chat de Claude</strong>. Esto asegura que el modelo conserve el contexto completo del proyecto, desde el brief hasta el render final. Si se abren varios chats, Claude pierde la memoria de lo que se ha construido y las respuestas se vuelven incoherentes.</p>
+<p>El primer requisito técnico es que Claude pueda &#x27;ver&#x27; los fotogramas de los vídeos. Para ello se instala <strong>FFmpeg</strong>, una herramienta de línea de comandos que permite extraer imágenes y analizarlas. Heath sugiere un prompt directo: <em>&#x27;Check whether FFmpeg is installed and tell me how to install it if not&#x27;</em>. Claude guiará la instalación paso a paso si es necesario.</p>
+<p>El segundo conector es el <strong>MCP de Higgsfield</strong>, que da acceso a modelos como Seedance 2.5 y Nano Banana. Con él, Claude puede restilizar metraje real, generar hojas de personajes y transformar vídeos en escala de grises a metraje realista. Heath recomienda aprovechar los <strong>tres días de generaciones ilimitadas gratuitas</strong> que ofrece Higgsfield al registrarse para hacer pruebas antes de comprometer créditos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 1: el brief que evita el caos</h3>
+<p>El brief es el documento fundacional. Heath propone una estructura que debe incluir: la historia deseada, la duración (recomienda <strong>unos 30 segundos</strong>), la relación de aspecto (16:9 o retrato), si se usan clips reales (adjuntarlos), una descripción de la animación CG, una descripción del personaje con hoja de personaje 360 adjunta (tamaño y proporciones), el estado de ánimo o vibe con hasta tres adjetivos, y opcionalmente un enlace a un vídeo de referencia.</p>
+<p>El cierre del prompt es tan importante como el contenido: <em>&#x27;Before you build anything, tell me the story back in one sentence. Send me a timestamp structure of the film and list everything you need from me.&#x27;</em> Con esta frase, Claude devuelve una sinopsis de una línea, una estructura temporal y una lista de requisitos. Eso permite detectar malentendidos antes de gastar tokens en geometría.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 2: el mundo y el personaje, con continuidad milimétrica</h3>
+<p>Aquí se adjunta el metraje real (si existe) y una imagen de referencia de la ubicación: estilo general y gradación de color. Si no hay metraje, se describe la ubicación con palabras. También se vuelve a adjuntar la hoja de personaje. Heath advierte que la <strong>continuidad entre el metraje real y la escena CG</strong> es donde más se falla: en su proyecto tuvo que corregir la dirección de un portátil y añadir pegatinas a la parte trasera basándose en referencias para que el renderizado en Blender fuera preciso.</p>
+<p>La lección es que Claude no adivina los detalles físicos del mundo real. Cuanta más referencia visual se aporte, menos iteraciones harán falta. Por eso Heath recomienda usar <strong>Shotdeck</strong>, una biblioteca visual de fotogramas de películas, para encontrar referencias de locaciones y gradación de color de alta calidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 3: storyboard de bajo coste y texto legible</h3>
+<p>El storyboard es el paso donde se define la historia visual. Heath pide definir los momentos clave y, si hay pantallas en la animación, usar la frase <em>&#x27;design each thing shown on the screen as its own picture&#x27;</em> y proporcionar referencias (capturas de interfaces de usuario). El texto en pantalla debe ser <em>&#x27;Large Enough To Read But At The Same Time Appear In The Shot&#x27;</em>, es decir, legible pero integrado en el encuadre.</p>
+<p>También se establecen reglas de cámara: variedad de tomas, mostrar al personaje trabajando, pantalla visible. El prompt de cierre es: <em>&#x27;Then render one low quality test picture for every shot and send them to me as a single sheet in order with the shot numbers.&#x27;</em> La clave para ahorrar tokens es <strong>renderizar en baja calidad</strong> y hacer solo un render de alta calidad al final. En su proyecto, Heath generó <strong>22 fotogramas de storyboard</strong> para una escena CG de 35 segundos, lo que da una idea de la densidad de acción necesaria.</p>
+<p>La revisión del storyboard debe ser autónoma: si no se entiende sin explicaciones, el espectador tampoco lo entenderá. Heath insiste en prestar atención al tamaño del texto en pantallas para visualización en dispositivos pequeños, porque un texto que se lee en el monitor de 27 pulgadas puede ser ilegible en un móvil.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Pasos 4 y 5: animatic y bucle de notas quirúrgicas</h3>
+<p>El animatic es la versión en movimiento preliminar. Aquí se dicta cómo se mueve el personaje, la cámara o el producto. Heath es claro: <strong>no se juzga la calidad de la imagen</strong> en esta etapa; se evalúa el ritmo, la sincronización y el movimiento. Es el momento de detectar si una toma se alarga demasiado o si la acción no se entiende.</p>
+<p>El bucle de notas es donde se separa un proyecto amateur de uno profesional. Heath recomienda ser muy específico: <em>&#x27;At 32 seconds, this specific problem is occurring. Please go and change it by doing this.&#x27;</em> Y añadir: <em>&#x27;don&#x27;t change anything else, only change these parts here&#x27;</em>. Sin esa restricción, Claude tiende a reescribir la escena entera y se pierden horas de trabajo. La disciplina de feedback quirúrgico es lo que mantiene el proyecto en el presupuesto de tokens.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Pasos 6 a 8: render final, max pass y gradación</h3>
+<p>Cuando la película está bloqueada, se lanza el render de calidad completa con el prompt: <em>&#x27;The film is locked and now we don&#x27;t want you to change the story at all Claude&#x27;</em>. Heath pide una lista de mejoras, una estimación de tiempo de renderizado y un primer fotograma de calidad completa para aprobación antes del renderizado final. En su caso, el render del &#x27;Max Pass&#x27; tomó <strong>2,5 horas</strong> en un MacBook actualizado, y el proyecto generó <strong>844 fotogramas a partir de 22 tomas</strong>.</p>
+<p>El &#x27;Max Pass&#x27; es un empuje opcional para mayor realismo. El prompt es: <em>&#x27;Before we finish, push the blender quality as far as it will go&#x27;</em>. Heath sugiere mejoras como añadir suciedad, desgaste, movimientos sutiles de cámara, hojas de hierba individuales, movimiento y pliegues en la capa, y desenfoque de movimiento. Si el ordenador es lento, recomienda <strong>render farms online</strong>: aproximadamente <strong>5 dólares</strong> para renderizar un proyecto que tomaría 2,5 horas en un MacBook, completándolo en unos 30 minutos.</p>
+<p>La gradación del metraje es el paso que une el CG con el vídeo real. Heath pide a Claude que ajuste micro-ajustes de sombras, negros y blancos para que el metraje CG coincida perfectamente con el metraje real. Es un trabajo de precisión que, sin IA, requeriría un colorista.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Pasos 9 y 10: corte final y diseño de sonido</h3>
+<p>El corte final consiste en pedir a Claude que una todas las partes y revisar a velocidad normal. Heath no da un prompt exacto para este paso, pero sí insiste en la revisión humana: la IA puede cometer errores de continuidad que solo se detectan viendo la secuencia completa.</p>
+<p>El diseño de sonido se genera con un prompt templado. Se puede subir una carpeta con efectos de sonido o conectar bibliotecas de sonido a través de MCP. Aunque el tutorial no detalla los prompts exactos, la lógica es la misma que en la imagen: dar contexto y restringir los cambios para que Claude no reinterprete la escena.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La ruta de realismo: Blender como esqueleto, IA como piel</h3>
+<p>Para personajes humanos hiperrealistas, Heath propone una ruta alternativa. Se usa Blender solo para la cámara y el diseño de formas grises sin textura. Se exporta el vídeo en escala de grises y se sube a <strong>Seedance 2.5</strong> como referencia. Con <strong>Nano Banana</strong> (u otro modelo de IA) se crean imágenes de alta calidad y aspecto real a partir de algunos fotogramas, como el fotograma inicial. Finalmente, Seedance 2.5 en Higgsfield convierte el vídeo en escala de grises en metraje real.</p>
+<p>El resultado es un fotorrealismo superior, con sombras y luces más realistas, pero a un coste potencialmente mayor y con la limitación del texto en pantalla: la IA lo &#x27;estropea&#x27;. Heath muestra dos proyectos: el &#x27;Amazon Ad&#x27; con la ruta de realismo, que consumió <strong>1400 créditos</strong> (el equivalente en dólares solo se muestra visualmente en el vídeo), y el &#x27;Robot Film&#x27; con la ruta Blender, cuyo coste tampoco se especifica en audio. La comparativa visual deja claro que la versión solo con Blender puede parecer más &#x27;videojuego&#x27;, mientras que la ruta de realismo logra una calidad cinematográfica.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Costes reales y veredicto</h3>
+<p>El plan <strong>Claude Max</strong> cuesta <strong>200 dólares al mes</strong>. Heath utilizó aproximadamente una cuarta parte de su límite semanal (equivalente a <strong>50 dólares por semana</strong>) para todas las animaciones del proyecto: 22 variaciones en baja calidad y un render final en alta calidad. A eso hay que sumar los créditos de Higgsfield si se agotan los tres días gratuitos, y los 5 dólares del render farm si se opta por acelerar.</p>
+<p>El veredicto es matizado. Para productos, entornos y escenas con texto en pantalla, el flujo Blender + Claude es imbatible en control y coste. Para personas y animales, la ruta de realismo con Seedance 2.5 y Nano Banana ofrece un salto cualitativo, pero sacrifica la precisión tipográfica y exige más créditos. Heath no esconde las limitaciones: Blender no es Unreal Engine, y la IA generativa no es un colorista. Pero para un creador sin experiencia en 3D, este marco de 10 pasos convierte una tarea que llevaría meses en una tarde de iteraciones.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Prompt de brief: &#x27;Before you build anything, tell me the story back in one sentence. Send me a timestamp structure of the film and list everything you need from me.&#x27;</li>
+<li>Prompt de storyboard: &#x27;Then render one low quality test picture for every shot and send them to me as a single sheet in order with the shot numbers.&#x27;</li>
+<li>Prompt de bloqueo: &#x27;The film is locked and now we don&#x27;t want you to change the story at all Claude&#x27;.</li>
+<li>Prompt de max pass: &#x27;Before we finish, push the blender quality as far as it will go&#x27;.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://claude.ai" target="_blank" rel="noopener"><strong>Claude Code con Claude Fable 5.2</strong></a> — Plataforma de IA para generar y animar escenas 3D en Blender, escribir código y gestionar el flujo creativo.</li>
+<li><a href="https://www.blender.org/download/" target="_blank" rel="noopener"><strong>Blender</strong></a> — Programa 3D gratuito utilizado por Claude para construir, animar y renderizar escenas.</li>
+<li><a href="https://ffmpeg.org" target="_blank" rel="noopener"><strong>FFmpeg</strong></a> — Herramienta de línea de comandos que permite a Claude ver y analizar fotogramas de vídeo.</li>
+<li><a href="https://higgsfield.ai/s/QqkEZa" target="_blank" rel="noopener"><strong>Higgsfield MCP (Seedance 2.5, Nano Banana)</strong></a> — Conector para Claude que restiliza metraje, genera hojas de personajes y transforma vídeos en escala de grises a metraje realista.</li>
+<li><a href="https://shotdeck.com" target="_blank" rel="noopener"><strong>Shotdeck</strong></a> — Biblioteca visual de fotogramas de películas para referencias de locaciones y gradación de color.</li>
+<li><a href="https://join.genhq.io/" target="_blank" rel="noopener"><strong>GenHQ</strong></a> — Plataforma de educación y marketplace para creativos que buscan aprender y encontrar trabajo con IA.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-DU9vZGXkD0Y.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

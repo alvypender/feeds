@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo crear un tráiler de GTA 6 con IA: el flujo completo de Seedance 2.5, Claude y Higgsfield — Frame &amp; Prompt</title>
+  <meta name="description" content="Dan Kieft demuestra que un tráiler de GTA 6 generado con IA puede parecer oficial si se planifica con música, se entrena a Claude con referencias visuales y se usan video character sheets para mantener la consistencia. Su método combina Seedance 2.5 en modo Draft, prompts estructurados y un montaje ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo crear un tráiler de GTA 6 con IA: el flujo completo de Seedance 2.5, Claude y Higgsfield">
+  <meta property="og:description" content="Dan Kieft demuestra que un tráiler de GTA 6 generado con IA puede parecer oficial si se planifica con música, se entrena a Claude con referencias visuales y se usan video character sheets para mantener la consistencia. Su método combina Seedance 2.5 en modo Draft, prompts estructurados y un montaje ">
+  <meta property="og:image" content="https://i.ytimg.com/vi/GOR4Fn0GGes/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-GOR4Fn0GGes.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo crear un tráiler de GTA 6 con IA: el flujo completo de Seedance 2.5, Claude y Higgsfield">
+  <meta name="twitter:description" content="Dan Kieft demuestra que un tráiler de GTA 6 generado con IA puede parecer oficial si se planifica con música, se entrena a Claude con referencias visuales y se usan video character sheets para mantener la consistencia. Su método combina Seedance 2.5 en modo Draft, prompts estructurados y un montaje ">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/GOR4Fn0GGes/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-GOR4Fn0GGes.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo crear un tráiler de GTA 6 con IA: el flujo completo de Seedance 2.5, Claude y Higgsfield</h1>
+        <div class="metadata">
+          <span>Por <strong>Dan Kieft</strong></span>
+          <time datetime='2026-11-18T17:09:30.239497-05:00'>2026-11-18</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/GOR4Fn0GGes" title="Cómo crear un tráiler de GTA 6 con IA: el flujo completo de Seedance 2.5, Claude y Higgsfield" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=GOR4Fn0GGes" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Dan Kieft demuestra que un tráiler de GTA 6 generado con IA puede parecer oficial si se planifica con música, se entrena a Claude con referencias visuales y se usan video character sheets para mantener la consistencia. Su método combina Seedance 2.5 en modo Draft, prompts estructurados y un montaje final en DaVinci Resolve. El veredicto: la preparación y la intervención humana marcan la diferencia entre un clip genérico y una pieza cinematográfica.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Dan Kieft</strong>: <a href="https://www.youtube.com/watch?v=GOR4Fn0GGes" target="_blank" rel="noopener">I Made A GTA 6 Trailer with Seedance 2.5 + Claude Fable 5.2</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La música como punto de partida: el esqueleto emocional del tráiler</h3>
+<p>Antes de generar una sola imagen, Dan Kieft define la banda sonora con <strong>Suno</strong>. La música no es un añadido final, sino el eje que determina el tema, el estilo, el número de escenas y el ambiente general del tráiler. Al fijar primero la pista, el resto de decisiones creativas —ritmo de corte, duración de planos, intensidad de las escenas— quedan supeditadas a una estructura sonora concreta, lo que evita la dispersión típica de los proyectos generativos.</p>
+<p>Este enfoque invierte el flujo habitual: en lugar de generar clips y luego buscarles música, se compone primero la pieza y se construye el tráiler como si fuera un videoclip. Esa disciplina inicial ahorra créditos y horas de iteración, porque cada escena tiene ya un lugar asignado en la narrativa musical.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Entrenar a Claude con tráilers de GTA: el estilo se aprende, no se improvisa</h3>
+<p>El siguiente paso es alimentar a <strong>Claude</strong> con varios tráilers oficiales de GTA. Kieft sube los vídeos y le pide un análisis escena por escena, con un resumen organizado en categorías: tipos de escena, lenguaje de cámara, iluminación, paleta de colores, estilo de renderizado, atmósfera y ritmo. Este ejercicio convierte al modelo en un asistente especializado en el lenguaje visual de Rockstar, capaz de generar prompts coherentes con ese estilo.</p>
+<p>Para no repetir el entrenamiento en cada sesión, guarda el chat como proyecto dentro de Claude, de modo que el conocimiento del estilo quede persistente. Además, puede convertir la estructura de prompt en una <em>skill</em> reutilizable: en Claude se accede a <strong>Customize &gt; Skills &gt; Add &gt; Upload a skill</strong> y se sube un archivo zip con la plantilla. Así, cada nuevo prompt parte de una base homogénea y no de una hoja en blanco.</p>
+<p>La elección del modelo importa: para tareas de análisis, <strong>Claude Opus 5.5</strong> resulta más económico que <strong>Fable 5.2</strong>, aunque este último puede ser preferible en fases creativas más complejas. El objetivo es que el LLM no invente el estilo, sino que lo replique a partir de ejemplos reales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Assets que garantizan consistencia: personajes, localizaciones y props</h3>
+<p>La consistencia visual es el talón de Aquiles de la IA generativa. Kieft la aborda creando <strong>video character sheets</strong> en lugar de simples imágenes de referencia. En <strong>Cinema Studio de Higgsfield</strong> utiliza la función <em>create element video element</em>, sube el audio del personaje y añade un prompt sencillo como <em>gangster attitude video game character Unreal Engine 5 look</em>. El resultado es una ficha que bloquea apariencia, movimiento, actitud y voz, lo que permite generar escenas con diálogos sin que el personaje se deforme entre tomas.</p>
+<p>Para crear un personaje a partir de una foto real, el flujo es igualmente metódico: se usa <strong>Nano Banana Pro</strong> (o alternativas como <strong>Serene 5.5</strong> o <strong>GPT Image 2.6</strong>) con un prompt universal disponible en el archivo de assets, generando en formato 3x4 y resolución 2K. Después se produce un <em>character sheet</em> en 16:9 con otro prompt que permite personalizar pelo y ropa. A partir de ahí, se crean también <em>location sheets</em> y <em>prop sheets</em> —por ejemplo, fichas de coches— para que cada generación parta de referencias sólidas y no se malgasten créditos en pruebas a ciegas.</p>
+<p>Este trabajo previo de assets es lo que separa un tráiler coherente de una colección de clips inconexos. La inversión inicial en fichas técnicas reduce drásticamente los retakes y permite que el modelo de vídeo tenga siempre un ancla visual.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Planificación y prompt estructurado para Seedance 2.5</h3>
+<p>Antes de generar cualquier vídeo, Kieft elabora una <strong>shot list</strong> detallada. Esa lista es el contrato que evita retakes costosos, porque cada plano tiene definido su propósito, duración y encuadre. Solo después se escribe el prompt para <strong>Seedance 2.5</strong>, que sigue una estructura fija: objetivo, referencias de personajes, planos, estilo visual, cámara y actuación, audio, exclusiones y una nota de consistencia. Esta plantilla puede guardarse como <em>skill</em> en Claude para reutilizarla en cada escena.</p>
+<p>El modo <strong>Draft</strong> es clave en la economía del proyecto. Generar vídeo es la parte más cara en créditos, así que Kieft produce primero versiones de baja calidad para evaluar la composición y la narrativa. Solo cuando una toma convence, la upscalea a 1080p. En sus pruebas, este método le permitió detectar fallos concretos —un plano de apertura poco convincente, un diálogo desincronizado, un zoom final sin sentido— y corregirlos con nuevos prompts antes de gastar créditos en la versión final.</p>
+<p>La iteración con Claude es conversacional: describe los cambios deseados y obtiene un prompt revisado para regenerar. Así, la IA actúa como copiloto creativo y no como una caja negra que produce resultados aleatorios.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del clip suelto al tráiler: montaje y acabado en DaVinci Resolve</h3>
+<p>El último tramo ocurre en <strong>DaVinci Resolve</strong>. Kieft realiza cortes estratégicos, ajusta la música al beat, añade desenfoques y profundidad de campo, y aplica color grading para eliminar el aspecto plástico de la IA. Ese trabajo de postproducción es lo que confiere al conjunto una textura cinematográfica y homogénea, y lo que distingue un tráiler creíble de un simple montaje de clips generados.</p>
+<p>El proyecto completo —desde la música de Suno hasta el render final— demuestra que la calidad no depende solo del modelo, sino de un pipeline bien diseñado. Kieft creó un tráiler con él mismo como protagonista y con un personaje secundario, &#x27;Bruiser&#x27;, usando cuatro localizaciones de inspiración y múltiples escenas de acción. La escena de introducción —villa, Tesla, llamada— se generó con un solo prompt tras la planificación, sin retakes, lo que evidencia el valor de la preparación.</p>
+<p>La conclusión es clara: la intervención humana en la planificación, la iteración y el montaje es lo que evita el &#x27;slop&#x27; generado automáticamente. Las herramientas —<strong>Seedance 2.5</strong>, <strong>Claude</strong>, <strong>Higgsfield</strong>, <strong>Suno</strong> y <strong>DaVinci Resolve</strong>— están disponibles, pero el criterio narrativo sigue siendo el factor decisivo.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Estructura de prompt para Seedance 2.5: objetivo + referencias de personajes + planos + estilo visual + cámara y actuación + audio + exclusiones + consistencia.</li>
+<li>Guardar la plantilla como skill en Claude: Customize &gt; Skills &gt; Add &gt; Upload a skill (archivo zip).</li>
+<li>Generar siempre en modo Draft y upscalear a 1080p solo las tomas aprobadas para ahorrar créditos.</li>
+<li>Crear video character sheets con audio para bloquear apariencia, movimiento, actitud y voz del personaje.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de vídeo para los clips del tráiler.</li>
+<li><strong>Claude (Fable 5.2 / Opus 5.5)</strong> — LLM para analizar tráilers de referencia, generar prompts estructurados y planificar escenas.</li>
+<li><strong>Suno</strong> — Generación de música para el tráiler.</li>
+<li><a href="http://dankieft.com/higgsfield" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma de generación de vídeo con Cinema Studio y herramientas de personajes; conectable a Claude vía MCP. 60% de descuento con el enlace.</li>
+<li><strong>Nano Banana Pro</strong> — Generación de imágenes para crear el personaje base a partir de una foto.</li>
+<li><strong>Serene 5.5</strong> — Alternativa para generación de imágenes de personajes.</li>
+<li><strong>GPT Image 2.6</strong> — Otra alternativa para generación de imágenes de personajes.</li>
+<li><strong>DaVinci Resolve</strong> — Edición final: cortes, música, efectos y color grading.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-GOR4Fn0GGes.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

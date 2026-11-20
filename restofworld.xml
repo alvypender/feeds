@@ -3,7 +3,89 @@
 <title>Rest of World (Completo)</title>
 <link href="https://restofworld.org/"/>
 <id>https://restofworld.org/</id>
-<updated>2026-11-16T11:00:23+00:00</updated>
+<updated>2026-11-19T11:00:00+00:00</updated>
+<entry>
+  <title>AI isn’t replacing your job. It’s turning it into low-paid gig work</title>
+  <link href="https://restofworld.org/2026/ai-jobs-skills-gig-work/"/>
+  <id>https://restofworld.org/2026/ai-jobs-skills-gig-work/</id>
+  <published>2026-11-19T11:00:00+00:00</published>
+  <updated>2026-11-19T11:00:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/11/GettyImages-2279457745.jpg"/>
+  <media:content url="https://restofworld.org/wp-content/uploads/2026/11/GettyImages-2279457745.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/11/GettyImages-2279457745.jpg"/>
+  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/11/GettyImages-2279457745.jpg</webfeeds:featuredImage>
+  <summary>Platform companies are luring doctors, lawyers, and Ph.D.s with top rates, but then use the same tactics of pay cuts and sudden ghosting that have plagued global data workers.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/11/GettyImages-2279457745.jpg" alt="AI isn’t replacing your job. It’s turning it into low-paid gig work" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Julián Posada&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Platform companies are luring doctors, lawyers, and Ph.D.s with top rates, but then use the same tactics of pay cuts and sudden ghosting that have plagued global data workers.&lt;/em&gt;&lt;/p&gt;
+&lt;p class="wp-block-paragraph"&gt;The gig economy has arrived for cardiologists. Recruiting platform Outlier, run by Scale AI, advertises offers of &lt;a href="https://web.archive.org/web/20260518002431/https:/outlier.ai/experts/cardiology-trt"&gt;up to $180 an hour&lt;/a&gt; for physicians in the U.S. to design complex cardiac scenarios, review artificial intelligence-generated reports, and rank model outputs. The site offers &lt;a href="https://web.archive.org/web/20260603041054/https:/outlier.ai/languages/tl-ph"&gt;up to $7.50 an hour&lt;/a&gt; for Tagalog work in the Philippines for the same job, and up to &lt;a href="https://web.archive.org/web/20260412224748/https:/outlier.ai/languages/sw-ke"&gt;$12.50 an hour&lt;/a&gt; for Swahili in Tanzania.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Companies like Scale AI first outsourced data work to wherever labor was cheapest. Now, they are recruiting physicians, &lt;a href="https://restofworld.org/2026/china-expert-ai-trainers/"&gt;lawyers&lt;/a&gt;, and &lt;a href="https://restofworld.org/2026/ai-training-jobs-expert-replacement/"&gt;Ph.D.s&lt;/a&gt; to generate and annotate data, rank model answers, and verify outputs. Higher credentials can raise the advertised rate, but the platform still controls payment and working conditions.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;They begin by paying well to build a workforce, then they cut the rates and move on.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;I’ve spent the last six years interviewing the people who do this work. Most were in Venezuela, where economic collapse has left a large, educated population &lt;a href="https://restofworld.org/2024/venezuela-online-gig-work/"&gt;online&lt;/a&gt; and out of options. One of them, Rogelio, taught computer science until the economic crisis and the pandemic left his family without work. His 13-year-old son discovered they could earn money labeling images of cars and roads on the platforms Hive and Scale AI’s Remotasks, using a laptop the Hugo Chávez government had issued to schoolchildren a decade earlier. The boy made 18 cents for a few hours of work. Rogelio joined him and made just over $2 on his first day.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For a while, the work paid. A task called Beast Mode where workers labeled objects in people’s homes paid more than any other work the family had done. In December 2020, with schools closed and the whole family working, it brought in $20 in a single day. It was the most they would ever make. By early 2021, Beast Mode had disappeared, and their earnings fell below Hive’s $5 weekly payout threshold.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This is how many platforms operate: They begin by paying well to build a workforce, then they cut the rates &lt;a href="https://restofworld.org/2025/generative-ai-clickwork-venezuela-migrants/"&gt;and move on&lt;/a&gt;. Remotasks ended its hourly program in Venezuela in 2021 and made a splash in Kenya the same year. In March 2024, it &lt;a href="https://restofworld.org/2024/scale-ai-remotasks-banned-workers/"&gt;discontinued operations&lt;/a&gt; in Kenya, Nigeria and Pakistan. Scale AI attributed the closures to “enhanced security protocols,” and said notices had gone out three weeks ahead but later acknowledged that Kenyan workers never received them “due to operational errors.” Most workers who spoke to &lt;em&gt;Rest of World&lt;/em&gt; at the time said the platform simply froze them out.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The pattern has a name, and it’s older than AI: extractivism. It is a system that &lt;a href="https://restofworld.org/2025/ai-resource-extraction-chile-indigenous-communities/"&gt;takes resources&lt;/a&gt; and value from people and places for accumulation elsewhere, on terms set by the buyer rather than the worker. The term also stands for what is taken and what is left behind. The crisis that put Rogelio’s family online was the residue of an oil economy that built little else.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;An oil field stays put, while a platform can send the next batch of tasks to workers somewhere else.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;One woman I interviewed in Venezuela drew a pension from the state oil company. By 2021, it was worth about $1 a month, which she said couldn’t buy half a dozen eggs. She was labeling data on Hive to make up the difference, but that income was even less secure. An oil field stays put, while a platform can send the next batch of tasks to workers somewhere else.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;AI is usually described as built on extracted data: &lt;a href="https://restofworld.org/2024/singapore-writers-reject-ai-training/"&gt;authors’ books&lt;/a&gt;, &lt;a href="https://restofworld.org/2026/ai-voice-actors-hollywood-dubbing/"&gt;artists’ works&lt;/a&gt;, all used to train models. But the extraction has another layer: the new examples, evaluations, and corrections commissioned to improve those models. That material has to be created by someone, for a fee, which is set by the platform — whether it is $2 for the teacher in Venezuela or up to $180 an hour for a cardiologist in the U.S.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Outlier’s terms let the company delay or suspend payment during an investigation of a worker’s tasks and withhold “some or all amounts accrued” where it finds a violation “in the company’s sole determination.” The company may also deactivate an account “immediately without prior notice for any reason.” The same language appeared word for word in the &lt;a href="https://web.archive.org/web/20210412153114/https:/www.remotasks.com/en/legal/terms"&gt;Remotasks terms&lt;/a&gt; that Rogelio’s family worked under in 2021.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Earlier this year, Josh Dzieza reported on the laid-off &lt;a href="https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor"&gt;lawyers&lt;/a&gt;, &lt;a href="https://nymag.com/intelligencer/article/white-collar-workers-training-ai.html"&gt;scientists&lt;/a&gt;, and screenwriters now filling these platforms. Of the more than 30 workers he interviewed, nearly all described the same arc: Demands increased, target times shrank, and pay fell as a project went on. One designer was tagging videos for Meta at $21 an hour when the project ended for “scope changes.” Days later, the same job reappeared under a new name at $16 an hour — the same sequence that Rogelio’s family went through five years earlier.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Of course, workers can leave, and many do. But the ones who stay are often those who can’t leave. One woman I interviewed was confined to her home during the Covid-19 pandemic by a health condition and couldn’t risk losing the job. “This is my only source of income,” she told me.&lt;/p&gt;
+
+
+&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;The rate can change suddenly, the task can disappear without warning, and they have no say over any of it.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;None of this is unknown within the industry. In a 2024 meeting convened by the nonprofit Partnership on AI and the Fairwork project which rates platform companies, I sat with representatives of AI companies and the outsourcing firms that supply them. The AI companies said they didn’t employ the data workers; the outsourcing firms said their operations were determined by the prices the AI companies expected. Everyone agreed pay should be better, but when the question of representation came up, the room went quiet as no workers were present.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Workers have still acted. In March 2023, a judge in Kenya &lt;a href="https://techcrunch.com/2023/03/21/meta-barred-by-kenyan-court-from-engaging-its-new-content-moderation-partner/"&gt;temporarily halted&lt;/a&gt; the dismissal of 260 Facebook content moderators, prevented Meta from moving their work to another contractor, and barred Meta and contractor Majorel from blacklisting workers. As workers fought in Kenya, &lt;a href="https://www.thebureauinvestigates.com/stories/2025-04-27/suicide-attempts-sackings-and-a-vow-of-silence-metas-new-moderators-face-worst-conditions-yet"&gt;Meta moved the work&lt;/a&gt; to West Africa.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;American courts are also grappling with this issue. Claims by workers on Scale AI’s platforms led to a &lt;a href="https://mckinneyscaleaisettlement.com/"&gt;proposed settlement&lt;/a&gt; that has received preliminary approval in San Francisco. The company denies wrongdoing. A separate &lt;a href="https://www.law.com/2026/05/11/ai-platforms-expert-workforce-draws-misclassification-suit/"&gt;class action suit&lt;/a&gt; alleges Mercor misclassified more than 30,000 lawyers, doctors, and engineers while setting their pay and reviewing their work. Mercor’s clients have included OpenAI, Anthropic, and Meta, but they are not named as defendants. The case is ongoing.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;A cardiologist who is offered a three-digit hourly rate is not in the same position as Rogelio and his family. What connects them is the fact that the rate can change suddenly, the task can disappear without warning, and they have no say over any of it.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The work will keep moving, and the rules will continue to be set by the companies that commission it, wherever the next worker logs on, whether in Kenya, Venezuela, or the Philippines.&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>The small African lab sounding the alarm on AI bioweapons</title>
   <link href="https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/"/>
@@ -1256,87 +1338,5 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;For the government, enabling Chinese open models to thrive locally and globally is critical. “Strategically, it makes a lot of sense for them to win hearts and minds, win markets,” Loke said.&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>What the West can learn from AI optimists in the rest of the world</title>
-  <link href="https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/"/>
-  <id>https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/</id>
-  <published>2026-10-15T10:00:00+00:00</published>
-  <updated>2026-10-15T10:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg"/>
-  <media:content url="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg"/>
-  <webfeeds:featuredImage>https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg</webfeeds:featuredImage>
-  <summary>The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg" alt="What the West can learn from AI optimists in the rest of the world" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Payal Arora&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.&lt;/em&gt;&lt;/p&gt;
-&lt;p class="wp-block-paragraph"&gt;On a recent Sunday afternoon, I was invited to debate AI’s impact on the cultural sector alongside Dutch politicians and creative-industry leaders. I was the lone optimist, arguing that if fear and risk become our primary lens for governing artificial intelligence, we will design systems around what we want to prevent rather than what we want to use them for. Then I said something that was harder for the room to hear: The Global South is home to some of AI’s &lt;a href="https://restofworld.org/2026/global-workers-using-ai-at-work/"&gt;most enthusiastic&lt;/a&gt; and inventive users, and their experiments could help us rethink our own institutions.&amp;nbsp;&lt;/p&gt;
-
-
-&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;In the West, fear of AI has helped turn pessimism into a cultural virtue.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;The U.S. is no different from Europe. A culture of fear encourages protectionism: We hunker down and romanticize legacy systems rather than ask what might replace them. &lt;a href="https://restofworld.org/2025/indonesia-ai-movies/"&gt;Creative industries&lt;/a&gt; in the majority world have spent decades navigating piracy and weak enforcement, forcing them to think beyond rights-based policing about how creators actually receive value. &lt;a href="https://www.anghami.com/"&gt;Anghami&lt;/a&gt;, the biggest music app in the Middle East, for instance, pays musicians from their first stream, rather than only after a song reaches a minimum threshold. It has approached AI pragmatically, using it to curate, tag, and attribute creative work rather than simply blocking and banning.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In the West, fear of AI has helped turn pessimism into a cultural virtue. Would you publicly say you love AI? Your answer may say something about where you&amp;#8217;re from. Say “yes” to a concerned audience in the U.S. or the Netherlands, and you risk being seen as naive, or complicit in extraction and exploitation. While the U.S. is building and deploying AI at a scale no other country matches, Americans are deeply anxious about where it is heading. Only 17% of U.S. adults think AI will have a positive impact on the country over the next 20 years, according to a 2025 Pew Research Center &lt;a href="https://www.pewresearch.org/short-reads/2026/03/12/key-findings-about-how-americans-view-artificial-intelligence/"&gt;survey&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In much of the Global South, the mood is &lt;a href="https://restofworld.org/2026/ai-optimism-asia/"&gt;markedly different&lt;/a&gt;. Stanford’s 2025 AI Index found that 83% of respondents in China, 80% in Indonesia, and 77% in Thailand said AI-powered products offer more benefits than drawbacks, compared with 39% in the U.S. and 36% in the Netherlands.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;So why the divide?&lt;/p&gt;
-
-
-
-&lt;h2 id='its-all-about-access' class="wp-block-heading"&gt;&lt;strong&gt;It’s all about access&lt;/strong&gt;&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Demographics are a part of the answer. Nearly 90% of the world’s young people live outside the West. They are not simply using AI, they are playing with it. Drive through Hyderabad or Bengaluru and you will see billboards for AI crash courses and Bollywood films promoted as AI-made. I have spent two decades talking with young people from the rural Himalayas to the slums of Hyderabad, and they often tell me some version of the same thing: They love technology. Their enthusiasm is not necessarily about the technology itself, it is about what &lt;a href="https://restofworld.org/2025/ai-innovation-global-2025/"&gt;AI might democratize&lt;/a&gt;: access to institutions and opportunities that have long excluded people with the least social or cultural capital.&lt;/p&gt;
-
-
-&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Their enthusiasm is not necessarily about the technology itself, it is about what AI might democratize.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;A founder I met in Gurgaon told me she is anxious about AI too, but that it has allowed her to reach clients far beyond the English-speaking world, reinventing her business in a fraction of the time it once took. A civic activist in Chennai taught herself to code with AI and built a gender violence-alert app in multiple languages, at a moment when funding for such work is drying up and state scrutiny is rising. Having seen what deepfake abuse does to women, she sees AI as one of the few tools powerful enough to fight back. India consistently ranks among the most optimistic countries on AI even as &lt;a href="https://restofworld.org/2025/engineering-graduates-ai-job-losses/"&gt;anxiety about jobs&lt;/a&gt; rises.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;It would be easy for the West to dismiss these stories as products of scarcity, shaped by conditions far removed from our own. That would be a mistake. Constraint has a way of forcing people to &lt;a href="https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/"&gt;rewrite the rules of the game&lt;/a&gt;. At a technology festival in Athens this year, creatives told me they worry AI might kill short filmmaking. In China, AI-made micro-dramas have become a multibillion-dollar industry. One breakout film, &lt;em&gt;Zombie Cleaner&lt;/em&gt;, was made for less than $500 by a part-time wedding photographer in rural Yunnan province, and went on to attract tens of millions of views overseas. The significance is not the novelty of AI-generated entertainment. It is that AI lowers the cost of &lt;a href="https://restofworld.org/2026/ai-video-games-developer-jobs/"&gt;entering a cultural market&lt;/a&gt;. People in smaller Chinese cities can tell stories in their own accents and languages rather than waiting for mainstream media to tell them what counts as a story.&lt;/p&gt;
-
-
-
-&lt;h2 id='building-for-need-not' class="wp-block-heading"&gt;&lt;strong&gt;Building for need, not market share&lt;/strong&gt;&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;A few months ago, I spoke to employees at a multinational company about “inclusive AI.” I was asked to remove a slide on AI’s potential harms because it might discourage adoption. That exchange captures something important about AI adoption in the West. Corporations increasingly pressure employees and customers to use AI, often because adoption itself has become a measure of competitiveness. The question is how to maximize market return.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Elsewhere, the question is more often: What problem can this solve?&lt;/p&gt;
-
-
-&lt;figure class='pullquote--right-rail pullquote'&gt;&lt;blockquote&gt;&lt;p&gt;Where capital and resources are scarce, technologies are frequently built around concrete public needs.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Where capital and resources are scarce, technologies are frequently built around concrete public needs. India, with a fraction of Europe’s resources, built India Stack: a public digital infrastructure for identity, payments, and data-sharing that companies can build on rather than infrastructure controlled by a handful of private platforms. Europe is now looking to India’s example as it develops EuroStack, in response to the growing need for digital sovereignty.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Innovation does not always come from having more. Sometimes it comes from having less room for failure. The countries with the least room for error are &lt;a href="https://restofworld.org/2026/frugal-ai-big-tech/"&gt;experimenting with AI&lt;/a&gt; not because they are blind to its risks, but because they cannot afford to wait for perfect systems to solve chronic problems. The West should pay closer attention.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The point is not to romanticize the Global South, but to recognize that we have a remarkably narrow vision of what AI can be for. We ask whether it will replace workers, destroy creativity, undermine democracy, or kill our planet. These are necessary questions. But what if we also asked what AI could help us rebuild? Young people around the world are using it for work, entertainment, romance, creativity, activism, and self-expression. They are not waiting for institutions to tell them what the technology is supposed to be for.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;If the most powerful builders keep designing for market share while the world’s most resource-constrained builders design for survival and self-actualization, the templates that spread globally for governance, infrastructure, and who gets to participate may increasingly come from wherever necessity did the inventing. The West is warning the world about what AI might do to us. Perhaps it is time to ask what the rest of the world might teach us to do with it.&lt;/p&gt;</content>
 </entry>
 </feed>

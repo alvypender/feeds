@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>El truco de realismo con nombres de cámaras en prompts de video IA no funciona: las diferencias entre modelos pesan más que la jerga técnica — Frame &amp; Prompt</title>
+  <meta name="description" content="Añadir &#x27;85mm lens&#x27; o &#x27;f/1.8&#x27; a un prompt de texto a video no mejora el realismo de forma perceptible. AI Video School probó tres enfoques de prompt en Seedance 2.5 Flash, Wan 3, Kling 4 y Gemini Omni 1.2 Flash dentro de OpenArt, y el veredicto es claro: las variaciones entre modelos superan a las qu">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="El truco de realismo con nombres de cámaras en prompts de video IA no funciona: las diferencias entre modelos pesan más que la jerga técnica">
+  <meta property="og:description" content="Añadir &#x27;85mm lens&#x27; o &#x27;f/1.8&#x27; a un prompt de texto a video no mejora el realismo de forma perceptible. AI Video School probó tres enfoques de prompt en Seedance 2.5 Flash, Wan 3, Kling 4 y Gemini Omni 1.2 Flash dentro de OpenArt, y el veredicto es claro: las variaciones entre modelos superan a las qu">
+  <meta property="og:image" content="https://i.ytimg.com/vi/x0QZ6Uphcws/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-x0QZ6Uphcws.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="El truco de realismo con nombres de cámaras en prompts de video IA no funciona: las diferencias entre modelos pesan más que la jerga técnica">
+  <meta name="twitter:description" content="Añadir &#x27;85mm lens&#x27; o &#x27;f/1.8&#x27; a un prompt de texto a video no mejora el realismo de forma perceptible. AI Video School probó tres enfoques de prompt en Seedance 2.5 Flash, Wan 3, Kling 4 y Gemini Omni 1.2 Flash dentro de OpenArt, y el veredicto es claro: las variaciones entre modelos superan a las qu">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/x0QZ6Uphcws/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-x0QZ6Uphcws.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">El truco de realismo con nombres de cámaras en prompts de video IA no funciona: las diferencias entre modelos pesan más que la jerga técnica</h1>
+        <div class="metadata">
+          <span>Por <strong>AI Video School</strong></span>
+          <time datetime='2026-11-18T17:09:10.239497-05:00'>2026-11-18</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/x0QZ6Uphcws" title="El truco de realismo con nombres de cámaras en prompts de video IA no funciona: las diferencias entre modelos pesan más que la jerga técnica" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=x0QZ6Uphcws" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Añadir &#x27;85mm lens&#x27; o &#x27;f/1.8&#x27; a un prompt de texto a video no mejora el realismo de forma perceptible. AI Video School probó tres enfoques de prompt en Seedance 2.5 Flash, Wan 3, Kling 4 y Gemini Omni 1.2 Flash dentro de OpenArt, y el veredicto es claro: las variaciones entre modelos superan a las que introducen los prompts. La recomendación práctica es describir el resultado visual deseado —primer plano con fondo desenfocado y luces bokeh— en lugar de la herramienta que lo capturaría.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>AI Video School</strong>: <a href="https://www.youtube.com/watch?v=x0QZ6Uphcws" target="_blank" rel="noopener">Does This AI Realism Hack Actually Work? (Seedance, WAN, Kling, Google Omni)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La promesa del atajo técnico y por qué merecía una prueba</h3>
+<p>En los foros de generación de video con IA circula una receta recurrente: si quieres que tus clips parezcan rodados con una cámara de cine, basta con inyectar en el prompt términos como <strong>85mm lens</strong>, <strong>f/1.8</strong> o <strong>shallow depth of field</strong>. La lógica parece impecable: si el modelo ha aprendido de millones de imágenes etiquetadas con metadatos de cámara, debería asociar esa jerga a un aspecto visual concreto. AI Video School decidió comprobarlo con un experimento controlado en lugar de darlo por sentado.</p>
+<p>El punto de partida ya era escéptico. Ninguno de los proveedores de los modelos probados documenta soporte para lenguaje de lentes más allá de términos básicos como <em>wide angle</em> o <em>macro lens</em>. Es decir, no hay garantía de que el modelo interprete &#x27;f-stop&#x27; como un diafragma real ni de que traduzca &#x27;35mm&#x27; a un ángulo de visión concreto. Esa ausencia de documentación convierte la promesa del atajo en una hipótesis que exige verificación empírica, no en un consejo consolidado.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Tres enfoques de prompt, cuatro modelos y un mismo escenario</h3>
+<p>El diseño del experimento fue deliberadamente limpio. Se generaron clips con tres variantes de prompt para la misma escena: una que incluía únicamente <strong>especificaciones de cámara</strong> (lente, diafragma, distancia focal), otra que describía solo el <strong>efecto visual deseado</strong> sin nombrar hardware, y una tercera que <strong>combinaba ambos</strong>. La comparación se ejecutó en cuatro modelos punteros: <strong>Seedance 2.5 Flash</strong> de ByteDance, <strong>Wan 3</strong> de Alibaba, <strong>Kling 4</strong> de Kuaishou y <strong>Gemini Omni 1.2 Flash</strong> de Google, todos accesibles desde la plataforma <strong>OpenArt</strong>.</p>
+<p>Un segundo test afinó la mirada sobre tipos de plano. Se enfrentaron dos enfoques —solo especificaciones de cámara frente a solo descripción del efecto— en tres encuadres distintos: <strong>primer plano</strong>, <strong>plano medio</strong> y <strong>plano general</strong>. Este segundo filtro importa porque el lenguaje de cámara podría tener un efecto más visible en unos encuadres que en otros; por ejemplo, el desenfoque de fondo es más evidente en un primer plano que en un gran angular. Los mismos cuatro modelos repitieron el ejercicio.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Lo que revelaron los clips: el modelo manda, el prompt matiza</h3>
+<p>El resultado fue consistente en ambos tests: <strong>las diferencias entre modelos fueron mucho más notables que las diferencias entre prompts</strong>. Es decir, un mismo prompt producía clips visiblemente distintos según se generara con Seedance, Wan, Kling o Gemini Omni, mientras que las tres variantes de prompt dentro de un mismo modelo tendían a parecerse entre sí. El lenguaje de cámara no introdujo una mejora perceptible en el realismo; en el mejor de los casos, añadió un matiz que se diluía frente al estilo propio de cada motor.</p>
+<p>La conclusión del creador es que no encontró evidencia de que añadir nombres de cámaras, lentes o ajustes de diafragma mejore el realismo en los modelos probados. Esto no significa que el prompt sea irrelevante, sino que su palanca real está en la <strong>descripción visual</strong>, no en la jerga técnica. La habilidad más importante para el AI filmmaking, según el experimento, es una buena escritura descriptiva: saber decir qué se ve en la escena, cómo se comporta la luz y qué profundidad tiene el plano, en lugar de qué herramienta lo capturaría.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Cómo aplicar el hallazgo (y cuándo desconfiar de él)</h3>
+<p>La recomendación práctica es directa: sustituye <em>&#x27;85mm lens, f/1.8&#x27;</em> por una frase que describa el efecto, como <strong>&#x27;primer plano con fondo desenfocado y luces bokeh distantes&#x27;</strong>, o reemplaza <em>&#x27;wide angle&#x27;</em> por <strong>&#x27;plano general con enfoque profundo&#x27;</strong>. El modelo entiende mejor el resultado que la herramienta. Si aun así quieres conservar el término técnico, la variante combinada del test sugiere que no estorba, pero tampoco aporta de forma medible: es un adorno, no un multiplicador de realismo.</p>
+<p>El propio autor advierte que los resultados pueden variar según el modelo y el prompt, y recomienda hacer pruebas comparativas con y sin lenguaje de cámara en el caso concreto de cada usuario. Es un consejo sensato: la conclusión se sostiene para los cuatro modelos y los escenarios probados, no como ley universal. Para quien quiera replicar el experimento, OpenArt ofrece acceso a los cuatro motores en un solo lugar y mantiene una suscripción con <strong>40% de descuento</strong> durante el Black Friday, además del código <strong>AIVS15</strong> con un 15% adicional válido después de esa campaña.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Regla práctica: describe el efecto (&#x27;fondo desenfocado con bokeh distante&#x27;) en lugar del hardware (&#x27;85mm f/1.8&#x27;).</li>
+<li>Los modelos solo documentan términos básicos de lente como &#x27;wide angle&#x27; o &#x27;macro lens&#x27;; el resto es interpretación no garantizada.</li>
+<li>Antes de adoptar cualquier truco de prompt, haz una prueba A/B con y sin el término en tu modelo concreto.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://tolt.link/aivideoschool-camera-hack" target="_blank" rel="noopener"><strong>OpenArt</strong></a> — Plataforma para probar Seedance, Wan, Kling y Gemini Omni en un solo lugar.</li>
+<li><strong>Seedance 2.5 Flash</strong> — Modelo texto a video de ByteDance probado en el experimento.</li>
+<li><strong>Wan 3</strong> — Modelo de generación de video de Alibaba incluido en la comparativa.</li>
+<li><strong>Kling 4</strong> — Modelo de video de Kuaishou evaluado en los tests.</li>
+<li><strong>Gemini Omni 1.2 Flash</strong> — Modelo de video de Google probado en la comparación.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-x0QZ6Uphcws.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
