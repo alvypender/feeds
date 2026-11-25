@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Antigravity para trabajo de conocimiento: configuración, automatizaciones y Gemini 4 Neon explicados paso a paso — Frame &amp; Prompt</title>
+  <meta name="description" content="Google Antigravity deja de ser solo para programar y se convierte en un centro de trabajo para organizar archivos, actualizar dashboards financieros y conectar Gmail, Drive o Calendar. Paul J Lipsky muestra su setup exacto con Gemini 4 Neon Medium, automatizaciones que requieren el ordenador encendi">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Google Antigravity para trabajo de conocimiento: configuración, automatizaciones y Gemini 4 Neon explicados paso a paso">
+  <meta property="og:description" content="Google Antigravity deja de ser solo para programar y se convierte en un centro de trabajo para organizar archivos, actualizar dashboards financieros y conectar Gmail, Drive o Calendar. Paul J Lipsky muestra su setup exacto con Gemini 4 Neon Medium, automatizaciones que requieren el ordenador encendi">
+  <meta property="og:image" content="https://i.ytimg.com/vi/QjbubjsKqYc/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-QjbubjsKqYc.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Google Antigravity para trabajo de conocimiento: configuración, automatizaciones y Gemini 4 Neon explicados paso a paso">
+  <meta name="twitter:description" content="Google Antigravity deja de ser solo para programar y se convierte en un centro de trabajo para organizar archivos, actualizar dashboards financieros y conectar Gmail, Drive o Calendar. Paul J Lipsky muestra su setup exacto con Gemini 4 Neon Medium, automatizaciones que requieren el ordenador encendi">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/QjbubjsKqYc/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-QjbubjsKqYc.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Google Antigravity para trabajo de conocimiento: configuración, automatizaciones y Gemini 4 Neon explicados paso a paso</h1>
+        <div class="metadata">
+          <span>Por <strong>Paul J Lipsky</strong></span>
+          <time datetime='2026-11-24T17:03:36.988495-05:00'>2026-11-24</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/QjbubjsKqYc" title="Google Antigravity para trabajo de conocimiento: configuración, automatizaciones y Gemini 4 Neon explicados paso a paso" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=QjbubjsKqYc" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Google Antigravity deja de ser solo para programar y se convierte en un centro de trabajo para organizar archivos, actualizar dashboards financieros y conectar Gmail, Drive o Calendar. Paul J Lipsky muestra su setup exacto con Gemini 4 Neon Medium, automatizaciones que requieren el ordenador encendido y una web app móvil útil solo para notificaciones. El veredicto: potente para quien acepte configurar permisos y mantener un equipo dedicado.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Paul J Lipsky</strong>: <a href="https://www.youtube.com/watch?v=QjbubjsKqYc" target="_blank" rel="noopener">Google’s New Antigravity For Knowledge Work</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El modo &#x27;knowledge work&#x27;: una interfaz simplificada que solo ven las cuentas personales</h3>
+<p>Antigravity nació como plataforma de agentes para codificación, pero su modo <strong>&#x27;knowledge work&#x27;</strong> reorienta la experiencia hacia tareas de oficina. Para activarlo hay que entrar en <em>Ajustes &gt; General</em> y cambiar el layout de la interfaz; la vista se reduce a lo esencial y desaparecen paneles de desarrollo que estorban cuando el objetivo es gestionar documentos. La limitación importante: <strong>solo está disponible para cuentas personales de Google</strong>, no para cuentas business, así que quien use un Workspace corporativo no verá la opción.</p>
+<p>Antes de lanzar la primera tarea conviene ajustar los permisos del agente. Hay tres niveles: <em>&#x27;request review&#x27;</em>, que pide aprobación en cada paso; <em>&#x27;auto&#x27;</em>, un equilibrio entre autonomía y control; y <em>&#x27;turbo&#x27;</em>, sin restricciones. Lipsky recomienda <strong>&#x27;turbo&#x27;</strong> para no interrumpir el flujo de trabajo, aunque eso implica confiar en el agente. También merece la pena activar <strong>&#x27;prevent sleep&#x27;</strong> en <em>Ajustes &gt; Application</em> para que el ordenador no se duerma durante tareas largas, y elegir el navegador integrado en <em>Ajustes &gt; Browser</em> para evitar que cada enlace abra una ventana externa.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Proyectos locales y el experimento con Copper Pine Plumbing</h3>
+<p>La clave para no repetir la carga de archivos en cada conversación es crear <strong>proyectos que apunten a una carpeta local</strong>. El agente accede a los documentos relevantes sin que el usuario tenga que subirlos manualmente una y otra vez. Lipsky lo probó con los archivos financieros desordenados de un negocio ficticio, <em>Copper Pine Plumbing</em>: renombró archivos, actualizó un dashboard financiero y generó informes mensuales individuales. La conclusión es que Antigravity puede <strong>manipular archivos locales de forma autónoma</strong> (renombrar, actualizar, crear) siempre que el proyecto apunte a la carpeta correcta.</p>
+<p>El modelo por defecto en su flujo es <strong>Gemini 4 Neon Medium</strong>, que usa más del 90% del tiempo por su equilibrio entre capacidades, velocidad y costo. Solo cambia a <em>Gemini 4 Carbon</em> para trabajo importante que requiera más potencia. En cuanto a modelos de otras compañías, como <em>Claude Opus 5.5</em>, tienen uso limitado dentro de Antigravity con la suscripción de Google AI; no son la opción cotidiana. Para prompts largos, el botón de dictado permite enviarlos por voz sin escribir.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Conectores de Google Workspace y automatizaciones que dependen del equipo encendido</h3>
+<p>En <em>Customizations</em> se pueden conectar varias cuentas de Google, personales y de Workspace, para que el agente acceda a <strong>Gmail, Drive, Docs, Sheets y Calendar</strong>. Lipsky probó a extraer PDFs de Gmail e incorporarlos a un dashboard, lo que demuestra la utilidad de los conectores. Además de los de Google, hay conectores adicionales como <em>Canva, Granola, Notion, Trello, PandaDoc, Monday.com, Cloudflare y Base44</em>, que amplían las funcionalidades según el tipo de trabajo.</p>
+<p>Las automatizaciones se crean primero en un chat y luego se activan en la sección <strong>&#x27;Automations&#x27;</strong>. Es imprescindible ejecutar una prueba manual para configurar los permisos y evitar bloqueos futuros. Lipsky configuró una tarea para marcar spam cada mañana a las 8 a.m. y comprobó que funciona, pero con una limitación crítica: <strong>no son en la nube</strong>. Requieren que el ordenador esté encendido y Antigravity abierto; por eso él usa un <em>Mac Mini dedicado 24/7</em>. Sin esa infraestructura, las automatizaciones no se ejecutan.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Modo de voz y web app móvil: útiles, pero con limitaciones</h3>
+<p>El modo de voz permite encadenar varias tareas y conversar con el agente. En la prueba, Lipsky organizó informes mensuales en una carpeta, creó un informe anual, redactó un discurso de agradecimiento y navegó a la página de renovación de pasaporte, todo con instrucciones habladas. La conclusión es que el modo de voz es <strong>eficaz para dar múltiples instrucciones</strong> y mantener una conversación fluida, incluyendo lectura de documentos y edición en tiempo real.</p>
+<p>Para el móvil no hay app nativa optimizada. Se instala como <strong>web app</strong> desde <em>antigravity.google &gt; web app &gt; añadir a pantalla de inicio</em>. La experiencia es la misma que en escritorio, pero no está adaptada a pantallas pequeñas y los botones son diminutos. Aun así, es útil para <strong>recibir notificaciones</strong> cuando el agente termina una tarea o necesita algo. Es un complemento de aviso, no un sustituto del escritorio.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Precios, alternativas y el veredicto práctico</h3>
+<p>Google Antigravity está disponible en <strong>todos los planes de pago de Google AI</strong>; los planes más caros ofrecen más uso y acceso a modelos más potentes. Los modelos de otras compañías, como Claude Opus 5.5, tienen uso limitado dentro de Antigravity con la suscripción de Google AI. Frente a plataformas como <em>Hyperagent</em>, que se centra en contratar equipos de agentes especializados en atención al cliente, generación de contenido y respuestas automáticas, Antigravity apuesta por un agente generalista integrado con el escritorio y el ecosistema de Google.</p>
+<p>El veredicto de Lipsky es que Antigravity es <strong>potente para trabajo de conocimiento</strong> si se acepta configurar permisos, mantener un equipo encendido y usar la web app móvil solo como aviso. No es una solución en la nube ni una app móvil completa, pero para quien trabaje con archivos locales y servicios de Google, el flujo con Gemini 4 Neon Medium y proyectos locales resulta muy eficiente. La recomendación práctica: empezar con &#x27;turbo&#x27;, activar &#x27;prevent sleep&#x27;, crear un proyecto por carpeta de trabajo y probar cada automatización manualmente antes de confiar en ella.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para activar el modo &#x27;knowledge work&#x27;: Ajustes &gt; General &gt; cambiar layout (solo cuentas personales de Google).</li>
+<li>Permisos del agente: &#x27;request review&#x27; (aprobación), &#x27;auto&#x27; (equilibrado), &#x27;turbo&#x27; (sin restricciones; recomendado para fluidez).</li>
+<li>Las automatizaciones no son en la nube: requieren ordenador encendido y Antigravity abierto; usar un equipo dedicado 24/7.</li>
+<li>Modelo por defecto recomendado: Gemini 4 Neon Medium; Gemini 4 Carbon solo para trabajo importante.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://antigravity.google/" target="_blank" rel="noopener"><strong>Google Antigravity</strong></a> — Plataforma de agentes de IA para codificación y trabajo de conocimiento, con interfaz simplificada, proyectos, conectores y automatizaciones.</li>
+<li><a href="https://www.hyperagent.com/login?utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=PAUL" target="_blank" rel="noopener"><strong>Hyperagent</strong></a> — Plataforma para contratar equipos de agentes de IA especializados en atención al cliente, generación de contenido y respuestas automáticas.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-QjbubjsKqYc.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

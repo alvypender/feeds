@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo reducir a la mitad el costo en créditos de video IA: guía de selección de modelo, storyboards y draft mode con Seedance 2.5 y Kling 4.0 — Frame &amp; Prompt</title>
+  <meta name="description" content="El gasto descontrolado en créditos de generación de video IA tiene solución: elegir el modelo adecuado para cada tarea, construir storyboards antes de generar y probar en modo borrador antes de upscalear. La creadora Kaye Creates demuestra con cifras concretas que una escena de 10 segundos puede cos">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo reducir a la mitad el costo en créditos de video IA: guía de selección de modelo, storyboards y draft mode con Seedance 2.5 y Kling 4.0">
+  <meta property="og:description" content="El gasto descontrolado en créditos de generación de video IA tiene solución: elegir el modelo adecuado para cada tarea, construir storyboards antes de generar y probar en modo borrador antes de upscalear. La creadora Kaye Creates demuestra con cifras concretas que una escena de 10 segundos puede cos">
+  <meta property="og:image" content="https://i.ytimg.com/vi/pK6Vg6j8HzQ/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-pK6Vg6j8HzQ.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo reducir a la mitad el costo en créditos de video IA: guía de selección de modelo, storyboards y draft mode con Seedance 2.5 y Kling 4.0">
+  <meta name="twitter:description" content="El gasto descontrolado en créditos de generación de video IA tiene solución: elegir el modelo adecuado para cada tarea, construir storyboards antes de generar y probar en modo borrador antes de upscalear. La creadora Kaye Creates demuestra con cifras concretas que una escena de 10 segundos puede cos">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/pK6Vg6j8HzQ/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-pK6Vg6j8HzQ.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo reducir a la mitad el costo en créditos de video IA: guía de selección de modelo, storyboards y draft mode con Seedance 2.5 y Kling 4.0</h1>
+        <div class="metadata">
+          <span>Por <strong>Kaye Creates</strong></span>
+          <time datetime='2026-11-24T17:02:41.863210-05:00'>2026-11-24</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/pK6Vg6j8HzQ" title="Cómo reducir a la mitad el costo en créditos de video IA: guía de selección de modelo, storyboards y draft mode con Seedance 2.5 y Kling 4.0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=pK6Vg6j8HzQ" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El gasto descontrolado en créditos de generación de video IA tiene solución: elegir el modelo adecuado para cada tarea, construir storyboards antes de generar y probar en modo borrador antes de upscalear. La creadora Kaye Creates demuestra con cifras concretas que una escena de 10 segundos puede costar 32,5 créditos con Kling 4.0 o 280 con Seedance 2.5 en 4K, y que tres pruebas en 480p más un upscale a 1080p ahorran 300 créditos frente a generar directamente en alta resolución. El flujo se completa con un skill personalizado para Claude que recomienda modelos según calidad y presupuesto.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Kaye Creates</strong>: <a href="https://www.youtube.com/watch?v=pK6Vg6j8HzQ" target="_blank" rel="noopener">3 Steps to Stop Wasting Your AI Credits on Video Generation</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema real: el mismo clip puede costar diez veces más</h3>
+<p>Antes de entrar en modelos y flujos de trabajo, conviene entender la magnitud del desperdicio. En las plataformas de generación de video IA, el costo en créditos no es fijo: depende de la duración del clip, la resolución elegida (720p, 1080p o 4K) y de si se incluye audio. Un mismo clip de cinco segundos puede pasar de 15 créditos a 140 solo por estos factores. Esa variabilidad es la que convierte una decisión aparentemente trivial —pulsar el botón de generar— en una sangría de créditos si no se revisa antes el costo exacto que muestra la interfaz.</p>
+<p>La consecuencia práctica es que muchos creadores generan directamente en alta resolución y con audio por defecto, sin comprobar alternativas. El primer paso para dejar de desperdiciar créditos es, por tanto, desarrollar el hábito de leer el costo en el botón de generar antes de hacer clic. A partir de ahí, la estrategia se despliega en tres frentes: seleccionar el modelo correcto para cada tipo de escena, invertir en storyboards para proyectos de varias escenas y usar el modo borrador para iterar barato antes de comprometer créditos en alta calidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 1: cada tarea tiene su modelo (y su precio)</h3>
+<p>La primera gran decisión es el modelo. No todos los modelos rinden igual en cada tipo de contenido, y el más caro no siempre es el mejor. Para escenas cinematográficas realistas, <strong>Seedance 2.5</strong> ofrece el mayor nivel de detalle en rostros y manos, pero a un costo elevado: una escena de 10 segundos puede costar 160 créditos en 1080p y 280 en 4K. Frente a él, <strong>Kling 4.0</strong> logra entre el 80% y el 90% de esa calidad por solo 32,5 créditos por una escena de 10 segundos. En una comparación directa con una escena de piano en la playa, Seedance 2.5 mostró mejor realismo, pero Kling 4.0 ofreció una relación calidad-precio difícil de ignorar para planos que no sean primeros planos críticos.</p>
+<p>Para animación estilizada, el cálculo cambia por completo. <strong>MiniMax H3</strong> produjo un resultado que la creadora prefirió estéticamente frente a Seedance 2.5, con un costo de 30 créditos (37,5 con cambio de escena) frente a los 240 créditos del modelo premium: casi cinco veces más barato. En motion graphics con tipografía y transiciones, <strong>Gemini Omni Flash</strong> superó a los modelos cinematográficos pesados en nitidez de texto y fluidez de transiciones por una fracción del costo. Y para escenas de acción o combate cuerpo a cuerpo, <strong>Genjutsu</strong> permite usar una referencia de video para transferir el movimiento exacto en el primer intento, aunque su costo sea mayor; el ahorro aquí proviene de evitar múltiples generaciones fallidas.</p>
+<p>La lección transversal es que el modelo más caro solo se justifica cuando su ventaja específica —realismo facial, física compleja— es visible en el plano. Para el resto, existen alternativas que cumplen con creces. Para sistematizar esta elección, la creadora ha desarrollado un <strong>skill personalizado para Claude</strong> que recomienda el modelo adecuado según la calidad deseada y el presupuesto disponible, evitando la parálisis por análisis ante cada escena.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 2: storyboards que evitan generaciones fallidas</h3>
+<p>En proyectos de varias escenas, el gasto se dispara cuando cada generación se hace a ciegas. La solución es invertir primero en un storyboard que fije la consistencia visual. El método que propone Kaye Creates es sorprendentemente artesanal: dibujar bocetos a mano —sin importar la calidad del trazo—, fotografiarlos y subirlos a <strong>Claude</strong> junto con las hojas de personaje y de locación. A partir de ahí, se le pide un prompt de storyboard de seis paneles y prompts de movimiento por escena. Ese prompt se introduce en <strong>Nano Banana</strong> (o en su alternativa <strong>Cream 5.5</strong>) adjuntando las hojas de referencia, y el resultado es una imagen con las escenas ya maquetadas y coherentes entre sí.</p>
+<p>Con el storyboard en mano, se abren dos vías para convertirlo en video. La primera es generar toda la secuencia en una sola pasada de Seedance 2.5, subiendo el storyboard y las hojas de referencia y describiendo únicamente el movimiento, sin repetir vestuario o escenario que ya están fijados visualmente. La segunda es generar cada escena por separado con los prompts detallados que Claude haya producido. La primera opción ahorra créditos y asegura continuidad; la segunda ofrece mayor control sobre cada plano. En ambos casos, el storyboard previo evita la principal fuente de desperdicio: generar escenas que luego no encajan entre sí y deben repetirse.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 3: draft mode, el seguro contra el gasto impulsivo</h3>
+<p>El tercer pilar es el <strong>modo borrador de Seedance 2.5</strong>. Consiste en probar la escena en 480p por unos 30 créditos y, una vez satisfecho el movimiento de cámara y la física, upscalear ese clip exacto a 1080p o 4K sin regenerarlo. El ahorro es tangible: tres intentos en draft mode (30 créditos cada uno) más un upscale a 1080p (240 créditos) totalizan 420 créditos, frente a 720 créditos si se hubieran hecho tres intentos directos en 1080p (240 créditos cada uno). La diferencia es de 300 créditos por escena, suficiente para financiar varias pruebas adicionales o un plano extra.</p>
+<p>El draft mode también cambia la lógica de la iteración. Si el movimiento de cámara y la física del borrador son correctos pero falla un detalle —una mano mal dibujada, un objeto que aparece donde no debe—, no es necesario reescribir todo el prompt. Basta con generar dos o tres batches adicionales y unir las mejores partes en el editor. Esta práctica, combinada con el storyboard, reduce drásticamente las generaciones completas fallidas. Para proyectos grandes, la inversión inicial en storyboards y pruebas en baja resolución se amortiza con creces, porque cada escena se genera una sola vez en alta calidad y con un propósito claro.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El contexto de precios y la oferta que lo hace aún más barato</h3>
+<p>Todos estos cálculos se mueven en el ecosistema de <strong>Higgsfield</strong>, una plataforma que integra múltiples modelos de video IA (Seedance, Kling, MiniMax, entre otros) y permite comparar costos y resoluciones en un mismo entorno. La creadora enlaza una oferta de Black Friday con hasta un 70% de descuento en planes y créditos, vigente hasta el 29 de noviembre, que reduce aún más el costo por generación. Para quien esté evaluando el flujo, esa ventana promocional puede ser el momento de probar los modelos premium con menor riesgo económico.</p>
+<p>Más allá de la oferta, la estructura de precios refuerza la tesis central: el mismo clip de cinco segundos puede costar de 15 a 140 créditos según resolución y audio. Con esa horquilla, elegir mal el modelo o la resolución no es un detalle menor, sino la diferencia entre un proyecto viable y uno que agota el presupuesto en la primera escena. La combinación de modelo adecuado, storyboard previo y draft mode convierte esa horquilla en una ventaja: se paga la alta calidad solo cuando aporta valor visible.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Conclusión: un flujo de tres pasos para gastar la mitad</h3>
+<p>El flujo completo se resume en tres decisiones encadenadas. Primero, elegir el modelo según la tarea: Seedance 2.5 para realismo cinematográfico, Kling 4.0 para escenas que toleren un 80-90% de esa calidad a una fracción del precio, MiniMax H3 para animación estilizada, Gemini Omni Flash para motion graphics y Genjutsu para acción con transferencia de movimiento. Segundo, invertir en un storyboard generado con IA a partir de bocetos manuales y hojas de referencia, para que todas las escenas compartan consistencia y ninguna generación se desperdicie. Tercero, probar en draft mode a 480p y upscalear solo el clip elegido, con lo que se ahorran hasta 300 créditos por escena.</p>
+<p>La conclusión de la creadora es que la clave para ahorrar créditos no está en un truco único, sino en la disciplina de aplicar estos tres pasos en orden. El skill personalizado para Claude que recomienda modelos según calidad y presupuesto añade una capa de sistematización que evita decisiones impulsivas. En un mercado donde el mismo clip puede costar diez veces más según cómo se genere, esa disciplina es la diferencia entre producir con holgura o quedarse sin créditos a mitad de proyecto.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Regla de oro: revisar siempre el costo en créditos en el botón de generar antes de hacer clic; varía según duración, resolución (720p, 1080p, 4K) y audio.</li>
+<li>Ahorro del draft mode: 3 pruebas en 480p (30 créditos cada una) + 1 upscale a 1080p (240 créditos) = 420 créditos, frente a 720 créditos generando 3 veces directo en 1080p. Ahorro: 300 créditos por escena.</li>
+<li>Referencia rápida de costos: Kling 4.0 = 32,5 créditos por 10 s; Seedance 2.5 = 160 créditos en 1080p y 280 en 4K por 10 s; MiniMax H3 = 30 créditos por escena animada.</li>
+<li>Oferta Black Friday de Higgsfield: hasta 70% de descuento en planes y créditos hasta el 29 de noviembre.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://higgsfield.ai/s/seedance-2-5-kaye-creatives-BLeDSS" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma que integra múltiples modelos de video IA y permite comparar costos y resoluciones.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video IA para realismo cinematográfico, con modo borrador y upscaling a 4K.</li>
+<li><strong>Kling 4.0</strong> — Modelo económico para escenas cinematográficas con 80-90% de la calidad de Seedance.</li>
+<li><strong>MiniMax H3</strong> — Modelo especializado en animación estilizada de bajo costo.</li>
+<li><strong>Gemini Omni Flash</strong> — Modelo eficiente para motion graphics y tipografía.</li>
+<li><strong>Genjutsu</strong> — Herramienta de transferencia de movimiento para escenas de acción con referencia de video.</li>
+<li><strong>Claude</strong> — Asistente IA para generar prompts de storyboard y movimiento, y para el skill de selección de modelos.</li>
+<li><strong>Nano Banana</strong> — Modelo de generación de imágenes para crear storyboards multi-panel con consistencia.</li>
+<li><strong>Cream 5.5</strong> — Alternativa a Nano Banana para generar storyboards multi-panel.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-pK6Vg6j8HzQ.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

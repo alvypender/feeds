@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tesla Reality View: visualización 3D generativa en tiempo real sin motor de juego que corre en medio procesador AI4 — Frame &amp; Prompt</title>
+  <meta name="description" content="Tesla ha lanzado Reality View en FSD v15, una vista de dron 360 grados que fusiona todas las cámaras del coche y se genera con una red de difusión de ~1B de parámetros en tiempo real. No hay motor de juego: la misma red end-to-end sustituye señales explícitas y draw calls, y corre en solo la mitad d">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Tesla Reality View: visualización 3D generativa en tiempo real sin motor de juego que corre en medio procesador AI4">
+  <meta property="og:description" content="Tesla ha lanzado Reality View en FSD v15, una vista de dron 360 grados que fusiona todas las cámaras del coche y se genera con una red de difusión de ~1B de parámetros en tiempo real. No hay motor de juego: la misma red end-to-end sustituye señales explícitas y draw calls, y corre en solo la mitad d">
+  <meta property="og:image" content="https://i.ytimg.com/vi/kEZuq-CGoTg/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-kEZuq-CGoTg-rIOiOWpjHNg.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Tesla Reality View: visualización 3D generativa en tiempo real sin motor de juego que corre en medio procesador AI4">
+  <meta name="twitter:description" content="Tesla ha lanzado Reality View en FSD v15, una vista de dron 360 grados que fusiona todas las cámaras del coche y se genera con una red de difusión de ~1B de parámetros en tiempo real. No hay motor de juego: la misma red end-to-end sustituye señales explícitas y draw calls, y corre en solo la mitad d">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/kEZuq-CGoTg/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-kEZuq-CGoTg-rIOiOWpjHNg.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Tesla Reality View: visualización 3D generativa en tiempo real sin motor de juego que corre en medio procesador AI4</h1>
+        <div class="metadata">
+          <span>Por <strong>Bilawal Sidhu</strong></span>
+          <time datetime='2026-11-22T17:03:48.818997-05:00'>2026-11-22</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/kEZuq-CGoTg" title="Tesla Reality View: visualización 3D generativa en tiempo real sin motor de juego que corre en medio procesador AI4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=kEZuq-CGoTg" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Tesla ha lanzado Reality View en FSD v15, una vista de dron 360 grados que fusiona todas las cámaras del coche y se genera con una red de difusión de ~1B de parámetros en tiempo real. No hay motor de juego: la misma red end-to-end sustituye señales explícitas y draw calls, y corre en solo la mitad de un acelerador AI4 TRIP. El resultado se compara con GTA 6 en la vida real y establece un nuevo estándar de conciencia espacial, aunque la cámara no sigue al conductor fuera del vehículo.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Bilawal Sidhu</strong> (Short): <a href="https://www.youtube.com/shorts/kEZuq-CGoTg" target="_blank" rel="noopener">Tesla Reality View is GTA 6 in real life (no game engine)</a> · <strong>Bilawal Sidhu</strong> (Short): <a href="https://www.youtube.com/shorts/rIOiOWpjHNg" target="_blank" rel="noopener">Tesla New Reality View Feels Like GTA 6 In Real Life - gives your car a virtual drone view!</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La vista de dron que fusiona todas las cámaras y dibuja la ruta</h3>
+<p>Tesla Reality View no es un mapa 3D pregrabado ni un render tradicional: es una visualización generativa que toma las imágenes de todas las cámaras del vehículo y las fusiona en una única perspectiva de dron en 360 grados que sigue al coche mientras se mueve. Sobre esa vista se dibuja la ruta planificada, integrando la navegación directamente en la representación visual. El conductor ve su entorno como si un dron lo sobrevolara, con la trayectoria marcada en el mundo virtual.</p>
+<p>La clave es que esa vista se genera en tiempo real y se actualiza con el movimiento del vehículo. No se trata de una reconstrucción posterior ni de un simple collage de cámaras: el sistema crea una representación coherente y continua del entorno, lo que Tesla presenta como un salto en la conciencia espacial del coche. La función llegó con FSD (Supervised) v15 y se ejecuta en el hardware AI4 de la compañía.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Una red de difusión de 1B de parámetros en lugar de un motor de juego</h3>
+<p>El corazón técnico de Reality View es una red neuronal de difusión de aproximadamente <strong>1.000 millones de parámetros</strong>. Su funcionamiento recuerda a los modelos generativos de imágenes: parte de la última vista dibujada, le añade ruido y lo elimina en tiempo real para producir el siguiente fotograma. Ese bucle de ruido y eliminación de ruido es lo que permite generar una escena 3D coherente sin necesidad de un motor de renderizado tradicional.</p>
+<p>Elon Musk ha sido explícito: <em>no emplea ningún motor de juego</em>. En lugar de construir la escena con triángulos, señales explícitas y draw calls, Tesla usa una sola red end-to-end que reemplaza todo ese pipeline gráfico. La red utiliza las mismas características de visión que el modelo FSD emplea para conducir, lo que significa que la visualización y la conducción comparten representación del mundo. Phil Duan, de Tesla, lo resumió así: <em>«siempre quisimos que la interfaz mostrara el mundo a través de los ojos del modelo FSD. Simplemente estábamos demasiado ocupados resolviendo la conducción primero»</em>.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Mitad de un AI4 TRIP: la eficiencia que cambia las reglas</h3>
+<p>El dato más llamativo es el consumo de cómputo. Según Musk, Reality View se ejecuta en <strong>la mitad de un acelerador AI4 TRIP</strong>, el procesador de hardware de Tesla. Eso implica que la generación de la vista 3D en tiempo real no requiere un sistema dedicado ni un motor gráfico pesado, sino que aprovecha la misma plataforma de cómputo del vehículo con un coste muy contenido.</p>
+<p>La comparación con el método anterior es inevitable: el enfoque basado en señales explícitas y draw calls consumía más recursos. Al sustituir ese pipeline por una única red de extremo a extremo, Tesla reduce el cómputo necesario y, al mismo tiempo, obtiene una representación más flexible y coherente. Esa eficiencia es la que permite ejecutar la visualización en paralelo a las tareas de conducción autónoma sin comprometer el rendimiento del sistema.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">GTA 6 en la vida real: la ironía y el nuevo estándar de conciencia espacial</h3>
+<p>Bilawal Sidhu, autor de los dos vídeos analizados, describe la experiencia como <em>GTA 6 en la vida real</em>. La comparación no es gratuita: la vista de dron, la ruta dibujada y la calidad de la representación recuerdan a un videojuego de mundo abierto. De hecho, el creador señala la ironía de que Tesla lanzara esta función apenas dos días después del lanzamiento de GTA 6, como si la realidad y la ficción se cruzaran en el calendario.</p>
+<p>Sin embargo, hay una diferencia clave que Sidhu destaca: la cámara no sigue al conductor cuando sale del coche. En un videojuego, la perspectiva acompaña al personaje; en Reality View, la vista está anclada al vehículo. Esa limitación recuerda que no es un motor de juego, sino una representación generada por una red neuronal entrenada para la conducción. Aun así, la conclusión es clara: Tesla ha establecido un nuevo estándar para la conciencia espacial en vehículos al fusionar todas las cámaras en una vista generada en tiempo real, con un enfoque más eficiente que los motores de renderizado tradicionales.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Red de difusión de ~1B de parámetros: añade ruido a la última vista y lo elimina en tiempo real para generar el siguiente fotograma.</li>
+<li>Consumo: la mitad de un acelerador AI4 TRIP, menos cómputo que el método anterior basado en señales explícitas y draw calls.</li>
+<li>No hay motor de juego: una sola red end-to-end reemplaza el pipeline gráfico tradicional y usa las mismas características de visión que el modelo FSD.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Tesla Reality View</strong> — Visualización generativa en tiempo real del entorno del vehículo para FSD.</li>
+<li><strong>FSD v15</strong> — Versión del sistema de conducción autónoma de Tesla que incluye Reality View.</li>
+<li><strong>AI4 TRIP</strong> — Procesador de hardware de Tesla que ejecuta el modelo de difusión.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-kEZuq-CGoTg-rIOiOWpjHNg.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

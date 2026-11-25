@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Topview T1: el generador de video que copia a Seedance 2.5, según un análisis forense — Frame &amp; Prompt</title>
+  <meta name="description" content="Topview T1 promete calidad de Seedance 2.5 por un 62% menos de precio, pero un análisis forense de Curious Refuge revela que se trata del mismo modelo subyacente: genera en 720p, aplica upscaling y elimina los metadatos de procedencia. Las pruebas de talking heads, el análisis de audio con TidaNet y">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Topview T1: el generador de video que copia a Seedance 2.5, según un análisis forense">
+  <meta property="og:description" content="Topview T1 promete calidad de Seedance 2.5 por un 62% menos de precio, pero un análisis forense de Curious Refuge revela que se trata del mismo modelo subyacente: genera en 720p, aplica upscaling y elimina los metadatos de procedencia. Las pruebas de talking heads, el análisis de audio con TidaNet y">
+  <meta property="og:image" content="https://i.ytimg.com/vi/V0iq6EPfHmw/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-V0iq6EPfHmw.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Topview T1: el generador de video que copia a Seedance 2.5, según un análisis forense">
+  <meta name="twitter:description" content="Topview T1 promete calidad de Seedance 2.5 por un 62% menos de precio, pero un análisis forense de Curious Refuge revela que se trata del mismo modelo subyacente: genera en 720p, aplica upscaling y elimina los metadatos de procedencia. Las pruebas de talking heads, el análisis de audio con TidaNet y">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/V0iq6EPfHmw/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-V0iq6EPfHmw.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Topview T1: el generador de video que copia a Seedance 2.5, según un análisis forense</h1>
+        <div class="metadata">
+          <span>Por <strong>Curious Refuge</strong></span>
+          <time datetime='2026-11-20T17:05:13.581596-05:00'>2026-11-20</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/V0iq6EPfHmw" title="Topview T1: el generador de video que copia a Seedance 2.5, según un análisis forense" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=V0iq6EPfHmw" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Topview T1 promete calidad de Seedance 2.5 por un 62% menos de precio, pero un análisis forense de Curious Refuge revela que se trata del mismo modelo subyacente: genera en 720p, aplica upscaling y elimina los metadatos de procedencia. Las pruebas de talking heads, el análisis de audio con TidaNet y el examen de frames así lo confirman, aunque la compañía no lo ha admitido.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Curious Refuge</strong>: <a href="https://www.youtube.com/watch?v=V0iq6EPfHmw" target="_blank" rel="noopener">We Found a Wild AI Video Conspiracy...</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La promesa de un modelo revolucionario a precio de ganga</h3>
+<p>Topview T1 irrumpió en el mercado con una campaña de marketing agresiva: <strong>30 días ilimitados de generación de video con calidad Seedance 2.5 al 38% de descuento sobre el precio oficial</strong>. Los influencers lo presentaron como un competidor directo del modelo de ByteDance, afirmando que ofrecía resultados comparables pero un 62% más barato. La propuesta era tentadora para creadores que buscan producir video con IA sin asumir los costos de las herramientas premium.</p>
+<p>Sin embargo, la comunidad de IA generativa comenzó a notar similitudes sospechosas entre los resultados de Topview T1 y los de Seedance 2.5. Curious Refuge, un canal especializado en análisis de herramientas de IA, decidió investigar a fondo. Su hipótesis: Topview T1 no era un modelo nuevo, sino un <em>reskin</em> de Seedance 2.5, es decir, una versión reempaquetada del mismo motor, posiblemente con upscaling para simular mayor resolución y sin los metadatos que delatan su origen.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Talking heads bajo la lupa: el cabello no engaña</h3>
+<p>El primer experimento consistió en generar un <em>talking head</em> (un primer plano de una persona hablando) utilizando una imagen de referencia clara y un prompt específico. Se compararon los resultados de Topview T1 en 1080p, Seedance 2.5 en 1080p y Seedance 2.5 en 720p, además de otros modelos como Hailuo, Kling 4.0 y Wan 3.0.</p>
+<p>A simple vista, el video de Topview T1 lucía nítido y profesional. Pero al hacer zoom en el cabello, los expertos notaron una suavidad artificial, típica de un proceso de <strong>upscaling</strong>: los detalles finos se ven borrosos, como si se hubiera partido de una resolución menor y se hubiera escalado digitalmente. En contraste, Seedance 2.5 en 1080p mostró una definición superior en el cabello, con texturas más realistas. Sorprendentemente, Seedance 2.5 en 720p exhibió un nivel de detalle muy similar al de Topview T1, lo que sugería que este último partía de una base de 720p.</p>
+<p>Los otros modelos (Hailuo, Kling 4.0 y Wan 3.0) generaron resultados claramente diferentes en voz y calidad, y en algunos casos no alcanzaron el umbral profesional. Esto descartó que Topview T1 estuviera usando sus motores. Un segundo test, con un hombre en un pub escocés, reforzó la sospecha: Topview T1 mostró signos de hiperagudización en la barba, un artefacto típico del upscaling, mientras que Seedance 2.5 en 1080p fue más definido.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El test de Willem Dafoe: cuando el modelo delata su identidad</h3>
+<p>Uno de los hallazgos más curiosos surgió al pedir un &#x27;anciano en una barra de cena&#x27;. Tanto Seedance 2.5 como Topview T1 generaron un anciano con rasgos que recordaban al actor <strong>Willem Dafoe</strong>. Esta coincidencia no es casual: los modelos de lenguaje visual a menudo asocian ciertos prompts con figuras públicas presentes en sus datos de entrenamiento. Si dos herramientas producen el mismo sesgo, es una señal fuerte de que comparten el mismo modelo subyacente.</p>
+<p>El equipo de Curious Refuge bautizó este fenómeno como el <em>test de Willem Dafoe</em>, una prueba informal pero reveladora. La probabilidad de que dos modelos independientes generen exactamente el mismo parecido con un actor específico es baja, lo que reforzó la hipótesis del reskin.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Análisis forense de audio: TidaNet revela una similitud del 87%</h3>
+<p>Para confirmar la sospecha, se utilizó <strong>TidaNet</strong>, una herramienta de análisis de audio forense que compara la similitud entre clips de voz. Se generaron varias muestras con Seedance 2.5 y se midió su similitud interna, obteniendo un 87%. Luego se compararon con las de Topview T1: el resultado fue también del 87%, idéntico al de Seedance 2.5.</p>
+<p>Los otros modelos arrojaron valores muy distintos: Hailuo 49%, Wan 3.0 21% y Kling 4.0 54%. Esta disparidad confirmó que Topview T1 estaba utilizando el mismo modelo de voz que Seedance 2.5, no uno propio. La coincidencia del 87% es especialmente significativa porque indica que las voces generadas son prácticamente indistinguibles, algo que solo ocurre si comparten el mismo motor de síntesis.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Metadatos: la huella digital que Topview T1 intenta borrar</h3>
+<p>El análisis de metadatos fue la prueba definitiva. Los videos generados por Seedance 2.5 contienen etiquetas que revelan su origen: generador <strong>&#x27;byte plus&#x27;</strong>, modelo <strong>&#x27;arc 1.0&#x27;</strong>, resolución, número de frames (145) y fps (24). Estos datos son una huella digital que permite rastrear la procedencia del video.</p>
+<p>En cambio, los videos de Topview T1 no contenían metadatos de procedencia. Sin embargo, al examinar el número de frames y la duración, se encontró que también tenían 145 frames y 6.08 segundos, exactamente igual que Seedance 2.5. Esta coincidencia es prácticamente imposible en un modelo diferente, ya que el número de frames y la duración dependen de la arquitectura interna y de las decisiones de muestreo.</p>
+<p>La ausencia de metadatos en Topview T1 sugiere una eliminación intencional para ocultar su origen. Para realizar este análisis, el equipo utilizó <strong>Claude</strong> para &#x27;vibe-codear&#x27; una herramienta personalizada de extracción de metadatos, demostrando que no se necesita un software especializado para llevar a cabo una investigación forense básica.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Conclusión: un reskin no confirmado pero altamente probable</h3>
+<p>Todas las evidencias apuntan a que Topview T1 es una versión de menor resolución de Seedance 2.5, upscalada con una herramienta de terceros y renombrada como modelo propio. La compañía no ha confirmado ni negado esta acusación, pero los datos son contundentes: mismos sesgos creativos, misma similitud de audio, mismo número de frames y ausencia de metadatos que delatarían el uso de Seedance.</p>
+<p>Este caso plantea interrogantes sobre la transparencia en la industria de la IA generativa. Mientras los usuarios buscan alternativas económicas, los proveedores pueden estar revendiendo modelos existentes sin revelarlo. Para los creadores, la lección es clara: desconfiar de las promesas de &#x27;calidad premium a bajo costo&#x27; y verificar siempre la procedencia de las herramientas. La investigación de Curious Refuge, aunque no concluyente a nivel legal, ofrece un método replicable para detectar reskins y exige mayor honestidad a las empresas del sector.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Seedance 2.5 genera 145 frames a 24 fps (6.08 s con frames extra); si otra herramienta muestra lo mismo, es sospechoso.</li>
+<li>Similitud de audio del 87% en TidaNet entre Seedance 2.5 y Topview T1; otros modelos: Hailuo 49%, Kling 4.0 54%, Wan 3.0 21%.</li>
+<li>Metadatos de Seedance 2.5: generador &#x27;byte plus&#x27;, modelo &#x27;arc 1.0&#x27;; Topview T1 los elimina.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Topview T1</strong> — Generador de video AI bajo investigación por posible reskin de Seedance 2.5.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video de ByteDance, presuntamente usado como base por Topview T1.</li>
+<li><strong>Kling 4.0</strong> — Modelo de generación de video comparado en las pruebas.</li>
+<li><strong>Wan 3.0</strong> — Modelo de generación de video comparado en las pruebas.</li>
+<li><strong>Hailuo</strong> — Modelo de generación de video comparado en las pruebas.</li>
+<li><strong>TidaNet</strong> — Herramienta de análisis de audio forense para comparar similitud entre clips de voz.</li>
+<li><strong>Claude</strong> — Usado para crear una herramienta personalizada de análisis de metadatos de video.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-V0iq6EPfHmw.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenAI tropieza con GPT-6.2 Astra mientras Google arrasa con Gemini 4 Neon y Project Genie 4 — Frame &amp; Prompt</title>
+  <meta name="description" content="La semana dejó un contraste brutal: GPT-6.2 Astra llegó con buenos benchmarks y un 20% de descuento en API, pero los usuarios lo describen como perezoso e inutilizable, mientras Google lanzó Gemini 4 Neon —rápido, barato y con un rendimiento que roza a Opus 5.5— y Project Genie 4, que convierte foto">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="OpenAI tropieza con GPT-6.2 Astra mientras Google arrasa con Gemini 4 Neon y Project Genie 4">
+  <meta property="og:description" content="La semana dejó un contraste brutal: GPT-6.2 Astra llegó con buenos benchmarks y un 20% de descuento en API, pero los usuarios lo describen como perezoso e inutilizable, mientras Google lanzó Gemini 4 Neon —rápido, barato y con un rendimiento que roza a Opus 5.5— y Project Genie 4, que convierte foto">
+  <meta property="og:image" content="https://i.ytimg.com/vi/gxoKLsWRRxs/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-gxoKLsWRRxs.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="OpenAI tropieza con GPT-6.2 Astra mientras Google arrasa con Gemini 4 Neon y Project Genie 4">
+  <meta name="twitter:description" content="La semana dejó un contraste brutal: GPT-6.2 Astra llegó con buenos benchmarks y un 20% de descuento en API, pero los usuarios lo describen como perezoso e inutilizable, mientras Google lanzó Gemini 4 Neon —rápido, barato y con un rendimiento que roza a Opus 5.5— y Project Genie 4, que convierte foto">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/gxoKLsWRRxs/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-gxoKLsWRRxs.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">OpenAI tropieza con GPT-6.2 Astra mientras Google arrasa con Gemini 4 Neon y Project Genie 4</h1>
+        <div class="metadata">
+          <span>Por <strong>Paul J Lipsky</strong></span>
+          <time datetime='2026-11-20T17:07:51.215325-05:00'>2026-11-20</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/gxoKLsWRRxs" title="OpenAI tropieza con GPT-6.2 Astra mientras Google arrasa con Gemini 4 Neon y Project Genie 4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=gxoKLsWRRxs" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La semana dejó un contraste brutal: GPT-6.2 Astra llegó con buenos benchmarks y un 20% de descuento en API, pero los usuarios lo describen como perezoso e inutilizable, mientras Google lanzó Gemini 4 Neon —rápido, barato y con un rendimiento que roza a Opus 5.5— y Project Genie 4, que convierte fotos en mundos 3D navegables. Anthropic debutó en bolsa con una valoración de 1,5 billones y los agentes de IA encendieron las alarmas de seguridad.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Paul J Lipsky</strong>: <a href="https://www.youtube.com/watch?v=gxoKLsWRRxs" target="_blank" rel="noopener">Big AI News: OpenAI Fumbled but Google Won The Week (Again)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">GPT-6.2 Astra: benchmarks brillantes, experiencia de usuario desastrosa</h3>
+<p>OpenAI presentó GPT-6.2 Astra y su variante Sol con una rebaja del 20% en el precio de API y una promesa de eficiencia que, sobre el papel, parecía imbatible. En el índice de inteligencia de Artificial Analysis, Astra se colocó como el modelo número dos, solo por detrás de Claude Fable 5.2, y en un benchmark de agentes superó a Fable 5.2 con aproximadamente el 5% del costo. Sin embargo, la experiencia real de quienes lo probaron contó una historia muy distinta: el modelo se mostró <em>perezoso</em>, inconsistente y con serias dificultades para seguir instrucciones complejas.</p>
+<p>La prueba más reveladora fue la generación de un video animado con un prompt que exigía un cambio de estilo de animación cada vez que la pareja protagonista abriera una puerta. Astra devolvió principalmente imágenes estáticas, ignorando la instrucción de animación y evidenciando una falta de cumplimiento que otros modelos resolvieron sin problemas. El veredicto de la comunidad fue duro: <strong>Theo</strong>, experto en IA, lo calificó como «el peor modelo que OpenAI ha lanzado»; <strong>Dan Shipper</strong> señaló que representa un retroceso en escritura respecto a Astra 6; y <strong>Matt Schumer</strong> habló de una «experiencia terrible, modelos esencialmente inutilizables». El contraste entre los números y la realidad práctica reabre el debate sobre la fiabilidad de los benchmarks como medida de utilidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Gemini 4 Neon: el momento Opus 5.5 de Google</h3>
+<p>Google no perdió el tiempo. En poco más de un mes lanzó cuatro modelos: Argon el 13 de octubre, Carbon y Hydrogen la semana pasada, y ahora <strong>Gemini 4 Neon</strong>, un modelo rápido y económico que se posiciona entre Carbon y Hydrogen. Neon está pensado para tareas de conocimiento, escritura y coding, y su relación calidad-precio lo convierte en la opción más atractiva de la familia para el uso diario. La prueba de fuego llegó con un reto de código: generar la imagen de un anciano triste usando solo código, sin herramientas de generación de imágenes. Neon produjo un resultado impresionante, más rápido y económico que Carbon, aunque este último mostró más carácter en el trazo; Hydrogen y Argon también cumplieron con resultados aceptables.</p>
+<p>La conclusión es que Neon representa el «momento Opus 5.5» de Google: un modelo que no solo compite en inteligencia con la referencia de Anthropic, sino que lo hace con una velocidad y un costo que lo vuelven viable para producción masiva. Para los desarrolladores que dudaban entre la potencia de Carbon y la ligereza de Hydrogen, Neon ofrece el punto medio que faltaba en el catálogo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Project Genie 4: de una foto a un mundo 3D navegable</h3>
+<p>El anuncio más espectacular de la semana fue <strong>Project Genie 4</strong>, la aplicación de Google que genera mundos 3D interactivos y navegables, con sonido y capacidad de modificar el entorno en tiempo real. La demostración partió de un prompt descriptivo: «una aldea steampunk acogedora y soleada en un valle exuberante, con edificios de ladrillo cálido, madera desgastada y latón pulido, animales mecánicos, estilo Studio Ghibli». El resultado fue un entorno coherente, con iluminación y atmósfera consistentes, que además permitía caminar por él y alterar elementos sobre la marcha.</p>
+<p>La función más llamativa es <em>«step into my photo»</em>: basta subir una fotografía para convertirla en un mundo 3D navegable, lo que abre un abanico de aplicaciones que va desde la previsualización arquitectónica hasta la creación de escenarios para videojuegos o experiencias educativas. Project Genie 4 está disponible únicamente para suscriptores de Google AI Ultra, lo que confirma la estrategia de Google de reservar sus capacidades más avanzadas para los planes de pago superior.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Anthropic debuta en bolsa y la seguridad de los agentes se vuelve urgente</h3>
+<p>Anthropic protagonizó el acontecimiento financiero del año con su salida a bolsa: acciones a 83 dólares, una recaudación de 81.000 millones y una valoración de 1,5 billones. El precio de apertura fue de 111,68 dólares, un 34% por encima del precio de salida, aunque luego retrocedió a 95. El mercado premió la trayectoria de la empresa, que además sigue ampliando su ecosistema: <strong>Claude Opus 5.5</strong> se mantiene como referencia en inteligencia, <strong>Claude Fable 5.2</strong> lidera el índice de Artificial Analysis, <strong>Claude Duet</strong> se consolida como asistente personal persistente y <strong>Claude Code</strong> añade temas personalizables para los desarrolladores.</p>
+<p>Pero no todo son buenas noticias. Las vulnerabilidades zero-day explotadas pasaron de unas 8 por mes el año pasado a 22 en agosto de este año, un salto que coincide con la proliferación de agentes autónomos capaces de reservar vuelos, hoteles y alquiler de coches, como <strong>GrokBot</strong>, o de gestionar tareas personales, como <strong>Meta Muse</strong>, que ahora incluye prueba virtual de ropa y el dispositivo Muse Charm por 300 dólares. La recomendación de los expertos es tajante: instalar las actualizaciones de software de inmediato, usar contraseñas únicas y activar la autenticación de dos factores. En este contexto, macOS 27.3 introducirá controles de privacidad para el acceso a disco completo, una respuesta directa a la creciente superficie de ataque.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Tasks, NotebookLM y el resto del ecosistema: pequeñas mejoras que suman</h3>
+<p>Google también movió ficha en productividad. La nueva función <strong>Tasks</strong> de Gemini permite asignar tareas, investigar o crear presentaciones directamente desde mensajes de texto en iMessage o Android, y está disponible en planes gratuitos con límites no especificados. <strong>NotebookLM</strong>, por su parte, añadió la posibilidad de pedir en el chat «crea un sitio web para mí», generando una web a partir de las fuentes del cuaderno, lo que convierte a la herramienta en un generador de documentación y micrositios sin salir del entorno de notas.</p>
+<p>En el terreno de los asistentes personales, Meta Muse sigue ampliando funciones con su prueba virtual de ropa y el dispositivo Muse Charm, mientras GrokBot demuestra que los agentes de reserva ya son una realidad comercial. La semana deja un mapa claro: OpenAI necesita corregir la brecha entre benchmarks y experiencia real, Google ha encontrado en Neon y Genie 4 un ritmo de lanzamientos que no tenía, y Anthropic capitaliza su posición con una IPO histórica mientras la seguridad de los agentes se convierte en el próximo gran desafío de la industria.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>GPT-6.2 Astra: precio de API reducido un 20%; superó a Claude Fable 5.2 en un benchmark de agentes con ~5% del costo.</li>
+<li>Anthropic IPO: salida a 83 USD, apertura a 111,68 USD (+34%), retroceso posterior a 95 USD; valoración de 1,5 billones.</li>
+<li>Vulnerabilidades zero-day explotadas: de ~8 por mes a 22 en agosto; actualizar software, contraseñas únicas y 2FA.</li>
+<li>Project Genie 4: solo para suscriptores de Google AI Ultra; permite convertir una foto en mundo 3D con «step into my photo».</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>GPT-6.2 Astra</strong> — Modelo de OpenAI con API un 20% más barata; criticado por perezoso e inconsistente.</li>
+<li><strong>GPT-6.2 Sol</strong> — Variante de GPT-6.2 de OpenAI.</li>
+<li><strong>Gemini 4 Neon</strong> — Modelo rápido y económico de Google para conocimiento, escritura y coding.</li>
+<li><strong>Gemini 4 Carbon</strong> — Modelo estado del arte previo de Google, más lento y caro que Neon.</li>
+<li><strong>Gemini 4 Hydrogen</strong> — Modelo rápido de Google para uso diario.</li>
+<li><strong>Project Genie 4</strong> — Genera mundos 3D interactivos navegables con sonido y edición en tiempo real.</li>
+<li><strong>Claude Opus 5.5</strong> — Modelo de Anthropic, referencia en inteligencia.</li>
+<li><strong>Claude Fable 5.2</strong> — Modelo de Anthropic líder del índice de Artificial Analysis.</li>
+<li><strong>Claude Duet</strong> — Asistente personal persistente de Anthropic.</li>
+<li><strong>Meta Muse</strong> — Asistente de IA de Meta con prueba virtual de ropa y dispositivo Muse Charm.</li>
+<li><strong>GrokBot</strong> — Agente de IA que reserva vuelos, hoteles y alquiler de coches.</li>
+<li><strong>NotebookLM</strong> — Herramienta de notas de Google que ahora genera sitios web desde las fuentes.</li>
+<li><strong>Claude Code</strong> — Herramienta de coding de Anthropic con temas personalizables.</li>
+<li><a href="https://asus.click/AMDTUFA14_Paul" target="_blank" rel="noopener"><strong>Enlace de patrocinador (ASUS)</strong></a> — Enlace promocional incluido en la descripción del video.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-gxoKLsWRRxs.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gemini 4 Neon: el modelo mediano de Google que supera a los grandes en coding y cuesta la mitad que Claude — Frame &amp; Prompt</title>
+  <meta name="description" content="Google lanzó Gemini 4 Neon, un modelo de tamaño mediano que ya está disponible en la app de Gemini para suscriptores y que, según el leaderboard independiente Artificial Analysis, ocupa el tercer puesto general y el primero en agentes de coding, con un costo aproximadamente la mitad que Claude. Expe">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Gemini 4 Neon: el modelo mediano de Google que supera a los grandes en coding y cuesta la mitad que Claude">
+  <meta property="og:description" content="Google lanzó Gemini 4 Neon, un modelo de tamaño mediano que ya está disponible en la app de Gemini para suscriptores y que, según el leaderboard independiente Artificial Analysis, ocupa el tercer puesto general y el primero en agentes de coding, con un costo aproximadamente la mitad que Claude. Expe">
+  <meta property="og:image" content="https://i.ytimg.com/vi/8RNSJ6Ud4nY/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-8RNSJ6Ud4nY.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Gemini 4 Neon: el modelo mediano de Google que supera a los grandes en coding y cuesta la mitad que Claude">
+  <meta name="twitter:description" content="Google lanzó Gemini 4 Neon, un modelo de tamaño mediano que ya está disponible en la app de Gemini para suscriptores y que, según el leaderboard independiente Artificial Analysis, ocupa el tercer puesto general y el primero en agentes de coding, con un costo aproximadamente la mitad que Claude. Expe">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/8RNSJ6Ud4nY/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-8RNSJ6Ud4nY.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Gemini 4 Neon: el modelo mediano de Google que supera a los grandes en coding y cuesta la mitad que Claude</h1>
+        <div class="metadata">
+          <span>Por <strong>Matt Wolfe (mreflow)</strong></span>
+          <time datetime='2026-11-22T17:03:58.818997-05:00'>2026-11-22</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/8RNSJ6Ud4nY" title="Gemini 4 Neon: el modelo mediano de Google que supera a los grandes en coding y cuesta la mitad que Claude" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=8RNSJ6Ud4nY" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Google lanzó Gemini 4 Neon, un modelo de tamaño mediano que ya está disponible en la app de Gemini para suscriptores y que, según el leaderboard independiente Artificial Analysis, ocupa el tercer puesto general y el primero en agentes de coding, con un costo aproximadamente la mitad que Claude. Expertos como Matthew Berman y Theo lo elogian como el mejor modelo del momento para programar, aunque advierten que está un paso atrás en tareas 3D y videojuegos. En pruebas comparativas, Neon generó un sitio web más creativo que los modelos de OpenAI ante el mismo prompt.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Matt Wolfe (mreflow)</strong> (Short): <a href="https://www.youtube.com/shorts/8RNSJ6Ud4nY" target="_blank" rel="noopener">Google Cooked With This New Model!</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un modelo mediano que se cuela en el podio de los grandes</h3>
+<p>Google ha lanzado <strong>Gemini 4 Neon</strong>, el cuarto modelo de la familia Gemini 4 en aproximadamente siete semanas, siguiendo su particular tradición de nombrarlos con nombres de elementos. A diferencia de sus predecesores, Neon es un modelo de <strong>tamaño mediano</strong> que ya está disponible en la app de Gemini para todos los suscriptores de pago, lo que lo convierte en una opción accesible para usuarios que no necesitan la potencia de un modelo insignia pero sí un rendimiento competitivo.</p>
+<p>En el leaderboard independiente <strong>Artificial Analysis</strong>, que compara rendimiento y costo de modelos de IA, Neon ocupa el <strong>tercer puesto general</strong>, solo por detrás de los mejores modelos de Anthropic y OpenAI. Sin embargo, su verdadero golpe de efecto llega en la prueba de <strong>agentes de coding</strong>, donde se alza con el <strong>primer lugar</strong> con un costo aproximadamente la <strong>mitad que Claude</strong>. Esta combinación de rendimiento y precio lo convierte en una opción especialmente atractiva para desarrolladores y equipos que buscan eficiencia sin sacrificar calidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La prueba del sitio web: creatividad frente a la competencia</h3>
+<p>Para evaluar su capacidad real, el autor comparó Gemini 4 Neon con los dos nuevos modelos de OpenAI utilizando un mismo prompt: <em>«Build me a website that will truly impress me»</em> (construye un sitio web que realmente me impresione). Los modelos de OpenAI generaron sitios muy similares entre sí, ambos con temática de medusas y mar profundo, lo que sugiere una falta de diversidad creativa. En contraste, Neon creó un sitio de <strong>relojero con inspección de engranajes a través de una lupa</strong>, una propuesta visualmente más original y elaborada que el autor consideró claramente más creativa.</p>
+<p>Esta diferencia no es menor: en tareas de generación de código para interfaces web, la capacidad de interpretar el prompt de forma imaginativa y producir resultados distintos marca la diferencia entre un modelo que se limita a cumplir y otro que sorprende. Neon demostró así que no solo compite en benchmarks técnicos, sino que también aporta un valor creativo que puede ser decisivo en proyectos donde la originalidad importa.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Eficiencia en coding: de una semana a diez horas</h3>
+<p>El experto <strong>Theo</strong> compartió una experiencia reveladora: intentó que los modelos de OpenAI optimizaran uno de sus proyectos durante más de una semana, pero el resultado fue contraproducente, ya que el proyecto se volvió más lento. En cambio, <strong>Gemini 4 Neon logró la optimización en aproximadamente 10 horas</strong>, sin empeorar el rendimiento. Esta anécdota ilustra la eficiencia de Neon en tareas de coding y optimización de proyectos, donde no solo es más rápido sino también más fiable.</p>
+<p>Matthew Berman, otro referente de la comunidad, calificó a Neon como <em>«el mejor modelo del planeta ahora mismo»</em>, mientras que Theo afirmó que podría ser su modelo favorito y que Google debería haberlo llamado <strong>Gemini 5</strong>, en clara alusión a que su rendimiento supera las expectativas para un modelo de gama media. Estas opiniones, provenientes de voces críticas y experimentadas, refuerzan la idea de que Google ha dado un salto cualitativo con este lanzamiento.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Limitaciones: el 3D y los videojuegos aún se resisten</h3>
+<p>A pesar de los elogios, tanto Theo como Matthew Berman coinciden en señalar que Gemini 4 Neon está <strong>un paso atrás en tareas 3D y desarrollo de videojuegos</strong>. Esto significa que, si bien el modelo brilla en coding tradicional, agentes y generación de sitios web, no es la mejor opción para proyectos que requieran manipulación de geometría tridimensional o lógica compleja de motores de juego. Para esos casos, los modelos de Anthropic y OpenAI podrían seguir teniendo ventaja.</p>
+<p>Esta limitación es importante para establecer expectativas realistas: Neon no es un todoterreno perfecto, sino un especialista con un rendimiento excepcional en ciertas áreas. La conclusión general es que <strong>Google ha logrado recuperar terreno frente a Anthropic y OpenAI</strong> con este lanzamiento, ofreciendo una alternativa competitiva en precio y rendimiento para coding y agentes, aunque aún debe mejorar en nichos específicos como el 3D.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Gemini 4 Neon: tercer puesto general en Artificial Analysis y primero en agentes de coding, con costo ~50% menor que Claude.</li>
+<li>Prompt comparativo: «Build me a website that will truly impress me»; Neon generó un sitio de relojero con lupa, más creativo que los de OpenAI (medusas/mar profundo).</li>
+<li>Optimización de proyecto: OpenAI &gt;1 semana sin mejora; Neon ~10 horas con éxito.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Gemini 4 Neon</strong> — Modelo de lenguaje de Google para generación de código, agentes de coding y creación de sitios web; disponible en la app de Gemini para suscriptores.</li>
+<li><strong>Artificial Analysis</strong> — Leaderboard independiente para comparar rendimiento y costo de modelos de IA.</li>
+<li><a href="https://futuretools.io/" target="_blank" rel="noopener"><strong>Future Tools</strong></a> — Sitio web de Matt Wolfe con noticias y herramientas de IA.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-8RNSJ6Ud4nY.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

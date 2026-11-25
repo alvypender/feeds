@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo crear un corto animado estilo Pixar de 2 minutos con OpenArt, GPT Image 2.6 y Seedance 2.5 — Frame &amp; Prompt</title>
+  <meta name="description" content="Producir un cortometraje animado de dos minutos con calidad de estudio ya no requiere un equipo de decenas de personas ni meses de renderizado. El creador Youri van Hofwegen demuestra un flujo de trabajo completo que combina OpenArt, GPT Image 2.6 y Seedance 2.5 para generar 16 imágenes de referenci">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo crear un corto animado estilo Pixar de 2 minutos con OpenArt, GPT Image 2.6 y Seedance 2.5">
+  <meta property="og:description" content="Producir un cortometraje animado de dos minutos con calidad de estudio ya no requiere un equipo de decenas de personas ni meses de renderizado. El creador Youri van Hofwegen demuestra un flujo de trabajo completo que combina OpenArt, GPT Image 2.6 y Seedance 2.5 para generar 16 imágenes de referenci">
+  <meta property="og:image" content="https://i.ytimg.com/vi/9l8LCZBDaiE/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-9l8LCZBDaiE.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo crear un corto animado estilo Pixar de 2 minutos con OpenArt, GPT Image 2.6 y Seedance 2.5">
+  <meta name="twitter:description" content="Producir un cortometraje animado de dos minutos con calidad de estudio ya no requiere un equipo de decenas de personas ni meses de renderizado. El creador Youri van Hofwegen demuestra un flujo de trabajo completo que combina OpenArt, GPT Image 2.6 y Seedance 2.5 para generar 16 imágenes de referenci">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/9l8LCZBDaiE/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-9l8LCZBDaiE.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo crear un corto animado estilo Pixar de 2 minutos con OpenArt, GPT Image 2.6 y Seedance 2.5</h1>
+        <div class="metadata">
+          <span>Por <strong>Youri van Hofwegen</strong></span>
+          <time datetime='2026-11-22T17:05:29.990271-05:00'>2026-11-22</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/9l8LCZBDaiE" title="Cómo crear un corto animado estilo Pixar de 2 minutos con OpenArt, GPT Image 2.6 y Seedance 2.5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=9l8LCZBDaiE" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Producir un cortometraje animado de dos minutos con calidad de estudio ya no requiere un equipo de decenas de personas ni meses de renderizado. El creador Youri van Hofwegen demuestra un flujo de trabajo completo que combina OpenArt, GPT Image 2.6 y Seedance 2.5 para generar 16 imágenes de referencia, cuatro clips de 30 segundos con diálogos y lip sync, y un montaje final en CapCut. El resultado: seis personajes visualmente consistentes, voces integradas y una narrativa coherente que se puede completar en una fracción del tiempo y el costo tradicionales.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Youri van Hofwegen</strong>: <a href="https://www.youtube.com/watch?v=9l8LCZBDaiE" target="_blank" rel="noopener">How to Make Animated Cartoon Videos with AI (Full Guide)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema de la consistencia visual y la solución de las hojas de referencia</h3>
+<p>El mayor desafío al generar un corto animado con inteligencia artificial no es la calidad de un fotograma aislado, sino mantener la coherencia visual a lo largo de múltiples escenas. Los modelos de imagen tienden a producir variaciones no deseadas en los rostros, la ropa o la iluminación entre generaciones. Para resolverlo, el tutorial propone construir un <strong>banco de 16 imágenes de referencia</strong> antes de generar cualquier video: seis personajes, cuatro objetos (props) y seis localizaciones. Todas se crean con <strong>GPT Image 2.6</strong> en modo <em>Sunburst</em>, resolución 16:9 4K y calidad <em>High</em>, parámetros que garantizan detalle y uniformidad.</p>
+<p>La pieza central de este banco es la <strong>hoja de personaje</strong> (character sheet), una imagen con tres paneles: cuerpo frontal sin cabeza, cuerpo trasero y primer plano del rostro. Esta estructura permite al modelo aprender la identidad facial y el vestuario desde múltiples ángulos. Para cambios de vestuario, se genera una hoja adicional adjuntando la primera como referencia y solicitando únicamente la modificación de la ropa, lo que preserva los rasgos. Además, se debe especificar diferencias corporales para cada personaje —por ejemplo, un comisionado más robusto y un alcalde más rechoncho— para evitar que todos compartan la misma complexión genérica.</p>
+<p>Los objetos que aparecen en más de una escena requieren su propia hoja de referencia con múltiples ángulos; el ejemplo citado es una caja fuerte abierta y vacía. Para las localizaciones, se genera una imagen amplia sin personajes, adjuntando la hoja del personaje solo como referencia de estilo y indicando explícitamente que se ignore el fondo gris y la luz plana de dicha hoja. El paquete VIP de OpenArt incluye la herramienta <strong>Style Matcher</strong>, que copia el estilo visual de una imagen a todas las demás, asegurando una paleta y textura coherentes en todo el corto.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Generación de video con Seedance 2.5: planos, diálogos y lip sync en 30 segundos</h3>
+<p>Con el banco de referencias listo, el siguiente paso es la generación de video con <strong>Seedance 2.5</strong>, un modelo que permite crear clips de hasta 30 segundos con audio integrado, diálogos y sincronización labial. La configuración recomendada es <strong>1080p, 16:9, duración 30 segundos y audio activado</strong>. El prompt de video debe escribirse como una secuencia de nueve planos, indicando para cada uno el encuadre, el movimiento de cámara y la acción. Esta estructura narrativa permite controlar el ritmo y evita que el modelo improvise transiciones no deseadas.</p>
+<p>Los diálogos se incluyen entre comillas junto al personaje que habla, y se especifica el tipo de voz para cada uno. Por ejemplo, para el detective se indica: <em>voz baja, calmada, ligeramente ronca, británica y cansada</em>. Esta descripción ayuda al modelo a generar una interpretación vocal coherente con la personalidad del personaje. El lip sync se produce automáticamente al alinear la voz generada con los movimientos labiales, lo que ahorra un paso de posproducción que tradicionalmente requería herramientas externas.</p>
+<p>La primera generación de 30 segundos (nueve planos) produjo un clip con diálogos y lip sync que mantuvo la consistencia de los personajes y el vestuario según las hojas de referencia. Para la segunda mitad de la escena del estudio, se utilizó el video anterior como referencia y se extrajeron tres fotogramas clave con la herramienta <strong>GrabFrame</strong>: una vista amplia, los personajes en acción y el último frame. En el prompt se indicó que la nueva generación continuaba desde el último frame, con la misma localización, personajes, iluminación y voces, sin repetir nada del video anterior. El resultado fue una continuación perfecta sin saltos visibles.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Continuidad y generación en paralelo: cómo mantener la coherencia entre escenas</h3>
+<p>No todas las escenas requieren una continuación directa. La escena de la persecución en el puerto se generó en paralelo, sin depender de un video previo, y demostró un buen manejo de movimiento rápido, transiciones suaves y coherencia entre los personajes. Para lograrlo, se adjuntaron las hojas de referencia de los personajes y la localización, y se describió la secuencia de planos con acciones dinámicas. Este enfoque permite ahorrar tiempo al generar varias escenas simultáneamente, siempre que no compartan un mismo espacio físico inmediato.</p>
+<p>La última escena del corto se continuó desde la anterior usando el mismo método de referencia de video y fotogramas clave, pero con un cambio de iluminación hacia el amanecer. El prompt especificó la nueva condición lumínica y mantuvo la identidad de los personajes y el escenario. Este tipo de transición temporal es especialmente delicada porque los modelos tienden a alterar la paleta de colores; sin embargo, al proporcionar el video previo como referencia, el modelo respetó la progresión narrativa.</p>
+<p>En total, el corto se compone de cuatro videos de 30 segundos cada uno, sumando los dos minutos de duración final. La consistencia se mantuvo en los seis personajes a lo largo de todas las escenas, incluyendo las generadas en paralelo. La clave está en no confiar únicamente en el texto del prompt, sino en adjuntar siempre las imágenes y videos de referencia que el modelo pueda interpretar como anclas visuales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Montaje final en CapCut y ajustes de audio</h3>
+<p>El último paso es la edición en <strong>CapCut</strong>, un editor de video gratuito y accesible. Se importan los cuatro clips de 30 segundos y se unen en la línea de tiempo, recortando las transiciones para que fluyan sin cortes bruscos. Es importante revisar que el audio de cada clip no se superponga incorrectamente y que los diálogos se escuchen con claridad. Se añade una pista de música de fondo a bajo volumen, de modo que no tape las voces; el tutorial sugiere un nivel bajo y constante para no distraer.</p>
+<p>CapCut permite ajustar la duración de cada clip, aplicar fundidos y sincronizar el audio con precisión. Aunque el modelo ya entrega el lip sync integrado, el montaje final puede requerir pequeños desplazamientos para alinear el inicio de cada segmento. También se pueden añadir títulos o créditos, aunque el enfoque del tutorial está en la narrativa visual. El resultado es un cortometraje de dos minutos con una factura visual que emula el estilo Pixar, logrado con herramientas de IA y una edición sencilla.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Costos, descuentos y paquete VIP: lo que hay que saber antes de empezar</h3>
+<p>OpenArt ofrece un código de descuento del 10% (<strong>URI10</strong>) aplicable a cualquier plan. Durante el Black Friday (del 16 al 30 de noviembre) se aplican hasta un 40% de descuento en el primer año del plan anual y hasta un 50% en modelos selectos. El paquete VIP de Youri, que incluye herramientas como <em>AI Script Writer</em>, <em>Consistent Character Maker</em>, <em>Scene to Shots Planner</em> y <em>Style Matcher</em>, es gratuito al registrarse mediante el enlace del creador, pero es necesario borrar las cookies de OpenArt antes para asegurar la atribución correcta.</p>
+<p>El acceso a GPT Image 2.6 y Seedance 2.5 está incluido en los planes de pago de OpenArt, aunque los detalles exactos de precios por nivel no se especifican en el tutorial. La inversión principal es el tiempo de generación y la curaduría de las referencias, no tanto el costo por imagen o video. Para quienes buscan producir contenido animado de calidad profesional sin un equipo grande, este flujo representa una alternativa viable y económica frente a los métodos tradicionales de animación.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Configuración de imagen: GPT Image 2.6, modo Sunburst, 16:9, 4K, calidad High.</li>
+<li>Configuración de video: Seedance 2.5, 1080p, 16:9, 30 segundos, audio activado.</li>
+<li>Para continuar una escena: adjuntar video previo recortado y 3 fotogramas clave extraídos con GrabFrame (vista amplia, acción, último frame).</li>
+<li>Código de descuento OpenArt: URI10 (10% en cualquier plan).</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://openartvip.com/" target="_blank" rel="noopener"><strong>OpenArt</strong></a> — Plataforma todo en uno para generación de imágenes y videos con IA; incluye modelos y herramientas de consistencia.</li>
+<li><strong>GPT Image 2.6</strong> — Modelo de generación de imágenes para hojas de personajes, props y localizaciones con alta consistencia.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video con audio integrado, diálogos y lip sync; clips de hasta 30 segundos.</li>
+<li><strong>CapCut</strong> — Editor de video para unir clips, ajustar transiciones y añadir música de fondo.</li>
+<li><strong>GrabFrame</strong> — Herramienta dentro de OpenArt para extraer fotogramas clave de un video y usarlos como referencia.</li>
+<li><a href="https://openartvip.com/" target="_blank" rel="noopener"><strong>Paquete VIP de Youri</strong></a> — Incluye AI Script Writer, Consistent Character Maker, Scene to Shots Planner y Style Matcher; gratuito con registro.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-9l8LCZBDaiE.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

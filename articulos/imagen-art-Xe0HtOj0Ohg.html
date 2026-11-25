@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dreamina Canvas 2.0: storyboard unificado con nodos, Seedance 2.5 y consistencia de personajes — Frame &amp; Prompt</title>
+  <meta name="description" content="Dreamina Canvas 2.0 convierte la generación de video con IA en un flujo de trabajo por nodos donde el storyboard, las hojas de personaje y los clips finales se conectan y reutilizan. El tutorial de Youri van Hofwegen demuestra que ejecutar primero el storyboard y corregirlo antes de generar el video">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Dreamina Canvas 2.0: storyboard unificado con nodos, Seedance 2.5 y consistencia de personajes">
+  <meta property="og:description" content="Dreamina Canvas 2.0 convierte la generación de video con IA en un flujo de trabajo por nodos donde el storyboard, las hojas de personaje y los clips finales se conectan y reutilizan. El tutorial de Youri van Hofwegen demuestra que ejecutar primero el storyboard y corregirlo antes de generar el video">
+  <meta property="og:image" content="https://i.ytimg.com/vi/Xe0HtOj0Ohg/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-Xe0HtOj0Ohg.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Dreamina Canvas 2.0: storyboard unificado con nodos, Seedance 2.5 y consistencia de personajes">
+  <meta name="twitter:description" content="Dreamina Canvas 2.0 convierte la generación de video con IA en un flujo de trabajo por nodos donde el storyboard, las hojas de personaje y los clips finales se conectan y reutilizan. El tutorial de Youri van Hofwegen demuestra que ejecutar primero el storyboard y corregirlo antes de generar el video">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/Xe0HtOj0Ohg/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-Xe0HtOj0Ohg.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Dreamina Canvas 2.0: storyboard unificado con nodos, Seedance 2.5 y consistencia de personajes</h1>
+        <div class="metadata">
+          <span>Por <strong>Youri van Hofwegen</strong></span>
+          <time datetime='2026-11-20T17:08:01.215325-05:00'>2026-11-20</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/Xe0HtOj0Ohg" title="Dreamina Canvas 2.0: storyboard unificado con nodos, Seedance 2.5 y consistencia de personajes" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=Xe0HtOj0Ohg" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Dreamina Canvas 2.0 convierte la generación de video con IA en un flujo de trabajo por nodos donde el storyboard, las hojas de personaje y los clips finales se conectan y reutilizan. El tutorial de Youri van Hofwegen demuestra que ejecutar primero el storyboard y corregirlo antes de generar el video evita errores costosos, y que las hojas de personaje son la clave para mantener la consistencia en tomas múltiples. La automatización con Claude mediante la CLI de Dreamina permite escalar la producción, aunque los grupos aún deben crearse manualmente.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Youri van Hofwegen</strong>: <a href="https://www.youtube.com/watch?v=Xe0HtOj0Ohg" target="_blank" rel="noopener">The NEW Way to Storyboard AI Videos (Dreamina 2.0 Canvas)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del clip aislado al lienzo de nodos: qué cambia con Dreamina Canvas 2.0</h3>
+<p>La generación de video con IA suele operar en un vacío: escribes un prompt, obtienes un clip y, si necesitas otra toma del mismo personaje, rezas para que el modelo mantenga su aspecto. Dreamina Canvas 2.0 rompe ese esquema al trasladar la lógica de los editores de nodos —como los que usan ComfyUI o Nuke— a un entorno accesible desde el navegador. Aquí, cada idea, imagen o video es un nodo que se conecta a otros, y el resultado es un grafo reproducible que puedes ajustar sin regenerar todo desde cero.</p>
+<p>El tutorial de Youri van Hofwegen parte de un árbol mínimo de tres nodos: un <strong>User Input Prompt</strong> que contiene la idea, un nodo de imagen que genera un storyboard y un nodo de video que produce el clip final. Con ese esqueleto, una idea simple —Tess la farera y una ballena— se convierte en un storyboard de cinco paneles (tres arriba, dos más anchos abajo) y un video de quince segundos. La clave está en que el nodo de video recibe tanto la idea como el storyboard, y el prompt le indica que use el storyboard como plan de tomas para que los paneles se reproduzcan en orden.</p>
+<p>Pero el enfoque revela su primera limitación: si el storyboard omite un momento clave, el video también lo omitirá. En la prueba con Pip el robot, el primer storyboard no incluía la escena de Pip regando la planta; el video resultante tampoco. La solución es ejecutar solo el nodo de storyboard, revisarlo y corregirlo antes de generar el video. Es más rápido y barato corregir una imagen que un clip completo. Esta lección se convierte en el eje del flujo avanzado.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Hojas de personaje y briefs: la receta para la consistencia</h3>
+<p>El salto de calidad llega cuando el árbol incorpora <strong>hojas de personaje</strong> y una ubicación. En lugar de confiar en la memoria del modelo, se crea un nodo de texto con una plantilla de tres paneles que describe la vestimenta, una vista trasera y un primer plano del rostro. Esa plantilla se conecta a los nodos de personaje, de modo que cada vez que se genere una imagen del personaje, el modelo reciba la referencia visual exacta. Lo mismo ocurre con la ubicación: una imagen de la isla flotante se guarda y se reutiliza en el storyboard y en el video.</p>
+<p>El flujo avanzado añade un nodo <strong>Story Brief</strong> que divide la idea en cuatro partes: historia, personaje A, personaje B y ubicación. Una línea clave del brief obliga a que el personaje B sea claramente diferente del A en edad, complexión, colores y vestimenta. Ese brief se conecta a nodos de texto independientes para el prompt de video, el personaje A, la ubicación y el personaje B, y cada nodo lee solo su parte e ignora el resto. Así se evita la contaminación cruzada de instrucciones, un problema habitual cuando un solo prompt intenta describir todo.</p>
+<p>Las imágenes se generan con <strong>GPT Image 2.5 Sunburst</strong> en calidad máxima 4K y relación 16:9. Para las hojas de personaje y la ubicación, el campo de prompt se deja vacío porque el nodo de texto conectado lo alimenta. El tutorial muestra cómo una hoja de Ivy (maga de tormenta) requería un vestido corto; en lugar de regenerar todo, se edita el texto del brief y los nodos posteriores se actualizan. La ubicación también se regeneró para que se viera claramente una isla flotante. Estos ajustes son la prueba de que el sistema permite iterar sin rehacer el trabajo anterior.</p>
+<p>El storyboard final se conecta al prompt de video y a las tres imágenes (hojas de personaje y ubicación). Se le pide un total de ocho paneles (cuatro arriba, cuatro abajo) y se especifica que use las hojas para el aspecto de los personajes y la imagen de ubicación para el escenario. El video resultante, generado con <strong>Seedance 2.5</strong> a 1080p, 16:9, 30 segundos y modo Omni Reference, mantiene el aspecto de los personajes en las ocho tomas, incluyendo el vestido corto de Ivy, y sigue el orden del storyboard con transiciones suaves. La consistencia ya no es una lotería: es el resultado de conectar las referencias adecuadas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del lienzo al timeline: edición y variaciones con el agente</h3>
+<p>Dreamina Canvas no se queda en la generación. Un nodo <strong>Timeline</strong> permite unir los videos finales de varios árboles para hacer un rough cut. En el tutorial, tres videos —la ballena, el duelo de magos y una persecución en un templo— se unen en un corte de 65 segundos que se exporta a Adobe Premiere Pro con los cortes ya hechos. También se puede descargar el video final en resoluciones desde 480p hasta 4K, o enviarlo a CapCut, DaVinci Resolve o Final Cut Pro. La frontera entre la generación y la edición se difumina, y el lienzo se convierte en una sala de montaje previa.</p>
+<p>El agente integrado de Dreamina (<strong>Ask Agent</strong>) añade otra capa. Al analizar el video del duelo de magos, el agente puede pedir una nueva versión con cambios de ubicación y prompt. Devuelve un prompt de ubicación y un prompt de video de 30 segundos con ocho tomas; el usuario pega el primero en un nodo de imagen y el segundo en un nodo de video, reutilizando las hojas de personaje. El resultado es un nuevo video en un cañón desértico con los mismos personajes y ataques más intencionados. El agente no sustituye al creador, pero acelera la exploración de variaciones sin rehacer los assets.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Anuncios de producto: un árbol reutilizable para ecommerce</h3>
+<p>El caso práctico de anuncios de producto demuestra la versatilidad del sistema. Con tres fotos de una botella de agua de la marca Fern —frontal, tres cuartos y trasera— se crea una <strong>hoja de producto</strong> en fondo gris plano. La instrucción es taxativa: copiar el producto exactamente, con su logo en la misma posición y sin rediseñar. Esa hoja se conecta a un nodo <strong>Product Brief</strong> que genera una línea del producto y tres anuncios: hero ad, feature ad y lifestyle ad, cada uno con su propia configuración de luz y ritmo. El brief tiene prohibido inventar características o logos que el producto no tenga.</p>
+<p>Cada uno de los tres prompts (Hero, Feature, Lifestyle) lee solo su parte del brief y termina con la instrucción de mantener el nombre y el logo impresos exactamente como en la hoja. Los videos se generan con Seedance 2.5 a 1080p, 16:9 y Omni Reference, con duraciones de 15, 20 y 30 segundos según el anuncio. Todo se agrupa en un <strong>Ecommerce Node Tree</strong> con un subgrupo Core que se ejecuta de una vez. Para el siguiente producto, solo hay que cambiar las tres fotos y la descripción, y volver a ejecutar el grupo. La reutilización es total.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Automatización con Claude: la CLI que convierte instrucciones en nodos</h3>
+<p>La integración con agentes externos es quizá la característica más disruptiva. Dreamina expone una <strong>CLI</strong> con 70 comandos que permite a Claude (o Codex) crear, editar, conectar y ejecutar nodos. El proceso es sencillo: se copia el comando de la página &#x27;paste into your agent&#x27;, se instala, se conecta la CLI a la cuenta de Dreamina y se le pide a Claude que cree un canvas con tres nodos (idea, imagen y video) conectados. Claude genera los prompts y ejecuta tras confirmar el costo. En la demostración, el agente creó el canvas y mostró el costo antes de proceder, esperando la confirmación del usuario.</p>
+<p>Sin embargo, hay una limitación importante: Claude puede crear, editar, conectar y ejecutar nodos, pero <strong>no puede crear o cambiar grupos</strong>. Esa tarea queda para el usuario. Para pedirle un canvas, conviene especificar la idea, el modelo de imagen (GPT Image 2.5 Sunburst 4K) y el de video (Seedance 2.5 1080p, 5 segundos), y exigir que muestre el costo antes de ejecutar. Esta automatización es útil para escalar la producción de anuncios o para prototipar rápidamente, aunque el control creativo de la estructura de grupos sigue siendo manual.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Precios, planes y el contexto de la oferta</h3>
+<p>Dreamina ofrece un plan Basic con hasta un 98% de descuento para nuevos usuarios, desde <strong>0,29 dólares por un mes completo</strong>. Además, hay un evento conjunto con CapCut: si ya eres miembro de CapCut Pro o superior, al iniciar sesión en Dreamina Web con la misma cuenta participas en un sorteo con 100% de probabilidad de ganar. Los premios incluyen hasta un 98% de descuento en Dreamina Basic, hasta 10 generaciones gratuitas de Seedance 2.0 a 720p sin límite de duración y créditos extra gratis. La suscripción a Dreamina incluye acceso tanto a Seedance 2.0 como a 2.5, lo que permite experimentar con ambos modelos.</p>
+<p>Más allá de la promoción, el valor está en el flujo de trabajo. La posibilidad de guardar imágenes en <strong>Save to Assets</strong> para reutilizarlas en otros nodos o lienzos, y de agrupar nodos para ejecutarlos con un solo botón, reduce drásticamente el tiempo de producción. El tutorial deja claro que el sistema está pensado para iterar: ejecutar el storyboard, corregirlo, generar el video y, si hace falta, usar el agente para explorar variaciones. Es una cadena de montaje creativa donde cada eslabón se puede ajustar sin desmontar toda la línea.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para storyboard: GPT Image 2.5 Sunburst, 4K, 16:9; pide 5 paneles (3 arriba, 2 abajo) o 8 (4 arriba, 4 abajo) y especifica que personajes y lugares se mantengan idénticos.</li>
+<li>Para video: Seedance 2.5, 1080p, 16:9, Omni Reference; conecta hojas de personaje, ubicación y storyboard, e indica el propósito de cada conexión en el prompt.</li>
+<li>Para consistencia: crea una hoja de personaje con plantilla de 3 paneles (vestimenta, espaldas, primer plano) y úsala como referencia en todos los nodos.</li>
+<li>Para automatizar con Claude: usa la CLI de Dreamina (70 comandos), especifica modelos y pide confirmación de costo antes de ejecutar; los grupos se crean manualmente.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://dreamina.capcut.com/ai-tool/home" target="_blank" rel="noopener"><strong>Dreamina Canvas</strong></a> — Lienzo basado en nodos para storyboard, generación de imágenes y videos, y edición en timeline.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video avanzado con modo Omni Reference para clips de hasta 30 segundos con consistencia.</li>
+<li><strong>GPT Image 2.5 Sunburst</strong> — Modelo de generación de imágenes en alta calidad (4K) para storyboards y hojas de personaje.</li>
+<li><strong>Claude</strong> — Agente de IA que, vía CLI de Dreamina, puede crear, editar, conectar y ejecutar nodos.</li>
+<li><strong>CapCut</strong> — Editor de video que importa directamente los videos exportados desde Dreamina Canvas.</li>
+<li><strong>Adobe Premiere Pro</strong> — Editor profesional; Dreamina exporta un proyecto con clips y cortes para continuar la edición.</li>
+<li><strong>DaVinci Resolve</strong> — Editor profesional soportado en la exportación desde Dreamina Canvas.</li>
+<li><strong>Final Cut Pro</strong> — Editor profesional soportado en la exportación desde Dreamina Canvas.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-Xe0HtOj0Ohg.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GTA 6 y la IA: Veyra lleva el juego a 60 FPS, desmontamos los bulos de Claude jugando y repasamos los experimentos creativos — Frame &amp; Prompt</title>
+  <meta name="description" content="En las primeras 24 horas de GTA 6, la comunidad IA ha mezclado herramientas reales con desinformación. Lo más útil es Veyra, un software libre que genera frames en tiempo real sobre la señal de la PS5 para pasar de 30 a 60 FPS, aunque sin acceso a motion vectors es más un filtro de belleza que un DL">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="GTA 6 y la IA: Veyra lleva el juego a 60 FPS, desmontamos los bulos de Claude jugando y repasamos los experimentos creativos">
+  <meta property="og:description" content="En las primeras 24 horas de GTA 6, la comunidad IA ha mezclado herramientas reales con desinformación. Lo más útil es Veyra, un software libre que genera frames en tiempo real sobre la señal de la PS5 para pasar de 30 a 60 FPS, aunque sin acceso a motion vectors es más un filtro de belleza que un DL">
+  <meta property="og:image" content="https://i.ytimg.com/vi/fSGLyVe1XpM/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-fSGLyVe1XpM.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="GTA 6 y la IA: Veyra lleva el juego a 60 FPS, desmontamos los bulos de Claude jugando y repasamos los experimentos creativos">
+  <meta name="twitter:description" content="En las primeras 24 horas de GTA 6, la comunidad IA ha mezclado herramientas reales con desinformación. Lo más útil es Veyra, un software libre que genera frames en tiempo real sobre la señal de la PS5 para pasar de 30 a 60 FPS, aunque sin acceso a motion vectors es más un filtro de belleza que un DL">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/fSGLyVe1XpM/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-fSGLyVe1XpM.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">GTA 6 y la IA: Veyra lleva el juego a 60 FPS, desmontamos los bulos de Claude jugando y repasamos los experimentos creativos</h1>
+        <div class="metadata">
+          <span>Por <strong>Theoretically Media</strong></span>
+          <time datetime='2026-11-20T17:05:03.581596-05:00'>2026-11-20</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/fSGLyVe1XpM" title="GTA 6 y la IA: Veyra lleva el juego a 60 FPS, desmontamos los bulos de Claude jugando y repasamos los experimentos creativos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=fSGLyVe1XpM" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">En las primeras 24 horas de GTA 6, la comunidad IA ha mezclado herramientas reales con desinformación. Lo más útil es Veyra, un software libre que genera frames en tiempo real sobre la señal de la PS5 para pasar de 30 a 60 FPS, aunque sin acceso a motion vectors es más un filtro de belleza que un DLSS real. Mientras tanto, se desmontan los bulos de que Claude juega, el port a PC y el &#x27;GTA 6 MCP&#x27;, y se repasan experimentos creativos con Seedance 2.5, MiniMax H3 y parodias como Slop New York. La IA real dentro del juego se limita a upscaling ML en PS5 Pro, patentes de animación y el sistema Euphoria.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Theoretically Media</strong>: <a href="https://www.youtube.com/watch?v=fSGLyVe1XpM" target="_blank" rel="noopener">GTA 6 Goes AI (What Rockstar Didn&#x27;t Say)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Veyra: generación de frames en tiempo real para GTA 6</h3>
+<p>El lanzamiento de GTA 6 ha venido acompañado de una avalancha de herramientas y experimentos, pero pocos tan prácticos como <strong>Veyra</strong>, un software libre y open source que promete llevar el juego de los 30 FPS nativos de PS5 a 60 FPS en PC. La clave está en que no modifica el juego ni accede a su motor, sino que <em>genera frames en tiempo real sobre la señal de vídeo</em> capturada de la consola, ya sea mediante una capture card o a través de Remote Play. El juego sigue corriendo a 30 FPS en la PS5, pero el PC se encarga de interpolar fotogramas adicionales para suavizar la imagen.</p>
+<p>El proceso requiere una GPU potente, típicamente de la serie RTX 40 o 50, para poder realizar ese pase de generación de frames sin que la latencia se dispare. Según las pruebas iniciales, el multiplicador 2x ofrece una experiencia jugable con una latencia perceptible pero baja; sin embargo, por encima de 2x la respuesta se vuelve prácticamente injugable. Es importante entender que Veyra <strong>no tiene acceso a motion vectors, depth buffers ni datos del motor</strong>, por lo que no es un DLSS nativo ni una tecnología equivalente. Funciona más bien como un &#x27;filtro de belleza&#x27; que suaviza la imagen, pero no puede corregir artefactos complejos ni mejorar la calidad gráfica real.</p>
+<p>Para configurarlo, la comunidad ha publicado un tutorial extenso en Reddit que detalla los pasos con capture card y Remote Play. El autor del análisis sugiere incluso pasárselo a Claude para que lo resuma, una muestra de cómo la IA puede ayudar a digerir documentación técnica. A pesar de sus limitaciones, Veyra se presenta como la opción más accesible para quienes quieran experimentar con GTA 6 a mayor tasa de refresco sin esperar una versión oficial para PC.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Desmontando bulos: Claude no juega, no hay port a PC y el &#x27;MCP&#x27; es slop</h3>
+<p>La fiebre por la IA ha generado una serie de bulos que el análisis desmonta con contundencia. El primero es la afirmación de que <strong>Claude juega a GTA 6</strong>. Según el autor, esto es falso; como mucho, Claude podría generar los motion graphics superpuestos al gameplay, pero no controlar el juego. Otro bulo es el supuesto <strong>port a PC</strong> de GTA 6. Aunque GTA 5 sí llegó a un navegador (comprimido a 700 MB y corriendo en WebGPU) gracias al código fuente filtrado, con GTA 6 sería inviable: habría que empezar de cero frente a más de 200 GB y la seguridad propietaria de PS5. El autor cita la regla de que el primer 80% es fácil, pero el último 20% lleva años.</p>
+<p>También se desmonta el <strong>&#x27;GTA 6 MCP&#x27;</strong> de GitHub, un repositorio que supuestamente permite interactuar con el juego mediante un protocolo de IA. El autor concluye que no funciona y que es slop generado por Claude, detectado por el tono de la documentación (&#x27;el jueves por la mañana pasan tres cosas a la vez...&#x27;), que atribuye a Sonnet, no a un modelo superior. Este tipo de proyectos falsos reflejan la fiebre por subirse a la ola de la IA sin aportar valor real.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Experimentos creativos: de Slop New York a tu personaje en una escena de GTA</h3>
+<p>Más allá de las herramientas para jugar, la comunidad ha desatado su creatividad con experimentos que mezclan GTA 6 y IA. Uno de los más llamativos es <strong>Slop New York</strong>, un Manhattan explorable vibe-codeado con three.js por Mr.doob, el creador de la librería. El repositorio es forkable y, aunque el juego en sí es básico, el mapa de la ciudad resulta útil para experimentos de video-to-video. Otra parodia destacada es <strong>Grand Faith Auto</strong> de Babylon Bee, un juego jugable con temática religiosa en el que se lanzan biblias a terroristas y se llevan prostitutas a la iglesia, todo con el estilo GTA.</p>
+<p>En el terreno de los memes, la plantilla de green screen de @MurdoinkGS permite componer footage del juego con otras imágenes para crear parodias rápidas. Para quienes quieran un póster estilo GTA sin complicaciones, Adobe Creator Cards en Firefly ofrece el filtro &#x27;Palm Paradise&#x27;, aparentemente gratis, que convierte un selfie en una portada del juego. También hay espacio para el humor laboral: el <strong>&#x27;GTA 6 skill&#x27;</strong> de GitHub mantiene el punto de Slack en verde y muestra logs de build falsos usando nombres reales de repos y tests para simular que trabajas mientras juegas.</p>
+<p>Pero el experimento más ambicioso es la inserción de un personaje propio en una escena estilo GTA. Para ello se utiliza <strong>Seedance 2.5</strong>, un modelo de vídeo que, a partir de un par de screenshots de las imágenes promocionales del juego y la character sheet del personaje (en este caso, Flamethrower Girl), más un prompt sencillo, genera un clip que se acerca bastante al look de GTA. Como alternativa más económica, <strong>MiniMax H3</strong> ofrece un resultado similar. El autor incluso propone pasar footage de Seedance o MiniMax H3 por Veyra para ver qué ocurre, en un ejercicio de meta-experimentación.</p>
+<p>En el apartado de tráilers paródicos, destacan el <strong>GTA VI: Cursed Trailer</strong> de The Dor Brothers, una sátira provocadora generada con IA que utiliza la canción original de Tom Petty, y la recreación del tráiler de lanzamiento con estética PS2 a cargo de u/Press2PlayDuo, lograda mediante un modelo video-to-video (no un motor PS2 real). Estos experimentos muestran cómo la IA generativa está democratizando la creación de contenido audiovisual de alta calidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La IA real dentro de GTA 6: upscaling, patentes y Euphoria</h3>
+<p>Aunque Strauss Zelnick, CEO de Take-Two, afirmó que la IA generativa tuvo &#x27;cero parte&#x27; en GTA 6, lo cierto es que el juego incorpora tecnologías de machine learning. La más visible es el <strong>upscaling ML en PS5 Pro</strong>, que mejora la resolución de la imagen en tiempo real. Además, Take-Two tiene registrada una patente (US20250095261A1) sobre <em>runtime animation retargeting</em> y deep learning para el tracking de manos y dedos en mocap, lo que sugiere que la IA se utiliza en el proceso de animación.</p>
+<p>El sistema de físicas <strong>Euphoria</strong>, integrado en el motor RAGE desde GTA 4, también emplea simulación y biomecánica para generar reacciones realistas como tropiezos o impactos sin keyframes manuales. Aunque no es IA generativa en el sentido moderno, sí es una forma de inteligencia artificial basada en reglas y simulación. La conexión entre GTA y la IA viene de lejos: el paper &#x27;Playing for Data&#x27; (Intel Labs, 2016) utilizó GTA 5 para generar ground truth y entrenar la visión por computador de coches autónomos. Y AlexNet (2012), de Hinton, Krizhevsky e Ilya Sutskever, se entrenó con dos NVIDIA GTX 580 y logró un error rate del 15,3%, un hito que cambió el campo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Genspark Media Studio: el aliado para producciones complejas</h3>
+<p>Para quienes quieran ir más allá de los experimentos caseros, el análisis menciona <strong>Genspark Media Studio</strong>, una plataforma que reúne todos los modelos de vídeo, imagen y audio en un solo lugar, más un agente que construye el story bible, el production tracker y cablea el canvas sin nodos manuales. Incluye un 3D director stage y generación de assets 3D, lo que la convierte en una herramienta potente para producciones audiovisuales complejas. Genspark ofrece créditos gratis al registrarse y una oferta de Black Friday del 18 de noviembre al 1 de diciembre con 50% de descuento en el primer año de Genspark Plus; los primeros 100 usuarios que se registren por el enlace del creador reciben 10.000 créditos extra.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un &#x27;GTA&#x27; en Unreal Engine con Gemini y Claude: backlot para experimentos</h3>
+<p>El autor relata su propio experimento: construir un &#x27;GTA&#x27; en Unreal Engine con la ayuda de Gemini y Claude en unas 12 horas. El resultado no es un juego, sino un <em>backlot</em> para experimentos de video-to-video y captura de cámara, tipo photo mode con esteroides. Reconoce que le queda mucho camino frente al GTA 6 real, pero lo valioso es la posibilidad de generar escenas y probar ideas rápidamente. Este tipo de proyectos híbridos entre IA generativa y motores de juego apuntan a un futuro donde la creación de prototipos será mucho más accesible.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Veyra: software libre para generar frames en tiempo real sobre la señal de PS5 y alcanzar 60 FPS en GTA 6; requiere GPU RTX 40/50 y multiplicador 2x para jugabilidad óptima.</li>
+<li>Para insertar un personaje en una escena estilo GTA: usar Seedance 2.5 con screenshots promocionales y character sheet; alternativa económica MiniMax H3.</li>
+<li>GTA 6 ocupa más de 200 GB; un port a PC es inviable a corto plazo por seguridad y tamaño.</li>
+<li>La IA generativa tuvo &#x27;cero parte&#x27; en GTA 6 según Take-Two, pero el juego usa upscaling ML en PS5 Pro y patentes de animación con deep learning.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://github.com/Likely7/Veyra-NRVideo" target="_blank" rel="noopener"><strong>Veyra</strong></a> — Software libre de generación de frames en tiempo real para llevar GTA 6 de 30 a 60 FPS.</li>
+<li><a href="https://www.reddit.com/r/losslessscaling/comments/1xyhl3d/capture_card_frame_gen_via_veyra_for_gta_6_in_60/" target="_blank" rel="noopener"><strong>Tutorial de configuración de Veyra (Reddit)</strong></a> — Guía paso a paso para configurar Veyra con capture card y Remote Play.</li>
+<li><a href="https://github.com/wonkylamp/gta-6-skill" target="_blank" rel="noopener"><strong>GTA 6 skill</strong></a> — Skill que mantiene el estado de Slack en verde y genera logs de build falsos.</li>
+<li><a href="https://github.com/mrdoob/slop-newyork/" target="_blank" rel="noopener"><strong>Slop New York (Mr.doob)</strong></a> — Manhattan explorable vibe-codeado con three.js, repositorio forkable.</li>
+<li><a href="https://babylonbee.com/grand-faith-auto" target="_blank" rel="noopener"><strong>Grand Faith Auto (Babylon Bee)</strong></a> — Parodia jugable estilo GTA con temática religiosa.</li>
+<li><a href="https://x.com/MurdoinkGS/status/2123239831895503330" target="_blank" rel="noopener"><strong>Plantilla green screen de @MurdoinkGS</strong></a> — Composición de green screen con footage del juego para memes.</li>
+<li><a href="https://firefly.adobe.com/quick-actions/creator-cards" target="_blank" rel="noopener"><strong>Adobe Creator Cards (Firefly)</strong></a> — Filtro &#x27;Palm Paradise&#x27; para convertir un selfie en póster estilo GTA.</li>
+<li><a href="https://www.youtube.com/watch?v=lvJCXnTLSok" target="_blank" rel="noopener"><strong>GTA VI: Cursed Trailer (The Dor Brothers)</strong></a> — Tráiler paródico generado con IA, satírico y provocador.</li>
+<li><a href="https://www.reddit.com/user/Press2PlayDuo/comments/1xiwj4u/gta_6_launch_trailer_but_its_2002_graphics_fan/" target="_blank" rel="noopener"><strong>Tráiler de GTA 6 en gráficos PS2 (u/Press2PlayDuo)</strong></a> — Recreación del tráiler con estética PS2 mediante video-to-video.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de vídeo para insertar personajes en escenas estilo GTA.</li>
+<li><strong>MiniMax H3</strong> — Alternativa más económica a Seedance 2.5 para inserción de personajes.</li>
+<li><a href="https://www.genspark.ai/?utm_source=yt&amp;utm_campaign=TheoreticallyMedia05" target="_blank" rel="noopener"><strong>Genspark Media Studio</strong></a> — Plataforma con todos los modelos de vídeo, imagen y audio, más agente para story bible y production tracker.</li>
+<li><a href="https://arxiv.org/abs/1608.02192" target="_blank" rel="noopener"><strong>Playing for Data (paper 2016, Intel Labs)</strong></a> — Paper que usó GTA 5 para entrenar visión por computador de coches autónomos.</li>
+<li><a href="https://patents.google.com/patent/US20250095261A1/en" target="_blank" rel="noopener"><strong>Patente de animación de Take-Two (US20250095261A1)</strong></a> — Solicitud de patente sobre runtime animation retargeting y deep learning para tracking de manos.</li>
+<li><strong>Euphoria</strong> — Sistema de simulación de físicas y biomecánica integrado en RAGE desde GTA 4.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-fSGLyVe1XpM.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

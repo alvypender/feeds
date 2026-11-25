@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Midjourney V8: 7 trucos del modo Edición para convertir bocetos en ilustraciones, texturizar texto y más — Frame &amp; Prompt</title>
+  <meta name="description" content="El modo Edición de Midjourney V8 deja de ser un simple retocador para convertirse en un estudio de transformación visual: acepta bocetos como guía de composición, texturiza tipografías, inserta personajes en escenas nuevas, convierte formas planas en marcos ornamentales, aplica restyling radical y h">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Midjourney V8: 7 trucos del modo Edición para convertir bocetos en ilustraciones, texturizar texto y más">
+  <meta property="og:description" content="El modo Edición de Midjourney V8 deja de ser un simple retocador para convertirse en un estudio de transformación visual: acepta bocetos como guía de composición, texturiza tipografías, inserta personajes en escenas nuevas, convierte formas planas en marcos ornamentales, aplica restyling radical y h">
+  <meta property="og:image" content="https://i.ytimg.com/vi/toXUubDOqVY/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-toXUubDOqVY.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Midjourney V8: 7 trucos del modo Edición para convertir bocetos en ilustraciones, texturizar texto y más">
+  <meta name="twitter:description" content="El modo Edición de Midjourney V8 deja de ser un simple retocador para convertirse en un estudio de transformación visual: acepta bocetos como guía de composición, texturiza tipografías, inserta personajes en escenas nuevas, convierte formas planas en marcos ornamentales, aplica restyling radical y h">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/toXUubDOqVY/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-toXUubDOqVY.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Midjourney V8: 7 trucos del modo Edición para convertir bocetos en ilustraciones, texturizar texto y más</h1>
+        <div class="metadata">
+          <span>Por <strong>Woollyfern</strong></span>
+          <time datetime='2026-11-22T17:05:39.990271-05:00'>2026-11-22</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/toXUubDOqVY" title="Midjourney V8: 7 trucos del modo Edición para convertir bocetos en ilustraciones, texturizar texto y más" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=toXUubDOqVY" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El modo Edición de Midjourney V8 deja de ser un simple retocador para convertirse en un estudio de transformación visual: acepta bocetos como guía de composición, texturiza tipografías, inserta personajes en escenas nuevas, convierte formas planas en marcos ornamentales, aplica restyling radical y hasta rescata imágenes de 100x75 píxeles hasta 2K. La clave no está en un botón mágico, sino en combinar instrucciones textuales precisas, referencias de estilo (sref) e iteración constante. Estos son los siete flujos de trabajo, con prompts y advertencias, que separan un resultado amateur de una ilustración profesional.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Woollyfern</strong>: <a href="https://www.youtube.com/watch?v=toXUubDOqVY" target="_blank" rel="noopener">7 Ways to Use Midjourney&#x27;s EDIT Mode | Sketch to Image, Texturize, Restyle &amp; More | V8 Tips</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El cambio de paradigma: editar es dirigir, no solo retocar</h3>
+<p>Midjourney V8 ha transformado su editor de imágenes en un verdadero motor de edición generativa. Ya no se trata de aplicar filtros o retexturizar una zona, sino de <strong>dirigir una nueva generación condicionada por una o varias imágenes de referencia</strong>. El flujo es engañosamente simple: se activa el modo Edición, se adjunta la imagen en el cuadro <em>Attach to Prompt</em> y se escribe una instrucción textual. Pero el diablo está en los detalles: la especificidad del lenguaje, la elección de referencias de estilo (<em>sref</em>) y la disposición a iterar marcan la diferencia entre un resultado genérico y una pieza publicable.</p>
+<p>El autor del tutorial, Woollyfern, insiste en que el modo Edición no es una varita mágica: es un colaborador que interpreta lo que le das. Por eso, cada uno de los siete usos que propone parte de una imagen de entrada clara y de un prompt que describe no solo el objeto o la acción, sino también la composición, el entorno y el estilo deseado. La iteración es el pegamento de todo el proceso: rara vez el primer resultado es el definitivo, y ajustar palabras o añadir una referencia suele desbloquear mejoras sustanciales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del garabato a la ilustración: el boceto como guía de composición</h3>
+<p>El primer truco consiste en usar un boceto rápido —incluso de figuras de palitos— como referencia de composición. Midjourney interpreta la disposición espacial y los elementos principales, y luego añade detalle y estilo. En el ejemplo del video, un dibujo esquemático de un caballero frente a un dragón se convirtió en una ilustración de fantasía tipo cuento infantil. El prompt debe ser explícito: describir la posición de los personajes, los elementos del entorno y el estilo visual, por ejemplo <em>«colorful storybook fantasy illustration»</em>.</p>
+<p>Un detalle crucial es el uso del lenguaje de negación dentro del prompt de edición: frases como <em>«no dots in the background»</em> funcionan mejor que el parámetro <code>--no</code> en este contexto. Además, añadir un código <em>sref</em> (referencia de estilo) enriquece la paleta de colores, el nivel de detalle y la cohesión de la ilustración. El boceto no necesita ser bonito; necesita ser legible en términos de composición.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Texturizar texto: cuando la tipografía se vuelve materia</h3>
+<p>El segundo uso convierte letras planas en superficies táctiles. Para lograrlo, hay que describir con precisión las texturas deseadas —por ejemplo, <em>«frayed canvas, knotty wood, bark, tiny ferns»</em>— y también el fondo, ya que de lo contrario Midjourney puede dejarlo blanco. Si se dispone de una imagen de textura, se adjunta y se indica explícitamente qué hacer con cada imagen: cuál es la base y cuál la textura.</p>
+<p>Este flujo es especialmente útil para titulares de carteles, portadas de discos o packaging. La clave está en la redundancia descriptiva: no basta con decir «madera»; conviene especificar el tipo de veta, la rugosidad y la iluminación. El resultado es una tipografía que parece esculpida o fotografiada, no un simple relleno de patrón.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Insertar personajes en escenas nuevas sin perder su identidad</h3>
+<p>El tercer truco aborda uno de los mayores retos de la generación de imágenes: mantener la coherencia de un personaje. Se adjunta la imagen del personaje y se especifica la vista deseada (<em>«full body view», «side view»</em>) y los detalles importantes, como <em>«cloak with gold clasp»</em>, para que Midjourney no los omita. Usar el mismo <em>sref</em> en distintas imágenes ayuda a conservar un estilo consistente.</p>
+<p>El tutorial lleva esto al límite al colocar a dos personajes —Ted y Frank— en una misma escena. La instrucción debe ser directa: indicar quién está en cada imagen adjunta, ya sea con <em>«image 1»</em>, <em>«image 2»</em> o con sus nombres. La claridad evita que el modelo mezcle atributos. El resultado no es una copia exacta, sino una reinterpretación que mantiene los rasgos esenciales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Marcos decorativos y restyling: de la forma plana al estilo radical</h3>
+<p>El cuarto uso convierte una forma sólida dibujada en un fondo blanco —por ejemplo, en Canva— en un marco ornamental. Basta con pedir a Midjourney que la transforme en el material deseado: <em>«twisting vines»</em> o <em>«smooth colorful beach stones»</em>. La simplicidad del método es engañosa: funciona porque la forma define la silueta y el prompt define la materia.</p>
+<p>El quinto truco es el restyling. Para cambios simples, como pasar todos los rojos a azules, una instrucción directa es suficiente. Para transformaciones mayores —por ejemplo, convertir una ilustración en plastilina (<em>claymation</em>)— se necesita una referencia de estilo específica y una descripción redundante del estilo: <em>«black and white marker line drawing with thick bold marker lines»</em>. El autor logró una mejora notable, aunque admitió que los ojos aún requerían ajustes. La lección: cuanto más radical es el cambio, más anclas visuales y textuales hay que proporcionar.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">De textura a objeto y el rescate de imágenes de baja resolución</h3>
+<p>El sexto uso convierte una textura en un objeto tridimensional. Con un prompt simple como <em>«create a coffee mug from this material»</em> se obtiene una taza; el mismo enfoque funciona para un jarrón, una silla o unas botas. Sin embargo, hay que vigilar la escala: si los elementos de la textura son grandes en la imagen de entrada, serán grandes en el resultado. Para elementos más pequeños, conviene usar una textura más alejada o una versión tileada.</p>
+<p>El séptimo truco es la mejora de calidad. Una imagen de tan solo 100x75 píxeles se puede restaurar con el prompt <em>«improve the image quality»</em> ejecutado en modo HD, que permite alcanzar hasta 2K de resolución. El mismo flujo sirve para restaurar fotos antiguas: basta con indicar qué defectos corregir —arañazos, manchas descoloridas, esquinas dañadas—. Es, en la práctica, un servicio de restauración express que en manos expertas puede devolver nitidez a recuerdos casi perdidos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La trastienda: prompts, precios y la importancia de iterar</h3>
+<p>A lo largo del tutorial, Woollyfern comparte 17 consejos y prompts detallados. Entre ellos, la importancia de describir explícitamente el fondo al texturizar, la conveniencia de adjuntar imágenes de referencia y la necesidad de ser redundante en las descripciones de estilo. También menciona que el modo Edición de V8 es una evolución del antiguo editor de retexturización, con resultados notablemente mejores.</p>
+<p>En el plano económico, el autor menciona su página de Patreon, cuyo costo describe como «el precio de un buen sándwich», y que da acceso a guías mensuales de prompts, videos exclusivos y recursos de Midjourney. No se detallan los planes oficiales de Midjourney en el video, pero se sobreentiende que el modo HD y las funciones de edición están disponibles en la suscripción estándar. La conclusión práctica es que dominar estos siete flujos requiere tiempo de experimentación, pero el retorno en calidad y versatilidad es inmediato.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para negar elementos en modo Edición, usa lenguaje natural dentro del prompt («no dots in the background») en lugar del parámetro --no.</li>
+<li>Al texturizar texto, describe siempre el fondo; de lo contrario, Midjourney puede dejarlo blanco.</li>
+<li>La escala de la textura se hereda: si los elementos son grandes en la imagen de entrada, serán grandes en el objeto resultante.</li>
+<li>Para mejorar una imagen de baja resolución, usa el prompt «improve the image quality» en modo HD para alcanzar hasta 2K.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.midjourney.com" target="_blank" rel="noopener"><strong>Midjourney</strong></a> — Plataforma de generación de imágenes por IA; versión V8 con modo Edición para transformaciones avanzadas.</li>
+<li><a href="https://www.canva.com" target="_blank" rel="noopener"><strong>Canva</strong></a> — Herramienta de diseño gráfico usada para crear formas simples que luego se convierten en elementos decorativos con Midjourney.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-toXUubDOqVY.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

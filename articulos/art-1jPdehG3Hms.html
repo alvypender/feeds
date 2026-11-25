@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude resuelve en solitario un cálculo de agujeros negros que la física llevaba 23 años sin cerrar — Frame &amp; Prompt</title>
+  <meta name="description" content="Un sistema multiagente basado en Claude ha completado el cálculo de 14 diagramas de Feynman de tres bucles que los físicos no lograban combinar desde 2002, obteniendo un parámetro B negativo (B = -0,00148·λ²). El resultado confirma que la gravedad de Einstein y la mecánica cuántica coinciden: al sup">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude resuelve en solitario un cálculo de agujeros negros que la física llevaba 23 años sin cerrar">
+  <meta property="og:description" content="Un sistema multiagente basado en Claude ha completado el cálculo de 14 diagramas de Feynman de tres bucles que los físicos no lograban combinar desde 2002, obteniendo un parámetro B negativo (B = -0,00148·λ²). El resultado confirma que la gravedad de Einstein y la mecánica cuántica coinciden: al sup">
+  <meta property="og:image" content="https://i.ytimg.com/vi/1jPdehG3Hms/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-1jPdehG3Hms.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude resuelve en solitario un cálculo de agujeros negros que la física llevaba 23 años sin cerrar">
+  <meta name="twitter:description" content="Un sistema multiagente basado en Claude ha completado el cálculo de 14 diagramas de Feynman de tres bucles que los físicos no lograban combinar desde 2002, obteniendo un parámetro B negativo (B = -0,00148·λ²). El resultado confirma que la gravedad de Einstein y la mecánica cuántica coinciden: al sup">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/1jPdehG3Hms/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-1jPdehG3Hms.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude resuelve en solitario un cálculo de agujeros negros que la física llevaba 23 años sin cerrar</h1>
+        <div class="metadata">
+          <span>Por <strong>Two Minute Papers</strong></span>
+          <time datetime='2026-11-23T17:05:01.992587-05:00'>2026-11-23</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/1jPdehG3Hms" title="Claude resuelve en solitario un cálculo de agujeros negros que la física llevaba 23 años sin cerrar" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=1jPdehG3Hms" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Un sistema multiagente basado en Claude ha completado el cálculo de 14 diagramas de Feynman de tres bucles que los físicos no lograban combinar desde 2002, obteniendo un parámetro B negativo (B = -0,00148·λ²). El resultado confirma que la gravedad de Einstein y la mecánica cuántica coinciden: al superar cierta temperatura, el universo colapsa en agujero negro de forma casi instantánea. La clave no fue una idea nueva, sino descomponer el problema, programar cada pieza y verificar los resultados entre agentes.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Two Minute Papers</strong>: <a href="https://www.youtube.com/watch?v=1jPdehG3Hms" target="_blank" rel="noopener">Claude AI Solved The Secret Of Black Holes</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema de Hawking y Page que se resistió dos décadas</h3>
+<p>En 1983, Stephen Hawking y Don Page plantearon una pregunta aparentemente sencilla: ¿cómo cambia un universo esférico cuando se le sube la temperatura? La respuesta depende de un único parámetro, <strong>B</strong>, que aparece en el análisis de Landau de la transición. Si B es positivo, el sistema pasa de forma gradual a un estado de agujero negro; si es negativo, se abre un segundo valle en el potencial y el universo salta de golpe al agujero negro. Determinar el signo de B exigía calcular correcciones cuánticas a la gravedad, y ahí se atascó la comunidad durante <strong>23 años</strong>.</p>
+<p>La versión simplificada del cálculo requiere evaluar <strong>14 diagramas de Feynman de tres bucles</strong>. El detalle que lo convierte en una pesadilla es que <strong>13 de esos 14 diagramas dan infinito</strong> por separado; solo combinándolos con las correcciones adecuadas se cancelan las divergencias y emerge un número finito. La versión completa del problema necesita <em>diez veces más diagramas</em>, lo que multiplica el esfuerzo computacional y la probabilidad de error humano en cada paso algebraico.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Cómo un enjambre de agentes Claude atacó el cálculo</h3>
+<p>La estrategia no consistió en pedirle a Claude una fórmula mágica, sino en aplicar ingeniería de descomposición. El sistema dividió el problema en subproblemas cada vez más pequeños, y para cada uno <strong>escribió programas</strong> que resolvían la integral o la manipulación simbólica correspondiente. Después, <strong>varios agentes comprobaron mutuamente los resultados</strong>: un agente calculaba, otro verificaba, y las discrepancias obligaban a revisar el paso. Este esquema de verificación cruzada es lo que aporta fiabilidad a un cálculo donde un signo mal puesto arruina meses de trabajo.</p>
+<p>El resultado final fue <strong>B = -0,00148·λ²</strong>, un valor negativo. El signo es la conclusión física: el universo no se convierte en agujero negro de forma paulatina, sino mediante una transición abrupta en cuanto se cruza la temperatura crítica. Einstein y la mecánica cuántica, que tantas veces parecen incompatibles, coinciden aquí en la predicción. El hallazgo se publicó en <em>Hexagon Math</em> (arXiv 2611.00175v1) y Anthropic lo documentó en su propio informe de investigación.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Qué significa realmente que una IA haga física teórica</h3>
+<p>El episodio no demuestra que Claude «entienda» la gravedad cuántica, sino que los modelos de lenguaje pueden actuar como <strong>orquestadores de cálculo simbólico</strong> cuando se les impone una disciplina: dividir, programar, verificar. La parte valiosa es el bucle de comprobación entre agentes, que reduce los errores típicos de una sola pasada. Para un físico, la IA se convierte en un colaborador incansable que explora ramas algebraicas mientras el humano define el problema y valida la interpretación.</p>
+<p>También marca un límite: el problema estaba bien planteado desde 1983 y la maquinaria matemática existía; lo que faltaba era potencia de cálculo organizada. Eso sugiere que los próximos avances de este tipo vendrán de problemas <em>ya formalizados</em> pero demasiado tediosos para un equipo humano, no de preguntas abiertas sin marco teórico. La infraestructura de GPU en la nube, como la que ofrece Lambda, fue el sustrato práctico para ejecutar los programas de los agentes a escala.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Regla del signo: B &gt; 0 → transición gradual al agujero negro; B &lt; 0 → salto abrupto con segundo valle en el potencial.</li>
+<li>Resultado numérico: B = -0,00148·λ² (negativo, por tanto transición abrupta).</li>
+<li>Carga del cálculo: 14 diagramas de tres bucles en la versión simplificada; 13 divergen por separado y solo se cancelan al combinarse.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.anthropic.com/research/claude-black-hole-physics" target="_blank" rel="noopener"><strong>Claude (Anthropic)</strong></a> — Modelo de lenguaje usado como orquestador multiagente para descomponer, programar y verificar el cálculo.</li>
+<li><a href="https://lambda.com/papers" target="_blank" rel="noopener"><strong>Lambda GPU Cloud</strong></a> — Infraestructura de GPUs en la nube para ejecutar los programas de los agentes.</li>
+<li><a href="https://hexagonmath.org/2611.00175v1" target="_blank" rel="noopener"><strong>Artículo en Hexagon Math (arXiv 2611.00175v1)</strong></a> — Publicación con el cálculo completo de los diagramas de Feynman y el valor de B.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-1jPdehG3Hms.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

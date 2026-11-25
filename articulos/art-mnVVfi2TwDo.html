@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo producir una temporada completa de microdramas con IA desde un solo guion usando Higgsfield MCP dentro de Claude — Frame &amp; Prompt</title>
+  <meta name="description" content="El creador CyberJungle demuestra que una serie de microdramas puede producirse de principio a fin dentro de Claude: con la skill ShortDramaSkill escribe un guion de cuatro episodios, genera personajes consistentes con Higgsfield y Seedance 2.5, y automatiza episodios paralelos mediante proyectos y a">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo producir una temporada completa de microdramas con IA desde un solo guion usando Higgsfield MCP dentro de Claude">
+  <meta property="og:description" content="El creador CyberJungle demuestra que una serie de microdramas puede producirse de principio a fin dentro de Claude: con la skill ShortDramaSkill escribe un guion de cuatro episodios, genera personajes consistentes con Higgsfield y Seedance 2.5, y automatiza episodios paralelos mediante proyectos y a">
+  <meta property="og:image" content="https://i.ytimg.com/vi/mnVVfi2TwDo/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-mnVVfi2TwDo.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo producir una temporada completa de microdramas con IA desde un solo guion usando Higgsfield MCP dentro de Claude">
+  <meta name="twitter:description" content="El creador CyberJungle demuestra que una serie de microdramas puede producirse de principio a fin dentro de Claude: con la skill ShortDramaSkill escribe un guion de cuatro episodios, genera personajes consistentes con Higgsfield y Seedance 2.5, y automatiza episodios paralelos mediante proyectos y a">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/mnVVfi2TwDo/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-mnVVfi2TwDo.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo producir una temporada completa de microdramas con IA desde un solo guion usando Higgsfield MCP dentro de Claude</h1>
+        <div class="metadata">
+          <span>Por <strong>CyberJungle</strong></span>
+          <time datetime='2026-11-23T17:05:31.992587-05:00'>2026-11-23</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/mnVVfi2TwDo" title="Cómo producir una temporada completa de microdramas con IA desde un solo guion usando Higgsfield MCP dentro de Claude" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=mnVVfi2TwDo" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El creador CyberJungle demuestra que una serie de microdramas puede producirse de principio a fin dentro de Claude: con la skill ShortDramaSkill escribe un guion de cuatro episodios, genera personajes consistentes con Higgsfield y Seedance 2.5, y automatiza episodios paralelos mediante proyectos y agentes. El episodio piloto costó 1118 créditos y tomó 30 minutos; el resto se produjo en simultáneo mientras un agente investigaba tramas exitosas. El veredicto es claro: el flujo funciona, escala y mantiene coherencia visual y narrativa.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>CyberJungle</strong>: <a href="https://www.youtube.com/watch?v=mnVVfi2TwDo" target="_blank" rel="noopener">How I Automated AI Short Drama Production With Claude (Full Workflow)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un estudio de microdramas dentro de una ventana de chat</h3>
+<p>La industria de los microdramas con IA se proyecta hacia los <strong>14.000 millones de dólares en ingresos para 2026</strong>, y las herramientas para producirlos ya no exigen un equipo de filmación. Higgsfield Short Drama Studio concentra la creación de personajes, locaciones y clips en un mismo entorno, y su integración mediante <strong>MCP (Model Context Protocol)</strong> permite controlarlo directamente desde Claude sin cambiar de aplicación. El flujo que muestra CyberJungle parte de una idea simple y termina con una temporada de cuatro episodios de entre 30 segundos y 3 minutos cada uno, listos para publicar en formato vertical u horizontal.</p>
+<p>La pieza que hace posible la automatización es la <strong>skill ShortDramaSkill</strong>, un archivo Markdown que se adjunta a Claude y actúa como guía paso a paso. Al invocarla con el prompt <em>«Use the ShortDramaSkill. I want to make a short drama»</em>, el modelo deja de improvisar y sigue una estructura probada: define premisa, personajes, locaciones y arcos antes de generar una sola imagen. El autor opta por el <strong>modo paso a paso</strong> en lugar del automático para conservar el control creativo en cada decisión, desde el tono hasta el vestuario.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La fórmula narrativa: cuatro beats y tropos que ya funcionan</h3>
+<p>Cada episodio se construye sobre cuatro beats: <strong>hook, contexto, reversión y cliffhanger</strong>. El hook captura en los primeros segundos, el contexto sitúa la relación entre personajes, la reversión introduce el giro y el cliffhanger obliga a ver el siguiente capítulo. Sobre esa estructura, la skill sugiere apoyarse en tropos validados por TikTok y ReelShort: traición, riqueza oculta, división de clases, bondad recompensada, atracción prohibida y triángulos amorosos. No se trata de copiar, sino de aplicar patrones que el público ya reconoce y consume.</p>
+<p>En la demostración, el autor construye la historia de <strong>Claire y Hugo</strong> y ajusta el guion para reservar la revelación sobre la madre hasta el final de la temporada. Esa decisión ilustra una ventaja del flujo: el guion se edita en lenguaje natural antes de gastar créditos en video. La skill también obliga a definir con precisión personajes, locaciones y props, porque de esa definición depende la consistencia visual de todos los episodios. Si el guion no especifica la edad de un personaje, conviene indicarla explícitamente para que la generación no improvise rasgos que luego cambien entre clips.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Hojas de personaje y el arte de la consistencia visual</h3>
+<p>Antes de generar cualquier clip, el flujo exige crear las <strong>hojas de personaje (character sheets)</strong>. La generación de estas hojas tomó aproximadamente <strong>10 minutos</strong> y el autor quedó satisfecho con la consistencia lograda. La clave está en revisar que cada hoja siga una estructura de tres paneles, lo que facilita que el modelo mantenga rasgos faciales, vestuario y proporciones en las distintas escenas. Si esa base falla, ningún ajuste posterior salvará la coherencia de la serie.</p>
+<p>El feedback específico es parte del método. Tras revisar las primeras imágenes, el autor pidió que la calle se viera más invernal y añadiera nieve ligera; el resultado mejoró de inmediato. Ese tipo de instrucción concreta —<em>«la calle debe verse más invernal, añade nieve ligera»</em>— es más efectivo que corregir después de generar el video. También conviene elegir el estilo visual entre las opciones disponibles (live action de los 90, K-drama, anime, noir) según el tono del drama, porque ese estilo se propaga a todas las generaciones siguientes.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del borrador 4K al máster 1080p: costos y tiempos reales</h3>
+<p>La generación de los clips del Episodio 1 tomó otros <strong>10 minutos</strong> y produjo un video de <strong>58 segundos</strong> en modo borrador 4K. Ese borrador consumió <strong>174 créditos</strong>, mientras que el episodio completo —incluyendo la preparación de assets y el video— costó <strong>1118 créditos</strong>. El upscale final a 1080p se cobra aparte y no se especifica su costo exacto, pero la lógica es clara: conviene iterar en borrador 4K y reservar el upscale para la versión que se publicará. El proceso completo del Episodio 1 tomó unos <strong>30 minutos</strong>.</p>
+<p>Higgsfield ofrece un descuento de Black Friday del <strong>70%</strong> en sus planes (hasta 65% según el video), lo que reduce de forma significativa el costo por episodio. Para quien produzca una temporada completa, la recomendación es presupuestar primero los borradores y luego los upscales, porque el gasto se concentra en la versión final. El prompt para generar un episodio es directo: <em>«Use Higgsfield to run Short Drama Skill Generate a Short Drama Based on the Final Script Episode 1»</em>. Esa simplicidad es precisamente lo que permite escalar la producción sin un equipo técnico.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Proyectos y agentes paralelos: la temporada se produce en simultáneo</h3>
+<p>Para los episodios 2 y 3, el autor deja de trabajar en un chat suelto y crea un <strong>proyecto en Claude</strong>, moviendo allí la conversación inicial para conservar todo el contexto de la historia. Dentro del proyecto usa <strong>hilos (threads) y agentes paralelos</strong>: un agente investiga las tramas de microdramas con mejor rendimiento mientras otros generan episodios simultáneamente. El prompt de investigación es <em>«Research best performing short drama storylines and come up with ideas which can be applied to my core story»</em>, y el de aplicación es <em>«Based on your research, apply best performing patterns to my story and generate episode 2»</em>.</p>
+<p>El resultado es una temporada que avanza en varias pistas a la vez sin perder coherencia con el guion original. Mientras un agente produce el Episodio 2, otro puede estar generando el 3 y un tercero investigando giros para el 4. Esa arquitectura convierte a Claude en una suerte de productor ejecutivo que coordina tareas especializadas. La conclusión del experimento es que el flujo con MCP y proyectos permite <strong>escalar la producción de microdramas de forma automatizada y consistente</strong>, algo impensable con herramientas que obligan a generar clip por clip de forma manual.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Lo que este flujo cambia para creadores y pequeños estudios</h3>
+<p>La combinación de Higgsfield MCP, la skill ShortDramaSkill y los proyectos de Claude reduce la producción de una serie a una conversación estructurada. El creador aporta la premisa y el criterio editorial; el sistema se encarga de la escritura, la planificación, la generación visual y la coordinación de episodios. Para un pequeño estudio o un creador individual, eso significa competir en volumen y velocidad con equipos que antes requerían presupuesto de filmación. La advertencia es igual de clara: la consistencia depende de invertir tiempo en las hojas de personaje y en el guion antes de gastar créditos en video.</p>
+<p>El flujo también deja margen para la iteración creativa. El autor revisó el Episodio 1, decidió hacer upscale a 1080p y ajustó detalles antes de continuar. Esa revisión humana sigue siendo necesaria: la IA acelera la ejecución, pero las decisiones narrativas —qué revelar y cuándo, qué tropo subvertir, cómo cerrar un cliffhanger— siguen siendo del creador. Con un costo de 1118 créditos y 30 minutos por episodio piloto, la barrera de entrada se ha desplomado, y la ventaja competitiva se traslada de la capacidad técnica a la calidad de la historia.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Estructura de cada episodio: hook, contexto, reversión y cliffhanger.</li>
+<li>Prompt de inicio: «Use the ShortDramaSkill. I want to make a short drama».</li>
+<li>Prompt de generación: «Use Higgsfield to run Short Drama Skill Generate a Short Drama Based on the Final Script Episode 1».</li>
+<li>Costo de referencia: 1118 créditos por episodio completo; 174 créditos por clips en borrador 4K.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://higgsfield.ai/s/jHLTyS" target="_blank" rel="noopener"><strong>Higgsfield Short Drama Studio</strong></a> — Plataforma para crear microdramas con IA a partir de un guion, con personajes, locaciones y episodios completos.</li>
+<li><strong>Higgsfield MCP</strong> — Protocolo que permite controlar Higgsfield desde Claude sin salir del chat.</li>
+<li><strong>Claude Fable 5.2</strong> — Modelo de lenguaje usado para guiones, planificación y coordinación de agentes en proyectos.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video de Higgsfield para clips en borrador 4K y upscale a 1080p.</li>
+<li><a href="https://docs.google.com/document/d/1L6UD6bJK-VTcMxATOSoi6300Axf6zvMt/edit?usp=share_link&amp;ouid=108183233448734466380&amp;rtpof=true&amp;sd=true" target="_blank" rel="noopener"><strong>ShortDramaSkill (Markdown)</strong></a> — Archivo de habilidad que se adjunta a Claude para guiar la creación de microdramas paso a paso.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-mnVVfi2TwDo.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -3,7 +3,156 @@
 <title>Dribbble Stories – Diseño y Curaduría</title>
 <link href="https://dribbble.com/stories"/>
 <id>https://dribbble.com/stories</id>
-<updated>2026-11-18T13:21:05+00:00</updated>
+<updated>2026-11-21T03:31:03+00:00</updated>
+<entry>
+  <title>Brand Architecture: What Should Your Brands Share—and What Should Stay Different?</title>
+  <link href="https://dribbble.com/stories/2026/11/20/brand-architecture-what-should-your-brands-shareand-what-should-stay-different"/>
+  <id>https://dribbble.com/stories/2026/11/20/brand-architecture-what-should-your-brands-shareand-what-should-stay-different</id>
+  <published>2026-11-21T03:31:03+00:00</published>
+  <updated>2026-11-21T03:31:03+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://cdn.dribbble.com/uploads/73537/original/7e568c91a6516fc44023faf33b8cd030.png?1795231033"/>
+  <media:content url="https://cdn.dribbble.com/uploads/73537/original/7e568c91a6516fc44023faf33b8cd030.png?1795231033" medium="image" type="image/png"/>
+  <media:thumbnail url="https://cdn.dribbble.com/uploads/73537/original/7e568c91a6516fc44023faf33b8cd030.png?1795231033"/>
+  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/73537/original/7e568c91a6516fc44023faf33b8cd030.png?1795231033</webfeeds:featuredImage>
+  <summary>&lt;%= render_word_press_markup(WordPressArticle.find_by_id!(3569).content) %&gt; ⁠</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/73537/original/7e568c91a6516fc44023faf33b8cd030.png?1795231033" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;&amp;lt;%= render_word_press_markup(WordPressArticle.find_by_id!(3569).content) %&amp;gt; ⁠&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
+&lt;p class="wp-block-paragraph"&gt;By Quincy Samycia&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Imagine a company with five specialist businesses. Each has its own name, website and presentation. Some acknowledge the parent company. Others barely mention it. A customer moves between two of them and cannot tell whether they have discovered a related service or an entirely different organization.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Shared ownership alone is a weak reason to make every brand look alike. The relationship between brands should help customers understand the offer. A tidy family of logos cannot do that work on its own.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This is where &lt;a href="https://www.brandedagency.com/blog/brand-architecture-models-executive-guide" rel="nofollow noopener" target="_blank"&gt;brand architecture becomes a design problem&lt;/a&gt;. Brand architecture defines the relationships between a company, its brands and its offers. Those relationships become visible through names, identity systems, language, navigation and everyday interactions.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;My test is practical: can someone understand how these businesses belong together, and does that understanding help them make a decision? If the connection adds no useful meaning, making it more prominent may simply add noise.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Start with the relationship the customer needs&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73538/original/c4977d32bdd56be13815064600fb13fd.png?1795231254" alt="" loading="lazy" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;An organizational chart explains ownership and reporting. It does not necessarily explain how a customer should encounter the business.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Two services may share a finance department while serving unrelated audiences. Two separately managed businesses may solve consecutive parts of the same customer problem. Design has to account for the relationship that matters outside the company.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before deciding how closely the identities should resemble each other, ask what the connection contributes. Does the parent name provide useful credibility? Would customers benefit from discovering the other services? Does one specialist brand carry recognition that a new group identity should preserve?&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The answers establish the job of the architecture. A shared identity needs a customer-facing purpose. Separate teams still need to explain their connection when their services form part of the same journey.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Give the parent brand a clear role&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73539/original/918ec63eb34f65d2fb030be1a811868a.png?1795231358" alt="" loading="lazy" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;There are several ways to make the relationship visible. The parent brand can lead, with individual services described beneath it. A specialist brand can lead, supported by a parent endorsement. Or the businesses can present themselves independently, with the ownership relationship carrying little weight in the customer experience.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Consider a hypothetical group offering workplace training, recruitment and executive coaching. Its leadership wants one name across the portfolio, but the coaching business has an established reputation with senior executives. Replacing that name would make the presentation tidier while asking an existing audience to learn a new identity.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A possible answer is to retain the coaching name and add a clear parent endorsement. Training and recruitment could use the parent name with service descriptors. The trade-off is deliberate: accept some visual variation to preserve recognition, while making the group relationship understandable.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These choices establish different expectations. A prominent parent name suggests something meaningful is shared. The business needs to decide what that is: expertise, standards, access, service or another credible connection.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A parent endorsement should represent something the business can explain and deliver. A customer should not have to discover that the apparent continuity ends immediately after the enquiry.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Decide what is shared, variable and distinct&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73540/original/ccae4fdae2f6825142ab09631ec96b7a.png?1795231404" alt="" loading="lazy" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Once the relationship is agreed, the identity needs to express it consistently.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That requires more than placing several logos on the same slide. Decide which name leads, how an endorsement appears, what typography is shared, where colour distinguishes an offer, and how imagery reflects each audience.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;I find it useful to separate the decisions into three groups: what is shared, what can vary, and what must remain distinct. Applied to the hypothetical group, that framework produces specific design choices.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Shared:&lt;/strong&gt; Use a consistent parent endorsement, typographic hierarchy and familiar navigation patterns. These elements explain the relationship and make related websites easier to move between.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Variable:&lt;/strong&gt; Allow photography, accent colours and audience-specific language to change. Recruitment may need to speak to candidates and employers; executive coaching needs to address a different conversation. Variation should reflect those needs.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Distinct:&lt;/strong&gt; Preserve the coaching brand’s name and specialist positioning. Keep service promises, credentials and the identity of the business receiving an enquiry explicit. The group connection should not imply that every service has the same expertise.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These are choices for this example, not universal rules. Another portfolio may need much greater independence. The framework gives the team a way to explain where consistency helps and where it would conceal a meaningful difference.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The rules should explain the reason for each choice. If a specialist colour helps people identify a service, say so. If an endorsement establishes the group relationship, define where it needs to appear and remain legible.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A guideline becomes more useful when the next designer can understand the decision well enough to apply it in a situation the original team never illustrated.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Make the website explain the connection&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73541/original/09f0610cb6c953e4e29f016591be4e61.png?1795231460" alt="" loading="lazy" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The website is where an apparently coherent brand family can become confusing.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A visitor selects a service and arrives on another domain. The logo changes, the language shifts, and the form asks them to introduce themselves again. Perhaps that separation is appropriate. But the transition needs to make sense.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Map those transitions before deciding how many websites the business needs. What should the visitor understand before leaving one site? Which context needs to be explained on arrival? Who will respond to the enquiry? Can someone return to the broader offer without starting over?&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A single website can support distinct service journeys. Separate websites can still explain their relationship clearly. Domain structure should follow the audience and operating requirements rather than become a substitute for deciding the architecture.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;a href="https://www.nngroup.com/articles/consistency-and-standards/" rel="nofollow noopener" target="_blank"&gt;Nielsen Norman Group’s guidance on consistency and standards&lt;/a&gt; explains how familiar patterns help users understand interfaces, including across a family of products. Applied here, the lesson is to keep recurring actions understandable even when related brands have distinct identities.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;That clarity belongs in the small details. Form labels, confirmation messages and contact information should identify the business the person is engaging with. A shared visual system should never obscure that distinction.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Protect recognition during the transition&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73542/original/a2ea5ca0682f4c84fa79b8432adaa2af.png?1795231506" alt="" loading="lazy" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Architecture projects often involve brands that already have customers, employees and a history. Their existing names may still be doing useful work.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A presentation of the future system can make immediate uniformity look attractive. The customer may encounter the change through an old bookmark, a familiar sign, a referral or an email from someone they already know.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Include those encounters in the design brief. Explain a changed name where people will look for the old one. Make the relationship between old and new materials understandable. Give staff language they can use to describe the change.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;This is also a question of sequence. The company may need to introduce the relationship before asking customers to recognize an entirely new identity.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A transition is part of the design assignment. It deserves more thought than a launch announcement followed by the assumption that everyone has caught up.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Test the family beyond the presentation&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73543/original/b83123d03ce4c6a31985b162ac595d87.png?1795231561" alt="" loading="lazy" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;A row of logos can demonstrate visual harmony while leaving the experience unresolved.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Review the architecture through specific tasks. Ask someone to identify the right service, explain the relationship between two brands, and find out who will handle an enquiry. Show them an individual page or document without first explaining the full portfolio.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Then introduce something the system was not built around: a longer name, a new audience, an acquired business with a familiar identity, or a service that spans two specialties.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;These exercises expose different weaknesses. Customer tasks reveal whether the relationships are understandable. New additions reveal whether the rules can accommodate growth without becoming meaningless.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The team also needs to know who owns those rules. Who approves a new name? Who decides when an endorsement is necessary? What justifies an exception? Without clear responsibility, each new project can quietly create a different architecture.&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;Design the relationship people will actually experience&lt;/h2&gt;
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/73544/original/109f08b7f308ec7349c5f2b248523e56.png?1795231627" alt="" loading="lazy" /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p class="wp-block-paragraph"&gt;The strongest outcome is a brand family whose structure helps people understand the offer. Sometimes that means putting the parent company forward. Sometimes it means allowing an established specialist to remain prominent.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;For designers, the opportunity is to make those choices tangible: in the first name someone reads, the service they select, the website transition they follow and the message they receive afterward.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Before approving a family of brands, take away the presentation that explains it. Show someone a service page, an enquiry form and a confirmation email. If the relationship is only clear when the designer is in the room, the architecture still has work to do.&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;Quincy Samycia is co-founder and Head of Brand &amp;amp; Growth at &lt;a href="https://www.brandedagency.com/" rel="nofollow noopener" target="_blank"&gt;The Branded Agency&lt;/a&gt;, where he works with teams on brand strategy, identity systems, and website experiences.&lt;/p&gt;
+&lt;p&gt; ⁠&lt;/p&gt;
+
+
+
+                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
+                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
+                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
+                &lt;/em&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Designing an Ecommerce Store for the Second Purchase</title>
   <link href="https://dribbble.com/stories/2026/11/18/designing-an-ecommerce-store-for-the-second-purchase"/>
@@ -2302,89 +2451,6 @@
 &lt;p class="wp-block-paragraph"&gt;When I think about the value of a website, I think about those ordinary working days. The business will change its mind, learn something about its customers and pursue an opportunity nobody anticipated in the original brief. Good creative and technical work should leave it better equipped to do that.&lt;/p&gt;
 
 &lt;p class="wp-block-paragraph"&gt;AI makes me optimistic about how much easier parts of this work can become. It also makes me more demanding about the choices we make with the time we gain. The next hundred changes will give us a much better answer about the quality of a website than launch day ever could.&lt;/p&gt;
-
-
-                &lt;p class="find-more-prompt"&gt;&lt;em&gt;
-                  Find more &lt;a href="/stories/categories/community"&gt;Community&lt;/a&gt; stories on our blog &lt;a href="/stories"&gt;Courtside&lt;/a&gt;.
-                  Have a suggestion? Contact &lt;a href="mailto:stories@dribbble.com"&gt;stories@dribbble.com&lt;/a&gt;.
-                &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Our Winning Strategy for FIFA World Cup 2026 NYNJ Website Design</title>
-  <link href="https://dribbble.com/stories/2026/10/14/cl-ddnyc-anjelika-lours-kour-sports-website-design-fifa-2026"/>
-  <id>https://dribbble.com/stories/2026/10/14/cl-ddnyc-anjelika-lours-kour-sports-website-design-fifa-2026</id>
-  <published>2026-10-14T13:15:25+00:00</published>
-  <updated>2026-10-14T13:15:25+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869"/>
-  <media:content url="https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869"/>
-  <webfeeds:featuredImage>https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869</webfeeds:featuredImage>
-  <summary>Dribbble Community Leader and DD.NYC® Creative Director Anjelika Lours' Kour reveals the collaborative strategy behind the official FIFA World Cup 26 NYNJ website, balancing award-worthy design with utilitarian performance to represent the region on a global stage.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://cdn.dribbble.com/uploads/72580/original/687df400710261fd4c6a74f93ee319af.jpg?1791978869" alt="Portada" style="max-width:100%; height:auto; border-radius:6px;" / class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p style="font-size:1.1em; color:#555; line-height:1.5;"&gt;&lt;strong&gt;Dribbble Community Leader and DD.NYC® Creative Director Anjelika Lours&amp;#x27; Kour reveals the collaborative strategy behind the official FIFA World Cup 26 NYNJ website, balancing award-worthy design with utilitarian performance to represent the region on a global stage.&lt;/strong&gt;&lt;/p&gt;&lt;hr style="border:0; border-top:1px solid #eee; margin:16px 0;" /&gt;
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;About the Author:&lt;/em&gt;&lt;br /&gt;&lt;a href="https://dd.nyc/" rel="nofollow noopener" target="_blank"&gt;DD.NYC®&lt;/a&gt;&lt;em&gt; Creative Director &amp;amp; Managing Partner Anjelika Lours&amp;#8217; Kour specializes in corporate branding, web design, and video storytelling. Beyond working with powerhouse clients, she actively shapes the wider creative industry as a global judge for the International Academy of Digital Arts and Sciences (IADAS) and the Scholastic Art &amp;amp; Writing Awards.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We were tasked to build the &lt;a href="https://nynjfwc26.com/" rel="nofollow noopener" target="_blank"&gt;FIFA World Cup 2026™ NYNJ official website&lt;/a&gt; in time for the world&amp;#8217;s biggest sporting event, back in the US for the first time since ‘94.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;DD.NYC® became the Digital Agency of Record for the Host Committee, which meant the site wasn&amp;#8217;t a marketing add-on. It was the front door where fans, sponsors, media, and partners from every part of the world would go to understand what this region was bringing to the tournament.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/uploads/71659/original/d1de96a6c37c874828ac1bfe5c3a770f.mp4?1788539366"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The brief had a built-in tension we knew we&amp;#8217;d be working against from day one. The site had to feel unmistakably global, because billions of people were going to see it, and unmistakably local, because it represented one specific region and had to earn its place next to every other host city in the world.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;I’ll give you an overview of how our &lt;a href="https://dribbble.com/hire/web-designers" target="_blank" rel="noopener"&gt;web designers&lt;/a&gt; approached the project and what became our winning strategy.&amp;nbsp;&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/uploads/71657/original/8664dbdb2ee7ac4e796f40f434a04fff.mp4?1788539183"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Making a sports website award-worthy and utilitarian&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We needed the site to be two things: award-worthy and utilitarian. But they don&amp;#8217;t always result from the same process.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Award-worthy, because a project this visible was always going to be judged against the best design work in the world, apart from other sports websites.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Utilitarian, because it had to perform. Mobile-first, fast under real traffic, legible across languages and devices, built for an audience that would be arriving from everywhere at once.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/71660/original/f66573a1e8cc6d469ffdd0c8afb24ee7.jpg?1788539434" alt="" /&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Those two goals pull in different directions. Bold, ownable design decisions can slow a site down or complicate a build. A build optimized purely for speed and scale can end up looking generic.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Then there was the scale of who we were working with. FIFA and a Host Committee aren&amp;#8217;t a typical client relationship. There are more stakeholders, approval layers, and a brand system that has to answer to an organization operating at a global level. That kind of structure changes the rhythm of a project before a single pixel gets designed.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;All of that is part of why this became one of the most demanding projects we&amp;#8217;ve taken on as an agency. By the time we wrapped, we&amp;#8217;d put in roughly a multiple of hours we&amp;#8217;d typically spend on a project of this type. It’s a clear marker of how much the scope and complexity grew once we were fully inside it.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/71661/original/8bd23fc6fce7b5395fb1d6ac90fe7529.jpg?1788539524" alt="" /&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Design teams brought together by one goal&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Instead of assigning to a chosen few, we opened it up to our entire design staff. Anyone who wanted to contribute to something this high-profile could put their hand up and get involved, rather than the work being routed to a small, fixed pod the way most projects are staffed.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;For a milestone project landing in our 10th year as an agency, that felt like the right call. This was the kind of work our whole team should get to be part of, not just a handful of people.&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That approach also matched the nature of the brief. A project asking us to represent an entire region, for an audience of billions, benefited from more perspectives in the room. It meant more ideas got tested, more instincts got compared against each other, and the final direction had been stress-tested by a wider group before it ever reached the client.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/uploads/71656/original/af44c54dfac290dd051e880c681747d1.mp4?1788538895"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The other deliberate choice was to let history do some of the design work. Rather than building the visual system from a blank page, the team went back and looked at how past World Cups and host cities had approached their own identity and design language.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;That research became part of the foundation. Something we used to understand what had worked, what had felt dated fast, and where there was room to do something the tournament hadn&amp;#8217;t quite seen from a host city before.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The result merges FIFA&amp;#8217;s global brand language with the identity of the New York/New Jersey region, built mobile-first from the ground up to handle real-world scale.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/47584988/file/f8664b2bdfdf5a108af04abd7f3f1d1c.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;h2 class="wp-block-heading"&gt;Celebrating wins and milestones&lt;/h2&gt;
-
-&lt;p class="wp-block-paragraph"&gt;The site launched as a mobile-first build designed to hold up under serious global traffic, with a design system built to carry FIFA&amp;#8217;s global brand alongside the region&amp;#8217;s own identity across every device and screen size.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Since launch, it&amp;#8217;s been recognized across the digital design community: an Awwwards Honorable Mention, a Special Kudos from CSS Design Awards, and a feature in the One Page Love Inspiration Collection. It also picked up wins in the Q3 2025 Online Design Awards Competition, including a Studio/Agency win in Brand Collateral and a Gold in Website Design.&lt;/p&gt;
-
-&lt;figure class="wp-block-video"&gt;&lt;video controls="" src="https://cdn.dribbble.com/userupload/47584926/file/3d3035039eb95f77c9ac83c08a175b3d.mp4"&gt;&lt;/video&gt;&lt;/figure&gt;
-
-&lt;p class="wp-block-paragraph"&gt;We’re thankful for the recognition but more so on what the project meant to us. It landed in our first decade as an agency, and it&amp;#8217;s the kind of project that tests whether everything you&amp;#8217;ve built actually holds up when the stakes are this visible.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;Opening the work to the whole team, going back into design history instead of skipping it, and being honest with ourselves about how much time a project like this actually takes were the choices that got us there, more than any single design decision on the page.&lt;/p&gt;
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img style="max-width: 100%; height: auto; border-radius: 6px; margin: 12px 0;" decoding="async" src="https://cdn.dribbble.com/uploads/71658/original/b33e5ab38195258aa24b98c7299048d5.jpg?1788539293" alt="" /&gt;&lt;/figure&gt;
 
 
                 &lt;p class="find-more-prompt"&gt;&lt;em&gt;
