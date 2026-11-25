@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Automatiza facturas con IA sin fallos: tutorial de Make y Maia en 5 pasos con reglas de validación y detección de fraudes — Frame &amp; Prompt</title>
+  <meta name="description" content="La IA lee facturas con asombrosa precisión, pero sin reglas fijas da por bueno cualquier documento, incluso los fraudulentos. Xavier Mitjana demuestra en 20 minutos cómo combinar la comprensión de Maia (el asistente de IA de Make) con validaciones deterministas —duplicados, sumas, aprobaciones por i">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Automatiza facturas con IA sin fallos: tutorial de Make y Maia en 5 pasos con reglas de validación y detección de fraudes">
+  <meta property="og:description" content="La IA lee facturas con asombrosa precisión, pero sin reglas fijas da por bueno cualquier documento, incluso los fraudulentos. Xavier Mitjana demuestra en 20 minutos cómo combinar la comprensión de Maia (el asistente de IA de Make) con validaciones deterministas —duplicados, sumas, aprobaciones por i">
+  <meta property="og:image" content="https://i.ytimg.com/vi/XywyUZo1kL4/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-XywyUZo1kL4.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Automatiza facturas con IA sin fallos: tutorial de Make y Maia en 5 pasos con reglas de validación y detección de fraudes">
+  <meta name="twitter:description" content="La IA lee facturas con asombrosa precisión, pero sin reglas fijas da por bueno cualquier documento, incluso los fraudulentos. Xavier Mitjana demuestra en 20 minutos cómo combinar la comprensión de Maia (el asistente de IA de Make) con validaciones deterministas —duplicados, sumas, aprobaciones por i">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/XywyUZo1kL4/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-XywyUZo1kL4.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Automatiza facturas con IA sin fallos: tutorial de Make y Maia en 5 pasos con reglas de validación y detección de fraudes</h1>
+        <div class="metadata">
+          <span>Por <strong>Xavier Mitjana</strong></span>
+          <time datetime='2026-11-25T17:03:51.819684-05:00'>2026-11-25</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/XywyUZo1kL4" title="Automatiza facturas con IA sin fallos: tutorial de Make y Maia en 5 pasos con reglas de validación y detección de fraudes" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=XywyUZo1kL4" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La IA lee facturas con asombrosa precisión, pero sin reglas fijas da por bueno cualquier documento, incluso los fraudulentos. Xavier Mitjana demuestra en 20 minutos cómo combinar la comprensión de Maia (el asistente de IA de Make) con validaciones deterministas —duplicados, sumas, aprobaciones por importe y comparación de cuentas bancarias— para construir un flujo trazable que bloquea una factura falsa de más de 17.000 euros. El método se resume en tres preguntas: ¿sé qué va a hacer?, ¿lo hará siempre igual?, ¿podré ver después qué ha hecho?</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Xavier Mitjana</strong>: <a href="https://www.youtube.com/watch?v=XywyUZo1kL4" target="_blank" rel="noopener">Cómo automatizar tareas difíciles con IA en 20 minutos (y que no fallen)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El problema real: la IA comprende, pero no garantiza</h3>
+<p>La promesa de automatizar tareas administrativas con inteligencia artificial choca a menudo con una realidad incómoda: los modelos de lenguaje son excelentes extrayendo datos de un PDF, pero carecen de la rigidez necesaria para validar. En una primera prueba con una factura convencional, el flujo construido con <strong>Make</strong> y su asistente <strong>Maia</strong> lee el documento, extrae los campos y escribe una fila en una hoja de Google Sheets sin intervención humana. El resultado es impecable, incluso con facturas escaneadas y torcidas. Sin embargo, cuando se introducen cuatro facturas problemáticas —una mal sumada, otra repetida, una escaneada y una con la cuenta bancaria cambiada—, el proceso las registra todas sin emitir ninguna alerta. La conclusión es clara: <em>la IA da todo por bueno porque su trabajo es comprender, no auditar</em>.</p>
+<p>De ahí surge el marco conceptual que vertebra todo el tutorial: tres preguntas que cualquier proceso automatizado debe responder antes de ponerse en marcha. <strong>¿Sé qué va a hacer?</strong> implica describir el flujo con precisión, sin jerga, como se lo contarías a alguien que empieza mañana en administración. <strong>¿Lo hará siempre igual?</strong> exige separar las tareas de comprensión (donde la IA aporta valor) de las comprobaciones críticas (donde se necesitan reglas deterministas que den siempre el mismo resultado). <strong>¿Podré ver después qué ha hecho?</strong> obliga a garantizar la trazabilidad: cada paso debe quedar registrado con los datos de entrada y salida para poder auditar el proceso. Con este enfoque, el vídeo construye un escenario completo en cinco pasos que no requiere escribir código y que puede replicarse en otros procesos empresariales.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 1: describir el proceso a Maia sin ambigüedades</h3>
+<p>El punto de partida es la descripción en lenguaje natural. Maia, el asistente de IA integrado en Make, construye el escenario a partir de una explicación detallada. La clave está en <strong>no usar jerga técnica</strong> y en especificar en orden qué documento o dato debe mirarse en cada momento. Por ejemplo: «Cuando llegue un correo con un PDF adjunto, extrae el NIF del proveedor, el número de factura, la base imponible, el IVA, el total y la cuenta bancaria. Luego, comprueba si esa factura ya existe en la hoja de registro; si no existe, añádela». Esta descripción permite a Maia generar los módulos necesarios: un disparador de Gmail, un lector de PDF con IA, una búsqueda en Google Sheets y una operación de escritura.</p>
+<p>El tutorial insiste en que la IA debe reservarse para tareas de <em>comprensión y extracción</em>. Todo lo que implique cálculos, comparaciones exactas o decisiones binarias debe delegarse en módulos deterministas de Make. De este modo, el flujo combina lo mejor de ambos mundos: la flexibilidad de la IA para interpretar documentos heterogéneos y la fiabilidad de las reglas fijas para validar. Make ofrece un plan gratuito con <strong>1.000 créditos al mes</strong>, suficientes para montar y probar este primer proceso, y conecta con más de <strong>3.500 aplicaciones</strong>, lo que facilita la integración con Gmail y Google Sheets sin salir de la plataforma.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 2: detectar duplicados con una regla de búsqueda exacta</h3>
+<p>La primera validación crítica es evitar que una misma factura se registre dos veces. Para ello, el flujo busca en la hoja de registro si ya existe una fila con el mismo <strong>NIF del proveedor</strong> y el mismo <strong>número de factura</strong>. Si la búsqueda devuelve un resultado, el proceso no escribe nada y envía un aviso; si no devuelve nada, continúa. En la implementación inicial, Maia cometió un error al contar las columnas de la hoja, lo que provocó que la comprobación fallara. El propio asistente corrigió el fallo tras indicárselo, demostrando que la iteración con la IA también sirve para depurar el escenario.</p>
+<p>Una vez ajustada, la factura repetida queda bloqueada y se genera una notificación. Este patrón de <strong>rutas If/Else</strong> —separar el camino cuando se cumple una condición— es fundamental para construir flujos robustos. La regla de duplicados no depende de la IA, sino de una operación de búsqueda determinista que siempre devuelve el mismo resultado ante los mismos datos. Así se evita el riesgo de que el modelo, en una segunda lectura, pase por alto una coincidencia que sí existe.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 3: verificar sumas con operaciones deterministas</h3>
+<p>El segundo control es aritmético: comprobar que la suma de la base imponible y el IVA coincide con el total de la factura. Aquí el tutorial es tajante: <strong>no se debe dejar que la IA haga el cálculo</strong>. En su lugar, se utiliza una operación de Make que suma los dos primeros importes y los compara con el tercero. Antes, es necesario convertir los importes de texto a número, eliminando símbolos como el euro y los puntos de miles, para que la operación funcione correctamente.</p>
+<p>Cuando la factura mal sumada entra en el flujo, la comparación falla y el proceso la bloquea, registrando el motivo y las cifras discrepantes. Este paso ilustra por qué las reglas deterministas son imprescindibles: un modelo de lenguaje podría «razonar» que la diferencia es un error de redondeo y dejar pasar la factura, mientras que una operación matemática no admite interpretaciones. La combinación de extracción por IA y validación por regla fija garantiza que ningún error aritmético pase desapercibido.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 4: aprobaciones por importe y separación de responsabilidades</h3>
+<p>El tercer control introduce la dimensión humana en el proceso. Mediante filtros, el flujo dirige las facturas a distintas personas según su importe: las de hasta <strong>10.000 euros</strong> las aprueba el departamento de compras, mientras que las que superan esa cifra requieren la aprobación de dirección. Este umbral es configurable y se implementa con una condición que evalúa el campo del total antes de enviar la notificación correspondiente.</p>
+<p>La ventaja de este enfoque es que la aprobación humana se integra sin trabajo pesado: el proceso solo interrumpe a las personas cuando es necesario, y lo hace con la información ya extraída y validada. Además, la separación por importe añade una capa de control interno que muchas empresas exigen por política. El tutorial subraya que este tipo de reglas deben definirse antes de automatizar, no después, para evitar que la IA tome decisiones que corresponden a un responsable.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Paso 5: detectar fraudes comparando la cuenta bancaria con la ficha del proveedor</h3>
+<p>El control más potente llega al final: la comparación de la cuenta bancaria que figura en la factura con la que está guardada en la ficha del proveedor. El flujo busca la ficha por NIF y compara ambos números de cuenta. Si no coinciden, la factura se bloquea y se envía un aviso que incluye las dos cuentas y el teléfono de la ficha del proveedor. En la prueba con la factura fraudulenta —cuyo importe superaba los <strong>17.000 euros</strong>—, el proceso la detuvo correctamente, demostrando que las reglas fijas pueden detectar fraudes que la IA, por sí sola, no identificaría.</p>
+<p>El tutorial añade un consejo de seguridad fundamental: ante un cambio de cuenta, <strong>nunca se debe responder al correo del proveedor</strong>; hay que llamar al teléfono que figura en la ficha para confirmar la legitimidad del cambio. Esta práctica evita el fraude del correo comprometido, en el que un atacante modifica la cuenta bancaria y responde desde un correo falso. La combinación de la regla automática y el protocolo humano cierra el círculo de protección.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Puesta en marcha, trazabilidad y adaptación a otros procesos</h3>
+<p>Antes de activar el escenario, el tutorial recomienda hacer todas las pruebas con una <strong>hoja vacía</strong> y un <strong>correo exclusivo para pruebas</strong>, para evitar que Make recoja facturas antiguas y contamine los resultados. Una vez validado, se programa la frecuencia de ejecución —por ejemplo, cada <strong>15 minutos</strong>— y se activa con el interruptor. La trazabilidad queda garantizada por el historial de ejecuciones de Make, que permite auditar cada paso: qué datos entraron y salieron de cada módulo, y en qué punto se bloqueó una factura.</p>
+<p>El método de los cinco pasos —describir, detectar duplicados, verificar sumas, asignar aprobaciones y comparar cuentas— no es exclusivo de la gestión de facturas. Puede adaptarse a otros procesos empresariales como la validación de pedidos, la conciliación bancaria o la revisión de contratos. La clave está en identificar qué partes requieren comprensión (IA) y qué partes requieren reglas fijas (deterministas), y en asegurar que cada decisión quede registrada. Con este enfoque, la automatización deja de ser una caja negra y se convierte en un proceso fiable, auditable y escalable.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Tres preguntas para validar cualquier automatización con IA: ¿sé qué va a hacer?, ¿lo hará siempre igual?, ¿podré ver después qué ha hecho?</li>
+<li>Regla de oro: la IA solo para comprensión y extracción; los cálculos y comparaciones, con operaciones deterministas.</li>
+<li>Umbral de aprobación configurable: hasta 10.000 € aprueba compras; por encima, dirección.</li>
+<li>Ante un cambio de cuenta bancaria, nunca responder al correo del proveedor: llamar al teléfono de la ficha para confirmar.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.make.com/en/maia?&amp;promo=xaviermitjana&amp;utm_source=youtube&amp;utm_medium=influencer&amp;utm_campaign=xaviermitjana-video-dedicated-nov26" target="_blank" rel="noopener"><strong>Make</strong></a> — Plataforma de automatización con más de 3.500 conectores; plan gratuito de 1.000 créditos al mes.</li>
+<li><strong>Maia</strong> — Asistente de IA dentro de Make que construye escenarios a partir de descripciones en lenguaje natural.</li>
+<li><strong>Gmail</strong> — Servicio de correo desde donde se reciben las facturas en PDF y que Make monitoriza.</li>
+<li><strong>Google Sheets</strong> — Hoja de cálculo donde se registran las facturas y se almacenan las fichas de proveedores.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-XywyUZo1kL4.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

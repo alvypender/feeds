@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MAGI-2 vs Seedance 2.5: el modelo open source que cuesta 6.5 veces menos y el truco para abaratar Seedance sin perder calidad — Frame &amp; Prompt</title>
+  <meta name="description" content="MAGI-2 irrumpe como la opción ultrabarata para generar video IA: $0.08 por segundo frente a los $0.78 de Seedance 2.5, con calidad sorprendente pero problemas de shimmering y texturas. Mientras, Seedance 2.5 ofrece un flujo de dos pasos —Draft Mode en 480p y upscale contextual— que reduce costos más">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="MAGI-2 vs Seedance 2.5: el modelo open source que cuesta 6.5 veces menos y el truco para abaratar Seedance sin perder calidad">
+  <meta property="og:description" content="MAGI-2 irrumpe como la opción ultrabarata para generar video IA: $0.08 por segundo frente a los $0.78 de Seedance 2.5, con calidad sorprendente pero problemas de shimmering y texturas. Mientras, Seedance 2.5 ofrece un flujo de dos pasos —Draft Mode en 480p y upscale contextual— que reduce costos más">
+  <meta property="og:image" content="https://i.ytimg.com/vi/3kuatVUk0tw/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-3kuatVUk0tw-jrXoCIkLgrc.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="MAGI-2 vs Seedance 2.5: el modelo open source que cuesta 6.5 veces menos y el truco para abaratar Seedance sin perder calidad">
+  <meta name="twitter:description" content="MAGI-2 irrumpe como la opción ultrabarata para generar video IA: $0.08 por segundo frente a los $0.78 de Seedance 2.5, con calidad sorprendente pero problemas de shimmering y texturas. Mientras, Seedance 2.5 ofrece un flujo de dos pasos —Draft Mode en 480p y upscale contextual— que reduce costos más">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/3kuatVUk0tw/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-3kuatVUk0tw-jrXoCIkLgrc.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">MAGI-2 vs Seedance 2.5: el modelo open source que cuesta 6.5 veces menos y el truco para abaratar Seedance sin perder calidad</h1>
+        <div class="metadata">
+          <span>Por <strong>Rourke Heath + Curious Refuge</strong></span>
+          <time datetime='2026-11-25T17:04:01.819684-05:00'>2026-11-25</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/3kuatVUk0tw" title="MAGI-2 vs Seedance 2.5: el modelo open source que cuesta 6.5 veces menos y el truco para abaratar Seedance sin perder calidad" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=3kuatVUk0tw" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">MAGI-2 irrumpe como la opción ultrabarata para generar video IA: $0.08 por segundo frente a los $0.78 de Seedance 2.5, con calidad sorprendente pero problemas de shimmering y texturas. Mientras, Seedance 2.5 ofrece un flujo de dos pasos —Draft Mode en 480p y upscale contextual— que reduce costos más del 50% sin pérdida perceptible de calidad. La estrategia ganadora: borradores con MAGI-2 y render final con Seedance 2.5, o iterar en Draft Mode y upscalear solo la toma elegida.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Rourke Heath</strong>: <a href="https://www.youtube.com/watch?v=3kuatVUk0tw" target="_blank" rel="noopener">This AI Video Model Is 6.5x Cheaper Than Seedance (MAGI-2)</a> · <strong>Curious Refuge</strong>: <a href="https://www.youtube.com/watch?v=jrXoCIkLgrc" target="_blank" rel="noopener">Here’s How to Cut Your Seedance 2.5 Costs in Half</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La irrupción de MAGI-2: open source, 1080p y 30 referencias por $0.08 el segundo</h3>
+<p>El ecosistema de generación de video por IA acaba de recibir un golpe de efecto con <strong>MAGI-2</strong>, un modelo open source desarrollado por Sand AI que promete democratizar la producción audiovisual gracias a un precio rompedor: <strong>$0.08 por segundo de video generado</strong>. Para ponerlo en perspectiva, un clip de 30 segundos cuesta apenas <strong>$2.40</strong>, una cifra que contrasta radicalmente con los <strong>$0.78 por segundo</strong> de Seedance 2.5, lo que supone un ahorro de <strong>6.5 veces</strong>. MAGI-2 no solo compite en precio, sino que ofrece características técnicas notables: resolución <strong>1080p</strong>, duración de <strong>4 a 30 segundos</strong> y la capacidad de aceptar hasta <strong>30 imágenes de referencia</strong> en una sola generación, lo que facilita mantener la consistencia de personajes, localizaciones y props en escenas complejas.</p>
+<p>El acceso a MAGI-2 está actualmente limitado a <strong>Higgsfield</strong>, la plataforma que aloja el modelo mediante un acuerdo de exclusividad. Aunque es open source, ejecutarlo localmente requiere un equipo potente, por lo que la opción práctica para la mayoría de creadores es utilizar los servidores de Higgsfield. El tiempo de generación oscila entre <strong>10 y 15 minutos</strong> por video, un factor a tener en cuenta si se trabaja con plazos ajustados. Para optimizar la espera, se recomienda lanzar múltiples generaciones en batch y así aprovechar al máximo la capacidad de la plataforma.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Pruebas de fuego: MAGI-2 frente a Seedance 2.5 en escenas complejas</h3>
+<p>La comparativa directa entre ambos modelos revela que MAGI-2 es capaz de lograr resultados impresionantes en escenas de alta complejidad, aunque con matices. En una prueba con una escena de fuego y un kraken, MAGI-2 generó un clip consistente por solo <strong>$0.38</strong>; Seedance 2.5 mostró una calidad superior en la representación del fuego, pero el resultado de MAGI-2 fue sorprendentemente bueno para su precio. En una escena acuática, MAGI-2 produjo mayor contraste y negros más profundos por <strong>$0.50</strong>, mientras que Seedance tuvo un mejor tratamiento del agua; aun así, el veredicto del autor fue que MAGI-2 ganó en general por su relación calidad-precio.</p>
+<p>La cosa se equilibra en pruebas de video-to-video. Al añadir un avión a una escena existente, MAGI-2 logró sombras realistas por <strong>$0.19</strong>, mientras que Seedance preservó mejor los colores originales. Sin embargo, MAGI-2 mostró un problema recurrente: el <strong>&#x27;pixel halation&#x27;</strong> o parpadeo/pixelado en zonas de vegetación, un defecto que también aparece en otros modelos open source como LTX. En tomas FPV de dron, Seedance ofreció una imagen más nítida entre fotogramas. En una escena inspirada en GTA, ambos generaron clips usables, pero Seedance cometió un error con tres cartuchos de escopeta en lugar de dos, mientras que MAGI-2 solo disparó de un cañón; en general, Seedance fue ligeramente mejor. En escenas de tsunami y condiciones climáticas extremas, ambos fueron indistinguibles. En una escena de zombis, MAGI-2 siguió mejor la indicación de no tocar al zombi, mientras que Seedance no respetó bien el prompt. En VFX con polvo, MAGI-2 generó una escena impresionante por <strong>$0.38</strong>.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Blender blockouts y batallas: cuándo MAGI-2 se queda corto</h3>
+<p>MAGI-2 demuestra ser una herramienta valiosa para previsualización y blockouts creados en <strong>Blender</strong>, pero tiene limitaciones claras cuando se trata de animación humana compleja. En escenas sin humanos o con movimientos sutiles, el modelo reproduce fielmente el blockout y genera resultados útiles. Sin embargo, cuando el blockout incluye humanos con animación compleja, MAGI-2 tiende a reproducir el movimiento robótico de forma literal, lo que rompe la ilusión. Para estos casos, es preferible utilizar Seedance 2.5 o limitar el uso de MAGI-2 a movimientos más simples.</p>
+<p>En escenas de batalla, Seedance mostró texturas de piel más realistas y mejor continuidad entre fotogramas, mientras que MAGI-2 logró tomas épicas a bajo costo. La conclusión es que MAGI-2 es excelente para generar borradores y explorar ideas rápidamente, pero para el render final de escenas con humanos o donde la textura de piel sea crítica, Seedance 2.5 sigue siendo superior. El propio autor recomienda usar MAGI-2 para borradores económicos y, una vez afinado el prompt y las referencias, renderizar la versión final con Seedance 2.5 para obtener la mejor calidad.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El truco de Seedance 2.5: Draft Mode y upscale contextual sin pérdida de calidad</h3>
+<p>Mientras MAGI-2 ataca por el flanco del precio, Seedance 2.5 ofrece una estrategia complementary para abaratar costos sin sacrificar calidad: el flujo de dos pasos con <strong>Draft Mode</strong>. La idea es generar primero en resolución <strong>480p</strong> (Draft Mode) y luego aplicar un upscale contextual a <strong>1080p o 4K</strong>. El rumor de que este proceso degrada la calidad final ha sido desmentido por pruebas comparativas. En la plataforma <strong>Magnific</strong>, generar 5 segundos en 1080p cuesta aproximadamente <strong>4000 créditos (~$4)</strong>, mientras que en Draft Mode cuesta <strong>1000 créditos (~$1)</strong>. El upscale de Draft a 1080p añade unos <strong>$4</strong>, totalizando <strong>$5</strong> por clip de 5 segundos, frente a los $4 de la generación directa. La ventaja real aparece cuando se itera: en lugar de generar directamente en alta resolución y gastar $4 por intento, se pueden hacer múltiples pruebas en Draft Mode por $1 cada una y upscalear solo la elegida.</p>
+<p>Un ejemplo concreto: un video de 14 segundos generado en Draft Mode costó <strong>2800 créditos (~$2.8)</strong> y el upscale a 1080p otros <strong>14000 créditos (~$14)</strong>, para un total de <strong>~$17</strong>. Si se hubieran hecho 10 generaciones directas en 1080p antes de elegir la buena, el costo habría sido de <strong>~$140</strong>. El ahorro supera el <strong>50%</strong>. La clave técnica está en que Seedance 2.5 utiliza el contexto de los assets subidos (imágenes de referencia, primer frame, etc.) para guiar el upscale, lo que evita los artefactos típicos de upscalers genéricos como <strong>Topaz Precision 2.5</strong>. En una prueba con un hombre bailando y una camiseta con texto, el upscale con Topaz produjo texto ilegible y artefactos, mientras que el de Seedance 2.5 mostró más detalle y los números se leían mejor, aunque no perfectos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Comparativa de calidad: Draft upscaleado vs generación directa en HD</h3>
+<p>Las pruebas realizadas con imágenes de referencia (personaje y estudio) no mostraron diferencia de resolución entre un video generado en Draft Mode y upscaleado a 1080p versus uno generado directamente en 1080p. Ambos resultaron igual de impresionantes. En footage live-action transformado a un nuevo entorno, se modificó el primer frame para que coincidiera con la iluminación y el entorno deseado; la fidelidad fue muy similar entre el Draft upscaleado y el directo a 1080p, sin diferencias notables al hacer zoom. Lo mismo ocurrió en extensiones de set, efectos visuales y escenas de multitud: no hubo diferencia perceptible.</p>
+<p>Estos resultados confirman que el Draft Mode no es un simple borrador de baja calidad, sino una herramienta estratégica para iterar sin gastar de más. La recomendación es realizar hasta <strong>10 generaciones en Draft Mode</strong> para encontrar la toma deseada y luego upscalear solo la elegida. Con un costo de ~$1 por intento en Draft y ~$4 adicionales por el upscale a 1080p, el costo total para una versión final HD ronda los <strong>$40</strong> (10 drafts + upscale), frente a los <strong>$140</strong> de generar directamente en 1080p. El ahorro es sustancial y la calidad final indistinguible.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Estrategia híbrida: lo mejor de ambos mundos</h3>
+<p>La conclusión práctica para creadores es adoptar una estrategia híbrida. MAGI-2 es ideal para la fase de exploración y borradores debido a su costo ultrabajo ($0.08/segundo) y su capacidad para generar clips de hasta 30 segundos en 1080p con múltiples referencias. Permite probar ideas, ángulos y prompts sin preocuparse por el presupuesto. Una vez que se tiene claro el concepto y se han afinado las referencias, se puede recurrir a Seedance 2.5 para el render final, ya sea generando directamente en alta resolución o, mejor aún, utilizando el flujo de Draft Mode + upscale contextual para maximizar el ahorro.</p>
+<p>Para proyectos con restricciones de presupuesto, la combinación de MAGI-2 para borradores y Seedance 2.5 en Draft Mode para la versión final puede reducir los costos drásticamente. Por ejemplo, generar 10 borradores en MAGI-2 costaría menos de $1 (para clips cortos), y luego un draft en Seedance 2.5 + upscale costaría ~$5, totalizando menos de $6 por un clip final de alta calidad. En comparación, generar directamente en Seedance 2.5 desde el principio costaría $4 por intento, y si se necesitan varias iteraciones, el gasto se dispara. La clave está en elegir la herramienta adecuada para cada etapa del flujo de trabajo.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>MAGI-2: $0.08/segundo; Seedance 2.5: $0.78/segundo (6.5x más caro).</li>
+<li>Seedance 2.5 Draft Mode: 1000 créditos (~$1) por 5s en 480p; upscale a 1080p añade ~$4; a 4K añade ~$9.</li>
+<li>Para 10 iteraciones: Draft Mode + upscale cuesta ~$40 vs ~$140 generando directo en 1080p.</li>
+<li>MAGI-2 requiere equipo potente para local; acceso vía Higgsfield con tiempos de 10-15 min por generación.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://higgsfield.ai/s/BmPYHw" target="_blank" rel="noopener"><strong>MAGI-2</strong></a> — Modelo open source de Sand AI para generar video 1080p hasta 30s con 30 referencias, ultrabarato.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video de alta calidad con Draft Mode y upscale contextual a 1080p/4K.</li>
+<li><a href="https://higgsfield.ai/s/BmPYHw" target="_blank" rel="noopener"><strong>Higgsfield</strong></a> — Plataforma que aloja MAGI-2 y Seedance 2.5 con servidores de renderizado.</li>
+<li><strong>Magnific</strong> — Plataforma agregadora para acceder a Seedance 2.5 y gestionar créditos.</li>
+<li><strong>Topaz Precision 2.5</strong> — Upscaler tradicional comparado con el upscale contextual de Seedance, mostró artefactos.</li>
+<li><a href="https://www.blender.org" target="_blank" rel="noopener"><strong>Blender</strong></a> — Software gratuito de modelado 3D para crear blockouts que luego se renderizan con MAGI-2.</li>
+<li><a href="https://claude.ai" target="_blank" rel="noopener"><strong>Claude</strong></a> — Asistente de IA para prompting, con skill gratuita para mejorar prompts de MAGI-2.</li>
+<li><a href="https://join.genhq.io/" target="_blank" rel="noopener"><strong>GenHQ</strong></a> — Plataforma educativa para aprender a monetizar habilidades de IA.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-3kuatVUk0tw-jrXoCIkLgrc.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
