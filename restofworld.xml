@@ -312,13 +312,12 @@
   <id>https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/</id>
   <published>2026-11-16T11:00:23+00:00</published>
   <updated>2026-11-16T11:00:23+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg"/>
-  <webfeeds:featuredImage>https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_ghana-ai-lab-minohealth-bioweapons_843450.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/aud_ghana-ai-lab-minohealth-bioweapons_843450.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_ghana-ai-lab-minohealth-bioweapons_843450.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_ghana-ai-lab-minohealth-bioweapons_843450.jpg</webfeeds:featuredImage>
   <summary>MinoHealth researchers in Ghana jailbroke their own LLM as a test. What emerged were thousands of toxin recipes—and an urgent push for regulation.</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/A_156w0aYtU/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/11/20261105_Mino-AI-Lab-29-scaled.jpg" alt="The small African lab sounding the alarm on AI bioweapons" style="max-width: 100%; height: auto; border-radius: 6px;"/&gt;&lt;/figure&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_ghana-ai-lab-minohealth-bioweapons_843450.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://restofworld.org/wp-content/uploads/2026/11/20261105_Mino-AI-Lab-29-scaled.jpg" alt="The small African lab sounding the alarm on AI bioweapons" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
 &lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;By Danai Nesta Kupemba&lt;/p&gt;
 &lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;MinoHealth researchers in Ghana jailbroke their own LLM as a test. What emerged were thousands of toxin recipes—and an urgent push for regulation.&lt;/em&gt;&lt;/p&gt;
 &lt;p class="wp-block-paragraph"&gt;Out of curiosity, researchers at a small artificial intelligence lab in Accra, Ghana, removed the guardrails on their drug discovery AI model in 2024. They asked it to design toxins instead.&lt;/p&gt;

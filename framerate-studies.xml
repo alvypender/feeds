@@ -4,7 +4,43 @@
 <link rel="alternate" href="https://framerate.tv/explore?tab=studies"/>
 <link rel="self" href="https://alvypender.github.io/feeds/framerate-studies.xml"/>
 <id>https://framerate.tv/explore?tab=studies</id>
-<updated>2026-11-23T17:35:12.77+00:00</updated>
+<updated>2026-11-25T18:53:39.662+00:00</updated>
+<entry>
+  <title>TAPT '26 Opener - Case Study – Abraham E.</title>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/studies/hYJSGYEZ"/>
+  <id>https://framerate.tv/studies/hYJSGYEZ</id>
+  <published>2026-11-25T18:53:39.662+00:00</published>
+  <updated>2026-11-25T18:53:39.662+00:00</updated>
+  <author><name>Abraham E.</name></author>
+  <link rel="enclosure" type="image/jpeg" href="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/3877b21b-baaf-48bc-9498-08db97e3049f/study-covers/f998e228-45a1-4832-8d85-38c0623f38db-1795633043948.jpg"/>
+  <media:content url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/3877b21b-baaf-48bc-9498-08db97e3049f/study-covers/f998e228-45a1-4832-8d85-38c0623f38db-1795633043948.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/3877b21b-baaf-48bc-9498-08db97e3049f/study-covers/f998e228-45a1-4832-8d85-38c0623f38db-1795633043948.jpg"/>
+  <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/3877b21b-baaf-48bc-9498-08db97e3049f/study-covers/f998e228-45a1-4832-8d85-38c0623f38db-1795633043948.jpg</webfeeds:featuredImage>
+  <summary>HORIZON3 Modern hacking rarely happens the way you expect, so in late 2026 Horizon3 kicked off The Attack Path Tour, a series of live events, across several cities in the US, to share insights, technical deep dives and discussions surrounding the topic with fellow security practi</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/3877b21b-baaf-48bc-9498-08db97e3049f/study-covers/f998e228-45a1-4832-8d85-38c0623f38db-1795633043948.jpg" alt="TAPT '26 Opener - Case Study" class="webfeedsFeaturedVisual" style="max-width:100%; height:auto; border-radius:8px;" /&gt;&lt;/p&gt;
+&lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Estudio / Creador:&lt;/strong&gt; Abraham E. • &lt;strong&gt;Categoría:&lt;/strong&gt; Animation • &lt;strong&gt;Especialidad:&lt;/strong&gt; 2d, Motion Design, BTS&lt;/p&gt;
+&lt;p style="text-transform:uppercase; font-size:0.8em; letter-spacing:1px; color:#888;"&gt;HORIZON3&lt;/p&gt;
+&lt;p&gt;Modern hacking rarely happens the way you expect, so in late 2026 Horizon3 kicked off The Attack Path Tour, a series of live events, across several cities in the US, to share insights, technical deep dives and discussions surrounding the topic with fellow security practitioners.&lt;/p&gt;
+&lt;p&gt;For their inaugural series, they reached out to Buff to craft a high-energy, 2D opener to build anticipation and excitement for audiences before keynote talks began, and I had the opportunity to bring the opener to life w/ the Buff crew.&lt;/p&gt;
+&lt;p&gt;Double-check your passwords, dim your lights and enjoy:&lt;/p&gt;
+&lt;p&gt;In cyber security, attack paths are the chain of small, but connected vulnerabilities a hacker strings together to reach into a larger system, akin to how a thief might break into your home through unlocked doors, eventually reaching for your precious collection of Funko POPs .&lt;/p&gt;
+&lt;p&gt;NodeZero, Horizon3's AI hacker, runs automated penetration tests (Pentests), to test these vulnerabilities and generate a report, so you know exactly how it got in and patch recommendations, so you stay out of the news :)&lt;/p&gt;
+&lt;p&gt;As we learnt more about the product, pentesting and attack paths, I sketched, revised, laughed, loved, and fed back with the team, refining very rough storyboards of key ideas and features that made NodeZero stand out;&lt;br /&gt;​​​​​​​&lt;/p&gt;
+&lt;p&gt;These were then vectorised as storyboards, shared early on w/ the client, fedback and inevitably iterated on further to accommodate the clients needs, eventually leading to the final* greyscale storyboards below:&lt;/p&gt;
+&lt;p&gt;At the time, Horizon3’s visual identity was still developing, especially for animation, where we wanted to really create something different and bold.&lt;/p&gt;
+&lt;p&gt;We knew we wanted to keep things mostly 2D, both for familiarity and efficiency, but also needed to explore some of our early ideas, like conveying the overwhelming speed of NodeZero’s probing, how colour and light might behave during breaches, and stylised attack paths. Below are some of the early designs I developed alongside the wonderful Margo Semcuk in Figma.&lt;/p&gt;
+&lt;p&gt;With the above (eventually) approved by the client, I armed myself with more references, some fruit and a banging music playlist, as I then translated all the earlier greyscale storyboards into the final-look frames below, with great feedback from Margo along the way; playing with gradients, light and close-ups for added drama&lt;/p&gt;
+&lt;p&gt;The design organically became more nuanced, and gradients, glows and 3D elements (even if faux) became quite time-consuming to add in animation. While we wish we had more time to add all the subtle details we envisioned (and more), making sure the most important things were well animated and shaded became the priority ahead of the deadline.&lt;/p&gt;
+&lt;p&gt;Glossy gradient orbs, 3D icons and a whole lot of (hand-animated) particles and trails were explored in this one, with some lil tricks I managed to develop (and rediscover) along the way. Pick your fave:)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;- First things first: Focus on the primary elements first, both in design and animation, and really nail those. Secondary elements can’t fix an ugly design/animation.&lt;/p&gt;
+&lt;p&gt;- Do the best you can: Being responsible for storyboards and final-look styleframes was admittedly daunting, but the visual approach and creative freedom made the challenge all the more feasible. I am capable, and just had to try my best here.&lt;/p&gt;
+&lt;p&gt;- Yes and: Sometimes client notes can really throw off your vision, but try understanding what the real issue is, and coming up with a beautiful solution, if possible :)&lt;/p&gt;
+&lt;p&gt;- Always CC: No matter how flat, always add some colour corrections to the final render, especially if there’s gradients. Treat colour correction as part of the animation, not an optional afterthought.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div style="margin:1.5em 0;"&gt;&lt;h4&gt;Créditos&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Client:&lt;/strong&gt; Horizon3&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Production:&lt;/strong&gt; Buff Motion&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Original Music:&lt;/strong&gt; Amit Ofir&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sound Design:&lt;/strong&gt; James Locke-Hart&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Additional design &amp;amp; good vibes:&lt;/strong&gt; Margo Semcuk&lt;/li&gt;&lt;li&gt;&lt;strong&gt;My Role:&lt;/strong&gt; Storyboards, animatic, design and 2D animation :)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href="https://framerate.tv/studies/hYJSGYEZ" target="_blank"&gt;Ver Case Study completo en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Borrowell: Rent Advantage (Spec Work) – Bishnu Kumar</title>
   <link rel="alternate" type="text/html" href="https://framerate.tv/studies/pcQDHGn3"/>
@@ -922,72 +958,5 @@ Dream Stories started as proactive probono project for the charity Dreams Come T
 &lt;blockquote style="border-left:3px solid #555; padding-left:1em; margin:1.5em 0; font-style:italic;"&gt;&lt;p&gt;“Built in very little time, textured with care.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Modeled in Blender, textured in Substance Painter and brought to motion in After Effects. The texturing is the part I'm proudest of, both for the final look and for how little time it took.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://framerate.tv/studies/4vKVZlO3" target="_blank"&gt;Ver Case Study completo en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Wide Awake: Night Shift – Make Good Studio</title>
-  <link rel="alternate" type="text/html" href="https://framerate.tv/studies/JvtvlGeW"/>
-  <id>https://framerate.tv/studies/JvtvlGeW</id>
-  <published>2026-10-28T02:52:55.378+00:00</published>
-  <updated>2026-10-28T02:52:55.378+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_JvtvlGeW_261730.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/aud_JvtvlGeW_261730.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_JvtvlGeW_261730.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_JvtvlGeW_261730.jpg</webfeeds:featuredImage>
-  <author><name>Make Good Studio</name></author>
-
-  <summary>MAKE GOOD / ORIGINAL CONCEPT FILM A man wakes up on an alien operating table. The crew has a more pressing problem: coffee. The wrong emergency We started with a man waking up somewhere he absolutely should not be. To him, it is the worst moment of his life. To the aliens standin</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_JvtvlGeW_261730.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Estudio / Creador:&lt;/strong&gt; Make Good Studio • &lt;strong&gt;Categoría:&lt;/strong&gt; Commercial&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://image.mux.com/LVx2lfAGD8Qnt600ZMl02k8TyiOV8v8CjkSH2cV8pCrLY/thumbnail.jpg" style="max-width:100%; border-radius:6px;" /&gt;&lt;/p&gt;
-&lt;p style="text-transform:uppercase; font-size:0.8em; letter-spacing:1px; color:#888;"&gt;MAKE GOOD / ORIGINAL CONCEPT FILM&lt;/p&gt;
-&lt;p class="lead" style="font-size:1.15em; font-weight:500;"&gt;A man wakes up on an alien operating table. The crew has a more pressing problem: coffee.&lt;/p&gt;
-&lt;p style="font-weight:600; font-size:1.05em;"&gt;The wrong emergency&lt;/p&gt;
-&lt;p&gt;We started with a man waking up somewhere he absolutely should not be. To him, it is the worst moment of his life. To the aliens standing over him, it is another night at work.
-
-
-Their argument is about decaf, loyalty points and a birthday muffin. The more ordinary the conversation becomes, the stranger his situation feels. That became the idea behind Wide Awake, a fictional coffee brand for the night shift.&lt;/p&gt;
-&lt;p style="font-weight:600; font-size:1.05em;"&gt;Three different priorities&lt;/p&gt;
-&lt;p&gt;One alien wants coffee that will keep them awake. The other wants the rewards. The patient just wants to go home. Giving each character something different to care about kept the scene simple.
-
-
-We developed character sheets and room references before building the shots. The faces, uniforms, pajamas and operating table had to belong to the same world, even as the camera moved from the patient’s point of view to the aliens’ conversation.&lt;/p&gt;
-&lt;p style="font-weight:600; font-size:1.05em;"&gt;Finding the conversation&lt;/p&gt;
-&lt;p&gt;The aliens needed to sound like coworkers, not villains. We used ElevenLabs Flows to audition voices for each character, then generated the full conversation with multiple speakers. Hearing the replies together gave us a way to judge the exchanges as a scene.
-
-
-The direction became quite specific. One voice was too theatrical, so we pulled it toward an everyday delivery. “And a birthday muffin” needed to sound like a reasonable justification. We adjusted the synthesis spelling of “decaf” to fix a consonant and tried several versions of the pause in “But… we work nights.”
-
-
-Those recordings also became acting references for the animated dialogue shots. The video models generated dialogue of their own, so the finished soundtrack is not simply the original ElevenLabs conversation laid over pictures. We selected and trimmed the takes in the edit.
-
-
-The patient’s plea took more work. We revised the starting image to keep his face and proportions natural, then used his character sheet, the room reference and a recorded dialogue guide for the new take. His shoulders lift, his hands press into the mattress and he asks to go home. We wanted urgency without a cartoon grimace.&lt;/p&gt;
-&lt;p style="font-weight:600; font-size:1.05em;"&gt;A room that holds together&lt;/p&gt;
-&lt;p&gt;The camera begins where the patient is, looking up into surgical lights. Other angles let us watch the coffee dispute while keeping him in the scene. The table, lamps and curved doorway give the room recognizable landmarks.
-
-
-We used room references alongside the character sheets to guide the generated shots. The goal was a sequence that feels like one scene, with the same people, clothes and surroundings from angle to angle. Small changes in eyelines or body proportions can break that feeling, even when an individual image looks convincing.&lt;/p&gt;
-&lt;p style="font-weight:600; font-size:1.05em;"&gt;Making the coffee feel real&lt;/p&gt;
-&lt;p&gt;Wide Awake needed an identity that could carry the final shot. A coffee bean with a lightning bolt gives the brand a simple mark. Brown lettering, a cream bag and a sage mug bring some warmth into the metal room.
-
-
-The decaf pouch is the problem driving the conversation. The closing product shot gives us the answer: Night Shift coffee. We kept the camera movement gentle and let the steam and packaging bring the film to a quieter finish.&lt;/p&gt;
-&lt;p style="font-weight:600; font-size:1.05em;"&gt;Letting the joke land&lt;/p&gt;
-&lt;p&gt;The edit moves between panic and small talk. A reaction can be funnier than another line, and the pause after a ridiculous answer matters as much as the answer itself. The patient’s interruption brings us back to what everyone else in the room has forgotten.
-
-
-
-
-Generated dialogue takes needed editorial attention too. Repeated words and unwanted speech at the ends of takes were trimmed so each exchange stayed clean. Dialogue, the room ambience, effects and music were balanced in the final edit, keeping the conversation easy to follow before the product finish.
-
-
-The sound also had to put the voices inside the ship. Josh added a little reverb by hand so they felt part of the metal interior. Spaceship ambience and a very subtle rustle from the coffee bag gave the scene texture without competing with the conversation.&lt;/p&gt;
-&lt;div style="margin:1.5em 0;"&gt;&lt;h4&gt;Créditos&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;CONCEPT / DESIGN / PRODUCTION:&lt;/strong&gt; Make Good Studio&lt;/li&gt;&lt;li&gt;&lt;strong&gt;FILMMAKER / MOTION DESIGNER:&lt;/strong&gt; Josh Good&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
-&lt;p&gt;Wide Awake is an original Make Good concept for a fictional coffee brand.&lt;/p&gt;
-&lt;p&gt;Production notes: We developed reference images with ChatGPT and explored the voices in ElevenLabs. Selected H3 and Seedance shots brought the characters and product to life, including generated dialogue. The edit and sound mix came together in DaVinci Resolve.&lt;/p&gt;
-&lt;p&gt;Music: Hidden Pathways by Martin Landström.&lt;/p&gt;
-&lt;p&gt;See the full case study on our website: https://makegood.tv/projects/wide-awake-ai-commercial&lt;/p&gt;
-&lt;p&gt;Have a product story in mind? Explore our AI film production: https://makegood.tv/ai-filmmaking&lt;/p&gt;
-&lt;p&gt;See NUVO for another original product film: https://framerate.tv/studies/OYYyQ9b4&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/studies/JvtvlGeW" target="_blank"&gt;Ver Case Study completo en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>

@@ -1770,13 +1770,12 @@
   <id>https://bacanika.com/10-dias-10-artistas-Arte-Joven-2026</id>
   <published>2026-11-03T12:00:00-05:00</published>
   <updated>2026-11-03T12:00:00-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-Ae9jKmoEJ0/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/-Ae9jKmoEJ0/maxresdefault.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://img.youtube.com/vi/-Ae9jKmoEJ0/maxresdefault.jpg"/>
-  <webfeeds:featuredImage>https://img.youtube.com/vi/-Ae9jKmoEJ0/maxresdefault.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/png" href="https://bacanika.com/sites/default/files/2026-10/aj_2026.png"/>
+  <media:content url="https://bacanika.com/sites/default/files/2026-10/aj_2026.png" medium="image" type="image/png"/>
+  <media:thumbnail url="https://bacanika.com/sites/default/files/2026-10/aj_2026.png"/>
+  <webfeeds:featuredImage>https://bacanika.com/sites/default/files/2026-10/aj_2026.png</webfeeds:featuredImage>
   <summary>Arte &amp; Diseño Convocatorias: Conozca a los artistas finalistas del Premio Arte Joven 2026 en esta jornada de 10 días / 10 artistas, a lo largo de la cual conoceremos los procesos y búsquedas detrás de cada una de las obras. En el segundo día, hablamos de con el artista caleño Daniel España Zamudio, cuya obra</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/-Ae9jKmoEJ0/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://bacanika.com/sites/default/files/2026-10/aj_2026.png"&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://bacanika.com/sites/default/files/2026-10/aj_2026.png" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
                     
             &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;
 &lt;div style="height:50px" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
@@ -3298,13 +3297,12 @@
   <id>https://bacanika.com/calvicie-masculina-tratamientos</id>
   <published>2026-10-28T12:00:00-05:00</published>
   <updated>2026-10-28T12:00:00-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Maqvm_hFDsc/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/Maqvm_hFDsc/maxresdefault.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://img.youtube.com/vi/Maqvm_hFDsc/maxresdefault.jpg"/>
-  <webfeeds:featuredImage>https://img.youtube.com/vi/Maqvm_hFDsc/maxresdefault.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/webp" href="https://bacanika.com/sites/default/files/2026-10/quedarse_calvo_es_horrible_pero_tiene_que_serlo_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp"/>
+  <media:content url="https://bacanika.com/sites/default/files/2026-10/quedarse_calvo_es_horrible_pero_tiene_que_serlo_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp" medium="image" type="image/webp"/>
+  <media:thumbnail url="https://bacanika.com/sites/default/files/2026-10/quedarse_calvo_es_horrible_pero_tiene_que_serlo_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp"/>
+  <webfeeds:featuredImage>https://bacanika.com/sites/default/files/2026-10/quedarse_calvo_es_horrible_pero_tiene_que_serlo_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp</webfeeds:featuredImage>
   <summary>Bienestar: Perder el pelo es hacer un duelo; para muchos, significa disimular la caída con peinados que cubran los espacios vacíos, usar gorras o pegarse del minoxidil. Todo esto puede causar vergüenza, pero, ¿debería ser así? Más allá de la vanidad, hay opciones que pueden ofrecer solucion</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/Maqvm_hFDsc/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://bacanika.com/sites/default/files/2026-10/quedarse_calvo_es_horrible_pero_tiene_que_serlo_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp"&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://bacanika.com/sites/default/files/2026-10/quedarse_calvo_es_horrible_pero_tiene_que_serlo_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
                     
             &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;
 &lt;div style="height:50px" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
@@ -8206,319 +8204,6 @@
     </content>
 </entry>
 <entry>
-  <title>Breve historia de nuestro amor por la bolirrana</title>
-  <link href="https://bacanika.com/bolirana-historia-tradicion"/>
-  <id>https://bacanika.com/bolirana-historia-tradicion</id>
-  <published>2026-10-02T12:00:00-05:00</published>
-  <updated>2026-10-02T12:00:00-05:00</updated>
-  <link rel="enclosure" type="image/webp" href="https://bacanika.com/sites/default/files/2026-10/por-que-amamos-el-bolirana_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp"/>
-  <media:content url="https://bacanika.com/sites/default/files/2026-10/por-que-amamos-el-bolirana_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp" medium="image" type="image/webp"/>
-  <media:thumbnail url="https://bacanika.com/sites/default/files/2026-10/por-que-amamos-el-bolirana_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp"/>
-  <webfeeds:featuredImage>https://bacanika.com/sites/default/files/2026-10/por-que-amamos-el-bolirana_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp</webfeeds:featuredImage>
-  <summary>Cultura Pop: La historia de la bolirana es tan legendaria como la pasión que despierta en quienes la juegan. Es larga la lista de países que se adjudican su origen es larga, -desde el Pukllay Sapu suramericano, hasta las tabernas asturianas- pero lo cierto es que en Bogotá ha encontrado a su </summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://bacanika.com/sites/default/files/2026-10/por-que-amamos-el-bolirana_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-                    
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;
-&lt;div style="height:50px" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
-
-
-
-&lt;div class="wp-block-group alignfull container"&gt;
-&lt;div class="wp-block-column"&gt;
-&lt;div class="wp-block-group alignfull title-playfair-style"&gt;
-&lt;h2 class="has-text-align-center title-playfair" style="font-size:22px"&gt;&lt;strong&gt;&lt;em&gt;La historia de la bolirana es tan legendaria como la pasión que despierta en quienes la juegan. Es larga la lista de países que se adjudican su origen es larga, -desde el &lt;/em&gt;Pukllay Sapu &lt;em&gt;suramericano, hasta las tabernas asturianas- pero lo cierto es que en Bogotá ha encontrado a su público más extenso.  ¿Cómo se ve hoy la tradición milenaria de atinar al deseo encerrado en la boca de un sapo de metal? &lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div style="height:50px" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
-
-
-
-&lt;div class="wp-block-group alignfull container"&gt;
-&lt;div class="wp-block-column column-layout-2"&gt;
-&lt;p class="has-drop-cap"&gt;Es viernes. El ganador está suspendido en el aire. Los asistentes hablan de lanzamientos inolvidables, balines rebeldes, jugadas que parecían retar las leyes de la física. Dos o tres piden cerveza en coro, es imposible determinar la cantidad de voces entre la música. Alguien pregunta por el origen de la bolirana. Al igual que muchos académicos, nadie tiene certeza. Sin embargo, la mayoría se rehúsa a creer que se trata de una tradición europea. Menos, dice el ganador que ya aterrizó, cuando en Suramérica tenemos miles de especies de anfibios.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;El ritual original se extendió por la cordillera de los Andes. Ocurrió a la orilla de un lago en medio de la civilización inca. Aparecen un cacique y un sapo. Según cuenta la leyenda, el cacique lanzaba piezas de oro al agua. Si el sapo se tragaba alguna, el animal sagrado se convertía en oro y al hombre se le concedía un deseo.&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div style="height:50px" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
-
-
-
-&lt;div class="wp-block-group alignfull container"&gt;
-&lt;div class="wp-block-column"&gt;
-&lt;p&gt;Al ritual le siguió la danza, el juego, la celebración. Una fiesta alrededor de un sapo de oro al que los incas lanzaban discos para provocar su canto. Esa es la historia que cuentan acá. Hay otras. Los argentinos dicen que nació entre los criollos rioplatenses; Bolivia, Chile, Perú opinan distinto, pues el juego los acompaña en parrilladas y festividades. Los académicos no se ponen de acuerdo. Esto se debe a que la evidencia se fundamenta, sobre todo, en la tradición oral de cada pueblo.&lt;/p&gt;
-
-
-
-&lt;p&gt;Resta una obviedad: el sapo y la rana son animales que se repiten en la vasta cosmogonía de los pueblos andinos, asociados a la lluvia y la suerte. En consecuencia, el juego se replica en tantos rituales como comunidades.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Por ejemplo, la investigación &lt;em&gt;Kwitara Santayá u’wbohiná-kueshro. Con-jugando patrimonios corporales ancestrales en Bogotá: territorio muisca de Bosa&lt;/em&gt;, del profesor Jairzinho Francisco Panqueba Cifuentes, confirma la idea a través del ritual zepcuagoscua. Resulta que para los pueblos u’wa y muisca, se trata de un encuentro en torno a la comida, el juego y la danza. Su versión contemporánea, dice, cuenta con variantes como el bocholo, el mini-tejo, la rana y la bolirana.&amp;nbsp; Sin importar el siglo, las figuras de metal parecen ser el recipiente de preferencia de la humanidad para plegarias y deseos.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Es más que una pelea entre hermanos. Vascos y asturianos reclaman el origen desde España, donde está documentado desde el siglo XIX en chigres y sidrerías. Los ingleses acusan que en las tabernas de Sussex se practica desde el siglo XVIII bajo el nombre de &lt;em&gt;Toad in the Hole&lt;/em&gt; —literalmente sapo en el agujero—. Argumentan que el juego después migró a Francia, donde se transformó en &lt;em&gt;Le Jeu de la Grenouille&lt;/em&gt; —juego de la rana— y que lo trajeron ellos, dicen.&lt;/p&gt;
-
-
-
-&lt;p&gt;Las representaciones zoomorfas de anfibios que datan de periodos prehispánicos, exhibidas en el Museo del Oro del Banco de la República, podrían soportar el relato inca, pero no son concluyentes. Ante la ambigüedad, nunca sobra otra teoría. Es justo pensar que las civilizaciones coinciden con la rana, independiente de la geografía, como egipcios, mayas, nubios y aztecas lo hicieron con las pirámides. Basta con creer que, sin importar el continente, a alguien se le ocurrió que atinarle a la boca de un anfibio metálico era motivo de celebración.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;div class="wp-block-group alignfull margin--y image-full-width-100"&gt;
-&lt;div class="wp-block-column"&gt;
-&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter size-full"&gt;&lt;img src="https://bacanika.com/sites/default/files/inline-images/por-que-amamos-el-bolirana_bacanika_interna_body_text_01%5Bformato%2001%5D.webp" alt="" class="wp-image-7659" data-entity-type="file" data-entity-uuid="5523980a-1a34-4289-9e3a-4519edde4962" data-image-style="original"/&gt;&lt;/figure&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;p&gt;Para la región andina es &lt;em&gt;Pukllay Sapu&lt;/em&gt;, así lo cuenta la historia en quechua. Con el tiempo llegaron otros nombres. El juego cambió las piezas de oro por los balines metálicos y los sapos por estructuras de madera con luces y pantallas integradas. La bolirana se hizo tradición en ferias y fiestas patronales desde Boyacá, Cundinamarca, Santander, hasta el Valle del Cauca. Mesas de colores, dispuestas para que niños y adultos coincidan entre cumbia, vallenato y salsa. Se trata de un juego que ha probado ser una herramienta valiosa en ejercicios de conciliación. No hay que ir lejos, la Unidad para las Víctimas del conflicto armado en Colombia la usa en procesos de esa naturaleza junto al tejo y la rana tradicional.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Su versión más popular nació del encuentro del ritual con el entretenimiento de barrio. En su convergencia aparecieron los bordes curvos de pino, las luces led y el acento bogotano que anuncia el inicio del juego desde una bocina integrada. Se trata de una arquitectura simple; una mesa inclinada de madera con agujeros de diferente puntuación. En el centro descansa una o varias figuras metálicas de ranas con las bocas abiertas —el objetivo más codiciado—, flanqueadas por puentes, molinos y orificios de menor valor. La mecánica lo es todavía más: lanzar hasta lograr el mayor puntuaje en la menor cantidad de turnos.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Entre las calles angostas de Bogotá, los asistentes bailan junto a una bolirana de poco más de metro y medio, con luces que van desde un rosa pálido hasta un verde limón. Sobre la madera iluminada aparece una vieja alineación: Mbappe, Messi y Neymar con la camiseta del PSG. A la cabeza, la Champions. El grupo celebra, se retan unos a otros, piden botellas. Cada tanto a alguien se le escapa un uff alargado cuando las ranas cantan sobre la percusión amaderada del cajón. De fondo, el bajo del parlante hace vibrar las ventanas al coro de algún reguetón dosmilero.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Detrás de cada mesa hay una precisión insospechada: el ángulo de inclinación de las pistas, la densidad de la madera, el calibre del tapizado, el diámetro de los agujeros. Factores que determinan si una bola rebota con violencia o rueda con ternura, si el juego resulta frustrante o adictivo. La bolirana, como cualquier expresión deportiva, se juega la vida en los milímetros que los aficionados ignoran.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Para eso están los expertos. Jamerly Camelo es uno. Él conoce los secretos de las boliranas como si fueran una extensión de su cuerpo. Hace una década fundó Boliranas de Colombia, Tecnología Emacom y se dedicó a entender su funcionamiento. No llegó al negocio por amor al juego. Entre 2014 y 2015 pocas empresas fabricaban boliranas. Los precios eran elevados, la calidad baja y los tiempos de entrega impredecibles. Sin embargo, ante la insistencia de sus clientes, compró una docena. Le entregaron dos. Para rematar, ambas fallaban a las dos horas de uso.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;div class="wp-block-group alignfull margin--y image-full-width-100"&gt;
-&lt;div class="wp-block-column"&gt;
-&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter size-full"&gt;&lt;img src="https://bacanika.com/sites/default/files/inline-images/por-que-amamos-el-bolirana_bacanika_interna_body_text_02%5Bformato%2001%5D.webp" alt="" class="wp-image-7660" data-entity-type="file" data-entity-uuid="e72b0756-40e5-4e1a-b93e-3fd27bcdc0fe" data-image-style="original"/&gt;&lt;/figure&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;p&gt;Camelo vio una oportunidad de negocio. Empezó a ensamblar piezas de terceros junto a su esposa. Adornaban las boliranas con vinilos de marcas de cerveza, chicas, personajes de Dragon Ball, lo que los ayudó a diferenciarse del resto de marcas en el mercado. Hoy, todas tienen algún diseño impreso.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;En el bar de paredes altas y baños angostos, hay quienes toman su turno ante la mirada alegre de la vieja escuadra parisina, se alegran o se lamentan por su suerte, y regresan a sus sillas para continuar con la conversación pendiente. Otros se acomodan a los costados para ejercer presión sobre el rival. Al final, casi al borde de la mesa, quedan los reboteadores de balines, encargados de pescar cualquier lanzamiento perdido junto al astro argentino.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Cuando la esfera hace cantar a la rana, el grupo se alza con el croar que viaja desde el túnel interior. Es un grito colectivo, acompañado de un brindis de la misma dimensión. El siguiente lanzamiento vuelve a entrar.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Con orgullo, Camelo dice que el túnel es una de las innovaciones más concretas que hizo. Antes, cuando cinco balines entraban por el agujero inferior de la máquina, solo uno llegaba a la ruleta —el objetivo de mayor puntaje—. Los otros cuatro se desviaban a agujeros menores. El resultado: partidas más largas, menos satisfactorias, menos consumo. Si quería hacer que su cliente vendiera más cerveza, tenía que garantizar que, si cinco balines entraban por abajo, cinco llegaran a la ruleta. Eso redujo el tiempo de una partida de 25 a 15 minutos. “El jugador termina más contento y pide otra ronda”, asegura.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Las copas de plástico se vacían ante el canto heredado de abuelos a nietos, de pueblos a barrios. Un gesto de alegría que habita el tiempo desde la civilización incaica hasta un bar en el centro de Bogotá. La voz de la rana desencadena abrazos, incluso entre quienes se acaban de conocer. Los puntajes se adivinan en la pantalla. La distancia es cerrada y restan un par de turnos para que el juego termine.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Un hombre de brazos largos se acomoda frente a los cuatro sapos de metal. Mide la distancia, amaga un lanzamiento, luego otro. El balín metálico choca contra la superficie de madera. Falla uno. La leyenda cuenta que, si el sapo se traga alguna, al hombre se le concede un deseo. Falla otro. Sin embargo, las manos largas del jugador erran al medir, imprimen más fuerza de la necesaria. Falla el último.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;div class="wp-block-group alignfull margin--y image-full-width-100"&gt;
-&lt;div class="wp-block-column"&gt;
-&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img src="https://bacanika.com/sites/default/files/inline-images/por-que-amamos-el-bolirana_bacanika_interna_body_text_03%5Bformato%2001%5D.webp" alt="" class="wp-image-7661" width="810" height="741" data-entity-type="file" data-entity-uuid="d8984dd7-9c62-4c73-ad2f-bd47419beba3" data-image-style="original"/&gt;&lt;/figure&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;p&gt;No es fácil descifrar los secretos de la madera, el tapizado, los ángulos de lanzamiento. Para Camelo fueron años. Cuando no quedaron secretos que descubrir en los cuerpos de las boliranas, se dedicó a crear un programa propio. Apenas sumaba puntos y mostraba algunas animaciones sencillas, recuerda. Sin embargo, con el código como columna vertebral, y con él como único director de producto durante una década, el software creció versión tras versión sin perder su esencia.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;Hoy sus boliranas recorren el mundo y, seguramente, son usadas en rituales como el zepcuagoscua que menciona Panqueba en su investigación, en los torneos de reconciliación de la Unidad de Víctimas, así como en eventos en el exterior. Algunas veces las llevan colombianos. Otras, extranjeros que conocen el juego en el país y se enamoran. Las boliranas de Camelo viven en negocios locales en el extranjero. Algunas cuentan con mecanismo de cobro por moneda, billetes o tarjeta de crédito.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;El crecimiento demanda innovación. El reto reside en cómo mejorar algo que es perfecto desde hace siglos. La pandemia, dice Camelo, aceleró la evolución de la bolirana. Los juegos en línea desnudaron la carencia de conectividad que tenía el juego y, con ello, su inminente transformación.&lt;/p&gt;
-
-
-
-&lt;p&gt;“Si un señor tiene un local en Chapinero, otro en Suba y otro en Bosa, puede hacer un campeonato interbarrial”. Es decir, gracias al avance tecnológico, las boliranas modernas permiten jugar en simultáneo sin importar la distancia entre cada una. “Es como jugar Free Fire o Call of Duty, pero con bolirana”, concluye.&lt;/p&gt;
-
-
-
-&lt;p&gt;La lógica del mercado, que suele alejarse del valor ritualístico y acelera el juego hasta los hábitos del capital, dicta que es cuestión de tiempo para que se pueda disputar una partida simultánea entre una taberna de Asturias, otra en Sussex, en el Río de la Plata y en Bogotá para decidir quién se queda con el título. Al término de la partida, las voces seguirán la tradición: repasarán el juego como si los separaran siglos del recuerdo. El ganador se elevará en el aire. Restarán un sapo, una pieza de metal y un deseo. El resto, es ficción.&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class="wp-block-group alignfull margin--y image-full-width-100"&gt;
-&lt;div class="wp-block-column"&gt;
-&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter size-full is-resized"&gt;&lt;img src="https://bacanika.com/sites/default/files/inline-images/por-que-amamos-el-bolirana_bacanika_interna_body_text_04%5Bformato%2001%5D.webp" alt="" class="wp-image-7662" width="810" height="311" data-entity-type="file" data-entity-uuid="ec5332ff-b769-458a-98a3-f00c687a1f4a" data-image-style="original"/&gt;&lt;/figure&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-      
-        
-      
-                        &lt;div class="block-bottom-content text-dark"&gt;
-                    &lt;div class="container"&gt;
-            &lt;div class="post-content py-4"&gt;
-                    &lt;div class="post-meta"&gt;
-                        &lt;span class="tags-article"&gt;
-                            
-  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
-    &lt;div class="field__label"&gt;Etiquetas&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="https://bacanika.com/salon-visual-bacanika" hreflang="es"&gt;Salón Visual Bacánika&lt;/a&gt;&lt;/div&gt;
-          &lt;div class="field__item"&gt;&lt;a href="https://bacanika.com/salon-visual-0" hreflang="es"&gt;Salón Visual&lt;/a&gt;&lt;/div&gt;
-          &lt;div class="field__item"&gt;&lt;a href="https://bacanika.com/eventos-1" hreflang="es"&gt;Eventos&lt;/a&gt;&lt;/div&gt;
-          &lt;div class="field__item"&gt;&lt;a href="https://bacanika.com/ilustradores-colombianos" hreflang="es"&gt;Ilustradores Colombianos&lt;/a&gt;&lt;/div&gt;
-          &lt;div class="field__item"&gt;&lt;a href="https://bacanika.com/ilustracion" hreflang="es"&gt;Ilustración&lt;/a&gt;&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-                        &lt;/span&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-
-                                &lt;div class="logo-article mb-5 mt-3 d-flex align-items-center justify-content-center"&gt;
-                    &lt;div class="views-element-container"&gt;&lt;div class="gva-view js-view-dom-id-f1cc400f9c595628fb8f4582415d474466510c2228b65a6ed4e51f7139843025"&gt;
-  
-  
-  
-
-  
-  
-  
-
-  &lt;div class="view-content-wrap"&gt;
-             &lt;div class="item"&gt;
-       &lt;div class="views-field views-field-field-light-logo"&gt;&lt;div class="field-content light-logo"&gt;
-&lt;div class="item-image"&gt;
-  &lt;img src="https://bacanika.com/sites/default/files/styles/thumbnail/public/2023-10/BCNK-logo-morado.png?itok=cOUVyXIp" alt="Logo Bacanika morado" loading="lazy" /&gt;
-
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;div class="views-field views-field-field-dark-logo"&gt;&lt;div class="field-content dark-logo"&gt;
-&lt;div class="item-image"&gt;
-  &lt;img src="https://bacanika.com/sites/default/files/styles/thumbnail/public/2023-10/BCNK-logo-negro.png?itok=RMxqj1cf" alt="Logo bacanika Negro" loading="lazy" /&gt;
-
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;
-     &lt;/div&gt;
-   &lt;/div&gt;
-
-    
-
-  
-  
-
-  
-  
-&lt;/div&gt;
-&lt;/div&gt;
-
-                &lt;/div&gt;
-
-
-                                    
-&lt;div class="nuvoll-author-detail-right-web"&gt;
-	&lt;div class="author_article_detail d-flex pb-5 nuvoll-author-detail"&gt;
-		&lt;div class="author-picture left-container"&gt;
-			&lt;a href="https://bacanika.com/nicolas-rocha-cortes"&gt;
-								&lt;picture&gt;
-						&lt;img src="https://bacanika.com/sites/default/files/2024-05/nicolas_rocha_bacanika_imagen_perfil_autor.webp"
-						class="img-fluid pr-2 nuvoll-siimage" alt="Nicolás Rocha Cortés"
-						title=""&gt;
-					&lt;/picture&gt;
-							&lt;/a&gt;
-		&lt;/div&gt;
-		&lt;div class="author-info right-container"&gt;
-			&lt;a href="https://bacanika.com/nicolas-rocha-cortes" class="d-flex align-items-center  author-name"&gt;Nicolás Rocha Cortés&lt;/a&gt;
-			&lt;div class="author-description"&gt;
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;span style="background-color:transparent;color:#000000;font-family:Lora,serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt;Escritor, periodista y fotógrafo nacido en Bogotá en 1994. Autor del libro &lt;/span&gt;&lt;em&gt;&lt;span style="background-color:transparent;color:#000000;font-family:Lora,serif;font-size:11pt;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt;How I Met Your Mother&lt;/span&gt;&lt;/em&gt;&lt;span style="background-color:transparent;color:#000000;font-family:Lora,serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt; (Rey Naranjo, 2022). Ha colaborado con diversos medios y organizaciones como Semana, El Malpensante, Don Juan, El Espectador, El Tiempo, Banco de la República, CTXT (España), El Destape (Argentina) y SoHo. Ganador del Premio Nacional de Periodismo Simón Bolívar en 2019 por su crónica «Mi abuelo y la marihuana». En 2020, finalista del IX Premio Nacional de Cuento La Cueva. Sigue escribiendo, dirige narrativa en proyectos con inteligencia artificial y produce pódcast.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-			&lt;div class="author-social" style="margin-top: -5px;"&gt;
-				
-				
-				
-				
-			&lt;/div&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class="nuvoll-author-detail-right-mobile"&gt;
-
-
-	&lt;div class="author_article_detail nuvoll-author-detail"&gt;
-
-
-
-				&lt;div class="author-picture  d-flex left-container"&gt;
-			&lt;a href="https://bacanika.com/nicolas-rocha-cortes" style="width: 50px;height: 50px;"&gt;
-								&lt;picture&gt;
-						&lt;img src="https://bacanika.com/sites/default/files/2024-05/nicolas_rocha_bacanika_imagen_perfil_autor.webp"
-						class="img-fluid pr-2 nuvoll-siimage" alt="Nicolás Rocha Cortés"
-						title=""&gt;
-					&lt;/picture&gt;
-							&lt;/a&gt;
-
-			&lt;a href="https://bacanika.com/nicolas-rocha-cortes" class="d-flex align-items-center  author-name"&gt;Nicolás Rocha Cortés&lt;/a&gt;
-
-		&lt;/div&gt;
-
-
-
-
-
-		
-
-
-
-
-
-		&lt;div class="author-info right-container pb-5"&gt;
-			&lt;div class="author-description pb-1"&gt;
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;span style="background-color:transparent;color:#000000;font-family:Lora,serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt;Escritor, periodista y fotógrafo nacido en Bogotá en 1994. Autor del libro &lt;/span&gt;&lt;em&gt;&lt;span style="background-color:transparent;color:#000000;font-family:Lora,serif;font-size:11pt;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt;How I Met Your Mother&lt;/span&gt;&lt;/em&gt;&lt;span style="background-color:transparent;color:#000000;font-family:Lora,serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt; (Rey Naranjo, 2022). Ha colaborado con diversos medios y organizaciones como Semana, El Malpensante, Don Juan, El Espectador, El Tiempo, Banco de la República, CTXT (España), El Destape (Argentina) y SoHo. Ganador del Premio Nacional de Periodismo Simón Bolívar en 2019 por su crónica «Mi abuelo y la marihuana». En 2020, finalista del IX Premio Nacional de Cuento La Cueva. Sigue escribiendo, dirige narrativa en proyectos con inteligencia artificial y produce pódcast.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-			&lt;div class="author-social" style="margin-top: -5px;"&gt;
-					
-					
-					
-					
-			&lt;/div&gt;
-		&lt;/div&gt;
-
-
-
-
-
-	&lt;/div&gt;
-		
-		
-&lt;/div&gt;
-                            &lt;/div&gt;
-        &lt;/div&gt;
-    </content>
-</entry>
-<entry>
   <title>Primeros auxilios (muy básicos) para salvar tus matas</title>
   <link href="https://bacanika.com/recomendaciones-para-salvar-plantas"/>
   <id>https://bacanika.com/recomendaciones-para-salvar-plantas</id>
@@ -8910,13 +8595,12 @@
   <id>https://bacanika.com/desayuno-bienestar-ritual-diario</id>
   <published>2026-09-22T12:00:00-05:00</published>
   <updated>2026-09-22T12:00:00-05:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HQqLshhfX38/maxresdefault.jpg"/>
-  <media:content url="https://img.youtube.com/vi/HQqLshhfX38/maxresdefault.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://img.youtube.com/vi/HQqLshhfX38/maxresdefault.jpg"/>
-  <webfeeds:featuredImage>https://img.youtube.com/vi/HQqLshhfX38/maxresdefault.jpg</webfeeds:featuredImage>
+  <link rel="enclosure" type="image/webp" href="https://bacanika.com/sites/default/files/2026-09/el-ritual-del-desyuno_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp"/>
+  <media:content url="https://bacanika.com/sites/default/files/2026-09/el-ritual-del-desyuno_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp" medium="image" type="image/webp"/>
+  <media:thumbnail url="https://bacanika.com/sites/default/files/2026-09/el-ritual-del-desyuno_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp"/>
+  <webfeeds:featuredImage>https://bacanika.com/sites/default/files/2026-09/el-ritual-del-desyuno_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp</webfeeds:featuredImage>
   <summary>Bienestar: Dicen que el desayuno es la comida más importante del día, pero la rutina diaria hace que muchos no le den el lugar que merece. Darnos un espacio y un tiempo para desayunar de manera tranquila y consciente, como es merecido, puede potenciar nuestro bienestar cotidiano de manera d</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://img.youtube.com/vi/HQqLshhfX38/maxresdefault.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://bacanika.com/sites/default/files/2026-09/el-ritual-del-desyuno_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp"&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src="https://bacanika.com/sites/default/files/2026-09/el-ritual-del-desyuno_bacanika_externa_home_secciones%20%5BFormato%2001%5D.webp" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
                     
             &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;
 &lt;div style="height:50px" aria-hidden="true" class="wp-block-spacer"&gt;&lt;/div&gt;
