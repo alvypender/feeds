@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude se convierte en workspace todo-en-uno: Whiteboards, Sheets, conectores interactivos, Design y Projects con hilos orquestados — Frame &amp; Prompt</title>
+  <meta name="description" content="Anthropic ha transformado Claude en un espacio de trabajo integral donde planificar, construir y diseñar ocurre sin salir del chat. La oleada incluye Whiteboards para brainstorming visual, Sheets nativas, conectores que abren Notion dentro de Claude, Design con sistemas de marca y Projects con hilos">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Claude se convierte en workspace todo-en-uno: Whiteboards, Sheets, conectores interactivos, Design y Projects con hilos orquestados">
+  <meta property="og:description" content="Anthropic ha transformado Claude en un espacio de trabajo integral donde planificar, construir y diseñar ocurre sin salir del chat. La oleada incluye Whiteboards para brainstorming visual, Sheets nativas, conectores que abren Notion dentro de Claude, Design con sistemas de marca y Projects con hilos">
+  <meta property="og:image" content="https://i.ytimg.com/vi/h7oIQqSuqjc/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-h7oIQqSuqjc.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Claude se convierte en workspace todo-en-uno: Whiteboards, Sheets, conectores interactivos, Design y Projects con hilos orquestados">
+  <meta name="twitter:description" content="Anthropic ha transformado Claude en un espacio de trabajo integral donde planificar, construir y diseñar ocurre sin salir del chat. La oleada incluye Whiteboards para brainstorming visual, Sheets nativas, conectores que abren Notion dentro de Claude, Design con sistemas de marca y Projects con hilos">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/h7oIQqSuqjc/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-h7oIQqSuqjc.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Claude se convierte en workspace todo-en-uno: Whiteboards, Sheets, conectores interactivos, Design y Projects con hilos orquestados</h1>
+        <div class="metadata">
+          <span>Por <strong>Paul J Lipsky</strong></span>
+          <time datetime='2026-11-25T17:05:55.340513-05:00'>2026-11-25</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/h7oIQqSuqjc" title="Claude se convierte en workspace todo-en-uno: Whiteboards, Sheets, conectores interactivos, Design y Projects con hilos orquestados" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=h7oIQqSuqjc" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Anthropic ha transformado Claude en un espacio de trabajo integral donde planificar, construir y diseñar ocurre sin salir del chat. La oleada incluye Whiteboards para brainstorming visual, Sheets nativas, conectores que abren Notion dentro de Claude, Design con sistemas de marca y Projects con hilos orquestados. El veredicto de Paul J Lipsky es claro: Projects supera a Duet, y Opus 5.5 basta para el 95% de las tareas; Fable 5.2 queda para diseño exigente.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Paul J Lipsky</strong>: <a href="https://www.youtube.com/watch?v=h7oIQqSuqjc" target="_blank" rel="noopener">Claude Is So Different Now (Every Update That Matters)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del chat de texto al lienzo visual: Whiteboards y Sheets</h3>
+<p>La primera gran mutación es <strong>Claude Whiteboards</strong>, un espacio de brainstorming visual que sustituye la pared de texto por un lienzo interactivo. En lugar de recibir un volcado de ideas en párrafos, el usuario obtiene diagramas, iconos y notas que puede mover, reorganizar y anotar con stickers. La clave para exprimirlo está en el prompt: pedir explícitamente que el whiteboard sea <em>«extremadamente rico visualmente, con menos palabras y más imágenes, iconos y diagramas»</em>. Una vez construido, un comando permite convertirlo en documento o presentación, cerrando el ciclo de la idea al entregable.</p>
+<p>Le sigue <strong>Claude Sheets</strong>, hojas de cálculo nativas dentro de la interfaz con soporte para fórmulas, formato, gráficos y comentarios por celda. La diferencia frente a una hoja tradicional es que Claude puede razonar sobre ella y modificarla en lenguaje natural. El autor comprobó que el resultado mejora sustancialmente cuando se pide <em>«más colores, gráficos, tablas y calculadoras de ingresos proyectados»</em>: la hoja se convierte en un dashboard funcional con proyecciones actualizables. Además, al hacer clic derecho en una celda aparece la opción <strong>«Ask Claude»</strong>, que permite referirse a celdas concretas —por ejemplo, D10— sin ambigüedad, agilizando la iteración.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Conectores interactivos: Notion dentro de Claude y el contexto compartido</h3>
+<p>El salto cualitativo llega con los <strong>conectores interactivos</strong>, que ya no se limitan a leer datos de terceros sino que abren aplicaciones completas dentro de Claude. El caso paradigmático es <strong>Notion</strong>: al abrirlo como conector, la experiencia es idéntica a la nativa, pero con una ventaja decisiva: Claude ve automáticamente la página en la que el usuario está trabajando, eliminando la necesidad de especificarla en el prompt. Esa continuidad de contexto reduce la fricción y acelera tareas de documentación y organización.</p>
+<p>En la misma línea, <strong>Claude Data</strong> —antes Dashboards— permite crear dashboards visuales con gráficos de barras, líneas y tablas a partir de datos. La combinación de Sheets, Data y conectores dibuja un ecosistema donde el análisis y la presentación de información ocurren en el mismo lugar, sin exportar a herramientas externas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Claude Design: de la herramienta standalone al sistema de diseño integrado</h3>
+<p>La integración más relevante para equipos creativos es <strong>Claude Design</strong>, que abandona su versión standalone para incorporarse al flujo principal. Ahora permite crear y aplicar <strong>design systems</strong> —kits de marca— para que todo lo generado mantenga colores, fuentes y estilo consistentes. Se puede invocar desde cualquier chat pidiendo <em>«create slides»</em> o <em>«create a slide deck»</em>, y Claude usará automáticamente la herramienta de presentaciones. El resultado abarca presentaciones, motion graphics y sitios web.</p>
+<p>Hay una fecha crítica que el autor subraya: los proyectos de la versión standalone deben migrarse antes del <strong>14 de diciembre de 2026</strong> usando el botón <strong>«Move»</strong>; de lo contrario, se perderá el acceso. Es un recordatorio de que la consolidación de herramientas conlleva plazos que conviene anotar.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Duet frente a Projects: la preferencia del autor y el flujo orquestado</h3>
+<p>Anthropic también expande <strong>Claude Duet</strong>, un agente proactivo siempre activo basado en Opus 5.5 que monitorea herramientas conectadas y ejecuta tareas en segundo plano. Está en <em>research preview</em> y se está desplegando en suscripciones Pro, Max y Ultra. Sin embargo, el veredicto del autor es negativo: Duet no se integra bien con conversaciones y proyectos existentes, y resulta frustrante en la práctica. Su preferencia es clara por <strong>Claude Projects</strong>.</p>
+<p>Projects funciona con un <strong>chat orquestador</strong> que recibe tareas y crea hilos separados para cada una, manteniendo informado al usuario en el chat principal. Es posible adjuntar carpetas locales para acceso persistente a todos los archivos, y fijar proyectos importantes en la barra lateral con colores e iconos únicos. El autor lo usa para edición de videos: un proyecto con un hilo por video permite retomar ediciones específicas sin perder contexto, y pedir cambios adicionales desde el orquestador los dirige al hilo correcto. Es, en la práctica, un sistema de gestión de trabajo asíncrono dentro del propio Claude.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Modelos: Opus 5.5 para casi todo, Fable 5.2 para el diseño exigente</h3>
+<p>En el plano de los modelos, <strong>Fable 5.2</strong> es el más potente de Anthropic hasta la fecha, orientado a trabajo ambicioso y creativo, especialmente diseño. Está disponible en planes Max y Ultra con una asignación semanal propia; en Pro se accede mediante créditos de uso extra. Frente a él, <strong>Opus 5.5</strong> ofrece un equilibrio entre inteligencia, velocidad y costo que lo hace eficiente para un uso amplio sin alcanzar límites con facilidad.</p>
+<p>La recomendación del autor es tajante: usar <strong>Opus 5.5 para el 95% de las tareas</strong> y reservar Fable 5.2 para trabajo creativo o de diseño muy exigente. Es una guía práctica que evita el error común de recurrir siempre al modelo más caro cuando el equilibrio del intermedio cubre casi todo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La app móvil y el rediseño que completa el ecosistema</h3>
+<p>El ecosistema se cierra con un rediseño de la <strong>app móvil de Claude</strong>, que incorpora nuevas pestañas: <strong>Chat, Projects, Code y Artifacts</strong>. La reorganización refleja la nueva jerarquía del producto: el chat deja de ser el único centro y pasa a convivir con proyectos persistentes, ejecución de código y artefactos generados. Para el usuario, esto significa que la lógica de workspace se traslada también al móvil, manteniendo la continuidad entre dispositivos.</p>
+<p>En conjunto, la oleada de actualizaciones convierte a Claude en un espacio donde planificación, construcción y diseño ocurren sin salir de la aplicación. Whiteboards y Sheets cubren la ideación y el análisis; los conectores interactivos eliminan el salto a otras apps; Design aporta coherencia de marca; Projects organiza el trabajo en hilos; y los modelos ofrecen la potencia adecuada según la tarea. La conclusión es que la fragmentación de herramientas empieza a ceder frente a un entorno unificado, con la salvedad de que Duet aún no está a la altura y de que la migración de Design tiene fecha límite.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Fecha límite para migrar proyectos de Claude Design standalone: 14 de diciembre de 2026, usando el botón «Move».</li>
+<li>Regla de modelos: Opus 5.5 para el 95% de las tareas; Fable 5.2 solo para diseño o trabajo creativo muy exigente.</li>
+<li>Prompt para Whiteboards: pide «extremadamente rico visualmente, con menos palabras y más imágenes, iconos y diagramas».</li>
+<li>En Sheets, clic derecho en una celda y «Ask Claude» para referirte a celdas concretas como D10.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Claude Whiteboards</strong> — Espacio de brainstorming visual interactivo dentro de Claude para planificar y organizar ideas.</li>
+<li><strong>Claude Sheets</strong> — Hojas de cálculo nativas con fórmulas, formato, gráficos y comentarios por celda.</li>
+<li><strong>Claude Connectors (interactivos)</strong> — Abren aplicaciones de terceros como Notion como apps completas dentro de Claude, con contexto compartido.</li>
+<li><strong>Claude Data (antes Dashboards)</strong> — Creación de dashboards visuales con gráficos de barras, líneas y tablas a partir de datos.</li>
+<li><strong>Claude Design</strong> — Herramienta para presentaciones, motion graphics y sitios web; ahora integrada con sistemas de diseño.</li>
+<li><strong>Claude Duet</strong> — Agente proactivo siempre activo basado en Opus 5.5 que monitorea herramientas conectadas y ejecuta tareas en segundo plano.</li>
+<li><strong>Claude Projects</strong> — Sistema de proyectos con chat orquestador que genera hilos separados para tareas, con contexto persistente y archivos adjuntos.</li>
+<li><strong>Opus 5.5</strong> — Modelo equilibrado en inteligencia, velocidad y costo; recomendado para la mayoría de tareas.</li>
+<li><strong>Fable 5.2</strong> — Modelo más potente de Anthropic para trabajo ambicioso y creativo, especialmente diseño.</li>
+<li><strong>Notion</strong> — App de notas y organización que se puede abrir como conector interactivo dentro de Claude.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-h7oIQqSuqjc.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>De 3 fotos a un anuncio de 47 segundos: cómo editar con ChatGPT y el plugin de CapCut usando Seedance 2.5 y Seedream 5.0 — Frame &amp; Prompt</title>
+  <meta name="description" content="El plugin oficial de CapCut dentro de ChatGPT permite planificar, generar escenas y montar un anuncio completo sin salir de la conversación. Youri van Hofwegen lo demuestra creando un spot de 47 segundos para una tienda de cestas de ratán a partir de tres fotos: ChatGPT planifica, Seedream 5.0 fija ">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="De 3 fotos a un anuncio de 47 segundos: cómo editar con ChatGPT y el plugin de CapCut usando Seedance 2.5 y Seedream 5.0">
+  <meta property="og:description" content="El plugin oficial de CapCut dentro de ChatGPT permite planificar, generar escenas y montar un anuncio completo sin salir de la conversación. Youri van Hofwegen lo demuestra creando un spot de 47 segundos para una tienda de cestas de ratán a partir de tres fotos: ChatGPT planifica, Seedream 5.0 fija ">
+  <meta property="og:image" content="https://i.ytimg.com/vi/RAPOrFZmtpU/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-RAPOrFZmtpU.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="De 3 fotos a un anuncio de 47 segundos: cómo editar con ChatGPT y el plugin de CapCut usando Seedance 2.5 y Seedream 5.0">
+  <meta name="twitter:description" content="El plugin oficial de CapCut dentro de ChatGPT permite planificar, generar escenas y montar un anuncio completo sin salir de la conversación. Youri van Hofwegen lo demuestra creando un spot de 47 segundos para una tienda de cestas de ratán a partir de tres fotos: ChatGPT planifica, Seedream 5.0 fija ">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/RAPOrFZmtpU/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-RAPOrFZmtpU.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">De 3 fotos a un anuncio de 47 segundos: cómo editar con ChatGPT y el plugin de CapCut usando Seedance 2.5 y Seedream 5.0</h1>
+        <div class="metadata">
+          <span>Por <strong>Youri van Hofwegen</strong></span>
+          <time datetime='2026-11-25T17:06:05.340513-05:00'>2026-11-25</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/RAPOrFZmtpU" title="De 3 fotos a un anuncio de 47 segundos: cómo editar con ChatGPT y el plugin de CapCut usando Seedance 2.5 y Seedream 5.0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=RAPOrFZmtpU" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">El plugin oficial de CapCut dentro de ChatGPT permite planificar, generar escenas y montar un anuncio completo sin salir de la conversación. Youri van Hofwegen lo demuestra creando un spot de 47 segundos para una tienda de cestas de ratán a partir de tres fotos: ChatGPT planifica, Seedream 5.0 fija la consistencia del producto con una hoja de referencia y Seedance 2.5 genera cinco escenas con audio. El montaje automático produce un borrador editable en CapCut con voiceover, música y subtítulos; tras corregir los subtítulos y guardar el estilo como skill, el resultado es un anuncio profesional con ajustes manuales mínimos.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Youri van Hofwegen</strong>: <a href="https://www.youtube.com/watch?v=RAPOrFZmtpU" target="_blank" rel="noopener">How to Edit Videos with ChatGPT + CapCut AI (Full Tutorial)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El plugin que convierte ChatGPT en un editor de video</h3>
+<p>La integración de CapCut en ChatGPT no es una promesa futura: es un plugin oficial que se instala en poco más de un minuto y funciona en escritorio, web y móvil. El proceso comienza en CapCut, dentro del <strong>Video Editor</strong>, donde se hace clic en el icono de plugin y se copia el prompt de instalación. Ese texto se pega en la aplicación de escritorio de ChatGPT y se activa la opción <strong>Approve For Me</strong> para evitar confirmaciones constantes durante la conversación. A partir de ahí, cada mensaje debe comenzar con las palabras <strong>Use CapCut 2</strong> para asegurar que ChatGPT invoque el plugin y no improvise una respuesta genérica.</p>
+<p>La clave para no perder el control del proyecto es pedir a ChatGPT que planifique todo el anuncio en pasos antes de generar nada. En el tutorial, el autor solicita una hoja de referencia, cinco escenas y la edición final, de modo que puede revisar el plan y corregir el rumbo antes de que se consuman generaciones. Este enfoque convierte a ChatGPT en una suerte de productor que propone un storyboard, escribe los prompts y ejecuta la edición, pero siempre con la posibilidad de intervenir en cada etapa.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La hoja de referencia: el secreto para que el producto no cambie de escena en escena</h3>
+<p>El mayor riesgo al generar varias escenas con IA es que el producto parezca distinto en cada una. Para evitarlo, el flujo genera primero una <strong>hoja de referencia</strong> con <strong>Seedream 5.0</strong> a 2K y formato 16:9. En ella se muestra el mismo cesto de ratán desde tres ángulos —frontal, lateral y ángulo alto— sobre un fondo neutro. El prompt debe describir el producto con gran detalle: el borde trenzado, las asas en bucle y cualquier rasgo que luego deba repetirse. Esa hoja se convierte en la fuente de verdad visual para las escenas posteriores.</p>
+<p>La consistencia no depende solo de la imagen, sino de la repetición literal de la descripción en cada prompt de escena. El autor incluye la misma descripción exacta del producto en todos los prompts y añade una instrucción para que la acción comience en el primer fotograma, logrando un efecto de <em>mitad de acción</em> que hace que los clips parezcan tomas reales de teléfono. Sin esa hoja de referencia y sin la repetición del texto, las escenas derivarían en variaciones no deseadas del cesto.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Cinco escenas, tres tomas por escena: así se genera el metraje con Seedance 2.5</h3>
+<p>Con la hoja de referencia lista, ChatGPT escribe los prompts para <strong>Seedance 2.5</strong> y genera cinco escenas: cuatro de 10 segundos y la última de 7 segundos, todas a 1080p, formato 9:16 y con audio activado. Cada escena se divide en tres tomas rápidas de mano, y al final del prompt se añade una línea de sonido para que el audio generado incluya efectos como pasos o golpes sin necesidad de añadirlos en la edición. El autor destaca especialmente una escena en la que unos niños lanzan peluches al cesto: el movimiento y la apariencia del producto se mantienen consistentes, lo que demuestra que la hoja de referencia cumple su función incluso con acción compleja.</p>
+<p>Un consejo técnico que recorre todo el tutorial es evitar incluir texto dentro de los videos generados por IA. Cualquier palabra o grafismo queda fijado en la imagen y no se puede corregir después; por eso, todo el texto —gancho, CTA y subtítulos— se añade durante la edición en CapCut. Esta separación entre generación y postproducción es la que permite iterar sin volver a generar los clips.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El prompt de edición: donde se decide el ritmo, el audio y los subtítulos</h3>
+<p>La edición automática no se deja al azar. El autor escribe un mensaje detallado a ChatGPT especificando el orden de las escenas, el voiceover desde el primer segundo, la música por debajo de la voz, la atenuación de la música en el último segundo y medio, transiciones simples, un texto de gancho en los primeros 2.5 segundos y un CTA en los últimos 3 segundos. También define el estilo de fuente: negrita blanca con sombra suave, y subtítulos automáticos de 2 a 4 palabras en el tercio inferior. Cuanto más específico es el prompt, menos ajustes manuales requiere el borrador.</p>
+<p>El primer montaje produjo un anuncio de 47 segundos en 9:16 con voiceover, música, subtítulos y textos, pero los subtítulos aparecieron con fondos negros no deseados. El autor pidió a ChatGPT que eliminara esos fondos, aumentara el tamaño en un 20% y verificara líneas parpadeantes. Tras la corrección, los subtítulos quedaron como se solicitó. Ese estilo corregido se guarda como una <strong>skill</strong> en ChatGPT —bautizada como <em>CapCut Caption Style</em>— para reutilizarlo en futuros videos sin tener que explicar los ajustes de nuevo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del borrador automático al proyecto editable en CapCut</h3>
+<p>El resultado de la edición automática se abre en CapCut como un proyecto editable con pistas separadas para escenas, voiceover, música, subtítulos y textos. Esa estructura es la que permite los ajustes finos: el autor movió manualmente el texto de gancho a la parte superior del encuadre para despejar la acción, un cambio que era más rápido de hacer a mano que de describir en un prompt. La conclusión es que el flujo permite crear un anuncio profesional en poco tiempo usando solo lenguaje natural, con la posibilidad de retocar lo que sea más ágil en el editor.</p>
+<p>La combinación de planificación conversacional, hoja de referencia para la consistencia y edición detallada en el prompt reduce drásticamente el trabajo posterior. El anuncio final dura 47 segundos, un formato habitual en redes, y se construyó a partir de tres fotos, un voiceover y una pista de música. La barrera técnica se desploma: no hace falta saber montar para obtener un borrador sólido, y quien sepa montar puede concentrarse en los detalles que la IA aún no resuelve con precisión.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Cada mensaje a ChatGPT debe comenzar con &#x27;Use CapCut 2&#x27; para invocar el plugin.</li>
+<li>La hoja de referencia se genera con Seedream 5.0 a 2K y 16:9; las escenas con Seedance 2.5 a 1080p, 9:16 y audio activado.</li>
+<li>Duración de escenas: 4 de 10 segundos y la última de 7 segundos; anuncio final de 47 segundos.</li>
+<li>Evita texto en los clips generados por IA: añádelo siempre en la edición de CapCut.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://www.capcut.com/tools/capcut-x-codex" target="_blank" rel="noopener"><strong>CapCut Plugin para ChatGPT</strong></a> — Permite a ChatGPT planificar y ejecutar ediciones de video en una cuenta de CapCut.</li>
+<li><strong>Seedream 5.0</strong> — Modelo de imagen usado para la hoja de referencia del producto con múltiples vistas.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de video usado para generar las escenas con audio integrado.</li>
+<li><a href="https://www.capcut.com" target="_blank" rel="noopener"><strong>CapCut</strong></a> — Editor donde se monta el proyecto final y se guardan estilos de subtítulos.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-RAPOrFZmtpU.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
