@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>OhMyGeek! – Completo</title>
 <link href="https://ohmygeek.net/"/>
 <id>https://ohmygeek.net/</id>
@@ -11,8 +11,9 @@
   <published>2026-11-24T23:46:00+00:00</published>
   <updated>2026-11-24T23:46:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2024/08/Huawei-Corte-Juez-Demanda.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2024/08/Huawei-Corte-Juez-Demanda.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2024/08/Huawei-Corte-Juez-Demanda.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2024/08/Huawei-Corte-Juez-Demanda.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2024/08/Huawei-Corte-Juez-Demanda.webp</webfeeds:featuredImage>
   <summary>Huawei dijo que apelará el fallo y que las disputas por propiedad intelectual ya se habían cerrado en juicios civiles.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2024/08/Huawei-Corte-Juez-Demanda.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Declaran culpable a Huawei en Estados Unidos por fraude bancario y robo de secretos comerciales&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Redacción OhMyGeek! | Tecnologí­as • Estados Unidos • Huawei&lt;/em&gt;&lt;/p&gt;
@@ -26,8 +27,9 @@
   <published>2026-11-24T17:32:00+00:00</published>
   <updated>2026-11-24T17:32:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Muse-en-Instagram.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Muse-en-Instagram.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Muse-en-Instagram.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Muse-en-Instagram.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Muse-en-Instagram.webp</webfeeds:featuredImage>
   <summary>La integración incluye conectores con el correo y calendario, además de controles para decidir si Muse actúa por su cuenta o pide permiso.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Muse-en-Instagram.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Muse ahora está en Instagram: te ayudará a generar contenido, organizar tus chats y agenda&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Felipe Ovalle | Internet • Inteligencia Artificial • Agentes IA&lt;/em&gt;&lt;/p&gt;
@@ -41,8 +43,9 @@
   <published>2026-11-24T07:58:00+00:00</published>
   <updated>2026-11-24T07:58:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Donald-Trump-Meme.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Donald-Trump-Meme.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Donald-Trump-Meme.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Donald-Trump-Meme.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Donald-Trump-Meme.webp</webfeeds:featuredImage>
   <summary>La junta perdonó las faltas al código de conducta de Jensen y lo restituyó en el cargo luego de que EE. UU. descartara delitos de espionaje.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Donald-Trump-Meme.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Al menos 4 son los engaños extramaritales de Jensen Huang que confesó al directorio de Nvidia&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Redacción OhMyGeek! | Industria • CEO • Jensen Huang&lt;/em&gt;&lt;/p&gt;
@@ -56,8 +59,9 @@
   <published>2026-11-23T18:51:36+00:00</published>
   <updated>2026-11-23T18:51:36+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Honor-700.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Honor-700.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Honor-700.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Honor-700.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Honor-700.webp</webfeeds:featuredImage>
   <summary>La nueva línea de teléfonos Honor 700 acaba de ser presentada en China. Serie que está integrada por el modelo base, el 700 Pro y el 700S. Los tres equipos</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Honor-700.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Honor lanza su nueva serie Honor 700 en China, ahora con pantalla trasera y batería de 9.000 mAh&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Felipe Ovalle | Dispositivos • China • HONOR&lt;/em&gt;&lt;/p&gt;
@@ -71,8 +75,9 @@
   <published>2026-11-23T18:09:26+00:00</published>
   <updated>2026-11-23T18:09:26+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Samsung-Odyssey-G6-G60H.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Samsung-Odyssey-G6-G60H.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Samsung-Odyssey-G6-G60H.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Samsung-Odyssey-G6-G60H.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Samsung-Odyssey-G6-G60H.webp</webfeeds:featuredImage>
   <summary>Odyssey G6 trabaja de forma nativa en resolución QHD a 600 Hz, pero usa un modo dual que baja a 720p para lograr su máxima velocidad.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Samsung-Odyssey-G6-G60H.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Samsung Odyssey G6 G60H, el primer monitor con 1.100 Hz de refresco, se venderá desde diciembre&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Redacción OhMyGeek! | Dispositivos • Videojuegos • Monitores&lt;/em&gt;&lt;/p&gt;
@@ -86,8 +91,9 @@
   <published>2026-11-23T14:24:26+00:00</published>
   <updated>2026-11-23T14:24:26+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Feliz.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Feliz.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Feliz.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Feliz.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Feliz.webp</webfeeds:featuredImage>
   <summary>Pese a recuperar su cargo, seguirá la investigación por presunto espionaje extranjero y Jensen Huang deberá ir al Congreso el 1 de diciembre.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Jensen-Huang-Feliz.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Jensen Huang el regreso: Nvidia le devuelve el puesto de CEO, 11 días después de renunciar&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Felipe Ovalle | Industria • CEO • Nvidia&lt;/em&gt;&lt;/p&gt;
@@ -101,8 +107,9 @@
   <published>2026-11-22T19:21:59+00:00</published>
   <updated>2026-11-22T19:21:59+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Motorola-Razr-Flex-Filtracion-01.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Motorola-Razr-Flex-Filtracion-01.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Motorola-Razr-Flex-Filtracion-01.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Motorola-Razr-Flex-Filtracion-01.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Motorola-Razr-Flex-Filtracion-01.webp</webfeeds:featuredImage>
   <summary>El Motorola Razr Flex quedó al descubierto por culpa de nuevas imágenes filtradas de su aspecto que muestran al primer teléfono plegable de formato ancho de</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Motorola-Razr-Flex-Filtracion-01.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Así es el Razr Flex, el nuevo plegable tipo libro con el que Motorola peleará contra Samsung y Apple&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Felipe Ovalle | Dispositivos • Filtraciones • Motorola&lt;/em&gt;&lt;/p&gt;
@@ -115,8 +122,9 @@
   <published>2026-11-22T15:15:18+00:00</published>
   <updated>2026-11-22T15:15:18+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/fiona-hipopotamo.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/fiona-hipopotamo.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/fiona-hipopotamo.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/fiona-hipopotamo.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/fiona-hipopotamo.webp</webfeeds:featuredImage>
   <summary>La prenda cayó por accidente donde Fiona tras golpear un ventilador y le provocó un bloqueo intestinal que los veterinarios no pudieron operar.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/fiona-hipopotamo.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Muere la famosa hipopótamo Fiona en el zoológico de Cincinnati tras tragar el gorro de un visitante&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Redacción OhMyGeek! | Cultura Pop • Animales • Estados Unidos&lt;/em&gt;&lt;/p&gt;
@@ -131,8 +139,9 @@
   <published>2026-11-20T21:07:00+00:00</published>
   <updated>2026-11-20T21:07:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Signal-seguridad-pantalla-contra-ia.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Signal-seguridad-pantalla-contra-ia.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Signal-seguridad-pantalla-contra-ia.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Signal-seguridad-pantalla-contra-ia.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Signal-seguridad-pantalla-contra-ia.webp</webfeeds:featuredImage>
   <summary>Al tomar un pantallazo en Signal, se guarda una imagen negra. Ahora debes cambiar un ajuste si necesitas desactivar esta protección.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Signal-seguridad-pantalla-contra-ia.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Signal ahora bloquea las capturas de pantalla en celulares para evitar que la IA lea tus chats&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Redacción OhMyGeek! | Inteligencia Artificial • Software • Mensajería Instantánea&lt;/em&gt;&lt;/p&gt;
@@ -146,8 +155,9 @@
   <published>2026-11-20T09:44:00+00:00</published>
   <updated>2026-11-20T09:44:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Gemini-control-macos.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Gemini-control-macos.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Gemini-control-macos.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Gemini-control-macos.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Gemini-control-macos.webp</webfeeds:featuredImage>
   <summary>Gemini trabaja en una ventana en segundo plano, donde llena formularios o arma presentaciones mientras tu pantalla y el cursor quedan libres.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Gemini-control-macos.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Google actualiza Gemini en Mac para que la inteligencia artificial use el computador por ti&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Adrián Vega | Inteligencia Artificial • Gemini • Google&lt;/em&gt;&lt;/p&gt;
@@ -161,8 +171,9 @@
   <published>2026-11-19T22:27:04+00:00</published>
   <updated>2026-11-19T22:27:04+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Lexie-Shoaibi-Mandy-GTA-6.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Lexie-Shoaibi-Mandy-GTA-6.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Lexie-Shoaibi-Mandy-GTA-6.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Lexie-Shoaibi-Mandy-GTA-6.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Lexie-Shoaibi-Mandy-GTA-6.webp</webfeeds:featuredImage>
   <summary>La artista dio voz y movimiento a la vecina NPC, Mandy, que intenta seducir a Jason cuando va a arreglar las tuberías de su casa.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Lexie-Shoaibi-Mandy-GTA-6.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Mandy en GTA 6: la actriz Lexie Shoaibi cuenta que interpreta al popular personaje&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Felipe Ovalle | Videojuegos • Videos • Grand Theft Auto&lt;/em&gt;&lt;/p&gt;
@@ -177,8 +188,9 @@
   <published>2026-11-19T19:25:32+00:00</published>
   <updated>2026-11-19T19:25:32+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/carolina-rossi-ximena-lincolao.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/carolina-rossi-ximena-lincolao.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/carolina-rossi-ximena-lincolao.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/carolina-rossi-ximena-lincolao.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/carolina-rossi-ximena-lincolao.webp</webfeeds:featuredImage>
   <summary>Carolina Calvo asumió el cargo de forma subrogante. Con la salida de Rossi, ya son 60 las autoridades que dejan el gobierno.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/carolina-rossi-ximena-lincolao.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Carolina Rossi deja la Subsecretaría de Ciencia tras su conflicto con la ministra Ximena Lincolao&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Redacción OhMyGeek! | Ciencia • Chile • Polí­tica&lt;/em&gt;&lt;/p&gt;
@@ -192,8 +204,9 @@
   <published>2026-11-18T21:28:00+00:00</published>
   <updated>2026-11-18T21:28:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Instagram-Editar-Historias.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Instagram-Editar-Historias.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Instagram-Editar-Historias.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Instagram-Editar-Historias.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Instagram-Editar-Historias.webp</webfeeds:featuredImage>
   <summary>Puedes cambiar los textos, stickers, música y dibujos sin perder los «me gusta». Eso sí, no puedes modificar la foto o video de las historias.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Instagram-Editar-Historias.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Instagram ahora te deja editar las historias después de publicarlas sin tener que borrarlas&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Felipe Ovalle | Internet • Instagram • Redes sociales&lt;/em&gt;&lt;/p&gt;
@@ -208,8 +221,9 @@
   <published>2026-11-18T16:42:00+00:00</published>
   <updated>2026-11-18T16:42:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/SP-Digital-Quiebra.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/SP-Digital-Quiebra.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/SP-Digital-Quiebra.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/SP-Digital-Quiebra.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/SP-Digital-Quiebra.webp</webfeeds:featuredImage>
   <summary>Pese a vender 27 millones de dólares en 2025, SP Digital arrastraba falta de dinero desde 2022 y funcionaba a base de créditos.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/SP-Digital-Quiebra.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;SP Digital presentó su quiebra: la tienda detalló sus millonarias deudas con bancos y proveedores&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Redacción OhMyGeek! | Tecnologí­as • Industria • Chile&lt;/em&gt;&lt;/p&gt;
@@ -223,8 +237,9 @@
   <published>2026-11-17T23:48:00+00:00</published>
   <updated>2026-11-17T23:48:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Nvidia-rechaza-Jensen-Huang.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Nvidia-rechaza-Jensen-Huang.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Nvidia-rechaza-Jensen-Huang.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Nvidia-rechaza-Jensen-Huang.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Nvidia-rechaza-Jensen-Huang.webp</webfeeds:featuredImage>
   <summary>El cofundador dejó su cargo tras conocerse relaciones con dos empleadas de la propia Nvidia y una presunta espía china.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Nvidia-rechaza-Jensen-Huang.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Nvidia rechaza el regreso de Jensen Huang como director ejecutivo pese a las presiones internas&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Redacción OhMyGeek! | Industria • CEO • Destacados&lt;/em&gt;&lt;/p&gt;
@@ -238,8 +253,9 @@
   <published>2026-11-17T21:02:00+00:00</published>
   <updated>2026-11-17T21:02:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Caida-Apple.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Caida-Apple.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Caida-Apple.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Caida-Apple.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Caida-Apple.webp</webfeeds:featuredImage>
   <summary>Apple atribuyó el problema a una actualización interna realizada por la mañana y de paso descartó que haya sido producto de un ataque.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Caida-Apple.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;¿Qué causó la caída de Apple que dejó sin funcionar a iCloud, Apple Music y AppleCare?&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Adrián Vega | Internet • Apple • Caí­das&lt;/em&gt;&lt;/p&gt;
@@ -253,8 +269,9 @@
   <published>2026-11-17T16:44:00+00:00</published>
   <updated>2026-11-17T16:44:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/Xiaomi-18-Pro.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Xiaomi-18-Pro.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/Xiaomi-18-Pro.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/Xiaomi-18-Pro.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/Xiaomi-18-Pro.webp</webfeeds:featuredImage>
   <summary>Incluyendo traducción simultánea en 29 idiomas, Xiaomi 18 Pro y Pro Max traen procesadores Snapdragon de sexta generación y grabación en 8K.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/Xiaomi-18-Pro.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;El Xiaomi 18 Pro debuta en el mercado internacional con doble pantalla y lentes Leica&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Felipe Ovalle | Dispositivos • Videos • Teléfonos&lt;/em&gt;&lt;/p&gt;
@@ -268,8 +285,9 @@
   <published>2026-11-17T13:47:00+00:00</published>
   <updated>2026-11-17T13:47:00+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/02/Galaxy-S26-Ultra-Camara.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/02/Galaxy-S26-Ultra-Camara.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/02/Galaxy-S26-Ultra-Camara.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/02/Galaxy-S26-Ultra-Camara.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/02/Galaxy-S26-Ultra-Camara.webp</webfeeds:featuredImage>
   <summary>El diseño final del Galaxy S27 Pro y Ultra ubica tres lentes, el flash LED y el micrófono en anillos circulares separados.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/02/Galaxy-S26-Ultra-Camara.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Conocido filtrador asegura 100 % que este es el diseño de las cámaras del Galaxy S27 Ultra y Pro&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Felipe Ovalle | Dispositivos • Filtraciones • Galaxy S&lt;/em&gt;&lt;/p&gt;
@@ -283,8 +301,9 @@
   <published>2026-11-16T22:53:18+00:00</published>
   <updated>2026-11-16T22:53:18+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/davidthechunk-Apple-Store-Persona-Sorda.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/davidthechunk-Apple-Store-Persona-Sorda.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/davidthechunk-Apple-Store-Persona-Sorda.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/davidthechunk-Apple-Store-Persona-Sorda.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/davidthechunk-Apple-Store-Persona-Sorda.webp</webfeeds:featuredImage>
   <summary>La tensa situación fue grabada por el propio tiktoker y su acompañante, ambos usando lentes Meta Ray-Ban dentro de la Apple Store.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/davidthechunk-Apple-Store-Persona-Sorda.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;«Él no habla, es sordo»: el feo desprecio de un tiktoker a un vendedor en una Apple Store que el supervisor frenó en seco&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Felipe Ovalle | Misceláneos • Apple • IG Links&lt;/em&gt;&lt;/p&gt;
@@ -298,8 +317,9 @@
   <published>2026-11-16T18:48:58+00:00</published>
   <updated>2026-11-16T18:48:58+00:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://ohmygeek.net/wp-content/uploads/2026/11/meteorito-lunar-Calama-957.webp"/>
-  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/meteorito-lunar-Calama-957.webp" medium="image"/>
+  <media:content url="https://ohmygeek.net/wp-content/uploads/2026/11/meteorito-lunar-Calama-957.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://ohmygeek.net/wp-content/uploads/2026/11/meteorito-lunar-Calama-957.webp"/>
+  <webfeeds:featuredImage>https://ohmygeek.net/wp-content/uploads/2026/11/meteorito-lunar-Calama-957.webp</webfeeds:featuredImage>
   <summary>Un equipo de exploradores chilenos y rusos encontró el meteorito lunar en la Región de Antofagasta tras tres décadas de búsquedas.</summary>
   <content type="html">&lt;figure style=&quot;margin: 0 0 16px 0;&quot;&gt;&lt;img src=&quot;https://ohmygeek.net/wp-content/uploads/2026/11/meteorito-lunar-Calama-957.webp&quot; style=&quot;max-width: 100%; height: auto; border-radius: 6px;&quot; alt=&quot;Calama 957: el primer meteorito lunar de Sudamérica fue encontrado en Chile&quot; /&gt;&lt;/figure&gt;
 &lt;p style=&quot;font-size: 0.88em; color: #64748b; margin-bottom: 14px;&quot;&gt;&lt;em&gt;Por Redacción OhMyGeek! | Ciencia • Chile • meteorito&lt;/em&gt;&lt;/p&gt;

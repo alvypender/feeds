@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
 <title>Banrep Cultural – Actividades en Bogotá</title>
 <link href="https://www.banrepcultural.org/actividades"/>
 <id>https://www.banrepcultural.org/actividades</id>
@@ -11,8 +11,9 @@
   <published>2026-11-24T14:48:33.356855-05:00</published>
   <updated>2026-11-24T14:48:33.356855-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Wan-2-%28Patrick-Murray%29-temporada-conciertos-2027-1920x1080_0.jpg?itok=sAzYZSEd"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Wan-2-%28Patrick-Murray%29-temporada-conciertos-2027-1920x1080_0.jpg?itok=sAzYZSEd" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Wan-2-%28Patrick-Murray%29-temporada-conciertos-2027-1920x1080_0.jpg?itok=sAzYZSEd" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Wan-2-%28Patrick-Murray%29-temporada-conciertos-2027-1920x1080_0.jpg?itok=sAzYZSEd"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Wan-2-%28Patrick-Murray%29-temporada-conciertos-2027-1920x1080_0.jpg?itok=sAzYZSEd</webfeeds:featuredImage>
   <summary>Arpa Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-08-08 (11:00am - 1:00pm) Noël Wan Programa- Actividades relacio</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Wan-2-%28Patrick-Murray%29-temporada-conciertos-2027-1920x1080_0.jpg?itok=sAzYZSEd" alt="Wan 2, foto Patrick Murray." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Arpa&lt;/p&gt;
@@ -27,8 +28,9 @@
   <published>2026-11-19T14:48:27.925294-05:00</published>
   <updated>2026-11-19T14:48:27.925294-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dueto-Encantados-foto-Marco-Roa-jovenes-interpretes-temporada-sala-conciertos-2027-1920x1080.jpg?itok=re_zkBOH"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dueto-Encantados-foto-Marco-Roa-jovenes-interpretes-temporada-sala-conciertos-2027-1920x1080.jpg?itok=re_zkBOH" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dueto-Encantados-foto-Marco-Roa-jovenes-interpretes-temporada-sala-conciertos-2027-1920x1080.jpg?itok=re_zkBOH" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dueto-Encantados-foto-Marco-Roa-jovenes-interpretes-temporada-sala-conciertos-2027-1920x1080.jpg?itok=re_zkBOH"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dueto-Encantados-foto-Marco-Roa-jovenes-interpretes-temporada-sala-conciertos-2027-1920x1080.jpg?itok=re_zkBOH</webfeeds:featuredImage>
   <summary>Dueto vocal Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Familias,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-04-04 (11:00am - 1:00pm) Creado </summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dueto-Encantados-foto-Marco-Roa-jovenes-interpretes-temporada-sala-conciertos-2027-1920x1080.jpg?itok=re_zkBOH" alt="Dueto Encantados, Jóvenes intérpretes 2027. Foto Marco Roa." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Dueto vocal&lt;/p&gt;
@@ -43,8 +45,9 @@
   <published>2026-11-13T20:47:35.839577-05:00</published>
   <updated>2026-11-13T20:47:35.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cuarteto-Eybler-foto-DahliaKatz-temporada-conciertos-2027-1920x1080.jpg?itok=GjbyphQ4"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cuarteto-Eybler-foto-DahliaKatz-temporada-conciertos-2027-1920x1080.jpg?itok=GjbyphQ4" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cuarteto-Eybler-foto-DahliaKatz-temporada-conciertos-2027-1920x1080.jpg?itok=GjbyphQ4" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cuarteto-Eybler-foto-DahliaKatz-temporada-conciertos-2027-1920x1080.jpg?itok=GjbyphQ4"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cuarteto-Eybler-foto-DahliaKatz-temporada-conciertos-2027-1920x1080.jpg?itok=GjbyphQ4</webfeeds:featuredImage>
   <summary>Cuarteto de cuerdas Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-09-05 (11:00am - 1:00pm) Cuarteto EyblerPrograma</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cuarteto-Eybler-foto-DahliaKatz-temporada-conciertos-2027-1920x1080.jpg?itok=GjbyphQ4" alt="Cuarteto Eybler, foto DahliaKatz." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Cuarteto de cuerdas&lt;/p&gt;
@@ -59,8 +62,9 @@
   <published>2026-11-13T20:47:34.839577-05:00</published>
   <updated>2026-11-13T20:47:34.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Aristo-Sham-foto-fayfox-color-temporada-conciertos-2027-1920x1080_0.jpg?itok=vV6CCN38"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Aristo-Sham-foto-fayfox-color-temporada-conciertos-2027-1920x1080_0.jpg?itok=vV6CCN38" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Aristo-Sham-foto-fayfox-color-temporada-conciertos-2027-1920x1080_0.jpg?itok=vV6CCN38" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Aristo-Sham-foto-fayfox-color-temporada-conciertos-2027-1920x1080_0.jpg?itok=vV6CCN38"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Aristo-Sham-foto-fayfox-color-temporada-conciertos-2027-1920x1080_0.jpg?itok=vV6CCN38</webfeeds:featuredImage>
   <summary>Piano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-09-12 (11:00am - 1:00pm) Aristo ShamPrograma- Actividades rela</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Aristo-Sham-foto-fayfox-color-temporada-conciertos-2027-1920x1080_0.jpg?itok=vV6CCN38" alt="Aristo Sham, foto Fayfox color." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Piano&lt;/p&gt;
@@ -75,8 +79,9 @@
   <published>2026-11-13T20:47:33.839577-05:00</published>
   <updated>2026-11-13T20:47:33.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Poets-of-Forest-foto-Zamil-Said-Omar-temporada-conciertos-2027-1920x1080_0.jpg?itok=KhSsmuqC"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Poets-of-Forest-foto-Zamil-Said-Omar-temporada-conciertos-2027-1920x1080_0.jpg?itok=KhSsmuqC" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Poets-of-Forest-foto-Zamil-Said-Omar-temporada-conciertos-2027-1920x1080_0.jpg?itok=KhSsmuqC" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Poets-of-Forest-foto-Zamil-Said-Omar-temporada-conciertos-2027-1920x1080_0.jpg?itok=KhSsmuqC"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Poets-of-Forest-foto-Zamil-Said-Omar-temporada-conciertos-2027-1920x1080_0.jpg?itok=KhSsmuqC</webfeeds:featuredImage>
   <summary>Jazz Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-09-15 (11:00am - 1:00pm) Poets of ForestPrograma- Actividades r</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Poets-of-Forest-foto-Zamil-Said-Omar-temporada-conciertos-2027-1920x1080_0.jpg?itok=KhSsmuqC" alt="Poets of Forest, foto Zamil Said Omar." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Jazz&lt;/p&gt;
@@ -91,8 +96,9 @@
   <published>2026-11-13T20:47:32.839577-05:00</published>
   <updated>2026-11-13T20:47:32.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mar%C3%ADa-Paula-Pataquiva-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TLBQ_Uvj"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mar%C3%ADa-Paula-Pataquiva-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TLBQ_Uvj" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mar%C3%ADa-Paula-Pataquiva-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TLBQ_Uvj" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mar%C3%ADa-Paula-Pataquiva-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TLBQ_Uvj"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mar%C3%ADa-Paula-Pataquiva-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TLBQ_Uvj</webfeeds:featuredImage>
   <summary>Soprano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $5.000 Fechas de sesiones: 2027-09-23 (6:30pm - 8:30pm) Mapi Pataquiva Program</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mar%C3%ADa-Paula-Pataquiva-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TLBQ_Uvj" alt="María Paula Pataquiva, Jóvenes intérpretes 2027. Foto Sebastián Páez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Soprano&lt;/p&gt;
@@ -107,8 +113,9 @@
   <published>2026-11-13T20:47:31.839577-05:00</published>
   <updated>2026-11-13T20:47:31.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Andr%C3%A9s-Jim%C3%A9nez-temporada-conciertos-2027-1920x1080_0.jpg?itok=tEWHLa0t"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Andr%C3%A9s-Jim%C3%A9nez-temporada-conciertos-2027-1920x1080_0.jpg?itok=tEWHLa0t" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Andr%C3%A9s-Jim%C3%A9nez-temporada-conciertos-2027-1920x1080_0.jpg?itok=tEWHLa0t" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Andr%C3%A9s-Jim%C3%A9nez-temporada-conciertos-2027-1920x1080_0.jpg?itok=tEWHLa0t"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Andr%C3%A9s-Jim%C3%A9nez-temporada-conciertos-2027-1920x1080_0.jpg?itok=tEWHLa0t</webfeeds:featuredImage>
   <summary>Eufonio Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-09-26 (11:00am - 1:00pm) Andrés JiménezPrograma- Actividades</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Andr%C3%A9s-Jim%C3%A9nez-temporada-conciertos-2027-1920x1080_0.jpg?itok=tEWHLa0t" alt="Andrés Jiménez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Eufonio&lt;/p&gt;
@@ -123,8 +130,9 @@
   <published>2026-11-13T20:47:30.839577-05:00</published>
   <updated>2026-11-13T20:47:30.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Mugnier-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=u8Ns-SuJ"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Mugnier-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=u8Ns-SuJ" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Mugnier-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=u8Ns-SuJ" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Mugnier-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=u8Ns-SuJ"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Mugnier-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=u8Ns-SuJ</webfeeds:featuredImage>
   <summary>Guitarra Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-09-30 (6:30pm - 8:30pm) Santiago MugnierProg</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Mugnier-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=u8Ns-SuJ" alt="Santiago Mugnier, Jóvenes Intérpretes 2027. Foto Marco Roa." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Guitarra&lt;/p&gt;
@@ -139,8 +147,9 @@
   <published>2026-11-13T20:47:29.839577-05:00</published>
   <updated>2026-11-13T20:47:29.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jorge-Glem-%26-Sam-Reider-temporada-conciertos-2027-1920x1080.jpg?itok=ao74M2X3"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jorge-Glem-%26-Sam-Reider-temporada-conciertos-2027-1920x1080.jpg?itok=ao74M2X3" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jorge-Glem-%26-Sam-Reider-temporada-conciertos-2027-1920x1080.jpg?itok=ao74M2X3" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jorge-Glem-%26-Sam-Reider-temporada-conciertos-2027-1920x1080.jpg?itok=ao74M2X3"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jorge-Glem-%26-Sam-Reider-temporada-conciertos-2027-1920x1080.jpg?itok=ao74M2X3</webfeeds:featuredImage>
   <summary>Cuatro y acordeón Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-10-03 (11:00am - 1:00pm) Jorge Glem &amp; Sam ReiderPr</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jorge-Glem-%26-Sam-Reider-temporada-conciertos-2027-1920x1080.jpg?itok=ao74M2X3" alt="Jorge Glem &amp;amp; Sam Reider." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Cuatro y acordeón&lt;/p&gt;
@@ -155,8 +164,9 @@
   <published>2026-11-13T20:47:28.839577-05:00</published>
   <updated>2026-11-13T20:47:28.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Eliana-Infante-Foto-Unilea-Isaac-S%C3%A1nchez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=J46HE3oQ"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Eliana-Infante-Foto-Unilea-Isaac-S%C3%A1nchez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=J46HE3oQ" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Eliana-Infante-Foto-Unilea-Isaac-S%C3%A1nchez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=J46HE3oQ" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Eliana-Infante-Foto-Unilea-Isaac-S%C3%A1nchez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=J46HE3oQ"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Eliana-Infante-Foto-Unilea-Isaac-S%C3%A1nchez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=J46HE3oQ</webfeeds:featuredImage>
   <summary>Cantante Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-10-07 (6:30pm - 8:30pm) Eliana Infante Progr</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Eliana-Infante-Foto-Unilea-Isaac-S%C3%A1nchez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=J46HE3oQ" alt="Eliana Infante, Jóvenes intérpretes 2027. Foto Unilea Isaac Sánchez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Cantante&lt;/p&gt;
@@ -171,8 +181,9 @@
   <published>2026-11-13T20:47:27.839577-05:00</published>
   <updated>2026-11-13T20:47:27.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/PerPoc-foto-Javier-del-Real-temporada-conciertos-2027-1920x1080_0.jpg?itok=CBv_OZ5D"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/PerPoc-foto-Javier-del-Real-temporada-conciertos-2027-1920x1080_0.jpg?itok=CBv_OZ5D" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/PerPoc-foto-Javier-del-Real-temporada-conciertos-2027-1920x1080_0.jpg?itok=CBv_OZ5D" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/PerPoc-foto-Javier-del-Real-temporada-conciertos-2027-1920x1080_0.jpg?itok=CBv_OZ5D"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/PerPoc-foto-Javier-del-Real-temporada-conciertos-2027-1920x1080_0.jpg?itok=CBv_OZ5D</webfeeds:featuredImage>
   <summary>Ensamble Barroco de Bogotá (Colombia), ensamble de música antigua Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-10</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/PerPoc-foto-Javier-del-Real-temporada-conciertos-2027-1920x1080_0.jpg?itok=CBv_OZ5D" alt="PerPoc, foto Javier del Real." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Ensamble Barroco de Bogotá (Colombia), ensamble de música antigua&lt;/p&gt;
@@ -187,8 +198,9 @@
   <published>2026-11-13T20:47:26.839577-05:00</published>
   <updated>2026-11-13T20:47:26.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Micelio-foto-Daniel-Santiago-Silva-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=d8E2buYj"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Micelio-foto-Daniel-Santiago-Silva-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=d8E2buYj" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Micelio-foto-Daniel-Santiago-Silva-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=d8E2buYj" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Micelio-foto-Daniel-Santiago-Silva-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=d8E2buYj"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Micelio-foto-Daniel-Santiago-Silva-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=d8E2buYj</webfeeds:featuredImage>
   <summary>Jazz Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-10-14 (6:30pm - 8:30pm) Micelio Programa- Conoce</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Micelio-foto-Daniel-Santiago-Silva-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=d8E2buYj" alt="Micelio, Jóvenes intérpretes 2027. Foto Daniel Santiago Silva." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Jazz&lt;/p&gt;
@@ -203,8 +215,9 @@
   <published>2026-11-13T20:47:25.839577-05:00</published>
   <updated>2026-11-13T20:47:25.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Brian-Isaacs-foto-Peter-Adamik-temporada-conciertos-2027-1920x1080_0.jpg?itok=z4t9z4eq"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Brian-Isaacs-foto-Peter-Adamik-temporada-conciertos-2027-1920x1080_0.jpg?itok=z4t9z4eq" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Brian-Isaacs-foto-Peter-Adamik-temporada-conciertos-2027-1920x1080_0.jpg?itok=z4t9z4eq" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Brian-Isaacs-foto-Peter-Adamik-temporada-conciertos-2027-1920x1080_0.jpg?itok=z4t9z4eq"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Brian-Isaacs-foto-Peter-Adamik-temporada-conciertos-2027-1920x1080_0.jpg?itok=z4t9z4eq</webfeeds:featuredImage>
   <summary>Viola y piano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-10-20 (7:30pm - 9:30pm) Brian Isaacs y Mana Oguchi Pro</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Brian-Isaacs-foto-Peter-Adamik-temporada-conciertos-2027-1920x1080_0.jpg?itok=z4t9z4eq" alt="Brian Isaacs, foto Peter Adamik." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Viola y piano&lt;/p&gt;
@@ -219,8 +232,9 @@
   <published>2026-11-13T20:47:24.839577-05:00</published>
   <updated>2026-11-13T20:47:24.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Matthew-Garvin-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=v_XKuAin"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Matthew-Garvin-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=v_XKuAin" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Matthew-Garvin-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=v_XKuAin" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Matthew-Garvin-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=v_XKuAin"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Matthew-Garvin-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=v_XKuAin</webfeeds:featuredImage>
   <summary>Piano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-10-28 (6:30pm - 8:30pm) Matthew Garvin-DíazProg</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Matthew-Garvin-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=v_XKuAin" alt="Matthew Garvin, Jóvenes intérpretes 2027. Foto Sebastián Páez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Piano&lt;/p&gt;
@@ -235,8 +249,9 @@
   <published>2026-11-13T20:47:23.839577-05:00</published>
   <updated>2026-11-13T20:47:23.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Ocaso-Brass-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=yOOr91Ld"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Ocaso-Brass-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=yOOr91Ld" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Ocaso-Brass-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=yOOr91Ld" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Ocaso-Brass-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=yOOr91Ld"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Ocaso-Brass-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=yOOr91Ld</webfeeds:featuredImage>
   <summary>Quinteto de metales Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-11-04 (6:30pm - 8:30pm) Ocaso Bra</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Ocaso-Brass-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=yOOr91Ld" alt="Ocaso Brass, Jóvenes intérpretes 2027. Foto José David Pérez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Quinteto de metales&lt;/p&gt;
@@ -251,8 +266,9 @@
   <published>2026-11-13T20:47:22.839577-05:00</published>
   <updated>2026-11-13T20:47:22.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sollazzo-Ensemble-foto-Mara-Winter-temporada-conciertos-2027-1920x1080_0.jpg?itok=6IErCnaP"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sollazzo-Ensemble-foto-Mara-Winter-temporada-conciertos-2027-1920x1080_0.jpg?itok=6IErCnaP" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sollazzo-Ensemble-foto-Mara-Winter-temporada-conciertos-2027-1920x1080_0.jpg?itok=6IErCnaP" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sollazzo-Ensemble-foto-Mara-Winter-temporada-conciertos-2027-1920x1080_0.jpg?itok=6IErCnaP"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sollazzo-Ensemble-foto-Mara-Winter-temporada-conciertos-2027-1920x1080_0.jpg?itok=6IErCnaP</webfeeds:featuredImage>
   <summary>Ensamble de música antigua Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-11-07 (11:00am - 1:00pm) Solazzo Programa</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sollazzo-Ensemble-foto-Mara-Winter-temporada-conciertos-2027-1920x1080_0.jpg?itok=6IErCnaP" alt="Sollazzo Ensemble, foto Mara Winter." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Ensamble de música antigua&lt;/p&gt;
@@ -267,8 +283,9 @@
   <published>2026-11-13T20:47:21.839577-05:00</published>
   <updated>2026-11-13T20:47:21.839577-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Daniel-Nieto-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=rqqvfuC0"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Daniel-Nieto-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=rqqvfuC0" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Daniel-Nieto-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=rqqvfuC0" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Daniel-Nieto-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=rqqvfuC0"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Daniel-Nieto-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=rqqvfuC0</webfeeds:featuredImage>
   <summary>Bandola Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-11-11 (6:30pm - 8:30pm) Daniel NietoPrograma-</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Daniel-Nieto-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=rqqvfuC0" alt="Daniel Nieto, Jóvenes intérpretes 2027. Foto Marco Roa." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Bandola&lt;/p&gt;
@@ -283,8 +300,9 @@
   <published>2026-11-13T14:47:52.043613-05:00</published>
   <updated>2026-11-13T14:47:52.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cristian-Camilo-S%C3%A1nchez-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=XH7G-wm6"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cristian-Camilo-S%C3%A1nchez-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=XH7G-wm6" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cristian-Camilo-S%C3%A1nchez-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=XH7G-wm6" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cristian-Camilo-S%C3%A1nchez-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=XH7G-wm6"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cristian-Camilo-S%C3%A1nchez-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=XH7G-wm6</webfeeds:featuredImage>
   <summary>Corno francés Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-07-01 (6:30pm - 8:30pm) El cornista colombiano Camilo </summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Cristian-Camilo-S%C3%A1nchez-foto-Jos%C3%A9-David-P%C3%A9rez-jovenes-interpretes-sala-conciertos-temporada-2027-1920x1080.jpg?itok=XH7G-wm6" alt="Cristian Camilo Sánchez, Jóvenes intérpretes 2027. Foto José David Pérez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Corno francés&lt;/p&gt;
@@ -299,8 +317,9 @@
   <published>2026-11-13T14:47:51.043613-05:00</published>
   <updated>2026-11-13T14:47:51.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Paddington-tr%C3%ADo-foto-Juuso-Westerlund-temporada-conciertos-2027-1920x1080_0.jpg?itok=SzOUDCHT"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Paddington-tr%C3%ADo-foto-Juuso-Westerlund-temporada-conciertos-2027-1920x1080_0.jpg?itok=SzOUDCHT" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Paddington-tr%C3%ADo-foto-Juuso-Westerlund-temporada-conciertos-2027-1920x1080_0.jpg?itok=SzOUDCHT" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Paddington-tr%C3%ADo-foto-Juuso-Westerlund-temporada-conciertos-2027-1920x1080_0.jpg?itok=SzOUDCHT"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Paddington-tr%C3%ADo-foto-Juuso-Westerlund-temporada-conciertos-2027-1920x1080_0.jpg?itok=SzOUDCHT</webfeeds:featuredImage>
   <summary>Paddington Trío (Irlanda/Estados Unidos/Finlandia), trío con piano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Híbrida Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-07-0</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Paddington-tr%C3%ADo-foto-Juuso-Westerlund-temporada-conciertos-2027-1920x1080_0.jpg?itok=SzOUDCHT" alt="Paddington trío, foto Juuso Westerlund." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Paddington Trío (Irlanda/Estados Unidos/Finlandia), trío con piano&lt;/p&gt;
@@ -315,8 +334,9 @@
   <published>2026-11-13T14:47:50.043613-05:00</published>
   <updated>2026-11-13T14:47:50.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Melo-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=1hzupWNJ"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Melo-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=1hzupWNJ" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Melo-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=1hzupWNJ" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Melo-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=1hzupWNJ"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Melo-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=1hzupWNJ</webfeeds:featuredImage>
   <summary>Flauta Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-07-15 (6:30pm - 8:30pm) El flautista colombian</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Santiago-Melo-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=1hzupWNJ" alt="Santiago Melo, Jóvenes intérpretes 2027. Foto Marco Roa." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Flauta&lt;/p&gt;
@@ -331,8 +351,9 @@
   <published>2026-11-13T14:47:49.043613-05:00</published>
   <updated>2026-11-13T14:47:49.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jacob-Hern%C3%A1ndez-Foto-John-Reno-Jackson-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=io6378_T"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jacob-Hern%C3%A1ndez-Foto-John-Reno-Jackson-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=io6378_T" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jacob-Hern%C3%A1ndez-Foto-John-Reno-Jackson-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=io6378_T" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jacob-Hern%C3%A1ndez-Foto-John-Reno-Jackson-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=io6378_T"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jacob-Hern%C3%A1ndez-Foto-John-Reno-Jackson-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=io6378_T</webfeeds:featuredImage>
   <summary>Violonchelo Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-07-22 (6:30pm - 8:30pm) Formado entre Col</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Jacob-Hern%C3%A1ndez-Foto-John-Reno-Jackson-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=io6378_T" alt="Jacob Hernández, Jóvenes intérpretes 2027. Foto John Reno Jackson." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Violonchelo&lt;/p&gt;
@@ -347,8 +368,9 @@
   <published>2026-11-13T14:47:48.043613-05:00</published>
   <updated>2026-11-13T14:47:48.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Iride-Foto-Juan-David-Alem%C3%A1n-%C3%81lvarez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=x_z9WyKi"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Iride-Foto-Juan-David-Alem%C3%A1n-%C3%81lvarez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=x_z9WyKi" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Iride-Foto-Juan-David-Alem%C3%A1n-%C3%81lvarez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=x_z9WyKi" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Iride-Foto-Juan-David-Alem%C3%A1n-%C3%81lvarez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=x_z9WyKi"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Iride-Foto-Juan-David-Alem%C3%A1n-%C3%81lvarez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=x_z9WyKi</webfeeds:featuredImage>
   <summary>Trío de flautas Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-07-29 (6:30pm - 8:30pm) Fundado en 20</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Iride-Foto-Juan-David-Alem%C3%A1n-%C3%81lvarez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=x_z9WyKi" alt="Iride, Jóvenes intérpretes 2027. Foto Juan David Alemán Álvarez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Trío de flautas&lt;/p&gt;
@@ -363,8 +385,9 @@
   <published>2026-11-13T14:47:47.043613-05:00</published>
   <updated>2026-11-13T14:47:47.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/BROOKLYN-RIDER-foto-Marco-Giannavola-temporada-conciertos-2027-1920x1080_0.jpg?itok=zyagmonv"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/BROOKLYN-RIDER-foto-Marco-Giannavola-temporada-conciertos-2027-1920x1080_0.jpg?itok=zyagmonv" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/BROOKLYN-RIDER-foto-Marco-Giannavola-temporada-conciertos-2027-1920x1080_0.jpg?itok=zyagmonv" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/BROOKLYN-RIDER-foto-Marco-Giannavola-temporada-conciertos-2027-1920x1080_0.jpg?itok=zyagmonv"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/BROOKLYN-RIDER-foto-Marco-Giannavola-temporada-conciertos-2027-1920x1080_0.jpg?itok=zyagmonv</webfeeds:featuredImage>
   <summary>Cuarteto de cuerdas Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-08-01 (11:00am - 1:00pm) Broklyn RiderPro</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/BROOKLYN-RIDER-foto-Marco-Giannavola-temporada-conciertos-2027-1920x1080_0.jpg?itok=zyagmonv" alt="BROOKLYN RIDER, foto Marco Giannavola." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Cuarteto de cuerdas&lt;/p&gt;
@@ -379,8 +402,9 @@
   <published>2026-11-13T14:47:45.043613-05:00</published>
   <updated>2026-11-13T14:47:45.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Hansj%C3%B6rg-Albrecht-foto-Vanessa-Daly-temporada-conciertos-2027-1920x1080_0.jpg?itok=Hla0b8bP"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Hansj%C3%B6rg-Albrecht-foto-Vanessa-Daly-temporada-conciertos-2027-1920x1080_0.jpg?itok=Hla0b8bP" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Hansj%C3%B6rg-Albrecht-foto-Vanessa-Daly-temporada-conciertos-2027-1920x1080_0.jpg?itok=Hla0b8bP" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Hansj%C3%B6rg-Albrecht-foto-Vanessa-Daly-temporada-conciertos-2027-1920x1080_0.jpg?itok=Hla0b8bP"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Hansj%C3%B6rg-Albrecht-foto-Vanessa-Daly-temporada-conciertos-2027-1920x1080_0.jpg?itok=Hla0b8bP</webfeeds:featuredImage>
   <summary>Órgano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-08-11 (7:30pm - 9:30pm) Hansjörg AlbrechtPrograma- Actividades relaci</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Hansj%C3%B6rg-Albrecht-foto-Vanessa-Daly-temporada-conciertos-2027-1920x1080_0.jpg?itok=Hla0b8bP" alt="Hansjörg Albrecht, foto Vanessa Daly." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Órgano&lt;/p&gt;
@@ -395,8 +419,9 @@
   <published>2026-11-13T14:47:44.043613-05:00</published>
   <updated>2026-11-13T14:47:44.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Luna-Rodr%C3%ADguez-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=FszsXMNt"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Luna-Rodr%C3%ADguez-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=FszsXMNt" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Luna-Rodr%C3%ADguez-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=FszsXMNt" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Luna-Rodr%C3%ADguez-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=FszsXMNt"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Luna-Rodr%C3%ADguez-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=FszsXMNt</webfeeds:featuredImage>
   <summary>Clarinete Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-08-19 (6:30pm - 8:30pm) Luna Rodríguez-Mont</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Luna-Rodr%C3%ADguez-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=FszsXMNt" alt="Luna Rodríguez, Jóvenes intérpretes 2027. Foto Sebastián Páez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Clarinete&lt;/p&gt;
@@ -411,8 +436,9 @@
   <published>2026-11-13T14:47:43.043613-05:00</published>
   <updated>2026-11-13T14:47:43.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Alborada-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=2lfZtGvf"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Alborada-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=2lfZtGvf" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Alborada-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=2lfZtGvf" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Alborada-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=2lfZtGvf"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Alborada-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=2lfZtGvf</webfeeds:featuredImage>
   <summary>Música tradicional colombiana Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-08-22 (11:00am - 1:00pm</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Alborada-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=2lfZtGvf" alt="Alborada, Jóvenes intérpretes 2027. Foto Sebastián Páez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Música tradicional colombiana&lt;/p&gt;
@@ -427,8 +453,9 @@
   <published>2026-11-13T14:47:42.043613-05:00</published>
   <updated>2026-11-13T14:47:42.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/1024_748%20copia.webp?itok=BwRwQUW0"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/1024_748%20copia.webp?itok=BwRwQUW0" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/1024_748%20copia.webp?itok=BwRwQUW0" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/1024_748%20copia.webp?itok=BwRwQUW0"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/1024_748%20copia.webp?itok=BwRwQUW0</webfeeds:featuredImage>
   <summary>Ensamble ÓNIX (México), música contemporánea Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-08-26 (6:30pm - 8:30pm)</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/1024_748%20copia.webp?itok=BwRwQUW0" alt="Jóvenes_Compositores_2027" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Ensamble ÓNIX (México), música contemporánea&lt;/p&gt;
@@ -443,8 +470,9 @@
   <published>2026-11-13T14:47:41.043613-05:00</published>
   <updated>2026-11-13T14:47:41.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Onix-foto-H%C3%A9ctor-Ramos-temporada-conciertos-2027-1920x1080.jpg?itok=Ura9rR4q"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Onix-foto-H%C3%A9ctor-Ramos-temporada-conciertos-2027-1920x1080.jpg?itok=Ura9rR4q" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Onix-foto-H%C3%A9ctor-Ramos-temporada-conciertos-2027-1920x1080.jpg?itok=Ura9rR4q" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Onix-foto-H%C3%A9ctor-Ramos-temporada-conciertos-2027-1920x1080.jpg?itok=Ura9rR4q"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Onix-foto-H%C3%A9ctor-Ramos-temporada-conciertos-2027-1920x1080.jpg?itok=Ura9rR4q</webfeeds:featuredImage>
   <summary>Música contemporánea Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-08-29 (11:00am - 1:00pm) Ensamble ÓNIX Programa</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Onix-foto-H%C3%A9ctor-Ramos-temporada-conciertos-2027-1920x1080.jpg?itok=Ura9rR4q" alt="Onix, foto Héctor Ramos." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Música contemporánea&lt;/p&gt;
@@ -459,8 +487,9 @@
   <published>2026-11-13T14:47:40.043613-05:00</published>
   <updated>2026-11-13T14:47:40.043613-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Manuel-Echeverri-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TJygK_0c"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Manuel-Echeverri-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TJygK_0c" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Manuel-Echeverri-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TJygK_0c" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Manuel-Echeverri-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TJygK_0c"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Manuel-Echeverri-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TJygK_0c</webfeeds:featuredImage>
   <summary>Piano jazz Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-09-02 (6:30pm - 8:30pm) Juan Manuel Echeve</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Manuel-Echeverri-foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=TJygK_0c" alt="Juan Manuel Echeverri, Jóvenes intérpretes 2027. Foto Sebastián Páez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Piano jazz&lt;/p&gt;
@@ -475,8 +504,9 @@
   <published>2026-11-11T20:48:05.229801-05:00</published>
   <updated>2026-11-11T20:48:05.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Batimento-foto-Marcos-Cataldo-temporada-conciertos-2027-1920x1080_0.jpg?itok=WOZBLoc0"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Batimento-foto-Marcos-Cataldo-temporada-conciertos-2027-1920x1080_0.jpg?itok=WOZBLoc0" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Batimento-foto-Marcos-Cataldo-temporada-conciertos-2027-1920x1080_0.jpg?itok=WOZBLoc0" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Batimento-foto-Marcos-Cataldo-temporada-conciertos-2027-1920x1080_0.jpg?itok=WOZBLoc0"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Batimento-foto-Marcos-Cataldo-temporada-conciertos-2027-1920x1080_0.jpg?itok=WOZBLoc0</webfeeds:featuredImage>
   <summary>Tango Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Familias,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-04-11 (11:00am - 1:00pm) Los guitarristas Ignacio Cor</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Batimento-foto-Marcos-Cataldo-temporada-conciertos-2027-1920x1080_0.jpg?itok=WOZBLoc0" alt="Batimento, foto Marcos Cataldo." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Tango&lt;/p&gt;
@@ -491,8 +521,9 @@
   <published>2026-11-11T20:48:04.229801-05:00</published>
   <updated>2026-11-11T20:48:04.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Colectivo-el-tiempo-no-ser%C3%A1-m%C3%A1s-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=qZ7x7Azn"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Colectivo-el-tiempo-no-ser%C3%A1-m%C3%A1s-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=qZ7x7Azn" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Colectivo-el-tiempo-no-ser%C3%A1-m%C3%A1s-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=qZ7x7Azn" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Colectivo-el-tiempo-no-ser%C3%A1-m%C3%A1s-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=qZ7x7Azn"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Colectivo-el-tiempo-no-ser%C3%A1-m%C3%A1s-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=qZ7x7Azn</webfeeds:featuredImage>
   <summary>Clarinete, violín, violonchelo y piano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Familias,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-04-15</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Colectivo-el-tiempo-no-ser%C3%A1-m%C3%A1s-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=qZ7x7Azn" alt="Colectivo el tiempo no será más, Jóvenes Intérpretes 2027. Foto Sebastián Páez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Clarinete, violín, violonchelo y piano&lt;/p&gt;
@@ -507,8 +538,9 @@
   <published>2026-11-11T20:48:03.229801-05:00</published>
   <updated>2026-11-11T20:48:03.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Nathan-Amaral-foto-Clara-Evens-temporada-conciertos-2027-1920x1080_0.jpg?itok=5Wtmi7PE"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Nathan-Amaral-foto-Clara-Evens-temporada-conciertos-2027-1920x1080_0.jpg?itok=5Wtmi7PE" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Nathan-Amaral-foto-Clara-Evens-temporada-conciertos-2027-1920x1080_0.jpg?itok=5Wtmi7PE" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Nathan-Amaral-foto-Clara-Evens-temporada-conciertos-2027-1920x1080_0.jpg?itok=5Wtmi7PE"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Nathan-Amaral-foto-Clara-Evens-temporada-conciertos-2027-1920x1080_0.jpg?itok=5Wtmi7PE</webfeeds:featuredImage>
   <summary>Violín y piano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-04-18 (11:00am - 1:00pm) Ganador del primer puesto en</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Nathan-Amaral-foto-Clara-Evens-temporada-conciertos-2027-1920x1080_0.jpg?itok=5Wtmi7PE" alt="Nathan Amaral, foto Clara Evens." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Violín y piano&lt;/p&gt;
@@ -523,8 +555,9 @@
   <published>2026-11-11T20:48:02.229801-05:00</published>
   <updated>2026-11-11T20:48:02.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sergio-Gonz%C3%A1lez-Foto-Valentina-Zapata-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=5q71-iQA"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sergio-Gonz%C3%A1lez-Foto-Valentina-Zapata-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=5q71-iQA" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sergio-Gonz%C3%A1lez-Foto-Valentina-Zapata-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=5q71-iQA" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sergio-Gonz%C3%A1lez-Foto-Valentina-Zapata-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=5q71-iQA"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sergio-Gonz%C3%A1lez-Foto-Valentina-Zapata-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=5q71-iQA</webfeeds:featuredImage>
   <summary>Contratenor Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-04-22 (6:30pm - 8:30pm) Ganador del Premi</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Sergio-Gonz%C3%A1lez-Foto-Valentina-Zapata-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=5q71-iQA" alt="Sergio González, Jóvenes Intérpretes 2027. Foto Valentina Zapata." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Contratenor&lt;/p&gt;
@@ -539,8 +572,9 @@
   <published>2026-11-11T20:48:01.229801-05:00</published>
   <updated>2026-11-11T20:48:01.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/TuRockcito-temporada-conciertos-2027-1920x1080_0.jpg?itok=zHMzacX3"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/TuRockcito-temporada-conciertos-2027-1920x1080_0.jpg?itok=zHMzacX3" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/TuRockcito-temporada-conciertos-2027-1920x1080_0.jpg?itok=zHMzacX3" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/TuRockcito-temporada-conciertos-2027-1920x1080_0.jpg?itok=zHMzacX3"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/TuRockcito-temporada-conciertos-2027-1920x1080_0.jpg?itok=zHMzacX3</webfeeds:featuredImage>
   <summary>Concierto familiar Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Familias,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-04-25 (11:00am - 1:00pm) Fundado en Bogo</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/TuRockcito-temporada-conciertos-2027-1920x1080_0.jpg?itok=zHMzacX3" alt="TuRockcito." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Concierto familiar&lt;/p&gt;
@@ -555,8 +589,9 @@
   <published>2026-11-11T20:48:00.229801-05:00</published>
   <updated>2026-11-11T20:48:00.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dortene-Foto-Mariana-Moreno-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=13-D05k_"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dortene-Foto-Mariana-Moreno-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=13-D05k_" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dortene-Foto-Mariana-Moreno-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=13-D05k_" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dortene-Foto-Mariana-Moreno-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=13-D05k_"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dortene-Foto-Mariana-Moreno-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=13-D05k_</webfeeds:featuredImage>
   <summary>Jazz Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-05-06 (6:30pm - 8:30pm) Fundada en Bogotá, en 20</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dortene-Foto-Mariana-Moreno-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=13-D05k_" alt="Dortene, Jóvenes Intérpretes 2027. Foto Mariana Moreno." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Jazz&lt;/p&gt;
@@ -571,8 +606,9 @@
   <published>2026-11-11T20:47:59.229801-05:00</published>
   <updated>2026-11-11T20:47:59.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Rut-Villota-jovenes-interpretes-2027-sala-conciertos-blaa-temporada-1920x1080.jpg?itok=P3liOwVi"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Rut-Villota-jovenes-interpretes-2027-sala-conciertos-blaa-temporada-1920x1080.jpg?itok=P3liOwVi" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Rut-Villota-jovenes-interpretes-2027-sala-conciertos-blaa-temporada-1920x1080.jpg?itok=P3liOwVi" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Rut-Villota-jovenes-interpretes-2027-sala-conciertos-blaa-temporada-1920x1080.jpg?itok=P3liOwVi"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Rut-Villota-jovenes-interpretes-2027-sala-conciertos-blaa-temporada-1920x1080.jpg?itok=P3liOwVi</webfeeds:featuredImage>
   <summary>Flauta Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-05-13 (6:30pm - 8:30pm) Formada en El Sistema </summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Rut-Villota-jovenes-interpretes-2027-sala-conciertos-blaa-temporada-1920x1080.jpg?itok=P3liOwVi" alt="Rut Villota, Jóvenes intérpretes 2027. " style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Flauta&lt;/p&gt;
@@ -587,8 +623,9 @@
   <published>2026-11-11T20:47:58.229801-05:00</published>
   <updated>2026-11-11T20:47:58.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Catalyst-Quartet-4-foto-Ricardo-Qui%C3%B1ones-temporada-conciertos-2027-1920x1080_0.jpg?itok=3QIFu3Mb"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Catalyst-Quartet-4-foto-Ricardo-Qui%C3%B1ones-temporada-conciertos-2027-1920x1080_0.jpg?itok=3QIFu3Mb" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Catalyst-Quartet-4-foto-Ricardo-Qui%C3%B1ones-temporada-conciertos-2027-1920x1080_0.jpg?itok=3QIFu3Mb" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Catalyst-Quartet-4-foto-Ricardo-Qui%C3%B1ones-temporada-conciertos-2027-1920x1080_0.jpg?itok=3QIFu3Mb"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Catalyst-Quartet-4-foto-Ricardo-Qui%C3%B1ones-temporada-conciertos-2027-1920x1080_0.jpg?itok=3QIFu3Mb</webfeeds:featuredImage>
   <summary>Cuarteto de cuerdas Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-05-16 (11:00am - 1:00pm) Ganador de un premio Gr</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Catalyst-Quartet-4-foto-Ricardo-Qui%C3%B1ones-temporada-conciertos-2027-1920x1080_0.jpg?itok=3QIFu3Mb" alt="Catalyst Quartet 4, foto Ricardo Quiñones." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Cuarteto de cuerdas&lt;/p&gt;
@@ -603,8 +640,9 @@
   <published>2026-11-11T20:47:57.229801-05:00</published>
   <updated>2026-11-11T20:47:57.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Fernando-Avenda%C3%B1o-foto-Paola-Enciso-temporada-conciertos-2027-1920x1080_0.jpg?itok=mMWDhfBK"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Fernando-Avenda%C3%B1o-foto-Paola-Enciso-temporada-conciertos-2027-1920x1080_0.jpg?itok=mMWDhfBK" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Fernando-Avenda%C3%B1o-foto-Paola-Enciso-temporada-conciertos-2027-1920x1080_0.jpg?itok=mMWDhfBK" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Fernando-Avenda%C3%B1o-foto-Paola-Enciso-temporada-conciertos-2027-1920x1080_0.jpg?itok=mMWDhfBK"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Fernando-Avenda%C3%B1o-foto-Paola-Enciso-temporada-conciertos-2027-1920x1080_0.jpg?itok=mMWDhfBK</webfeeds:featuredImage>
   <summary>Trompeta y piano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-05-19 (7:30pm - 9:30pm) El trompetista Juan Fernand</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Fernando-Avenda%C3%B1o-foto-Paola-Enciso-temporada-conciertos-2027-1920x1080_0.jpg?itok=mMWDhfBK" alt="Juan Fernando Avendaño, foto Paola Enciso." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Trompeta y piano&lt;/p&gt;
@@ -619,8 +657,9 @@
   <published>2026-11-11T20:47:56.229801-05:00</published>
   <updated>2026-11-11T20:47:56.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Vicky-Chow-foto-Kaitlin-Jane-temporada-conciertos-2027-1920x1080_0.jpg?itok=-vupgllx"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Vicky-Chow-foto-Kaitlin-Jane-temporada-conciertos-2027-1920x1080_0.jpg?itok=-vupgllx" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Vicky-Chow-foto-Kaitlin-Jane-temporada-conciertos-2027-1920x1080_0.jpg?itok=-vupgllx" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Vicky-Chow-foto-Kaitlin-Jane-temporada-conciertos-2027-1920x1080_0.jpg?itok=-vupgllx"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Vicky-Chow-foto-Kaitlin-Jane-temporada-conciertos-2027-1920x1080_0.jpg?itok=-vupgllx</webfeeds:featuredImage>
   <summary>Piano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-05-23 (11:00am - 1:00pm) Descrita por The New York Times como </summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Vicky-Chow-foto-Kaitlin-Jane-temporada-conciertos-2027-1920x1080_0.jpg?itok=-vupgllx" alt="Vicky Chow, foto Kaitlin Jane." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Piano&lt;/p&gt;
@@ -635,8 +674,9 @@
   <published>2026-11-11T20:47:55.229801-05:00</published>
   <updated>2026-11-11T20:47:55.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Oswaldo-Narv%C3%A1ez-Foto-Danilo-Hern%C3%A1ndez-D%C3%ADaz-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=xrT4oi8v"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Oswaldo-Narv%C3%A1ez-Foto-Danilo-Hern%C3%A1ndez-D%C3%ADaz-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=xrT4oi8v" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Oswaldo-Narv%C3%A1ez-Foto-Danilo-Hern%C3%A1ndez-D%C3%ADaz-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=xrT4oi8v" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Oswaldo-Narv%C3%A1ez-Foto-Danilo-Hern%C3%A1ndez-D%C3%ADaz-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=xrT4oi8v"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Oswaldo-Narv%C3%A1ez-Foto-Danilo-Hern%C3%A1ndez-D%C3%ADaz-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=xrT4oi8v</webfeeds:featuredImage>
   <summary>Percusión Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-05-27 (6:30pm - 8:30pm) El percusionista co</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Oswaldo-Narv%C3%A1ez-Foto-Danilo-Hern%C3%A1ndez-D%C3%ADaz-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=xrT4oi8v" alt="Oswaldo Narváez, Jóvenes Intérpretes 2027. Foto Danilo Hernández Díaz." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Percusión&lt;/p&gt;
@@ -651,8 +691,9 @@
   <published>2026-11-11T20:47:54.229801-05:00</published>
   <updated>2026-11-11T20:47:54.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mariana-Clavijo-foto-Andr%C3%A9s-Pinz%C3%B3n-temporada-conciertos-2027-1920x1080_0.jpg?itok=ZjpFRDdI"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mariana-Clavijo-foto-Andr%C3%A9s-Pinz%C3%B3n-temporada-conciertos-2027-1920x1080_0.jpg?itok=ZjpFRDdI" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mariana-Clavijo-foto-Andr%C3%A9s-Pinz%C3%B3n-temporada-conciertos-2027-1920x1080_0.jpg?itok=ZjpFRDdI" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mariana-Clavijo-foto-Andr%C3%A9s-Pinz%C3%B3n-temporada-conciertos-2027-1920x1080_0.jpg?itok=ZjpFRDdI"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mariana-Clavijo-foto-Andr%C3%A9s-Pinz%C3%B3n-temporada-conciertos-2027-1920x1080_0.jpg?itok=ZjpFRDdI</webfeeds:featuredImage>
   <summary>Clarinete bajo y piano Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-06-13 (11:00am - 1:00pm) Mariana Clavijo Lede</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Mariana-Clavijo-foto-Andr%C3%A9s-Pinz%C3%B3n-temporada-conciertos-2027-1920x1080_0.jpg?itok=ZjpFRDdI" alt="Mariana Clavijo, foto Andrés Pinzón." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Clarinete bajo y piano&lt;/p&gt;
@@ -667,8 +708,9 @@
   <published>2026-11-11T20:47:53.229801-05:00</published>
   <updated>2026-11-11T20:47:53.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Torres-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=Oo_gh_Gx"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Torres-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=Oo_gh_Gx" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Torres-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=Oo_gh_Gx" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Torres-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=Oo_gh_Gx"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Torres-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=Oo_gh_Gx</webfeeds:featuredImage>
   <summary>Violín Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-06-17 (6:30pm - 8:30pm) Egresado de la Univers</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Juan-Torres-Foto-Sebasti%C3%A1n-P%C3%A1ez-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=Oo_gh_Gx" alt="Juan Torres, Jóvenes Intérpretes 2027. Foto Sebastián Páez." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Violín&lt;/p&gt;
@@ -683,8 +725,9 @@
   <published>2026-11-11T20:47:52.229801-05:00</published>
   <updated>2026-11-11T20:47:52.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/C%C3%A9line-Frisch-foto-Jean-Baptiste-Millot-temporada-conciertos-2027-1920x1080_0.jpg?itok=9vhZz8ZH"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/C%C3%A9line-Frisch-foto-Jean-Baptiste-Millot-temporada-conciertos-2027-1920x1080_0.jpg?itok=9vhZz8ZH" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/C%C3%A9line-Frisch-foto-Jean-Baptiste-Millot-temporada-conciertos-2027-1920x1080_0.jpg?itok=9vhZz8ZH" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/C%C3%A9line-Frisch-foto-Jean-Baptiste-Millot-temporada-conciertos-2027-1920x1080_0.jpg?itok=9vhZz8ZH"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/C%C3%A9line-Frisch-foto-Jean-Baptiste-Millot-temporada-conciertos-2027-1920x1080_0.jpg?itok=9vhZz8ZH</webfeeds:featuredImage>
   <summary>Clavecín Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-06-23 (7:30pm - 9:30pm) La clavecinista francesa Céline Fri</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/C%C3%A9line-Frisch-foto-Jean-Baptiste-Millot-temporada-conciertos-2027-1920x1080_0.jpg?itok=9vhZz8ZH" alt="Céline Frisch, foto Jean Baptiste Millot." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Clavecín&lt;/p&gt;
@@ -699,8 +742,9 @@
   <published>2026-11-11T20:47:51.229801-05:00</published>
   <updated>2026-11-11T20:47:51.229801-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caf%C3%A9-Zimmermann-Foto-Auxie-Boivin-temporada-conciertos-2027-1920x1080.jpg?itok=bQd4alNb"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caf%C3%A9-Zimmermann-Foto-Auxie-Boivin-temporada-conciertos-2027-1920x1080.jpg?itok=bQd4alNb" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caf%C3%A9-Zimmermann-Foto-Auxie-Boivin-temporada-conciertos-2027-1920x1080.jpg?itok=bQd4alNb" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caf%C3%A9-Zimmermann-Foto-Auxie-Boivin-temporada-conciertos-2027-1920x1080.jpg?itok=bQd4alNb"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caf%C3%A9-Zimmermann-Foto-Auxie-Boivin-temporada-conciertos-2027-1920x1080.jpg?itok=bQd4alNb</webfeeds:featuredImage>
   <summary>Música antigua Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-06-27 (11:00am - 1:00pm) Fundado en 1999 por la clave</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caf%C3%A9-Zimmermann-Foto-Auxie-Boivin-temporada-conciertos-2027-1920x1080.jpg?itok=bQd4alNb" alt="Café Zimmermann, foto Auxie Boivin." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Música antigua&lt;/p&gt;
@@ -715,8 +759,9 @@
   <published>2026-11-11T14:48:34.829303-05:00</published>
   <updated>2026-11-11T14:48:34.829303-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dispositivo-Jazz-foto-Ana-Margarita-Giraldo-Veloza-temporada-conciertos-2027-1920x1080_0.jpg?itok=mo337Uwp"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dispositivo-Jazz-foto-Ana-Margarita-Giraldo-Veloza-temporada-conciertos-2027-1920x1080_0.jpg?itok=mo337Uwp" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dispositivo-Jazz-foto-Ana-Margarita-Giraldo-Veloza-temporada-conciertos-2027-1920x1080_0.jpg?itok=mo337Uwp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dispositivo-Jazz-foto-Ana-Margarita-Giraldo-Veloza-temporada-conciertos-2027-1920x1080_0.jpg?itok=mo337Uwp"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dispositivo-Jazz-foto-Ana-Margarita-Giraldo-Veloza-temporada-conciertos-2027-1920x1080_0.jpg?itok=mo337Uwp</webfeeds:featuredImage>
   <summary>Jazz Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-04-07 (7:30pm - 9:30pm) Conformado por algunos de los músicos y</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Dispositivo-Jazz-foto-Ana-Margarita-Giraldo-Veloza-temporada-conciertos-2027-1920x1080_0.jpg?itok=mo337Uwp" alt="Dispositivo Jazz, foto Ana Margarita Giraldo Veloza." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Jazz&lt;/p&gt;
@@ -731,8 +776,9 @@
   <published>2026-11-08T07:04:06.239773-05:00</published>
   <updated>2026-11-08T07:04:06.239773-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/collage%20ninos%20y%20ninas%20con%20libros_2502472321.webp"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/collage%20ninos%20y%20ninas%20con%20libros_2502472321.webp" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/collage%20ninos%20y%20ninas%20con%20libros_2502472321.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/collage%20ninos%20y%20ninas%20con%20libros_2502472321.webp"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/collage%20ninos%20y%20ninas%20con%20libros_2502472321.webp</webfeeds:featuredImage>
   <summary>👤 A cargo de: Por: Wendy Cañón Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de colección infantil Categoría: Talleres y clubes, Talleres y clubes » Taller Modalidad: Presencial Público: Infantil, 6 a 12 años Entrada: Gratuita, aforo limitado Horario: Sábado, 11:30 am - 1:30 pm Fechas de sesiones: 2027-01-23 (11:30am - 1:30pm); 2027-01-30 (11:3</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/collage%20ninos%20y%20ninas%20con%20libros_2502472321.webp" alt="Collage de niños y niñas en blanco y negro, con libros y cuadernos, sobre fondos de colores" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Por: Wendy Cañón&lt;/p&gt;
@@ -749,8 +795,9 @@
   <published>2026-11-08T07:04:03.239773-05:00</published>
   <updated>2026-11-08T07:04:03.239773-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/activity/main-image/computador-online-640x400.jpg"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/activity/main-image/computador-online-640x400.jpg" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/activity/main-image/computador-online-640x400.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/activity/main-image/computador-online-640x400.jpg"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/activity/main-image/computador-online-640x400.jpg</webfeeds:featuredImage>
   <summary>👤 A cargo de: Desarrolla tus competencias digitales Lugar: Bogotá, Biblioteca Luis Ángel Arango, Laboratorio Categoría: Talleres y clubes, Talleres y clubes » Taller Modalidad: Presencial Público: Jóvenes, 13 a 17 años, Familias Entrada: Gratuita, aforo limitado Horario: Sábado, 2:00 pm - 4:00 pm Fechas de sesiones: 2027-01-30 (2:00pm - 4:00pm); 20</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/activity/main-image/computador-online-640x400.jpg" alt="Ilustración de joven trabajando en su computador" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Desarrolla tus competencias digitales&lt;/p&gt;
@@ -767,8 +814,9 @@
   <published>2026-11-06T20:48:30.987069-05:00</published>
   <updated>2026-11-06T20:48:30.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/55171098072_d8a96d351d_c.jpg"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/55171098072_d8a96d351d_c.jpg" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/55171098072_d8a96d351d_c.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/55171098072_d8a96d351d_c.jpg"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/55171098072_d8a96d351d_c.jpg</webfeeds:featuredImage>
   <summary>👤 A cargo de: Ven al museo y participa en esta clase Lugar: Bogotá, Museo de Arte Miguel Urrutia - MAMU, Sala de exposiciones temporales Piso 3 Categoría: Talleres y clubes, Talleres y clubes » Visita guiada Modalidad: Presencial Público: Jóvenes, Adultos Entrada: Gratuita, inscripción previa Horario: Viernes, 4:00 pm - 5:30 pm Fechas de sesiones: </summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/55171098072_d8a96d351d_c.jpg" alt="Foto de una sala de exposición" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Ven al museo y participa en esta clase&lt;/p&gt;
@@ -784,8 +832,9 @@
   <published>2026-11-06T20:48:23.987069-05:00</published>
   <updated>2026-11-06T20:48:23.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/IR1045%20-%201%20%281%29.jpeg"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/IR1045%20-%201%20%281%29.jpeg" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/IR1045%20-%201%20%281%29.jpeg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/IR1045%20-%201%20%281%29.jpeg"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/IR1045%20-%201%20%281%29.jpeg</webfeeds:featuredImage>
   <summary>👤 A cargo de: Una activación para escuchar, descubrir y reconocer las historias que habitan nuestros territorios. Lugar: Bogotá, Museo de Arte Miguel Urrutia - MAMU, Sala de exposiciones temporales - Piso 2 Categoría: Charlas y conferencias, Charlas y conferencias » Interacción Modalidad: Presencial Público: Jóvenes Entrada: Gratuita Horario: Sábad</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/IR1045%20-%201%20%281%29.jpeg" alt="Foto donde se ve un carrito" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Una activación para escuchar, descubrir y reconocer las historias que habitan nuestros territorios.&lt;/p&gt;
@@ -801,8 +850,9 @@
   <published>2026-11-06T20:48:11.987069-05:00</published>
   <updated>2026-11-06T20:48:11.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Gen%C3%A9tica%20Pluvial%20Shirley%20Malambo.jpg"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Gen%C3%A9tica%20Pluvial%20Shirley%20Malambo.jpg" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Gen%C3%A9tica%20Pluvial%20Shirley%20Malambo.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Gen%C3%A9tica%20Pluvial%20Shirley%20Malambo.jpg"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Gen%C3%A9tica%20Pluvial%20Shirley%20Malambo.jpg</webfeeds:featuredImage>
   <summary>👤 A cargo de: Un taller a propósito de la exposición Imagen Regional 10 Lugar: Bogotá, Museo de Arte Miguel Urrutia - MAMU, Sala de exposiciones temporales - Piso 2 Categoría: Talleres y clubes, Talleres y clubes » Taller Modalidad: Presencial Público: Jóvenes Entrada: Gratuita, inscripción previa Horario: Sábado, 3:00 pm - 6:00 pm Fechas de sesion</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Gen%C3%A9tica%20Pluvial%20Shirley%20Malambo.jpg" alt="fotografía donde se ve la cabeza de una mujer con su cabello, de espaldas" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Un taller a propósito de la exposición Imagen Regional 10&lt;/p&gt;
@@ -818,8 +868,9 @@
   <published>2026-11-06T20:48:07.987069-05:00</published>
   <updated>2026-11-06T20:48:07.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/articulos/artesanos-chia-640x400.jpg"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/articulos/artesanos-chia-640x400.jpg" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/articulos/artesanos-chia-640x400.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/articulos/artesanos-chia-640x400.jpg"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/articulos/artesanos-chia-640x400.jpg</webfeeds:featuredImage>
   <summary>👤 A cargo de: Un taller para crear un álbum fotográfico navideño Lugar: Bogotá, Museo de Arte Miguel Urrutia - MAMU, Exposición Permanente de la Colección de Arte Categoría: Talleres y clubes, Talleres y clubes » Taller Modalidad: Presencial Público: 6 a 12 años, Familias Entrada: Gratuita, inscripción previa Horario: Sábado, 10:00 am - 1:00 pm Fec</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/articulos/artesanos-chia-640x400.jpg" alt="Fotografía de una familia de artesanos de Chía" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Un taller para crear un álbum fotográfico navideño&lt;/p&gt;
@@ -835,8 +886,9 @@
   <published>2026-11-06T20:48:06.987069-05:00</published>
   <updated>2026-11-06T20:48:06.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Serie%20Pogo%20VIII%20.webp"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Serie%20Pogo%20VIII%20.webp" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Serie%20Pogo%20VIII%20.webp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Serie%20Pogo%20VIII%20.webp"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Serie%20Pogo%20VIII%20.webp</webfeeds:featuredImage>
   <summary>👤 A cargo de: Despidamos el año cantando Lugar: Bogotá, Museo de Arte Miguel Urrutia - MAMU, Sala de exposiciones temporales Piso 3 Categoría: Charlas y conferencias, Charlas y conferencias » Interacción Modalidad: Presencial Público: Jóvenes Entrada: Gratuita Horario: Sábado, 4:00 pm - 6:00 pm Fechas de sesiones: 2026-12-19 (4:00pm - 6:00pm) Bolet</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/Serie%20Pogo%20VIII%20.webp" alt="Serie Pogo VIII, Gertjan Bartelsman" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Despidamos el año cantando&lt;/p&gt;
@@ -852,8 +904,9 @@
   <published>2026-11-06T20:47:57.987069-05:00</published>
   <updated>2026-11-06T20:47:57.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Octavie%20Dostaler-Lalonde%20y%20Artem%20Belogurov.webp?itok=LokNOvmp"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Octavie%20Dostaler-Lalonde%20y%20Artem%20Belogurov.webp?itok=LokNOvmp" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Octavie%20Dostaler-Lalonde%20y%20Artem%20Belogurov.webp?itok=LokNOvmp" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Octavie%20Dostaler-Lalonde%20y%20Artem%20Belogurov.webp?itok=LokNOvmp"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Octavie%20Dostaler-Lalonde%20y%20Artem%20Belogurov.webp?itok=LokNOvmp</webfeeds:featuredImage>
   <summary>Violonchelo y pianoforte Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-02-28 (11:00am - 1:00pm) Octavie Dostaler-L</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Octavie%20Dostaler-Lalonde%20y%20Artem%20Belogurov.webp?itok=LokNOvmp" alt="Hombre con un pianoforte y mujer con un violonchelo" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Violonchelo y pianoforte&lt;/p&gt;
@@ -868,8 +921,9 @@
   <published>2026-11-06T20:47:56.987069-05:00</published>
   <updated>2026-11-06T20:47:56.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Les%20Talens%20Lyriques.webp?itok=ksAv86xb"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Les%20Talens%20Lyriques.webp?itok=ksAv86xb" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Les%20Talens%20Lyriques.webp?itok=ksAv86xb" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Les%20Talens%20Lyriques.webp?itok=ksAv86xb"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Les%20Talens%20Lyriques.webp?itok=ksAv86xb</webfeeds:featuredImage>
   <summary>Ensamble de música barroca Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Familias,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-03-07 (11:00am - 1:00pm) Fundado</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Les%20Talens%20Lyriques.webp?itok=ksAv86xb" alt="Músico dirigiendo una orquesta" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Ensamble de música barroca&lt;/p&gt;
@@ -884,8 +938,9 @@
   <published>2026-11-06T20:47:55.987069-05:00</published>
   <updated>2026-11-06T20:47:55.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/isaiah-j-thompson-cuarteto-1920x1080.jpg?itok=_IR7F3rL"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/isaiah-j-thompson-cuarteto-1920x1080.jpg?itok=_IR7F3rL" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/isaiah-j-thompson-cuarteto-1920x1080.jpg?itok=_IR7F3rL" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/isaiah-j-thompson-cuarteto-1920x1080.jpg?itok=_IR7F3rL"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/isaiah-j-thompson-cuarteto-1920x1080.jpg?itok=_IR7F3rL</webfeeds:featuredImage>
   <summary>Piano jazz Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-03-10 (7:30pm - 9:30pm) Formado en la Juilliard School of</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/isaiah-j-thompson-cuarteto-1920x1080.jpg?itok=_IR7F3rL" alt="Joven vestido de negro sentado en una silla" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Piano jazz&lt;/p&gt;
@@ -900,8 +955,9 @@
   <published>2026-11-06T20:47:54.987069-05:00</published>
   <updated>2026-11-06T20:47:54.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caucali-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=nZaLeNx9"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caucali-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=nZaLeNx9" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caucali-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=nZaLeNx9" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caucali-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=nZaLeNx9"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caucali-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=nZaLeNx9</webfeeds:featuredImage>
   <summary>Agrupación de música colombiana Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie de los jóvenes intérpretes) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Familias,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $10.500 Fechas de sesiones: 2027-03-14 (11:00</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Caucali-Foto-Marco-Roa-jovenes-interpretes-sala-conciertos-2027-1920x1080_0.jpg?itok=nZaLeNx9" alt="Caucali, Jóvenes Intérpretes 2027. Foto Marco Roa." style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Agrupación de música colombiana&lt;/p&gt;
@@ -916,8 +972,9 @@
   <published>2026-11-06T20:47:53.987069-05:00</published>
   <updated>2026-11-06T20:47:53.987069-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Genova%26Dimitrov.webp?itok=L5149b72"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Genova%26Dimitrov.webp?itok=L5149b72" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Genova%26Dimitrov.webp?itok=L5149b72" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Genova%26Dimitrov.webp?itok=L5149b72"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Genova%26Dimitrov.webp?itok=L5149b72</webfeeds:featuredImage>
   <summary>Dúo de pianos Lugar: Bogotá, Biblioteca Luis Ángel Arango, Sala de conciertos Categoría: Concierto (Serie profesional) Modalidad: Presencial Público: Jóvenes,Adultos,Adultos mayores,Turistas,Maestros y mediadores,Investigadores,Periodistas,Instituciones Entrada: $19.500 Fechas de sesiones: 2027-03-17 (7:30pm - 9:30pm) El dúo de pianos Genova &amp; Dimi</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/styles/bloque_carrusel_actividades/public/media/image/Genova%26Dimitrov.webp?itok=L5149b72" alt="Mujer y hombre sentados y de fondo unos arbustos" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-size: 1.1em; font-weight: bold; color: #1e293b; margin-top: 6px;"&gt;Dúo de pianos&lt;/p&gt;
@@ -932,8 +989,9 @@
   <published>2026-11-06T14:49:37.267738-05:00</published>
   <updated>2026-11-06T14:49:37.267738-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap3382.jpg"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap3382.jpg" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap3382.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap3382.jpg"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap3382.jpg</webfeeds:featuredImage>
   <summary>👤 A cargo de: Prendamos velitas en el museo Lugar: Bogotá, Museo de Arte Miguel Urrutia - MAMU Categoría: Talleres y clubes, Talleres y clubes » Visita-taller Modalidad: Presencial Público: Jóvenes, Adultos mayores Entrada: Gratuita Horario: Sábado, 5:00 pm - 7:00 pm Fechas de sesiones: 2026-12-07 (5:00pm - 7:00pm) Boletería Compra en línea Taquill</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap3382.jpg" alt="Pintura donde se ve una mano sosteniendo una vela y varias naranjas sobre una mesa" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Prendamos velitas en el museo&lt;/p&gt;
@@ -949,8 +1007,9 @@
   <published>2026-11-06T14:49:32.267738-05:00</published>
   <updated>2026-11-06T14:49:32.267738-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/WhatsApp%20Image%202026-11-05%20at%205.08.20%20PM.jpeg"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/WhatsApp%20Image%202026-11-05%20at%205.08.20%20PM.jpeg" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/WhatsApp%20Image%202026-11-05%20at%205.08.20%20PM.jpeg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/WhatsApp%20Image%202026-11-05%20at%205.08.20%20PM.jpeg"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/WhatsApp%20Image%202026-11-05%20at%205.08.20%20PM.jpeg</webfeeds:featuredImage>
   <summary>👤 A cargo de: Participa en esta actividad performática en la exposición Ruido Lugar: Bogotá, Museo de Arte Miguel Urrutia - MAMU, El parqueadero - espacio de experimentación Categoría: Charlas y conferencias, Charlas y conferencias » Interacción Modalidad: Presencial Público: Jóvenes, Adultos Entrada: Gratuita, aforo limitado Horario: Miércoles, 2:</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/WhatsApp%20Image%202026-11-05%20at%205.08.20%20PM.jpeg" alt="Foto donde se ve un hombre " style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Participa en esta actividad performática en la exposición Ruido&lt;/p&gt;
@@ -966,8 +1025,9 @@
   <published>2026-11-06T14:48:22.267738-05:00</published>
   <updated>2026-11-06T14:48:22.267738-05:00</updated>
   <link rel="enclosure" type="image/jpeg" href="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap0442.jpg"/>
-  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap0442.jpg" medium="image"/>
+  <media:content url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap0442.jpg" medium="image" type="image/jpeg"/>
   <media:thumbnail url="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap0442.jpg"/>
+  <webfeeds:featuredImage>https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap0442.jpg</webfeeds:featuredImage>
   <summary>👤 A cargo de: Un taller donde más que dibujar perfecto, afinaremos la mirada antes las obras Lugar: Bogotá, Biblioteca Luis Ángel Arango, Casa Republicana Categoría: Talleres y clubes, Talleres y clubes » Taller Modalidad: Presencial Público: Jóvenes Entrada: Gratuita, inscripción previa Horario: Sábado, 11:00 am - 12:00 pm Fechas de sesiones: 2026</summary>
   <content type="html">&lt;p&gt;&lt;img src="https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/media/image/ap0442.jpg" alt="Pintura donde se ve un paraguas" style="max-width: 100%; height: auto; border-radius: 6px;"&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #475569; margin: 4px 0 12px 0;"&gt;👤 &lt;strong&gt;A cargo de:&lt;/strong&gt; Un taller donde más que dibujar perfecto, afinaremos la mirada antes las obras&lt;/p&gt;

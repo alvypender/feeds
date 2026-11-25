@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <title>Behance – Concept Art</title>
   <link href="https://www.behance.net/search/projects/concept%20art" rel="alternate" type="text/html"/>
   <link href="https://alvypender.github.io/feeds/behance-concept-art.xml" rel="self" type="application/atom+xml"/>
@@ -17,7 +17,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/2c66a0258565715.Y3JvcCw5NzMsNzYxLDAsMTMw.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/2c66a0258565715.Y3JvcCw5NzMsNzYxLDAsMTMw.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/2c66a0258565715.Y3JvcCw5NzMsNzYxLDAsMTMw.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/2c66a0258565715.Y3JvcCw5NzMsNzYxLDAsMTMw.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/2c66a0258565715.Y3JvcCw5NzMsNzYxLDAsMTMw.jpg</webfeeds:featuredImage>
     <summary>Concept for a Crash game in medieval theme</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/xesus_bobomb"&gt;Xesus bobomb&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;Concept for a Crash game in medieval theme&lt;/p&gt;
@@ -43,7 +44,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/88107b257235105.Y3JvcCwxMDU3LDgyNyw0NjUsMTA5.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/88107b257235105.Y3JvcCwxMDU3LDgyNyw0NjUsMTA5.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/88107b257235105.Y3JvcCwxMDU3LDgyNyw0NjUsMTA5.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/88107b257235105.Y3JvcCwxMDU3LDgyNyw0NjUsMTA5.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/88107b257235105.Y3JvcCwxMDU3LDgyNyw0NjUsMTA5.png</webfeeds:featuredImage>
     <summary>Hexblast - Slotgame art</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/tngnguyn42"&gt;Tùng Nguyễn&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;Hexblast - Slotgame art&lt;/p&gt;
@@ -62,7 +64,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/a14d0e253605665.Y3JvcCwzMzg1LDI2NDgsMTAwLDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/a14d0e253605665.Y3JvcCwzMzg1LDI2NDgsMTAwLDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/a14d0e253605665.Y3JvcCwzMzg1LDI2NDgsMTAwLDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/a14d0e253605665.Y3JvcCwzMzg1LDI2NDgsMTAwLDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/a14d0e253605665.Y3JvcCwzMzg1LDI2NDgsMTAwLDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Tata Che con 8 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/liliel"&gt;Tata Che&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;CARTOON MOVIE STUDIES&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style="text-align:center;" class="sub-title"&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style="text-align:center;"&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
@@ -88,7 +91,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/8b62f4255852133.Y3JvcCwxNDc0LDExNTIsODEwLDEzOA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/8b62f4255852133.Y3JvcCwxNDc0LDExNTIsODEwLDEzOA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/8b62f4255852133.Y3JvcCwxNDc0LDExNTIsODEwLDEzOA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/8b62f4255852133.Y3JvcCwxNDc0LDExNTIsODEwLDEzOA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/8b62f4255852133.Y3JvcCwxNDc0LDExNTIsODEwLDEzOA.png</webfeeds:featuredImage>
     <summary>Temet is an animated series project developed through character design and visual development, with a mysterious, gothic atmosphere at its core.
 
 For this project, I worked on the development of the main cast, exploring silhouettes, proportions, expressions, gestures and colour to define distinct personalities and establish a cohesive visual language.
@@ -144,7 +148,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/dff3fd255382965.Y3JvcCw2MDAwLDQ2OTMsMCw4OQ.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/dff3fd255382965.Y3JvcCw2MDAwLDQ2OTMsMCw4OQ.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/dff3fd255382965.Y3JvcCw2MDAwLDQ2OTMsMCw4OQ.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/dff3fd255382965.Y3JvcCw2MDAwLDQ2OTMsMCw4OQ.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/dff3fd255382965.Y3JvcCw2MDAwLDQ2OTMsMCw4OQ.png</webfeeds:featuredImage>
     <summary>Proyecto por Nhật Anh con 23 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/nhtanhdng"&gt;Nhật Anh&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7b0748255382965.6aa9457b62482.png" alt="PORTFOLIO 2026 | GAME &amp;amp; CONCEPT ARTIST" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -185,7 +190,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/37b93a255635955.Y3JvcCwxOTk5LDE1NjQsMCwxMzg.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/37b93a255635955.Y3JvcCwxOTk5LDE1NjQsMCwxMzg.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/37b93a255635955.Y3JvcCwxOTk5LDE1NjQsMCwxMzg.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/37b93a255635955.Y3JvcCwxOTk5LDE1NjQsMCwxMzg.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/37b93a255635955.Y3JvcCwxOTk5LDE1NjQsMCwxMzg.png</webfeeds:featuredImage>
     <summary>My portfolio for 2026</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/mohamednasser2361"&gt;MOHAMED NASSER&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;My portfolio for 2026&lt;/p&gt;
@@ -226,7 +232,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/547d2d254909519.Y3JvcCwxNzI1LDEzNTAsMTcsMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/547d2d254909519.Y3JvcCwxNzI1LDEzNTAsMTcsMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/547d2d254909519.Y3JvcCwxNzI1LDEzNTAsMTcsMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/547d2d254909519.Y3JvcCwxNzI1LDEzNTAsMTcsMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/547d2d254909519.Y3JvcCwxNzI1LDEzNTAsMTcsMA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Mahmoud Abdallaa con 23 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/mahmoudabdallaa1"&gt;Mahmoud Abdallaa&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b173ed254909519.6a90b4bdbec73.jpg" alt="Portfolio" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -266,7 +273,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/193b3f254121931.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpeg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/193b3f254121931.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpeg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/193b3f254121931.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpeg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/193b3f254121931.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpeg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/193b3f254121931.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpeg</webfeeds:featuredImage>
     <summary>Proyecto por Elise Lowry con 26 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/eliselowry"&gt;Elise Lowry&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2e2ed7254121931.6a7b12edb10c5.jpeg" alt="Artist portfolio" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -309,7 +317,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/5a2090253374543.Y3JvcCwyNDgyLDE5NDIsNiww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5a2090253374543.Y3JvcCwyNDgyLDE5NDIsNiww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5a2090253374543.Y3JvcCwyNDgyLDE5NDIsNiww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5a2090253374543.Y3JvcCwyNDgyLDE5NDIsNiww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/5a2090253374543.Y3JvcCwyNDgyLDE5NDIsNiww.jpg</webfeeds:featuredImage>
     <summary>Cyberpunk RED is a tabletop role-playing game by R. Talsorian Games. This is an unofficial fan-made character design case and is not affiliated with or endorsed by R. Talsorian Games.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/row_static"&gt;🟢 Cab Bage&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;Cyberpunk RED is a tabletop role-playing game by R. Talsorian Games. This is an unofficial fan-made character design case and is not affiliated with or endorsed by R. Talsorian Games.&lt;/p&gt;
@@ -338,7 +347,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/e190cd252350921.Y3JvcCwxMDA3LDc4OCwzODksMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e190cd252350921.Y3JvcCwxMDA3LDc4OCwzODksMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e190cd252350921.Y3JvcCwxMDA3LDc4OCwzODksMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e190cd252350921.Y3JvcCwxMDA3LDc4OCwzODksMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/e190cd252350921.Y3JvcCwxMDA3LDc4OCwzODksMA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Linh Trần con 32 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/linhtrn217"&gt;Linh Trần&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b7d602252350921.6a5570aced7cd.jpg" alt="2026 PORTFOLIO | 2D ARTIST" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -387,7 +397,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/47e2ab249154857.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/47e2ab249154857.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/47e2ab249154857.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/47e2ab249154857.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/47e2ab249154857.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg</webfeeds:featuredImage>
     <summary>I aim to tell stories through my art.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/carlotadelap"&gt;Carlota De la Prida&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;I aim to tell stories through my art.&lt;/p&gt;
@@ -418,7 +429,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/bddabf246226539.Y3JvcCwxODA3LDE0MTQsOTMsMA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/bddabf246226539.Y3JvcCwxODA3LDE0MTQsOTMsMA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/bddabf246226539.Y3JvcCwxODA3LDE0MTQsOTMsMA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/bddabf246226539.Y3JvcCwxODA3LDE0MTQsOTMsMA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/bddabf246226539.Y3JvcCwxODA3LDE0MTQsOTMsMA.png</webfeeds:featuredImage>
     <summary>Proyecto por Iman Najwa con 29 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/ImanNajwaa"&gt;Iman Najwa&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/723a73246226539.69cf97a75ef28.png" alt="PORTFOLIO" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -464,7 +476,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/3124bf246187819.Y3JvcCwxMTI3LDg4MSwwLDA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/3124bf246187819.Y3JvcCwxMTI3LDg4MSwwLDA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/3124bf246187819.Y3JvcCwxMTI3LDg4MSwwLDA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/3124bf246187819.Y3JvcCwxMTI3LDg4MSwwLDA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/3124bf246187819.Y3JvcCwxMTI3LDg4MSwwLDA.png</webfeeds:featuredImage>
     <summary>Proyecto por Bengü Polat con 15 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/bengpolat"&gt;Bengü Polat&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/19b8c6246187819.69be86c73fa95.png" alt="Mini Portfolio" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -496,7 +509,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/688e49240993071.Y3JvcCwyMjgzLDE3ODYsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/688e49240993071.Y3JvcCwyMjgzLDE3ODYsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/688e49240993071.Y3JvcCwyMjgzLDE3ODYsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/688e49240993071.Y3JvcCwyMjgzLDE3ODYsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/688e49240993071.Y3JvcCwyMjgzLDE3ODYsMCww.jpg</webfeeds:featuredImage>
     <summary>Fantasy character design</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/dariox905"&gt;Dario Armenta&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;Fantasy character design&lt;/p&gt;
@@ -516,7 +530,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/301d02239643677.Y3JvcCwxMzk5LDEwOTUsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/301d02239643677.Y3JvcCwxMzk5LDEwOTUsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/301d02239643677.Y3JvcCwxMzk5LDEwOTUsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/301d02239643677.Y3JvcCwxMzk5LDEwOTUsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/301d02239643677.Y3JvcCwxMzk5LDEwOTUsMCww.jpg</webfeeds:featuredImage>
     <summary>This is my personal project where I designed a sci-fi samurai team made of animal characters. I wanted to try something new and create misfit warriors who still feel like one team. It was really fun to work on these seven designs, and I learned a lot during the process. I hope you enjoy this project.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/justnaresh"&gt;Naresh Bisen&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;This is my personal project where I designed a sci-fi samurai team made of animal characters. I wanted to try something new and create misfit warriors who still feel like one team. It was really fun to work on these seven designs, and I learned a lot during the process. I hope you enjoy this project.&lt;/p&gt;
@@ -546,7 +561,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/f952b8236756471.Y3JvcCwxNzk4LDE0MDcsMzUxLDA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/f952b8236756471.Y3JvcCwxNzk4LDE0MDcsMzUxLDA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/f952b8236756471.Y3JvcCwxNzk4LDE0MDcsMzUxLDA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/f952b8236756471.Y3JvcCwxNzk4LDE0MDcsMzUxLDA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/f952b8236756471.Y3JvcCwxNzk4LDE0MDcsMzUxLDA.png</webfeeds:featuredImage>
     <summary>A collection of selected works — concept art, illustration, and design projects created between 2022–2025.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/alisadoluda"&gt;Alisa Doluda&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;A collection of selected works — concept art, illustration, and design projects created between 2022–2025.&lt;/p&gt;
@@ -565,7 +581,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/c7b0f9236471005.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c7b0f9236471005.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c7b0f9236471005.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c7b0f9236471005.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/c7b0f9236471005.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png</webfeeds:featuredImage>
     <summary>Proyecto por Trần Phương Thảo con 28 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/trnphngtho3"&gt;Trần Phương Thảo&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7cea85236471005.68ece7b3a53ff.png" alt="2D Art &amp;amp; Animation PORTFOLIO" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -610,7 +627,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/c6bd69234520787.68c4e0302f37e.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c6bd69234520787.68c4e0302f37e.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c6bd69234520787.68c4e0302f37e.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c6bd69234520787.68c4e0302f37e.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/c6bd69234520787.68c4e0302f37e.jpg</webfeeds:featuredImage>
     <summary>This is the summary of my current work that I’ve done in 2024 and 2025 ✨</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/annguyen121"&gt;OSIRIS Nguyen&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;This is the summary of my current work that I’ve done in 2024 and 2025 ✨&lt;/p&gt;
@@ -649,7 +667,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/eeff73205223901.Y3JvcCw1NzUzLDQ1MDAsMTEyNSww.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/eeff73205223901.Y3JvcCw1NzUzLDQ1MDAsMTEyNSww.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/eeff73205223901.Y3JvcCw1NzUzLDQ1MDAsMTEyNSww.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/eeff73205223901.Y3JvcCw1NzUzLDQ1MDAsMTEyNSww.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/eeff73205223901.Y3JvcCw1NzUzLDQ1MDAsMTEyNSww.png</webfeeds:featuredImage>
     <summary>Proyecto por Tuoi Bong con 53 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/bongart0608"&gt;Tuoi Bong&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/eef8cb205223901.66c15187dcd63.png" alt="2D Game Artist PORTFOLIO - Bong (2024)" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -719,7 +738,8 @@ The project includes character lineups, gesture and expression studies, and colo
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/286e6e136581905.Y3JvcCwyMDgxLDE2MjgsMTAwNCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/286e6e136581905.Y3JvcCwyMDgxLDE2MjgsMTAwNCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/286e6e136581905.Y3JvcCwyMDgxLDE2MjgsMTAwNCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/286e6e136581905.Y3JvcCwyMDgxLDE2MjgsMTAwNCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/286e6e136581905.Y3JvcCwyMDgxLDE2MjgsMTAwNCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Romain Jouandeau con 19 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/romainjouanderau"&gt;Romain Jouandeau&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;Here is a selection of some of the art I did working on Ghost Of Tsushima's Directors Cut over at Sony Sucker Punch Productions. One year after Ghost of Tsushima was released, we released a remastered version including a brand new Island called Iki. &lt;br&gt;&lt;/div&gt;&lt;/div&gt;

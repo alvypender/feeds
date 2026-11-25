@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <title>Behance – Curated Projects</title>
   <link href="https://www.behance.net/search/projects/curated" rel="alternate" type="text/html"/>
   <link href="https://alvypender.github.io/feeds/behance-curated.xml" rel="self" type="application/atom+xml"/>
@@ -17,7 +17,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/b482c5258708879.Y3JvcCw0MzE0LDMzNzUsOTUwLDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b482c5258708879.Y3JvcCw0MzE0LDMzNzUsOTUwLDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b482c5258708879.Y3JvcCw0MzE0LDMzNzUsOTUwLDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b482c5258708879.Y3JvcCw0MzE0LDMzNzUsOTUwLDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/b482c5258708879.Y3JvcCw0MzE0LDMzNzUsOTUwLDA.jpg</webfeeds:featuredImage>
     <summary>A commercial for the release of the Curated by Cadillac program for the Escalade IQ. Motion directed by Lukas Dong &amp; still photography by Oskar Bakke. 
 
 Produced by Porch House.</summary>
@@ -50,7 +51,8 @@ Produced by Porch House.&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/d3033b257516913.Y3JvcCwyMzE3LDE4MTMsMjU4LDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/d3033b257516913.Y3JvcCwyMzE3LDE4MTMsMjU4LDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/d3033b257516913.Y3JvcCwyMzE3LDE4MTMsMjU4LDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/d3033b257516913.Y3JvcCwyMzE3LDE4MTMsMjU4LDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/d3033b257516913.Y3JvcCwyMzE3LDE4MTMsMjU4LDA.jpg</webfeeds:featuredImage>
     <summary>Branding
 Creme Curated 
 
@@ -88,7 +90,8 @@ cremecurated.com&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/1ad754256998115.Y3JvcCwxNjE2LDEyNjQsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/1ad754256998115.Y3JvcCwxNjE2LDEyNjQsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/1ad754256998115.Y3JvcCwxNjE2LDEyNjQsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/1ad754256998115.Y3JvcCwxNjE2LDEyNjQsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/1ad754256998115.Y3JvcCwxNjE2LDEyNjQsMCww.jpg</webfeeds:featuredImage>
     <summary>A creative healthcare social media campaign for Curate, combining bold visuals, clever concepts, and clear messaging to make healthcare more human, accessible, and engaging.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/ashikurrahman98"&gt;Ashikur Rahman&lt;/a&gt;, &lt;a href="https://www.behance.net/designersohanur"&gt;Sohanur Rahman&lt;/a&gt;, &lt;a href="https://www.behance.net/sskrajeen"&gt;Sabit Sami Khan&lt;/a&gt;, &lt;a href="https://www.behance.net/shakildesign"&gt;SHAKIL SHAKHAWAT&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;A creative healthcare social media campaign for Curate, combining bold visuals, clever concepts, and clear messaging to make healthcare more human, accessible, and engaging.&lt;/p&gt;
@@ -111,7 +114,8 @@ cremecurated.com&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/e989c3254529831.Y3JvcCwxNjE2LDEyNjQsMCww.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e989c3254529831.Y3JvcCwxNjE2LDEyNjQsMCww.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e989c3254529831.Y3JvcCwxNjE2LDEyNjQsMCww.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e989c3254529831.Y3JvcCwxNjE2LDEyNjQsMCww.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/e989c3254529831.Y3JvcCwxNjE2LDEyNjQsMCww.png</webfeeds:featuredImage>
     <summary>NoirWave - Digital Festival Store
 A curated digital store for contemporary art, visuals, music and NFT artifacts.
 An immersive interface where digital culture meets collectible design</summary>
@@ -151,7 +155,8 @@ An immersive interface where digital culture meets collectible design&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/e4eb3a253271113.Y3JvcCwxNjE2LDEyNjQsMCww.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e4eb3a253271113.Y3JvcCwxNjE2LDEyNjQsMCww.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e4eb3a253271113.Y3JvcCwxNjE2LDEyNjQsMCww.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e4eb3a253271113.Y3JvcCwxNjE2LDEyNjQsMCww.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/e4eb3a253271113.Y3JvcCwxNjE2LDEyNjQsMCww.png</webfeeds:featuredImage>
     <summary>Folio is an AI-driven mobile app that helps readers discover books, track their progress, and stay motivated through personalized recommendations and a distraction-free reading experience.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/olexandyashech"&gt;Oleksandra Yashechkina&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;Folio is an AI-driven mobile app that helps readers discover books, track their progress, and stay motivated through personalized recommendations and a distraction-free reading experience.&lt;/p&gt;
@@ -183,7 +188,8 @@ An immersive interface where digital culture meets collectible design&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/c51d48250200705.Y3JvcCwxMTUwLDkwMCwxMSww.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c51d48250200705.Y3JvcCwxMTUwLDkwMCwxMSww.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c51d48250200705.Y3JvcCwxMTUwLDkwMCwxMSww.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c51d48250200705.Y3JvcCwxMTUwLDkwMCwxMSww.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/c51d48250200705.Y3JvcCwxMTUwLDkwMCwxMSww.png</webfeeds:featuredImage>
     <summary>When Relleno reached out to us in January 2025, one thing was already clear: the product was ready. But there was a problem: the brand wasn’t telling that story.
 
 There was no clear voice.
@@ -254,7 +260,8 @@ And that’s exactly where Relleno needed to play.&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/538461249422121.Y3JvcCwxMjEyLDk0OCwwLDA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/538461249422121.Y3JvcCwxMjEyLDk0OCwwLDA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/538461249422121.Y3JvcCwxMjEyLDk0OCwwLDA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/538461249422121.Y3JvcCwxMjEyLDk0OCwwLDA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/538461249422121.Y3JvcCwxMjEyLDk0OCwwLDA.png</webfeeds:featuredImage>
     <summary>A store with one rule: nothing gets listed unless it earns its place. Lumo is a curated marketplace for desk gadgets. No sponsored slots, no brand partnerships — just a short list of things worth buying. The brief was to design a full e-commerce experience that feels as deliberate as the products it sells.
 
 The result is a complete storefront: all pages a real online store needs, designed across desktop, tablet, and mobile. Light and dark themes throughout. The visual language stays out of the way — clear enough to shop, considered enough to feel like someone made real choices about what belongs here.</summary>
@@ -289,7 +296,8 @@ The result is a complete storefront: all pages a real online store needs, design
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/9a2f25246424825.Y3JvcCwxMzQyLDEwNTAsMzMsMA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/9a2f25246424825.Y3JvcCwxMzQyLDEwNTAsMzMsMA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/9a2f25246424825.Y3JvcCwxMzQyLDEwNTAsMzMsMA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/9a2f25246424825.Y3JvcCwxMzQyLDEwNTAsMzMsMA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/9a2f25246424825.Y3JvcCwxMzQyLDEwNTAsMzMsMA.png</webfeeds:featuredImage>
     <summary>A selection of identity marks shaped through strategy, typography, and distilled visual language. Each project is developed for clarity, scalability, and long-term brand presence across touchpoints.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/dara_t"&gt;Daryna T.&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;A selection of identity marks shaped through strategy, typography, and distilled visual language. Each project is developed for clarity, scalability, and long-term brand presence across touchpoints.&lt;/p&gt;
@@ -320,7 +328,8 @@ The result is a complete storefront: all pages a real online store needs, design
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/e644f4245965517.Y3JvcCw5MTIsNzEzLDI4MiwyNA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e644f4245965517.Y3JvcCw5MTIsNzEzLDI4MiwyNA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e644f4245965517.Y3JvcCw5MTIsNzEzLDI4MiwyNA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e644f4245965517.Y3JvcCw5MTIsNzEzLDI4MiwyNA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/e644f4245965517.Y3JvcCw5MTIsNzEzLDI4MiwyNA.jpg</webfeeds:featuredImage>
     <summary>MASCOTFOLIO (Curated Edition) is a curated collection of mascot design explorations and character-based branding projects I have completed over the years to date. This portfolio showcases a variety of mascot logo concepts, character identities, and illustrative branding solutions developed for diverse visual directions and brand needs. Each mascot is designed with a clear silhouette, an expressive personality, scalability across various sizes, and the ability to adapt for both digital and print applications.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/reza_azmi"&gt;Reza Azmi&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;MASCOTFOLIO (Curated Edition) is a curated collection of mascot design explorations and character-based branding projects I have completed over the years to date. This portfolio showcases a variety of mascot logo concepts, character identities, and illustrative branding solutions developed for diverse visual directions and brand needs. Each mascot is designed with a clear silhouette, an expressive personality, scalability across various sizes, and the ability to adapt for both digital and print applications.&lt;/p&gt;
@@ -358,7 +367,8 @@ The result is a complete storefront: all pages a real online store needs, design
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/c48285242174553.Y3JvcCwxNDAwLDEwOTUsMCw4Ng.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c48285242174553.Y3JvcCwxNDAwLDEwOTUsMCw4Ng.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c48285242174553.Y3JvcCwxNDAwLDEwOTUsMCw4Ng.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c48285242174553.Y3JvcCwxNDAwLDEwOTUsMCw4Ng.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/c48285242174553.Y3JvcCwxNDAwLDEwOTUsMCw4Ng.jpg</webfeeds:featuredImage>
     <summary>Creme Curated クリーム キュレーティド - Editorial
 
 Ce nouveau drop dévoile la partie studio de Creme Curated. À travers de nouvelles pièces et des coupes repensées, la collection affirme une écriture plus graphique du vêtement. Toujours dans les teintes crème, les nouveaux volumes dialoguent avec les matières pour structurer la silhouette. Le monogramme CS vient désormais incarner cette évolution visuelle, symbole du lien entre création graphique et mode.</summary>
@@ -389,7 +399,8 @@ Ce nouveau drop dévoile la partie studio de Creme Curated. À travers de nouvel
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb3a5240685291.Y3JvcCwxMDU0LDgyNCwxNzcsNjYz.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb3a5240685291.Y3JvcCwxMDU0LDgyNCwxNzcsNjYz.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb3a5240685291.Y3JvcCwxMDU0LDgyNCwxNzcsNjYz.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb3a5240685291.Y3JvcCwxMDU0LDgyNCwxNzcsNjYz.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb3a5240685291.Y3JvcCwxMDU0LDgyNCwxNzcsNjYz.png</webfeeds:featuredImage>
     <summary>A curated store of home objects and everyday artifacts.
 We explore the objects of life, the ones that hold memory, meaning and the quiet traces of love.
 Spoons, plates, vessels, fragments of daily rituals.
@@ -427,7 +438,8 @@ A brand shaped by slow observation and a timeless mood.&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/1d619e239203937.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/1d619e239203937.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/1d619e239203937.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/1d619e239203937.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/1d619e239203937.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png</webfeeds:featuredImage>
     <summary>Reading/Rooms is a curated library and cultural space in New York that brings together books, work, and dialogue. 
 
 Fonts in use:
@@ -515,7 +527,8 @@ Werkstatt.School&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/6b1707236649417.Y3JvcCwxMDY4MSw4MzU1LDg0Niww.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/6b1707236649417.Y3JvcCwxMDY4MSw4MzU1LDg0Niww.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/6b1707236649417.Y3JvcCwxMDY4MSw4MzU1LDg0Niww.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/6b1707236649417.Y3JvcCwxMDY4MSw4MzU1LDg0Niww.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/6b1707236649417.Y3JvcCwxMDY4MSw4MzU1LDg0Niww.png</webfeeds:featuredImage>
     <summary>The Curated Finds is a new interior styling and visual storytelling brand rooted in poetic design and thoughtful curation. This project is currently in its early development stage, and I’m looking to collaborate with a graphic designer to help define its visual identity before officially launching. The brand blends styling services, curated décor finds, and floral arrangements with an aesthetic that feels quiet, warm, and editorial. It’s inspired by nature, minimalism, and the emotional depth of interiors that tell a story.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/greatbastae87b"&gt;Farida Gasanova&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;The Curated Finds is a new interior styling and visual storytelling brand rooted in poetic design and thoughtful curation. This project is currently in its early development stage, and I’m looking to collaborate with a graphic designer to help define its visual identity before officially launching. The brand blends styling services, curated décor finds, and floral arrangements with an aesthetic that feels quiet, warm, and editorial. It’s inspired by nature, minimalism, and the emotional depth of interiors that tell a story.&lt;/p&gt;
@@ -547,7 +560,8 @@ Werkstatt.School&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/5909d9229790773.Y3JvcCwxNTg5LDEyNDMsMjU1LDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5909d9229790773.Y3JvcCwxNTg5LDEyNDMsMjU1LDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5909d9229790773.Y3JvcCwxNTg5LDEyNDMsMjU1LDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5909d9229790773.Y3JvcCwxNTg5LDEyNDMsMjU1LDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/5909d9229790773.Y3JvcCwxNTg5LDEyNDMsMjU1LDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Toby Ng con 20 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/tobyng"&gt;Toby Ng&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/c8c06d229790773.686b9d0f324b4.jpg" alt="Curating Homes" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -586,7 +600,8 @@ Werkstatt.School&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/7d3e11221204131.Y3JvcCwxMjYzLDk4Nyw3NSww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7d3e11221204131.Y3JvcCwxMjYzLDk4Nyw3NSww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7d3e11221204131.Y3JvcCwxMjYzLDk4Nyw3NSww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7d3e11221204131.Y3JvcCwxMjYzLDk4Nyw3NSww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/7d3e11221204131.Y3JvcCwxMjYzLDk4Nyw3NSww.jpg</webfeeds:featuredImage>
     <summary>Discover new fonts: contemporarytype.com
 
 Contemporary Type is a carefully curated marketplace.
@@ -644,7 +659,8 @@ Every typeface in our collection is handpicked with appreciation for the craft. 
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/83c818217557791.Y3JvcCw0NDQ5LDM0ODAsNjA1LDA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/83c818217557791.Y3JvcCw0NDQ5LDM0ODAsNjA1LDA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/83c818217557791.Y3JvcCw0NDQ5LDM0ODAsNjA1LDA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/83c818217557791.Y3JvcCw0NDQ5LDM0ODAsNjA1LDA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/83c818217557791.Y3JvcCw0NDQ5LDM0ODAsNjA1LDA.png</webfeeds:featuredImage>
     <summary>Bite is a personalized app designed to transform how you explore and enjoy food. Whether you're searching for cozy cafes, vibrant bars, or hidden gems, Bite curates tailored recommendations to suit your preferences.
 
 With its sleek, intuitive design, the app features interactive maps, AI-powered insights, and smart filters that make every decision effortless. From uncovering trending spots to sharing favorites with friends, Bite elevates every step of your culinary journey.</summary>
@@ -690,7 +706,8 @@ With its sleek, intuitive design, the app features interactive maps, AI-powered 
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/9541c2196063433.Y3JvcCwyNDQwLDE5MDksMzAsMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/9541c2196063433.Y3JvcCwyNDQwLDE5MDksMzAsMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/9541c2196063433.Y3JvcCwyNDQwLDE5MDksMzAsMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/9541c2196063433.Y3JvcCwyNDQwLDE5MDksMzAsMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/9541c2196063433.Y3JvcCwyNDQwLDE5MDksMzAsMA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Kévin Magalhaes con 15 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/kevinmagalhaes"&gt;Kévin Magalhaes&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/37e102196063433.667298e1cfd19.jpg" alt="Creme Curated - Web Design" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -725,7 +742,8 @@ With its sleek, intuitive design, the app features interactive maps, AI-powered 
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/223a7c160573769.Y3JvcCwxMjAxLDk0MCw3Nyww.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/223a7c160573769.Y3JvcCwxMjAxLDk0MCw3Nyww.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/223a7c160573769.Y3JvcCwxMjAxLDk0MCw3Nyww.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/223a7c160573769.Y3JvcCwxMjAxLDk0MCw3Nyww.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/223a7c160573769.Y3JvcCwxMjAxLDk0MCw3Nyww.png</webfeeds:featuredImage>
     <summary>Hòa Sắc, the annual festival of The Faculty of Arts &amp; Design in Van Lang University, is reaching its 15th year in 2022, with the name VỌNG (ECHO). This vibrant event symbolizes the graceful convergence of sound waves, echoing the essence of harmony and unity in a symphony.
 
 As VỌNG bridges the past, present, and future, it serves as a timeless reunion for students, fostering everlasting connections within The Faculty of Arts &amp; Design.</summary>
@@ -777,7 +795,8 @@ As VỌNG bridges the past, present, and future, it serves as a timeless reunion
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/696d4657159609.Y3JvcCw4MDgsNjMyLDAsMA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/696d4657159609.Y3JvcCw4MDgsNjMyLDAsMA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/696d4657159609.Y3JvcCw4MDgsNjMyLDAsMA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/696d4657159609.Y3JvcCw4MDgsNjMyLDAsMA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/696d4657159609.Y3JvcCw4MDgsNjMyLDAsMA.png</webfeeds:featuredImage>
     <summary>A great meal shared with friends, old or new, can make a trip special. That’s why, starting today, you can book a table at nearly 650 restaurants across the United States directly through Airbnb, powered by Resy.
 
 Through agency Bokeh I got to illustrate as well as handle the character animation in this spot created to highlight the launch of the new "restaurant tab" in the Airbnb app.</summary>
@@ -809,7 +828,8 @@ Through agency Bokeh I got to illustrate as well as handle the character animati
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/7680179.54733a3c35bcb.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7680179.54733a3c35bcb.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7680179.54733a3c35bcb.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7680179.54733a3c35bcb.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/7680179.54733a3c35bcb.png</webfeeds:featuredImage>
     <summary>How and why we do the selection of projects to be showcased on the Behance Gallery and the Served Sites.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/oscarramosorozco"&gt;Oscar Ramos Orozco&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;How and why we do the selection of projects to be showcased on the Behance Gallery and the Served Sites.&lt;/p&gt;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <title>Behance – Textures</title>
   <link href="https://www.behance.net/search/projects?search=textures" rel="alternate" type="text/html"/>
   <link href="https://alvypender.github.io/feeds/behance-textures.xml" rel="self" type="application/atom+xml"/>
@@ -17,7 +17,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/2fef1b254229597.Y3JvcCw3NTYsNTkxLDQ0LDI2NA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/2fef1b254229597.Y3JvcCw3NTYsNTkxLDQ0LDI2NA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/2fef1b254229597.Y3JvcCw3NTYsNTkxLDQ0LDI2NA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/2fef1b254229597.Y3JvcCw3NTYsNTkxLDQ0LDI2NA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/2fef1b254229597.Y3JvcCw3NTYsNTkxLDQ0LDI2NA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Eva Faerch con 12 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/evafaerch"&gt;Eva Faerch&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;Castle Lite/Foresters Arms ⁣&lt;br&gt;Ou Bar de Parfum⁣&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;How do we turn a place into a bottle in the most delightful, conceptually smart way? &lt;/div&gt;&lt;div style="text-align:center;"&gt;By drawing from the scent, the look of the architecture, decor, what people love about it, what makes it iconic, its history, the stories and traditions.&lt;/div&gt;&lt;/div&gt;
@@ -47,7 +48,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/c78f56258135441.Y3JvcCwxNTUyLDEyMTQsMTM0LDA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c78f56258135441.Y3JvcCwxNTUyLDEyMTQsMTM0LDA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c78f56258135441.Y3JvcCwxNTUyLDEyMTQsMTM0LDA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/c78f56258135441.Y3JvcCwxNTUyLDEyMTQsMTM0LDA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/c78f56258135441.Y3JvcCwxNTUyLDEyMTQsMTM0LDA.png</webfeeds:featuredImage>
     <summary>Bring a natural, realistic touch to your creative projects with this collection of paper towel textures.
 
 Featuring authentic paper fibers, subtle wrinkles, soft folds, and delicate surface details, these textures are perfect for adding depth and a natural feel to your designs.
@@ -86,7 +88,8 @@ Ideal for graphic design, digital art, backgrounds, mockups, packaging design, s
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/387e13258114441.Y3JvcCwxNDAwLDEwOTUsMCwxMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/387e13258114441.Y3JvcCwxNDAwLDEwOTUsMCwxMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/387e13258114441.Y3JvcCwxNDAwLDEwOTUsMCwxMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/387e13258114441.Y3JvcCwxNDAwLDEwOTUsMCwxMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/387e13258114441.Y3JvcCwxNDAwLDEwOTUsMCwxMA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Züli ‏‏‎ con 5 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/zzuli"&gt;Züli ‏‏‎&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/91e2c8258114441.6aed1dd245702.jpg" alt="Texure - Professional Textures Studio" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -114,7 +117,8 @@ Ideal for graphic design, digital art, backgrounds, mockups, packaging design, s
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/7df936241439733.Y3JvcCwyNjMwLDIwNTcsNTk4LDI1Mw.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7df936241439733.Y3JvcCwyNjMwLDIwNTcsNTk4LDI1Mw.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7df936241439733.Y3JvcCwyNjMwLDIwNTcsNTk4LDI1Mw.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7df936241439733.Y3JvcCwyNjMwLDIwNTcsNTk4LDI1Mw.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/7df936241439733.Y3JvcCwyNjMwLDIwNTcsNTk4LDI1Mw.jpg</webfeeds:featuredImage>
     <summary>JEEPERS, Horrid Stickers is a horror sticker pack.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/thallesmller"&gt;Thalles Müller&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;JEEPERS, Horrid Stickers is a horror sticker pack.&lt;/p&gt;
@@ -157,7 +161,8 @@ Ideal for graphic design, digital art, backgrounds, mockups, packaging design, s
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/dca4a3252555237.Y3JvcCwyNTU2LDIwMDAsMjIxLDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/dca4a3252555237.Y3JvcCwyNTU2LDIwMDAsMjIxLDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/dca4a3252555237.Y3JvcCwyNTU2LDIwMDAsMjIxLDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/dca4a3252555237.Y3JvcCwyNTU2LDIwMDAsMjIxLDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/dca4a3252555237.Y3JvcCwyNTU2LDIwMDAsMjIxLDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Henk Leijen con 13 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/henkleijen"&gt;Henk Leijen&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontfamily" style='font-family:"times new roman",times,georgia,serif;'&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:80px;"&gt;ICELAND&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontfamily" style='font-family:"times new roman",times,georgia,serif;'&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:80px;"&gt;TEXTURES&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontfamily" style='font-family:"times new roman",times,georgia,serif;'&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:80px;"&gt;SVINAFELLSJOKULL&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
@@ -188,7 +193,8 @@ Ideal for graphic design, digital art, backgrounds, mockups, packaging design, s
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/5a4316249998253.Y3JvcCwxNTQ2LDEyMTAsMTE4LDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5a4316249998253.Y3JvcCwxNTQ2LDEyMTAsMTE4LDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5a4316249998253.Y3JvcCwxNTQ2LDEyMTAsMTE4LDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5a4316249998253.Y3JvcCwxNTQ2LDEyMTAsMTE4LDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/5a4316249998253.Y3JvcCwxNTQ2LDEyMTAsMTE4LDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Elsa Roran con 6 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/elsaroran"&gt;Elsa Roran&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9aedd8249998253.6a1496bca080a.jpg" alt="MMR: Mixed media textures bundle" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -215,7 +221,8 @@ Ideal for graphic design, digital art, backgrounds, mockups, packaging design, s
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/ec36b1249833623.Y3JvcCwxMzY3LDEwNzAsMTE1LDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/ec36b1249833623.Y3JvcCwxMzY3LDEwNzAsMTE1LDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/ec36b1249833623.Y3JvcCwxMzY3LDEwNzAsMTE1LDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/ec36b1249833623.Y3JvcCwxMzY3LDEwNzAsMTE1LDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/ec36b1249833623.Y3JvcCwxMzY3LDEwNzAsMTE1LDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Wilma Nguyen con 7 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/wilmanguyen"&gt;Wilma Nguyen&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/92188e249833623.6a103707f1030.jpg" alt="Grunge paper marks textures" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -243,7 +250,8 @@ Ideal for graphic design, digital art, backgrounds, mockups, packaging design, s
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/2ae093247887009.Y3JvcCwxNDAwLDEwOTUsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/2ae093247887009.Y3JvcCwxNDAwLDEwOTUsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/2ae093247887009.Y3JvcCwxNDAwLDEwOTUsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/2ae093247887009.Y3JvcCwxNDAwLDEwOTUsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/2ae093247887009.Y3JvcCwxNDAwLDEwOTUsMCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Züli ‏‏‎ con 1 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/zzuli"&gt;Züli ‏‏‎&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/321817247887009.69e570a401c13.jpg" alt="Free 100 Analog Textures Pack V.02" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -262,7 +270,8 @@ Ideal for graphic design, digital art, backgrounds, mockups, packaging design, s
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/02fee3246910303.Y3JvcCwxMzY0LDEwNjcsMTE4LDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/02fee3246910303.Y3JvcCwxMzY0LDEwNjcsMTE4LDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/02fee3246910303.Y3JvcCwxMzY0LDEwNjcsMTE4LDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/02fee3246910303.Y3JvcCwxMzY0LDEwNjcsMTE4LDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/02fee3246910303.Y3JvcCwxMzY0LDEwNjcsMTE4LDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Magnus Mccall con 10 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/magnusmccall"&gt;Magnus Mccall&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2cb8c5246910303.69ce9746d38ce.jpg" alt="ACID PRINTER TEXTURE PACK" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -292,7 +301,8 @@ Ideal for graphic design, digital art, backgrounds, mockups, packaging design, s
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/934e99245890819.Y3JvcCwxMTkyLDkzMywxMDMsMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/934e99245890819.Y3JvcCwxMTkyLDkzMywxMDMsMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/934e99245890819.Y3JvcCwxMTkyLDkzMywxMDMsMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/934e99245890819.Y3JvcCwxMTkyLDkzMywxMDMsMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/934e99245890819.Y3JvcCwxMTkyLDkzMywxMDMsMA.jpg</webfeeds:featuredImage>
     <summary>BASIC LINE Part 2: TIME STAINED PAPER
 
 Authentic 1950s-style paper, softened and aged with special treatments. Its surface carries the texture of sand, faded tones, and stains — some soft, some dense — as if each sheet has its own story.
@@ -334,7 +344,8 @@ Perfect for graphic designers looking to add a sense of time, texture, and tacti
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/4b39ba240013295.Y3JvcCwxNDAwLDEwOTUsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/4b39ba240013295.Y3JvcCwxNDAwLDEwOTUsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/4b39ba240013295.Y3JvcCwxNDAwLDEwOTUsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/4b39ba240013295.Y3JvcCwxNDAwLDEwOTUsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/4b39ba240013295.Y3JvcCwxNDAwLDEwOTUsMCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Züli ‏‏‎ con 1 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/zzuli"&gt;Züli ‏‏‎&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/ebb47c240013295.6935cebe0b815.jpg" alt="Free 140 Soft Textures Pack V.01" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -354,7 +365,8 @@ Perfect for graphic designers looking to add a sense of time, texture, and tacti
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/e637a3238017445.Y3JvcCwzOTk5LDMxMjgsMCw0MzU.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e637a3238017445.Y3JvcCwzOTk5LDMxMjgsMCw0MzU.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e637a3238017445.Y3JvcCwzOTk5LDMxMjgsMCw0MzU.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e637a3238017445.Y3JvcCwzOTk5LDMxMjgsMCw0MzU.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/e637a3238017445.Y3JvcCwzOTk5LDMxMjgsMCw0MzU.jpg</webfeeds:featuredImage>
     <summary>Proyecto por noakabes edición limitada con 5 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/noakabes"&gt;noakabes edición limitada&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/bf0b36238017445.690c4187486fa.jpg" alt="FREE TEXTURES PACK - VOLUME 5" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -377,7 +389,8 @@ Perfect for graphic designers looking to add a sense of time, texture, and tacti
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/6c9192232878015.Y3JvcCwxNjM2LDEyODAsMTQxLDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/6c9192232878015.Y3JvcCwxNjM2LDEyODAsMTQxLDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/6c9192232878015.Y3JvcCwxNjM2LDEyODAsMTQxLDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/6c9192232878015.Y3JvcCwxNjM2LDEyODAsMTQxLDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/6c9192232878015.Y3JvcCwxNjM2LDEyODAsMTQxLDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Textexp ! con 10 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/Germanviktorov"&gt;Textexp !&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f961e2232878015.68a50b7692218.jpg" alt="DITHERTONE PRINTER TEXTURE PACK" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -405,7 +418,8 @@ Perfect for graphic designers looking to add a sense of time, texture, and tacti
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/85ee8a216808293.Y3JvcCwxODIwLDE0MjMsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/85ee8a216808293.Y3JvcCwxODIwLDE0MjMsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/85ee8a216808293.Y3JvcCwxODIwLDE0MjMsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/85ee8a216808293.Y3JvcCwxODIwLDE0MjMsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/85ee8a216808293.Y3JvcCwxODIwLDE0MjMsMCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por MiksKS - con 11 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/miksks"&gt;MiksKS -&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;&lt;span class="italic"&gt;&lt;span class="bold"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:84px;"&gt;VINTAGE PAPER TEXTURES&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
@@ -437,7 +451,8 @@ Perfect for graphic designers looking to add a sense of time, texture, and tacti
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/7c0905211527883.Y3JvcCwxMjE3LDk1Miw5MCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7c0905211527883.Y3JvcCwxMjE3LDk1Miw5MCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7c0905211527883.Y3JvcCwxMjE3LDk1Miw5MCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/7c0905211527883.Y3JvcCwxMjE3LDk1Miw5MCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/7c0905211527883.Y3JvcCwxMjE3LDk1Miw5MCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Valeriia Kalinova con 11 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/kalinovva"&gt;Valeriia Kalinova&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/4e6531211527883.6724a26709506.jpg" alt="Doodles of Christmas" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -466,7 +481,8 @@ Perfect for graphic designers looking to add a sense of time, texture, and tacti
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/24f1d8208593561.Y3JvcCwxNDAwLDEwOTUsMCwxNTI.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/24f1d8208593561.Y3JvcCwxNDAwLDEwOTUsMCwxNTI.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/24f1d8208593561.Y3JvcCwxNDAwLDEwOTUsMCwxNTI.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/24f1d8208593561.Y3JvcCwxNDAwLDEwOTUsMCwxNTI.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/24f1d8208593561.Y3JvcCwxNDAwLDEwOTUsMCwxNTI.jpg</webfeeds:featuredImage>
     <summary>Folded Paper Texture Pack is a collection of high-resolution scanned paper textures designed to add realistic folds, creases, grain, and worn analog character to digital artwork. The pack has a dark, tactile, editorial feel, making it suitable for designers who want to bring physical paper depth and distressed surface detail into clean digital compositions.
 
 The set includes 30 folded paper textures in JPG format, each supplied at 6250 × 8700 px for large-scale and high-detail use. These textures work well as overlays, backgrounds, poster surfaces, collage materials, branding accents, and atmospheric finishing layers for both print and digital projects.</summary>
@@ -496,7 +512,8 @@ The set includes 30 folded paper textures in JPG format, each supplied at 6250 �
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/399be6208152701.Y3JvcCwxOTk1LDE1NjAsNDA0LDE1Mw.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/399be6208152701.Y3JvcCwxOTk1LDE1NjAsNDA0LDE1Mw.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/399be6208152701.Y3JvcCwxOTk1LDE1NjAsNDA0LDE1Mw.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/399be6208152701.Y3JvcCwxOTk1LDE1NjAsNDA0LDE1Mw.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/399be6208152701.Y3JvcCwxOTk1LDE1NjAsNDA0LDE1Mw.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Textexp ! con 10 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/Germanviktorov"&gt;Textexp !&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/120d4d208152701.66e9eb9b5af5b.jpg" alt="ROUGH PRINT vintage texture pack" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -525,7 +542,8 @@ The set includes 30 folded paper textures in JPG format, each supplied at 6250 �
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/46c1b2191767443.Y3JvcCwzMjMyLDI1MjgsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/46c1b2191767443.Y3JvcCwzMjMyLDI1MjgsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/46c1b2191767443.Y3JvcCwzMjMyLDI1MjgsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/46c1b2191767443.Y3JvcCwzMjMyLDI1MjgsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/46c1b2191767443.Y3JvcCwzMjMyLDI1MjgsMCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por noakabes edición limitada con 7 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/noakabes"&gt;noakabes edición limitada&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/48316c191767443.65d112ce2fc3f.jpg" alt="FREE TEXTURES PACK - VOLUME 4" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -550,7 +568,8 @@ The set includes 30 folded paper textures in JPG format, each supplied at 6250 �
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/ff55c6191764151.Y3JvcCwzMjMyLDI1MjgsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/ff55c6191764151.Y3JvcCwzMjMyLDI1MjgsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/ff55c6191764151.Y3JvcCwzMjMyLDI1MjgsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/ff55c6191764151.Y3JvcCwzMjMyLDI1MjgsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/ff55c6191764151.Y3JvcCwzMjMyLDI1MjgsMCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por noakabes edición limitada con 7 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/noakabes"&gt;noakabes edición limitada&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/cae06c191764151.65d1033cda0ab.jpg" alt="FREE TEXTURES PACK - VOLUME 3" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -575,7 +594,8 @@ The set includes 30 folded paper textures in JPG format, each supplied at 6250 �
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/ce19bd191716877.Y3JvcCwzMjMyLDI1MjgsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/ce19bd191716877.Y3JvcCwzMjMyLDI1MjgsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/ce19bd191716877.Y3JvcCwzMjMyLDI1MjgsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/ce19bd191716877.Y3JvcCwzMjMyLDI1MjgsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/ce19bd191716877.Y3JvcCwzMjMyLDI1MjgsMCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por noakabes edición limitada con 7 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/noakabes"&gt;noakabes edición limitada&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/aa05fd191716877.65d02258599aa.jpg" alt="FREE TEXTURES PACK - VOLUME 2" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;

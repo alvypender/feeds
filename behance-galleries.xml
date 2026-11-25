@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <title>Behance – Galleries (Best of Behance)</title>
   <link href="https://www.behance.net/galleries" rel="alternate" type="text/html"/>
   <link href="https://alvypender.github.io/feeds/behance-galleries.xml" rel="self" type="application/atom+xml"/>
   <id>https://www.behance.net/galleries</id>
-  <updated>2026-11-24T03:00:24+00:00</updated>
+  <updated>2026-11-24T09:45:24+00:00</updated>
+  <entry>
+    <title>UAPC - illustration and branding</title>
+    <link href="https://www.behance.net/gallery/258786781/UAPC-illustration-and-branding" rel="alternate" type="text/html"/>
+    <id>https://www.behance.net/gallery/258786781/UAPC-illustration-and-branding</id>
+    <published>2026-11-24T09:45:24+00:00</published>
+    <updated>2026-11-24T09:45:24+00:00</updated>
+    <author>
+      <name>Jonathan Calugi</name>
+      <uri>https://www.behance.net/Lovers</uri>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/5eefdf258786781.Y3JvcCwxMjUyLDk4MCwyNCww.jpg"/>
+    <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5eefdf258786781.Y3JvcCwxMjUyLDk4MCwyNCww.jpg"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5eefdf258786781.Y3JvcCwxMjUyLDk4MCwyNCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/5eefdf258786781.Y3JvcCwxMjUyLDk4MCwyNCww.jpg</webfeeds:featuredImage>
+    <summary>UAPC it's a cool moment in Pistoia City where  the city center become a sort of new green park in town. 
+UAPC means "un altro parco in città" the idea it's to create something really basic but open to future. 
+Every letter become larger like an empty space where you could plant new idea. 
+I'm starting with my draw but every year this space will be open to new sign! 
+And what happen to my illustration?? 
+In the night we went all around city adding green sign with spry and marker on all poster!
+Like grass everything change and tell different story to reader. </summary>
+    <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/Lovers"&gt;Jonathan Calugi&lt;/a&gt;&lt;/p&gt;
+&lt;p style="font-style: italic; color: #444;"&gt;UAPC it's a cool moment in Pistoia City where  the city center become a sort of new green park in town. 
+UAPC means "un altro parco in città" the idea it's to create something really basic but open to future. 
+Every letter become larger like an empty space where you could plant new idea. 
+I'm starting with my draw but every year this space will be open to new sign! 
+And what happen to my illustration?? 
+In the night we went all around city adding green sign with spry and marker on all poster!
+Like grass everything change and tell different story to reader. &lt;/p&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9b9b9a258786781.6b0551025471a.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;Hi Folks!&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;I had the opportunity to work on UAPC rebrand.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;UAPC it's a cool moment in Pistoia City where  the city center become a sort of new green park in town. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;UAPC means "un altro parco in città" and the branding idea it's to create something really basic &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;but open to future. Every letter become larger like an empty space where you could plant new idea. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;I'm starting with my draw but every year this space will be open to new sign! &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;And what happen to my illustration?? &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;In the night we went all around city adding green sign with spry and marker on all poster!&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;Like grass everything change and tell different story for reader. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:16px;" class="texteditor-inline-fontsize"&gt;Hope you like enjoy and spread love! Jonathan.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style="margin: 18px 0;"&gt;&lt;iframe src="https://player.vimeo.com/video/1249277589?autoplay=1&amp;amp;muted=1&amp;amp;controls=0&amp;amp;loop=1&amp;amp;muted=0" width="1920" height="1080" frameborder="0" allow="autoplay" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:13px;"&gt;animation by Stefano Meazza&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d6983d258786781.6b005e291b21e.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ccfc8d258786781.6b0419efd4951.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ba4eab258786781.6b0419efd4521.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/870748258786781.6b008113d75ca.png" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/163c62258786781.6b00722bac1b0.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1cb089258786781.6b00722bac941.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 18px 0;"&gt;&lt;iframe src="https://player.vimeo.com/video/1249333269?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;controls=1&amp;amp;loop=1&amp;amp;muted=0&amp;amp;autopause=0" width="1920" height="1080" style="border: 0;" allow="autoplay; picture-in-picture" allowfullscreen sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/fe9263258786781.6b00722c4491b.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0bde3c258786781.6b042428ca86a.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/032815258786781.6b005e291a04c.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b58142258786781.6b04164011c06.gif" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/725d18258786781.6b0416401172c.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b5030e258786781.6b0081aee6dbd.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9b7563258786781.6b0411bf0afa2.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6da44d258786781.6b0300e8266ee.png" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2cab59258786781.6b04345e4bda5.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/20bdf5258786781.6b0420d35d95d.png" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/85b214258786781.6b04245bd8447.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/83bd5d258786781.6b005e291a5e3.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d575a258786781.6b0416406b814.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/95b500258786781.6b0416406b03a.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/975974258786781.6b043bcdc5ae3.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1ebe3b258786781.6b043bcdc5627.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/44988e258786781.6b04345e4b8f4.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/e31e57258786781.6b042428cac72.jpg" alt="UAPC - illustration and branding" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
+&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:16px;"&gt;enjoy and spread love  Share with everyone you want :) Thankssss&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;a href="http://www.instagram.com/jonathanlovers" target="_blank" rel="nofollow"&gt;follow instagram&lt;/a&gt; &lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;CIAOOOOO!!&lt;/div&gt;&lt;/div&gt;
+&lt;hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;" /&gt;&lt;p&gt;&lt;a href="https://www.behance.net/gallery/258786781/UAPC-illustration-and-branding" style="font-weight: bold; text-decoration: none; color: #0057ff;"&gt;Ver proyecto completo en Behance (25 imágenes) &amp;rarr;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Barcelona Pattern Flower</title>
     <link href="https://www.behance.net/gallery/258369849/Barcelona-Pattern-Flower" rel="alternate" type="text/html"/>
@@ -17,7 +78,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/fdead4258369849.Y3JvcCw4MDgsNjMyLDAsMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/fdead4258369849.Y3JvcCw4MDgsNjMyLDAsMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/fdead4258369849.Y3JvcCw4MDgsNjMyLDAsMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/fdead4258369849.Y3JvcCw4MDgsNjMyLDAsMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/fdead4258369849.Y3JvcCw4MDgsNjMyLDAsMA.jpg</webfeeds:featuredImage>
     <summary>A collection of floral patterns and motifs inspired by the flowers of Barcelona. Exploring shapes, colors, and organic forms, this series translates the city's botanical beauty into a contemporary visual language through illustration and surface pattern design. Original Work by Pablo Ferreira - losdibujitosdepablo</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/holadibujitosdepablo"&gt;Hi losdibujitosdepablo&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;A collection of floral patterns and motifs inspired by the flowers of Barcelona. Exploring shapes, colors, and organic forms, this series translates the city's botanical beauty into a contemporary visual language through illustration and surface pattern design. Original Work by Pablo Ferreira - losdibujitosdepablo&lt;/p&gt;
@@ -63,7 +125,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb237258914069.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb237258914069.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb237258914069.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb237258914069.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/5fb237258914069.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.png</webfeeds:featuredImage>
     <summary>An iconic membership</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/FormaandCo"&gt;Forma &amp;amp; Co&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;An iconic membership&lt;/p&gt;
@@ -104,7 +167,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/fd2c5c258771223.Y3JvcCwxMjg3LDEwMDcsNTcsMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/fd2c5c258771223.Y3JvcCwxMjg3LDEwMDcsNTcsMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/fd2c5c258771223.Y3JvcCwxMjg3LDEwMDcsNTcsMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/fd2c5c258771223.Y3JvcCwxMjg3LDEwMDcsNTcsMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/fd2c5c258771223.Y3JvcCwxMjg3LDEwMDcsNTcsMA.jpg</webfeeds:featuredImage>
     <summary>In the midst of the uniform concrete apartment blocks of Hervanta, Finnish architects Raili and Reima Pietilä created an expressive counterpoint: the Hervanta Central Axis (Hervannan keskusakseli). Built in two phases in 1979 and 1989, this red-brick complex—comprising a community center, church, and library—forms the social and sculptural heart of the district. Focusing on the organic, jagged brick facades, deep arcades, and dramatic roof lines that break away from classic functionalism. Exploring how the Nordic light interacts with the rough texture and warm tones of the red brick. The series was taken in July 2026. All images © Sebastian Weiss • le-blanc.com • instagram.com/le_blanc • twitter.com/helloleblanc • mail: hello@le-blanc.com</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/leblanc"&gt;Sebastian Weiss&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;In the midst of the uniform concrete apartment blocks of Hervanta, Finnish architects Raili and Reima Pietilä created an expressive counterpoint: the Hervanta Central Axis (Hervannan keskusakseli). Built in two phases in 1979 and 1989, this red-brick complex—comprising a community center, church, and library—forms the social and sculptural heart of the district. Focusing on the organic, jagged brick facades, deep arcades, and dramatic roof lines that break away from classic functionalism. Exploring how the Nordic light interacts with the rough texture and warm tones of the red brick. The series was taken in July 2026. All images © Sebastian Weiss • le-blanc.com • instagram.com/le_blanc • twitter.com/helloleblanc • mail: hello@le-blanc.com&lt;/p&gt;
@@ -152,7 +216,8 @@
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/f674a8258299411.Y3JvcCwxNzg5LDE0MDAsNTMsMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/f674a8258299411.Y3JvcCwxNzg5LDE0MDAsNTMsMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/f674a8258299411.Y3JvcCwxNzg5LDE0MDAsNTMsMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/f674a8258299411.Y3JvcCwxNzg5LDE0MDAsNTMsMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/f674a8258299411.Y3JvcCwxNzg5LDE0MDAsNTMsMA.jpg</webfeeds:featuredImage>
     <summary>I had the pleasure of returning to Percy Jackson and the Olympians as Lead Illustrator for the Season 2 main-on-end title sequence, collaborating once again with the talented team at Imaginary Forces.
 
 Inspired by the Art Deco influences of Season 1, this new chapter dives into the Sea of Monsters, bringing Greek mythology to life through a maritime-inspired world of mythical creatures, ancient symbols and epic oceanic landscapes.</summary>
@@ -199,7 +264,8 @@ Inspired by the Art Deco influences of Season 1, this new chapter dives into the
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/412ea6257147987.Y3JvcCwzOTAxLDMwNTIsNTg5LDA.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/412ea6257147987.Y3JvcCwzOTAxLDMwNTIsNTg5LDA.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/412ea6257147987.Y3JvcCwzOTAxLDMwNTIsNTg5LDA.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/412ea6257147987.Y3JvcCwzOTAxLDMwNTIsNTg5LDA.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/412ea6257147987.Y3JvcCwzOTAxLDMwNTIsNTg5LDA.png</webfeeds:featuredImage>
     <summary>A cast of everyday characters, with the proportions deliberately off. Hands take the lead, bodies bend, and gradients give color its weight. Made for tech, full of people.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/oddis"&gt;Oddis *&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;A cast of everyday characters, with the proportions deliberately off. Hands take the lead, bodies bend, and gradients give color its weight. Made for tech, full of people.&lt;/p&gt;
@@ -231,7 +297,8 @@ Inspired by the Art Deco influences of Season 1, this new chapter dives into the
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/b455b6258719649.Y3JvcCwyMjMzLDE3NDYsMCw1.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b455b6258719649.Y3JvcCwyMjMzLDE3NDYsMCw1.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b455b6258719649.Y3JvcCwyMjMzLDE3NDYsMCw1.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b455b6258719649.Y3JvcCwyMjMzLDE3NDYsMCw1.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/b455b6258719649.Y3JvcCwyMjMzLDE3NDYsMCw1.jpg</webfeeds:featuredImage>
     <summary>Although the medium is a book, we approached the design from the application level—how it appears at exhibitions and events, in peripheral materials, and in extended products for corporate gifting; how it conveys the professionalism of paper-can technology while also delivering the visual impact of a new brand image. All of this needed to be balanced.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/saysooo1512"&gt;SAYSOOO 自白&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;Although the medium is a book, we approached the design from the application level—how it appears at exhibitions and events, in peripheral materials, and in extended products for corporate gifting; how it conveys the professionalism of paper-can technology while also delivering the visual impact of a new brand image. All of this needed to be balanced.&lt;/p&gt;
@@ -329,7 +396,8 @@ Inspired by the Art Deco influences of Season 1, this new chapter dives into the
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/8101e4258879787.Y3JvcCwxNzY2LDEzODEsNTI5LDEzMQ.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/8101e4258879787.Y3JvcCwxNzY2LDEzODEsNTI5LDEzMQ.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/8101e4258879787.Y3JvcCwxNzY2LDEzODEsNTI5LDEzMQ.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/8101e4258879787.Y3JvcCwxNzY2LDEzODEsNTI5LDEzMQ.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/8101e4258879787.Y3JvcCwxNzY2LDEzODEsNTI5LDEzMQ.jpg</webfeeds:featuredImage>
     <summary>Proyecto por 天朝 酱油 con 30 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/HMM458"&gt;天朝 酱油&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/61e773258879787.6b03b188edbc0.jpg" alt="【乌江榨菜—江小侠】" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -376,7 +444,8 @@ Inspired by the Art Deco influences of Season 1, this new chapter dives into the
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/56675b258848129.Y3JvcCw0NzAzLDM2NzksMTI4LDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/56675b258848129.Y3JvcCw0NzAzLDM2NzksMTI4LDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/56675b258848129.Y3JvcCw0NzAzLDM2NzksMTI4LDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/56675b258848129.Y3JvcCw0NzAzLDM2NzksMTI4LDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/56675b258848129.Y3JvcCw0NzAzLDM2NzksMTI4LDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por 阿祖不收手 NON STOP® con 26 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/azubushoushou"&gt;阿祖不收手 NON STOP®&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/3bc65d258848129.6b02a448b3ff5.jpg" alt="「B4DAWN」服装品牌设计|Clothing Brand identity" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -421,7 +490,8 @@ Inspired by the Art Deco influences of Season 1, this new chapter dives into the
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/8e8591258856833.Y3JvcCwzODQwLDMwMDMsMCww.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/8e8591258856833.Y3JvcCwzODQwLDMwMDMsMCww.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/8e8591258856833.Y3JvcCwzODQwLDMwMDMsMCww.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/8e8591258856833.Y3JvcCwzODQwLDMwMDMsMCww.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/8e8591258856833.Y3JvcCwzODQwLDMwMDMsMCww.png</webfeeds:featuredImage>
     <summary>Proyecto por Jean-Michel Verbeeck con 24 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/jmverbeeck"&gt;Jean-Michel Verbeeck&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;&lt;span style="color:#c7c7c7;" class="texteditor-inline-color"&gt;Google Next 2026&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="color:#c7c7c7;" class="texteditor-inline-color"&gt;&lt;span style="font-size:12px;" class="texteditor-inline-fontsize"&gt;3D letter designs - Together with Brand New School.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size:12px;" class="texteditor-inline-fontsize"&gt;www.brandnewschool.com&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
@@ -463,7 +533,8 @@ Inspired by the Art Deco influences of Season 1, this new chapter dives into the
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/453df8258802881.Y3JvcCwxNzQ1LDEzNjUsMTUxLDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/453df8258802881.Y3JvcCwxNzQ1LDEzNjUsMTUxLDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/453df8258802881.Y3JvcCwxNzQ1LDEzNjUsMTUxLDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/453df8258802881.Y3JvcCwxNzQ1LDEzNjUsMTUxLDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/453df8258802881.Y3JvcCwxNzQ1LDEzNjUsMTUxLDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Patrycja Makowska con 11 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/patulkaa"&gt;Patrycja Makowska&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/c037dd258802881.6b00d12b5d8ac.jpg" alt="EARTH UNBOUND" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -492,7 +563,8 @@ Inspired by the Art Deco influences of Season 1, this new chapter dives into the
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/b674d1258783495.Y3JvcCwxMDIyLDgwMCw4OCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b674d1258783495.Y3JvcCwxMDIyLDgwMCw4OCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b674d1258783495.Y3JvcCwxMDIyLDgwMCw4OCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b674d1258783495.Y3JvcCwxMDIyLDgwMCw4OCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/b674d1258783495.Y3JvcCwxMDIyLDgwMCw4OCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Slanted Publishers con 31 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/slanted"&gt;Slanted Publishers&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a71bef258783495.6b004b1a950d7.jpg" alt="Yearbook of Type #8" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -541,7 +613,8 @@ Inspired by the Art Deco influences of Season 1, this new chapter dives into the
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/809e95258775237.Y3JvcCwyNjY3LDIwODYsMCw5ODM.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/809e95258775237.Y3JvcCwyNjY3LDIwODYsMCw5ODM.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/809e95258775237.Y3JvcCwyNjY3LDIwODYsMCw5ODM.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/809e95258775237.Y3JvcCwyNjY3LDIwODYsMCw5ODM.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/809e95258775237.Y3JvcCwyNjY3LDIwODYsMCw5ODM.jpg</webfeeds:featuredImage>
     <summary>Orange House is a private retreat in Sokcho, Gangwon-do, operated by xyz. The rebranding project focused on refining its brand identity through a redesigned symbol and wordmark, enhancing visual applications across online and offline touchpoints, and developing a cohesive signage system to create a consistent brand experience throughout the space.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/wan8"&gt;Jaewan Yu&lt;/a&gt;, &lt;a href="https://www.behance.net/sungyeolkim2"&gt;Sungyeol Kim&lt;/a&gt;, &lt;a href="https://www.behance.net/helloxyz"&gt;xyz Group&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;Orange House is a private retreat in Sokcho, Gangwon-do, operated by xyz. The rebranding project focused on refining its brand identity through a redesigned symbol and wordmark, enhancing visual applications across online and offline touchpoints, and developing a cohesive signage system to create a consistent brand experience throughout the space.&lt;/p&gt;
@@ -581,7 +654,8 @@ Inspired by the Art Deco influences of Season 1, this new chapter dives into the
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/80e83e258774867.Y3JvcCwyNjg0LDIxMDAsNTksMA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/80e83e258774867.Y3JvcCwyNjg0LDIxMDAsNTksMA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/80e83e258774867.Y3JvcCwyNjg0LDIxMDAsNTksMA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/80e83e258774867.Y3JvcCwyNjg0LDIxMDAsNTksMA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/80e83e258774867.Y3JvcCwyNjg0LDIxMDAsNTksMA.jpg</webfeeds:featuredImage>
     <summary>Key visuals and posters and on-site environmental graphics for Information Day 2026 of the Faculty of Architecture, the University of Hong Kong —  Information day is an annual event of the University welcoming prospectus students, staff and mentors to gather and share academic experiences through admission talks, workshops and campus tours
 
 The key visual is served as a prelude of the faculty rebranding to be launched in 2027, with a hint on the future prospect of architecture, real estate and urban planning industries, addressing a closer synergy with digitalisation, artificial intelligence utilisation, and cross-disciplinary education and learning. The multi-faceted identity accentuates the diversity and versatility of the faculty education spectrum ranging from architecture, landscape studies, urban studies, surveying to multidisciplinary design.
@@ -612,82 +686,6 @@ Stack Sans Headline by Koto&lt;/p&gt;
 &lt;hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;" /&gt;&lt;p&gt;&lt;a href="https://www.behance.net/gallery/258774867/Information-Day-2026-HKU-Architecture" style="font-weight: bold; text-decoration: none; color: #0057ff;"&gt;Ver proyecto completo en Behance (13 imágenes) &amp;rarr;&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>The Lure of the Aria</title>
-    <link href="https://www.behance.net/gallery/258357973/The-Lure-of-the-Aria" rel="alternate" type="text/html"/>
-    <id>https://www.behance.net/gallery/258357973/The-Lure-of-the-Aria</id>
-    <published>2026-11-17T08:00:22+00:00</published>
-    <updated>2026-11-17T08:00:22+00:00</updated>
-    <author>
-      <name>Daniele Simonelli</name>
-      <uri>https://www.behance.net/dsgn89</uri>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/e71099258357973.6afc10c025da6.jpg"/>
-    <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e71099258357973.6afc10c025da6.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/e71099258357973.6afc10c025da6.jpg" medium="image"/>
-    <summary>For its fall digital issue, the Loyola Marimount University (LMU) Magazine invited readers to discover opera through a personal, playful guide written by David Davila. The article moves from beloved classics to bold contemporary works, and it dismantles the idea that opera is elitist or out of reach. Opera descends from the communal pleasure of telling stories through music, and it is for everyone.
-
-Working under the art direction of Pentagram Austin, I approached the illustrations from the same place: people. Opera is, at its core, a human art form, made of desire, jealousy, grief, humor, and defiance. Rather than depicting grand stages or spectacle, I looked for the intimate moments inside each story, the glance, the gesture, the expression that tells you what a character is feeling before they sing a note. The aim was to make newcomers feel they were being introduced to people they might already know, not to an institution.
-
-
-Client: LMU Magazine
-Text: David Davila
-Art Direction: P</summary>
-    <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/dsgn89"&gt;Daniele Simonelli&lt;/a&gt;&lt;/p&gt;
-&lt;p style="font-style: italic; color: #444;"&gt;For its fall digital issue, the Loyola Marimount University (LMU) Magazine invited readers to discover opera through a personal, playful guide written by David Davila. The article moves from beloved classics to bold contemporary works, and it dismantles the idea that opera is elitist or out of reach. Opera descends from the communal pleasure of telling stories through music, and it is for everyone.
-
-Working under the art direction of Pentagram Austin, I approached the illustrations from the same place: people. Opera is, at its core, a human art form, made of desire, jealousy, grief, humor, and defiance. Rather than depicting grand stages or spectacle, I looked for the intimate moments inside each story, the glance, the gesture, the expression that tells you what a character is feeling before they sing a note. The aim was to make newcomers feel they were being introduced to people they might already know, not to an institution.
-
-
-Client: LMU Magazine
-Text: David Davila
-Art Direction: P&lt;/p&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/a8e06d258357973.6af4a9472add6.png" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/50f0ac258357973.6af49fae46f00.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt; &lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;div style="text-align:center;"&gt;&lt;div style="text-align:center;"&gt;&lt;span style="color:#000000;" class="texteditor-inline-color"&gt;&lt;span class="bold"&gt;For its fall digital issue, the Loyola Marimount University (LMU) Magazine invited readers to discover opera through a personal, playful guide written by David Davila. &lt;a target="_blank" href="https://magazine.lmu.edu/articles/the-lure-of-the-aria/" rel="nofollow"&gt;&lt;span class="underline"&gt;The article&lt;/span&gt;&lt;/a&gt; moves from beloved classics to bold contemporary works, and it dismantles the idea that opera is elitist or out of reach. Opera descends from the communal pleasure of telling stories through music, and it is for everyone.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt; &lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span style="color:#000000;" class="texteditor-inline-color"&gt;&lt;span class="bold"&gt;Working under the art direction of Pentagram Austin, I approached the illustrations from the same place: people. Opera is, at its core, a human art form, made of desire, jealousy, grief, humor, and defiance. Rather than depicting grand stages or spectacle, I looked for the intimate moments inside each story, the glance, the gesture, the expression that tells you what a character is feeling before they sing a note.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt; &lt;/div&gt;&lt;div style="text-align:center;"&gt; &lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span style="font-size:15px;" class="texteditor-inline-fontsize"&gt;Client: LMU Magazine&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span style="font-size:15px;" class="texteditor-inline-fontsize"&gt;Text: David Davila&lt;br&gt;Art Direction: Pentagram Austin, DJ Stout, Delta Murphy&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt; &lt;/div&gt;&lt;div style="text-align:center;"&gt; &lt;/div&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;div style="text-align:center;"&gt; &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;Opener illustration GIF&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0c15e7258357973.6af4a94729bd1.gif" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;Interior illustration GIFs&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/00b95a258357973.6af4a9472eb3c.gif" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/73771e258357973.6af4a9472a530.gif" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2dc32a258357973.6af4a9472f90b.gif" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;OPERAS:&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;Carmen&lt;/span&gt;, Georges Bizet&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0d5de7258357973.6af4a9472ceb9.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;La Bohème&lt;/span&gt;, Giacomo Puccini&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b57e57258357973.6af4a94730d8d.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;The Magic Flute&lt;/span&gt;, Wolfgang Amadeus Mozart&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span style="font-size:15px;" class="texteditor-inline-fontsize"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/122b98258357973.6af4a9472dcfd.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="italic"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;Porgy and Bess&lt;/span&gt;, George Gershwin&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0ae355258357973.6af4a9472e3ea.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;Akhnaten&lt;/span&gt;, Philip Glas&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/14351c258357973.6af4a9472ffb8.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;Florencia en el Amazonas&lt;/span&gt;, Daniel Catán&lt;/span&gt;&lt;span style="font-size:15px;" class="texteditor-inline-fontsize"&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8dc3b7258357973.6af4a9472d5cd.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;Blue&lt;/span&gt;, Jeanine Tesori&lt;/span&gt;&lt;span style="font-size:15px;" class="texteditor-inline-fontsize"&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0ac802258357973.6af4a9472c719.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;Natasha, Pierre &amp;amp; The Great Comet of 1812,&lt;/span&gt; Dave Malloy&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/562737258357973.6af4a947306da.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="italic"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;Angel’s Bone,&lt;/span&gt; Du Yun&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/004adf258357973.6af4a9472f235.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;Atlas,&lt;/span&gt; Meredith Monk&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/5b5bb1258357973.6af4a9472b76c.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;span class="texteditor-inline-fontsize" style="font-size:15px;"&gt;&lt;span class="italic"&gt;The Hours&lt;/span&gt;, Kevin Puts&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b2ef79258357973.6af4a94731481.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;Sketches&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/26c9ab258357973.6af4a945c21c3.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c6dc5258357973.6af4a945c1b89.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/545c4f258357973.6af4a9462a10a.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/014123258357973.6af4a94629982.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/32b925258357973.6af4a9468e7df.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/3a086a258357973.6af4a9468e31d.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f9148e258357973.6af4a9472bf2d.jpg" alt="The Lure of the Aria" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div style="margin: 18px 0; line-height: 1.6;"&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style="text-align:center;"&gt;THANKS!&lt;/div&gt;&lt;div style="text-align:center;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;" /&gt;&lt;p&gt;&lt;a href="https://www.behance.net/gallery/258357973/The-Lure-of-the-Aria" style="font-weight: bold; text-decoration: none; color: #0057ff;"&gt;Ver proyecto completo en Behance (24 imágenes) &amp;rarr;&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <title>Illustration Collection 2026_2</title>
     <link href="https://www.behance.net/gallery/258610625/Illustration-Collection-2026_2" rel="alternate" type="text/html"/>
     <id>https://www.behance.net/gallery/258610625/Illustration-Collection-2026_2</id>
@@ -699,7 +697,8 @@ Art Direction: P&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/d23efd258610625.Y3JvcCwxNDY3LDExNDcsNDQzLDMy.png"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/d23efd258610625.Y3JvcCwxNDY3LDExNDcsNDQzLDMy.png"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/d23efd258610625.Y3JvcCwxNDY3LDExNDcsNDQzLDMy.png" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/d23efd258610625.Y3JvcCwxNDY3LDExNDcsNDQzLDMy.png" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/d23efd258610625.Y3JvcCwxNDY3LDExNDcsNDQzLDMy.png</webfeeds:featuredImage>
     <summary>Proyecto por ahra kwon con 15 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/ahrakwon"&gt;ahra kwon&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/b899bf258610625.6afc033e364ed.png" alt="Illustration Collection 2026_2" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -736,7 +735,8 @@ Art Direction: P&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/19b6f3258443801.Y3JvcCwxMDI3LDgwNCw4Niww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/19b6f3258443801.Y3JvcCwxMDI3LDgwNCw4Niww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/19b6f3258443801.Y3JvcCwxMDI3LDgwNCw4Niww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/19b6f3258443801.Y3JvcCwxMDI3LDgwNCw4Niww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/19b6f3258443801.Y3JvcCwxMDI3LDgwNCw4Niww.jpg</webfeeds:featuredImage>
     <summary>Branding and packaging for sustainably focused premium chocolate brand Love Cocoa</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/iwantdesign"&gt;I W A N T&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;Branding and packaging for sustainably focused premium chocolate brand Love Cocoa&lt;/p&gt;
@@ -779,7 +779,8 @@ Art Direction: P&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/b663b0258311461.Y3JvcCwxOTUwLDE1MjUsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b663b0258311461.Y3JvcCwxOTUwLDE1MjUsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b663b0258311461.Y3JvcCwxOTUwLDE1MjUsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b663b0258311461.Y3JvcCwxOTUwLDE1MjUsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/b663b0258311461.Y3JvcCwxOTUwLDE1MjUsMCww.jpg</webfeeds:featuredImage>
     <summary>A selection of illustrations from my ongoing work for The New York Times’ Travel 101 column.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/philiplindeman"&gt;Philip Lindeman&lt;/a&gt;&lt;/p&gt;
 &lt;p style="font-style: italic; color: #444;"&gt;A selection of illustrations from my ongoing work for The New York Times’ Travel 101 column.&lt;/p&gt;
@@ -812,7 +813,8 @@ Art Direction: P&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/fc8815257155015.Y3JvcCwxMjAwLDkzOCwwLDA.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/fc8815257155015.Y3JvcCwxMjAwLDkzOCwwLDA.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/fc8815257155015.Y3JvcCwxMjAwLDkzOCwwLDA.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/fc8815257155015.Y3JvcCwxMjAwLDkzOCwwLDA.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/fc8815257155015.Y3JvcCwxMjAwLDkzOCwwLDA.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Akatre Studio con 11 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/akatre"&gt;Akatre Studio&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9ba5ee257155015.6ad0e36309222.jpg" alt="Colors" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -841,7 +843,8 @@ Art Direction: P&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/3f934e257898127.Y3JvcCwxMDczLDgzOSw2MywxMjI.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/3f934e257898127.Y3JvcCwxMDczLDgzOSw2MywxMjI.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/3f934e257898127.Y3JvcCwxMDczLDgzOSw2MywxMjI.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/3f934e257898127.Y3JvcCwxMDczLDgzOSw2MywxMjI.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/3f934e257898127.Y3JvcCwxMDczLDgzOSw2MywxMjI.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Anastasia Chaosego con 20 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/ChaosEgo"&gt;Anastasia Chaosego&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/5f673f257898127.6ae761f27612b.jpg" alt="Looking for My Shadow" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
@@ -881,7 +884,8 @@ Art Direction: P&lt;/p&gt;
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://mir-s3-cdn-cf.behance.net/projects/max_808/b0e455254872463.Y3JvcCwxNjE2LDEyNjQsMCww.jpg"/>
     <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b0e455254872463.Y3JvcCwxNjE2LDEyNjQsMCww.jpg"/>
-    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b0e455254872463.Y3JvcCwxNjE2LDEyNjQsMCww.jpg" medium="image"/>
+    <media:content url="https://mir-s3-cdn-cf.behance.net/projects/max_808/b0e455254872463.Y3JvcCwxNjE2LDEyNjQsMCww.jpg" medium="image" type="image/jpeg"/>
+    <webfeeds:featuredImage>https://mir-s3-cdn-cf.behance.net/projects/max_808/b0e455254872463.Y3JvcCwxNjE2LDEyNjQsMCww.jpg</webfeeds:featuredImage>
     <summary>Proyecto por Denormalized ™ con 11 imágenes.</summary>
     <content type="html">&lt;p style="font-size: 1.05em;"&gt;&lt;strong&gt;Autor(es):&lt;/strong&gt; &lt;a href="https://www.behance.net/denormalized"&gt;Denormalized ™&lt;/a&gt;, &lt;a href="https://www.behance.net/graph_garmata"&gt;Roman Myronov&lt;/a&gt;, &lt;a href="https://www.behance.net/samtipikin3"&gt;Sam Tipikin&lt;/a&gt;&lt;/p&gt;
 &lt;div style="margin: 20px 0; text-align: center;"&gt;&lt;img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/84d0f3254872463.6acd06afb1a66.png" alt="Genie Healthcare" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" loading="lazy" /&gt;&lt;/div&gt;
