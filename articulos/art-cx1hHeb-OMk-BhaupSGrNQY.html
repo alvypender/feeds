@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Anthropic entierra a los agentes especializados: un solo agente con &#x27;skills&#x27; modulares y las 10 habilidades gratuitas que lo potencian — Frame &amp; Prompt</title>
+  <meta name="description" content="Los ingenieros de Anthropic ya no construyen agentes dedicados: apuestan por un agente general que carga &#x27;skills&#x27; bajo demanda, un cambio de paradigma que Xavier Mitjana desglosa en seis niveles de gestión. En paralelo, Aztec Lab presenta las diez skills de código abierto más populares para Claude C">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Anthropic entierra a los agentes especializados: un solo agente con &#x27;skills&#x27; modulares y las 10 habilidades gratuitas que lo potencian">
+  <meta property="og:description" content="Los ingenieros de Anthropic ya no construyen agentes dedicados: apuestan por un agente general que carga &#x27;skills&#x27; bajo demanda, un cambio de paradigma que Xavier Mitjana desglosa en seis niveles de gestión. En paralelo, Aztec Lab presenta las diez skills de código abierto más populares para Claude C">
+  <meta property="og:image" content="https://i.ytimg.com/vi/cx1hHeb-OMk/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-cx1hHeb-OMk-BhaupSGrNQY.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Anthropic entierra a los agentes especializados: un solo agente con &#x27;skills&#x27; modulares y las 10 habilidades gratuitas que lo potencian">
+  <meta name="twitter:description" content="Los ingenieros de Anthropic ya no construyen agentes dedicados: apuestan por un agente general que carga &#x27;skills&#x27; bajo demanda, un cambio de paradigma que Xavier Mitjana desglosa en seis niveles de gestión. En paralelo, Aztec Lab presenta las diez skills de código abierto más populares para Claude C">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/cx1hHeb-OMk/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-cx1hHeb-OMk-BhaupSGrNQY.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Anthropic entierra a los agentes especializados: un solo agente con &#x27;skills&#x27; modulares y las 10 habilidades gratuitas que lo potencian</h1>
+        <div class="metadata">
+          <span>Por <strong>Xavier Mitjana + Aztec Lab</strong></span>
+          <time datetime='2026-11-26T17:02:34.887463-05:00'>2026-11-26</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/cx1hHeb-OMk" title="Anthropic entierra a los agentes especializados: un solo agente con &#x27;skills&#x27; modulares y las 10 habilidades gratuitas que lo potencian" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=cx1hHeb-OMk" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Los ingenieros de Anthropic ya no construyen agentes dedicados: apuestan por un agente general que carga &#x27;skills&#x27; bajo demanda, un cambio de paradigma que Xavier Mitjana desglosa en seis niveles de gestión. En paralelo, Aztec Lab presenta las diez skills de código abierto más populares para Claude Code, desde humanizar textos hasta dotar de memoria al agente. El veredicto: las skills capturan el &#x27;oficio&#x27; que los modelos no tienen, pero instalar sin revisar es un riesgo de seguridad y acumular instrucciones obsoletas puede &#x27;atar&#x27; al modelo.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Xavier Mitjana</strong>: <a href="https://www.youtube.com/watch?v=cx1hHeb-OMk" target="_blank" rel="noopener">Los ingenieros de Anthropic ya no crean agentes (hacen esto)</a> · <strong>Aztec Lab</strong>: <a href="https://www.youtube.com/watch?v=BhaupSGrNQY" target="_blank" rel="noopener">10 Skills GRATIS para que tu Claude Code sea mas inteligente</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El fin del agente especializado: por qué Anthropic prefiere un genio con oficio</h3>
+<p>Durante meses, la receta para automatizar tareas con IA parecía clara: crear un agente para cada función, con instrucciones y herramientas a medida. Sin embargo, los ingenieros de Anthropic —con Barry Zhang a la cabeza— detectaron un patrón incómodo: los agentes especializados fallaban no por falta de inteligencia, sino por desconocer el &#x27;oficio&#x27;, ese conjunto de reglas implícitas, datos de clientes, identidad de marca y correcciones que definen cómo se hace el trabajo en cada empresa. La analogía que usa Xavier Mitjana en su análisis es reveladora: un genio de las matemáticas no es lo mismo que un asesor fiscal con años de experiencia; el primero puede resolver ecuaciones complejas, pero el segundo sabe qué gastos son deducibles y cómo tratar a un cliente moroso.</p>
+<p>La solución que adoptaron fue radical: en lugar de muchos agentes, un único agente general —como Claude Code— que carga &#x27;skills&#x27; (habilidades) bajo demanda. Cada skill es un paquete de instrucciones, datos y ejemplos que se activa solo cuando la tarea coincide con su descripción. Así, el agente puede tener cientos de habilidades sin saturar su contexto, porque solo lee la descripción breve y abre las instrucciones completas cuando hace falta. Antes, meter todo en un solo agente saturaba la ventana de contexto y provocaba que ignorara partes enteras de las instrucciones; con el enfoque modular, ese problema desaparece.</p>
+<p>El cambio no es cosmético: redefine la forma de trabajar con IA. Ya no se trata de programar agentes, sino de capturar conocimiento. Y ahí entra el &#x27;oficio&#x27;: las skills son el vehículo para transmitir ese conocimiento tácito que los modelos no pueden inferir por sí solos.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Los seis niveles para crear y gestionar skills: del &#x27;pídeselo a Claude&#x27; al borrado periódico</h3>
+<p>Mitjana estructura el proceso en seis niveles de complejidad creciente. El primero es el más obvio: pedirle a Claude que escriba la skill. Usando la skill nativa Skill Creator, incluida en la app de Claude, basta con describir la tarea y adjuntar ejemplos de tu trabajo —propuestas, correos, informes— para que el modelo copie estructura y tono. Es útil cuando tienes reglas claras o ejemplos representativos, pero falla si la tarea es difícil de explicar con palabras, como redactar un correo delicado. Un truco: añade en tus instrucciones generales que Claude use Skill Creator siempre que le pidas una skill nueva, para que siga buenas prácticas desde el principio.</p>
+<p>El segundo nivel es el que Mitjana recomienda para la mayoría de tareas repetitivas: realizar la tarea una vez con Claude y, al final, pedirle que convierta toda la sesión en una skill con Skill Creator, incluyendo las correcciones que hayas hecho. Así se capturan los ajustes implícitos que de otro modo se perderían. El tercer nivel lleva esto al terreno visual: grabar la pantalla directamente en la app de Claude (botón +, &#x27;grabar una skill&#x27;) mientras explicas lo que haces. Claude revisa la grabación y propone una skill. Para tareas con interacción visual —navegar una web, descargar datos de un portal— es la vía más eficaz, porque las palabras se quedan cortas. Si prefieres grabar con OBS Studio o Windows+G, puedes subir el video, pero conviene configurar una skill que haga transcripción segundo a segundo para que Claude sepa qué decías en cada momento.</p>
+<p>El cuarto nivel introduce la modularidad: crear skills separadas de datos (información de clientes), diseño (identidad visual) y definiciones (qué significa un término para tu organización), y combinarlas con las skills de tareas. Esto centraliza el contexto compartido, evita duplicaciones y permite cambios globales: si actualizas la skill de diseño, todas las tareas que la usan se benefician. El quinto nivel es el ecosistema: buscar skills gratuitas en el directorio de Anthropic (Notion, Figma, Atlassian) y en skills.sh de Vercel, ordenado por número de instalaciones. Antes de instalar una skill de terceros, pide a Claude que la revise por seguridad, ya que puede contener código. Y adáptala a tu forma de trabajar en lugar de usarla tal cual.</p>
+<p>El sexto nivel es el más contraintuitivo y quizá el más importante: cada seis meses, borra tu cloud.md, tus skills y tus hooks, y prueba a hacer la tarea sin ellos para ver si el modelo ha mejorado. Boris Cherny, creador de Claude Code, recomienda esta poda periódica para evitar el &#x27;hobbling&#x27; (atar al modelo): instrucciones que antes eran necesarias pueden limitar a modelos más potentes. Anthropic recortó más del 80% de las instrucciones de sistema en Claude Code sin pérdida de rendimiento. El criterio para recortar es claro: elimina los pasos que explican cómo hacer algo (el modelo ya lo sabe), conserva datos, marca, definiciones y correcciones (lo que el modelo no puede saber). Para detectar lo que sobra, haz una tarea con y sin la skill y compara resultados; si sale igual o mejor sin ella, recórtala.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El ecosistema de skills gratuitas: las diez joyas de código abierto para Claude Code</h3>
+<p>Mientras Anthropic marca la filosofía, la comunidad construye el catálogo. Aztec Lab recopila las diez skills de código abierto con más estrellas en GitHub, ordenadas de menor a mayor popularidad. Todas son gratuitas y se instalan en Claude Code con comandos específicos. La primera es Humanizer (más de 73.000 estrellas), que elimina las señales de texto generado por IA basándose en una guía de Wikipedia que detecta 26 señales. Úsala antes de publicar un post, mandar un correo o subir la descripción de un video. Se instala con dos comandos: /plugin marketplace add blader/humanizer y /plugin install humanizer@humanizer. Si tu Claude Code es antiguo, el comando alternativo es npx skills add blader/humanizer --global --agent claude-code. En una prueba ciega, los jueces prefirieron su versión 16 de 16 veces.</p>
+<p>La segunda es Awesome Claude Skills (80.000 estrellas), una colección de más de 1000 skills y plugins ordenados por tema. Incluye el plugin &#x27;Connect Apps&#x27;, que permite conectar Claude con más de 1000 aplicaciones (correos, tareas, Slack) usando una llave gratuita de Composio. El autor del video probó pidiendo a Claude que mandara un correo y funcionó tras conectar Composio; reinicia Claude después de instalarlo. La tercera es HyperFrames (casi 90.000 estrellas), el editor de video con IA de HeyGen, gratis y de código abierto. Permite crear videos describiéndolos a Claude, a partir de grabaciones o referencias, y editar por partes sin reiniciar: si algo no te gusta, pide cambios específicos como &#x27;título más grande&#x27; o &#x27;corte más rápido&#x27;. Se instala con npx hyperframes. El propio video de Aztec Lab fue creado con HyperFrames.</p>
+<p>La cuarta es Impeccable (116.000 estrellas), una skill de diseño que proporciona vocabulario y comandos concretos para mejorar interfaces generadas por IA. Incluye 24 comandos, un detector de 62 reglas de diseño IA, revisión de accesibilidad y rendimiento. Funciona mejor con objetivos pequeños: en lugar de pedir &#x27;que se vea mejor&#x27;, usa comandos como &#x27;más llamativo&#x27;, &#x27;más sobrio&#x27; o &#x27;pulir&#x27;, y empieza criticando una sola sección (por ejemplo, precios) en vez de toda la página. Se instala con npx impeccable install. La quinta es Claude Mem (casi 120.000 estrellas), que añade memoria persistente a Claude entre sesiones. Un segundo agente toma notas y crea un índice de lo importante, permitiendo búsquedas posteriores y evitando repetir contexto. Para proyectos largos es ideal: puedes preguntar qué se decidió la semana pasada sobre algo y lo encuentra. Usa etiquetas de privado para evitar que se guarde información sensible. Se instala con un solo comando (ver README).</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Diseño, documentos y metodologías de ingeniería: las skills que convierten a Claude en un equipo completo</h3>
+<p>La sexta es UI/UX Pro Max (154.000 estrellas), una skill de diseño que genera el sistema visual completo de un proyecto —estructura, estilo, colores, fuentes, disposición de botones— basado en 80 estilos de interfaz y 194 tipos de producto. Le dices a Claude qué tipo de negocio es y la skill escoge estilos, colores y fuentes adecuadas, explicando por qué. Se instala con dos comandos (ver README). La séptima son las Skills oficiales de Anthropic (200.000 estrellas), que incluyen habilidades para crear y editar documentos Word, PDF, PowerPoint y Excel, además de Skill Creator para hacer tus propias skills y otras para diseño de páginas, guías de marca y conexión con herramientas. Se agregan como plugin en Claude Code y escoges cuál instalar.</p>
+<p>La octava es Superpowers (326.000 estrellas), una metodología completa para que Claude trabaje como un equipo de ingeniería. Cuando le pides construir algo, primero pregunta qué quieres y por qué, luego muestra el diseño por partes para aprobar, arma un plan en tareas de 2 a 5 minutos con verificación, y al decir &#x27;DELE&#x27; pone subagentes a trabajar. No hay que activar nada: las skills se disparan solas. Según sus creadores, es normal que Claude trabaje solo un par de horas sin salirse del plan, revisando cada tarea. La novena son las Skills de Matt Pocock (332.000 estrellas), una colección para &#x27;ingenieros de verdad&#x27;. Destaca &#x27;Grill Me&#x27;, que hace que Claude te entreviste sin piedad antes de lanzar cualquier cosa para detectar cabos sueltos; &#x27;Handoff&#x27;, que resume la conversación en un documento para otro agente; y &#x27;Teach&#x27;, para aprender un tema en varias sesiones. Se instalan con un solo comando desde el directorio oficial de plugins de Claude.</p>
+<p>La décima y más popular es REA (Reverse Engineer Anything, 478.000 estrellas), que permite investigar cómo funciona una función de una aplicación sin tener su código, explicar su funcionamiento y ayudar a construir una versión para tu proyecto. Funciona con apps de escritorio, JavaScript y sitios web, y corre localmente. El ejemplo que da Aztec Lab es elocuente: su propia página rastreó cómo Notion maneja el copiar y pegar, desde la ventana hasta el fondo de la aplicación. Úsala solo con software propio o con permiso, y bájala únicamente del repositorio oficial o de rea.tools.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Advertencia de seguridad y el futuro del &#x27;hobbling&#x27;: lo que debes revisar antes de instalar</h3>
+<p>La popularidad de las skills tiene un lado oscuro: una skill corre con los mismos permisos que tu Claude Code, así que instalar solo lo que venga de una fuente confiable no es una recomendación opcional, es una necesidad. Antes de instalar una skill de terceros, pide a Claude que la revise por seguridad, ya que puede contener código malicioso. Y aunque el ecosistema es vibrante —más de 70 plataformas han adaptado el formato abierto de skills, lo que permite importarlas desde Codex, Cursor y otras IA—, la portabilidad también multiplica los riesgos si no se verifica el origen.</p>
+<p>El otro gran desafío es el &#x27;hobbling&#x27;. Las skills que hoy son útiles pueden convertirse en lastres mañana. Boris Cherny recomienda borrar cloud.md, skills y hooks cada seis meses para evitar atar al modelo. Anthropic recortó más del 80% de las instrucciones de sistema en Claude Code sin pérdida de rendimiento, lo que demuestra que menos puede ser más. El criterio para recortar es quirúrgico: elimina los pasos que explican cómo hacer algo (el modelo ya lo sabe), conserva datos, marca, definiciones y correcciones (lo que el modelo no puede saber). Para encontrar lo que sobra, haz una tarea con y sin la skill y compara resultados; si sale igual o mejor sin ella, recórtala.</p>
+<p>En última instancia, el mensaje de ambos análisis converge: el genio (el modelo) cada vez necesita menos explicaciones de pasos, pero sigue necesitando datos, marca, definiciones y correcciones que solo tú puedes aportar. Las skills son el mecanismo para transmitir ese &#x27;oficio&#x27; sin ahogar al agente. La clave está en la curaduría: crear con ejemplos, convertir sesiones en habilidades, grabar lo visual, modularizar el contexto, importar con criterio y podar sin piedad. Ese es el nuevo trabajo del ingeniero de IA.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para crear una skill: pide a Claude que use Skill Creator con ejemplos de tu trabajo; para tareas repetitivas, realiza la tarea una vez y pide que convierta la sesión en skill.</li>
+<li>Para grabar una skill visual: usa el botón + de la app de Claude o graba con OBS Studio y sube el video con una skill de transcripción segundo a segundo.</li>
+<li>Para evitar &#x27;hobbling&#x27;: cada 6 meses borra cloud.md, skills y hooks; elimina pasos explicativos y conserva datos, marca, definiciones y correcciones.</li>
+<li>Para instalar skills de terceros: revisa el código con Claude antes de instalar y descarga solo de fuentes oficiales; una skill corre con los mismos permisos que tu Claude Code.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Skill Creator</strong> — Skill nativa de Anthropic para que Claude escriba skills siguiendo buenas prácticas.</li>
+<li><strong>Claude (app)</strong> — Interfaz para crear y gestionar skills, con grabación de pantalla integrada.</li>
+<li><strong>Claude Code</strong> — Agente de programación de Anthropic, ejemplo de agente general con skills.</li>
+<li><strong>skills.sh</strong> — Directorio de skills de Vercel ordenado por número de instalaciones.</li>
+<li><strong>Directorio de Anthropic</strong> — Directorio oficial de skills de empresas como Notion, Figma y Atlassian.</li>
+<li><strong>OBS Studio</strong> — Herramienta gratuita para grabar la pantalla y generar skills visuales.</li>
+<li><a href="https://internxt.com/es/xavier" target="_blank" rel="noopener"><strong>Internxt</strong></a> — Servicio de nube cifrada para almacenar archivos y grabaciones; patrocinador.</li>
+<li><a href="https://github.com/blader/humanizer" target="_blank" rel="noopener"><strong>Humanizer</strong></a> — Elimina señales de texto generado por IA basándose en 26 señales de Wikipedia.</li>
+<li><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank" rel="noopener"><strong>Awesome Claude Skills (Composio)</strong></a> — Colección de más de 1000 skills y plugins, con conexión a más de 1000 apps.</li>
+<li><a href="https://github.com/heygen-com/hyperframes" target="_blank" rel="noopener"><strong>HyperFrames</strong></a> — Editor de video con IA de HeyGen, gratis y de código abierto.</li>
+<li><a href="https://github.com/pbakaus/impeccable" target="_blank" rel="noopener"><strong>Impeccable</strong></a> — Skill de diseño con 24 comandos y detector de 62 reglas de diseño IA.</li>
+<li><a href="https://github.com/thedotmack/claude-mem" target="_blank" rel="noopener"><strong>Claude Mem</strong></a> — Añade memoria persistente a Claude entre sesiones mediante un segundo agente.</li>
+<li><a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" target="_blank" rel="noopener"><strong>UI/UX Pro Max</strong></a> — Genera el sistema visual completo de un proyecto con 80 estilos y 194 tipos de producto.</li>
+<li><a href="https://github.com/anthropics/skills" target="_blank" rel="noopener"><strong>Skills oficiales de Anthropic</strong></a> — Habilidades para crear y editar documentos Word, PDF, PowerPoint y Excel.</li>
+<li><a href="https://github.com/obra/superpowers" target="_blank" rel="noopener"><strong>Superpowers</strong></a> — Metodología para que Claude trabaje como equipo de ingeniería con subagentes.</li>
+<li><a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener"><strong>Skills de Matt Pocock</strong></a> — Colección con &#x27;Grill Me&#x27;, &#x27;Handoff&#x27; y &#x27;Teach&#x27; para ingenieros.</li>
+<li><a href="https://github.com/morluto/rea" target="_blank" rel="noopener"><strong>REA (Reverse Engineer Anything)</strong></a> — Investiga cómo funciona una app sin código y ayuda a replicar funciones.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-cx1hHeb-OMk-BhaupSGrNQY.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

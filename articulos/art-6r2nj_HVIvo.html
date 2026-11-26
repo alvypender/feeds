@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blender 5.3 ya está aquí: importa Gaussian Splats, renderiza con Cycles o Workbench y acelera el viewport con DLSS — Frame &amp; Prompt</title>
+  <meta name="description" content="Blender 5.3 aterriza con la integración nativa de Gaussian Splatting: ahora puedes importar escaneos en PLY o SPZ y renderizarlos directamente en Cycles o Workbench, abriendo la puerta a flujos de trabajo híbridos entre captura de la realidad y 3D tradicional. La actualización también agiliza Grease">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Blender 5.3 ya está aquí: importa Gaussian Splats, renderiza con Cycles o Workbench y acelera el viewport con DLSS">
+  <meta property="og:description" content="Blender 5.3 aterriza con la integración nativa de Gaussian Splatting: ahora puedes importar escaneos en PLY o SPZ y renderizarlos directamente en Cycles o Workbench, abriendo la puerta a flujos de trabajo híbridos entre captura de la realidad y 3D tradicional. La actualización también agiliza Grease">
+  <meta property="og:image" content="https://i.ytimg.com/vi/6r2nj_HVIvo/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-6r2nj_HVIvo.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Blender 5.3 ya está aquí: importa Gaussian Splats, renderiza con Cycles o Workbench y acelera el viewport con DLSS">
+  <meta name="twitter:description" content="Blender 5.3 aterriza con la integración nativa de Gaussian Splatting: ahora puedes importar escaneos en PLY o SPZ y renderizarlos directamente en Cycles o Workbench, abriendo la puerta a flujos de trabajo híbridos entre captura de la realidad y 3D tradicional. La actualización también agiliza Grease">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/6r2nj_HVIvo/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-6r2nj_HVIvo.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Blender 5.3 ya está aquí: importa Gaussian Splats, renderiza con Cycles o Workbench y acelera el viewport con DLSS</h1>
+        <div class="metadata">
+          <span>Por <strong>School of Motion</strong></span>
+          <time datetime='2026-11-26T17:02:24.887463-05:00'>2026-11-26</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/6r2nj_HVIvo" title="Blender 5.3 ya está aquí: importa Gaussian Splats, renderiza con Cycles o Workbench y acelera el viewport con DLSS" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=6r2nj_HVIvo" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">Blender 5.3 aterriza con la integración nativa de Gaussian Splatting: ahora puedes importar escaneos en PLY o SPZ y renderizarlos directamente en Cycles o Workbench, abriendo la puerta a flujos de trabajo híbridos entre captura de la realidad y 3D tradicional. La actualización también agiliza Grease Pencil con edición de trazos sin salir del modo dibujo y nuevas herramientas de tallado y relleno, añade el sombreado Perlite Tune para looks estilizados con control separado de luces clave y de contorno, y aprovecha DLSS en hardware NVIDIA para previsualizaciones más rápidas y limpias en el viewport, sin afectar al render final. Todo ello en una versión gratuita que invita a apoyar económicamente al proyecto.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>School of Motion</strong> (Short): <a href="https://www.youtube.com/shorts/6r2nj_HVIvo" target="_blank" rel="noopener">Blender 5.3 is OUT! Gaussian splats are HERE! | Motion Mondays</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Gaussian Splatting nativo: de la captura de la realidad al render en Blender</h3>
+<p>La novedad más disruptiva de Blender 5.3 es el soporte oficial para <strong>Gaussian Splats</strong>, la técnica de representación volumétrica que está revolucionando la captura de entornos reales. A partir de ahora, los artistas pueden importar escaneos en formato <strong>PLY</strong> o <strong>SPZ</strong> directamente en la escena, sin necesidad de conversiones externas ni complementos de terceros. Estos archivos contienen nubes de puntos gaussianos que reproducen con gran fidelidad la geometría y la apariencia de una ubicación real, y Blender los trata como un objeto más dentro del flujo de trabajo.</p>
+<p>El valor práctico es inmediato: una vez importado el splat, se puede <strong>renderizar con Cycles o Workbench</strong>, integrarlo con objetos 3D propios, reiluminar la escena y animar una cámara que vuele a través de ella. Esto permite combinar la riqueza visual de un escaneo real con la libertad creativa del modelado tradicional. Por ejemplo, se puede añadir un personaje u objeto animado sobre el entorno capturado, ajustar la iluminación para que coincida con la escena y obtener un plano final sin salir de Blender. La integración con Cycles garantiza un renderizado físicamente correcto, mientras que Workbench ofrece una alternativa rápida para previsualizaciones o estilos no fotorrealistas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Grease Pencil: dibujo y tallado sin fricción</h3>
+<p>La actualización de <strong>Grease Pencil</strong> se centra en eliminar interrupciones en el flujo creativo. Ahora es posible <strong>seleccionar y editar trazos sin salir del modo dibujo</strong>, lo que agiliza la corrección sobre la marcha y evita el constante cambio de contexto entre herramientas. Esta mejora, aunque aparentemente menor, tiene un impacto directo en la velocidad de trabajo para artistas de storyboard, animación 2D y concept art.</p>
+<p>Además, se incorporan nuevas <strong>herramientas de tallado (carver) y relleno (fill)</strong> que amplían las posibilidades de modelado y pintura dentro del propio Grease Pencil. El tallado permite esculpir formas sobre los trazos con mayor control, mientras que el relleno facilita la creación de áreas de color sólido de manera intuitiva. En conjunto, estas mejoras convierten a Grease Pencil en un entorno más completo para la creación de ilustraciones y animaciones sin necesidad de saltar a otros módulos de Blender.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Perlite Tune: control avanzado para looks estilizados</h3>
+<p>El nuevo sombreado <strong>Perlite Tune</strong> está diseñado para quienes buscan resultados estilizados con un control preciso sobre la iluminación. Su particularidad es que permite que una <strong>luz clave</strong> y una <strong>luz de contorno</strong> afecten a diferentes partes de un mismo material. Esto significa que se puede definir, por ejemplo, que el borde de un objeto reciba un tono de luz distinto al de su superficie frontal, logrando efectos de rim light o de iluminación artística sin necesidad de complicadas configuraciones de nodos.</p>
+<p>Este nivel de control es especialmente útil en proyectos de animación estilizada, ilustración o videojuegos con estética cartoon, donde la separación de luces es clave para el look final. Perlite Tune se integra en el flujo de materiales de Blender y permite a los artistas experimentar con combinaciones de colores y ángulos de luz de forma intuitiva, manteniendo la coherencia en toda la escena.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">DLSS en el viewport: previsualización más rápida y limpia</h3>
+<p>Para los usuarios con hardware <strong>NVIDIA compatible</strong>, Blender 5.3 incorpora <strong>DLSS</strong> (Deep Learning Super Sampling) en la previsualización del viewport con Cycles. Esta tecnología de escalado basada en IA permite obtener una imagen más limpia y con mayor tasa de refresco en la vista previa, lo que se traduce en una experiencia casi en tiempo real al ajustar iluminación, materiales o cámara. Es importante destacar que <strong>DLSS no afecta al render final</strong>: su función es exclusivamente acelerar la iteración durante la fase de diseño.</p>
+<p>La ventaja es evidente en escenas complejas con muchos splats gaussianos o geometría densa, donde el viewport puede volverse lento. Con DLSS activado, los artistas pueden navegar por la escena con fluidez y evaluar los cambios sin esperas, manteniendo la calidad visual necesaria para tomar decisiones. Eso sí, requiere una GPU NVIDIA compatible, por lo que los usuarios de otros fabricantes no podrán beneficiarse de esta mejora concreta.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Gratuito y abierto: cómo aprovechar Blender 5.3 desde hoy</h3>
+<p>Blender 5.3 sigue siendo <strong>completamente gratuito</strong>, aunque desde la Fundación se anima a apoyar económicamente el proyecto para sostener su desarrollo. Para integrar las novedades en el flujo de trabajo, se recomienda descargar la versión desde el sitio oficial y explorar los nuevos operadores de importación de splats en el menú de archivo. Una vez importado un PLY o SPZ, se puede asignar un material y renderizar con Cycles o Workbench; para previsualizaciones rápidas, basta con activar DLSS en las preferencias del viewport si se cuenta con una GPU NVIDIA.</p>
+<p>En el caso de Grease Pencil, conviene probar la edición directa en modo dibujo y las nuevas herramientas de tallado y relleno en un proyecto de prueba para interiorizar los atajos. Para los looks estilizados, Perlite Tune se encuentra disponible en el editor de materiales y permite jugar con la influencia de luces clave y de contorno de forma separada. En conjunto, Blender 5.3 consolida su apuesta por la captura de la realidad y la animación 2D/3D, ofreciendo herramientas que hasta hace poco requerían software especializado o complementos externos.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Formatos de importación de Gaussian Splats en Blender 5.3: PLY y SPZ.</li>
+<li>DLSS solo afecta a la previsualización del viewport con Cycles; no modifica el render final.</li>
+<li>Perlite Tune permite que luces clave y de contorno influyan en partes distintas de un mismo material.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Blender 5.3</strong> — Suite de creación 3D gratuita con soporte para Gaussian Splats, mejoras en Grease Pencil, sombreado Perlite Tune y DLSS en el viewport.</li>
+<li><strong>Cycles</strong> — Motor de renderizado físicamente correcto que ahora renderiza Gaussian Splats importados.</li>
+<li><strong>Workbench</strong> — Motor de renderizado rápido que también soporta la visualización de Gaussian Splats.</li>
+<li><strong>Grease Pencil</strong> — Herramienta de dibujo 2D/3D actualizada con edición de trazos en modo dibujo y nuevas herramientas de tallado y relleno.</li>
+<li><strong>DLSS</strong> — Tecnología de NVIDIA que acelera y mejora la calidad de la previsualización en el viewport con Cycles.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-6r2nj_HVIvo.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
