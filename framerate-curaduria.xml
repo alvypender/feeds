@@ -4,7 +4,43 @@
 <link rel="alternate" href="https://framerate.tv/explore?sort=selects"/>
 <link rel="self" href="https://alvypender.github.io/feeds/framerate-selects.xml"/>
 <id>https://framerate.tv/explore?sort=selects</id>
-<updated>2026-11-17T15:00:00+00:00</updated>
+<updated>2026-11-26T07:00:00+00:00</updated>
+<entry>
+  <title>IMPULSE – Jean-Marc Joseph (Superjeanmarc)</title>
+  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/S16ynD9J"/>
+  <id>https://framerate.tv/watch/S16ynD9J</id>
+  <published>2026-11-26T07:00:00+00:00</published>
+  <updated>2026-11-26T07:00:00+00:00</updated>
+  <author><name>Jean-Marc Joseph (Superjeanmarc)</name></author>
+  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/km02zeHUvTP59SF0102i9lrNxSw72uI1HNciQsVoXO28sw/720p.mp4"/>
+  <media:content url="https://stream.mux.com/km02zeHUvTP59SF0102i9lrNxSw72uI1HNciQsVoXO28sw/720p.mp4" medium="video" type="video/mp4" duration="93" isDefault="true">
+    <media:player url="https://framerate.tv/embed/S16ynD9J" width="1280" height="720"/>
+    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/20514b2a-32f9-4bba-8dd8-7fbe7243d857/776a4e73-3cbb-4071-88cf-14068ecb1d95.jpg?t=1794002920285"/>
+    <media:title>IMPULSE – Jean-Marc Joseph (Superjeanmarc)</media:title>
+  </media:content>
+  <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/20514b2a-32f9-4bba-8dd8-7fbe7243d857/776a4e73-3cbb-4071-88cf-14068ecb1d95.jpg?t=1794002920285"/>
+  <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/20514b2a-32f9-4bba-8dd8-7fbe7243d857/776a4e73-3cbb-4071-88cf-14068ecb1d95.jpg?t=1794002920285</webfeeds:featuredImage>
+  <summary>here and now signals exchanged rituals play out and instinct eclipses thought flashes across circuits echoes across epochs eons compressed into this moment when what happens does the happening. but this is here and now and here and now is all there is ----- Impulse is an experimental short film by M</summary>
+  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
+&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/20514b2a-32f9-4bba-8dd8-7fbe7243d857/776a4e73-3cbb-4071-88cf-14068ecb1d95.jpg?t=1794002920285" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
+  &lt;source src="https://stream.mux.com/km02zeHUvTP59SF0102i9lrNxSw72uI1HNciQsVoXO28sw/720p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/km02zeHUvTP59SF0102i9lrNxSw72uI1HNciQsVoXO28sw.m3u8" type="application/x-mpegURL" /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;div style="margin:1.2em 0; text-align:center;"&gt;
+  &lt;a href="https://framerate.tv/watch/S16ynD9J" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
+    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/20514b2a-32f9-4bba-8dd8-7fbe7243d857/776a4e73-3cbb-4071-88cf-14068ecb1d95.jpg?t=1794002920285" alt="IMPULSE" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
+  &lt;/a&gt;
+  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
+    &lt;a href="https://framerate.tv/watch/S16ynD9J" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (1:33)&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/Superjeanmarc"&gt;Jean-Marc Joseph (Superjeanmarc)&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 1:33&lt;/p&gt;
+&lt;p&gt;here and now &lt;br /&gt;signals exchanged&lt;br /&gt;rituals play out&lt;br /&gt;and instinct eclipses thought&lt;br /&gt;flashes across circuits&lt;br /&gt;echoes across epochs&lt;br /&gt;eons &lt;br /&gt;compressed into this moment&lt;br /&gt;when what happens does the happening.&lt;/p&gt;
+&lt;p&gt;but this is here and now&lt;br /&gt;and here and now&lt;br /&gt;is all there is&lt;/p&gt;
+&lt;p&gt;-----&lt;/p&gt;
+&lt;p&gt;Impulse is an experimental short film by Manuel Giron, Antonio Urquijo de Simon and Jean-Marc Joseph.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://framerate.tv/watch/S16ynD9J" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Burger King: Flame Grilled – Paul Butterworth</title>
   <link rel="alternate" type="text/html" href="https://framerate.tv/watch/aI8By3Ye"/>
@@ -994,40 +1030,5 @@
 &lt;p&gt;Motion graphic spot for Wix Harmony- The new way&lt;/p&gt;
 &lt;p&gt;Head of brand marketing: Eyal Sebbag&lt;br /&gt;Team lead: Alex Kizin&lt;br /&gt;Design lead: Elior Karmani&lt;br /&gt;Design: Elior Karmani, Tamar minkowitz, Mary Patan&lt;br /&gt;Animation lead: Moriel Hofman&lt;br /&gt;Animation: David Raskovsky, Alon Sivan, Orel Levy, Arseny Garevskikh ,Moriel Hofman, Yoram Allouch&lt;br /&gt;Imagery &amp; Vfx: Elad Naim&lt;br /&gt;Editing: Guy Landschaft&lt;br /&gt;Creative: Ben Alhadef&lt;br /&gt;Production: Orian Chai&lt;br /&gt;Script &amp; Content: Scott Hirsh, Eric Scott Levy&lt;br /&gt;Music &amp; Sound: Tal Avital&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://framerate.tv/watch/Yo7zhMgW" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>FrameRate Brand Manifesto – The Furrow</title>
-  <link rel="alternate" type="text/html" href="https://framerate.tv/watch/teOWko2C"/>
-  <id>https://framerate.tv/watch/teOWko2C</id>
-  <published>2026-05-27T11:00:00+00:00</published>
-  <updated>2026-05-27T11:00:00+00:00</updated>
-  <author><name>The Furrow</name></author>
-  <link rel="enclosure" type="video/mp4" href="https://stream.mux.com/5ZJEPVbp1lQ6BvYrP02SNtX700eLzcQKNdh97yPOImYJ8/1080p.mp4"/>
-  <media:content url="https://stream.mux.com/5ZJEPVbp1lQ6BvYrP02SNtX700eLzcQKNdh97yPOImYJ8/1080p.mp4" medium="video" type="video/mp4" duration="34" isDefault="true">
-    <media:player url="https://framerate.tv/embed/teOWko2C" width="1280" height="720"/>
-    <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338"/>
-    <media:title>FrameRate Brand Manifesto – The Furrow</media:title>
-  </media:content>
-  <media:thumbnail url="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338"/>
-  <webfeeds:featuredImage>https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338</webfeeds:featuredImage>
-  <summary>We worked with FrameRate to bring their brand to life and they showed up as collaborators from day one. The overlap in what our teams value runs deeper than we expected. We both put people first. We both treat craft as the work itself. And the community that FrameRate is building is exactly the kind</summary>
-  <content type="html">&lt;div style="margin-bottom:1.2em;"&gt;
-&lt;video controls poster="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338" preload="metadata" style="width:100%; max-width:100%; border-radius:8px; background:#000;"&gt;
-  &lt;source src="https://stream.mux.com/5ZJEPVbp1lQ6BvYrP02SNtX700eLzcQKNdh97yPOImYJ8/1080p.mp4" type="video/mp4" /&gt;&lt;source src="https://stream.mux.com/5ZJEPVbp1lQ6BvYrP02SNtX700eLzcQKNdh97yPOImYJ8.m3u8" type="application/x-mpegURL" /&gt;
-&lt;/video&gt;
-&lt;/div&gt;
-&lt;div style="margin:1.2em 0; text-align:center;"&gt;
-  &lt;a href="https://framerate.tv/watch/teOWko2C" target="_blank" style="display:inline-block; position:relative; max-width:100%; text-decoration:none;"&gt;
-    &lt;img src="https://nddkbgiieurtcomzihzq.supabase.co/storage/v1/object/public/thumbnails/74de8e59-c748-4809-b643-39a9b73853b6/702ecccb-f78e-4b8f-b73e-d97fa4c2728c.jpg?t=1779893728338" alt="FrameRate Brand Manifesto" class="webfeedsFeaturedVisual" style="width:100%; max-width:800px; height:auto; border-radius:8px; display:block;" /&gt;
-  &lt;/a&gt;
-  &lt;p style="text-align:center; margin:0.8em 0;"&gt;
-    &lt;a href="https://framerate.tv/watch/teOWko2C" target="_blank" style="display:inline-block; background-color:#111; color:#fff; padding:11px 22px; border-radius:6px; text-decoration:none; font-weight:bold; font-size:15px;"&gt;▶ Ver y reproducir video en FrameRate (0:34)&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
-&lt;p style="color:#666; font-size:0.95em;"&gt;&lt;strong&gt;Creador:&lt;/strong&gt; &lt;a href="https://framerate.tv/profile/thefurrow"&gt;The Furrow&lt;/a&gt; • &lt;strong&gt;Duración:&lt;/strong&gt; 0:34&lt;/p&gt;
-&lt;p&gt;We worked with FrameRate to bring their brand to life and they showed up as collaborators from day one. The overlap in what our teams value runs deeper than we expected. We both put people first. We both treat craft as the work itself. And the community that FrameRate is building is exactly the kind of place for show-and-tell that creatives need more of.&lt;/p&gt;
-&lt;p&gt;We're betting on FrameRate. Not just for this project but for what they're building for everyone who works in this space. Films like this are rare opportunities in our industry and this one was a particular joy to make.&lt;/p&gt;
-&lt;p&gt;Read more and take a look behind the scenes at:&lt;br /&gt;https://framerate.tv/blog/making-the-framerate-brand-manifesto&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://framerate.tv/watch/teOWko2C" target="_blank"&gt;Abrir proyecto en FrameRate →&lt;/a&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
