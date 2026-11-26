@@ -3,7 +3,59 @@
 <title>El Blog de Enrique Dans</title>
 <link href="https://www.enriquedans.com/"/>
 <id>https://www.enriquedans.com/</id>
-<updated>2026-11-25T10:19:54+00:00</updated>
+<updated>2026-11-26T08:58:02+00:00</updated>
+<entry>
+  <title>Champú, drones y otros problemas de enredos</title>
+  <link href="https://www.enriquedans.com/2026/11/champu-drones-y-otros-problemas-de-enredos.html"/>
+  <id>https://www.enriquedans.com/2026/11/champu-drones-y-otros-problemas-de-enredos.html#v1</id>
+  <published>2026-11-26T08:58:02+00:00</published>
+  <updated>2026-11-26T08:58:02+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/aud_champu-drones-y-otros-problemas-de_866089.jpg"/>
+  <media:content url="https://alvypender.github.io/feeds/posters/aud_champu-drones-y-otros-problemas-de_866089.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://alvypender.github.io/feeds/posters/aud_champu-drones-y-otros-problemas-de_866089.jpg"/>
+  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/aud_champu-drones-y-otros-problemas-de_866089.jpg</webfeeds:featuredImage>
+  <summary>Un vecino de Huntington Woods, en Michigan, hace un pedido de champú a Amazon, lo recibe un rato después mediante un reparto por dron, pero tras completar la entrega, el aparato se enreda con un cable de fibra óptica muy fino, se estrella contra el techo de un garaje, y acaba enredándose en unos cables …</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/aud_champu-drones-y-otros-problemas-de_866089.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_champu-drones-y-otros-problemas-de-enredos.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Drone-accident-DallE.jpg"&gt;&lt;img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Drone-accident-DallE-1024x1024.jpg" alt="IMAGE: A delivery drone tangles in cables on a garage roof while the shampoo it was delivering sits safely below." class="wp-image-59264" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Drone-accident-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Drone-accident-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Drone-accident-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Drone-accident-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Drone-accident-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p class="wp-block-paragraph"&gt;Un vecino de Huntington Woods, en Michigan, hace un pedido de champú a Amazon, lo recibe un rato después mediante un reparto por dron, pero tras completar la entrega, &lt;a href="https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/" target="_blank" rel="noopener"&gt;el aparato se enreda con un cable de fibra óptica muy fino, se estrella contra el techo de un garaje, y acaba enredándose en unos cables eléctricos cercanos&lt;/a&gt;. Los daños &lt;a href="https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html" target="_blank" rel="noopener"&gt;no son muy graves&lt;/a&gt;, Amazon se ha ofrecido a colaborar en su reparación, ha ofrecido al afectado un cheque regalo de cien dólares, y no ha habido heridos, aunque la Federal Aviation Administration (FAA) sí ha abierto &lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Amazon-drone-accident.jpg" target="_blank" rel="noopener"&gt;una investigación&lt;/a&gt; sobre el tema.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;En realidad, el suceso no llega a ser un &amp;#8220;accidente&amp;#8221; y se queda más bien en un &amp;#8220;incidente&amp;#8221;, pero puede servirnos para repasar el estado de la logística mediante drones, una tecnología en la que la innovación se ha convertido en hiperactiva en el terreno militar, pero que también tiene un despliegue en la vida civil cada vez más amplio. Incidentes como este sirven para que los escépticos digan eso de &amp;#8220;ya decía yo que eso de repartir con drones era una estupidez&amp;#8221;, pero también para comprobar cómo de cotidiana se está haciendo esta tecnología en según qué sitios. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Que un aparato de este tipo, un &lt;a href="https://aws.amazon.com/solutions/amazon/one-amazon-lane/air-delivery/" target="_blank" rel="noopener"&gt;MK30&lt;/a&gt; con capacidad para transportar unos 2.3 kilos provisto de tecnología &lt;em&gt;&lt;a href="https://ieeexplore.ieee.org/document/8284558" target="_blank" rel="noopener"&gt;sense-and-avoid&lt;/a&gt;&lt;/em&gt; no detecte un fino cable de fibra óptica, se enrede con él y se estampe contra el techo de un garaje es un incidente que merece una explicación, sobre todo teniendo en cuenta que otros drones de la misma compañía ya han tenido accidentes &lt;a href="https://www.cnbc.com/2025/11/25/amazon-faa-probe-delivery-drone-incident-texas.html" target="_blank" rel="noopener"&gt;con cables&lt;/a&gt; o &lt;a href="https://www.cnbc.com/2025/10/02/amazon-drone-crash-faa-ntsb.html" target="_blank" rel="noopener"&gt;con grúas de construcción&lt;/a&gt;. Pero por otro lado, cuando se llevan ya cientos de miles de paquetes repartidos y unas seis mil entregas diarias, la aparición de incidentes puede entrar dentro de lo estadísticamente esperable, como que un repartidor en moto se pueda caer o una furgoneta pueda tener un accidente.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;La logística mediante drones sigue creciendo: &lt;a href="https://corporate.walmart.com/news/2026/05/29/walmart-celebrates-1-million-drone-deliveries-marking-a-major-milestone-in-customer-convenience" target="_blank" rel="noopener"&gt;Walmart ya superó el pasado mayo el millón de entregas&lt;/a&gt;, y &lt;a href="https://wing.com/news/wing-walmart-new-metros-nations-largest-drone-delivery-network" target="_blank" rel="noopener"&gt;Wing afirma que su servicio está disponible para unos tres millones de clientes&lt;/a&gt;. Cifras que hablan de una normalización de algo que hace no tantos años parecía enfrentarse a problemas que muchos consideraban irresolubles y que parecían prácticamente ciencia-ficción, con costes que no era posible hacer mínimamente competitivos. Pero ya hablamos de operaciones comerciales y de entregas por las que los usuarios están dispuestos a pagar: simplemente, la cuestión ha pasado desde la simple posibilidad técnica hasta la capacidad no solo de ejecutar, sino &lt;a href="https://www.enriquedans.com/2023/03/la-logistica-mediante-drones-y-su-escalabilidad.html" target="_blank" rel="noopener"&gt;también de escalar la actividad&lt;/a&gt;. Amazon ya ha anunciado sus intenciones de &lt;a href="https://www.aboutamazon.com/news/transportation/amazon-prime-air-drone-delivery-expansion" target="_blank" rel="noopener"&gt;llegar a quinientas ciudades antes de finales de este año 2026&lt;/a&gt;. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Y aunque Amazon fuese la primera en abrir la caja de los truenos, es interesante mirar más allá: en China, hablamos ya de &lt;a href="https://www.technologyreview.com/2023/05/23/1073500/drone-food-delivery-shenzhen-meituan/" target="_blank" rel="noopener"&gt;rutas regulares y de cientos de miles de entregas en ciudades como Shenzhen, Shanghai o Beijing&lt;/a&gt;, en lo que se denomina ya la &lt;em&gt;&lt;a href="https://www.enriquedans.com/2025/06/el-cielo-como-la-nueva-ultima-milla-la-economia-de-baja-altitud-y-la-ventaja-estructural-de-china.html" target="_blank" rel="noopener"&gt;low-altitude economy&lt;/a&gt;&lt;/em&gt;. Miles de clientes que ya han convertido en rutinario encargar comida o bebida que llega por el aire a un punto de recogida.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;También es importante reseñar usos más relevantes que van más allá de la mera comodidad: en &lt;a href="https://www.thelancet.com/pdfs/journals/langlo/PIIS2214-109X(22)00048-1.pdf" target="_blank" rel="noopener"&gt;un estudio publicado en 2022 que analizó 12,733 envíos de productos sanguíneos en Ruanda&lt;/a&gt; se constataron entregas más rápidas y una reducción del 67% de las caducidades a los doce meses. Claramente, el valor de una tecnología de transporte depende mucho de qué es lo que transporta y de cómo de crítico resulta. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;¿Va a haber accidentes? Por supuesto, con una probabilidad de fallo probablemente pequeña pero distinta de cero, multiplicar las operaciones implica necesariamente incrementar las oportunidades de que algo salga mal. La cuestión es establecer líneas base, probabilidades de error, estimaciones de gravedad, y analizar la evolución de esas cifras en el tiempo a medida que se acumula experiencia. Hay que investigar, reparar daños, mejorar los sistemas y exigir responsabilidades, mientras consideramos todo eso como una parte necesaria de la normalización de la logística aérea, en un escenario de millones de entregas zumbando por encima de nuestras cabezas cada día. El champú podrá llegar volando, sí, pero la responsabilidad de quien lo reparte deberá seguir teniendo los pies en el suelo. &lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
+</content>
+</entry>
 <entry>
   <title>La burbuja de la inteligencia artificial no explota: se desinfla</title>
   <link href="https://www.enriquedans.com/2026/11/la-burbuja-de-la-inteligencia-artificial-no-explota-se-desinfla.html"/>
@@ -21,7 +73,7 @@
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE.jpg"&gt;&lt;img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-1024x1024.jpg" alt="IMAGE: A giant AI balloon deflates above worried investors while people continue working with useful AI assistants." class="wp-image-59255" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE.jpg"&gt;&lt;img decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-1024x1024.jpg" alt="IMAGE: A giant AI balloon deflates above worried investors while people continue working with useful AI assistants." class="wp-image-59255" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/AI-bubble-deflating-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -141,7 +193,7 @@
 
 
 &lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE.jpg"&gt;&lt;img decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-1024x1024.jpg" alt="IMAGE: An AI robot peers over a user’s shoulder at private messages while Signal pulls a privacy curtain." class="wp-image-59244" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE.jpg 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-1024x1024.jpg" alt="IMAGE: An AI robot peers over a user’s shoulder at private messages while Signal pulls a privacy curtain." class="wp-image-59244" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Agentic-screen-captures-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
@@ -604,66 +656,6 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, &amp;#8220;&lt;a href="https://medium.com/enrique-dans/like-it-or-not-china-is-leading-the-green-energy-revolution-1cbc409011b5?sk=d6b9e91e40041437f1f9eb3928760620" data-type="link" data-id="https://medium.com/enrique-dans/like-it-or-not-china-is-leading-the-green-energy-revolution-1cbc409011b5?sk=d6b9e91e40041437f1f9eb3928760620" target="_blank" rel="noopener"&gt;Like it or not, China is leading the green energy revolution&lt;/a&gt;&amp;#8221; &lt;/em&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-</content>
-</entry>
-<entry>
-  <title>Puedes comprar donde quieras, siempre que sea desde Amazon</title>
-  <link href="https://www.enriquedans.com/2026/11/puedes-comprar-donde-quieras-siempre-que-sea-desde-amazon.html"/>
-  <id>https://www.enriquedans.com/2026/11/puedes-comprar-donde-quieras-siempre-que-sea-desde-amazon.html#v1</id>
-  <published>2026-11-16T09:01:29+00:00</published>
-  <updated>2026-11-16T09:01:29+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://alvypender.github.io/feeds/posters/enriquedans_puedes-comprar-donde-quieras-siempre-que-sea-.jpg"/>
-  <media:content url="https://alvypender.github.io/feeds/posters/enriquedans_puedes-comprar-donde-quieras-siempre-que-sea-.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://alvypender.github.io/feeds/posters/enriquedans_puedes-comprar-donde-quieras-siempre-que-sea-.jpg"/>
-  <webfeeds:featuredImage>https://alvypender.github.io/feeds/posters/enriquedans_puedes-comprar-donde-quieras-siempre-que-sea-.jpg</webfeeds:featuredImage>
-  <summary>Una exclusiva de Reuters a partir de un documento interno de Amazon titulado “World Product Graph” describe una iniciativa de la compañía pensada para crear un mapa de productos vendidos dentro y fuera de Amazon, con sus relaciones: modelos, versiones, características y alternativas. La idea sería alimentar ese gráfico a partir de datos aportados p</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://alvypender.github.io/feeds/posters/enriquedans_puedes-comprar-donde-quieras-siempre-que-sea-.jpg" class="webfeedsFeaturedVisual" style="max-width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/p&gt;
-
-&lt;p class="wp-block-paragraph"&gt;&lt;/p&gt;
-
-
-&lt;div class="wp-block-image"&gt;
-&lt;figure class="alignleft size-large is-resized"&gt;&lt;a href="https://www.enriquedans.com/wp-content/uploads/2026/11/Amazon-uber-commerce-DallE.jpg"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://www.enriquedans.com/wp-content/uploads/2026/11/Amazon-uber-commerce-DallE-1024x1024.jpg" alt="IMAGE: An Amazon robot welcomes a shopper into a global marketplace while its crawler collects product data and a rival shopping robot is blocked." class="wp-image-59191" style="width:450px;height:auto" srcset="https://www.enriquedans.com/wp-content/uploads/2026/11/Amazon-uber-commerce-DallE-1024x1024.jpg 1024w, https://www.enriquedans.com/wp-content/uploads/2026/11/Amazon-uber-commerce-DallE-300x300.jpg 300w, https://www.enriquedans.com/wp-content/uploads/2026/11/Amazon-uber-commerce-DallE-150x150.jpg 150w, https://www.enriquedans.com/wp-content/uploads/2026/11/Amazon-uber-commerce-DallE-768x768.jpg 768w, https://www.enriquedans.com/wp-content/uploads/2026/11/Amazon-uber-commerce-DallE.jpg 1254w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;p class="wp-block-paragraph"&gt;Una &lt;a href="https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/" target="_blank" rel="noopener"&gt;exclusiva de Reuters&lt;/a&gt; a partir de un documento interno de Amazon titulado &lt;em&gt;&amp;#8220;World Product Graph&amp;#8221;&lt;/em&gt; describe una iniciativa de la compañía pensada para crear un mapa de productos vendidos dentro y fuera de Amazon, con sus relaciones: modelos, versiones, características y alternativas. La idea sería alimentar ese gráfico a partir de datos aportados por las propias marcas y del rastreo de otras webs, algo que la compañía ya lleva a cabo rutinariamente para &lt;a href="https://www.enriquedans.com/2019/08/amazon-y-el-ojo-de-horus.html" target="_blank" rel="noopener"&gt;averiguar si sus proveedores venden en algún otro sitio con un precio más barato que en su plataforma&lt;/a&gt;. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Ante todo, conviene distinguir entre lo que acredita la exclusiva y lo que todavía no sabemos: el documento no demuestra que exista una decisión definitiva de ejecutar el proyecto o de que el documento filtrado refleje realmente los planes de la propia compañía, la fecha que propone de octubre de 2027 probablemente sea una simple aspiración, y la idea marcada en el titular de &amp;#8220;apropiarse&amp;#8221; de los datos señala una ambición de control operativo, no algún tipo de adquisición jurídica de todos esos datos. Pero la utilidad de un proyecto así existe claramente, porque ofrecería a Amazon respuestas mucho mejores y también menores costes. Un catálogo completamente conectado en tiempo real permitiría entender cosas como qué es exactamente lo que diferencia dos versiones de un producto o qué producto encaja mejor con una necesidad, intentando así evitar búsquedas dispersas como las que ahora ocurren en la plataforma, en la que los resultados, en muchas ocasiones, no reflejan en absoluto lo que estás buscando y simplemente generan la horrible sensación de &amp;#8220;demasiadas opciones&amp;#8221;. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Además, tenemos antecedentes operativos similares: &lt;a href="https://www.aboutamazon.com/news/retail/amazon-shop-direct-external-stores" target="_blank" rel="noopener"&gt;iniciativas de la compañía como Shop Direct o Buy for Me&lt;/a&gt; sirven para derivar al comprador a otra tienda o para encargar a Amazon que compre en esa tienda por nosotros, y ya han alcanzado una escala considerable. El pasado marzo, la compañía ya declaraba más de cien millones de productos de 400,000 comercios en Shop Direct, lo que hace que Amazon puede ampliar su intermediación comercial sin necesidad de almacenar ni vender directamente todo lo que ayuda a comprar. Una sola plataforma que proporciona al cliente cierta impresión de seguridad, y toda su actividad de compras llevada a cabo a través de ella. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Claramente, la amenaza para Amazon es perder la relación con el comprador y la publicidad. Hablamos, claro, de la gran tendencia del momento, el comercio agéntico. Si delegamos nuestras búsquedas en un agente externo, este podría potencialmente comparar tiendas y terminar llevándonos directamente al producto, lo que reduciría nuestra exposición al &lt;a href="https://www.enriquedans.com/2023/03/publicidad-y-codicia-confundiendo-medios-con-fines.html" target="_blank" rel="noopener"&gt;escaparate publicitario de Amazon&lt;/a&gt;. En mayo de este año, &lt;a href="https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/" target="_blank" rel="noopener"&gt;Google presentó su Universal Cart&lt;/a&gt;, apoyado en un Shopping Graph que, según la propia Google, supera los 60,000 millones de ofertas. Aquí la disputa gira en torno a quién investiga, quién recomienda y quién canaliza la compra. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;La asimetría merece, además, protagonismo: Amazon pretende consultar comercios ajenos, mientras &lt;a href="https://www.enriquedans.com/2026/10/el-agente-llama-a-la-puerta-lo-dejamos-entrar.html" target="_blank" rel="noopener"&gt;se dedica a restringir el uso de agentes de terceras partes&lt;/a&gt;, como &lt;a href="https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping" target="_blank" rel="noopener"&gt;ya ha hecho con Muse&lt;/a&gt;. Una opción arriesgada, porque si tu agente se encuentra un bloqueo, es perfectamente posible que el negocio que representabas termine en otro sitio. Por otro lado, &lt;a href="https://www.geekwire.com/2026/why-some-independent-brands-are-upset-with-amazons-new-buy-for-me-shopping-tool/" target="_blank" rel="noopener"&gt;hay comercios &lt;em&gt;online&lt;/em&gt; que se han quejado porque su información ha sido registrada y utilizada sin su consentimiento explícito y, en algunos casos, con información errónea&lt;/a&gt;. La respuesta de Amazon en este sentido es la de invocar seguridad y transparencia para los agentes y permitir a los comercios solicitar su exclusión&amp;#8230; nada fácil cuando hablamos de cerrar las puertas a un gigante semejante. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;En un escenario de ese tipo, los comercios podrían hipotéticamente ganar ventas, pero al mismo tiempo estarían incrementando su dependencia de cómo Amazon los describe y los recomienda (o no). Algo que, dados los siniestros antecedentes de la compañía, parece poco recomendable, aunque difícilmente evitable dada la escala de la cuestión. Para el consumidor, el tema está en si pesan más en la recomendación cuestiones como la adecuación, el precio o el interés comercial. En el fondo, &lt;a href="https://www.wsj.com/cmo-today/ai-agents-aim-to-change-shopping-some-retailers-are-locking-the-doors-666a1ed4" target="_blank" rel="noopener"&gt;un movimiento más en una batalla mucho más amplia por controlar la intermediación en los tiempos de la inteligencia artificial&lt;/a&gt;. &lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Una batalla en la que nos queda mucho, mucho por ver. &lt;/p&gt;
-
-
-
-&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;em&gt;In English on Medium, &amp;#8220;&lt;a href="https://medium.com/enrique-dans/you-can-buy-where-you-like-as-long-as-its-at-amazon-5be766e276a5?sk=9828e3ead3ee1ccf72103610a0e7de5d" data-type="link" data-id="https://medium.com/enrique-dans/you-can-buy-where-you-like-as-long-as-its-at-amazon-5be766e276a5?sk=9828e3ead3ee1ccf72103610a0e7de5d" target="_blank" rel="noopener"&gt;You can buy where you like, as long as it’s at Amazon&lt;/a&gt;&amp;#8221; &lt;/em&gt;&lt;/p&gt;
 
 
 

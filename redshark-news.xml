@@ -3,7 +3,97 @@
 <title>RedShark News – Completo</title>
 <link href="https://www.redsharknews.com/"/>
 <id>https://www.redsharknews.com/</id>
-<updated>2026-11-26T07:04:08+00:00</updated>
+<updated>2026-11-26T11:53:24+00:00</updated>
+<entry>
+  <title>LensSimulator.photo: free bokeh and lens simulator</title>
+  <link href="https://www.redsharknews.com/lenssimulator-photo-free-bokeh-lens-simulator"/>
+  <id>https://www.redsharknews.com/lenssimulator-photo-free-bokeh-lens-simulator</id>
+  <published>2026-11-26T11:53:24+00:00</published>
+  <updated>2026-11-26T11:53:24+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/lens%20simulator.jpg"/>
+  <media:content url="https://www.redsharknews.com/hubfs/lens%20simulator.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.redsharknews.com/hubfs/lens%20simulator.jpg"/>
+  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/lens%20simulator.jpg</webfeeds:featuredImage>
+  <summary>1 minute read Peter Wey's free lens simulator compares focal lengths, apertures, sensor formats, and bokeh side by side. Its ray-traced profiles include Nikon, Canon, Sony, and even the Helios 44-2. If you're looking to while away some time over the Thanksgiving weekend in the US</summary>
+  <content type="html">&lt;img style="
+
+ 
+	border-bottom: 16px solid #CF0005;
+ 
+         
+" src="https://www.redsharknews.com/hubfs/lens%20simulator.jpg" alt="" class="webfeedsFeaturedVisual"&gt;
+
+&lt;div class="read-minute"&gt;
+
+
+
+
+
+1 minute read
+
+&lt;/div&gt;
+&lt;div class="blog-section"&gt;
+&lt;div class="blog-post-wrapper cell-wrapper"&gt;
+&lt;div class="blog-section"&gt;
+&lt;div class="blog-post-wrapper cell-wrapper"&gt;
+&lt;div class="section post-body"&gt;
+&lt;div class="post-body--main-content"&gt;
+
+&lt;div style="margin-top: 12px;"&gt;
+&lt;div id="hs_cos_wrapper_narration" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"&gt;&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/TrackPlayAnalytics-DDKdhRbk.css"&gt;
+&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/Tooltip-BfwIxqAN.css"&gt;
+
+    
+      &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Peter Wey's free lens simulator compares focal lengths, apertures, sensor formats, and bokeh side by side. Its ray-traced profiles include Nikon, Canon, Sony, and even&amp;nbsp;the Helios 44-2.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;If you're looking to while away some time over the Thanksgiving weekend in the US, or just trying to take shelter from the &lt;a href="https://www.redsharknews.com/black-friday-2026-deals-part-one-cameras-lenses-drones-software"&gt;Black Friday lunacy&lt;/a&gt; that now seems to have spread everywhere else, you could do worse than visit &lt;a href="http://LensSimulator.photo" rel="noopener" target="_blank"&gt;LensSimulator.photo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Developed by Peter Wey, it's a free browser tool for comparing focal length, aperture, sensor format, depth of field, and bokeh across two side-by-side setups.&lt;/p&gt;
+&lt;h2&gt;How the ray-traced lens profiles work&lt;/h2&gt;
+&lt;p&gt;The picture is ray-traced through a 3D scene, and you can choose between an ideal thin lens and a profile that traces rays through the glass, aperture stop, and focusing groups. Rays accumulate over time, so the image cleans up the longer you leave it.&lt;/p&gt;
+&lt;p&gt;The site lists 287 profiles, which it says are ray-traced from real lens patents. Nikon leads with 86, followed by Canon with 58, Fujifilm with 41, Leica with 38, and Sony with 35. The list also takes in the likes of Sigma, Samyang, Viltrox, Angénieux, Zeiss, and Helios, with older glass such as the &lt;a href="https://www.redsharknews.com/production/item/5653-a-cult-classic-lens-the-helios-4-2-58mm-is-full-of-character"&gt;Helios 44-2&lt;/a&gt; and Kodak Aero Ektar in the mix.&lt;/p&gt;
+&lt;p&gt;According to the site, the traced profiles model distortion, vignetting, color fringing, aperture blade shape, cat's-eye highlights, spherical aberration, and focus breathing. An Optical X-Ray view shows a cross-section of the lens, along with the aperture stop, ray path, and focusing groups.&lt;/p&gt;
+&lt;p&gt;Sensor options run from 1-inch through Micro Four Thirds, APS-C, full frame, and digital medium format to 4x5 and 8x10. Focal lengths extend from 8mm to 800mm, with apertures from f/0.95 to f/32.&lt;/p&gt;
+&lt;h2&gt;What it can't do&lt;/h2&gt;
+&lt;p&gt;The site is also upfront about what's missing. Flare, ghosting, coatings, assembly tolerances, sample variation, aspherical molding texture, and sensor noise are all absent from the model. It also warns that a profile follows its patent, which may differ from the lens that went on sale, and that patent-based bokeh can differ from the retail product, especially at close focus. Slider values are nominal, and the lens entries aren't sharpness rankings.&lt;/p&gt;
+&lt;p&gt;In short&lt;a href="http://LensSimulator.photo" rel="noopener" target="_blank"&gt;, LensSimulator.photo&lt;/a&gt; is no replacement for a lens test, but it could help you work out what you want to test when you get to that stage. It's also admirably free and available in 10 languages.&lt;/p&gt;&lt;/span&gt;
+&lt;p id="hubspot-topic_data"&gt;Tags:
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/cameras"&gt;Cameras&lt;/a&gt;
+&lt;a class="red see-all" href="https://www.redsharknews.com/tag/lenses"&gt;Lenses&lt;/a&gt;
+&lt;/p&gt;
+&lt;div class="blog-social-group" style="display: flex;"&gt;
+&lt;a data-flip-widget="shareflip" href="https://flipboard.com"&gt;
+&lt;img style="width: 20px!important; margin: 10px 4px 0 0;" src="https://cdn.flipboard.com/badges/flipboard_srsw.png"&gt;
+&lt;/a&gt;
+
+&lt;span id="hs_cos_wrapper_blog_social_sharing" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_social_sharing" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_social_sharing"&gt;
+&lt;div class="hs-blog-social-share"&gt;
+&lt;ul class="hs-blog-social-share-list"&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-twitter"&gt;
+
+&lt;a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-url="https://www.redsharknews.com/lenssimulator-photo-free-bokeh-lens-simulator" data-size="medium" data-text="LensSimulator.photo: free bokeh and lens simulator"&gt;Tweet&lt;/a&gt;
+&lt;/li&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-linkedin"&gt;
+
+
+&lt;/li&gt;
+&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
+
+&lt;div class="fb-share-button" data-href="https://www.redsharknews.com/lenssimulator-photo-free-bokeh-lens-simulator" data-layout="button_count"&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+</entry>
 <entry>
   <title>US tariffs 2026: what they mean for camera kit</title>
   <link href="https://www.redsharknews.com/us-tariffs-2026-camera-production-kit"/>
@@ -1136,104 +1226,6 @@
 &lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
 
 &lt;div class="fb-share-button" data-href="https://www.redsharknews.com/oz-racing-rally-legend-blackmagic-12k" data-layout="button_count"&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content>
-</entry>
-<entry>
-  <title>DJI Osmo Pocket 4 price rise in China: up to 13%</title>
-  <link href="https://www.redsharknews.com/dji-osmo-pocket-4-nano-price-increase-china-memory"/>
-  <id>https://www.redsharknews.com/dji-osmo-pocket-4-nano-price-increase-china-memory</id>
-  <published>2026-11-21T07:23:20+00:00</published>
-  <updated>2026-11-21T07:23:20+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.redsharknews.com/hubfs/Osmo%20Pocket%204P.jpg"/>
-  <media:content url="https://www.redsharknews.com/hubfs/Osmo%20Pocket%204P.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.redsharknews.com/hubfs/Osmo%20Pocket%204P.jpg"/>
-  <webfeeds:featuredImage>https://www.redsharknews.com/hubfs/Osmo%20Pocket%204P.jpg</webfeeds:featuredImage>
-  <summary>2 minute read DJI Osmo Pocket 4 price rise in China: up to 13% 3:36 Rises of up to 13% have hit DJI's best-selling pocket gimbal cameras in China, blamed on memory costs. While global buyers currently see Black Friday discounts, the increases are likely to spread. RAMageddon cont</summary>
-  <content type="html">&lt;img style="
-
- 
-	border-bottom: 16px solid #CF0005;
- 
-         
-" src="https://www.redsharknews.com/hubfs/Osmo%20Pocket%204P.jpg" alt="Chinese DJI Osmo Pocket 4P bundles are now anything up to 13% more expensive" class="webfeedsFeaturedVisual"&gt;
-
-&lt;div class="read-minute"&gt;
-
-
-
-
-
-2 minute read
-
-&lt;/div&gt;
-&lt;div class="blog-section"&gt;
-&lt;div class="blog-post-wrapper cell-wrapper"&gt;
-&lt;div class="blog-section"&gt;
-&lt;div class="blog-post-wrapper cell-wrapper"&gt;
-&lt;div class="section post-body"&gt;
-&lt;div class="post-body--main-content"&gt;
-
-&lt;div style="margin-top: 12px;"&gt;
-&lt;div id="hs_cos_wrapper_narration" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"&gt;&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/TrackPlayAnalytics-DDKdhRbk.css"&gt;
-&lt;link rel="stylesheet" href="https://48752163.fs1.hubspotusercontent-na1.net/hubfs/48752163/raw_assets/media-default-modules/master/866/js_client_assets/assets/Tooltip-BfwIxqAN.css"&gt;
-&lt;div data-hs-island="true" id="island-e46db1n76d2cdR0"&gt;&lt;div&gt;&lt;div class="hs-audio-player _hs-audio-player_1nxo7_1" role="group" tabindex="0" aria-label="Play blog post audio: DJI Osmo Pocket 4 price rise in China: up to 13%" data-status="initial" data-testid="audio-player" style="display:flex;align-items:center;height:60px;--primary:#cf000f;--secondary:#ffffff;--tertiary:#fc626d;--primary-alt:#d72020;--tertiary-translucent:#fc626d50"&gt;&lt;div class="_play-pause-skip_1nxo7_117 hs-audio-player__controls"&gt;&lt;div class="_control-button_1nxo7_36 _play-pause-button_1nxo7_122 hs-audio-player__play-pause-button" role="button" tabindex="-1" aria-label="Play" data-testid="play-pause-button"&gt;&lt;span class="_loading-spinner_1nxo7_147 hs-audio-player__loading-spinner" aria-label="Loading" aria-busy="true"&gt;&lt;span class="hs-audio-player__loading-icon"&gt;&lt;svg width="40" height="40" viewbox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"&gt;&lt;path d="M0 20C0 31.0457 8.95431 40 20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.95431 0 0 8.9543 0 20ZM36.4 20C36.4 29.0575 29.0575 36.4 20 36.4C10.9425 36.4 3.6 29.0575 3.6 20C3.6 10.9425 10.9425 3.6 20 3.6C29.0575 3.6 36.4 10.9425 36.4 20Z" fill="url(#paint0_angular_1434_396)"&gt;&lt;/path&gt;&lt;circle cx="20" cy="20" r="18" fill="none" stroke="#00a4bd" stroke-width="3"&gt;&lt;/circle&gt;&lt;defs&gt;&lt;radialgradient id="paint0_angular_1434_396" cx="0" cy="0" r="1" gradientunits="userSpaceOnUse" gradienttransform="translate(20 20) rotate(90) scale(20)"&gt;&lt;stop stop-color="#00A4BD"&gt;&lt;/stop&gt;&lt;stop offset="0.489583" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;stop offset="1" stop-color="#7FD1DE"&gt;&lt;/stop&gt;&lt;/radialgradient&gt;&lt;/defs&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="_initial-title_1nxo7_40 hs-audio-player__title" style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis"&gt;DJI Osmo Pocket 4 price rise in China: up to 13%&lt;/div&gt;&lt;div class="_ai-generated-icon_1nxo7_47 hs-audio-player__ai-icon" role="img" aria-label="AI-generated audio" tabindex="0"&gt;&lt;svg xmlns="http://www.w3.org/2000/svg" viewbox="0 -6 32 34"&gt;&lt;path d="M17.01.6l2.75 5.03c1.18 2.16 2.96 3.94 5.12 5.12l5.03 2.75c.8.44.8 1.58 0 2.01l-5.02 2.75c-2.16 1.18-3.94 2.96-5.12 5.12l-2.75 5.02c-.44.8-1.58.8-2.01 0l-2.75-5.03c-1.18-2.16-2.96-3.94-5.12-5.12L2.11 15.5c-.8-.44-.8-1.58 0-2.01l5.03-2.75c2.16-1.18 3.94-2.96 5.12-5.12L14.99.6c.44-.8 1.58-.8 2.01 0z"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div class="_duration_1nxo7_62 hs-audio-player__duration"&gt;3:36&lt;/div&gt;&lt;/div&gt;&lt;audio preload="none" src="https://www.redsharknews.com/hubfs/AI-Generated%20Media/Post%20Narration%20Audio/228198383695-TTS-1795245337577.mp3"&gt;&lt;/audio&gt;&lt;/div&gt;&lt;/div&gt;
-    
-      
-  
-  &lt;link rel="modulepreload" crossorigin href="https://static.hsappstatic.net/cms-js-static/ex/js/react/v18/react-combined.mjs"&gt;
-  
-      &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"&gt;&lt;p&gt;&lt;span style="font-weight: bold;"&gt;Rises of up to 13% have hit DJI's best-selling pocket gimbal cameras in China, blamed on memory costs. While global buyers currently see Black Friday discounts, the increases are likely to spread.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="/ramageddon-2026-camera-storage-prices" rel="noopener" target="_blank"&gt;RAMageddon&lt;/a&gt; continues. At the same time that DJI is highlighting the savings across its range in the annual Black Friday sales, especially on previous-generation kit, the company has raised the prices of its Osmo Pocket 4, Osmo Pocket 4P, and Osmo Nano in China, by as much as 13% on some bundles. It's the latest in a string of &lt;a href="https://www.redsharknews.com/camera-price-rises-fall-2026"&gt;memory-driven price rises&lt;/a&gt; across the camera industry this year.&lt;/p&gt;
-&lt;p&gt;DJI announced the move on November 13 in a short notice on its China website, titled "Explanation Regarding Adjustments to Suggested Retail Prices for Certain DJI Products." It blamed sustained, sharp increases in the cost of key components, including semiconductors and memory, and said new suggested retail prices would apply from midnight Beijing time on November 18.&lt;/p&gt;
-&lt;p&gt;The notice didn't say which products, or by how much. That information came from a piece in &lt;a href="https://news.bjd.com.cn/2026/11/13/12029602.shtml"&gt;Beijing Daily&lt;/a&gt;, the company telling the paper that the changes covered some of its handheld gimbal cameras and thumb cameras currently on sale, and that the aim was to ensure normal supply and stable product quality.&lt;/p&gt;
-&lt;p&gt;This all makes sense. The Pocket 4, for example, has 107 GB of storage built in, and the Nano also relies on onboard memory. That makes them far more exposed to NAND pricing variations than a typical camera that offloads storage to a card.&lt;/p&gt;
-&lt;h2&gt;What's gone up and by how much&lt;/h2&gt;
-&lt;p&gt;Chinese pricing does not always map onto that seen in other countries, so the percentages are the better guide here. The Osmo Pocket 4P Standard Combo went from RMB 3799 to RMB 4099 (about 8%), while the Pocket 4P Vlog Combo took the biggest hit, rising RMB 560 to RMB 4859 (13%, or roughly $83 more).&lt;/p&gt;
-&lt;p&gt;The standard &lt;a href="https://www.redsharknews.com/dji-osmo-pocket-4-dominates-japan-video-camera-market"&gt;Osmo Pocket 4&lt;/a&gt; rose from RMB 2999 to RMB 3199 (about 7%). Several of its bundles climbed further, with the All-in-One and Meipai kits each up RMB 500, to RMB 4299 (about 13%) and RMB 4598 (about 12%) respectively. The Enjoy Shooting kit escaped with a smaller RMB 140 rise to RMB 3638 (about 4%).&lt;/p&gt;
-&lt;p&gt;The Osmo Nano split down the middle: the 128 GB version rose RMB 200 to RMB 2498 (about 9%), while the 64 GB version stays at RMB 1998. That detail rather neatly tells you where the cost pressure is coming from.&lt;/p&gt;
-&lt;p&gt;Not everything is moving. DJI launched the Osmo 360 II in China at the same price as its predecessor.&lt;/p&gt;
-&lt;h2&gt;Will prices elsewhere follow?&lt;/h2&gt;
-&lt;p&gt;DJI’s Black Friday sale is a dynamic one with plenty of moving parts. In terms of the products that we know are affected in China, in the UK, for example, currently we’re seeing 8% off the Osmo Pocket 4P Standard Combo in the UK and 5% off the Pocket 4. After Black Friday is over, we’ll just have to see if those prices head back to where they were or overshoot to the new Chinese level.&lt;/p&gt;
-&lt;p&gt;As yet, arch-rival Insta360 had not responded, though the company's third-quarter results showed profits falling, with rising memory component costs cited as &lt;a href="https://finance.eastmoney.com/a/202611133930801567.html"&gt;a significant factor&lt;/a&gt;. If memory prices behave as the industry expects next year, stabilizing at best, DJI is unlikely to be the last company to raise prices.&lt;/p&gt;&lt;/span&gt;
-&lt;p id="hubspot-topic_data"&gt;Tags:
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/cameras"&gt;Cameras&lt;/a&gt;
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/dji"&gt;DJI&lt;/a&gt;
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/ramageddon"&gt;RAMageddon&lt;/a&gt;
-&lt;a class="red see-all" href="https://www.redsharknews.com/tag/gimbal-camera"&gt;Gimbal Camera&lt;/a&gt;
-&lt;/p&gt;
-&lt;div class="blog-social-group" style="display: flex;"&gt;
-&lt;a data-flip-widget="shareflip" href="https://flipboard.com"&gt;
-&lt;img style="width: 20px!important; margin: 10px 4px 0 0;" src="https://cdn.flipboard.com/badges/flipboard_srsw.png"&gt;
-&lt;/a&gt;
-
-&lt;span id="hs_cos_wrapper_blog_social_sharing" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_social_sharing" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_social_sharing"&gt;
-&lt;div class="hs-blog-social-share"&gt;
-&lt;ul class="hs-blog-social-share-list"&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-twitter"&gt;
-
-&lt;a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-url="https://www.redsharknews.com/dji-osmo-pocket-4-nano-price-increase-china-memory" data-size="medium" data-text="DJI Osmo Pocket 4 price rise in China: up to 13%"&gt;Tweet&lt;/a&gt;
-&lt;/li&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-linkedin"&gt;
-
-
-&lt;/li&gt;
-&lt;li class="hs-blog-social-share-item hs-blog-social-share-item-facebook"&gt;
-
-&lt;div class="fb-share-button" data-href="https://www.redsharknews.com/dji-osmo-pocket-4-nano-price-increase-china-memory" data-layout="button_count"&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;

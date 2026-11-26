@@ -3,7 +3,183 @@
 <title>MIT Technology Review en español (Completo)</title>
 <link href="https://www.technologyreview.es/"/>
 <id>https://www.technologyreview.es/</id>
-<updated>2026-11-25T12:00:00+00:00</updated>
+<updated>2026-11-26T08:10:00+00:00</updated>
+<entry>
+  <title>The Download: mejores manos biónicas y el auge del gas natural impulsado por la IA</title>
+  <link href="https://www.technologyreview.es/article/the-download-mejores-manos-bionicas-y-el-auge-del-gas-natural-impulsado-por-la-ia"/>
+  <id>https://www.technologyreview.es/article/the-download-mejores-manos-bionicas-y-el-auge-del-gas-natural-impulsado-por-la-ia</id>
+  <published>2026-11-26T08:10:00+00:00</published>
+  <updated>2026-11-26T08:10:00+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" medium="image" type="image/png"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362</webfeeds:featuredImage>
+  <summary>Además: SpaceX ha obtenido autorización para lanzar 1 millón de satélites de centros de datos.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: mejores manos biónicas y el auge del gas natural impulsado por la IA" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: SpaceX ha obtenido autorización para lanzar 1 millón de satélites de centros de datos.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;La próxima generación de manos biónicas ya está aquí —y pueden sentir—&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Avi Davidson perdió la mano izquierda cuando era adolescente. Desde entonces, ha pasado por varias prótesis. Pero la última es diferente: está conectada a los nervios de su antebrazo y le permite sentir la presión. Por primera vez en años, puede manipular objetos delicados como uvas, huevos o la mano de un ser querido.&lt;/p&gt;
+
+&lt;p&gt;Davidson es la novena persona a la que se le implanta este dispositivo experimental, pero es el primero en llevárselo a casa y utilizarlo de forma independiente. Los investigadores esperan que su experiencia revele hasta qué punto es realmente útil esta tecnología en el día a día, y cómo podría afectar a su cerebro y a su sistema nervioso.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/"&gt;Descubre cómo una nueva generación de prótesis está aprendiendo a sentir&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Cómo los centros de datos están impulsando el auge del gas natural en EE. UU.&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;— Casey Crownhart&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;En mayo de 2025, mi colega David Rotman escribió sobre cómo la IA podría &lt;a href="https://www.technologyreview.com/2025/05/20/1116272/ai-natural-gas-data-centers-energy-power-plants/"&gt;mantenernos dependientes del gas natural&lt;/a&gt;. Apenas 18 meses después, he perdido la cuenta de cuántas veces se ha demostrado que tenía razón.&lt;/p&gt;
+
+&lt;p&gt;Solo un ejemplo: los planes para el centro de datos de Meta en Luisiana en el que se centró David se han ampliado, y la compañía eléctrica local ha pasado de planificar tres centrales de gas natural a 10. Mientras tanto, las emisiones de Meta han aumentado un 45 % respecto a las del año pasado.&lt;/p&gt;
+
+&lt;p&gt;En todo EE. UU., el gas natural se ha convertido en la opción por defecto para satisfacer la disparada demanda eléctrica. &lt;a href="https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"&gt;Esto es lo que significa para el futuro de la red eléctrica&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"&gt;&lt;strong&gt;Este artículo&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;forma parte de The Spark, nuestro boletín semanal sobre tecnología climática.&lt;/strong&gt; &lt;a href="https://forms.technologyreview.com/newsletters/climate-energy-the-spark/"&gt;&lt;strong&gt;Suscríbete&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;para recibirlo en tu bandeja de entrada cada miércoles.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Los imprescindibles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/inquietantes/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 SpaceX recibe autorización para lanzar un millón de satélites para centros de datos&lt;br&gt;&lt;/strong&gt;La FCC afirma que ayudarán a cubrir la demanda de computación de la IA. (&lt;a href="https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Pero podrían saturar la órbita y ocultar las estrellas.&lt;/em&gt; (&lt;a href="https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ SpaceX debe empezar a desplegarlos antes de 2033 según su licencia.&lt;/em&gt; (&lt;a href="https://www.bbc.co.uk/news/articles/cwp836l8n1jgo"&gt;BBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Europa ha inaugurado una megafactoría para construir un rival de Starlink.&lt;/em&gt; (&lt;a href="https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ ¿Pueden funcionar realmente los centros de datos en órbita?&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 El Ejército de EE. UU. acaba de detonar casi cinco toneladas de explosivos inestables&lt;br&gt;&lt;/strong&gt;La EPA notifica «cero» plomo en el aire tras la deflagración. (&lt;a href="https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"&gt;Verge&lt;/a&gt;)&lt;br&gt; + &lt;em&gt;Los científicos analizan ahora el suelo y el agua en busca de contaminación.&lt;/em&gt; (&lt;a href="https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/"&gt;Wired&lt;/a&gt; $)&lt;br&gt; + &lt;em&gt;Las autoridades recibieron críticas por la deficiente comunicación previa.&lt;/em&gt; (&lt;a href="https://www.axios.com/2026/11/25/iowa-army-lead-detonation"&gt;Axios&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3 La Tierra acaba de registrar su primera racha de seis días por encima de los 2 °C&lt;br&gt;&lt;/strong&gt;Los científicos afirman que es una advertencia temprana de lo que está por venir. (&lt;a href="https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time"&gt;Guardian&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4 Ucrania afirma haber logrado el primer derribo con láser de un dron a reacción&lt;/strong&gt;&lt;br&gt;Su láser Blysk derribó un dron kamikaze ruso. (&lt;a href="https://www.bloomberg.com/news/articles/2026-11-26/ukraine-says-it-downed-jet-drone-with-laser-for-first-time"&gt;Bloomberg&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 Neuralink obtiene la autorización para un ensayo de implantes cerebrales en pacientes con ELA&lt;br&gt;&lt;/strong&gt;Se trata de la última fase de pruebas antes de solicitar el permiso de comercialización. (&lt;a href="https://gizmodo.com/neuralink-obtains-fda-approval-for-als-brain-implant-trial-2000845737"&gt;Gizmodo&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ China acelera para no quedarse atrás en interfaces cerebro-ordenador.&lt;/em&gt; (&lt;a href="https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market"&gt;SCMP&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Una BCI le devolvió la voz a un hombre con ELA.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 Unos «hackers» vulneran la agencia de control de delitos financieros del Tesoro de EE. UU.&lt;br&gt;&lt;/strong&gt;El ataque ha dejado fuera de servicio los sistemas utilizados para notificar el blanqueo de capitales. (&lt;a href="https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1"&gt;FT&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7 La startup en quiebra Character.ai quiere vender millones de chats de usuarios&lt;br&gt;&lt;/strong&gt;42 fiscales generales intentan bloquear la venta. (&lt;a href="https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"&gt;TechCrunch&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 La búsqueda de la materia oscura se vuelve cada vez más extraña&lt;/strong&gt;&lt;br&gt;La comunidad científica está utilizando imanes levitantes y relojes nucleares. (&lt;a href="https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/"&gt;Quanta&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Los escondites de la materia oscura no dejan de aumentar.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9 Científicos utilizaron aves marinas espía para rastrear barcos que navegaban a oscuras&lt;br&gt;&lt;/strong&gt;Los dispositivos de grabación instalados en las aves detectaron barcos con los localizadores apagados. (&lt;a href="https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/"&gt;404 Media&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 Este Día de Acción de Gracias, la IA se está convirtiendo en un popular sous-chef&lt;br&gt;&lt;/strong&gt;Pero los blogueros gastronómicos afirman que sus recetas suelen ser «un completo disparate». (&lt;a href="https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs"&gt;Axios&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;La frase del día&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«Oye, por cierto, esta podría ser la última vez que nos veamos —potencialmente, probablemente no, pero tal vez— por la IA».&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;—Daniel Kokotajlo, exinvestigador de OpenAI y autor de la predicción «IA 2027», &lt;a href="https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html"&gt;explica a The New York Times&lt;/a&gt; cómo planea plantear los riesgos de extinción asociados a la IA a la familia de su mujer este Día de Acción de Gracias.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fb32eae1556885c76880855ceac30efc12ffb72bc.jpg?alt=media&amp;token=2b17f27d-25da-41e3-83d7-7b1c1a98bd71" alt="Una IA rodeada de puzles con expresión de angustia en su rostro digital" class="wp-image-1142915"/&gt;&lt;/figure&gt;
+
+&lt;h4 class="wp-block-heading"&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;Los modelos de IA suspenden estos test de inteligencia. ¿Lo harías tú mejor?&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;br&gt;A juzgar únicamente por su destreza con los pasatiempos, la IA está mejorando mucho, y rápido. A finales de 2024, incluso los mejores modelos apenas lograban descifrar el 18 % de los temidos pasatiempos «Connections» de The New York Times; a principios de 2025, algunos ya los resolvían casi a la perfección.&lt;/p&gt;
+
+&lt;p&gt;Pero los pasatiempos hacen algo más que evidenciar el avance de la IA. Ver en qué aciertan y en qué fallan los modelos, y dónde los humanos aún los superan, ofrece una ventana a los puntos fuertes y débiles de esta tecnología.&lt;/p&gt;
+
+&lt;p&gt;Hemos recopilado siete acertijos que han desconcertado a los modelos. &lt;a href="https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"&gt;Pruébalos tú mismo para comprobar si puedes ser más listo que la IA&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Grace Huckins&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Un espacio de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;+ Vuela por el universo en este &lt;a href="https://www.youreyesinspace.com/?lang=en"&gt;mapa interactivo del espacio&lt;/a&gt;.&lt;br&gt;+ Un analista de la industria cinematográfica ha elaborado un &lt;a href="https://stephenfollows.com/p/how-many-shots-are-in-the-average"&gt;fascinante análisis basado en datos&lt;/a&gt; sobre los planos y cortes en el cine.&lt;br&gt;+ Dicen que los coches de F1 toman las curvas como si fueran sobre raíles, así que Red Bull Racing ha puesto uno sobre &lt;a href="https://www.youtube.com/watch?v=zu759oT11eE"&gt;una vía de tren real&lt;/a&gt;.&lt;br&gt;+ Viaja como 007 con &lt;a href="https://licencetolocate.com/"&gt;License to Locate&lt;/a&gt;, que sitúa en el mapa todas las localizaciones de rodaje de James Bond, desde Jamaica hasta Venecia.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Una mano biónica conectada a los nervios permite sentir la presión y el tacto en casa</title>
+  <link href="https://www.technologyreview.es/article/una-mano-bionica-conectada-a-los-nervios-permite-sentir-la-presion-y-el-tacto-en-casa"/>
+  <id>https://www.technologyreview.es/article/una-mano-bionica-conectada-a-los-nervios-permite-sentir-la-presion-y-el-tacto-en-casa</id>
+  <published>2026-11-26T04:59:00+00:00</published>
+  <updated>2026-11-26T04:59:00+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F1d5c6774d29bb1a9c3e6b944c3d6fec20d83ec2f.jpg?alt=media&amp;token=863be65a-0d64-4548-bbe7-ea2633262e65"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F1d5c6774d29bb1a9c3e6b944c3d6fec20d83ec2f.jpg?alt=media&amp;token=863be65a-0d64-4548-bbe7-ea2633262e65" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F1d5c6774d29bb1a9c3e6b944c3d6fec20d83ec2f.jpg?alt=media&amp;token=863be65a-0d64-4548-bbe7-ea2633262e65"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F1d5c6774d29bb1a9c3e6b944c3d6fec20d83ec2f.jpg?alt=media&amp;token=863be65a-0d64-4548-bbe7-ea2633262e65</webfeeds:featuredImage>
+  <summary>Conoce la historia del primer paciente que prueba en casa una mano biónica conectada al sistema nervioso capaz de percibir la presión y el tacto real.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F1d5c6774d29bb1a9c3e6b944c3d6fec20d83ec2f.jpg?alt=media&amp;token=863be65a-0d64-4548-bbe7-ea2633262e65" alt="Una mano biónica conectada a los nervios permite sentir la presión y el tacto en casa" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Jessica Hamzelou&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Conoce la historia del primer paciente que prueba en casa una mano biónica conectada al sistema nervioso capaz de percibir la presión y el tacto real.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Avi Davidson perdió la mano izquierda cuando era adolescente. Desde entonces, ha pasado por varias prótesis. Pero la última es diferente: está conectada a los nervios de la parte superior del antebrazo y le permite sentir la presión. Por primera vez en años, puede utilizar su extremidad izquierda para manipular objetos delicados como uvas, huevos o la mano de un ser querido.&lt;/p&gt;
+
+&lt;p&gt;Davidson, que participa en un ensayo clínico a cargo de la Universidad de Utah, es la novena persona a la que se le implanta este dispositivo experimental en el brazo. Pero es el primero en llevárselo a casa y utilizarlo de forma autónoma.&lt;/p&gt;
+
+
+
+&lt;p&gt;La mano forma parte del brazo biónico &lt;a href="https://www.darpa.mil/about/innovation-timeline/revolutionizing-prosthetics"&gt;LUKE&lt;/a&gt;, bautizado así por Luke Skywalker, de &lt;em&gt;Star Wars&lt;/em&gt;, a quien le colocaron &lt;a href="https://www.youtube.com/watch?v=26T0dbXh5GQ"&gt;una prótesis hiperrealista&lt;/a&gt; después de que &lt;a href="https://www.youtube.com/watch?v=GLheiLGZ1k8"&gt;le cercenaran el suyo con un sable láser&lt;/a&gt;. El brazo se desarrolló &lt;a href="https://journals.sagepub.com/doi/10.1177/0309364613506914"&gt;en la década de 2000&lt;/a&gt;, &lt;a href="https://www.research.va.gov/research_in_action/The-LUKE-DEKA-advanced-prosthetic-arm.cfm"&gt;se probó por primera vez en 2014&lt;/a&gt; y la FDA lo aprobó ese mismo año. El ensayo en el que participa Davidson no se centra tanto en el brazo en sí, sino en una nueva forma de conectarlo al sistema nervioso de una persona. Esta conexión permite a los usuarios controlar los movimientos y recibir retroalimentación sobre cuánta presión están ejerciendo.&lt;/p&gt;
+
+&lt;p&gt;Los investigadores esperan que la experiencia de Davidson les ayude a responder a algunas preguntas pendientes desde hace tiempo sobre esta tecnología, como hasta qué punto resulta realmente útil en el día a día. Quieren saber en qué situaciones es de ayuda el dispositivo y en cuáles podría fallar. También quieren averiguar cómo podría afectar tanto al bienestar de Davidson como a su cerebro y a su sistema nervioso.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;La pérdida de una extremidad&lt;/h3&gt;
+
+&lt;p&gt;En 2009, cuando tenía 16 años, Davidson se subió a un poste telefónico para conseguir la mejor foto de una puesta de sol. «Subí unos diez metros», recuerda. Pero perdió el equilibrio al intentar bajar. Se agarró a un cable, que acabó electrocutándolo, antes de caer al suelo.&lt;/p&gt;
+
+&lt;p&gt;El accidente le causó quemaduras de segundo y tercer grado en el 37 % de su cuerpo, explica Davidson, «y me fracturé la espalda en aproximadamente 50 puntos distintos». También se rompió ocho costillas y se le seccionó la médula espinal. Está bastante seguro de que también se fracturó la muñeca izquierda. Sin embargo, unos diez días después, su mano izquierda —su mano dominante y con la que se había agarrado al cable— empezó a gangrenarse. Tuvieron que amputársela.&lt;/p&gt;
+
+&lt;p&gt;Al final, Davidson permaneció en coma cerca de un mes. «En cuanto me desperté, me explicaron: estás paralizado, nunca volverás a caminar y, además, te hemos amputado la mano izquierda», recuerda. «Un pequeño inconveniente a los 16 años, por decirlo suavemente».&lt;/p&gt;
+
+&lt;p&gt;Davidson, que ahora tiene 33 años y es terapeuta especializado en traumas, hizo fisioterapia y se adaptó a la vida en su nuevo cuerpo. Ha probado diversas manos protésicas. La primera, que recibió un año y medio después de su lesión, era un gancho básico que le permitía coger cosas. No era nada sofisticada, pero le dio «una sensación psicológica de volver a estar completo», afirma.&lt;/p&gt;
+
+&lt;p&gt;Las manos que ha probado desde entonces han sido más avanzadas: algunas le han permitido controlar dedos individuales mediante movimientos musculares, por ejemplo. Su seguro médico ha cubierto algunas, lo que le permite sustituirlas cada cinco años aproximadamente, comenta. Otras ha tenido que comprarlas él mismo. Compró su tercera mano protésica, por ejemplo, en eBay. «Tiene gracia pensar que compré una segunda mano de segunda mano», dice.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Nuevas conexiones&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Un encuentro fortuito con un científico en un supermercado puso en contacto a Davidson con el equipo de investigación de la Universidad de Utah, especializado en dispositivos que se conectan al cuerpo humano. Desde 2013, el equipo llevaba a cabo un ensayo de un sistema capaz de conectarse con los nervios de un miembro residual, lo que permitía a una persona amputada controlar una prótesis biónica. Davidson resultó ser un candidato ideal, afirma Jake George, director del &lt;a href="https://neurorobotics.ece.utah.edu/"&gt;laboratorio de neurorrobótica&lt;/a&gt; de la universidad.&lt;/p&gt;
+
+&lt;p&gt;Davidson, que estaba muy interesado en participar, tuvo que someterse primero a lo que George describe como evaluaciones físicas y psicológicas «bastante exhaustivas». No solo debía encontrarse en condiciones adecuadas para la cirugía, sino que el equipo también le escaneó el cerebro para asegurarse de que aún conservaba una representación mental de su mano izquierda —lo que sugería que sería capaz de mover una biónica—. También realizaron pruebas para comprobar que los nervios de su brazo seguían funcionando.&lt;/p&gt;
+
+
+
+&lt;p&gt;Un terapeuta evaluó las motivaciones de Davidson para participar en el ensayo. «Nuestros pacientes no reciben compensación, no se quedan con el dispositivo y pasan por dos cirugías —la de implantación y la de extracción—», afirma George. «Avi hace esto porque quiere ayudar a los demás».&lt;/p&gt;
+
+&lt;p&gt;A finales de enero de este año, Davidson voló de Florida a Utah para someterse a su primera intervención quirúrgica. Fue un procedimiento bastante complejo en el que intervinieron tanto ingenieros como un equipo quirúrgico completo. «Nosotros [los investigadores] nos quedamos al fondo de la sala y básicamente respondemos a la pregunta cuando el cirujano dice: "¿Dónde pongo este maldito trasto?"», explica George. El cirujano expuso tres nervios del brazo de Davidson e implantó en cada uno de ellos una matriz de electrodos con 100 agujas.&lt;/p&gt;
+
+&lt;p&gt;Los nervios son blandos, por lo que clavar electrodos en ellos no sirve de mucho, explica George. En su lugar, el equipo conectó los electrodos a los nervios mediante lo que describe como una «pistola de aire comprimido». «Disparas la matriz de agujas hacia el nervio a una velocidad muy, muy alta», afirma.&lt;/p&gt;
+
+&lt;p&gt;El equipo también insertó 24 electrodos en los músculos situados alrededor de los nervios. Los cables de cada una de las matrices nerviosas y de los pares de electrodos musculares quedaron sobresaliendo de la piel de Davidson. Tras la cirugía, le ofrecieron algo de tiempo para recuperarse. «Al segundo día ya dije: “No, conectadme ya a las máquinas”», cuenta.&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2F70984910424bd9de6c9680bc5a2cde54a9216d76.jpg?alt=media&amp;token=6b19dbec-58e7-47b1-b37f-c6986a14c5d9" alt="Avi Davidson prueba su nueva mano protésica." class="wp-image-1149698"/&gt;&lt;/figure&gt;
+
+&lt;p&gt;El siguiente paso consistió en entrenar un sistema informático para, en esencia, traducir la actividad eléctrica de los nervios de Davidson en señales para los movimientos de la mano y la muñeca biónicas.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Para ponerlo en marcha, el equipo tuvo que entrenar el dispositivo en dos direcciones. La primera consistió en convertir la actividad nerviosa en movimientos de la mano, la muñeca y los dedos. Los investigadores lo lograron escuchando las señales recogidas en los cientos de puntos de conexión eléctrica del brazo de Davidson mientras pensaba en distintos movimientos. Esa parte fue fácil, afirma George: «Es cuestión de unos cinco minutos».&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;La segunda dirección —vincular los electrodos a las sensaciones percibidas por la prótesis— requiere mucho más tiempo. Los miembros del equipo estimulaban por turnos cada uno de los puntos de conexión de los electrodos y le preguntaban a Davidson si sentía algo. Luego aumentaban la señal en cada uno de esos puntos para ver el efecto. «Es un proceso de unos tres días», dice George.&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;Convertirse en biónico&lt;/h3&gt;
+
+&lt;p&gt;Desde entonces, los cables de Davidson se han conectado y simplificado, explica George, quien describe el proceso como «más o menos como enchufar un cable HDMI o un cable USB-C». Cuando quiere usar su prótesis, Davidson primero debe ponérsela, conectarla a los cables y luego iniciarla mediante un pequeño ordenador.&lt;/p&gt;
+
+&lt;p&gt;También ha tenido que someterse a una intensa fisioterapia para aprender a controlar la mano. Al fin y al cabo, no se parece en nada a las prótesis que ha utilizado en el pasado. «Es casi como aprender un idioma diferente con este tipo de tecnología», afirma Leanne Seckinger, terapeuta ocupacional del sistema sanitario de la Universidad de Utah que trabaja con Davidson.&lt;/p&gt;
+
+&lt;p&gt;Al principio, ella y Davidson trabajaron en aprender a sujetar y estabilizar objetos. Se centraron en los objetivos personales de Davidson: quería poder cocinar en casa, así que ambos trabajaron en estrategias para sujetar y manipular utensilios, preparar y picar ingredientes, y llevar platos y cuencos. «Pudo cascar un huevo», dice Seckinger. «Hizo una tortilla».&lt;/p&gt;
+
+
+
+&lt;p&gt;Davidson lleva utilizando la mano en casa desde el 10 de julio y ha notado mejoras. Al principio tardaba unos minutos en escribir su nombre; ahora es capaz de hacerlo en cuestión de segundos. «Lo que puedo hacer con ella ahora es tremendo en comparación con el punto del que partía», afirma.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Hoy en día, asegura, lleva la mano unos seis días a la semana. Cambia las baterías una o dos veces a lo largo del día y se la quita por la noche. Es pesada: ronda los dos kilos y cuarto, explica.&lt;/p&gt;
+
+&lt;p&gt;La mano puede ser útil, pero también ha resultado sorprendente. A veces, Davidson siente dolor en ella. Podría tratarse de lo que se conoce como «dolor fantasma»—un síntoma que experimentan algunas personas que han perdido una extremidad.&lt;/p&gt;
+
+&lt;p&gt;Curiosamente, también afirma que siente tensión en la muñeca. Davidson asegura que nota una rigidez en su muñeca protésica similar a la que experimenta cuando lleva mucho tiempo tecleando con su mano derecha de carne y hueso. Además, se ha dado cuenta de que puede aliviar la tensión tirando de los dedos biónicos hacia atrás para estirar la muñeca protésica. «Es raro», comenta.&lt;/p&gt;
+
+&lt;p&gt;El fenómeno «no tiene ningún sentido desde el punto de vista fisiológico», señala Chris Duncan, médico rehabilitador y director médico de BIOS, una empresa de neurotecnología que colabora en el ensayo. Al estirar una mano normal, se tensan los tendones que se extienden por el antebrazo. Pero en un brazo biónico no hay tendones; los «estiramientos» de Davidson no hacen más que mover actuadores, explica Duncan. Desconoce por qué le resulta útil, pero sospecha que podría tener algo que ver con cómo se representa la mano en su mente. «Lo que está experimentando Avi es, sinceramente, una especie de territorio inexplorado», afirma.&lt;/p&gt;
+
+&lt;p&gt;El equipo de investigación está planificando actualmente un estudio más amplio y espera que la FDA apruebe el dispositivo de sensación bidireccional para que pueda estar cubierto por el seguro médico. «Tienen que entender que se trata de un nuevo paradigma tecnológico útil que aportará valor a los pacientes», afirma Duncan. Los miembros del equipo también esperan que la tecnología permita a los usuarios manejar otros dispositivos, como mandos a distancia y sillas de ruedas.&lt;/p&gt;
+
+&lt;p&gt;Davidson conservará los implantes y la mano durante al menos un par de meses más. Pero el ensayo se diseñó para durar «al menos» un año, y ese plazo se cumplirá a finales de enero de 2027. «No tengo muy claro qué pasará después», afirma.&lt;/p&gt;
+
+&lt;p&gt;George espera que el ensayo pueda prorrogarse, pero eso dependerá de la financiación. «Desde nuestra perspectiva, nos gustaría continuar todo el tiempo que podamos», señala. «No queremos dejar a Avi sin apoyo».&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, a Davidson no le preocupa demasiado lo que venga después. «Entré en esto sabiendo que no era algo que me fuera a quedar», afirma. «No voy a beneficiarme de esto… Quería formar parte de ello en el contexto de poder ayudar a impulsar la tecnología».&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Los centros de datos impulsan un nuevo auge del gas natural en Estados Unidos</title>
   <link href="https://www.technologyreview.es/article/los-centros-de-datos-impulsan-un-nuevo-auge-del-gas-natural-en-estados-unidos"/>
@@ -488,73 +664,5 @@
 &lt;p&gt;Los médicos que investigan los límites del soporte vital de órganos han creado ahora dos nuevas sociedades científicas para explorar este concepto. Una de ellas, fundada por Martins y denominada International Society for Organ Preservation and Perfusion Therapy, celebrará su reunión inaugural este año en Italia. La otra, con sede en China, se &lt;a href="https://info.newsgd.com/node_91423f6a55/e6458c1195.shtml"&gt;presentó en agosto&lt;/a&gt; para impulsar lo que los médicos del Primer Hospital Afiliado de la Universidad Sun Yat-sen han denominado «&lt;a href="https://www.ovid.com/jnls/cmj/fulltext/10.1097/cm9.0000000000003524~organ-medicine-new-concept-of-life-sciences"&gt;medicina de órganos»&lt;/a&gt;: investigaciones centradas en órganos enteros que se mantienen vivos mediante «mantenimiento biónico».&amp;nbsp;&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;«Lo que está disparándose es la idea de que esta tecnología va claramente más allá de la mera preservación de órganos», afirma Pulitano. «Básicamente, se trata de un concepto totalmente nuevo».&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Sila sella un acuerdo milmillonario con Panasonic para impulsar las baterías de silicio</title>
-  <link href="https://www.technologyreview.es/article/sila-sella-un-acuerdo-milmillonario-con-panasonic-para-impulsar-las-baterias-de-silicio"/>
-  <id>https://www.technologyreview.es/article/sila-sella-un-acuerdo-milmillonario-con-panasonic-para-impulsar-las-baterias-de-silicio</id>
-  <published>2026-11-19T06:00:00+00:00</published>
-  <updated>2026-11-19T06:00:00+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fa8dbb738f5e4903fe60326fbafa5543abe6fdff3.jpg?alt=media&amp;token=f12c7ca1-24f1-4c34-8ee4-b35dc57efd74"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fa8dbb738f5e4903fe60326fbafa5543abe6fdff3.jpg?alt=media&amp;token=f12c7ca1-24f1-4c34-8ee4-b35dc57efd74" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fa8dbb738f5e4903fe60326fbafa5543abe6fdff3.jpg?alt=media&amp;token=f12c7ca1-24f1-4c34-8ee4-b35dc57efd74"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fa8dbb738f5e4903fe60326fbafa5543abe6fdff3.jpg?alt=media&amp;token=f12c7ca1-24f1-4c34-8ee4-b35dc57efd74</webfeeds:featuredImage>
-  <summary>Sila suministrará ánodos de silicio a Panasonic. Descubre cómo esta alianza de mil millones de dólares impulsará baterías más ligeras y eficientes.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fa8dbb738f5e4903fe60326fbafa5543abe6fdff3.jpg?alt=media&amp;token=f12c7ca1-24f1-4c34-8ee4-b35dc57efd74" alt="Sila sella un acuerdo milmillonario con Panasonic para impulsar las baterías de silicio" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Casey Crownhart&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Sila suministrará ánodos de silicio a Panasonic. Descubre cómo esta alianza de mil millones de dólares impulsará baterías más ligeras y eficientes.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Tras unos años difíciles marcados por sonados fracasos, llegan noticias positivas para las baterías de nueva generación en Estados Unidos.&lt;/p&gt;
-
-&lt;p&gt;Sila acaba de firmar un acuerdo con Panasonic Energy, un fabricante mundial de baterías, para suministrar material de ánodo de silicio y carbono, una posible clave para lograr baterías más pequeñas y ligeras. Se trata de un acuerdo que, según Sila, podría alcanzar un valor de más de 1000 millones de dólares con el tiempo.&lt;/p&gt;
-
-&lt;p&gt;Este acuerdo también muestra hasta qué punto ha cambiado últimamente la política en torno a las baterías. Una parte fundamental del respaldo financiero para la producción de esta fábrica procede de un préstamo de 1400 millones de dólares del Departamento de Defensa durante la administración Trump. Aunque las baterías pueden ser una herramienta clave para ayudar a impulsar la transición energética y reducir las emisiones, ahora mismo gran parte del sector está más centrada en la geopolítica.&lt;/p&gt;
-
-&lt;p&gt;Fundada en 2011, Sila fabrica ánodos a base de silicio para baterías de iones de litio. Su gran atractivo radica en el potencial para mejorar la densidad energética: según la empresa, el ánodo de Sila pesa una quinta parte que el grafito utilizado en los ánodos actuales y reduce el volumen a la mitad. Así pues, el uso de este nuevo material permite a las baterías acumular más energía con el mismo peso y volumen, lo que posibilita una mayor autonomía para los vehículos eléctricos, por ejemplo. El material también puede suministrar más potencia y recargarse más rápido, en comparación con la química convencional.&lt;/p&gt;
-
-&lt;p&gt;Llevamos años siguiendo la pista a Sila (y a sus competidores). Mi compañero James Temple &lt;a href="https://www.technologyreview.com/2021/09/08/1035143/sila-whoop-lithium-ion-battery-fitness-wearable-evs/" target="_blank" rel="noopener"&gt;cubrió&lt;/a&gt; la empresa cuando su batería apareció por primera vez en los wearables de fitness de Whoop en 2021.&lt;/p&gt;
-
-&lt;p&gt;Desde entonces, las cosas han cobrado una dimensión mucho mayor. En 2022, Sila anunció sus planes para levantar una fábrica en Moses Lake (Washington) y recibió 100 millones de dólares del Departamento de Energía de EE. UU., como parte de una ronda de subvenciones de miles de millones de dólares de la Administración Biden para apoyar la cadena de suministro de baterías estadounidense.&lt;/p&gt;
-
-&lt;p&gt;La empresa inauguró su fábrica en septiembre de 2025 y ya está operativa. Sin embargo, el acuerdo con Panasonic le ayudará a escalar su producción hasta al menos diez veces los niveles actuales, afirma Gene Berdichevsky, cofundador y director ejecutivo de la compañía.&lt;/p&gt;
-
-
-
-&lt;p&gt;Panasonic se ha comprometido a comprar decenas de miles de toneladas de material, afirma Berdichevsky, aunque Sila no comparte cifras específicas sobre el compromiso total ni sobre el precio que está pagando Panasonic.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Este acuerdo es el primero de Sila para el mercado de masas y un hito importante para el sector de las baterías de última generación en Estados Unidos, que prácticamente ha estado contra las cuerdas durante los últimos años. Dos empresas de baterías valoradas en miles de millones de dólares, &lt;a href="https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/" target="_blank" rel="noopener"&gt;24M&lt;/a&gt; y &lt;a href="https://pv-magazine-usa.com/2026/11/17/ess-tech-inc-shuts-down-ceases-operations-files-for-bankruptcy/" target="_blank" rel="noopener"&gt;ESS Tech&lt;/a&gt;, se han declarado en quiebra y han cerrado sus puertas solo en el último año.&lt;/p&gt;
-
-&lt;p&gt;El rayo de esperanza en este contexto está vinculado a algo que vengo observando en esta industria: el cambiante panorama político. Si bien antes las baterías se consideraban sin duda una tecnología climática, hemos visto a muchas empresas alejarse del discurso sobre la transición hacia las energías limpias para volcarse de lleno en la geopolítica.&lt;/p&gt;
-
-&lt;p&gt;China domina el sector de las baterías y, en particular, el mercado de los ánodos para baterías, controlando actualmente más del 90 % de la producción de grafito. Durante años, Estados Unidos ha intentado reducir su dependencia de las baterías chinas, de sus componentes y de otros materiales utilizados en tecnologías cruciales, como las tierras raras. Sin embargo, la administración Trump ha intensificado las medidas y, a principios de este año, el Departamento de Defensa de EE. UU. comprometió un préstamo de 1400 millones de dólares para Sila con el objetivo de ayudar al país a afrontar un «importante desafío para la soberanía tecnológica», según señalaba un &lt;a href="https://www.silanano.com/press/press-releases/sila-receives-conditional-1-4-billion-loan-commitment-from-u-s-department-of-war-to-accelerate-domestic-battery-technology-manufacturing" target="_blank" rel="noopener"&gt;comunicado de prensa&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;El &lt;a href="https://www.silanano.com/press/press-releases/sila-inks-long-term-offtake-deal-with-panasonic-energy-to-power-domestic-battery-production" target="_blank" rel="noopener"&gt;anuncio&lt;/a&gt; de Sila sobre el acuerdo con Panasonic sí menciona los vehículos eléctricos, pero no el clima, las emisiones ni la transición energética. Más bien, todo gira en torno a la industrialización estadounidense. (Y, por supuesto, se menciona que una cadena de suministro de baterías en Norteamérica también puede ayudar a impulsar el mercado de la IA).&lt;/p&gt;
-
-&lt;p&gt;Pregunté a Berdichevsky sobre este cambio y si la empresa considera la descarbonización una prioridad.&lt;/p&gt;
-
-&lt;p&gt;«Creo que la política en torno a esto ha cambiado a nuestro alrededor mucho más de lo que han cambiado nuestras motivaciones», afirmó. «Lo que realmente motiva a ingenieros como yo y a los tecnólogos de nuestra empresa es la eficiencia energética. Y sigo creyendo que eso sigue estando en el centro de todo».&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Este artículo es de The Spark,&lt;/em&gt; el boletín semanal sobre clima de MIT Technology Review&lt;em&gt;. Para recibirlo en tu bandeja de entrada cada miércoles,&lt;/em&gt; &lt;em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/climate-energy-the-spark/" target="_blank" rel="noopener"&gt;suscríbete aquí&lt;/a&gt;. &lt;/em&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>La inteligencia artificial satura la vida diaria entre funciones forzadas y promesas exageradas</title>
-  <link href="https://www.technologyreview.es/article/la-inteligencia-artificial-satura-la-vida-diaria-entre-funciones-forzadas-y-promesas-exageradas"/>
-  <id>https://www.technologyreview.es/article/la-inteligencia-artificial-satura-la-vida-diaria-entre-funciones-forzadas-y-promesas-exageradas</id>
-  <published>2026-11-18T09:42:44+00:00</published>
-  <updated>2026-11-18T09:42:44+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fc7019f71f5cc5d1139524c271e2bf2371d1a542b.jpg?alt=media&amp;token=df8fdd3e-9f6e-457e-aa1e-d6de38aec9aa"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fc7019f71f5cc5d1139524c271e2bf2371d1a542b.jpg?alt=media&amp;token=df8fdd3e-9f6e-457e-aa1e-d6de38aec9aa" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fc7019f71f5cc5d1139524c271e2bf2371d1a542b.jpg?alt=media&amp;token=df8fdd3e-9f6e-457e-aa1e-d6de38aec9aa"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fc7019f71f5cc5d1139524c271e2bf2371d1a542b.jpg?alt=media&amp;token=df8fdd3e-9f6e-457e-aa1e-d6de38aec9aa</webfeeds:featuredImage>
-  <summary>Desde búsquedas forzadas hasta robots domésticos, descubre cómo la inteligencia artificial invade tu rutina y aprende a sortear la saturación del nuevo hype.</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fc7019f71f5cc5d1139524c271e2bf2371d1a542b.jpg?alt=media&amp;token=df8fdd3e-9f6e-457e-aa1e-d6de38aec9aa" alt="La inteligencia artificial satura la vida diaria entre funciones forzadas y promesas exageradas" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Amit Katwala&lt;/p&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Desde búsquedas forzadas hasta robots domésticos, descubre cómo la inteligencia artificial invade tu rutina y aprende a sortear la saturación del nuevo hype.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Como un molesto sarpullido, la IA parece extenderse por todas partes. Google te mete con calzador sus AI Overviews aunque a la empresa le cueste &lt;a href="https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report"&gt;miles de millones de dólares&lt;/a&gt; en pérdidas de ingresos publicitarios. Sales de tu piso y puede que te cruces con dos personas subiendo a pulso por las escaleras un &lt;a href="https://www.technologyreview.es/article/vi-a-un-robot-humanoide-limpiar-mi-piso-parecia-un-anticipo-del-futuro"&gt;robot humanoide impulsado por IA&lt;/a&gt; para limpiar la casa de alguien. Vas al supermercado y tal vez te resbales con un charco de helado derretido que se cuaja en el suelo por culpa de un &lt;a href="https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/"&gt;ciberataque asistido por IA&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Vas al cine y ves a &lt;a href="https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review"&gt;Sam Altman&lt;/a&gt; interpretado con una intensidad nauseabunda por Andrew Garfield, y regresas a casa para encontrarte con que Elon Musk ha lanzado una &lt;a href="https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan"&gt;versión "groquificada" de &lt;em&gt;La Odisea&lt;/em&gt;&lt;/a&gt;. Intentas verla, pero parece un anuncio de móvil largo y que no te puedes saltar. En cierto modo, todo parece un poco así ahora: como un Odiseo moderno, estás condenado a surcar aguas infestadas de IA, batiéndote en duelo con dioses máquina y monstruos, tratando de encontrar el camino de regreso a algún lugar que sientas como tu hogar.&lt;/p&gt;
-
-
-
-&lt;div class="flourish-embed flourish-interactive-diagram" data-src="visualisation/30951707?1184216"&gt;</content>
 </entry>
 </feed>
