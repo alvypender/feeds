@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cómo crear un corto animado con IA paso a paso: consistencia de personajes, voces reutilizables y animación con Seedance 2.5 en OpenArt — Frame &amp; Prompt</title>
+  <meta name="description" content="La clave para un cortometraje animado con IA no está en generar clips aislados, sino en construir un sistema de referencias visuales y de voz que garantice coherencia en cada escena. Youri van Hofwegen demuestra un flujo de trabajo completo que parte de un guion escrito con Claude, pasa por la creac">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Cómo crear un corto animado con IA paso a paso: consistencia de personajes, voces reutilizables y animación con Seedance 2.5 en OpenArt">
+  <meta property="og:description" content="La clave para un cortometraje animado con IA no está en generar clips aislados, sino en construir un sistema de referencias visuales y de voz que garantice coherencia en cada escena. Youri van Hofwegen demuestra un flujo de trabajo completo que parte de un guion escrito con Claude, pasa por la creac">
+  <meta property="og:image" content="https://i.ytimg.com/vi/oSSffDH318s/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/imagen-art-oSSffDH318s.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Cómo crear un corto animado con IA paso a paso: consistencia de personajes, voces reutilizables y animación con Seedance 2.5 en OpenArt">
+  <meta name="twitter:description" content="La clave para un cortometraje animado con IA no está en generar clips aislados, sino en construir un sistema de referencias visuales y de voz que garantice coherencia en cada escena. Youri van Hofwegen demuestra un flujo de trabajo completo que parte de un guion escrito con Claude, pasa por la creac">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/oSSffDH318s/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/imagen-art-oSSffDH318s.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · ID</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt-imagen.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Cómo crear un corto animado con IA paso a paso: consistencia de personajes, voces reutilizables y animación con Seedance 2.5 en OpenArt</h1>
+        <div class="metadata">
+          <span>Por <strong>Youri van Hofwegen</strong></span>
+          <time datetime='2026-11-26T17:05:49.776957-05:00'>2026-11-26</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/oSSffDH318s" title="Cómo crear un corto animado con IA paso a paso: consistencia de personajes, voces reutilizables y animación con Seedance 2.5 en OpenArt" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=oSSffDH318s" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La clave para un cortometraje animado con IA no está en generar clips aislados, sino en construir un sistema de referencias visuales y de voz que garantice coherencia en cada escena. Youri van Hofwegen demuestra un flujo de trabajo completo que parte de un guion escrito con Claude, pasa por la creación de &#x27;character sheets&#x27; y muestras de voz, y culmina en la animación con Seedance 2.5 dentro de OpenArt y el montaje en CapCut. El resultado: un corto de 1:40 minutos con dos personajes que cambian de estilo visual y mantienen su identidad facial y sonora.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Youri van Hofwegen</strong>: <a href="https://www.youtube.com/watch?v=oSSffDH318s" target="_blank" rel="noopener">How to Start Making Cartoon Videos With AI (Beginner Friendly)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Del guion literario al plan de rodaje: escribir para un modelo de 30 segundos</h3>
+<p>Todo proyecto de animación con IA comienza con una historia que sea factible de generar. El primer paso es escribir el guion en <strong>Claude</strong>, especificando que la historia debe ser simple de animar: pocos personajes y localizaciones, y una duración concreta, por ejemplo, <strong>1 minuto 30 segundos</strong>. Esta restricción evita que el modelo de lenguaje proponga escenas imposibles de representar con las herramientas actuales.</p>
+<p>Una vez obtenida la historia, se divide en escenas que coincidan con la duración máxima del modelo de video. <strong>Seedance 2.5</strong> puede generar hasta <strong>30 segundos</strong> por generación, por lo que el corto de 1:40 se estructuró en cuatro escenas de <strong>20, 30, 30 y 20 segundos</strong>. En el guion se incluyen las líneas de diálogo exactas de cada personaje; luego se usarán textualmente en los prompts de video para que el modelo las pronuncie con la voz adecuada.</p>
+<p>El autor recomienda usar un <strong>planificador de tomas</strong> (shot planner) para desglosar cada escena en planos específicos. Para cada plano se escribe un prompt detallado indicando quién habla y sus líneas exactas. Esta planificación previa es lo que permite que el montaje final sea prácticamente automático: simplemente se colocan las escenas en orden en la línea de tiempo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Character sheets: el pasaporte visual de cada personaje</h3>
+<p>La consistencia visual es el mayor desafío al animar con IA. Para resolverlo, se crea una <strong>character sheet</strong> con tres paneles: el cuerpo sin cabeza (para mostrar la ropa), una vista trasera y un primer plano del rostro. El fondo debe ser gris plano, con luz plana y sin sombras, para que el modelo se centre en los detalles del personaje. En el prompt de generación se describen detalles únicos, como <em>“un calcetín rojo y uno azul”</em>, que servirán para verificar que el personaje se mantiene consistente en cada escena.</p>
+<p>Cuando la historia requiere un cambio de estilo visual, por ejemplo, de 3D a pixel art, el proceso es diferente. Primero se genera un escenario sin personajes que defina el nuevo estilo: un patio de castillo en pixel art. Esa imagen se adjunta como referencia de estilo en las siguientes generaciones. Luego, al generar los personajes en el nuevo estilo, se adjunta la character sheet original como imagen 1 (para rostro, cabello y piel) y la imagen del escenario como imagen 2 (para el estilo pixel art). En el prompt se especifica <em>“sin sombreado 3D”</em> para evitar mezclas no deseadas.</p>
+<p>Para objetos que cambian durante la escena, como un orbe que se ilumina, se crea una hoja de referencia con múltiples estados (apagado y encendido). Además, se genera una imagen de cada personaje sosteniendo su arma para establecer la escala correcta. Estos recursos adicionales se usarán como referencias en las escenas donde aparezcan.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Voces que no cambian: muestras de audio reutilizables</h3>
+<p>La consistencia auditiva es tan importante como la visual. Para lograrla, se genera un video de <strong>12 segundos</strong> de cada personaje hablando (talking head) con Seedance 2.5, adjuntando su character sheet. En el prompt se describe la voz: edad, tono y personalidad. El audio de esos videos se extrae y se guarda como MP3, por ejemplo, con <strong>CloudConvert</strong>, para usarlo como muestra de voz en todas las escenas.</p>
+<p>En cada escena, se adjuntan las character sheets correspondientes y los archivos de voz como referencias. Es crucial aclarar en el prompt que los archivos de voz son solo muestras y no deben reproducirse, para que el modelo genere nuevas líneas con esa misma voz. Si un personaje secundario habla solo una vez, no es necesario un archivo de voz; basta con describir su voz en el prompt, por ejemplo: <em>“voz muy grave, lenta y retumbante con acento británico”</em>.</p>
+<p>Este método garantiza que los personajes suenen igual en todas las escenas, incluso cuando cambian de estilo visual. La combinación de character sheets y muestras de voz es lo que permite que el corto final tenga coherencia narrativa y estética.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Configuración técnica en OpenArt: parámetros para imagen y video</h3>
+<p>OpenArt es la plataforma que integra las herramientas necesarias. Para las imágenes se utiliza <strong>GPT Image 2.6</strong> con resolución <strong>4K</strong>, aspecto <strong>16:9</strong>, calidad alta y modo <strong>Sunburst</strong>. Estas imágenes servirán como character sheets, escenarios y referencias de objetos.</p>
+<p>Para los videos se emplea <strong>Seedance 2.5</strong> con resolución <strong>1080p</strong>, aspecto <strong>16:9</strong> y audio activado. La duración de cada generación se ajusta a la escena correspondiente (20 o 30 segundos). Es importante mantener la cámara en el mismo lado de la habitación en todas las tomas para evitar que los personajes cambien de lado, un error común que rompe la continuidad espacial.</p>
+<p>Las transiciones entre escenas se planifican desde el guion: se termina una escena con un fotograma que coincida con el inicio de la siguiente, por ejemplo, un fundido a blanco. Así, el montaje en <strong>CapCut</strong> se reduce a colocar las escenas en orden y exportar, sin necesidad de edición adicional si las escenas están bien planificadas.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Precios, ofertas y paquete VIP: lo que cuesta el flujo completo</h3>
+<p>OpenArt tiene un precio estándar, pero el autor ofrece un descuento del <strong>10%</strong> usando el código <em>“yuri10”</em> en el checkout. Además, durante el Black Friday (del 16 al 30 de noviembre) hay hasta un <strong>40% de descuento</strong> en el plan anual y hasta un <strong>50%</strong> en modelos selectos. El paquete VIP, que incluye script writer, character maker, shot planner y style matcher, es gratis al registrarse a través del enlace del creador.</p>
+<p>Estos recursos adicionales facilitan el proceso: el script writer ayuda a generar el guion, el character maker asiste en la creación de las hojas de personaje, el shot planner organiza los planos y el style matcher asegura la coherencia estética. Son herramientas de apoyo que se integran en la plataforma y que el autor recomienda aprovechar.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Lecciones de un corto real: 17 tips para evitar el caos</h3>
+<p>El video condensa la experiencia en 17 consejos prácticos. Entre los más relevantes: escribe la historia primero en Claude con restricciones de duración y simplicidad; divide en escenas que coincidan con la duración máxima del modelo; incluye los diálogos exactos en el guion; crea character sheets detalladas con fondo gris y sin sombras; describe detalles únicos para verificar consistencia; para cambiar de estilo, genera primero un escenario de referencia y luego adjúntalo como imagen 2; especifica “sin sombreado 3D” para evitar mezclas; crea hojas de referencia para objetos que cambian de estado; genera una imagen de cada personaje con su arma para establecer escala; para voces, genera videos de 12 segundos y extrae el audio; adjunta las muestras de voz en cada escena y aclara que son solo referencias; mantén la cámara en el mismo lado; planifica transiciones con fotogramas coincidentes; para personajes secundarios con una sola línea, describe la voz en el prompt; usa un planificador de tomas para dividir en planos; y finalmente, monta en CapCut sin edición adicional si las escenas están bien planificadas.</p>
+<p>El resultado final fue un corto de <strong>1 minuto 40 segundos</strong> con dos personajes que transitan de un estilo 3D a pixel art manteniendo su identidad facial y de voz. La conclusión es que la clave no está en la generación aislada, sino en la construcción de un sistema de referencias que el modelo pueda seguir. Con este flujo, el autor demuestra que es posible crear una serie animada con IA de forma consistente y relativamente sencilla.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Duración máxima de generación de Seedance 2.5: 30 segundos por clip.</li>
+<li>Para muestras de voz: generar video de 12 segundos por personaje y extraer audio a MP3.</li>
+<li>En prompts de escena, aclarar que los archivos de voz son solo muestras y no deben reproducirse.</li>
+<li>Para cambiar de estilo visual: generar primero un escenario de referencia y adjuntarlo como imagen 2 en las siguientes generaciones.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://openartvip.com/" target="_blank" rel="noopener"><strong>OpenArt</strong></a> — Plataforma todo en uno para generación de imágenes y videos con IA; incluye modelos y herramientas de consistencia.</li>
+<li><strong>Claude</strong> — Modelo de lenguaje para escribir el guion y dividir la historia en escenas.</li>
+<li><strong>Seedance 2.5</strong> — Modelo de generación de video con audio integrado, usado para animar escenas y crear muestras de voz.</li>
+<li><strong>GPT Image 2.6</strong> — Modelo de generación de imágenes para character sheets y escenarios.</li>
+<li><strong>CapCut</strong> — Editor de video para unir las escenas y exportar el cortometraje final.</li>
+<li><strong>CloudConvert</strong> — Convertidor de archivos online para extraer audio MP3 de los videos de muestra de voz.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/imagen-art-oSSffDH318s.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
