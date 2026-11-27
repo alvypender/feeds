@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Motion State 1.3 revoluciona la edición en Premiere con previsualización interactiva, blur animado y efecto wiggle — Frame &amp; Prompt</title>
+  <meta name="description" content="La actualización 1.3 de Motion State, el plugin de Jake In Motion para Adobe Premiere, introduce un lienzo de previsualización interactivo que permite ajustar transformaciones, desenfoques y vibraciones en tiempo real sin salir del panel. Con nuevos parámetros de blur, un efecto wiggle acelerado por">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Motion State 1.3 revoluciona la edición en Premiere con previsualización interactiva, blur animado y efecto wiggle">
+  <meta property="og:description" content="La actualización 1.3 de Motion State, el plugin de Jake In Motion para Adobe Premiere, introduce un lienzo de previsualización interactivo que permite ajustar transformaciones, desenfoques y vibraciones en tiempo real sin salir del panel. Con nuevos parámetros de blur, un efecto wiggle acelerado por">
+  <meta property="og:image" content="https://i.ytimg.com/vi/2HsEj-psb1Q/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-2HsEj-psb1Q.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Motion State 1.3 revoluciona la edición en Premiere con previsualización interactiva, blur animado y efecto wiggle">
+  <meta name="twitter:description" content="La actualización 1.3 de Motion State, el plugin de Jake In Motion para Adobe Premiere, introduce un lienzo de previsualización interactivo que permite ajustar transformaciones, desenfoques y vibraciones en tiempo real sin salir del panel. Con nuevos parámetros de blur, un efecto wiggle acelerado por">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/2HsEj-psb1Q/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-2HsEj-psb1Q.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">Motion State 1.3 revoluciona la edición en Premiere con previsualización interactiva, blur animado y efecto wiggle</h1>
+        <div class="metadata">
+          <span>Por <strong>Jake In Motion</strong></span>
+          <time datetime='2026-11-27T17:04:40.230376-05:00'>2026-11-27</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/2HsEj-psb1Q" title="Motion State 1.3 revoluciona la edición en Premiere con previsualización interactiva, blur animado y efecto wiggle" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=2HsEj-psb1Q" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La actualización 1.3 de Motion State, el plugin de Jake In Motion para Adobe Premiere, introduce un lienzo de previsualización interactivo que permite ajustar transformaciones, desenfoques y vibraciones en tiempo real sin salir del panel. Con nuevos parámetros de blur, un efecto wiggle acelerado por GPU y herramientas para encuadrar videos verticales en marcos horizontales, la versión agiliza flujos de trabajo complejos y mejora el control creativo. Además, incluye correcciones de errores y un descuento del 20% en todos los productos del autor durante noviembre.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Jake In Motion</strong>: <a href="https://www.youtube.com/watch?v=2HsEj-psb1Q" target="_blank" rel="noopener">Motion State gets a MAJOR upgrade - v1.3 Feature Update</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Un lienzo interactivo que cambia las reglas del juego</h3>
+<p>La estrella de Motion State 1.3 es su nuevo <strong>lienzo de previsualización interactivo</strong>, que renderiza en tiempo real el clip seleccionado junto con el fondo directamente en el panel del plugin. Esto elimina la necesidad de saltar constantemente al monitor de programa para ver los ajustes: cada cambio en escala, posición, rotación o recorte se refleja al instante tanto en el panel como en la salida final. El panel se adapta automáticamente: si el ancho supera un umbral mínimo, muestra una vista de dos columnas con la previsualización a un lado y los parámetros al otro; en pantallas más pequeñas, un botón <em>Pop out</em> permite abrir una ventana flotante dedicada solo a la previsualización, ideal para espacios reducidos.</p>
+<p>La interacción con el lienzo es rica en atajos. Manteniendo <strong>Ctrl</strong> y usando la rueda del mouse se hace zoom; con <strong>Alt</strong> y arrastre se transforma el clip; <strong>Ctrl</strong> cambia al modo recorte; y <strong>Ctrl</strong> también ajusta la suavidad de las esquinas redondeadas. Cuando el panel tiene el foco, las teclas <strong>A</strong> y <strong>B</strong> alternan entre los estados de animación, <strong>F</strong> ajusta el encuadre al marco, y las flechas con <strong>Shift</strong> mueven en incrementos precisos. Estos controles convierten al panel en un espacio de trabajo casi autónomo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Desenfoque animado y efecto wiggle con aceleración GPU</h3>
+<p>Motion State 1.3 amplía las capacidades de animación con nuevos parámetros de <strong>blur</strong> y un efecto <strong>wiggle</strong> que se ejecuta rápidamente en la GPU. Para el desenfoque, se ajusta el parámetro de blur en los estados A y B, y si aparecen bordes transparentes, se activa la opción <em>Repeat edge pixels</em> para repetir los píxeles del borde y evitar artefactos. El wiggle permite seleccionar qué propiedades animar (posición, escala, rotación, opacidad y blur) y ajustar la cantidad para cada estado; la frecuencia, el detalle y la semilla aleatoria se aplican a ambos estados por igual. Además, se puede activar el <em>motion blur</em> en la transición para suavizar el movimiento resultante.</p>
+<p>El flujo de trabajo para el wiggle es intuitivo: se elige la propiedad, se define la intensidad en cada estado y se previsualiza en el panel mientras el monitor de programa muestra el resultado final. La aceleración por GPU garantiza una respuesta fluida incluso con múltiples propiedades animadas simultáneamente, lo que agiliza la experimentación y el ajuste fino.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Recorte con feathering selectivo y encuadre vertical en horizontal</h3>
+<p>Otra novedad es el parámetro <strong>Edge Feather</strong>, que permite difuminar solo los bordes recortados de un clip. Si se marca la opción <em>Feather uncropped edges</em>, también se difuminan los bordes no recortados, ofreciendo un control granular sobre el acabado. Esto resulta especialmente útil al integrar clips con recortes irregulares en fondos complejos.</p>
+<p>Para encuadrar videos verticales en un marco horizontal, Motion State 1.3 simplifica el proceso. Se aplica el plugin, se usa el botón <em>Fit to frame</em> en el estado B, se ajusta la escala con <strong>Alt</strong>, se redondean las esquinas con <strong>Ctrl</strong> y luego se copian y pegan las propiedades a otros clips. La pestaña <em>Tools</em> permite seleccionar varios clips y usar <em>Paste all</em> para aplicar todas las transformaciones de una vez. Para alinear varios clips, se ofrecen opciones de alineación (izquierda, centro, derecha) y se puede refinar con las flechas y <strong>Shift</strong> para un espaciado uniforme. Finalmente, para retrasar una transición, se ajusta el parámetro <em>Delay</em> en la sección Transition (por ejemplo, 0.5 segundos).</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Rendimiento, correcciones y oferta de lanzamiento</h3>
+<p>La versión 1.3 incluye correcciones de errores y mejoras de rendimiento que optimizan la estabilidad del plugin. El efecto wiggle, gracias a su ejecución en GPU, se mantiene ágil incluso en proyectos exigentes. Para asegurar que los nuevos parámetros se carguen correctamente tras la instalación, se recomienda mantener presionada la tecla <strong>Shift</strong> al iniciar Premiere, lo que reinicia la caché de carga del plugin.</p>
+<p>Coincidiendo con el lanzamiento, Jake In Motion ofrece un <strong>20% de descuento</strong> en todos sus productos durante noviembre, incluidos cursos, bundles, herramientas de pago como <em>Design Mode</em> y la suscripción <em>Motion Lab</em>. El descuento se aplica en &lt;a href=&quot;https://jakeinmotion.com&quot;&gt;jakeinmotion.com&lt;/a&gt;. Los interesados pueden adquirir Motion State a través del enlace proporcionado en la descripción del video.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Atajo para reiniciar caché del plugin: mantén Shift al iniciar Premiere tras instalar la actualización.</li>
+<li>En el lienzo: Ctrl+rueda = zoom; Alt+arrastrar = transformar; Ctrl = modo recorte; Ctrl = ajustar suavidad de esquinas.</li>
+<li>Teclas con panel enfocado: A/B alternan estados, F ajusta al marco, flechas con Shift mueven en incrementos.</li>
+<li>Para blur sin bordes transparentes: activa &#x27;Repeat edge pixels&#x27;.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><a href="https://jkinmo.com/b929mq" target="_blank" rel="noopener"><strong>Motion State</strong></a> — Plugin para Adobe Premiere que permite animar transformaciones, desenfoques, vibraciones y recortes de clips de forma interactiva y con previsualización en tiempo real.</li>
+<li><strong>Design Mode</strong> — Herramienta de edición vectorial para After Effects, mencionada como parte de los productos del autor.</li>
+<li><a href="https://jakeinmotion.com" target="_blank" rel="noopener"><strong>Jake In Motion (sitio oficial)</strong></a> — Página oficial con cursos, bundles y herramientas del autor; descuento del 20% en noviembre.</li>
+<li><a href="https://discord.com/invite/b5PkuCCCAu" target="_blank" rel="noopener"><strong>Discord de Jake In Motion</strong></a> — Comunidad para soporte y discusión sobre los productos.</li>
+<li><a href="https://x.com/jakeinmotion" target="_blank" rel="noopener"><strong>Twitter/X de Jake In Motion</strong></a> — Cuenta para novedades y actualizaciones.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-2HsEj-psb1Q.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

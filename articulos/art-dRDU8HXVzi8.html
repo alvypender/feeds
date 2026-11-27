@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>El workflow definitivo para animación 2D con IA: cómo lograr consistencia de personajes y escenas con Seedance 2.0 — Frame &amp; Prompt</title>
+  <meta name="description" content="La diferencia entre una animación IA amateur y una profesional no está en la herramienta, sino en el flujo de trabajo. Albert Bozesan, de Curious Refuge, demuestra con su sitcom &#x27;Tarmac&#x27; que construir una biblioteca de assets reutilizables, componer keyframes manualmente en Photoshop y usar Seedance">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="El workflow definitivo para animación 2D con IA: cómo lograr consistencia de personajes y escenas con Seedance 2.0">
+  <meta property="og:description" content="La diferencia entre una animación IA amateur y una profesional no está en la herramienta, sino en el flujo de trabajo. Albert Bozesan, de Curious Refuge, demuestra con su sitcom &#x27;Tarmac&#x27; que construir una biblioteca de assets reutilizables, componer keyframes manualmente en Photoshop y usar Seedance">
+  <meta property="og:image" content="https://i.ytimg.com/vi/dRDU8HXVzi8/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-dRDU8HXVzi8.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="El workflow definitivo para animación 2D con IA: cómo lograr consistencia de personajes y escenas con Seedance 2.0">
+  <meta name="twitter:description" content="La diferencia entre una animación IA amateur y una profesional no está en la herramienta, sino en el flujo de trabajo. Albert Bozesan, de Curious Refuge, demuestra con su sitcom &#x27;Tarmac&#x27; que construir una biblioteca de assets reutilizables, componer keyframes manualmente en Photoshop y usar Seedance">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/dRDU8HXVzi8/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-dRDU8HXVzi8.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">El workflow definitivo para animación 2D con IA: cómo lograr consistencia de personajes y escenas con Seedance 2.0</h1>
+        <div class="metadata">
+          <span>Por <strong>Curious Refuge</strong></span>
+          <time datetime='2026-11-27T17:05:00.230376-05:00'>2026-11-27</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/dRDU8HXVzi8" title="El workflow definitivo para animación 2D con IA: cómo lograr consistencia de personajes y escenas con Seedance 2.0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=dRDU8HXVzi8" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">La diferencia entre una animación IA amateur y una profesional no está en la herramienta, sino en el flujo de trabajo. Albert Bozesan, de Curious Refuge, demuestra con su sitcom &#x27;Tarmac&#x27; que construir una biblioteca de assets reutilizables, componer keyframes manualmente en Photoshop y usar Seedance 2.0 con referencias de imagen y audio permite obtener escenas de diálogo con cortes precisos, expresiones controladas y un ahorro notable de créditos y tiempo.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Curious Refuge</strong>: <a href="https://www.youtube.com/watch?v=dRDU8HXVzi8" target="_blank" rel="noopener">How to Make Pro-Level AI Animation (Complete Guide)</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">La filosofía del asset reutilizable: menos generación, más biblioteca</h3>
+<p>El primer mandamiento del flujo de trabajo de Albert Bozesan es no generar cada plano desde cero. En lugar de eso, construye una <strong>biblioteca de assets reutilizables</strong> que incluye personajes, expresiones, props y fondos en capas. Esta práctica no solo garantiza la consistencia visual entre escenas, sino que reduce drásticamente el consumo de créditos y el tiempo de producción. Cada vez que necesita un nuevo ángulo o una nueva emoción, recurre a su biblioteca antes que a una nueva generación.</p>
+<p>Para los personajes, Bozesan recomienda crear <strong>character turnaround sheets</strong> con múltiples ángulos (frontal, lateral, trasero) y <strong>expression sheets</strong> con varias expresiones faciales. Estas hojas de referencia se generan con GPT 2.6 dentro de Magnific, que permite crear cada ángulo por separado y luego unirlos en alta resolución. Un truco crucial: editar las pupilas de las imágenes de referencia para que miren ligeramente fuera de cámara; de lo contrario, el modelo generará personajes que miran constantemente al espectador, rompiendo la naturalidad de la escena.</p>
+<p>Los fondos también se construyen por capas y con un estilo neutro (gris) para no distraer al modelo. Se evita incluir texto innecesario en los assets, ya que la IA podría intentar reproducirlo o interpretarlo. Esta modularidad permite reutilizar un mismo fondo en múltiples escenas con ligeras variaciones, manteniendo la coherencia visual de la serie.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Composición manual del keyframe: el control que la IA no te da</h3>
+<p>Una vez que los assets están listos, el siguiente paso es componer el keyframe inicial de cada escena en <strong>Photoshop</strong> (o alternativas gratuitas como Photopea o Affinity). Bozesan insiste en hacerlo manualmente, con capas separadas para fondo, personajes y props. Esto permite un control total sobre la composición, la iluminación y la profundidad antes de que la IA intervenga.</p>
+<p>Un aspecto técnico clave es la aplicación de <strong>desenfoque gaussiano selectivo</strong> para simular profundidad de campo. Se aplica sobre objetos inteligentes para poder ajustar el radio de desenfoque fácilmente. Este detalle, que parece menor, ayuda al modelo a entender qué elementos están en primer plano y cuáles al fondo, mejorando la coherencia espacial de la animación resultante.</p>
+<p>Bozesan advierte: no añadas efectos de video como viñetas, grano de película o aberración cromática en la imagen de entrada. Los modelos de IA no manejan bien estos efectos y tienden a modificarlos de forma impredecible. Es mejor dejarlos para la postproducción, donde se pueden controlar con precisión. La imagen de entrada debe ser lo más limpia posible, con la información justa para que el modelo entienda la escena.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">El prompt maestro: estilo, cámara estática y referencias explícitas</h3>
+<p>En Magnific, con Seedance 2.0, el prompt se convierte en el guion técnico de la animación. Bozesan comienza con un <strong>prefix</strong> que define el estilo: <em>“high-end 2D animated series, 2D character animation on twos, rough switches between character poses, vector character animation, fully detailed 3D background, static camera, no music, no dust in the air”</em>. Esta fórmula establece que la animación de personajes se hará &#x27;on twos&#x27; (cada dos fotogramas) para ahorrar costos, mientras que el fondo 3D se moverá a &#x27;ones&#x27; (cada fotograma) para lograr suavidad. La cámara estática es esencial para escenas de diálogo, ya que el modelo tiende a sobreusar movimientos no motivados.</p>
+<p>El prompt debe especificar claramente el rol de cada referencia: <em>“image 1 is precise expression reference of [personaje]”</em>, <em>“image 2 is precise reference of [prop]”</em>, etc. Bozesan aconseja no sobrecargar con referencias innecesarias; para primeros planos, las expresiones son más importantes que los turnarounds completos. Si se usa audio grabado, se incluye: <em>“Audio 1 is the voice of [personaje]. Stick to it precisely using the exact timing and dialogue.”</em> Si no, se puede proporcionar un audio de ejemplo con diferentes emociones para que el modelo imite la voz.</p>
+<p>Para lograr cortes precisos, el prompt utiliza frases como <em>“at frame zero cut to [referencia]”</em> y <em>“at frame 192 cut to [otra referencia]”</em>. Esta técnica permite segmentar la escena en varios planos sin necesidad de generar clips separados, optimizando el uso de créditos. Además, se puede pedir que los personajes hablen fuera de cámara para mostrar reacciones de otros personajes, un recurso fácil de promptear que añade realismo.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Audio, duración y ajustes finos: la receta para 12 segundos perfectos</h3>
+<p>La duración del video se ajusta a la longitud del audio, que en el ejemplo de &#x27;Tarmac&#x27; es de 12 segundos. Se utiliza una resolución de <strong>720p</strong> para ahorrar créditos, suficiente para una serie animada 2D. En Magnific, se activa la opción &#x27;sound&#x27; y se desactiva &#x27;music&#x27; para evitar que Seedance añada música no deseada. El audio de referencia debe ser limpio, sin reverb, música ni efectos de sonido, para que el modelo lo use como guía de timing y expresión.</p>
+<p>Bozesan recomienda grabar los diálogos con actores o generarlos con <strong>ElevenLabs</strong> si no se dispone de voces humanas. La claridad del audio es fundamental para que el modelo sincronice los labios y las expresiones con precisión. Un detalle técnico: si se utiliza una referencia de video para la animación, se necesita Seedance 2.5 en lugar de 2.0, aunque para la mayoría de escenas de diálogo con imágenes y audio, la versión 2.0 es suficiente.</p>
+<p>El resultado final es una escena animada con cortes precisos, expresiones controladas y una calidad que Bozesan compara con la animación tradicional. La clave está en la preparación previa: assets consistentes, keyframes compuestos manualmente y un prompt que defina con exactitud el estilo y las referencias. No se trata de dejar que la IA improvise, sino de guiarla con información precisa.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas complementarias y el ecosistema Curious Refuge</h3>
+<p>Aunque el núcleo del flujo es Photoshop + Magnific + Seedance, Bozesan menciona otras herramientas que pueden integrarse. <strong>Blender</strong> se utiliza para crear entornos 3D como viewport renders, que luego sirven como base para que la IA tenga formas y perspectivas correctas. <strong>Claude</strong> puede asistir en el blockout de entornos en Blender, según se menciona en otro tutorial de Curious Refuge. <strong>ElevenLabs</strong> es la opción para generar voces si no se graban con actores.</p>
+<p>Curious Refuge ofrece recursos adicionales como el curso de animación IA (&lt;a href=&#x27;https://curiousrefuge.com/ai-animation&#x27;&gt;curiousrefuge.com/ai-animation&lt;/a&gt;), la membresía (&lt;a href=&#x27;https://curiousrefuge.com/curious-refuge-membership&#x27;&gt;curiousrefuge.com/curious-refuge-membership&lt;/a&gt;) y una guía de inicio (&lt;a href=&#x27;https://curiousrefuge.com/start-here&#x27;&gt;curiousrefuge.com/start-here&lt;/a&gt;). Estos enlaces proporcionan acceso a tutoriales, plantillas y una comunidad para seguir profundizando en el flujo de trabajo.</p>
+<p>El mensaje final de Bozesan es claro: la herramienta no hace al artista, sino el proceso. Un workflow bien diseñado, con assets reutilizables y control manual en cada etapa, permite obtener resultados profesionales con IA, evitando los errores típicos de personajes incoherentes y física extraña. La consistencia se construye antes de generar el video, en la preparación de los materiales.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Prefijo de prompt para Seedance 2.0: &#x27;high-end 2D animated series, 2D character animation on twos, rough switches between character poses, vector character animation, fully detailed 3D background, static camera, no music, no dust in the air&#x27;.</li>
+<li>Para cortes precisos: &#x27;at frame zero cut to [referencia]&#x27; y &#x27;at frame 192 cut to [otra referencia]&#x27;.</li>
+<li>Editar pupilas de las referencias para que miren ligeramente fuera de cámara y evitar que el personaje mire al espectador.</li>
+<li>No añadir grano de película ni efectos de video en la imagen de entrada; dejarlos para postproducción.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Seedance 2.0</strong> — Modelo de generación de video a partir de imágenes y audio, usado para animar escenas con control de expresiones, diálogos y cortes.</li>
+<li><strong>Seedance 2.5</strong> — Versión necesaria si se utiliza una referencia de video para la animación.</li>
+<li><strong>Magnific</strong> — Plataforma que integra generación de imágenes (GPT 2.6) y video (Seedance) para crear assets y animar escenas.</li>
+<li><strong>GPT 2.6 (en Magnific)</strong> — Generación de imágenes de alta calidad con soporte para fondos transparentes y fidelidad a referencias, usado para crear poses y turnarounds.</li>
+<li><strong>Photoshop</strong> — Composición de keyframes por capas, aplicación de desenfoque gaussiano y ajustes manuales.</li>
+<li><strong>Photopea / Affinity</strong> — Alternativas gratuitas a Photoshop para edición de imágenes.</li>
+<li><strong>Blender</strong> — Creación de entornos 3D como viewport renders para que la IA tenga formas base.</li>
+<li><strong>Claude</strong> — Asistente de IA para blockout de entornos en Blender (mencionado en otro tutorial).</li>
+<li><strong>ElevenLabs</strong> — Generación de voces para diálogos si no se graban con actores.</li>
+<li><a href="https://curiousrefuge.com/ai-animation" target="_blank" rel="noopener"><strong>Curious Refuge - Curso de animación IA</strong></a> — Recursos y tutoriales sobre animación con IA.</li>
+<li><a href="https://curiousrefuge.com/curious-refuge-membership" target="_blank" rel="noopener"><strong>Curious Refuge - Membresía</strong></a> — Acceso a comunidad y contenido exclusivo.</li>
+<li><a href="https://curiousrefuge.com/start-here" target="_blank" rel="noopener"><strong>Curious Refuge - Start Here</strong></a> — Guía de inicio para nuevos usuarios.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-dRDU8HXVzi8.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>

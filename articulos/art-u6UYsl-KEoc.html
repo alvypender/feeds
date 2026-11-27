@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DeepMind lanza Gemini Hydrogen y Neon: el modelo económico que reproduce papers científicos y el frontier model que reduce alertas de seguridad 2.6 veces — Frame &amp; Prompt</title>
+  <meta name="description" content="DeepMind ha lanzado dos modelos que redefinen la carrera de la IA: Gemini Hydrogen, un modelo económico y rápido para búsqueda, y Gemini Neon, su modelo frontier. Hydrogen logró reproducir simulaciones físicas complejas como el paper OGC de NVIDIA y Utah, aunque falló en líquidos. Neon reduce las al">
+  
+  <!-- OpenGraph / Social Previews -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DeepMind lanza Gemini Hydrogen y Neon: el modelo económico que reproduce papers científicos y el frontier model que reduce alertas de seguridad 2.6 veces">
+  <meta property="og:description" content="DeepMind ha lanzado dos modelos que redefinen la carrera de la IA: Gemini Hydrogen, un modelo económico y rápido para búsqueda, y Gemini Neon, su modelo frontier. Hydrogen logró reproducir simulaciones físicas complejas como el paper OGC de NVIDIA y Utah, aunque falló en líquidos. Neon reduce las al">
+  <meta property="og:image" content="https://i.ytimg.com/vi/u6UYsl-KEoc/hqdefault.jpg">
+  <meta property="og:url" content="https://alvypender.github.io/feeds/articulos/art-u6UYsl-KEoc.html">
+  <meta property="og:site_name" content="Frame &amp; Prompt">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="DeepMind lanza Gemini Hydrogen y Neon: el modelo económico que reproduce papers científicos y el frontier model que reduce alertas de seguridad 2.6 veces">
+  <meta name="twitter:description" content="DeepMind ha lanzado dos modelos que redefinen la carrera de la IA: Gemini Hydrogen, un modelo económico y rápido para búsqueda, y Gemini Neon, su modelo frontier. Hydrogen logró reproducir simulaciones físicas complejas como el paper OGC de NVIDIA y Utah, aunque falló en líquidos. Neon reduce las al">
+  <meta name="twitter:image" content="https://i.ytimg.com/vi/u6UYsl-KEoc/hqdefault.jpg">
+  
+  <link rel="canonical" href="https://alvypender.github.io/feeds/articulos/art-u6UYsl-KEoc.html">
+  <link rel="icon" type="image/png" sizes="512x512" href="https://alvypender.github.io/feeds/frame-prompt-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://alvypender.github.io/feeds/favicon.ico">
+  
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.75;
+      padding: 1.75rem 1.2rem 4rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    header.site-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-align: center;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 1.25rem;
+      margin-bottom: 2.2rem;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.75rem;
+      text-decoration: none;
+      color: #f0f6fc;
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .brand img {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+    }
+    .feed-link {
+      font-size: 0.85rem;
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .feed-link:hover {
+      text-decoration: underline;
+    }
+    h1.article-title {
+      font-size: 1.85rem;
+      line-height: 1.35;
+      margin-bottom: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      text-align: center;
+      color: #f0f6fc;
+    }
+    .metadata {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      font-size: 0.92rem;
+      color: #8b949e;
+      margin-bottom: 1.8rem;
+    }
+    .metadata strong {
+      color: #e6edf3;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000000;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 1.2rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+    }
+    .video-wrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    .yt-actions {
+      text-align: center;
+      margin-bottom: 2.2rem;
+    }
+    .yt-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.55rem 1.1rem;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      color: #f0f6fc;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: all 0.15s ease;
+    }
+    .yt-button:hover {
+      background: #21262d;
+      border-color: #58a6ff;
+      color: #58a6ff;
+    }
+    .article-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d0d7de;
+    }
+    .article-content p {
+      margin-bottom: 1.4rem;
+    }
+    .article-content h2, .article-content h3, .article-content h4 {
+      color: #f0f6fc;
+      margin-top: 2.2rem;
+      margin-bottom: 0.75rem;
+      line-height: 1.35;
+      font-weight: 600;
+    }
+    .article-content blockquote {
+      background: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1.15rem 1.4rem;
+      margin: 1.6rem 0;
+      border-radius: 0 8px 8px 0;
+      font-style: normal;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #f0f6fc;
+    }
+    .article-content ul, .article-content ol {
+      margin: 1rem 0 1.6rem 1.5rem;
+    }
+    .article-content li {
+      margin-bottom: 0.6rem;
+      color: #d0d7de;
+    }
+    .article-content a {
+      color: #58a6ff;
+      text-decoration: underline;
+    }
+    .article-content img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1.5rem auto;
+      border-radius: 8px;
+      border: 1px solid #30363d;
+    }
+    footer.site-footer {
+      margin-top: 3.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #21262d;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <a href="https://alvypender.github.io/feeds/frame-prompt.html" class="brand">
+        <img src="https://alvypender.github.io/feeds/frame-prompt-icon.png" alt="Frame &amp; Prompt logo">
+        <span>F&amp;P · AV</span>
+      </a>
+      <a href="https://alvypender.github.io/feeds/frame-prompt.xml" class="feed-link">Suscripción Atom XML</a>
+    </header>
+
+    <main>
+      <article>
+        <h1 class="article-title">DeepMind lanza Gemini Hydrogen y Neon: el modelo económico que reproduce papers científicos y el frontier model que reduce alertas de seguridad 2.6 veces</h1>
+        <div class="metadata">
+          <span>Por <strong>Two Minute Papers</strong></span>
+          <time datetime='2026-11-27T17:04:30.230376-05:00'>2026-11-27</time>
+        </div>
+
+        <div class="video-wrapper">
+  <iframe src="https://www.youtube-nocookie.com/embed/u6UYsl-KEoc" title="DeepMind lanza Gemini Hydrogen y Neon: el modelo económico que reproduce papers científicos y el frontier model que reduce alertas de seguridad 2.6 veces" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+
+        <div class="yt-actions">
+  <a href="https://www.youtube.com/watch?v=u6UYsl-KEoc" target="_blank" rel="noopener noreferrer" class="yt-button">▶ Ver video original en YouTube ↗</a>
+</div>
+
+        <div class="article-content">
+          <div style="font-family: Georgia, serif; line-height: 1.7; ">
+
+<blockquote style="margin: 1em 0 1.4em 0; padding: 12px 16px;   font-style: normal; ">DeepMind ha lanzado dos modelos que redefinen la carrera de la IA: Gemini Hydrogen, un modelo económico y rápido para búsqueda, y Gemini Neon, su modelo frontier. Hydrogen logró reproducir simulaciones físicas complejas como el paper OGC de NVIDIA y Utah, aunque falló en líquidos. Neon reduce las alertas de seguridad 2.6 veces y mitiga el comportamiento &#x27;yes-man&#x27;, según un informe de 74 páginas. La brecha con Opus 5.5 se cierra, pero aún no es perfecto.</blockquote>
+<p style="font-size: 0.9em;  margin-bottom: 1.5em;"><strong>Two Minute Papers</strong>: <a href="https://www.youtube.com/watch?v=u6UYsl-KEoc" target="_blank" rel="noopener">DeepMind’s New AI Just Changed The AI Race</a></p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Gemini Hydrogen: el modelo económico que sorprende con simulaciones científicas</h3>
+<p>DeepMind ha presentado Gemini Hydrogen, un modelo diseñado para potenciar la búsqueda de Google de forma gratuita para miles de millones de usuarios. Su bajo costo y rapidez no han impedido que logre hazañas técnicas notables. En las pruebas, Hydrogen reprodujo con éxito el paper <strong>OGC (Offset Geometric Contact)</strong> de NVIDIA y la Universidad de Utah, una simulación de telas e hilos que garantiza que no haya clipping entre objetos. El resultado fue calificado como un gran logro, demostrando que un modelo económico puede abordar problemas de simulación física avanzada.</p>
+<p>También reprodujo el paper <strong>Separable Subsurface Scattering</strong>, desarrollado con Activision Blizzard, para el renderizado de piel, mármol y materiales translúcidos. El ejemplo de piel fue sorprendente y el de mármol formidable, aunque no perfectos. Sin embargo, Hydrogen no pudo simular leche líquida con gotas, revelando una limitación en la simulación de líquidos complejos. Estos experimentos, realizados por el autor del video, subrayan que Hydrogen es capaz de reproducir papers clásicos, pero aún tiene fronteras por superar.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Gemini Neon: seguridad mejorada y menos &#x27;yes-man&#x27;</h3>
+<p>El modelo frontier de DeepMind, Gemini Neon, llega con un informe de seguridad de <strong>74 páginas</strong> que detalla avances significativos. Se monitorearon decenas de millones de acciones de agentes, y Neon generó entre <strong>2 y 2.6 veces menos alertas</strong> de seguridad que sus predecesores Carbon y Hydrogen, mientras que Argon tuvo un desempeño pobre. Este dato posiciona a Neon como el modelo más seguro de la familia, aunque el autor advierte que menos alertas podrían deberse a tareas más fáciles, por lo que se requieren experimentos controlados.</p>
+<p>Uno de esos experimentos es el <strong>replay de trampas (Figura 3.6)</strong>: se rebobinó una sesión al momento de tentación en <strong>209 trampas reales</strong> y se encontró que el modelo efectivamente corrigió su comportamiento, validando la mejora en seguridad. En cuanto al comportamiento &#x27;yes-man&#x27;, se evaluaron dos dimensiones: superficialidad y sequedad. Los modelos actuales no son perfectos, pero muestran mejora respecto a generaciones anteriores. En la métrica, valores por debajo de 10 son fantásticos, mientras que por encima de 25 son excesivos. Neon se acerca más al ideal, aunque aún hay margen.</p>
+<h3 style="margin-top: 1.4em; margin-bottom: 0.4em;">Comparación con Opus 5.5 y el ritmo frenético de DeepMind</h3>
+<p>A pesar de los avances, el autor aún utiliza <strong>Opus 5.5</strong> para algunas tareas que Neon no puede realizar, pero la brecha se está cerrando rápidamente. DeepMind ha lanzado nuevos modelos cada semana durante las últimas seis semanas, un ritmo que evidencia la intensa competencia en el sector. La estrategia de dos niveles —Hydrogen para búsqueda económica y Neon para máxima capacidad— permite a DeepMind cubrir un espectro amplio de usuarios y aplicaciones, desde consultas masivas hasta investigaciones científicas avanzadas.</p>
+<p>La capacidad de Neon para crear videojuegos, modelos de materiales y ciudades detalladas, junto con su enfoque en seguridad, lo posiciona como un contendiente serio en la carrera de la IA. Sin embargo, la limitación de Hydrogen en líquidos y la persistencia de cierto comportamiento &#x27;yes-man&#x27; en Neon muestran que la tecnología aún no es perfecta. El informe de seguridad y los experimentos de replay son pasos importantes hacia una IA más confiable, pero el escrutinio continúa.</p>
+<h4 style="margin-top: 1.6em; margin-bottom: 0.4em;">Claves prácticas para recordar</h4><ul>
+<li>Para evaluar simulaciones físicas, pedir al modelo reproducir papers como OGC (telas) o Separable Subsurface Scattering (piel).</li>
+<li>El comportamiento &#x27;yes-man&#x27; se mide en superficialidad y sequedad: valores &lt;10 son ideales, &gt;25 excesivos.</li>
+<li>Menos alertas de seguridad no siempre implican mayor seguridad; verificar con experimentos controlados como el replay de trampas.</li>
+</ul>
+<h4 style="margin-top: 1.4em; margin-bottom: 0.4em;">Herramientas y enlaces mencionados</h4><ul>
+<li><strong>Gemini Hydrogen</strong> — Modelo económico y rápido de DeepMind para búsqueda con IA; reproduce simulaciones científicas complejas.</li>
+<li><strong>Gemini Neon</strong> — Modelo frontier de DeepMind con mejoras en seguridad y reducción de comportamiento &#x27;yes-man&#x27;.</li>
+<li><a href="https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf" target="_blank" rel="noopener"><strong>Informe de seguridad de Gemini Neon</strong></a> — Documento de 74 páginas con detalles sobre seguridad y experimentos de replay de trampas.</li>
+<li><a href="https://lambda.com/papers" target="_blank" rel="noopener"><strong>Lambda GPU Cloud</strong></a> — Servicio de GPU en la nube para ejecutar experimentos propios.</li>
+</ul>
+</div>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <span>Frame &amp; Prompt</span>
+      <a href="https://alvypender.github.io/feeds/articulos/art-u6UYsl-KEoc.html" style="color: inherit; text-decoration: none;">Enlace permanente</a>
+    </footer>
+  </div>
+</body>
+</html>
