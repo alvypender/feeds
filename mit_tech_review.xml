@@ -3,7 +3,91 @@
 <title>MIT Technology Review en español (Completo)</title>
 <link href="https://www.technologyreview.es/"/>
 <id>https://www.technologyreview.es/</id>
-<updated>2026-11-27T05:48:47+00:00</updated>
+<updated>2026-11-27T08:00:00+00:00</updated>
+<entry>
+  <title>The Download: se abren las nominaciones para Innovators Under 35, y una ventana biónica a la mente</title>
+  <link href="https://www.technologyreview.es/article/the-download-se-abren-las-nominaciones-para-innovators-under-35-y-una-ventana-bionica-a-la-mente"/>
+  <id>https://www.technologyreview.es/article/the-download-se-abren-las-nominaciones-para-innovators-under-35-y-una-ventana-bionica-a-la-mente</id>
+  <published>2026-11-27T08:00:00+00:00</published>
+  <updated>2026-11-27T08:00:00+00:00</updated>
+  <link rel="enclosure" type="image/png" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362"/>
+  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" medium="image" type="image/png"/>
+  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362"/>
+  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362</webfeeds:featuredImage>
+  <summary>Además: las restricciones de Nvidia al acceso de China a los chips están reconfigurando la IA en Asia.</summary>
+  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/series%2Fthe-download%2Fthe-download-header.png?alt=media&amp;token=21d721ef-48b2-48f3-8a08-6f1784f34362" alt="The Download: se abren las nominaciones para Innovators Under 35, y una ventana biónica a la mente" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
+&lt;p style="color: #64748b; font-size: 0.9em; font-weight: 500; margin-bottom: 1em;"&gt;Por Thomas Macaulay&lt;/p&gt;
+&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Además: las restricciones de Nvidia al acceso de China a los chips están reconfigurando la IA en Asia.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Esta es la edición de hoy de &lt;/em&gt;&lt;a href="https://forms.technologyreview.com/newsletters/briefing-the-download/"&gt;&lt;em&gt;The Download&lt;/em&gt;&lt;/a&gt;,&lt;em&gt; nuestro boletín de lunes a viernes que ofrece una dosis diaria de lo que ocurre en el mundo de la tecnología.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Ya está abierta nuestra convocatoria de Innovators Under 35 de 2027&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Cada año, &lt;em&gt;MIT Technology Review&lt;/em&gt; reconoce a 35 de los jóvenes científicos, emprendedores e inventores más brillantes del mundo en nuestra lista Innovators Under 35. Y, a partir de hoy, queda oficialmente abierto el plazo de candidaturas para nuestra edición de 2027.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Buscamos investigadores y fundadores que estén diseñando soluciones para los problemas más acuciantes de la sociedad, desde las enfermedades humanas hasta el cambio climático. Asimismo, reconocemos a quienes han desarrollado inventos ingeniosos y útiles, importantes descubrimientos científicos o avances tecnológicos en las primeras etapas de su carrera.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Los candidatos pueden residir en cualquier parte del mundo, pero deben tener menos de 35 años el 1 de octubre de 2027. ¿Tienes a alguien en mente? ¿O crees que encajas a la perfección y quieres presentar tu propia candidatura? &lt;a href="https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/"&gt;Aquí te explicamos cómo proponer una candidatura para nuestra lista de 2027&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Amy Nordrum&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 class="wp-block-heading"&gt;&lt;strong&gt;Cómo las prótesis de última generación pueden ayudar a explorar la mente humana&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Hay muchas cosas extraordinarias en Avi Davidson. Una terrible lesión durante su adolescencia le dejó paralizado y sin la mano izquierda. Hoy, su experiencia nutre su labor como terapeuta especializado en traumas. También participa en un ensayo clínico de una nueva tecnología que le permite mover —y sentir con— una mano protésica.&lt;br&gt;&lt;br&gt;Antes de que comenzara el ensayo, los investigadores escanearon su cerebro para ver cómo estaba representada en él la mano izquierda que le faltaba. ¿Cambiará eso? ¿Y qué podría significar para las personas que nacen sin extremidades?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"&gt;Esto es lo que una mano biónica podría revelar sobre la mente&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Jessica Hamzelou&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"&gt;&lt;strong&gt;Este artículo&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;procede de The Checkup, nuestro boletín semanal de biotecnología.&lt;/strong&gt; &lt;a href="https://forms.technologyreview.com/newsletters/biotech-the-checkup/"&gt;&lt;strong&gt;Suscríbete&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;para recibirlo en tu bandeja de entrada todos los jueves.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Las lecturas imprescindibles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He rastreado internet para traerte las historias sobre tecnología más divertidas/importantes/inquietantes/fascinantes de hoy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 Las restricciones de Nvidia al acceso de China a sus chips están transformando la IA en Asia&lt;br&gt; &lt;/strong&gt;Acaba de paralizar los envíos de servidores a cuatro países del sudeste asiático. (&lt;a href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1"&gt;FT&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Singapur está presionando a EE. UU. para mantener su acceso a los chips de IA.&lt;/em&gt; (&lt;a href="https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Las economías asiáticas se han vuelto cada vez más dependientes de Nvidia.&lt;/em&gt; (&lt;a href="https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo"&gt;&lt;em&gt;BBC&lt;/em&gt;&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Pero las acciones de los fabricantes chinos de chips se han disparado en su mejor jornada histórica.&lt;/em&gt; (&lt;a href="https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html"&gt;CNBC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Y las exportaciones vinculadas a la IA siguen en auge en toda Asia—por ahora.&lt;/em&gt; (&lt;a href="https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697?mod=rss_Technology"&gt;WSJ&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ ¿Qué le depara el futuro a la IA de código abierto china?&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2 Unos hackers vulneran la plataforma en la nube insignia de la Fuerza Aérea de EE. UU.&lt;/strong&gt;&lt;br&gt;Alberga datos confidenciales tácticos, logísticos y de personal. (&lt;a href="https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Otro ciberataque independiente sustrae datos de la FIFA.&lt;/em&gt; (&lt;a href="https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information"&gt;Guardian&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Un nuevo ciberataque afecta a los sistemas de pensiones y prestaciones del Reino Unido.&lt;/em&gt; (&lt;a href="https://www.bbc.co.uk/news/articles/ck1l0e946dqmo"&gt;BBC&lt;/a&gt;)&lt;br&gt;&lt;strong&gt;&lt;br&gt;3 Los bots de compra con IA inician una prueba de fuego de un billón de dólares en la campaña navideña&lt;br&gt;&lt;/strong&gt;Google, Amazon, Meta y OpenAI compiten por transformar la forma de comprar. (&lt;a href="https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai"&gt;Bloomberg&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Muchos consumidores recurren a la IA para encontrar ofertas de Black Friday.&lt;/em&gt; (&lt;a href="https://www.reuters.com/business/retail-consumer/black-friday-test-retailers-tight-budgets-meet-ai-savvy-shoppers-2026-11-27/"&gt;Reuters&lt;/a&gt; $)&lt;br&gt;&lt;em&gt;+ Los minoristas reclaman nuevas salvaguardas.&lt;/em&gt; (&lt;a href="https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails"&gt;Guardian&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4 Los drones armados de bajo coste aterrorizan a civiles en todo el mundo&lt;br&gt;&lt;/strong&gt;Los ataques con drones aumentaron un 4000 % a escala global entre 2020 y 2024. (&lt;a href="https://www.abc.net.au/news/2026-11-27/global-drone-warfare-surge-fpv-quadcopters-ai-sudan-ukraine-gaza/107203470"&gt;ABC&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ Europa tiene una visión plagada de drones para las guerras del futuro.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/01/06/1129737/autonomous-warfare-europe-drones-defense-automated-kill-chains/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 La IA pronto podría romper el cifrado de internet&lt;br&gt;&lt;/strong&gt;Nuevos algoritmos podrían romper la criptografía de clave pública. (&lt;a href="https://www.nature.com/articles/d41586-026-03875-6"&gt;Nature&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ La web agéntica ya está aquí.&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 Un experimento con átomos ultrafríos podría desentrañar un misterio cuántico&lt;br&gt;&lt;/strong&gt;Los físicos pretenden averiguar cuánto tardan las partículas en desplazarse. (&lt;a href="https://www.newscientist.com/article/2600718-ultracold-atoms-could-help-unravel-a-major-flaw-in-quantum-theory/"&gt;New Scientist&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7 Nuevas imágenes revelan los daños de la prueba de desviación de asteroides de la NASA&lt;br&gt;&lt;/strong&gt;El cráter de la misión Hera tiene el tamaño de un estadio. (&lt;a href="https://gizmodo.com/nasas-dart-mission-left-a-stadium-sized-crater-on-an-asteroid-and-we-just-got-the-pictures-to-prove-it-2000845935"&gt;Gizmodo&lt;/a&gt;)&lt;br&gt;&lt;em&gt;+ ¿Cómo de cerca estuvo la Tierra del impacto de un asteroide?&lt;/em&gt; (&lt;a href="https://www.technologyreview.com/2025/07/08/1119757/asteroid-hunt-2024-yr4-earth-planet-protection/"&gt;MIT Technology Review&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8 Científicos han utilizado GTA para modelar los efectos del cambio climático&lt;br&gt;&lt;/strong&gt;Los mapas del juego pueden simular los efectos de la subida del nivel del mar. (&lt;a href="https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/"&gt;Wired&lt;/a&gt; $) &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;9 X ha añadido controles parentales para adolescentes&lt;br&gt;&lt;/strong&gt;Pero da voz a los adolescentes en el asunto. (&lt;a href="https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"&gt;TechCrunch&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 Jensen Huang ha vuelto, y su placa de Denny's también&lt;/strong&gt;&lt;br&gt;La cadena ha restaurado el homenaje a la supuesta cuna de Nvidia. (&lt;a href="https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html"&gt;NYT&lt;/a&gt; $)&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;La frase del día&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;«No puedo evitar que las lágrimas se derramen sobre mi abrigo».&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;—Yu Kai, director ejecutivo de la empresa china de diseño de chips Horizon Robotics, cita al poeta del siglo VIII Du Fu &lt;a href="https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af"&gt;en el Financial Times&lt;/a&gt; para expresar su entusiasmo por el regreso de Jensen Huang a Nvidia mientras la «Jensanity» arrasa a ambos lados del estrecho de Taiwán.&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Una cosa más&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/imported%2Farticles%2Fd010c192a3d442197d25904aed6caad8d54b52a1.jpg?alt=media&amp;token=932ab1f7-7f90-4479-b2ba-840e5e54801a" alt="" class="wp-image-1132655"/&gt;&lt;/figure&gt;
+
+&lt;h4 class="wp-block-heading"&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;El curioso caso de los Lamborghinis que desaparecen&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Una nueva oleada de robos está sacudiendo el sector de los coches de lujo —combinando alta tecnología con técnicas tradicionales de desguace clandestino para hacerse con vehículos mientras están en tránsito—.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;MIT Technology Review&lt;/em&gt; identificó más de una docena de casos relacionados con vehículos de alta gama, obtuvo documentos judiciales y habló con las fuerzas del orden, intermediarios, conductores y víctimas en varios estados para revelar cómo el fraude en el transporte está causando estragos en todo el país.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/"&gt;Descubre cómo una nueva oleada de fraude en el transporte está causando estragos en todo el país&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Craig Silverman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class="has-medium-font-size"&gt;&lt;strong&gt;Aún podemos tener cosas buenas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Un espacio de confort, diversión y distracción para alegrarte el día. (¿Tienes alguna idea?&lt;/em&gt; &lt;a href="mailto:thomas.macaulay@technologyreview.com"&gt;&lt;em&gt;Escríbeme&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;+ Un abuelo japonés ha convertido a sus dos gatos en &lt;a href="https://www.youtube.com/watch?v=o3pdV8lWcCI"&gt;adorados modelos fotográficos&lt;/a&gt;.&lt;br&gt;+ ¿Por qué «We Are the Champions» suena tan emocionante? Un &lt;a href="https://www.youtube.com/watch?v=ZhIAUEUn1jM"&gt;teórico musical lo analiza&lt;/a&gt;.&lt;br&gt;+ El campeón de Fórmula 1 Max Verstappen demostró &lt;a href="https://www.youtube.com/watch?v=7GIULwETan4"&gt;sus increíbles dotes al volante&lt;/a&gt; en una carrera contra 100 pilotos de karting aficionados.&lt;br&gt;+ Recorre el &lt;a href="https://www.youtube.com/watch?v=VV2IvNLGXz0"&gt;primer museo de Godzilla del mundo&lt;/a&gt;, que incluye un modelo a tamaño real del monstruo de 120 metros de largo.&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Innovators Under 35 2027 abre su convocatoria para jóvenes científicos y emprendedores</title>
   <link href="https://www.technologyreview.es/article/innovators-under-35-2027-abre-su-convocatoria-para-jovenes-cientificos-y-emprendedores"/>
@@ -545,50 +629,5 @@
 &lt;p&gt;En el nuevo informe, sin embargo, los tiempos de realización son en su mayoría estimaciones, ya que pagar a personas por tareas que podrían llevar cientos de horas, o que solo unos pocos expertos están cualificados para completar, resulta prohibitivamente caro y requiere demasiado tiempo. Otras tareas presentan deficiencias más específicas; por ejemplo, en la tarea de argumentación filosófica, solo una persona evaluó la mayoría de los argumentos, y a los agentes se les juzga según su grado de coincidencia con ese individuo en particular. Es posible que las puntuaciones cambiasen si se consultara a más expertos, pero eso también requiere mucho tiempo.&lt;/p&gt;
 
 &lt;p&gt;Todavía es pronto para evaluar modelos en tareas difíciles de validar o que requieren capacidad de juicio. Y, aunque los expertos con los que hablé consideran que la inclusión de estas tareas en el gráfico de horizontes temporales más reciente de METR es un claro paso en la dirección correcta, coinciden en que aún estamos lejos de obtener respuestas definitivas sobre si llegará, y a qué velocidad, la I+D automatizada en IA. «Este avance hacia tareas abiertas es prometedor», afirma Kapoor. Pero, añade, «todavía queda muchísimo por hacer para lograr una comprensión más completa».&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>Las empresas, ante el reto de la IA en los procesos, la formación y los nuevos perfiles</title>
-  <link href="https://www.technologyreview.es/article/las-empresas-ante-el-reto-de-la-ia-en-los-procesos-la-formacion-y-los-nuevos-perfiles"/>
-  <id>https://www.technologyreview.es/article/las-empresas-ante-el-reto-de-la-ia-en-los-procesos-la-formacion-y-los-nuevos-perfiles</id>
-  <published>2026-11-19T16:41:29+00:00</published>
-  <updated>2026-11-19T16:41:29+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1795106440368_portada_UAX_futuro_trabajo_recorte_1920x1080.jpg?alt=media&amp;token=71a7fcd3-eff4-44e8-acf3-7886ea9c3df0"/>
-  <media:content url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1795106440368_portada_UAX_futuro_trabajo_recorte_1920x1080.jpg?alt=media&amp;token=71a7fcd3-eff4-44e8-acf3-7886ea9c3df0" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1795106440368_portada_UAX_futuro_trabajo_recorte_1920x1080.jpg?alt=media&amp;token=71a7fcd3-eff4-44e8-acf3-7886ea9c3df0"/>
-  <webfeeds:featuredImage>https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1795106440368_portada_UAX_futuro_trabajo_recorte_1920x1080.jpg?alt=media&amp;token=71a7fcd3-eff4-44e8-acf3-7886ea9c3df0</webfeeds:featuredImage>
-  <summary>Un informe de la Universidad Alfonso X el Sabio, elaborado con MIT Technology Review en español a partir de entrevistas a directivos de AXA, Mahou San Miguel,…</summary>
-  <content type="html">&lt;figure style="margin: 0 0 1.5em 0; text-align: center;"&gt;&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1795106440368_portada_UAX_futuro_trabajo_recorte_1920x1080.jpg?alt=media&amp;token=71a7fcd3-eff4-44e8-acf3-7886ea9c3df0" alt="Las empresas, ante el reto de la IA en los procesos, la formación y los nuevos perfiles" style="max-width: 100%; height: auto; border-radius: 6px;"/ class="webfeedsFeaturedVisual"&gt;&lt;/figure&gt;
-&lt;p style="font-size: 1.15em; font-weight: 500; color: #334155; line-height: 1.5; margin-bottom: 1.5em;"&gt;&lt;em&gt;Un informe de la Universidad Alfonso X el Sabio, elaborado con MIT Technology Review en español a partir de entrevistas a directivos de AXA, Mahou San Miguel,…&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Patrocinado por:&lt;img src="https://firebasestorage.googleapis.com/v0/b/techreview-mgz-1771952.firebasestorage.app/o/articles%2F1795106944982_logo_UAX_600px_recortado.png?alt=media&amp;amp;token=e4f1793d-051d-4175-9f1b-e39f7a213da4" alt="Universidad Alfonso X el Sabio" style="display:block;height:28px;width:auto;margin:8px 0 0 0;"&gt;&lt;/p&gt;
-
-&lt;p&gt;La inteligencia artificial lo ha cambiado todo. Ha transformado las reglas del juego en el trabajo, pero también en la forma en que se forman los nuevos profesionales o cómo los más jóvenes acceden al mercado laboral. Todo ello en un marco en el que las empresas todavía están afinando cómo sacar el mayor valor de una tecnología como la IA sin caer en la tentación de transformar procesos e incorporarla sin criterio ni medición.&lt;/p&gt;
-
-&lt;p&gt;Por eso, cada vez más, la IA se observa como una herramienta más de las empresas, pero &lt;strong&gt;siempre bajo supervisión y criterio humanos&lt;/strong&gt;. Esta idea es una de las claves del informe &lt;a href="https://www.uax.com/download/219967/file/Informe%20UAX%20y%20MIT%20Technology%20Review%202026.pdf" target="_blank" rel="noopener sponsored"&gt;&lt;em&gt;El futuro del trabajo. Cómo la tecnología está rediseñando las organizaciones, los perfiles y el talento&lt;/em&gt;&lt;/a&gt;, que la Universidad Alfonso X el Sabio (UAX) ha elaborado junto a &lt;em&gt;MIT Technology Review en español&lt;/em&gt;. El estudio cruza entrevistas a cinco directivos con datos de McKinsey, el Foro Económico Mundial, Randstad o Microsoft, entre otras fuentes.&lt;/p&gt;
-
-&lt;p&gt;Uno de los retos de las compañías pasa por escalar los pilotos y convertirlos en proyectos sólidos. En la encuesta de McKinsey que cita el informe, &lt;strong&gt;el 62 % de las organizaciones experimenta al menos con agentes de IA, pero solo el 23 % ha empezado a escalarlos en alguna parte de la empresa&lt;/strong&gt;. Para los entrevistados, &lt;strong&gt;lo que separa un piloto de una implantación real es sobre todo una cuestión de gestión&lt;/strong&gt;. Ana Ortín, Chief Data and AI Officer (CDAIO) de Mahou San Miguel, lo tiene claro: para que los pilotos sean aprobados deben tener definidos de antemano sus indicadores de éxito y de salida y un plan para incorporarlos al trabajo diario. Por su parte, José María Clavería, director financiero de UFD, la distribuidora eléctrica de Naturgy, explica que con la IA hay que medir muy bien los indicadores, el retorno de la inversión y, después, lanzar la iniciativa.&lt;/p&gt;
-
-&lt;p&gt;En AXA, &lt;strong&gt;buena parte del presupuesto de inteligencia artificial no se gasta en tecnología&lt;/strong&gt;. Rodrigo Fuentes, director de Personas de la aseguradora, explica que una gran parte de esa inversión va a liderazgo y cultura. Desde hace más de dos años, toda la plantilla tiene acceso a un asistente de IA generativa cerrado, y repartir la herramienta resultó ser lo sencillo. "&lt;strong&gt;No podemos vivir de casos de uso sueltos; tenemos que vivir de la reingeniería de procesos&lt;/strong&gt;", afirma Fuentes. Aplicar la IA en un solo tramo, añade, crea un embudo: el cliente nota la mejora en un punto y su experiencia general no cambia.&lt;/p&gt;
-
-&lt;h2&gt;Transformación de los roles&lt;/h2&gt;
-
-&lt;p&gt;El informe describe cómo los puestos de las organizaciones se están transformando y ya integran la tecnología en todas las capas. Clavería lo resume como &lt;strong&gt;el paso de una visión reactiva, que analiza lo que ya ocurrió, a otra predictiva&lt;/strong&gt;, en la que la clave es adelantarse a los cambios y estar preparados ante posibles transformaciones. Ortín observa que la frontera entre negocio y tecnología se estrecha en las dos direcciones: los equipos técnicos saben cada vez más de negocio y los de negocio, más de tecnología, sea cual sea la profesión.&lt;/p&gt;
-
-&lt;p&gt;Según el Work Trend Index 2026 de Microsoft, que recoge el estudio, a medida que los agentes de IA asumen tareas de ejecución, &lt;strong&gt;el papel de las personas se desplaza hacia definir objetivos, fijar el nivel de calidad, tomar decisiones y responder por los resultados&lt;/strong&gt;. Las dos habilidades humanas que más peso ganan, según los encuestados, son &lt;strong&gt;el control de calidad sobre lo que produce la IA (50 %) y el pensamiento crítico (46 %)&lt;/strong&gt;. El informe agrupa estas capacidades bajo el nombre de alfabetización en IA: saber usar, evaluar y supervisar estos sistemas, detectar sus límites y sesgos e interpretar sus respuestas con criterio propio.&lt;/p&gt;
-
-&lt;p&gt;A pesar de esta evolución en los roles, los perfiles que combinen una disciplina con habilidades técnicas siguen escaseando. Fuentes apunta a que los arquitectos de datos y los ingenieros de IA no son fáciles de encontrar. Aun así, el informe pone el acento en &lt;strong&gt;los perfiles mixtos, que sumen conocimiento tecnológico y de negocio&lt;/strong&gt;. En ILUNION Hotels, su director de Personas, Juan José Cestero, cuenta que la cadena ya prepara a empleados para manejar la IA, enseñar a otros a usarla y controlarla: el germen de lo que empieza a llamarse gestor de IA. Luis Couceiro, director general del Área de Universidades del Grupo UAX, no prevé que desaparezcan puestos, sino que muchos se transformen en funciones con mayor valor añadido.&lt;/p&gt;
-
-&lt;h2&gt;El reto de la universidad&lt;/h2&gt;
-
-&lt;p&gt;Fuentes identifica un desfase de calendario: desde que la universidad detecta una necesidad hasta que gradúa a la primera promoción formada en ella pasan &lt;strong&gt;como mínimo tres o cuatro años&lt;/strong&gt;. Couceiro lo atribuye a la rigidez con que se aprueban las titulaciones; la respuesta de UAX ha sido añadir a los grados títulos propios que pueden actualizarse de un mes a otro, además de integrar la IA en todos los planes. El alumnado también nota el retraso: según la Fundación CYD, &lt;strong&gt;el 71 % de los estudiantes cree que su universidad debería actualizar mejor su formación&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;En las empresas, el reciclaje profesional se ha convertido en una decisión de dirección: AXA planifica su plantilla a tres años, con una partida presupuestaria para formación. El Foro Económico Mundial señala que &lt;strong&gt;el 63 % de los empleadores considera la brecha de habilidades el principal obstáculo para transformar su negocio&lt;/strong&gt;. Por su parte, Cestero advierte de que los cambios culturales llevan su tiempo: calcula unos cinco años para asumirlos.&lt;/p&gt;
-
-&lt;h2&gt;Una generación sin margen a equivocarse&lt;/h2&gt;
-
-&lt;p&gt;El informe dedica un capítulo a la que llama Generación Tech. Los entrevistados valoran su soltura tecnológica, que se complementa con la experiencia que aportan los profesionales sénior, y comparten una preocupación: &lt;strong&gt;su baja tolerancia a la frustración&lt;/strong&gt;. Según Randstad, en los primeros cinco años de carrera la generación Z permanece de media 1,1 años en cada empleo, frente a 1,8 los millennials y 2,8 la generación X. Ortín atribuye esa impaciencia más al entorno que a la edad: "No les estamos dando tiempo a aprender cosas que los demás hemos tenido la oportunidad de experimentar en un entorno mucho más lento". Hoy en día, &lt;strong&gt;aprender a equivocarse hay que enseñarlo de forma deliberada&lt;/strong&gt;, explica Ortín.&lt;/p&gt;
-
-&lt;p&gt;A medida que la IA se va integrando en la operativa de las empresas, algunas cosas van quedando más claras, pero todavía quedan algunos interrogantes. Si el valor del trabajo humano pasa al criterio y la supervisión, falta saber cómo se forma ese criterio en profesionales que llegan con menos margen para equivocarse y aprender. Tampoco está resuelta la confianza en una tecnología tan disruptiva como la IA: según el Workmonitor 2026 de Randstad, &lt;strong&gt;el 47 % de los profesionales en España cree que la adopción de la IA beneficia más a las empresas que a los trabajadores&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Para cerrar esta brecha, la formación es clave. Por eso, una de las conclusiones del informe pasa por trabajar esa formación desde la universidad y mantenerla a lo largo de la carrera profesional. Una manera de estar en constante actualización y poder anticipar los cambios que se vienen.&lt;/p&gt;</content>
 </entry>
 </feed>
