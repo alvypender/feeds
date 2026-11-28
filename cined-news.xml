@@ -3,7 +3,113 @@
 <title>News | CineD – Completo</title>
 <link href="https://www.cined.com/news/"/>
 <id>https://www.cined.com/news/</id>
-<updated>2026-11-27T17:08:41+00:00</updated>
+<updated>2026-11-27T22:54:50+00:00</updated>
+<entry>
+  <title>The New York Times Bans Photoshop 2027 for Freelancers – Hidden AI Could Mark Real Photos as AI-Generated</title>
+  <link href="https://www.cined.com/new-york-times-photoshop-2027-freelance-photographers-generative-ai-c2pa-metadata/"/>
+  <id>https://www.cined.com/new-york-times-photoshop-2027-freelance-photographers-generative-ai-c2pa-metadata/</id>
+  <published>2026-11-27T22:54:50+00:00</published>
+  <updated>2026-11-27T22:54:50+00:00</updated>
+  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/new-york-times-photoshop-2027-featured-v3.jpg"/>
+  <media:content url="https://www.cined.com/content/uploads/2026/11/new-york-times-photoshop-2027-featured-v3.jpg" medium="image" type="image/jpeg"/>
+  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/new-york-times-photoshop-2027-featured-v3.jpg"/>
+  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/new-york-times-photoshop-2027-featured-v3.jpg</webfeeds:featuredImage>
+  <summary>The New York Times has told its freelance photographers not to use Adobe Photoshop 2027 (version 28.0.0 and later) on assignments for the paper. According to the email, some functions in the new release use generative AI in ways that are not apparent to users, and that use can ad</summary>
+  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/new-york-times-photoshop-2027-featured-v3.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
+&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;The New York Times has told its freelance photographers not to use Adobe Photoshop 2027 (version 28.0.0 and later) on assignments for the paper. According to the email, some functions in the new release use generative AI in ways that are not apparent to users, and that use can add metadata that identifies a photo as AI-generated. The paper confirmed the rule, Adobe has not commented yet, and I think the real problem sits in how Adobe labels its own tools.&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The email reached freelancers earlier this week and became public when Threads user nolen_strals posted a screenshot of it, which a freelancer had shared with them. It is signed by Meaghan Looram and Nakyung Han of the Times&amp;#8217; photo department. The key sentence reads: &amp;#8220;At this time, we are requiring that all contributing photographers avoid using Adobe Photoshop 2027 (release 28.0.0 and subsequent updates) when working on assignment for The Times.&amp;#8221; NYT spokesperson Graham James confirmed the requirement in a statement to &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features" target="_blank" rel="noopener"&gt;The Verge&lt;/a&gt;, so this is not a rumor from social media. The rule applies to work on assignment for the Times. The email does not say anything about other clients.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img fetchpriority="high" decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email.jpg" alt="The email to New York Times freelance photographers, as posted on Threads. The recipient address was blacked out in the original post." class="wp-image-449845" srcset="https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email.jpg 1920w, https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/nyt-photoshop-2027-freelancer-email-1600x900.jpg 1600w" sizes="(max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The email to New York Times freelance photographers, as posted on Threads. The recipient address was blacked out in the original post. Image credit: nolen_strals via Threads&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What the Times is worried about&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The email gives one reason. &amp;#8220;Certain functions&amp;#8221; in Photoshop 2027 &amp;#8220;utilize generative AI in ways that may not be apparent to users,&amp;#8221; and &amp;#8220;their use can result in metadata identifying photographs as AI-generated.&amp;#8221; For a newspaper that tells its readers it does not digitally manipulate news photos, a file that says &amp;#8220;edited with generative AI&amp;#8221; is a credibility problem, even if the photographer only removed a dust spot.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Neither the email nor the spokesperson statement names the functions. Adobe did not reply to The Verge&amp;#8217;s request for more information, and I found no Adobe statement on the matter as of November 27. So which tools set the flag remains open for now.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What changed in Photoshop 2027&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Photoshop 28.0 is the November 2026 release. Adobe&amp;#8217;s &lt;a href="https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html" target="_blank" rel="noopener"&gt;release notes&lt;/a&gt; list a long run of AI features:&lt;/p&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;&lt;li&gt;Relight, which adds and reshapes light sources in an existing photo&lt;/li&gt;&lt;li&gt;Generative Restyle with an intensity slider, driven by Prompt to edit&lt;/li&gt;&lt;li&gt;An upgraded Remove tool that now also removes shadows, reflections and ripples of the removed object&lt;/li&gt;&lt;li&gt;The AI Assisted Editor view and an AI Assistant for step-by-step editing guidance&lt;/li&gt;&lt;li&gt;Firefly Upscaler 2 for Generative Upscale&lt;/li&gt;&lt;li&gt;Generative Recompose, which repositions subjects and fills backgrounds for new aspect ratios&lt;/li&gt;&lt;/ul&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Some of these are obviously generative. Others are not. The Remove tool is the best example: photographers have used it as a retouching tool for years, and many will not think of it as &amp;#8220;generative AI&amp;#8221; at all. If the new shadow and reflection removal calls a generative model in the background, a news photographer who cleans up a sensor spot could end up with a file that carries an AI flag. That is my guess, not something Adobe or the Times has confirmed.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features.jpg" alt="Part of the Photoshop 28.0 release notes from November 2026." class="wp-image-449837" srcset="https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features.jpg 1920w, https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/adobe-photoshop-2027-release-notes-ai-features-1600x900.jpg 1600w" sizes="(max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Part of the Photoshop 28.0 release notes from November 2026. Image credit: Adobe&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;The metadata you cannot turn off&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The second part of the story is in an Adobe help page from August. In its &lt;a href="https://helpx.adobe.com/creative-cloud/apps/generative-ai/ai-content-labeling-faq.html" target="_blank" rel="noopener"&gt;generative AI content labeling FAQ&lt;/a&gt;, Adobe explains that new transparency laws, including the California AI Transparency Act and the EU AI Act, require durable, machine-readable metadata on content made or modified with generative AI. Adobe&amp;#8217;s answer is C2PA metadata (the open standard behind Content Credentials), attached automatically &amp;#8220;when qualifying generative AI tools are used to create or modify content in Adobe apps.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Three details from that FAQ matter here. First, Adobe says the rule applies &amp;#8220;only to generative AI tools, not traditional AI-powered features.&amp;#8221; Second, the user does not have to do anything, because the metadata is attached in the background. Third, and this is the key point for the Times: to the question whether automatic C2PA metadata can be turned off, Adobe answers &amp;#8220;No. Under the new laws, this metadata cannot be disabled for qualifying content.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img decoding="async" width="1920" height="1080" src="https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa.jpg" alt="Adobe&amp;#x27;s FAQ on automatic C2PA metadata for generative AI edits." class="wp-image-449833" srcset="https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa.jpg 1920w, https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/adobe-generative-ai-content-labeling-faq-c2pa-1600x900.jpg 1600w" sizes="(max-width: 1920px) 100vw, 1920px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Adobe&amp;#8217;s FAQ on automatic C2PA metadata for generative AI edits. Image credit: Adobe&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This is different from the optional Content Credentials that photographers can switch on or off per document in Photoshop to sign their work. The automatic generative AI record is a legal requirement, so a photographer cannot opt out of it once a qualifying tool has touched the image. Adobe also says it does not add a visible label, and that each platform decides how to show this metadata. In practice, though, any newsroom, image agency or social network that reads C2PA data will see &amp;#8220;modified with generative AI&amp;#8221; in the file.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;So the issue is not that the Times rejects C2PA. The issue is that Adobe has not made clear which tools count as &amp;#8220;qualifying generative AI tools&amp;#8221; and which count as &amp;#8220;traditional AI-powered features.&amp;#8221; A per-tool indicator in Photoshop that shows &amp;#8220;this step writes an AI record&amp;#8221; would solve much of this (Adobe, you already show a generative credit icon on these features, so this should not be hard).&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;What can freelancers do?&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;The Times&amp;#8217; rule is simple: do not install Photoshop 28.0 or later for Times assignments. Adobe still maintains a long-term support version of Photoshop 2026, currently 27.11.1, according to the same release notes. Creative Cloud lets users install older versions next to the current one, so staying on Photoshop 2026 is a practical option for now. The words &amp;#8220;at this time&amp;#8221; in the email suggest that the Times may change its guidance once it knows exactly which tools trigger the label.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;For everyone else, it is worth checking your own files. Adobe&amp;#8217;s Inspect tool reads the C2PA metadata in an image and shows whether a generative AI record is present. If you deliver to a news agency, a wire service or a client with a strict no-AI policy, do this check before you send files.&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;Why this also matters for filmmakers&lt;/h2&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;This is a stills story today, but the same logic applies to video. Adobe&amp;#8217;s automatic labeling covers &amp;#8220;Adobe apps,&amp;#8221; and &lt;a href="https://www.cined.com/adobe-premiere-27-0-released-color-mode-ai-assistant-panel-and-generative-audio-tools/" target="_blank" rel="noopener"&gt;Premiere 27.0&lt;/a&gt; brought its own generative audio tools and an AI Assistant panel only a few weeks ago. We have also seen Firefly move deeper into production workflows, as we reported from &lt;a href="https://www.cined.com/adobe-firefly-at-nab-2026-from-location-scout-to-premiere-timeline-with-ai/" target="_blank" rel="noopener"&gt;NAB 2026&lt;/a&gt;, and tools such as &lt;a href="https://www.cined.com/eddie-ai-v4-unveiled-native-premiere-and-resolve-projects-avid-extension-and-c2pa-signing/" target="_blank" rel="noopener"&gt;Eddie AI v4&lt;/a&gt; now sign their output with C2PA. Documentary and news crews who deliver to broadcasters with strict authenticity rules will face the same question: which button in my editor writes an AI record into my file?&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;In my opinion, provenance metadata is a good thing, and the Times has supported provenance efforts such as C2PA for years. But a provenance system is only useful when the people who make the images know what it records. When one of the largest newsrooms in the world tells its photographers to stay on last year&amp;#8217;s software because the vendor&amp;#8217;s labeling is unclear, I think Adobe needs to give a clear, tool-by-tool answer soon. I am almost certain this will not be the last newsroom to issue such a rule, but that is just my guess.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Do you know which of your Adobe tools write a generative AI record into your files? Have you checked your images or clips with Adobe&amp;#8217;s Inspect tool yet? Let me know what you think in the comments below.&lt;/strong&gt;&lt;/p&gt;</content>
+</entry>
 <entry>
   <title>Leitz Photographica Auction 49 – 220° Fisheye-Nikkor 6mm, One-Off Leica BOX Prototype and Lomo Anamorphics</title>
   <link href="https://www.cined.com/leitz-photographica-auction-49-fisheye-nikkor-6mm-leica-box-prototype-lomo-anamorphic/"/>
@@ -1707,149 +1813,5 @@
 
 
 &lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Does $9,999 make the GFX ETERNA 55 more interesting for you, or would you have kept the monitor and handle? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
-</entry>
-<entry>
-  <title>HONOR Magic9 Pro Max Global Rollout Begins – ARRI LogC3, APV 10-Bit 4:2:2, Dual 200MP Cameras</title>
-  <link href="https://www.cined.com/honor-magic9-pro-max-global-rollout-begins-arri-logc3-apv-10-bit-422-dual-200mp-cameras/"/>
-  <id>https://www.cined.com/honor-magic9-pro-max-global-rollout-begins-arri-logc3-apv-10-bit-422-dual-200mp-cameras/</id>
-  <published>2026-11-24T11:07:27+00:00</published>
-  <updated>2026-11-24T11:07:27+00:00</updated>
-  <link rel="enclosure" type="image/jpeg" href="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-three-colors-featured-16x9-1.jpg"/>
-  <media:content url="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-three-colors-featured-16x9-1.jpg" medium="image" type="image/jpeg"/>
-  <media:thumbnail url="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-three-colors-featured-16x9-1.jpg"/>
-  <webfeeds:featuredImage>https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-three-colors-featured-16x9-1.jpg</webfeeds:featuredImage>
-  <summary>HONOR starts the global rollout of the Magic9 Pro Max in Malaysia, with more markets to follow in the coming weeks. The phone records ARRI LogC3 in ARRI Wide Gamut 3 with 10-bit color in a dedicated ARRI CINEMA Mode, uses two 200MP rear cameras, and records APV 10-bit 4:2:2, whil</summary>
-  <content type="html">&lt;p&gt;&lt;img src="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-three-colors-featured-16x9-1.jpg" alt="" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;
-&lt;p class="has-drop-cap wp-block-paragraph"&gt;&lt;strong&gt;HONOR starts the global rollout of the Magic9 Pro Max in Malaysia, with more markets to follow in the coming weeks. The phone records ARRI LogC3 in ARRI Wide Gamut 3 with 10-bit color in a dedicated ARRI CINEMA Mode, uses two 200MP rear cameras, and records APV 10-bit 4:2:2, while new teleconverters, a SmallRig video kit and gimbals go on sale alongside it.&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;We have previously reported on the &lt;a href="https://www.cined.com/arri-and-honor-announce-strategic-technical-collaboration-arri-image-science-comes-to-smartphones-for-the-first-time/" target="_blank" rel="noopener"&gt;technical collaboration between ARRI and HONOR&lt;/a&gt;, on the &lt;a href="https://www.cined.com/honor-robot-phone-launches-arri-logc3-wide-gamut-3-and-a-motorized-titanium-gimbal-camera/" target="_blank" rel="noopener"&gt;HONOR Robot Phone&lt;/a&gt; as its first product, and on the &lt;a href="https://www.cined.com/honor-magic9-pro-max-launches-arri-co-branding-native-logc3-recording-dual-200mp-cameras/" target="_blank" rel="noopener"&gt;launch of the Magic9 Pro Max in China&lt;/a&gt; in September. I also filmed with the phone in Los Angeles for our &lt;a href="https://www.cined.com/honor-magic9-pro-max-first-look-arri-color-science-at-a-fraction-of-the-price/" target="_blank" rel="noopener"&gt;HONOR Magic9 Pro Max first look&lt;/a&gt;, which covers the ARRI CINEMA Mode interface and my list of current shortcomings in detail. With the Malaysian launch, HONOR now releases the global spec sheet, the first international price, and the accessory lineup for markets outside China. The Magic9 Pro Max also marks the tenth anniversary of the HONOR Magic Series.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;HONOR describes the phone&amp;#8217;s imaging pipeline as an &amp;#8220;end-to-end professional cinema workflow co-engineered with ARRI.&amp;#8221; In practice, ARRI&amp;#8217;s contribution is color management: sensor calibration, the LogC3 encoding, and the ARRI Looks. The optics, the sensors, and the processing come from HONOR.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left-900x506.jpg" alt="" class="wp-image-448920" srcset="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-rear-left.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The HONOR Magic9 Pro Max in Moss Green. Image credit: HONOR&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;What ARRI CINEMA Mode records&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In ARRI CINEMA Mode, the Magic9 Pro Max records up to 4K at 60fps with the ARRI LogC3 curve, 10-bit color depth, and ARRI Wide Gamut 3. This is the encoding of the ALEXA Mini and AMIRA generation, so existing LogC3 conversion LUTs and color-managed timelines in grading applications work with the footage. The mode puts exposure, focus, frame rate, codec, and monitoring controls into one interface.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For recording, HONOR uses the APV codec at 10-bit 4:2:2. According to HONOR, APV files use about 20% less storage than ProRes at a similar image-quality target, depending on the recording settings and test conditions. APV support also comes from the Snapdragon platform, and editing applications such as &lt;a href="https://www.cined.com/lumafusion-for-android-2-5-brings-head-and-tail-transitions-multi-clip-editing-and-apv-codec-support/" target="_blank" rel="noopener"&gt;LumaFusion for Android&lt;/a&gt; and DaVinci Resolve already decode it. (Adobe Premiere, not!)&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The phone has 14 preset ARRI Looks: two ARRI conversion Looks and 12 stylized Looks. All of them are available as a real-time preview while you record in LogC3, or they can be burned into the recording. The &lt;a href="https://www.honor.com/global/phones/arri-look-download/" target="_blank" rel="noreferrer noopener"&gt;ARRI Look Library&lt;/a&gt; adds 87 predefined creative grades, and the phone also accepts third-party LogC3 LUTs.&lt;/p&gt;
-
-
-&lt;!-- wp:embed/video --&gt;
-&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
-&lt;iframe title="HONOR Magic9 Pro Max First Look – ARRI Color Science at a Fraction of the Price" width="500" height="281" src="https://www.youtube-nocookie.com/embed/Ou4PyK_Y1fo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/figure&gt;
-&lt;!-- /wp:embed/video --&gt;
-
-
-&lt;h2 class="wp-block-heading"&gt;Dual 200MP cameras and the HONOR Imaging Chip H1&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The main camera uses a 200MP 1/1.28-inch sensor behind an f/1.57 lens with OIS and what HONOR calls 3-degree gimbal-level stabilization. The telephoto camera also has 200MP, with a 1/1.4-inch sensor, an f/2.6 lens, and OIS. HONOR rates both cameras at CIPA 8.0 for stabilization. A 50MP ultra-wide camera with an f/2.0 lens completes the rear module. In our first look, the ultra-wide camera was not available in ARRI CINEMA Mode.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Image processing runs on the self-developed HONOR Imaging Chip H1, which is made on a 6nm process and rated at 18.8 TOPS/W. According to HONOR, the chip applies AI noise reduction in the RAW domain in real time. HONOR&amp;#8217;s test data claims an 8dB improvement in signal-to-noise ratio and up to 14 stops of dynamic range. These are manufacturer figures, and we have not measured the phone in our lab yet.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Outside ARRI CINEMA Mode, the phone records 4K at up to 120fps in supported modes. On the front, a 55MP f/2.0 camera uses a square sensor format. You can hold the phone upright and still reframe the shot for vertical or horizontal deliverables later.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module-900x506.jpg" alt="" class="wp-image-448932" srcset="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-glacier-silver-camera-module.jpg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The 200MP main camera and the 200MP telephoto camera, here on the Glacier Silver model. Image credit: HONOR&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Cinematic LiveVideo and Magic Color&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;Cinematic LiveVideo is a short-clip function inside ARRI CINEMA Mode. A press and hold on the shutter captures three seconds of motion at up to 4K, in 16:9 or 2.39:1, with the active ARRI Look applied and an optional ARRI watermark. Magic Color for Video takes a different approach to color: it analyzes the color of a reference clip and applies a matching look to new footage, which helps to keep shots consistent across a sequence.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Four microphones for directional sound&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;For audio, HONOR combines one directional microphone with three omnidirectional microphones. According to HONOR, this Cinematic Directional Microphone isolates a chosen sound source at distances of up to 20m / 66ft and suppresses sound outside a ±60° range. Four directional presets and a custom mode are available for interviews, performances, and location sound. Mind you that audio levels cannot be controlled manually in any of the video recording modes. &lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis-900x506.jpeg" alt="" class="wp-image-448937" srcset="https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis-900x506.jpeg 900w, https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis-300x169.jpeg 300w, https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis-768x432.jpeg 768w, https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis-1536x864.jpeg 1536w, https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis-340x190.jpeg 340w, https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis-460x259.jpeg 460w, https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis-409x230.jpeg 409w, https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis-1600x900.jpeg 1600w, https://www.cined.com/content/uploads/2026/11/HONOR-Rig-kis.jpeg 1920w" sizes="(max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;HONOR Rig kits. Credit: HONOR&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Teleconverters, a SmallRig kit and two gimbals&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;HONOR announces a set of optional creation tools for the international launch, and they go on sale together with the phone. The HONOR Teleconverter G200 is a 200mm add-on lens that measures about 81mm / 3.2in in length and weighs about 88g / 3.1oz. HONOR calls it the smallest and lightest 200mm smartphone teleconverter. The HONOR Teleconverter G500 has a 500mm equivalent focal length, which HONOR says is the longest of any smartphone teleconverter. HONOR names stage performances and wildlife as typical subjects for it.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The HONOR SmallRig Mobile Video Kit is a cage with mounting points for additional filming accessories, and it includes a cooling accessory for longer recordings. A handheld smart gimbal and an external mini-gimbal complete the accessory range.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear-900x506.jpg" alt="" class="wp-image-448924" srcset="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-horizontal-rear.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The HONOR Magic9 Pro Max in Moss Green with its 1+2 camera arrangement. Image credit: HONOR&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Design, display and performance&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The design takes its cue from the three-lens turret of the ARRIFLEX cameras, which date back to 1937. The 1+2 camera arrangement combines one large camera ring with two smaller lenses to group the main, telephoto, and ultra-wide cameras. The all-metal unibody measures 161.64 x 76.98 x 8.59mm / 6.36 x 3.03 x 0.34in and weighs 233g / 8.2oz. The phone is rated IP68, IP69, and IP69K for water and dust resistance.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The 6.8-inch LTPO OLED display has a resolution of 1320 x 2868 pixels, a refresh rate of 1 to 120Hz, 100% DCI-P3 coverage, and 4,320Hz PWM dimming. HONOR specifies up to 10,000 nits peak brightness, 2,000 nits full-screen brightness and a reflectance of 1.5%, with an anti-reflective coating and the HONOR Anti-Scratch NanoCrystal Shield. For a phone that is also its own monitor, the low reflectance is the more relevant figure for outdoor work.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;The phone runs on the 2nm Snapdragon 8 Elite Extreme Gen 6 with a Qualcomm Oryon CPU at up to 5GHz. The global spec sheet lists an 8,000mAh silicon-carbon battery (typical value, rated at 7,745mAh) with 100W wired and 80W wireless HONOR SuperCharge. MagicOS 11 is based on Android 17. A dedicated AI Button opens HONOR&amp;#8217;s AI agents, Google Lens and Gemini, and HONOR Connect adds file sharing with Insta360 devices and support for the AirDrop framework.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="900" height="506" src="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display-900x506.jpg" alt="" class="wp-image-448928" srcset="https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display-900x506.jpg 900w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display-300x169.jpg 300w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display-768x432.jpg 768w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display-1536x864.jpg 1536w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display-340x190.jpg 340w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display-460x259.jpg 460w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display-409x230.jpg 409w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display-1600x900.jpg 1600w, https://www.cined.com/content/uploads/2026/11/honor-magic9-pro-max-moss-green-front-display.jpg 1920w" sizes="auto, (max-width: 900px) 100vw, 900px" /&gt;&lt;figcaption class="wp-element-caption"&gt;The 6.8-inch LTPO OLED display of the HONOR Magic9 Pro Max. Image credit: HONOR&lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Current limitations&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;ARRI CINEMA Mode records at up to 4K 60fps, while 4K 120fps is limited to other recording modes. The dynamic range and noise figures come from HONOR&amp;#8217;s own tests. In our first look, the ultra-wide camera was not available in ARRI CINEMA Mode, recorded audio levels could not be set manually, and stabilization could not be switched off completely. Battery capacity depends on the region: the global spec sheet lists 8,000mAh, while the Chinese model has 8,800mAh.&lt;/p&gt;
-
-
-
-&lt;h2 class="wp-block-heading"&gt;Price and availability&lt;/h2&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;In Malaysia, the HONOR Magic9 Pro Max costs RM5,999 (about $1,460 / €1,330 at current exchange rates) with 24GB of RAM and 512GB of storage. HONOR counts 12GB of HONOR Turbo RAM in the 24GB figure, so this is the 12GB+512GB configuration of the global spec sheet. Colors are Shadow Black, Glacier Silver, and Moss Green. In selected regions, Pre-orders run from November 24 to December 3, 2026. Other markets will follow in the coming weeks, but HONOR has not announced its prices yet. The Magic9 Pro Max will not be available in the US. In Europe, distribution moves to 2027, and HONOR has not given an exact date yet. For more information, please visit the &lt;a href="https://www.honor.com/my/" target="_blank" rel="noopener"&gt;HONOR Malaysia website&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p class="wp-block-paragraph"&gt;&lt;strong&gt;Would LogC3, ARRI Looks and APV recording on a phone change how you shoot B-roll or behind-the-scenes footage? Or does a dedicated camera still make more sense? Don&amp;#8217;t hesitate to let us know in the comments below!&lt;/strong&gt;&lt;/p&gt;</content>
 </entry>
 </feed>
